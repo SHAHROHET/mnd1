@@ -1,0 +1,459 @@
+{
+  "source_id": "healthdirect-australia:quality-and-safety-of-healthdirects-triage-service-statement",
+  "title": "Quality and safety of Healthdirect’s triage service statement | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24220,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/caring-for-others",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Introduction",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#introduction"
+    },
+    {
+      "text": "About the Healthdirect service",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#about"
+    },
+    {
+      "text": "Healthdirect Australia’s technology platform",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#technology"
+    },
+    {
+      "text": "Use of artificial intelligence in the technology platform",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#ai"
+    },
+    {
+      "text": "Workforce and technology use",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#workforce"
+    },
+    {
+      "text": "Information security",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#security"
+    },
+    {
+      "text": "Processes to assure quality and safety",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#assurance"
+    },
+    {
+      "text": "Our commitment to transparency",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#transparency"
+    },
+    {
+      "text": "AWS, Google and Microsoft secure cloud infrastructure",
+      "url": "https://about.Healthdirect.gov.au/content-platform"
+    },
+    {
+      "text": "AI Transparency Statement",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "probabilistic model",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement#probabilistic"
+    },
+    {
+      "text": "Assessing the Safety of a New Clinical Decision Support System for a National Helpline",
+      "url": "https://media.Healthdirect.org.au/publications/Assessing-the-Safety-of-a-New-Clinical-Decision-Support-System-for-a-National-Helpline_January-2024.pdf"
+    },
+    {
+      "text": "Healthdirect Australia Clinical Governance and Quality Framework",
+      "url": "https://media.Healthdirect.org.au/publications/Clinical-Governance-and-Quality-Framework.pdf"
+    },
+    {
+      "text": "Research publications",
+      "url": "https://about.Healthdirect.gov.au/research-publications"
+    },
+    {
+      "text": "Independent evaluations",
+      "url": "https://about.Healthdirect.gov.au/evaluations"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Quality and safety of Healthdirect’s triage service statement | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Quality and safety of Healthdirect’s triage service statement\n\n## On this page\n\n- Introduction\n\n- About the Healthdirect service\n\n- Healthdirect Australia’s technology platform\n\n- Use of artificial intelligence in the technology platform\n\n- Workforce and technology use\n\n- Information security\n\n- Processes to assure quality and safety\n\n- Our commitment to transparency\n\n## Introduction\n\nHealthdirect is a government-funded virtual health service run by Healthdirect Australia, providing an entry point to healthcare for Australians. It offers trustworthy, free advice and tools 24 hours a day. This helps people care for themselves and their families, find and connect with services that meet their needs, and get virtual care when other options aren’t accessible or available.\n\nThe Healthdirect helpline is staffed by nurses who provide advice and triage symptoms to recommend the most appropriate health option for the caller.\n\nThe Healthdirect Symptom Checker is an online tool designed to help Australians understand their symptoms and choose the next steps for their healthcare.\n\nIn 2021, Healthdirect Australia refreshed the technology platform that supports the Healthdirect helpline and online Symptom Checker. This included introducing a clinical decision support system that uses probabilistic artificial intelligence (AI).\n\nThe aim of this statement is to increase transparency in Healthdirect Australia’s operations and maintain the confidence of Australians in using the Healthdirect service.\n\nThis statement provides information about:\n\n- how the Healthdirect service works\n\n- our technology platform\n\n- our systems and use of AI\n\n- workforce and technology\n\n- our processes to ensure quality and safety of our technology\n\n## About the Healthdirect service\n\nThe Healthdirect service is primarily a clinical triage service, offered over the phone or via the online Symptom Checker. There are 4 steps it takes users through.\n\n- Emergency assessment : Determines if the person is suffering from any life-threatening emergency and if so, refers them to emergency 000.\n\n- Triage : Collects information about symptoms and other relevant information, such as medical history and risk factors.\n\n- Recommendation : Determines the appropriate care needed, based on the urgency of their symptoms.\n\n- Locating a healthcare service : Searches for an appropriate and available service, makes a booking (in some states) and/or provides self-care advice for symptom management.\n\n## Healthdirect Australia’s technology platform\n\nHealthdirect Australia owns and operates the technology platform underpinning the Healthdirect service. This consists of commercial software procured from major partners, and infrastructure and systems that we build.\n\nThe company uses a range of commercial technology to deliver the service. This technology allows it to accept and direct calls, support clinical decision-making, host video calls and capture details about consumers and their symptoms.\n\nHealthdirect uses software to retain records to comply with record keeping legislation, store de-personalised data for analytics purposes, manage enquiries and complaints, and audit performance.\n\nMajor software partners include:\n\n- Amazon Web Services (AWS)\n\n- Coviu\n\n- Google\n\n- Infermedica\n\n- Microsoft\n\n- RL Datix\n\n- Twilio\n\nHealthdirect also has secure methods, known as APIs, to send and receive information and data with other systems. APIs enable connection with booking engines to view appointment availability in health services, and the referral of patients to virtual emergency departments operated by state governments.\n\nOur systems are fully cloud based. Across our internally built and our ‘software as a service’ components hosted by our partners, our systems are hosted in AWS, Google and Microsoft secure cloud infrastructure .\n\n## Use of artificial intelligence in the technology platform\n\nHealthdirect Australia uses a variety of artificial intelligence (AI) to deliver its services. Our AI Transparency Statement explains why we use AI, how we use it, and how we ensure quality and safety.\n\n### AI-powered triage\n\nThe clinical decision support system (CDSS) supports Healthdirect’s nurses and powers the Symptom Checker to provide advice. It uses AI to compute and recommend the most appropriate care, based on a person’s symptoms. It uses a probabilistic model to make these recommendations. The model is based on expert clinical knowledge and a large database of empirical evidence.\n\nIt is constantly monitored and managed by qualified professionals both within Healthdirect and its technology partner, Infermedica. Our Clinical Governance team ensures that recommendations are transparent and explainable.\n\nHealthdirect chose an AI-powered CDSS because it provides a more detailed and accurate triage process. It is able to analyse multiple symptoms and risk factors. collects predisposing factors, past medical history, and travel history. These details are important for an accurate assessment.\n\nTo identify the best CDSS, Healthdirect conducted a global scan. A shortlist of CDSSs was rigorously tested for clinical quality and safety in collaboration with the Australian Institute of Health Innovation (AIHI) at Macquarie University. European-based Infermedica’s solution was selected.\n\nBefore the CDSS was integrated into the technology platform it was adapted to meet Healthdirect’s requirements. This involved the inclusion of Australian-specific conditions, use of appropriate language for health literacy, and alignment to triage outcomes in the Australian health system. The Infermedica CDSS was piloted on the Healthdirect helpline in one state in 2022, before scaling nationally in 2023. Nurse training was undertaken as part of this pilot, with feedback informing further improvements to the CDSS. Following further clinical assessment, it was launched as part of the online Healthdirect Symptom Checker.\n\nThe article ' Assessing the Safety of a New Clinical Decision Support System for a National Helpline ' shares more information about the selection of an AI-powered CDSS, assessments for safety and quality, and continued ongoing monitoring.\n\nBenefits of an AI-powered CDSS:\n\n- Intelligently evaluates different health possibilities, giving a clearer picture of the consumer’s situation.\n\n- Uses a large evidence base of medical information, updated as new research emerges, to understand how different symptoms relate to the consumer’s situation, and to each other. This ensures a well-informed assessment.\n\n- As more symptoms and factors are added, the CDSS intelligently improves its evaluation during the triage.\n\n- Recommendations are restricted to the rules of the probability model defined by qualified clinical experts and technologists.\n\nThis method offers helpful advice by carefully considering a person’s health. We chose this approach because it focuses on accuracy and safety, which is essential to ensuring the public’s confidence.\n\n### Outcome rules engine\n\nOne part of our technology platform that we have developed is called the Outcomes Rules Engine (ORE). This draws on the recommendations from the CDSS and matches them to appropriate and eligible categories of health services available in Australia.\n\nFor example, the CDSS may identify that a person’s symptoms suggest higher acuity conditions, and that they require medical care. The ORE can then match this recommendation with the care pathway options the person is eligible for. This may include a GP, Urgent Care Clinic, a Virtual GP or a Virtual Emergency department.\n\nEligibility criteria include:\n\n- output from the CDSS (clinical input)\n\n- day of week, time of day, location of user interaction (for service availability and accessibility)\n\n- policy requirements (where an outcome is to see a GP, the preference is for a person to see their regular GP if available)\n\n- suitability of symptoms for virtual care versus face-to-face care\n\n- entry requirements for some services (for example, virtual EDs have age and condition requirements for the type of patients they can manage).\n\n### National Health Service Directory\n\nHealthdirect Australia builds and manages digital infrastructure on behalf of Australian governments, including the National Health Service Directory (NHSD). The NHSD is a comprehensive, national directory of health services and practitioners.\n\nIt enables the fourth step of our helpline service: Locate a healthcare service. Over 150,000 health services are accessible via the NHSD, with up-to-date information to help identify a service, and, where available, book an appointment.\n\nThe NHSD also supports healthcare provider communication and the exchange of clinical information via secure messaging.\n\nTogether the AI-powered CDSS, ORE, and the NHSD enable triage and connection to appropriate care.\n\n## Workforce and technology use\n\nHealthdirect Australia has a dedicated virtual workforce of nurses and doctors who use our technology to provide advice 24/7. They must adhere to strict security and privacy policies and undergo training to ensure they use our systems effectively. We audit a sample of calls for quality and safety, and survey thousands of users each year, to monitor people’s experience and satisfaction.\n\nTo safeguard the integrity and confidentiality of our data, we have implemented robust security measures, such as multi-factor authentication, to protect against unauthorised access.\n\nThis combination of skilled professionals and cutting-edge technology ensures that people receive the highest quality care in a secure and reliable manner.\n\n## Information security\n\nHealthdirect Australia takes the security of the information it gathers very seriously. We build our systems with the best security practices and choose partners who do the same.\n\nOur security practices align with the Information Security Manual (ISM) of the Australian Signals Directorate. Healthdirect works closely with the Australian cyber security community to stay updated on new and emerging threats.\n\nWe employ dedicated technology to identify and fix potential security threats and have staff ready to respond around the clock. The cloud technology we use is hosted in Australia and has secure encryption of data both in transfer and in storage.\n\nWe follow the Australian Privacy Principles to handle your data responsibly. This means collecting only what we need to deliver the service and keeping it for the minimum required time before securely destroying it.\n\n## Processes to assure quality and safety\n\nHealthdirect Australia ensures the safety and quality of our AI-powered triage service. We have robust assurance processes to monitor and review our technology platform, clinical quality and safety, and the security and privacy of our service. This includes monitoring user feedback and conducting regular audits.\n\n### Independent review and continuous improvement\n\nHealthdirect is committed to evaluating and improving its services. We’ve partnered with the Australian Institute of Health Innovation (AIHI) at to undertake a comprehensive review of our AI-powered triage services, 2 years after the initial implementation.\n\nThis review will provide insight and recommend how to further enhance our AI-powered clinical decision support system (CDSS). It will independently assess the accuracy, safety and effectiveness of our system to assure it continues to meet the highest standard of quality and safety.\n\n## Our commitment to transparency\n\nWe believe in transparency and encourage you to explore the following resources for more information about our commitment to quality and safety:\n\n- Healthdirect Australia Clinical Governance and Quality Framework\n\n- Research publications : Papers in peer-reviewed journals on our services\n\n- Independent evaluations : Evaluations of our services by third parties\n\n- Healthdirect AI Transparency Statement: Artificial Intelligence Transparency Statement\n\n- Our Privacy Policy outlines the types of personal and sensitive information we collect, why we collect this information, and how we use, disclose and protect the information that we hold.\n\nLast reviewed: July 2025\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Please enter your name: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Introduction: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#introduction\n\n- About the Healthdirect service: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#about\n\n- Healthdirect Australia’s technology platform: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#technology\n\n- Use of artificial intelligence in the technology platform: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#ai\n\n- Workforce and technology use: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#workforce\n\n- Information security: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#security\n\n- Processes to assure quality and safety: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#assurance\n\n- Our commitment to transparency: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement#transparency\n\n- AWS, Google and Microsoft secure cloud infrastructure: https://about.Healthdirect.gov.au/content-platform\n\n- AI Transparency Statement: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- probabilistic model: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement#probabilistic\n\n- Assessing the Safety of a New Clinical Decision Support System for a National Helpline: https://media.Healthdirect.org.au/publications/Assessing-the-Safety-of-a-New-Clinical-Decision-Support-System-for-a-National-Helpline_January-2024.pdf\n\n- Healthdirect Australia Clinical Governance and Quality Framework: https://media.Healthdirect.org.au/publications/Clinical-Governance-and-Quality-Framework.pdf\n\n- Research publications: https://about.Healthdirect.gov.au/research-publications\n\n- Independent evaluations: https://about.Healthdirect.gov.au/evaluations\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

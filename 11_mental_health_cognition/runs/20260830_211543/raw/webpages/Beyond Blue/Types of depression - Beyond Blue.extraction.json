@@ -1,0 +1,255 @@
+{
+  "source_id": "beyond-blue:mental-health-depression-types-of-depression",
+  "title": "Types of depression - Beyond Blue",
+  "publisher": "Beyond Blue",
+  "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 15900,
+  "crawl_depth": 1,
+  "seed_url": "https://www.beyondblue.org.au/mental-health/depression",
+  "links": [
+    {
+      "text": "https://www.beyondblue.org.au/",
+      "url": "https://www.beyondblue.org.au/"
+    },
+    {
+      "text": "Get support",
+      "url": "https://www.beyondblue.org.au/get-support"
+    },
+    {
+      "text": "Learn about mental health",
+      "url": "https://www.beyondblue.org.au/mental-health"
+    },
+    {
+      "text": "Give",
+      "url": "https://www.beyondblue.org.au/get-involved/donate"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.beyondblue.org.au/get-involved"
+    },
+    {
+      "text": "About",
+      "url": "https://www.beyondblue.org.au/about"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.beyondblue.org.au/get-involved/donate/form"
+    },
+    {
+      "text": "Urgent help",
+      "url": "https://www.beyondblue.org.au/get-support/urgent-help"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression"
+    },
+    {
+      "text": "About the types of depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#about-the-types-of-depression"
+    },
+    {
+      "text": "Major depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#major-depression"
+    },
+    {
+      "text": "Melancholia",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#melancholia"
+    },
+    {
+      "text": "Psychotic depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#psychotic-depression"
+    },
+    {
+      "text": "Antenatal and postnatal depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#antenatal-and-postnatal-depression"
+    },
+    {
+      "text": "Dysthymic disorder",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#dysthymic-disorder"
+    },
+    {
+      "text": "Bipolar disorder",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#bipolar-disorder"
+    },
+    {
+      "text": "Cyclothymic disorder",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#cyclothymic-disorder"
+    },
+    {
+      "text": "Seasonal affective disorder (SAD)",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#seasonal-affective-disorder-(sad)"
+    },
+    {
+      "text": "Do I have depression?",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#do-i-have-depression?"
+    },
+    {
+      "text": "Supporting someone else",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#supporting-someone-else"
+    },
+    {
+      "text": "Learn more about the signs and symptoms of depression.",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/signs-and-symptoms"
+    },
+    {
+      "text": "postnatal depression",
+      "url": "https://www.beyondblue.org.au/mental-health/postpartum-depression"
+    },
+    {
+      "text": "perinatal depression",
+      "url": "https://www.beyondblue.org.au/mental-health/postpartum-depression/perinatal-test/"
+    },
+    {
+      "text": "Read Georgie's experience with parenting with depression.",
+      "url": "https://www.beyondblue.org.au/mental-health/personal-stories/georgie"
+    },
+    {
+      "text": "Read transcript",
+      "url": "https://www.beyondblue.org.au/video-transcripts/what-is-depression"
+    },
+    {
+      "text": "seek support",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/types-of-depression#finding-mental-health-support"
+    },
+    {
+      "text": "Stress",
+      "url": "https://www.beyondblue.org.au/sitecore/service/notfound.aspx?item=master%3a%7bF35718F4-ACDF-4ABF-9FE2-31ABA6012078%7d%40en"
+    },
+    {
+      "text": "Start the K10 test",
+      "url": "https://www.beyondblue.org.au/mental-health/tools-and-quizzes/k10"
+    },
+    {
+      "text": "Read transcript",
+      "url": "https://www.beyondblue.org.au/video-transcripts/emilys-story-the-war-in-my-head"
+    },
+    {
+      "text": "Visit the Beyond Blue Forum depression discussions",
+      "url": "https://forums.beyondblue.org.au/t5/depression/bd-p/c1-sc2-b2"
+    },
+    {
+      "text": "Explore our guide on supporting someone",
+      "url": "https://www.beyondblue.org.au/get-support/support-someone/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "How to tell if someone has poor mental health",
+      "url": "https://www.beyondblue.org.au/get-support/support-someone/poor-mental-health"
+    },
+    {
+      "text": "Support someone with anxiety or depression",
+      "url": "https://www.beyondblue.org.au/get-support/support-someone/how-to-help-someone-with-anxiety-or-depression"
+    },
+    {
+      "text": "Read and watch more personal stories about depr﻿ession",
+      "url": "https://www.beyondblue.org.au/mental-health/personal-stories"
+    },
+    {
+      "text": "“I’m a doctor, I shouldn’t get sick” – Geoff’s experience of work stress and depression Despite spending decades helping others get better, Geoff’s greatest challenge was taking care of himself.",
+      "url": "https://www.beyondblue.org.au/mental-health/personal-stories/geoff"
+    },
+    {
+      "text": "Trauma and losing my coping strategy – Nicole’s story After suffering an injury while dancing, Nicole struggled to deal with the impact of losing her greatest outlet.",
+      "url": "https://www.beyondblue.org.au/mental-health/personal-stories/nicole"
+    },
+    {
+      "text": "Treatments for depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/treatments-for-depression"
+    },
+    {
+      "text": "Causes of depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression/causes-of-depression"
+    },
+    {
+      "text": "Anxiety: signs, symptoms and treatment",
+      "url": "https://www.beyondblue.org.au/mental-health/anxiety/signs-and-symptoms"
+    },
+    {
+      "text": "Suicide prevention",
+      "url": "https://www.beyondblue.org.au/mental-health/suicide-prevention"
+    },
+    {
+      "text": "Chat to a counsellor online",
+      "url": "https://www.beyondblue.org.au/get-support/talk-to-a-counsellor/chat"
+    },
+    {
+      "text": "Subscribe to newsletter",
+      "url": "https://beyondblue.tfaforms.net/140"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.beyondblue.org.au/about/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.beyondblue.org.au/about/careers"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.beyondblue.org.au/about/contact-us"
+    },
+    {
+      "text": "Mental health at work",
+      "url": "https://www.beyondblue.org.au/mental-health/work"
+    },
+    {
+      "text": "Mental health in education",
+      "url": "https://beyou.edu.au/"
+    },
+    {
+      "text": "Mental health in the home",
+      "url": "https://www.beyondblue.org.au/mental-health/parenting"
+    },
+    {
+      "text": "Learn more about how we support First Nations people",
+      "url": "https://www.beyondblue.org.au/about/first-nations-peoples"
+    },
+    {
+      "text": "Discover how we support the LGBTIQ+ community",
+      "url": "https://www.beyondblue.org.au/mental-health/LGBTIQ"
+    },
+    {
+      "text": "https://www.beyondblue.org.au/about/funding",
+      "url": "https://www.beyondblue.org.au/about/funding"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.beyondblue.org.au/general/terms-of-use"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://www.beyondblue.org.au/general/privacy-policy"
+    },
+    {
+      "text": "Charter of rights",
+      "url": "https://www.beyondblue.org.au/general/consumer-charter-of-rights"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.beyondblue.org.au/general/site-map"
+    },
+    {
+      "text": "https://www.facebook.com/beyondblue",
+      "url": "https://www.facebook.com/beyondblue"
+    },
+    {
+      "text": "https://www.instagram.com/beyondblueofficial",
+      "url": "https://www.instagram.com/beyondblueofficial"
+    },
+    {
+      "text": "https://www.linkedin.com/company/beyondblue",
+      "url": "https://www.linkedin.com/company/beyondblue"
+    },
+    {
+      "text": "https://twitter.com/beyondblue",
+      "url": "https://twitter.com/beyondblue"
+    },
+    {
+      "text": "https://www.youtube.com/beyondblueofficial",
+      "url": "https://www.youtube.com/beyondblueofficial"
+    }
+  ],
+  "text": "Types of depression - Beyond Blue\n\nSEARCH\n\nGet support\n\nLearn about mental health\n\nGive\n\nGet Involved\n\nAbout\n\nDonate Urgent help\n\nUrgent help\n\nHome\n\nDepression\n\nTypes of depression\n\n# Types of depressions\n\n## On this page we explain the types of depressive disorders and their symptoms\n\nIf you or someone close to you think they might have depression, we can help you find support.\n\n### On this page\n\n- About the types of depression\n\n- Major depression\n\n- Melancholia\n\n- Psychotic depression\n\n- Antenatal and postnatal depression\n\n- Dysthymic disorder\n\n- Bipolar disorder\n\n- Cyclothymic disorder\n\n- Seasonal affective disorder (SAD)\n\n- Do I have depression?\n\n- Supporting someone else\n\n## About the types of depression\n\n### Everyone experiences depression differently. However, there are different types of depression that have particular symptoms. They may also appear at different times. For example, postnatal depression appears around childbirth, while seasonal affective disorder appears during winter.\n\nSome are talked about more often than others. You might have heard of clinical depression and bipolar. Types such as cyclothymic disorder and dysthymic disorder aren’t mentioned as often.\n\nSometimes we use different names for the same type of depression. For example, clinical depression is also called major depressive disorder.\n\n## Major depression\n\n### Also known as: clinical depression, depression, unipolar depression.\n\nMajor depression is when you feel sad, down or miserable most of the time. You might also lose interest in things you usually enjoy.\n\nTypes of major depression include melancholia, psychotic and antenatal or postnatal. You may be diagnosed with mild, moderate or severe depression.\n\nYour mental health professional may diagnose you with depression if these symptoms:\n\n- happen most days\n\n- last for at least two weeks\n\n- impact on many areas of your life, including work and social relationships.\n\nLearn more about the signs and symptoms of depression.\n\n## Melancholia\n\n### Melancholia is severe depression which often has physical symptoms. You might:\n\n- move more slowly\n\n- feel sad, down or miserable\n\n- be completely unable to enjoy anything.\n\n## Psychotic depression\n\nSometimes depression can include losing touch with reality or experiencing psychosis.\n\nSymptoms of psychotic depression can include hallucinations, delusions and paranoia.\n\n### Hallucinations\n\nYou might see or hear things that aren't there.\n\n### Delusions\n\nA delusion is a false belief that isn’t shared by others. For example, you might believe that you’re:\n\n- bad or evil\n\n- being watched or followed.\n\n### Paranoia\n\nIf you feel paranoid you might:\n\n- feel like everyone is against you\n\n- believe that other people have made you ill or caused bad things to happen\n\n## Antenatal and postnatal depression\n\n### Your risk of developing depression is higher during pregnancy and in the first year after childbirth. During pregnancy around 10 per cent of women experience depression. In the first three months after having a baby this increases to 16 per cent.\n\nDepression which develops during pregnancy and after childbirth has a few different names:\n\n- antenatal or prenatal depression – depression during pregnancy\n\n- postnatal depression - depression in the year after childbirth\n\n- perinatal depression – any time during pregnancy or in the year after childbirth.\n\n### Around 80 per cent of women get the ‘baby blues’ in the first few days after childbirth. You might feel tearful or overwhelmed, but this will pass in a few days with care and support.\n\nThe baby blues happens because of changes in your hormones after your baby is born and doesn’t mean you’ll develop depression.\n\n“It's okay to feel sad. It's okay to ask for help about what you're feeling, and for strategies to help you move through it.”\n\nRead Georgie's experience with parenting with depression.\n\n## Dysthymic disorder\n\n## Dysthymia is long-term depression which lasts at least 2 years. It has similar symptoms to major depression, but they’re less severe.\n\nIframe content loading...\n\nRead transcript\n\n## Bipolar disorder\n\n## Bipolar disorder is when you experience periods of depression and periods of mania, with periods of normal mood in between. It affects around 2 per cent of Australians and can be difficult to diagnose.\n\n### Mania\n\nFeeling manic is the opposite of feeling depressed. In a period of mania you might:\n\n- feel great\n\n- have lots of energy (and not sleep much)\n\n- have racing thoughts and talk quickly\n\n- find it hard to focus on tasks\n\n- feel frustrated and irritable.\n\nSome people with bipolar can lose touch with reality and have an episode of psychosis during a period of mania. Psychosis can involve hallucinations, delusions and paranoia.\n\n### Diagnosing bipolar disorder\n\nDiagnosis depends on you having had episodes of mania as well as episodes of depression. Because people often only seek support when they’re having an episode of depression, bipolar can be hard to diagnose.\n\nIf you're experiencing periods of high mood as well as periods of low mood, tell your health professional when you seek support .\n\nSometimes it can take years to get a diagnosis of bipolar disorder. Bipolar disorder can be misdiagnosed as depression, alcohol or drug abuse, attention deficit hyperactivity disorder (ADHD) or schizophrenia.\n\n### Causes of bipolar disorder\n\nBipolar disorder seems to be most closely linked to family history. Stress and conflict can trigger periods of depression or mania.\n\n## Cyclothymic disorder\n\n## Cyclothymic disorder is similar to bipolar disorder but less severe. It’s a long-term condition lasting for at least 2 years.\n\nIf you have cyclothymia your periods of mania and depression are milder and shorter. In between these periods you may feel ‘normal’ for up to 2 months.\n\n## Seasonal affective disorder (SAD)\n\n### SAD is a mood disorder that has a seasonal pattern. The most common type of SAD is when you feel depressed in the winter and better in the lighter and warmer months.\n\nWhen you feel depressed and have SAD you’re more likely to:\n\n- experience a lack of energy\n\n- sleep too much\n\n- overeat and gain weight\n\n- crave for carbohydrates.\n\nSAD is thought to be related to the variation in light exposure in different seasons. It's usually diagnosed after you’ve had the same symptoms during winter for a couple of years.\n\nSAD is very rare in Australia. It’s more likely to affect people in countries with shorter days and longer periods of darkness.\n\n## Do I have depression?\n\n## It can be hard to know whether you’re feeling depressed or have depression.\n\nOur anonymous Anxiety and Depression Test (K10) can help you understand whether your anxious feelings are the kind of worries that will go away on their own, or whether it’s time to get more support to help you feel better.\n\nIt’s an evidence-based test that asks 10 questions about how you've been feeling over the past 4 weeks. Australian doctors and mental health professionals use this test, known as the K10. They sometimes ask you to take the K10 and talk about it with you.\n\nStart the K10 test\n\n## Finding mental health support\n\nYour GP can be a good place to start the conversation about your mental health.\n\nWe can also help you find other support that’s right for you. This could include talking to our counsellors or helping you find a mental health professional near you.\n\nGet mental health support\n\n## Connect with our online peer support community\n\nAnonymously read, share and learn from people who are also living with depression.\n\nThe Beyond Blue Forums is a welcoming peer support community.\n\nVisit the Beyond Blue Forum depression discussions\n\n## Supporting someone else\n\n### If you’re worried about someone close to you, there are things you can do to support them.\n\n- Explore our guide on supporting someone\n\n- How to tell if someone has poor mental health\n\n- Support someone with anxiety or depression\n\n## Journey to recovery - personal stories\n\nIf you have depression, you’re not alone.\n\nLearn what depression feels like and how it can be managed.\n\nRead and watch more personal stories about depr﻿ession\n\n### “I’m a doctor, I shouldn’t get sick” – Geoff’s experience of work stress and depression\n\nDespite spending decades helping others get better, Geoff’s greatest challenge was taking care of himself.\n\n### Trauma and losing my coping strategy – Nicole’s story\n\nAfter suffering an injury while dancing, Nicole struggled to deal with the impact of losing her greatest outlet.\n\n### Related information\n\n### Treatments for depression\n\n- Signs and symptoms of depression\n\n- Causes of depression\n\n- Anxiety: signs, symptoms and treatment\n\n- Suicide prevention\n\n## Have a question about depression types\n\n### Call a counsellor on 1300 22 4636\n\n### Chat to a counsellor online\n\n## Subscribe to receive info about mental health, keeping well and stories from our community.\n\nSubscribe to newsletter\n\nBack to top\n\n- About\n\n- Media\n\n- Careers\n\n- Contact us\n\n- Get involved\n\n- Donate\n\n- Mental health at work\n\n- Mental health in education\n\n- Mental health in the home\n\nAs an organisation that supports people from across Australia, Beyond Blue acknowledges the Traditional Owners and Custodians of Country and their continuing connection to land, waters and community. We pay respect to Elders past and present.\n\nFirst Nations Peoples are advised that this website may include reference to and images of deceased persons.\n\nBeyond Blue is committed to safe inclusive spaces, policies and services for people of LGBTIQ+ communities and their families.\n\nLearn more about how we support First Nations people Discover how we support the LGBTIQ+ community\n\nPremier partners\n\nCopyright © 2026 Beyond Blue Ltd All rights reserved\n\n- Terms of use\n\n- Privacy policy\n\n- Charter of rights\n\n- Site map\n\n\n\n## Links found on page\n\n- https://www.beyondblue.org.au/: https://www.beyondblue.org.au/\n\n- Get support: https://www.beyondblue.org.au/get-support\n\n- Learn about mental health: https://www.beyondblue.org.au/mental-health\n\n- Give: https://www.beyondblue.org.au/get-involved/donate\n\n- Get Involved: https://www.beyondblue.org.au/get-involved\n\n- About: https://www.beyondblue.org.au/about\n\n- Donate: https://www.beyondblue.org.au/get-involved/donate/form\n\n- Urgent help: https://www.beyondblue.org.au/get-support/urgent-help\n\n- Depression: https://www.beyondblue.org.au/mental-health/depression\n\n- About the types of depression: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#about-the-types-of-depression\n\n- Major depression: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#major-depression\n\n- Melancholia: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#melancholia\n\n- Psychotic depression: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#psychotic-depression\n\n- Antenatal and postnatal depression: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#antenatal-and-postnatal-depression\n\n- Dysthymic disorder: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#dysthymic-disorder\n\n- Bipolar disorder: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#bipolar-disorder\n\n- Cyclothymic disorder: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#cyclothymic-disorder\n\n- Seasonal affective disorder (SAD): https://www.beyondblue.org.au/mental-health/depression/types-of-depression#seasonal-affective-disorder-(sad)\n\n- Do I have depression?: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#do-i-have-depression?\n\n- Supporting someone else: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#supporting-someone-else\n\n- Learn more about the signs and symptoms of depression.: https://www.beyondblue.org.au/mental-health/depression/signs-and-symptoms\n\n- postnatal depression: https://www.beyondblue.org.au/mental-health/postpartum-depression\n\n- perinatal depression: https://www.beyondblue.org.au/mental-health/postpartum-depression/perinatal-test/\n\n- Read Georgie's experience with parenting with depression.: https://www.beyondblue.org.au/mental-health/personal-stories/georgie\n\n- Read transcript: https://www.beyondblue.org.au/video-transcripts/what-is-depression\n\n- seek support: https://www.beyondblue.org.au/mental-health/depression/types-of-depression#finding-mental-health-support\n\n- Stress: https://www.beyondblue.org.au/sitecore/service/notfound.aspx?item=master%3a%7bF35718F4-ACDF-4ABF-9FE2-31ABA6012078%7d%40en\n\n- Start the K10 test: https://www.beyondblue.org.au/mental-health/tools-and-quizzes/k10\n\n- Read transcript: https://www.beyondblue.org.au/video-transcripts/emilys-story-the-war-in-my-head\n\n- Visit the Beyond Blue Forum depression discussions: https://forums.beyondblue.org.au/t5/depression/bd-p/c1-sc2-b2\n\n- Explore our guide on supporting someone: https://www.beyondblue.org.au/get-support/support-someone/how-to-talk-to-someone-about-their-mental-health\n\n- How to tell if someone has poor mental health: https://www.beyondblue.org.au/get-support/support-someone/poor-mental-health\n\n- Support someone with anxiety or depression: https://www.beyondblue.org.au/get-support/support-someone/how-to-help-someone-with-anxiety-or-depression\n\n- Read and watch more personal stories about depr﻿ession: https://www.beyondblue.org.au/mental-health/personal-stories\n\n- “I’m a doctor, I shouldn’t get sick” – Geoff’s experience of work stress and depression Despite spending decades helping others get better, Geoff’s greatest challenge was taking care of himself.: https://www.beyondblue.org.au/mental-health/personal-stories/geoff\n\n- Trauma and losing my coping strategy – Nicole’s story After suffering an injury while dancing, Nicole struggled to deal with the impact of losing her greatest outlet.: https://www.beyondblue.org.au/mental-health/personal-stories/nicole\n\n- Treatments for depression: https://www.beyondblue.org.au/mental-health/depression/treatments-for-depression\n\n- Causes of depression: https://www.beyondblue.org.au/mental-health/depression/causes-of-depression\n\n- Anxiety: signs, symptoms and treatment: https://www.beyondblue.org.au/mental-health/anxiety/signs-and-symptoms\n\n- Suicide prevention: https://www.beyondblue.org.au/mental-health/suicide-prevention\n\n- Chat to a counsellor online: https://www.beyondblue.org.au/get-support/talk-to-a-counsellor/chat\n\n- Subscribe to newsletter: https://beyondblue.tfaforms.net/140\n\n- Media: https://www.beyondblue.org.au/about/media\n\n- Careers: https://www.beyondblue.org.au/about/careers\n\n- Contact us: https://www.beyondblue.org.au/about/contact-us\n\n- Mental health at work: https://www.beyondblue.org.au/mental-health/work\n\n- Mental health in education: https://beyou.edu.au/\n\n- Mental health in the home: https://www.beyondblue.org.au/mental-health/parenting\n\n- Learn more about how we support First Nations people: https://www.beyondblue.org.au/about/first-nations-peoples\n\n- Discover how we support the LGBTIQ+ community: https://www.beyondblue.org.au/mental-health/LGBTIQ\n\n- https://www.beyondblue.org.au/about/funding: https://www.beyondblue.org.au/about/funding\n\n- Terms of use: https://www.beyondblue.org.au/general/terms-of-use\n\n- Privacy policy: https://www.beyondblue.org.au/general/privacy-policy\n\n- Charter of rights: https://www.beyondblue.org.au/general/consumer-charter-of-rights\n\n- Site map: https://www.beyondblue.org.au/general/site-map\n\n- https://www.facebook.com/beyondblue: https://www.facebook.com/beyondblue\n\n- https://www.instagram.com/beyondblueofficial: https://www.instagram.com/beyondblueofficial\n\n- https://www.linkedin.com/company/beyondblue: https://www.linkedin.com/company/beyondblue\n\n- https://twitter.com/beyondblue: https://twitter.com/beyondblue\n\n- https://www.youtube.com/beyondblueofficial: https://www.youtube.com/beyondblueofficial"
+}

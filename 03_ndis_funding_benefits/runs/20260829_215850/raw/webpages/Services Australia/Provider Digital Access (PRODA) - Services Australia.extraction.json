@@ -1,0 +1,207 @@
+{
+  "source_id": "services-australia:provider-digital-access-proda",
+  "title": "Provider Digital Access (PRODA) - Services Australia",
+  "publisher": "Services Australia",
+  "url": "https://www.servicesaustralia.gov.au/provider-digital-access-proda",
+  "retrieved_at": "2026-08-29",
+  "topic": "NDIS, funding, benefits",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 7873,
+  "crawl_depth": 1,
+  "seed_url": "https://www.servicesaustralia.gov.au/carer-payment",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.servicesaustralia.gov.au/provider-digital-access-proda#main-content"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/",
+      "url": "https://www.servicesaustralia.gov.au/"
+    },
+    {
+      "text": "Log in",
+      "url": "https://proda.humanservices.gov.au/prodalogin/pages/public/login.jsf?TAM_OP=login&USER"
+    },
+    {
+      "text": "Individuals myGov is a simple and secure way to access online government services.",
+      "url": "https://my.gov.au"
+    },
+    {
+      "text": "PRODA Log in to access HPOS, Business Hub, Aged Care Provider Portal and a range of other government online services.",
+      "url": "https://www.servicesaustralia.gov.au/provider-digital-access-proda"
+    },
+    {
+      "text": "Centrelink Business Online",
+      "url": "https://business.centrelink.gov.au/"
+    },
+    {
+      "text": "Child Support Business Online",
+      "url": "https://services.csa.gov.au/"
+    },
+    {
+      "text": "Register",
+      "url": "https://www.servicesaustralia.gov.au/how-to-register-for-individual-proda-account"
+    },
+    {
+      "text": "Health professionals",
+      "url": "https://www.servicesaustralia.gov.au/health-professionals"
+    },
+    {
+      "text": "Businesses",
+      "url": "https://www.servicesaustralia.gov.au/businesses"
+    },
+    {
+      "text": "Community groups",
+      "url": "https://www.servicesaustralia.gov.au/community-groups"
+    },
+    {
+      "text": "Working with us",
+      "url": "https://www.servicesaustralia.gov.au/businesses-and-organisations-working-with-us?context=60075"
+    },
+    {
+      "text": "Online services",
+      "url": "https://www.servicesaustralia.gov.au/business-online-services?context=60075"
+    },
+    {
+      "text": "Sectors",
+      "url": "https://www.servicesaustralia.gov.au/business-sectors-working-with-us?context=60075"
+    },
+    {
+      "text": "Top payments for businesses",
+      "url": "https://www.servicesaustralia.gov.au/top-payments-for-businesses"
+    },
+    {
+      "text": "What services you can access",
+      "url": "https://www.servicesaustralia.gov.au/what-services-you-can-access-with-proda?context=33786"
+    },
+    {
+      "text": "How to register for an individual account",
+      "url": "https://www.servicesaustralia.gov.au/how-to-register-for-individual-proda-account?context=33786"
+    },
+    {
+      "text": "How to register an organisation",
+      "url": "https://www.servicesaustralia.gov.au/how-to-register-organisation-proda?context=33786"
+    },
+    {
+      "text": "How to manage your organisation",
+      "url": "https://www.servicesaustralia.gov.au/how-to-manage-your-organisation-proda?context=33786"
+    },
+    {
+      "text": "How to avoid scams targeting Provider Digital Access (PRODA) accounts",
+      "url": "https://www.servicesaustralia.gov.au/how-to-avoid-scams-targeting-provider-digital-access-proda-accounts?context=33786"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5525&lang=en_au&readid=content&readclass=lit-readspeaker-target&url=https%3A//www.servicesaustralia.gov.au/provider-digital-access-proda%3Fs%3D"
+    },
+    {
+      "text": "Log in to PRODA",
+      "url": "https://proda.humanservices.gov.au/prodalogin/pages/public/login.jsf"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.servicesaustralia.gov.au/about-us"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.servicesaustralia.gov.au/careers"
+    },
+    {
+      "text": "Forms",
+      "url": "https://www.servicesaustralia.gov.au/forms"
+    },
+    {
+      "text": "Scams",
+      "url": "https://www.servicesaustralia.gov.au/scams-and-identity-theft"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.servicesaustralia.gov.au/media"
+    },
+    {
+      "text": "Our Minister",
+      "url": "https://ministers.finance.gov.au/financeminister/katy-gallagher"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.servicesaustralia.gov.au/contact-us"
+    },
+    {
+      "text": "Find us",
+      "url": "https://findus.servicesaustralia.gov.au"
+    },
+    {
+      "text": "Complaints and feedback",
+      "url": "https://www.servicesaustralia.gov.au/complaints-and-feedback"
+    },
+    {
+      "text": "Business Hub",
+      "url": "https://www.servicesaustralia.gov.au/business-hub"
+    },
+    {
+      "text": "Paid Parental Leave scheme for employers",
+      "url": "https://www.servicesaustralia.gov.au/paid-parental-leave-scheme-for-employers"
+    },
+    {
+      "text": "Community resources and help",
+      "url": "https://www.servicesaustralia.gov.au/community-resources-and-help"
+    },
+    {
+      "text": "Providing voluntary work opportunities",
+      "url": "https://www.servicesaustralia.gov.au/providing-voluntary-work-opportunities"
+    },
+    {
+      "text": "Family organisations",
+      "url": "https://www.servicesaustralia.gov.au/family-organisations"
+    },
+    {
+      "text": "Patient care",
+      "url": "https://www.servicesaustralia.gov.au/patient-care"
+    },
+    {
+      "text": "Payments and claims",
+      "url": "https://www.servicesaustralia.gov.au/payments-and-claims-for-your-patients"
+    },
+    {
+      "text": "Practice administration",
+      "url": "https://www.servicesaustralia.gov.au/practice-administration"
+    },
+    {
+      "text": "Individual practitioners",
+      "url": "https://www.servicesaustralia.gov.au/individual-practitioners"
+    },
+    {
+      "text": "Resources for health professionals",
+      "url": "https://www.servicesaustralia.gov.au/resources-for-health-professionals"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.servicesaustralia.gov.au/your-right-to-privacy"
+    },
+    {
+      "text": "Site notices",
+      "url": "https://www.servicesaustralia.gov.au/site-notices"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.servicesaustralia.gov.au/accessibility"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://www.servicesaustralia.gov.au/access-to-information"
+    },
+    {
+      "text": "Accessing our services",
+      "url": "https://www.servicesaustralia.gov.au/accessing-our-services"
+    },
+    {
+      "text": "Languages",
+      "url": "https://www.servicesaustralia.gov.au/information-your-language"
+    },
+    {
+      "text": "Follow us",
+      "url": "https://www.servicesaustralia.gov.au/connect-with-us-social-media"
+    }
+  ],
+  "text": "Provider Digital Access (PRODA) - Services Australia\n\nSkip to main content\n\nListen\n\nPrint\n\nLight\n\nDark\n\nEnable dark mode\n\nPRODA Log in\n\n- Individuals\n\n- myGov is a simple and secure way to access online government services.\n\n- PRODA\n\n- Log in to access HPOS, Business Hub, Aged Care Provider Portal and a range of other government online services.\n\n- Centrelink Business Online\n\n- Child Support Business Online\n\nRegister\n\n- Health professionals\n\n- Businesses\n\n- Community groups\n\n- Working with us\n\n- Online services\n\n- Sectors\n\n- Top payments for businesses\n\n- Provider Digital Access (PRODA)\n\n- What services you can access\n\n- How to register for an individual account\n\n- How to register an organisation\n\n- How to manage your organisation\n\n- How to avoid scams targeting Provider Digital Access (PRODA) accounts\n\n# Provider Digital Access (PRODA)\n\nPRODA is an online identity verification and authentication system. It lets you securely access government online services.\n\nTo access available services using PRODA , you need to register as an individual to get your own account.\n\nTo access a service on behalf of an organisation, you may need to register the organisation in PRODA. The service will let you know if you need to register your organisation.\n\nLog in to PRODA\n\n## Compatibility with browsers\n\nWe recommend the following minimum browser versions to use with PRODA:\n\n- Firefox 72.x\n\n- Google Chrome 80.x\n\n- Microsoft Edge 79.x\n\n- Safari 14.x.\n\nOlder versions or other browsers may work but may not display correctly and are not tested or supported.\n\nWhat services you can access\n\nYou can use your PRODA account to access a range of services for providers.\n\nHow to register for an individual account\n\nTo access available services, you’ll need to register an individual PRODA account.\n\nHow to register an organisation\n\nTo access an available service on behalf of an organisation, you must register your organisation in PRODA.\n\nHow to manage your organisation\n\nThere are several things you need to do to manage your organisation in PRODA.\n\nHow to avoid scams targeting Provider Digital Access (PRODA) accounts\n\nScammers are targeting Services Australia online accounts including PRODA.\n\nPage last updated: 6 November 2025.\n\nQC 33786\n\nThis information was printed 29 August 2026 from https://www.servicesaustralia.gov.au/provider-digital-access-proda . It may not include all of the relevant information on this topic. Please consider any relevant site notices at https://www.servicesaustralia.gov.au/site-notices when using this material.\n\n## Printed link references\n\n- Services Australia\n\n- About us\n\n- Careers\n\n- Forms\n\n- Scams\n\n- Media\n\n- Our Minister\n\n- Contact\n\n- Contact us\n\n- Find us\n\n- Complaints and feedback\n\n- Business Hub\n\n- Paid Parental Leave scheme for employers\n\n- Community resources and help\n\n- Providing voluntary work opportunities\n\n- Family organisations\n\n- Patient care\n\n- Payments and claims\n\n- Practice administration\n\n- Individual practitioners\n\n- Resources for health professionals\n\n- Privacy\n\n- Site notices\n\n- Accessibility\n\n- Access to information\n\n- Accessing our services\n\nLanguages\n\nFollow us\n\nServices Australia acknowledges the Traditional Custodians of the lands we live on. We pay our respects to all Elders, past and present, of all Aboriginal and Torres Strait Islander nations.\n\nABN - 90‍ ‍794‍ ‍605‍ ‍008\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.servicesaustralia.gov.au/provider-digital-access-proda#main-content\n\n- https://www.servicesaustralia.gov.au/: https://www.servicesaustralia.gov.au/\n\n- Log in: https://proda.humanservices.gov.au/prodalogin/pages/public/login.jsf?TAM_OP=login&USER\n\n- Individuals myGov is a simple and secure way to access online government services.: https://my.gov.au\n\n- PRODA Log in to access HPOS, Business Hub, Aged Care Provider Portal and a range of other government online services.: https://www.servicesaustralia.gov.au/provider-digital-access-proda\n\n- Centrelink Business Online: https://business.centrelink.gov.au/\n\n- Child Support Business Online: https://services.csa.gov.au/\n\n- Register: https://www.servicesaustralia.gov.au/how-to-register-for-individual-proda-account\n\n- Health professionals: https://www.servicesaustralia.gov.au/health-professionals\n\n- Businesses: https://www.servicesaustralia.gov.au/businesses\n\n- Community groups: https://www.servicesaustralia.gov.au/community-groups\n\n- Working with us: https://www.servicesaustralia.gov.au/businesses-and-organisations-working-with-us?context=60075\n\n- Online services: https://www.servicesaustralia.gov.au/business-online-services?context=60075\n\n- Sectors: https://www.servicesaustralia.gov.au/business-sectors-working-with-us?context=60075\n\n- Top payments for businesses: https://www.servicesaustralia.gov.au/top-payments-for-businesses\n\n- What services you can access: https://www.servicesaustralia.gov.au/what-services-you-can-access-with-proda?context=33786\n\n- How to register for an individual account: https://www.servicesaustralia.gov.au/how-to-register-for-individual-proda-account?context=33786\n\n- How to register an organisation: https://www.servicesaustralia.gov.au/how-to-register-organisation-proda?context=33786\n\n- How to manage your organisation: https://www.servicesaustralia.gov.au/how-to-manage-your-organisation-proda?context=33786\n\n- How to avoid scams targeting Provider Digital Access (PRODA) accounts: https://www.servicesaustralia.gov.au/how-to-avoid-scams-targeting-provider-digital-access-proda-accounts?context=33786\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=5525&lang=en_au&readid=content&readclass=lit-readspeaker-target&url=https%3A//www.servicesaustralia.gov.au/provider-digital-access-proda%3Fs%3D\n\n- Log in to PRODA: https://proda.humanservices.gov.au/prodalogin/pages/public/login.jsf\n\n- About us: https://www.servicesaustralia.gov.au/about-us\n\n- Careers: https://www.servicesaustralia.gov.au/careers\n\n- Forms: https://www.servicesaustralia.gov.au/forms\n\n- Scams: https://www.servicesaustralia.gov.au/scams-and-identity-theft\n\n- Media: https://www.servicesaustralia.gov.au/media\n\n- Our Minister: https://ministers.finance.gov.au/financeminister/katy-gallagher\n\n- Contact: https://www.servicesaustralia.gov.au/contact-us\n\n- Find us: https://findus.servicesaustralia.gov.au\n\n- Complaints and feedback: https://www.servicesaustralia.gov.au/complaints-and-feedback\n\n- Business Hub: https://www.servicesaustralia.gov.au/business-hub\n\n- Paid Parental Leave scheme for employers: https://www.servicesaustralia.gov.au/paid-parental-leave-scheme-for-employers\n\n- Community resources and help: https://www.servicesaustralia.gov.au/community-resources-and-help\n\n- Providing voluntary work opportunities: https://www.servicesaustralia.gov.au/providing-voluntary-work-opportunities\n\n- Family organisations: https://www.servicesaustralia.gov.au/family-organisations\n\n- Patient care: https://www.servicesaustralia.gov.au/patient-care\n\n- Payments and claims: https://www.servicesaustralia.gov.au/payments-and-claims-for-your-patients\n\n- Practice administration: https://www.servicesaustralia.gov.au/practice-administration\n\n- Individual practitioners: https://www.servicesaustralia.gov.au/individual-practitioners\n\n- Resources for health professionals: https://www.servicesaustralia.gov.au/resources-for-health-professionals\n\n- Privacy: https://www.servicesaustralia.gov.au/your-right-to-privacy\n\n- Site notices: https://www.servicesaustralia.gov.au/site-notices\n\n- Accessibility: https://www.servicesaustralia.gov.au/accessibility\n\n- Access to information: https://www.servicesaustralia.gov.au/access-to-information\n\n- Accessing our services: https://www.servicesaustralia.gov.au/accessing-our-services\n\n- Languages: https://www.servicesaustralia.gov.au/information-your-language\n\n- Follow us: https://www.servicesaustralia.gov.au/connect-with-us-social-media"
+}

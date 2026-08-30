@@ -1,0 +1,491 @@
+{
+  "source_id": "betterhealth:pneumonia",
+  "title": "Pneumonia | Better Health Channel",
+  "publisher": "Better Health Channel",
+  "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia",
+  "retrieved_at": "2026-08-30",
+  "topic": "Breathing And Respiratory Care",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 19562,
+  "crawl_depth": 0,
+  "seed_url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#rpl-main"
+    },
+    {
+      "text": "Better Health Channel",
+      "url": "https://www.betterhealth.vic.gov.au/"
+    },
+    {
+      "text": "https://www.health.vic.gov.au",
+      "url": "https://www.health.vic.gov.au"
+    },
+    {
+      "text": "Allergies",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/allergies"
+    },
+    {
+      "text": "Anxiety",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/anxiety"
+    },
+    {
+      "text": "Arthritis",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/arthritis"
+    },
+    {
+      "text": "Asthma",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/asthma"
+    },
+    {
+      "text": "Behavioural conditions",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/behavioural-conditions"
+    },
+    {
+      "text": "Birth defects",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/birth-defects"
+    },
+    {
+      "text": "Cancer",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/cancer"
+    },
+    {
+      "text": "COVID-19",
+      "url": "https://www.betterhealth.vic.gov.au/covid-19-victoria"
+    },
+    {
+      "text": "Dementia",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/dementia"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/depression"
+    },
+    {
+      "text": "Diabetes",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/diabetes"
+    },
+    {
+      "text": "Infections",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/infections"
+    },
+    {
+      "text": "Mental health and wellbeing",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/mental-health-and-wellbeing"
+    },
+    {
+      "text": "Sexually transmissible infections",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/sexually-transmissible-infections"
+    },
+    {
+      "text": "Sleep",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/sleep"
+    },
+    {
+      "text": "Stroke",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/stroke"
+    },
+    {
+      "text": "Pain and pain management",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/pain-and-pain-management"
+    },
+    {
+      "text": "Mouth and teeth",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/mouth-and-teeth"
+    },
+    {
+      "text": "Blood and blood vessels",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/blood-and-blood-vessels"
+    },
+    {
+      "text": "Hair and nails",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/hair-and-nails"
+    },
+    {
+      "text": "Genetic conditions",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/genes-and-genetics"
+    },
+    {
+      "text": "Bones muscles and joints",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/bones-muscles-and-joints"
+    },
+    {
+      "text": "Ear nose and throat",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/ear-nose-and-throat"
+    },
+    {
+      "text": "Fertility and the reproductive system - male",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/fertility-reproductive-system-male"
+    },
+    {
+      "text": "Fertility and the reproductive system - female",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/fertility-reproductive-system-female"
+    },
+    {
+      "text": "Digestive system",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/digestive-system"
+    },
+    {
+      "text": "Immune system",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/immune-system"
+    },
+    {
+      "text": "Hormonal system (endocrine)",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/hormonal-system-endocrine"
+    },
+    {
+      "text": "Neuromuscular system",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/neuromuscular-system"
+    },
+    {
+      "text": "Brain and nerves",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/brain-and-nerves"
+    },
+    {
+      "text": "Eyes",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/eyes"
+    },
+    {
+      "text": "Lungs",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/lungs"
+    },
+    {
+      "text": "Kidney and bladder",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/kidney-and-bladder"
+    },
+    {
+      "text": "Heart",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/heart"
+    },
+    {
+      "text": "Skin",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/skin"
+    },
+    {
+      "text": "Complementary and alternative care",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/complementary-and-alternative-care"
+    },
+    {
+      "text": "First Aid",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/first-aid"
+    },
+    {
+      "text": "Surgery",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/surgery"
+    },
+    {
+      "text": "Medical tests",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/medical-tests"
+    },
+    {
+      "text": "Medications",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments/medications"
+    },
+    {
+      "text": "Health checks",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/health-checks"
+    },
+    {
+      "text": "Healthy eating",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/healthy-eating"
+    },
+    {
+      "text": "Healthy mind",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/healthy-mind"
+    },
+    {
+      "text": "Keeping active",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/keeping-active"
+    },
+    {
+      "text": "Weight management",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/weight-management"
+    },
+    {
+      "text": "Work",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/work"
+    },
+    {
+      "text": "Immunisation",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/immunisation"
+    },
+    {
+      "text": "Safety",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/safety"
+    },
+    {
+      "text": "Environmental health",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/environmental-health"
+    },
+    {
+      "text": "Travel and holidays",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/travel-and-holidays"
+    },
+    {
+      "text": "Pregnancy",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/pregnancy"
+    },
+    {
+      "text": "Parents",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/parents"
+    },
+    {
+      "text": "Child health (0-6)",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/child-health-0-6"
+    },
+    {
+      "text": "Children (4-12)",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/children-4-12"
+    },
+    {
+      "text": "Young people (13-19)",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/young-people-13-19"
+    },
+    {
+      "text": "Relationships",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/relationships"
+    },
+    {
+      "text": "Sexual health",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/sexual-health"
+    },
+    {
+      "text": "Family violence",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/family-violence"
+    },
+    {
+      "text": "Alcohol",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/alcohol"
+    },
+    {
+      "text": "Drugs",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/drugs"
+    },
+    {
+      "text": "Smoking and tobacco",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving/smoking-and-tobacco"
+    },
+    {
+      "text": "Aged care services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/aged-care-services"
+    },
+    {
+      "text": "Alcohol and drug services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/alcohol-and-drug-services"
+    },
+    {
+      "text": "Carers, caring and respite care services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/carers-caring-and-respite-care-services"
+    },
+    {
+      "text": "Disability services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/disability-services"
+    },
+    {
+      "text": "Emergency, crisis and support services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/emergency-crisis-and-support-services"
+    },
+    {
+      "text": "LGBTIQA+ support services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/lgbtiqa-support"
+    },
+    {
+      "text": "Mental health services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/mental-health-services"
+    },
+    {
+      "text": "Palliative care and end of life services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/end-of-life-and-palliative-care-services"
+    },
+    {
+      "text": "Trauma recovery services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/trauma-recovery-services"
+    },
+    {
+      "text": "Planning and coordinating healthcare",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/planning-and-coordinating-healthcare"
+    },
+    {
+      "text": "Seeing a doctor, specialist or health professional",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/seeing-a-doctor-specialist-or-health-professional"
+    },
+    {
+      "text": "Hospitals, surgery and procedures",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/hospitals-surgery-and-procedures"
+    },
+    {
+      "text": "Child, family and relationship services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/child-family-and-relationship-services"
+    },
+    {
+      "text": "Pregnancy and birth services",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/pregnancy-and-birth-services"
+    },
+    {
+      "text": "Urgent Care Services",
+      "url": "https://www.betterhealth.vic.gov.au/urgent-care-services"
+    },
+    {
+      "text": "Women's health and wellbeing",
+      "url": "https://www.betterhealth.vic.gov.au/womens-health-and-wellbeing"
+    },
+    {
+      "text": "Chemist Care Now",
+      "url": "https://www.betterhealth.vic.gov.au/chemist-care-now"
+    },
+    {
+      "text": "Don't risk the flu. Get vaccinated today.",
+      "url": "https://www.betterhealth.vic.gov.au/get-vaccinated"
+    },
+    {
+      "text": "A-Z",
+      "url": "https://www.betterhealth.vic.gov.au/a-z"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.betterhealth.vic.gov.au/search"
+    },
+    {
+      "text": "Read the full fact sheet",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#bhc-content"
+    },
+    {
+      "text": "Symptoms of pneumonia",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#symptoms-of-pneumonia"
+    },
+    {
+      "text": "Causes of pneumonia",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#causes-of-pneumonia"
+    },
+    {
+      "text": "Diagnosis for pneumonia",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#diagnosis-for-pneumonia"
+    },
+    {
+      "text": "Treatment for pneumonia",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#treatment-for-pneumonia"
+    },
+    {
+      "text": "Immunisation for pneumonia",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#immunisation-for-pneumonia"
+    },
+    {
+      "text": "Where to get help",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#where-to-get-help"
+    },
+    {
+      "text": "GP (doctor)",
+      "url": "https://www.betterhealth.vic.gov.au/health/serviceprofiles/general-practitioner-services"
+    },
+    {
+      "text": "Nurse-on-Call",
+      "url": "https://www.betterhealth.vic.gov.au/health/serviceprofiles/nurse-on-call-service"
+    },
+    {
+      "text": "Lung Foundation Australia",
+      "url": "https://lungfoundation.com.au/"
+    },
+    {
+      "text": "What are the symptoms of pneumonia?",
+      "url": "https://www.nps.org.au/medical-info/consumer-info/respiratory-tract-infections-rtis-nose-throat-and-lungs?c=pneumonia-72766f53"
+    },
+    {
+      "text": "Community acquired pneumonia in adults – guideline",
+      "url": "https://www.brit-thoracic.org.uk/quality-improvement/clinical-resources/adult-community-acquired-pneumonia/"
+    },
+    {
+      "text": "https://www.health.vic.gov.au/",
+      "url": "https://www.health.vic.gov.au/"
+    },
+    {
+      "text": "http://www.lungfoundation.com.au/",
+      "url": "http://www.lungfoundation.com.au/"
+    },
+    {
+      "text": "Fever",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/air-pollution"
+    },
+    {
+      "text": "Respiratory system",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/respiratory-system"
+    },
+    {
+      "text": "Asthma explained",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/asthma"
+    },
+    {
+      "text": "Chest pain",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/chest-pain"
+    },
+    {
+      "text": "Conditions and treatments",
+      "url": "https://www.betterhealth.vic.gov.au/conditionsandtreatments"
+    },
+    {
+      "text": "Healthy living",
+      "url": "https://www.betterhealth.vic.gov.au/healthyliving"
+    },
+    {
+      "text": "Services and support",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport"
+    },
+    {
+      "text": "Videos",
+      "url": "https://www.betterhealth.vic.gov.au/a-z-videos"
+    },
+    {
+      "text": "Service profiles",
+      "url": "https://www.betterhealth.vic.gov.au/a-z-service-profiles"
+    },
+    {
+      "text": "Consumer medicine information - Healthdirect",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Multilingual health information - Health Translations Directory",
+      "url": "https://www.healthtranslations.vic.gov.au/"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.betterhealth.vic.gov.au/about/about-us"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.betterhealth.vic.gov.au/about/accessibility"
+    },
+    {
+      "text": "Content partners",
+      "url": "https://www.betterhealth.vic.gov.au/about/content-partners-listing"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.betterhealth.vic.gov.au/about/privacy"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.betterhealth.vic.gov.au/about/terms-of-use"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.betterhealth.vic.gov.au/about/contact-us"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/BetterHealthChannel"
+    },
+    {
+      "text": "X (formerly Twitter)",
+      "url": "https://twitter.com/betterhealthgov"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/betterhealthchannel"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/betterhealthgov/"
+    }
+  ],
+  "text": "Pneumonia | Better Health Channel\n\nSkip to main content\n\nBetter Health Channel\n\nOur websites View the list\n\n- Conditions and treatments\n\n#### Conditions\n\n- Allergies\n\n- Anxiety\n\n- Arthritis\n\n- Asthma\n\n- Behavioural conditions\n\n- Birth defects\n\n- Cancer\n\n- COVID-19\n\n- Dementia\n\n- Depression\n\n- Diabetes\n\n- Infections\n\n- Mental health and wellbeing\n\n- Sexually transmissible infections\n\n- Sleep\n\n- Stroke\n\n- Pain and pain management\n\n#### Body parts\n\n- Mouth and teeth\n\n- Blood and blood vessels\n\n- Hair and nails\n\n- Genetic conditions\n\n- Bones muscles and joints\n\n- Ear nose and throat\n\n#### Body systems\n\n- Fertility and the reproductive system - male\n\n- Fertility and the reproductive system - female\n\n- Digestive system\n\n- Immune system\n\n- Hormonal system (endocrine)\n\n- Neuromuscular system\n\n#### Organs\n\n- Brain and nerves\n\n- Eyes\n\n- Lungs\n\n- Kidney and bladder\n\n- Heart\n\n- Skin\n\n#### Tests and treatments\n\n- Complementary and alternative care\n\n- First Aid\n\n- Surgery\n\n- Medical tests\n\n- Medications\n\n- Healthy living\n\n#### Keeping healthy\n\n- Health checks\n\n- Healthy eating\n\n- Healthy mind\n\n- Keeping active\n\n- Weight management\n\n- Work\n\n- Immunisation\n\n#### Keeping safe\n\n- Safety\n\n- Environmental health\n\n- Travel and holidays\n\n#### Parenting\n\n- Pregnancy\n\n- Parents\n\n- Child health (0-6)\n\n- Children (4-12)\n\n- Young people (13-19)\n\n#### Relationships\n\n- Relationships\n\n- Sexual health\n\n- Family violence\n\n#### Alcohol and drugs\n\n- Alcohol\n\n- Drugs\n\n- Smoking and tobacco\n\n- Services and support\n\n#### Services\n\n- Aged care services\n\n- Alcohol and drug services\n\n- Carers, caring and respite care services\n\n- Disability services\n\n- Emergency, crisis and support services\n\n- LGBTIQA+ support services\n\n- Mental health services\n\n- Palliative care and end of life services\n\n- Trauma recovery services\n\n#### Managing healthcare\n\n- Planning and coordinating healthcare\n\n- Seeing a doctor, specialist or health professional\n\n- Hospitals, surgery and procedures\n\n#### Pregnancy, birth and raising children\n\n- Child, family and relationship services\n\n- Pregnancy and birth services\n\n#### Campaigns\n\n- Urgent Care Services\n\n- Women's health and wellbeing\n\n- Chemist Care Now\n\n- Don't risk the flu. Get vaccinated today.\n\n- A-Z\n\nSearch\n\nSearch Menu\n\nLungs\n\n- Home\n\n# Pneumonia\n\n## Actions for this page\n\n- Listen\n\n- Print\n\n## Summary\n\nRead the full fact sheet\n\n- Pneumonia is an infection of the lungs, caused by bacteria or viruses.\n\n- Anyone of any age can be affected, but children under the age of four years are very susceptible.\n\n- Certain people can be immunised against one of the most common types of bacterial pneumonia.\n\n## On this page\n\n- Symptoms of pneumonia\n\n- Causes of pneumonia\n\n- Diagnosis for pneumonia\n\n- Treatment for pneumonia\n\n- Immunisation for pneumonia\n\n- Where to get help\n\nPneumonia is a type of lung infection, caused by a virus or bacteria. The lungs are filled with thousands of tubes, called bronchi, which end in smaller sacs called alveoli. Each one has a fine mesh of capillaries. This is where oxygen is added to the blood and carbon dioxide is removed.\n\nIf a person has pneumonia, the alveoli in one or both lungs fill with pus and fluids (exudate), which interferes with the gas exchange. This is sometimes known as ‘consolidation and collapse of the lung’.\n\nAnyone of any age can contract pneumonia, but it tends to be common in children aged four years and under, and in the elderly. Pneumonia can strike suddenly or gradually. With appropriate treatment, you can expect to get better in around seven to 10 days.\n\n## Symptoms of pneumonia\n\nThe symptoms of pneumonia depend on the age of the person, the cause and severity of the infection, and any existing problems with immunity. Some of the symptoms may include:\n\n- rapid breathing\n\n- breathing difficulties\n\n- fever\n\n- general malaise\n\n- loss of appetite\n\n- abdominal pain\n\n- headache\n\n- chest pain\n\n- cough\n\n- blue colouration of the skin around the mouth (cyanosis), caused by lack of oxygen.\n\n## Causes of pneumonia\n\nPneumonia can be triggered by a cold or bout of flu, which allows the germs to gain access to the alveoli. In about half of all cases, no cause is ever found. Some of the micro-organisms that can cause pneumonia include:\n\n- Bacteria – symptoms include rust or green-coloured phlegm. Anyone of any age can be affected, but susceptible groups include babies, the elderly, alcoholics, and people recovering from surgery or coping with other illnesses (such as lung disease).\n\n- Viruses – symptoms are similar to a severe bout of flu. It is thought that around 50 per cent of pneumonia cases are caused by viral infections.\n\n- Mycoplasma (a special kind of bacteria) – symptoms can include white phlegm, nausea and vomiting. Pneumonia caused by mycoplasma organisms is generally mild, but recovery takes longer.\n\n## Diagnosis for pneumonia\n\nIf your child seems to be recovering well from a cold or flu, but then relapses, they may have a chest infection. See your doctor immediately, since pneumonia can be life threatening to babies and young children.\n\nPneumonia is diagnosed using a variety of tests, such as general examination and chest x-rays.\n\n## Treatment for pneumonia\n\nIn many cases, the person’s own immune system can deal with the infection, but antibiotics may sometimes assist recovery.\n\nTreatment depends on the age of the individual and the type of infection, but can include:\n\n- hospital admission – for babies, young children and the elderly. Mild or moderate cases of pneumonia in people who are otherwise well can often be treated at home.\n\n- plenty of fluids – taken orally or intravenously\n\n- antibiotics – to kill the infection, if bacteria are the cause\n\n- medications – to relieve pain and reduce fever\n\n- rest – sitting up is better than lying down.\n\n## Immunisation for pneumonia\n\nOne of the most common types of bacterial pneumonia is pneumococcal pneumonia, caused by infection with Streptococcus pneumoniae . There are vaccines against this strain that reduce the risk of infection.\n\nIt is recommended that certain people be immunised, including:\n\n- young children under 5 years of age\n\n- older people aged of 70 years and over\n\n- people with chronic illnesses, such as diabetes, asthma or respiratory disorders\n\n- people with reduced immunity\n\n- people who have had an organ transplant\n\n- people who have damaged spleens or have had their spleens surgically removed\n\n- Aboriginal and Torres Strait Islander people aged 50 years and over\n\n- An additional dose for Aboriginal and Torres Strait Islander children at 6 months of age.\n\n## Where to get help\n\n- Your GP (doctor)\n\n- Nurse-on-Call Tel. 1300 60 60 24 – for expert health information and advice (24 hours, 7 days)\n\n- Lung Foundation Australia Tel. 1800 654 301\n\n## Chest and lungs – Pneumonia, The Sydney Children’s Hospitals Network.\n\n- What are the symptoms of pneumonia? , NPS MedicineWise.\n\n- Community acquired pneumonia in adults – guideline , British Thoracic Society.\n\nThis page has been produced in consultation with and approved by:\n\n## Give feedback about this page\n\nWas this page helpful?\n\nYes No\n\nView all lungs\n\n## More information\n\n## Related information\n\n- Respiratory system\n\n- Asthma explained\n\nReviewed on: 29-08-2025\n\n## Footer\n\n### Footer navigation\n\n#### Health topics\n\n#### Explore\n\n- Videos\n\n- Service profiles\n\n- Consumer medicine information - Healthdirect\n\n- Multilingual health information - Health Translations Directory\n\n#### About\n\n- About us\n\n- Accessibility\n\n- Content partners\n\n- Privacy\n\n- Terms of use\n\n- Contact us\n\n#### Connect with us\n\n- Facebook\n\n- X (formerly Twitter)\n\n- YouTube\n\n- Instagram\n\n### Footer other information\n\nThe Victorian Government acknowledges Aboriginal and Torres Strait Islander people as the Traditional Custodians of the land and acknowledges and pays respect to their Elders, past and present.\n\nThe Department of Health celebrates, values and includes people of all backgrounds, genders, sexualities, cultures, bodies and abilities.\n\nPrivacy statement: https://www.betterhealth.vic.gov.au/about/privacy\n\nCopyright notice: https://www.betterhealth.vic.gov.au/about/terms-of-use\n\nDisclaimer notice: https://www.betterhealth.vic.gov.au/about/terms-of-use\n\nThis web site is managed and authorised by the Department of Health, State Government of Victoria, Australia © Copyright State of Victoria 2024.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#rpl-main\n\n- Better Health Channel: https://www.betterhealth.vic.gov.au/\n\n- https://www.health.vic.gov.au: https://www.health.vic.gov.au\n\n- Allergies: https://www.betterhealth.vic.gov.au/conditionsandtreatments/allergies\n\n- Anxiety: https://www.betterhealth.vic.gov.au/conditionsandtreatments/anxiety\n\n- Arthritis: https://www.betterhealth.vic.gov.au/conditionsandtreatments/arthritis\n\n- Asthma: https://www.betterhealth.vic.gov.au/conditionsandtreatments/asthma\n\n- Behavioural conditions: https://www.betterhealth.vic.gov.au/conditionsandtreatments/behavioural-conditions\n\n- Birth defects: https://www.betterhealth.vic.gov.au/conditionsandtreatments/birth-defects\n\n- Cancer: https://www.betterhealth.vic.gov.au/conditionsandtreatments/cancer\n\n- COVID-19: https://www.betterhealth.vic.gov.au/covid-19-victoria\n\n- Dementia: https://www.betterhealth.vic.gov.au/conditionsandtreatments/dementia\n\n- Depression: https://www.betterhealth.vic.gov.au/conditionsandtreatments/depression\n\n- Diabetes: https://www.betterhealth.vic.gov.au/conditionsandtreatments/diabetes\n\n- Infections: https://www.betterhealth.vic.gov.au/conditionsandtreatments/infections\n\n- Mental health and wellbeing: https://www.betterhealth.vic.gov.au/conditionsandtreatments/mental-health-and-wellbeing\n\n- Sexually transmissible infections: https://www.betterhealth.vic.gov.au/conditionsandtreatments/sexually-transmissible-infections\n\n- Sleep: https://www.betterhealth.vic.gov.au/conditionsandtreatments/sleep\n\n- Stroke: https://www.betterhealth.vic.gov.au/conditionsandtreatments/stroke\n\n- Pain and pain management: https://www.betterhealth.vic.gov.au/conditionsandtreatments/pain-and-pain-management\n\n- Mouth and teeth: https://www.betterhealth.vic.gov.au/conditionsandtreatments/mouth-and-teeth\n\n- Blood and blood vessels: https://www.betterhealth.vic.gov.au/conditionsandtreatments/blood-and-blood-vessels\n\n- Hair and nails: https://www.betterhealth.vic.gov.au/conditionsandtreatments/hair-and-nails\n\n- Genetic conditions: https://www.betterhealth.vic.gov.au/conditionsandtreatments/genes-and-genetics\n\n- Bones muscles and joints: https://www.betterhealth.vic.gov.au/conditionsandtreatments/bones-muscles-and-joints\n\n- Ear nose and throat: https://www.betterhealth.vic.gov.au/conditionsandtreatments/ear-nose-and-throat\n\n- Fertility and the reproductive system - male: https://www.betterhealth.vic.gov.au/conditionsandtreatments/fertility-reproductive-system-male\n\n- Fertility and the reproductive system - female: https://www.betterhealth.vic.gov.au/conditionsandtreatments/fertility-reproductive-system-female\n\n- Digestive system: https://www.betterhealth.vic.gov.au/conditionsandtreatments/digestive-system\n\n- Immune system: https://www.betterhealth.vic.gov.au/conditionsandtreatments/immune-system\n\n- Hormonal system (endocrine): https://www.betterhealth.vic.gov.au/conditionsandtreatments/hormonal-system-endocrine\n\n- Neuromuscular system: https://www.betterhealth.vic.gov.au/conditionsandtreatments/neuromuscular-system\n\n- Brain and nerves: https://www.betterhealth.vic.gov.au/conditionsandtreatments/brain-and-nerves\n\n- Eyes: https://www.betterhealth.vic.gov.au/conditionsandtreatments/eyes\n\n- Lungs: https://www.betterhealth.vic.gov.au/conditionsandtreatments/lungs\n\n- Kidney and bladder: https://www.betterhealth.vic.gov.au/conditionsandtreatments/kidney-and-bladder\n\n- Heart: https://www.betterhealth.vic.gov.au/conditionsandtreatments/heart\n\n- Skin: https://www.betterhealth.vic.gov.au/conditionsandtreatments/skin\n\n- Complementary and alternative care: https://www.betterhealth.vic.gov.au/conditionsandtreatments/complementary-and-alternative-care\n\n- First Aid: https://www.betterhealth.vic.gov.au/conditionsandtreatments/first-aid\n\n- Surgery: https://www.betterhealth.vic.gov.au/conditionsandtreatments/surgery\n\n- Medical tests: https://www.betterhealth.vic.gov.au/conditionsandtreatments/medical-tests\n\n- Medications: https://www.betterhealth.vic.gov.au/conditionsandtreatments/medications\n\n- Health checks: https://www.betterhealth.vic.gov.au/healthyliving/health-checks\n\n- Healthy eating: https://www.betterhealth.vic.gov.au/healthyliving/healthy-eating\n\n- Healthy mind: https://www.betterhealth.vic.gov.au/healthyliving/healthy-mind\n\n- Keeping active: https://www.betterhealth.vic.gov.au/healthyliving/keeping-active\n\n- Weight management: https://www.betterhealth.vic.gov.au/healthyliving/weight-management\n\n- Work: https://www.betterhealth.vic.gov.au/healthyliving/work\n\n- Immunisation: https://www.betterhealth.vic.gov.au/healthyliving/immunisation\n\n- Safety: https://www.betterhealth.vic.gov.au/healthyliving/safety\n\n- Environmental health: https://www.betterhealth.vic.gov.au/healthyliving/environmental-health\n\n- Travel and holidays: https://www.betterhealth.vic.gov.au/healthyliving/travel-and-holidays\n\n- Pregnancy: https://www.betterhealth.vic.gov.au/healthyliving/pregnancy\n\n- Parents: https://www.betterhealth.vic.gov.au/healthyliving/parents\n\n- Child health (0-6): https://www.betterhealth.vic.gov.au/healthyliving/child-health-0-6\n\n- Children (4-12): https://www.betterhealth.vic.gov.au/healthyliving/children-4-12\n\n- Young people (13-19): https://www.betterhealth.vic.gov.au/healthyliving/young-people-13-19\n\n- Relationships: https://www.betterhealth.vic.gov.au/healthyliving/relationships\n\n- Sexual health: https://www.betterhealth.vic.gov.au/healthyliving/sexual-health\n\n- Family violence: https://www.betterhealth.vic.gov.au/healthyliving/family-violence\n\n- Alcohol: https://www.betterhealth.vic.gov.au/healthyliving/alcohol\n\n- Drugs: https://www.betterhealth.vic.gov.au/healthyliving/drugs\n\n- Smoking and tobacco: https://www.betterhealth.vic.gov.au/healthyliving/smoking-and-tobacco\n\n- Aged care services: https://www.betterhealth.vic.gov.au/servicesandsupport/aged-care-services\n\n- Alcohol and drug services: https://www.betterhealth.vic.gov.au/servicesandsupport/alcohol-and-drug-services\n\n- Carers, caring and respite care services: https://www.betterhealth.vic.gov.au/servicesandsupport/carers-caring-and-respite-care-services\n\n- Disability services: https://www.betterhealth.vic.gov.au/servicesandsupport/disability-services\n\n- Emergency, crisis and support services: https://www.betterhealth.vic.gov.au/servicesandsupport/emergency-crisis-and-support-services\n\n- LGBTIQA+ support services: https://www.betterhealth.vic.gov.au/servicesandsupport/lgbtiqa-support\n\n- Mental health services: https://www.betterhealth.vic.gov.au/servicesandsupport/mental-health-services\n\n- Palliative care and end of life services: https://www.betterhealth.vic.gov.au/servicesandsupport/end-of-life-and-palliative-care-services\n\n- Trauma recovery services: https://www.betterhealth.vic.gov.au/servicesandsupport/trauma-recovery-services\n\n- Planning and coordinating healthcare: https://www.betterhealth.vic.gov.au/servicesandsupport/planning-and-coordinating-healthcare\n\n- Seeing a doctor, specialist or health professional: https://www.betterhealth.vic.gov.au/servicesandsupport/seeing-a-doctor-specialist-or-health-professional\n\n- Hospitals, surgery and procedures: https://www.betterhealth.vic.gov.au/servicesandsupport/hospitals-surgery-and-procedures\n\n- Child, family and relationship services: https://www.betterhealth.vic.gov.au/servicesandsupport/child-family-and-relationship-services\n\n- Pregnancy and birth services: https://www.betterhealth.vic.gov.au/servicesandsupport/pregnancy-and-birth-services\n\n- Urgent Care Services: https://www.betterhealth.vic.gov.au/urgent-care-services\n\n- Women's health and wellbeing: https://www.betterhealth.vic.gov.au/womens-health-and-wellbeing\n\n- Chemist Care Now: https://www.betterhealth.vic.gov.au/chemist-care-now\n\n- Don't risk the flu. Get vaccinated today.: https://www.betterhealth.vic.gov.au/get-vaccinated\n\n- A-Z: https://www.betterhealth.vic.gov.au/a-z\n\n- Search: https://www.betterhealth.vic.gov.au/search\n\n- Read the full fact sheet: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#bhc-content\n\n- Symptoms of pneumonia: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#symptoms-of-pneumonia\n\n- Causes of pneumonia: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#causes-of-pneumonia\n\n- Diagnosis for pneumonia: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#diagnosis-for-pneumonia\n\n- Treatment for pneumonia: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#treatment-for-pneumonia\n\n- Immunisation for pneumonia: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#immunisation-for-pneumonia\n\n- Where to get help: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pneumonia#where-to-get-help\n\n- GP (doctor): https://www.betterhealth.vic.gov.au/health/serviceprofiles/general-practitioner-services\n\n- Nurse-on-Call: https://www.betterhealth.vic.gov.au/health/serviceprofiles/nurse-on-call-service\n\n- Lung Foundation Australia: https://lungfoundation.com.au/\n\n- What are the symptoms of pneumonia?: https://www.nps.org.au/medical-info/consumer-info/respiratory-tract-infections-rtis-nose-throat-and-lungs?c=pneumonia-72766f53\n\n- Community acquired pneumonia in adults – guideline: https://www.brit-thoracic.org.uk/quality-improvement/clinical-resources/adult-community-acquired-pneumonia/\n\n- https://www.health.vic.gov.au/: https://www.health.vic.gov.au/\n\n- http://www.lungfoundation.com.au/: http://www.lungfoundation.com.au/\n\n- Fever: https://www.betterhealth.vic.gov.au/health/healthyliving/air-pollution\n\n- Respiratory system: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/respiratory-system\n\n- Asthma explained: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/asthma\n\n- Chest pain: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/chest-pain\n\n- Conditions and treatments: https://www.betterhealth.vic.gov.au/conditionsandtreatments\n\n- Healthy living: https://www.betterhealth.vic.gov.au/healthyliving\n\n- Services and support: https://www.betterhealth.vic.gov.au/servicesandsupport\n\n- Videos: https://www.betterhealth.vic.gov.au/a-z-videos\n\n- Service profiles: https://www.betterhealth.vic.gov.au/a-z-service-profiles\n\n- Consumer medicine information - Healthdirect: https://www.healthdirect.gov.au/medicines\n\n- Multilingual health information - Health Translations Directory: https://www.healthtranslations.vic.gov.au/\n\n- About us: https://www.betterhealth.vic.gov.au/about/about-us\n\n- Accessibility: https://www.betterhealth.vic.gov.au/about/accessibility\n\n- Content partners: https://www.betterhealth.vic.gov.au/about/content-partners-listing\n\n- Privacy: https://www.betterhealth.vic.gov.au/about/privacy\n\n- Terms of use: https://www.betterhealth.vic.gov.au/about/terms-of-use\n\n- Contact us: https://www.betterhealth.vic.gov.au/about/contact-us\n\n- Facebook: https://www.facebook.com/BetterHealthChannel\n\n- X (formerly Twitter): https://twitter.com/betterhealthgov\n\n- YouTube: https://www.youtube.com/user/betterhealthchannel\n\n- Instagram: https://www.instagram.com/betterhealthgov/"
+}

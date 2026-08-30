@@ -1,0 +1,811 @@
+{
+  "source_id": "healthdirect-australia:support-for-carers-of-people-with-dementia",
+  "title": "Supporting carers of people with dementia | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 41687,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/caring-for-others",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia"
+    },
+    {
+      "text": "What does caring for someone with dementia involve?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#involve"
+    },
+    {
+      "text": "How can I manage the challenges of being a carer?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#manage"
+    },
+    {
+      "text": "What support is available to carers of someone with dementia?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#support"
+    },
+    {
+      "text": "What support is available when I can't care for my loved one?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#care"
+    },
+    {
+      "text": "What long-term dementia care options are available?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#options"
+    },
+    {
+      "text": "When can I introduce palliative care?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#palliative-care"
+    },
+    {
+      "text": "How can I access care for a person with dementia?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#access"
+    },
+    {
+      "text": "How do I know which care option is best?",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#best"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#searchGeneralResults"
+    },
+    {
+      "text": "incontinence",
+      "url": "https://www.healthdirect.gov.au/living-with-dementia"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "legal rights and responsibilities",
+      "url": "https://www.carergateway.gov.au/legal-financial-health-services/legal-matters/legal-rights"
+    },
+    {
+      "text": "healthy diet",
+      "url": "https://www.healthdirect.gov.au/healthy-eating"
+    },
+    {
+      "text": "regular exercise",
+      "url": "https://www.healthdirect.gov.au/exercise-and-mental-health"
+    },
+    {
+      "text": "enough sleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "counselling",
+      "url": "https://www.healthdirect.gov.au/counsellors-and-counselling"
+    },
+    {
+      "text": "respite care",
+      "url": "https://www.healthdirect.gov.au/respite-care"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/help-and-support/caring-me/talk-and-connect/peer-support-groups"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/get-support/connecting-peers"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/get-support/counselling"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/caring-for-someone"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/types-care/respite-care"
+    },
+    {
+      "text": "In-home care",
+      "url": "https://www.healthdirect.gov.au/help-to-remain-living-at-home-if-you-have-a-chronic-disease-or-serious-illness"
+    },
+    {
+      "text": "Support at Home",
+      "url": "https://www.myagedcare.gov.au/supportathome"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "residential aged care",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "Palliative care",
+      "url": "https://www.healthdirect.gov.au/palliative-care"
+    },
+    {
+      "text": "terminal illness",
+      "url": "https://www.healthdirect.gov.au/coping-with-a-terminal-illness"
+    },
+    {
+      "text": "online through My Aged Care",
+      "url": "https://www.myagedcare.gov.au/how-apply-assessment"
+    },
+    {
+      "text": "Aged Care Specialist Officer (ASCO)",
+      "url": "https://www.servicesaustralia.gov.au/aged-care-specialist-officer-my-aged-care-face-to-face-services?context=55715"
+    },
+    {
+      "text": "NDIS website",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "extra nursing care",
+      "url": "https://www.healthdirect.gov.au/nurse"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.dementia.org.au/about-dementia"
+    },
+    {
+      "text": "Call them on 1800 100 500 or chat online",
+      "url": "https://www.dementia.org.au/get-support/national-dementia-helpline"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "practical tips",
+      "url": "https://www.carergateway.gov.au/your-life-carer/practical-tips-caring-home"
+    },
+    {
+      "text": "support for carers",
+      "url": "https://www.carergateway.gov.au/help-and-support/getting-support-carergatewy"
+    },
+    {
+      "text": "how to get assessed",
+      "url": "https://www.myagedcare.gov.au/how-get-assessed"
+    },
+    {
+      "text": "support for carers",
+      "url": "https://www.myagedcare.gov.au/carers"
+    },
+    {
+      "text": "Veterans' Home Care",
+      "url": "https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services/living-independently/dva-in-home-programs/veterans-home-care-vhc"
+    },
+    {
+      "text": "factsheets",
+      "url": "https://www.dementia.com.au/resource-hub?audience=carer"
+    },
+    {
+      "text": "support groups",
+      "url": "https://www.dementia.com.au/carer-conversations"
+    },
+    {
+      "text": "caring for someone with dementia",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/tips-for-friends-dementia"
+    },
+    {
+      "text": "respite care",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/making-the-most-of-respite-care-caring-for-someone-with-dementia-no-6"
+    },
+    {
+      "text": "dementia",
+      "url": "https://caringforspirit.neura.edu.au/still-me-still-deadly/"
+    },
+    {
+      "text": "caring for someone with dementia",
+      "url": "https://caringforspirit.neura.edu.au/research/caring-for-a-person-with-dementia/"
+    },
+    {
+      "text": "(Self-care for carers)",
+      "url": "https://www.dementia.org.au/living-dementia/family-friends-and-carers/self-care-carers"
+    },
+    {
+      "text": "(Caring for someone with dementia)",
+      "url": "https://www.myagedcare.gov.au/caring-someone-living-dementia"
+    },
+    {
+      "text": "(Impacts of caring)",
+      "url": "https://www.carersnsw.org.au/about-caring/impacts-of-caring"
+    },
+    {
+      "text": "(Financial support)",
+      "url": "https://www.carergateway.gov.au/help-and-support/caring-me/available-support-carers/financial-support"
+    },
+    {
+      "text": "(Respite care)",
+      "url": "https://www.dementia.org.au/living-dementia/care-options/respite-care"
+    },
+    {
+      "text": "(Centre Based Respite)",
+      "url": "https://www.coasit.org.au/services/community-services/aged-care-services/centre-based-respite/"
+    },
+    {
+      "text": "(Residential care)",
+      "url": "https://www.dementia.org.au/living-dementia/care-options/residential-care"
+    },
+    {
+      "text": "(Retirement villages)",
+      "url": "https://www.dementiaorg.au/living-dementia/care-options/retirement-villages"
+    },
+    {
+      "text": "(Palliative care)",
+      "url": "https://www.dementia.org.au/living-dementia/care-options/palliative-care"
+    },
+    {
+      "text": "(National Disability Insurance Scheme (NDIS) support)",
+      "url": "https://www.dementia.org.au/get-support/national-disability-insurance-scheme-ndis-support"
+    },
+    {
+      "text": "(The Dementia Guide)",
+      "url": "https://www.dementia.org.au/sites/default/files/2025-06/The-Dementia-Guide.pdf?slug=sites&slug=default&slug=files&slug=2025-06&slug=The-Dementia-Guide.pdf"
+    },
+    {
+      "text": "(Dementia In Australia)",
+      "url": "https://www.aihw.gov.au/getmedia/60d5d0da-fd52-4962-ae7d-d1692c3a7433/dementia-in-australia.pdf?v=20240607132143&inline=true"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#backToTop"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander peoples and dementia",
+      "url": "https://www.healthdirect.gov.au/aboriginal-and-torres-strait-islander-people-and-dementia"
+    },
+    {
+      "text": "Dementia – an overview",
+      "url": "https://www.healthdirect.gov.au/dementia-overview"
+    },
+    {
+      "text": "Dementia and driving",
+      "url": "https://www.healthdirect.gov.au/dementia-and-driving"
+    },
+    {
+      "text": "Frontotemporal dementia",
+      "url": "https://www.healthdirect.gov.au/frontotemporal-dementia"
+    },
+    {
+      "text": "How to care for someone with dementia at home",
+      "url": "https://www.healthdirect.gov.au/how-to-care-for-someone-with-dementia-at-home"
+    },
+    {
+      "text": "Living well with dementia after diagnosis",
+      "url": "https://www.healthdirect.gov.au/living-with-dementia-after-diagnosis"
+    },
+    {
+      "text": "Tests used in diagnosing dementia",
+      "url": "https://www.healthdirect.gov.au/tests-used-in-diagnosing-dementia"
+    },
+    {
+      "text": "Vascular dementia",
+      "url": "https://www.healthdirect.gov.au/vascular-dementia"
+    },
+    {
+      "text": "Younger onset dementia",
+      "url": "https://www.healthdirect.gov.au/younger-onset-dementia"
+    },
+    {
+      "text": "Respite Care",
+      "url": "https://www.healthdirect.gov.au/search-results/Respite Care"
+    },
+    {
+      "text": "Carers",
+      "url": "https://www.healthdirect.gov.au/search-results/Carers"
+    },
+    {
+      "text": "Memory Disorders",
+      "url": "https://www.healthdirect.gov.au/search-results/Memory Disorders"
+    },
+    {
+      "text": "Delirium",
+      "url": "https://www.healthdirect.gov.au/search-results/Delirium"
+    },
+    {
+      "text": "Mini Mental State Examination",
+      "url": "https://www.healthdirect.gov.au/search-results/Mini Mental State Examination"
+    },
+    {
+      "text": "Creutzfeldt Jakob Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Creutzfeldt Jakob Disease"
+    },
+    {
+      "text": "Alzheimer's Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Alzheimer's Disease"
+    },
+    {
+      "text": "Huntington's Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Huntington's Disease"
+    },
+    {
+      "text": "Lewy Body Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Lewy Body Disease"
+    },
+    {
+      "text": "Dementia Carers Page Personalised support for those you care for. When behaviour changes impact the care of people you love, we're here to help. Read more on Dementia Support Australia website",
+      "url": "https://www.dementia.com.au/dementia-carers-page"
+    },
+    {
+      "text": "Carer Support Groups | Carers NSW Carer support groups enable carers to meet and connect with other carers who understand the challenges of caring for a family member or friend. Read more on Carers NSW website",
+      "url": "https://www.carersnsw.org.au/services-and-support/programs-services/carer-support-groups"
+    },
+    {
+      "text": "Vascular dementia | Dementia Australia Vascular dementia is caused by damage from restricted blood flow to the brain. Learn about vascular dementia, its causes, diagnosis and treatment. Read more on Dementia Australia website",
+      "url": "https://www.dementia.org.au/about-dementia/vascular-dementia"
+    },
+    {
+      "text": "Frontotemporal dementia | Dementia Australia Frontotemporal dementia is a condition affecting the brain’s frontal and temporal lobes. Learn about frontotemporal dementia and its symptoms, causes and treatment. Read more on Dementia Australia website",
+      "url": "https://www.dementia.org.au/about-dementia/frontotemporal-dementia"
+    },
+    {
+      "text": "Childhood dementia | Dementia Australia Dementia is usually associated with adults. But young children and teenagers can develop dementia too. Learn about its symptoms and diagnosis, and find support. Read more on Dementia Australia website",
+      "url": "https://www.dementia.org.au/about-dementia/childhood-dementia"
+    },
+    {
+      "text": "Dementia Alzheimer’s disease is a form of dementia. Read more on WA Health website",
+      "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Alzheimers-disease"
+    },
+    {
+      "text": "Top 5 household life skills for young carers | Carer Gateway We know that many young carers find themselves caring for someone and looking after a household before they have all the life skills they need. Read more on Carer Gateway website",
+      "url": "https://www.carergateway.gov.au/your-life-carer/practical-tips-caring-home/around-house/life-skills-young-carers"
+    },
+    {
+      "text": "Living with dementia | Dementia Australia A dementia diagnosis changes things, but support is available. Learn about changes you can expect, how to plan ahead, and how to stay safe and connected. Read more on Dementia Australia website",
+      "url": "https://www.dementia.org.au/living-dementia"
+    },
+    {
+      "text": "RACGP - Dementia Dementia is a clinical syndrome that is caused by a number of underlying diseases Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/dementia"
+    },
+    {
+      "text": "RACGP - Dementia It is estimated that over 400,000 people in Australia are living with dementia. It is the leading cause of death in women and a leading cause of burden of disease overall Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/mental-health/dementia"
+    },
+    {
+      "text": "Advanced Dementia Care for advanced dementia focuses on comfort and dignity. It involves managing symptoms like pain, distress, and difficulty swallowing, while supporting families through compassionate care. Read more on palliAGED website",
+      "url": "https://www.palliaged.com.au/Improving-Care/Complex-Needs/Advanced-Dementia/"
+    },
+    {
+      "text": "What is Dementia? Dementia is the term used for a collection of symptoms caused by disorders affecting the brain - it is not one specific disease. Dementia should not be considered a ‘normal’ part of ageing. Although it’s more common after 65 years of age, it can happen to anybody. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dementia-awareness"
+    },
+    {
+      "text": "Information for Families - Working with Patients, Carers and Families - Allied Health - Health Professionals Helping families understand allied health roles can help strengthen care by clarifying team contributions and promoting collaboration in patient support. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Health-Professionals/Allied-Health/Working-with-Patients-Carers-and-Families/Information-for-Families/"
+    },
+    {
+      "text": "Dementia - Older Australia - Community Understand dementia's impact on memory, daily life, and end-of-life care. Access resources to support planning, families, and culturally appropriate care. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Community/Older-Australia/Dementia/"
+    },
+    {
+      "text": "Responsible Information Delivery Effective communication between healthcare staff and clients is an essential component of providing high-quality and safe care. As well as improving client outcomes and satisfaction, effective communication is crucial in preventing errors, unnecessary distress and inappropriate interventions. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/information-delivery-and-management"
+    },
+    {
+      "text": "Environmental Design in Dementia Care A person is only as restricted as their environment causes them to be. Cognitive capacities are impacted when a person develops dementia. As a result, physical and social environments become increasingly difficult to navigate. Because of this, care and thought must be applied to the design of environments for people with dementia. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/environmental-design-in-dementia-care"
+    },
+    {
+      "text": "RACGP - Information on FGCS This guide aims to help inform GPs and health professionals about FGCS, including the factors influencing demand, and provide a set of recommendations on how to manage women requesting referral for FGCS or expressing concern regarding their genitalia. Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/female-genital-cosmetic-surgery/information-on-fgcs"
+    },
+    {
+      "text": "RACGP - Families and carers Involving families and carers in the care of older people is vital Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-b/family-and-carers"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Supporting carers of people with dementia | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Support for carers of people with dementia\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you need emergency respite care, call the Carer Gateway on 1800 422 737.\n\n## Key facts\n\n- Emotional support is available for carers through organisations like Carer Gateway.\n\n- Carers can apply for financial support through Services Australia.\n\n- If you need a break from caregiving, respite care services can take care of your loved one.\n\n- You can access care for someone with dementia through My Aged Care, Carers Gateway and community organisations.\n\n- Long-term care options are available for people with dementia through My Aged Care.\n\n## On this page\n\n- What does caring for someone with dementia involve?\n\n- How can I manage the challenges of being a carer?\n\n- What support is available to carers of someone with dementia?\n\n- What support is available when I can't care for my loved one?\n\n- What long-term dementia care options are available?\n\n- When can I introduce palliative care?\n\n- How can I access care for a person with dementia?\n\n- How do I know which care option is best?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What does caring for someone with dementia involve?\n\nWhen you are a carer for someone with dementia, you may be helping them with many activities, such as:\n\n- taking the right medicines at the right time\n\n- arranging shopping or meals\n\n- bathing, toileting or incontinence (bladder or bowel accidents)\n\n- keeping them safe\n\nThese responsibilities might grow, as the person's needs change over time.\n\nSome carers are in paid roles. Often, carers are unpaid family members or loved ones of the person living with dementia .\n\nDepending on your role and your relationship with the person you care for, you may have different legal rights and responsibilities . This might also change over time as the health of the person you care for changes.\n\nYour role as a carer may be on top of your own commitments like caring for your family, work or study.\n\nYou may find that you use lots of your time and energy caring for the person with dementia.\n\nAll these things can make caregiving demanding physically, emotionally and financially.\n\n## How can I manage the challenges of being a carer?\n\nTo manage the challenges of being a carer, looking after your health and wellbeing is very important.\n\nThere are ways you can take care of yourself and be there for the person you care for, including:\n\n- having a healthy diet\n\n- getting regular exercise\n\n- getting enough sleep\n\n- staying connected with friends\n\n- having breaks from the caring role\n\n- looking after your physical health\n\n- having a regular routine\n\nWhen planning your schedule, include help from support services, friends and family members where possible.\n\n## What support is available to carers of someone with dementia?\n\nSupport for carers of someone with dementia includes peer support, counselling , financial payments and respite care .\n\nFamily and friends may also be able to support you. Ask for help when you need it — others may not realise you need support unless you tell them. When friends and family can help, accept their support.\n\n### Peer support\n\nCarer peer support groups often meet to talk about experiences that may be like yours. Attending these meetings may be comforting and helpful. If you can't attend in person, online peer support is available.\n\nOnline forums also allow carers to share their experiences and ask for advice and recommendations.\n\nYou can find information on peer support through organisations, such as Carer Gateway and Dementia Australia .\n\n### Counselling\n\nIt's normal to feel a range of emotions as a carer. Talking to a counsellor can help you manage these feelings and find ways to cope. Organisations such as Dementia Australia offer counselling in person, online, by phone and by video call.\n\n### Financial support\n\nIf you are caring for someone with dementia, you may be able to get financial support from the government. To apply for financial support, contact Services Australia .\n\n## What support is available when I can't care for my loved one?\n\nRespite care is when a professional carer takes on the caring tasks for a while. This gives you a break.\n\nRespite care can be provided at home or in a care centre.\n\nLong-term care centres sometimes allow overnight stays for a short period of time to give the regular carer a break. There can be wait times for these services — plan ahead if you can and check if local centres offer respite care and how to book.\n\nGovernment-funded respite programs are available. Visit My Aged Care to find out more about these programs.\n\nIt's very important to give yourself time to do everyday activities and to look after yourself. Taking breaks will make you a better carer.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n### In-home care\n\nIn-home care includes services given at the home of someone with dementia, such as:\n\n- companion services — help with supervision or recreational activities\n\n- personal care services — help with bathing, dressing and toileting\n\n- homemaker services — help with preparing food, shopping and housekeeping\n\n- skilled care — help with medicines and other medical needs\n\nSupport at Home is a government program that helps to provide access to in-home care services. You can find more information about this program through My Aged Care .\n\n### Centre based\n\nCentre-based care offers care for a certain period during the day. This type of care gives you a break and people with dementia an opportunity to socialise and to take part in activities.\n\nThe person you are caring for might not want to go to a day centre at first. This is normal. Once they start this care, they will often look forward to going.\n\nYou can find out more about this type of care through My Aged Care .\n\n## What long-term dementia care options are available?\n\nThere may be a time when a person with dementia needs more care than can be provided at home or through short-term support.\n\nDuring the middle stages of dementia, the person may need supervision all the time to stay safe. As dementia progresses, the person may need even more support. A long-term care setting may be best.\n\nThere are different types of care, depending on each person's needs.\n\n- Retirement villages may be appropriate for people in the early stage of dementia.\n\n- Low-level residential aged care typically offers a combination of housing, meals, supportive services and health care.\n\n- High-level residential aged care provides around-the-clock care and long-term medical treatment.\n\n- Dementia special care units group people with dementia together on a floor or a unit within larger long-term care homes.\n\nDeciding on long-term care may be a stressful experience for families. Some carers may feel guilty and wonder if they are doing the right thing. These feelings are normal.\n\nGet information about your options and talk them through with trusted family or friends. This can help make sure the person gets the care they need.\n\n## When can I introduce palliative care?\n\nYou can introduce palliative care at any stage of dementia. Palliative care is not just for people at the end of life. It can start at any time from the moment someone is diagnosed with a long-term illness.\n\nPalliative care is a type of specialised medical care for people living with serious, chronic, life-limiting or terminal illness .\n\n## How can I access care for a person with dementia?\n\nYou or the person with dementia can apply for government-supported care through My Aged Care. The first step is getting an assessment to determine the level of care needed.\n\nYou can apply for an assessment online through My Aged Care or by calling My Aged Care on 1800 200 422 . You will need a Medicare card to apply.\n\nYou can also start your application by booking a face-to-face appointment with an Aged Care Specialist Officer (ASCO) through Services Australia.\n\nThe National Disability Insurance Scheme (NDIS) provides funding for eligible people aged under 65. Visit the NDIS website to check whether the person you care for can receive NDIS funding.\n\n## How do I know which care option is best?\n\nThe type of care that is best for the person you are caring for will depend on:\n\n- their personal preferences\n\n- their financial resources\n\n- their overall health and needs\n\n- what dementia support they need\n\nWhen choosing care, consider:\n\n- what you and the person need now, and in the future\n\n- that the person may need more care over time\n\n- that you may no longer be able to care for them at home\n\n- asking your loved one what care they would like\n\n- speaking with their doctor and family members about the options available\n\n- seeking recommendations from a peer support group\n\n### How much care does a person with dementia need?\n\nHow much care a person needs depends on their health, safety and social needs.\n\nThe person you are caring for may need specialised care. This can include:\n\n- extra nursing care\n\n- supervision for some activities\n\n- hospice or palliative care services\n\nDifferent people may have different social needs. The person you care for may engage more with activities, or they may like to spend more time with other people.\n\nThink about if they need more care than they are currently getting, and if you can provide the care they need. This can help you choose the best care for them.\n\n## Resources and support\n\nIf you are caring for someone with dementia, organisations that can support you include:\n\n- Dementia Australia has more information about dementia and support for carers. Call them on 1800 100 500 or chat online .\n\n- Carer Gateway has practical tips and support for carers . Call on 1800 433 737 .\n\n- My Aged Care has information about how to get assessed for support services and support for carers . Call on 1800 200 422 . This includes Support at Home services.\n\n- Home support is also available through Veterans' Home Care . Call on 1300 550 450 .\n\n- Dementia Support Australia has factsheets for carers and online support groups for carers. Call Dementia Support Australia on 1800 699 799 or chat online.\n\n### Languages other than English\n\nVisit Health Translations for translated information about caring for someone with dementia and respite care .\n\n### Information for Aboriginal and Torres Strait Islander peoples\n\nCaring for Spirit has information about dementia and caring for someone with dementia .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nDementia Australia (Self-care for carers) , My Aged Care (Caring for someone with dementia) , Carers NSW (Impacts of caring) , Carer Gateway (Financial support) , Dementia Australia (Respite care) , Co.As.It. (Centre Based Respite) , Dementia Australia (Residential care) , Dementia Australia (Retirement villages) , Dementia Australia (Palliative care) , My Aged Care (How to get assessed) , My Aged Care (How to apply for an assessment) , Dementia Australia (National Disability Insurance Scheme (NDIS) support) , Dementia Australia (The Dementia Guide) , Australian Institute of Health and Welfare (Dementia In Australia)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: May 2026\n\nBack To Top\n\n## Related pages\n\n- Aboriginal and Torres Strait Islander peoples and dementia\n\n- Dementia – an overview\n\n- Dementia and driving\n\n- Frontotemporal dementia\n\n- How to care for someone with dementia at home\n\n- Living well with dementia after diagnosis\n\n- Tests used in diagnosing dementia\n\n- Vascular dementia\n\n- Younger onset dementia\n\n## Search our site for\n\n- Respite Care\n\n- Carers\n\n- Memory Disorders\n\n- Delirium\n\n- Mini Mental State Examination\n\n- Creutzfeldt Jakob Disease\n\n- Alzheimer's Disease\n\n- Huntington's Disease\n\n- Lewy Body Disease\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Dementia Carers Page\n\nPersonalised support for those you care for. When behaviour changes impact the care of people you love, we're here to help.\n\nRead more on Dementia Support Australia website\n\n### Carer Support Groups | Carers NSW\n\nCarer support groups enable carers to meet and connect with other carers who understand the challenges of caring for a family member or friend.\n\nRead more on Carers NSW website\n\n### Self-care for carers | Dementia Australia\n\nIt’s okay to spend time taking care of yourself. Not only because you’ll be better able to care for your loved one, but just because you’re a person who deserves care.\n\nRead more on Dementia Australia website\n\n### About dementia | Dementia Australia\n\nDementia is a brain condition. It’s not a normal part of ageing. Learn more about dementia, its symptoms, diagnosis, treatment, and available support.\n\n### Vascular dementia | Dementia Australia\n\nVascular dementia is caused by damage from restricted blood flow to the brain. Learn about vascular dementia, its causes, diagnosis and treatment.\n\n### Frontotemporal dementia | Dementia Australia\n\nFrontotemporal dementia is a condition affecting the brain’s frontal and temporal lobes. Learn about frontotemporal dementia and its symptoms, causes and treatment.\n\n### Childhood dementia | Dementia Australia\n\nDementia is usually associated with adults. But young children and teenagers can develop dementia too. Learn about its symptoms and diagnosis, and find support.\n\n### Dementia\n\nAlzheimer’s disease is a form of dementia.\n\nRead more on WA Health website\n\n### Top 5 household life skills for young carers | Carer Gateway\n\nWe know that many young carers find themselves caring for someone and looking after a household before they have all the life skills they need.\n\nRead more on Carer Gateway website\n\n### Living with dementia | Dementia Australia\n\nA dementia diagnosis changes things, but support is available. Learn about changes you can expect, how to plan ahead, and how to stay safe and connected.\n\nShow more\n\n### RACGP - Dementia\n\nDementia is a clinical syndrome that is caused by a number of underlying diseases\n\nRead more on RACGP website\n\nIt is estimated that over 400,000 people in Australia are living with dementia. It is the leading cause of death in women and a leading cause of burden of disease overall\n\n### Advanced Dementia\n\nCare for advanced dementia focuses on comfort and dignity. It involves managing symptoms like pain, distress, and difficulty swallowing, while supporting families through compassionate care.\n\nRead more on palliAGED website\n\n### What is Dementia?\n\nDementia is the term used for a collection of symptoms caused by disorders affecting the brain - it is not one specific disease. Dementia should not be considered a ‘normal’ part of ageing. Although it’s more common after 65 years of age, it can happen to anybody.\n\nRead more on Ausmed Education website\n\n### Information for Families - Working with Patients, Carers and Families - Allied Health - Health Professionals\n\nHelping families understand allied health roles can help strengthen care by clarifying team contributions and promoting collaboration in patient support.\n\nRead more on CareSearch website\n\n### Dementia - Older Australia - Community\n\nUnderstand dementia's impact on memory, daily life, and end-of-life care. Access resources to support planning, families, and culturally appropriate care.\n\n### Responsible Information Delivery\n\nEffective communication between healthcare staff and clients is an essential component of providing high-quality and safe care. As well as improving client outcomes and satisfaction, effective communication is crucial in preventing errors, unnecessary distress and inappropriate interventions.\n\n### Environmental Design in Dementia Care\n\nA person is only as restricted as their environment causes them to be. Cognitive capacities are impacted when a person develops dementia. As a result, physical and social environments become increasingly difficult to navigate. Because of this, care and thought must be applied to the design of environments for people with dementia.\n\n### RACGP - Information on FGCS\n\nThis guide aims to help inform GPs and health professionals about FGCS, including the factors influencing demand, and provide a set of recommendations on how to manage women requesting referral for FGCS or expressing concern regarding their genitalia.\n\n### RACGP - Families and carers\n\nInvolving families and carers in the care of older people is vital\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia\n\n- Please enter your name: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia\n\n- What does caring for someone with dementia involve?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#involve\n\n- How can I manage the challenges of being a carer?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#manage\n\n- What support is available to carers of someone with dementia?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#support\n\n- What support is available when I can't care for my loved one?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#care\n\n- What long-term dementia care options are available?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#options\n\n- When can I introduce palliative care?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#palliative-care\n\n- How can I access care for a person with dementia?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#access\n\n- How do I know which care option is best?: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#best\n\n- Resources and support: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#searchGeneralResults\n\n- incontinence: https://www.healthdirect.gov.au/living-with-dementia\n\n- dementia: https://www.healthdirect.gov.au/dementia\n\n- legal rights and responsibilities: https://www.carergateway.gov.au/legal-financial-health-services/legal-matters/legal-rights\n\n- healthy diet: https://www.healthdirect.gov.au/healthy-eating\n\n- regular exercise: https://www.healthdirect.gov.au/exercise-and-mental-health\n\n- enough sleep: https://www.healthdirect.gov.au/sleep\n\n- counselling: https://www.healthdirect.gov.au/counsellors-and-counselling\n\n- respite care: https://www.healthdirect.gov.au/respite-care\n\n- Carer Gateway: https://www.carergateway.gov.au/help-and-support/caring-me/talk-and-connect/peer-support-groups\n\n- Dementia Australia: https://www.dementia.org.au/get-support/connecting-peers\n\n- Dementia Australia: https://www.dementia.org.au/get-support/counselling\n\n- Services Australia: https://www.servicesaustralia.gov.au/caring-for-someone\n\n- My Aged Care: https://www.myagedcare.gov.au/types-care/respite-care\n\n- In-home care: https://www.healthdirect.gov.au/help-to-remain-living-at-home-if-you-have-a-chronic-disease-or-serious-illness\n\n- Support at Home: https://www.myagedcare.gov.au/supportathome\n\n- My Aged Care: https://www.myagedcare.gov.au/\n\n- residential aged care: https://www.healthdirect.gov.au/residential-aged-care\n\n- Palliative care: https://www.healthdirect.gov.au/palliative-care\n\n- terminal illness: https://www.healthdirect.gov.au/coping-with-a-terminal-illness\n\n- online through My Aged Care: https://www.myagedcare.gov.au/how-apply-assessment\n\n- Aged Care Specialist Officer (ASCO): https://www.servicesaustralia.gov.au/aged-care-specialist-officer-my-aged-care-face-to-face-services?context=55715\n\n- NDIS website: https://www.ndis.gov.au/\n\n- extra nursing care: https://www.healthdirect.gov.au/nurse\n\n- Dementia Australia: https://www.dementia.org.au/\n\n- dementia: https://www.dementia.org.au/about-dementia\n\n- Call them on 1800 100 500 or chat online: https://www.dementia.org.au/get-support/national-dementia-helpline\n\n- Carer Gateway: https://www.carergateway.gov.au/\n\n- practical tips: https://www.carergateway.gov.au/your-life-carer/practical-tips-caring-home\n\n- support for carers: https://www.carergateway.gov.au/help-and-support/getting-support-carergatewy\n\n- how to get assessed: https://www.myagedcare.gov.au/how-get-assessed\n\n- support for carers: https://www.myagedcare.gov.au/carers\n\n- Veterans' Home Care: https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services/living-independently/dva-in-home-programs/veterans-home-care-vhc\n\n- factsheets: https://www.dementia.com.au/resource-hub?audience=carer\n\n- support groups: https://www.dementia.com.au/carer-conversations\n\n- caring for someone with dementia: https://www.healthtranslations.vic.gov.au/resources/tips-for-friends-dementia\n\n- respite care: https://www.healthtranslations.vic.gov.au/resources/making-the-most-of-respite-care-caring-for-someone-with-dementia-no-6\n\n- dementia: https://caringforspirit.neura.edu.au/still-me-still-deadly/\n\n- caring for someone with dementia: https://caringforspirit.neura.edu.au/research/caring-for-a-person-with-dementia/\n\n- (Self-care for carers): https://www.dementia.org.au/living-dementia/family-friends-and-carers/self-care-carers\n\n- (Caring for someone with dementia): https://www.myagedcare.gov.au/caring-someone-living-dementia\n\n- (Impacts of caring): https://www.carersnsw.org.au/about-caring/impacts-of-caring\n\n- (Financial support): https://www.carergateway.gov.au/help-and-support/caring-me/available-support-carers/financial-support\n\n- (Respite care): https://www.dementia.org.au/living-dementia/care-options/respite-care\n\n- (Centre Based Respite): https://www.coasit.org.au/services/community-services/aged-care-services/centre-based-respite/\n\n- (Residential care): https://www.dementia.org.au/living-dementia/care-options/residential-care\n\n- (Retirement villages): https://www.dementiaorg.au/living-dementia/care-options/retirement-villages\n\n- (Palliative care): https://www.dementia.org.au/living-dementia/care-options/palliative-care\n\n- (National Disability Insurance Scheme (NDIS) support): https://www.dementia.org.au/get-support/national-disability-insurance-scheme-ndis-support\n\n- (The Dementia Guide): https://www.dementia.org.au/sites/default/files/2025-06/The-Dementia-Guide.pdf?slug=sites&slug=default&slug=files&slug=2025-06&slug=The-Dementia-Guide.pdf\n\n- (Dementia In Australia): https://www.aihw.gov.au/getmedia/60d5d0da-fd52-4962-ae7d-d1692c3a7433/dementia-in-australia.pdf?v=20240607132143&inline=true\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia#backToTop\n\n- Aboriginal and Torres Strait Islander peoples and dementia: https://www.healthdirect.gov.au/aboriginal-and-torres-strait-islander-people-and-dementia\n\n- Dementia – an overview: https://www.healthdirect.gov.au/dementia-overview\n\n- Dementia and driving: https://www.healthdirect.gov.au/dementia-and-driving\n\n- Frontotemporal dementia: https://www.healthdirect.gov.au/frontotemporal-dementia\n\n- How to care for someone with dementia at home: https://www.healthdirect.gov.au/how-to-care-for-someone-with-dementia-at-home\n\n- Living well with dementia after diagnosis: https://www.healthdirect.gov.au/living-with-dementia-after-diagnosis\n\n- Tests used in diagnosing dementia: https://www.healthdirect.gov.au/tests-used-in-diagnosing-dementia\n\n- Vascular dementia: https://www.healthdirect.gov.au/vascular-dementia\n\n- Younger onset dementia: https://www.healthdirect.gov.au/younger-onset-dementia\n\n- Respite Care: https://www.healthdirect.gov.au/search-results/Respite Care\n\n- Carers: https://www.healthdirect.gov.au/search-results/Carers\n\n- Memory Disorders: https://www.healthdirect.gov.au/search-results/Memory Disorders\n\n- Delirium: https://www.healthdirect.gov.au/search-results/Delirium\n\n- Mini Mental State Examination: https://www.healthdirect.gov.au/search-results/Mini Mental State Examination\n\n- Creutzfeldt Jakob Disease: https://www.healthdirect.gov.au/search-results/Creutzfeldt Jakob Disease\n\n- Alzheimer's Disease: https://www.healthdirect.gov.au/search-results/Alzheimer's Disease\n\n- Huntington's Disease: https://www.healthdirect.gov.au/search-results/Huntington's Disease\n\n- Lewy Body Disease: https://www.healthdirect.gov.au/search-results/Lewy Body Disease\n\n- Dementia Carers Page Personalised support for those you care for. When behaviour changes impact the care of people you love, we're here to help. Read more on Dementia Support Australia website: https://www.dementia.com.au/dementia-carers-page\n\n- Carer Support Groups | Carers NSW Carer support groups enable carers to meet and connect with other carers who understand the challenges of caring for a family member or friend. Read more on Carers NSW website: https://www.carersnsw.org.au/services-and-support/programs-services/carer-support-groups\n\n- Vascular dementia | Dementia Australia Vascular dementia is caused by damage from restricted blood flow to the brain. Learn about vascular dementia, its causes, diagnosis and treatment. Read more on Dementia Australia website: https://www.dementia.org.au/about-dementia/vascular-dementia\n\n- Frontotemporal dementia | Dementia Australia Frontotemporal dementia is a condition affecting the brain’s frontal and temporal lobes. Learn about frontotemporal dementia and its symptoms, causes and treatment. Read more on Dementia Australia website: https://www.dementia.org.au/about-dementia/frontotemporal-dementia\n\n- Childhood dementia | Dementia Australia Dementia is usually associated with adults. But young children and teenagers can develop dementia too. Learn about its symptoms and diagnosis, and find support. Read more on Dementia Australia website: https://www.dementia.org.au/about-dementia/childhood-dementia\n\n- Dementia Alzheimer’s disease is a form of dementia. Read more on WA Health website: https://www.healthywa.wa.gov.au/Articles/A_E/Alzheimers-disease\n\n- Top 5 household life skills for young carers | Carer Gateway We know that many young carers find themselves caring for someone and looking after a household before they have all the life skills they need. Read more on Carer Gateway website: https://www.carergateway.gov.au/your-life-carer/practical-tips-caring-home/around-house/life-skills-young-carers\n\n- Living with dementia | Dementia Australia A dementia diagnosis changes things, but support is available. Learn about changes you can expect, how to plan ahead, and how to stay safe and connected. Read more on Dementia Australia website: https://www.dementia.org.au/living-dementia\n\n- RACGP - Dementia Dementia is a clinical syndrome that is caused by a number of underlying diseases Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/dementia\n\n- RACGP - Dementia It is estimated that over 400,000 people in Australia are living with dementia. It is the leading cause of death in women and a leading cause of burden of disease overall Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/mental-health/dementia\n\n- Advanced Dementia Care for advanced dementia focuses on comfort and dignity. It involves managing symptoms like pain, distress, and difficulty swallowing, while supporting families through compassionate care. Read more on palliAGED website: https://www.palliaged.com.au/Improving-Care/Complex-Needs/Advanced-Dementia/\n\n- What is Dementia? Dementia is the term used for a collection of symptoms caused by disorders affecting the brain - it is not one specific disease. Dementia should not be considered a ‘normal’ part of ageing. Although it’s more common after 65 years of age, it can happen to anybody. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dementia-awareness\n\n- Information for Families - Working with Patients, Carers and Families - Allied Health - Health Professionals Helping families understand allied health roles can help strengthen care by clarifying team contributions and promoting collaboration in patient support. Read more on CareSearch website: https://www.caresearch.com.au/Health-Professionals/Allied-Health/Working-with-Patients-Carers-and-Families/Information-for-Families/\n\n- Dementia - Older Australia - Community Understand dementia's impact on memory, daily life, and end-of-life care. Access resources to support planning, families, and culturally appropriate care. Read more on CareSearch website: https://www.caresearch.com.au/Community/Older-Australia/Dementia/\n\n- Responsible Information Delivery Effective communication between healthcare staff and clients is an essential component of providing high-quality and safe care. As well as improving client outcomes and satisfaction, effective communication is crucial in preventing errors, unnecessary distress and inappropriate interventions. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/information-delivery-and-management\n\n- Environmental Design in Dementia Care A person is only as restricted as their environment causes them to be. Cognitive capacities are impacted when a person develops dementia. As a result, physical and social environments become increasingly difficult to navigate. Because of this, care and thought must be applied to the design of environments for people with dementia. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/environmental-design-in-dementia-care\n\n- RACGP - Information on FGCS This guide aims to help inform GPs and health professionals about FGCS, including the factors influencing demand, and provide a set of recommendations on how to manage women requesting referral for FGCS or expressing concern regarding their genitalia. Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/female-genital-cosmetic-surgery/information-on-fgcs\n\n- RACGP - Families and carers Involving families and carers in the care of older people is vital Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-b/family-and-carers\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

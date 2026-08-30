@@ -1,0 +1,615 @@
+{
+  "source_id": "lifeline-australia:get-help-support-toolkit-topics-stress",
+  "title": "Stress | Lifeline",
+  "publisher": "Lifeline Australia",
+  "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 73060,
+  "crawl_depth": 2,
+  "seed_url": "https://www.lifeline.org.au/get-help/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#main-content"
+    },
+    {
+      "text": "Call us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/131114"
+    },
+    {
+      "text": "Chat with us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/chat"
+    },
+    {
+      "text": "Text us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/text"
+    },
+    {
+      "text": "https://www.lifeline.org.au/",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "I’m thinking about suicide",
+      "url": "https://www.lifeline.org.au/get-help/im-thinking-about-suicide"
+    },
+    {
+      "text": "I want to talk to someone",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone"
+    },
+    {
+      "text": "I'm worried about someone",
+      "url": "https://www.lifeline.org.au/get-help/im-worried-about-someone"
+    },
+    {
+      "text": "I want to explore my options",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-explore-my-options"
+    },
+    {
+      "text": "Get help home",
+      "url": "https://www.lifeline.org.au/get-help"
+    },
+    {
+      "text": "Call us 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/131114"
+    },
+    {
+      "text": "Chat to us Support 24/7 ● Service online",
+      "url": "https://www.lifeline.org.au/chat"
+    },
+    {
+      "text": "Text us 0477 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/text"
+    },
+    {
+      "text": "Crisis support",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.lifeline.org.au/get-help/services/counselling"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/service-finder"
+    },
+    {
+      "text": "Workplace & community training",
+      "url": "https://www.lifeline.org.au/get-help/services/workplace-and-community-training"
+    },
+    {
+      "text": "Services home",
+      "url": "https://www.lifeline.org.au/get-help/services"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics"
+    },
+    {
+      "text": "Techniques & guides",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps"
+    },
+    {
+      "text": "Safety planning",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/safety-planning"
+    },
+    {
+      "text": "Community perspectives",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets"
+    },
+    {
+      "text": "Support Toolkit home",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit"
+    },
+    {
+      "text": "Sleep and mental health",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health"
+    },
+    {
+      "text": "Journaling your thoughts and feelings",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and"
+    },
+    {
+      "text": "How to do a digital detox",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox"
+    },
+    {
+      "text": "Helping friends and family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "About Cognitive Behavioural Therapy (CBT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums"
+    },
+    {
+      "text": "Real stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories"
+    },
+    {
+      "text": "Hear from others home",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others"
+    },
+    {
+      "text": "Listen to Joe's story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.lifeline.org.au/get-involved/donate"
+    },
+    {
+      "text": "Donate to Lifeline",
+      "url": "https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline"
+    },
+    {
+      "text": "Donate in memory",
+      "url": "https://inmemory.lifeline.org.au"
+    },
+    {
+      "text": "Leave a gift in your Will",
+      "url": "https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://www.lifeline.org.au/get-involved/fundraising"
+    },
+    {
+      "text": "Fundraise for Lifeline",
+      "url": "https://fundraise.lifeline.org.au/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.lifeline.org.au/get-involved/events"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer"
+    },
+    {
+      "text": "Become a crisis supporter",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter"
+    },
+    {
+      "text": "Community volunteering",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer-in-your-community"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://www.lifeline.org.au/get-involved/partner-with-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.lifeline.org.au/about-us"
+    },
+    {
+      "text": "Who we are",
+      "url": "https://www.lifeline.org.au/about-us/who-we-are"
+    },
+    {
+      "text": "Our strategy",
+      "url": "https://www.lifeline.org.au/about-us/our-strategy"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.lifeline.org.au/about-us/our-services"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.lifeline.org.au/about-us/our-impact"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.lifeline.org.au/about-us/our-structure"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.lifeline.org.au/about-us/governance"
+    },
+    {
+      "text": "Lived experience framework",
+      "url": "https://www.lifeline.org.au/about-us/lived-experience"
+    },
+    {
+      "text": "Our research",
+      "url": "https://www.lifeline.org.au/about/our-research"
+    },
+    {
+      "text": "Data & statistics",
+      "url": "https://www.lifeline.org.au/about/our-research/data-and-statistics"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.lifeline.org.au/about/our-research/research-and-reports"
+    },
+    {
+      "text": "Our partners",
+      "url": "https://www.lifeline.org.au/about/our-partners"
+    },
+    {
+      "text": "Government supporters",
+      "url": "https://www.lifeline.org.au/about/our-partners/government-supporters"
+    },
+    {
+      "text": "Corporate partners",
+      "url": "https://www.lifeline.org.au/about/our-partners/our-corporate-partners"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.lifeline.org.au/about/contact-us"
+    },
+    {
+      "text": "Lifeline locations",
+      "url": "https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you"
+    },
+    {
+      "text": "News & media",
+      "url": "https://www.lifeline.org.au/about/news-and-media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.lifeline.org.au/about/careers"
+    },
+    {
+      "text": "Shop merchandise",
+      "url": "https://lifelineaustralia.infoservices.com.au"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://fundraise.lifeline.org.au"
+    },
+    {
+      "text": "Urgent Crisis Support",
+      "url": "https://www.lifeline.org.au/urgent-crisis-support"
+    },
+    {
+      "text": "English",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress"
+    },
+    {
+      "text": "What is stress?",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#what-is-stress"
+    },
+    {
+      "text": "Signs & effects",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#signs-and-effects-of-stress"
+    },
+    {
+      "text": "Causes",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#causes-of-stress"
+    },
+    {
+      "text": "Short-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#what-to-do-when-you-feel-stressed"
+    },
+    {
+      "text": "Long-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#long-term-help-for-stress"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#tools-apps-for-stress"
+    },
+    {
+      "text": "Support services",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#support-services-for-stress"
+    },
+    {
+      "text": "For friends & family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#for-friends-and-family"
+    },
+    {
+      "text": "anxious",
+      "url": "https://www.lifeline.org.au/topics/anxiety/what-is-anxiety"
+    },
+    {
+      "text": "explore strategies to try right now",
+      "url": "https://www.lifeline.org.au/topics/stress/what-to-do-when-you-feel-stressed"
+    },
+    {
+      "text": "relationships",
+      "url": "https://www.lifeline.org.au/topics/relationships/importance-of-relationships"
+    },
+    {
+      "text": "alcohol and other substances",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/what-is-substance-misuse"
+    },
+    {
+      "text": "gambling",
+      "url": "https://www.lifeline.org.au/topics/problem-gambling/about-problem-gambling"
+    },
+    {
+      "text": "restricting food",
+      "url": "https://www.lifeline.org.au/topics/eating-and-body-image/understanding-eating-and-body-image"
+    },
+    {
+      "text": "self-harm",
+      "url": "https://www.lifeline.org.au/topics/self-harm/what-is-self-harm"
+    },
+    {
+      "text": "Physical symptoms",
+      "url": "https://www.lifeline.org.au/topics/stress/signs-and-effects-of-stress"
+    },
+    {
+      "text": "thoughts of suicide",
+      "url": "https://www.lifeline.org.au/topics/suicide/what-is-suicide"
+    },
+    {
+      "text": "Lifeline is here",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support"
+    },
+    {
+      "text": "common causes",
+      "url": "https://www.lifeline.org.au/topics/stress/causes-of-stress"
+    },
+    {
+      "text": "Explore tools, apps, and real stories",
+      "url": "https://www.lifeline.org.au/topics/stress/tools-apps-for-stress"
+    },
+    {
+      "text": "support service",
+      "url": "https://www.lifeline.org.au/topics/stress/support-services-for-stress"
+    },
+    {
+      "text": "Click here to download, save, or print our stress fact sheet",
+      "url": "https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-stress-fact-sheet_0.pdf"
+    },
+    {
+      "text": "Stress",
+      "url": "https://www.lifeline.org.au/topics/stress/what-is-stress"
+    },
+    {
+      "text": "self-esteem",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health"
+    },
+    {
+      "text": "Intrusive thoughts",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts"
+    },
+    {
+      "text": "grief",
+      "url": "https://www.lifeline.org.au/topics/grief-loss/what-is-grief"
+    },
+    {
+      "text": "homelessness",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/help-with-homelessness-resources-for-wellbeing"
+    },
+    {
+      "text": "Problems",
+      "url": "https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships"
+    },
+    {
+      "text": "Feeling lonely",
+      "url": "https://www.lifeline.org.au/topics/loneliness/what-is-loneliness"
+    },
+    {
+      "text": "financial strain",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress"
+    },
+    {
+      "text": "DFV",
+      "url": "https://www.lifeline.org.au/topics/domestic-and-family-violence/about-domestic-and-family-violence"
+    },
+    {
+      "text": "Natural disasters",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/understanding-natural-disasters-and-mental-health"
+    },
+    {
+      "text": "traumatic experiences",
+      "url": "https://www.lifeline.org.au/topics/trauma/about-trauma"
+    },
+    {
+      "text": "panic",
+      "url": "https://www.lifeline.org.au/topics/panic-attacks/what-is-a-panic-attack"
+    },
+    {
+      "text": "grounding technique",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques"
+    },
+    {
+      "text": "Click here to learn tips for talking to someone you trust",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust"
+    },
+    {
+      "text": "text",
+      "url": "https://www.lifeline.org.au/crisis-text/"
+    },
+    {
+      "text": "chat",
+      "url": "https://www.lifeline.org.au/crisis-chat/"
+    },
+    {
+      "text": "self-care",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing"
+    },
+    {
+      "text": "Lifeline Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder"
+    },
+    {
+      "text": "National Debt Helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/national-debt-helpline"
+    },
+    {
+      "text": "Click here to learn more tips for reducing and managing financial stress",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/short-term-help-for-financial-stress"
+    },
+    {
+      "text": "help is available",
+      "url": "https://homelessnessaustralia.org.au/homelessness-services/"
+    },
+    {
+      "text": "https://www.lifeline.org.au/topics/financial-stress/long-term-help",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/long-term-help"
+    },
+    {
+      "text": "Click here to learn more about building healthy relationships",
+      "url": "https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships"
+    },
+    {
+      "text": "personalised self-care box",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box"
+    },
+    {
+      "text": "Click here for tips on building strong social connections",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections"
+    },
+    {
+      "text": "Mindfulness",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness"
+    },
+    {
+      "text": "meditation",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation"
+    },
+    {
+      "text": "Calm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm"
+    },
+    {
+      "text": "Smiling Mind",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind"
+    },
+    {
+      "text": "Click here to learn more about getting a Mental Health Treatment Plan",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to"
+    },
+    {
+      "text": "Service Finder GP",
+      "url": "https://www.lifeline.org.au/get-help/national-services/service-finder-gp"
+    },
+    {
+      "text": "acceptance and commitment therapy (ACT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act"
+    },
+    {
+      "text": "start with this simple thought-challenging activity",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity"
+    },
+    {
+      "text": "Click here to learn more",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/this-way-up"
+    },
+    {
+      "text": "Click here to learn more",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/the-wellbeing-course"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/moodmission",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/moodmission"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/anthonys-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/anthonys-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/maddies-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/maddies-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/toms-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/toms-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/amandas-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/amandas-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/mals-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/mals-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/lifeline-forums",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/lifeline-forums"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/beyond-blue",
+      "url": "https://www.lifeline.org.au/get-help/national-services/beyond-blue"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mindspot",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mindspot"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mensline-australia",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mensline-australia"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/13yarn",
+      "url": "https://www.lifeline.org.au/get-help/national-services/13yarn"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/kids-helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/kids-helpline"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/reachout",
+      "url": "https://www.lifeline.org.au/get-help/national-services/reachout"
+    },
+    {
+      "text": "clicking here",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.lifeline.org.au/get-help/national-services/carer-gateway"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/find-another-service"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://www.lifeline.org.au/get-involved"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://www.lifeline.org.au/about/reconciliation-action-plan"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.lifeline.org.au/policies"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.lifeline.org.au/policies/privacy-policy"
+    },
+    {
+      "text": "Language",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support"
+    },
+    {
+      "text": "https://www.facebook.com/LifelineAustralia/",
+      "url": "https://www.facebook.com/LifelineAustralia/"
+    },
+    {
+      "text": "https://www.instagram.com/lifelineaustralia/",
+      "url": "https://www.instagram.com/lifelineaustralia/"
+    },
+    {
+      "text": "https://au.linkedin.com/company/lifeline-australia",
+      "url": "https://au.linkedin.com/company/lifeline-australia"
+    },
+    {
+      "text": "https://x.com/LifelineAust",
+      "url": "https://x.com/LifelineAust"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw",
+      "url": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+    }
+  ],
+  "text": "Stress | Lifeline Skip to main content\n\nIf life is in danger, call Triple Zero (000)\n\nCall us ● Chat with us ● Text us ●\n\n- Get help\n\n- Help starts here\n\n- I’m thinking about suicide\n\n- I want to talk to someone\n\n- I'm worried about someone\n\n- I want to explore my options\n\n- Get help home\n\nCall us 13 11 14\n\n● Service online\n\nChat to us Support 24/7\n\nText us 0477 13 11 14\n\nServices\n\n- Crisis support\n\n- Counselling\n\n- Service Finder\n\n- Workplace & community training\n\n- Services home\n\nChat with us Support 24/7\n\nSupport Toolkit\n\n- Topics\n\n- Techniques & guides\n\n- Tools & apps\n\n- Safety planning\n\n- Community perspectives\n\n- Fact sheets\n\n- Support Toolkit home\n\nSleep and mental health\n\nJournaling your thoughts and feelings\n\nHow to do a digital detox\n\nHelping friends and family\n\nAbout Cognitive Behavioural Therapy (CBT)\n\nHear from others\n\n- Forums\n\n- Real stories\n\n- Hear from others home\n\nListen to Joe's story\n\n- Get involved\n\n- Donate\n\n- Donate to Lifeline\n\n- Donate in memory\n\n- Leave a gift in your Will\n\nFundraise\n\n- Fundraise for Lifeline\n\n- Events\n\nVolunteer\n\n- Become a crisis supporter\n\n- Community volunteering\n\nPartner with us\n\nBecome a Crisis Supporter Explore\n\n- About\n\n- About us\n\n- Who we are\n\n- Our strategy\n\n- Our services\n\n- Our impact\n\n- Our structure\n\n- Governance\n\n- Lived experience framework\n\nOur research\n\n- Data & statistics\n\n- Research & reports\n\nOur partners\n\n- Government supporters\n\n- Corporate partners\n\nContact us Lifeline locations News & media Careers Shop merchandise\n\nVolunteer Fundraise\n\nDonate\n\nSearch\n\nGet help\n\nContact us\n\nLifeline locations\n\nNews & media\n\nCareers\n\nShop merchandise\n\nDonate Volunteer\n\nUrgent Crisis Support\n\n## What can we help you find?\n\nClose\n\n# Get Help\n\nIf life is in danger, call 000.\n\nCall us\n\nChat with us\n\nText us\n\nExplore our services\n\nTranslation notice: Lifeline Crisis Support is delivered in English. This page was translated automatically and may not be fully accurate. Spot an issue? Let us know\n\nShare feedback about automatic translation accuracy.\n\nBreadcrumb\n\nBack to Topics\n\n- Home\n\n- Support Toolkit\n\n- Stress\n\nTranslate\n\n- English\n\n- Mandarin 普通话\n\n- Cantonese (廣東話)\n\n- Arabic (عربى)\n\n- Vietnamese\n\n- Punjabi\n\n- Hindi\n\n- Greek\n\n- Italian\n\n- Spanish\n\n- Nepali\n\n# Stress\n\nLearn what stress is, how it affects your mind and body, and what you can do to manage it.\n\nJump to\n\nWhat is stress? Signs & effects Causes Short-term help Long-term help Tools & apps Support services For friends & family\n\n## What is stress?\n\nOpen\n\n### What is stress?\n\nStress is how our body reacts to challenges or demands in life. Whether it’s juggling work and family responsibilities or dealing with financial pressures, a little stress can sometimes help you stay focused and get things done.\n\nBut when stress lasts too long or feels overwhelming, it can start to affect your wellbeing.\n\nFor example, you might notice:\n\n- Feeling irritable, anxious , or on edge\n\n- Having difficulty sleeping , even when you’re exhausted\n\n- Struggling to concentrate or make decisions\n\n- Frequently having a racing heart, headaches, or tense muscles\n\n- Getting sick more often or experiencing skin irritations like rashes.\n\nStress can build up when multiple pressures happen at once. It can make daily life feel harder and take the enjoyment out of things you usually like to do.\n\nFiguring out what's making you stressed can help you find ways to manage it.\n\n### How does stress work?\n\nWhen you feel stressed, your body is reacting to a threat - real or imagined. This triggers the fight, flight, or freeze response, which is your body’s way of protecting you.\n\n- Fight: You might feel anger, frustration, or irritation, ready to push back against whatever is stressing you\n\n- Flight: You may feel the urge to escape or avoid the situation, leading to restlessness, anxiety, or panic\n\n- Freeze: You might feel stuck or unable to act, as if your body has ‘shut down’ to protect you from overwhelm.\n\nThis response is a survival instinct that helps in genuinely dangerous situations. But when everyday stressors like work, relationships, or finances keep triggering it, your body stays on high alert. Over time, this can leave you feeling drained and overwhelmed.\n\n'I didn’t even realise I was in ‘flight mode’ until I stopped and took a breath. It was like my body was always reacting before my mind could catch up.'\n\nEmma\n\n### What is burnout?\n\nBurnout happens when stress doesn’t go away and you feel mentally and physically drained for a long time.\n\nIt’s often linked to ongoing pressures like work, study, caring for others, or feeling like you always have too much on your plate.\n\nSigns of burnout can include:\n\n- Feeling exhausted no matter how much you rest\n\n- Losing motivation for things you used to enjoy\n\n- Struggling to concentrate or feeling ‘numb’\n\n- Feeling disconnected from people around you.\n\nIf you’re feeling the effects of burnout, help is available. You can explore strategies to try right now or find the long-term help for stress that's right for you.\n\n### When does stress become a problem?\n\nIf stress becomes overwhelming or lasts too long, it can lead to challenges like burnout, anxiety , and other health conditions.\n\nYou might need extra support if:\n\n- You feel constantly tense or unable to relax, no matter what you try\n\n- Stress is affecting your relationships , work, or daily life\n\n- You’re turning to coping strategies that feel unhelpful like alcohol and other substances , gambling , restricting food , self-harm , or withdrawing from others\n\n- Physical symptoms like headaches, stomach issues, or fatigue are getting worse or not improving\n\n- You’re feeling hopeless, trapped, or having thoughts of suicide .\n\nYou don't have to face this alone.\n\nIf you're experiencing thoughts of self-harm or suicide , Lifeline is here . You can connect with a crisis supporter 24 hours a day, 7 days a week via 13 11 14 , text , and chat . If life is in danger, call 000 .\n\nEveryone’s experience of stress is different, and what works for one person might not work for another.\n\nThe important thing is to keep trying until you find what feels right for you.\n\nFor more support resources for stress, you can:\n\n- Learn about common causes and signs and effects of stress\n\n- Find practical strategies to help you manage stress right now and in the long term\n\n- Explore tools, apps, and real stories to help you cope with and manage stress\n\n- Connect with a support service for further information, resources, and referrals.\n\nRemember - small steps can make a big difference.\n\nClick here to download, save, or print our stress fact sheet .\n\nClose section\n\n## Signs & effects\n\n### Signs and effects of stress\n\nStress can affect your body, mind, and emotions in ways that you may not always recognise. While stress is a natural part of life, it can feel confusing and overwhelming when it starts to impact your wellbeing.\n\nBelow, you can read about common ways stress can impact your mind and emotions.\n\n### How you might be feeling\n\nWhen you're feeling stressed, it’s common to experience a mix of emotions, sometimes without realising why.\n\nYou might feel:\n\n- Uneasy or anxious: Constantly worrying about what’s ahead or feeling nervous for no clear reason\n\n- Irritable or frustrated: Feeling on edge or getting annoyed more easily\n\n- Overwhelmed: Like everything is too much and you’re struggling to keep up\n\n- Restless: Finding it hard to switch off or relax, as if you’re always on alert\n\n- Self-doubt: Stress can lower self-esteem , making you question your abilities or worth\n\n- Sad or hopeless: Feeling down, unmotivated, or losing interest in things you used to enjoy.\n\nThese emotions can feel overwhelming, but it’s important to know that you’re not alone in feeling this way.\n\nStress impacts how we relate to ourselves and others, and recognising these feelings is the first step in finding ways to manage them.\n\n### How you might be thinking\n\nStress doesn’t just affect your emotions. It can also influence how you think.\n\nYou might notice:\n\n- Racing thoughts: Struggling to slow down your mind or focus on one thing at a time\n\n- Recurring worries: Intrusive thoughts or worries that seem to pop into your mind, even when you're trying to focus on other things\n\n- Difficulty concentrating: Finding it hard to focus, make decisions, or solve problems\n\n- Trouble remembering things: Forgetting things more often or feeling mentally ‘foggy’.\n\nWhen stress builds up, it’s easy to get caught in a cycle where one worry leads to another. Understanding that stress affects your thinking can help you start to break that cycle.\n\n### How you might be acting\n\nStress can also affect your habits and behaviours .\n\nYou might notice changes like:\n\n- Changes in eating or exercise habits: Eating more or less than usual, or adjusting your exercise routine in response to stress\n\n- Sleep problems: Trouble falling asleep, staying asleep, waking up too early, or having difficulty sleeping through the night\n\n- Avoiding people or activities: Withdrawing from friends, family, or things you usually enjoy\n\n- Feeling more impatient: Getting frustrated or irritated more easily\n\n- Turning to alcohol or other substances: Using alcohol, smoking, or other substances to cope\n\n- Procrastination or lack of motivation: Finding it hard to start tasks or keep up with responsibilities.\n\nStress can make it difficult to stick to healthy behaviours. In no way is it your fault if you're struggling with your habits or routines right now.\n\n### Understanding the physical impacts of stress\n\nSometimes, your body notices stress before you do.\n\nPhysical signs like the ones listed below can show up even when you don’t feel emotionally stressed, making it easy to overlook the connection.\n\n### Tension, pain, and energy changes\n\n- Muscle tightness : Stiffness or aches in your neck, shoulders, back, or jaw\n\n- Headaches or migraines : Especially after a stressful day or poor sleep\n\n- Jaw clenching or teeth grinding : Often happens without realising, especially at night\n\n- Rapid breathing or a racing heart : Can make you feel dizzy or lightheaded\n\n- Low energy and fatigue : Feeling drained, even without much activity\n\n- Trouble sleeping : Difficulty falling asleep, staying asleep, or waking too early.\n\n### Body reactions and physical changes\n\n- Upset stomach : Nausea, indigestion, bloating, or stomach pain when stressed\n\n- Skin reactions : Breakouts, rashes, or eczema flare-ups\n\n- Temperature sensitivity : Feeling unusually hot, cold, or sweaty without reason\n\n- Getting sick more often : Colds, infections, or slow healing from minor illnesses\n\n- Changes in appetite : Eating more or less than usual\n\n- Hair changes : Temporary hair shedding or an itchy, dry scalp.\n\nRecognising these signs can help you tune in to what your body is telling you. If you’re noticing them often, it might be a sign that stress is affecting your wellbeing.\n\nEven if you don’t know what to say, reaching out can help.\n\nOngoing stress can make it hard to cope, especially when it feels like things won’t get better. If stress is making you feel trapped, hopeless, or like you can’t see a way forward, you are not alone, and support is available .\n\nYou can connect with a Lifeline crisis supporter 24 hours a day, 7 days a week via 13 11 14 , text , and chat . If life is in danger, call 000 .\n\n- Explore tools, apps, and real stories to help you cope with stress\n\n- Connect with a support service for further information, resources, and referrals\n\n- Click here to download, save, or print our stress fact sheet .\n\n## Causes\n\n### What causes stress?\n\nStress can come from different areas of life, and everyone responds to it in their own way. What feels overwhelming for one person might feel manageable to someone else and that’s okay.\n\n### Life changes, relationships, and loss\n\n- Life changes: Separation, divorce, moving, or retirement can bring feelings of stress, as well as grief and uncertainty\n\n- Housing instability: Experiencing homelessness or losing stable housing can impact sleep and disrupt routines, leading to feelings of stress\n\n- Relationships: Problems with partners, family, or friends can be emotionally exhausting\n\n- Isolation or lack of support: Feeling lonely or disconnected from others can make it harder to cope\n\n- Grief and loss: Adjusting to life after losing a loved one , pet, or important part of your life can be emotionally and physically draining.\n\n### Social pressures and uncertainty\n\n- Work and money stress: High workloads, job loss, financial strain , or housing insecurity can feel overwhelming\n\n- Health concerns: Coping with illness, injury, or caring for someone else can be physically and emotionally draining\n\n- Bullying or harassment: Experiencing or witnessing harmful behaviour at school, work, or in your community can be distressing\n\n- Study or academic stress: School, exams, or balancing study with other responsibilities can be overwhelming\n\n- Parenting or caregiving responsibilities: Raising children or caring for a loved one can bring ongoing stress and exhaustion.\n\n### Trauma, safety, and security\n\n- Domestic and family violence (DFV): Experiencing or leaving DFV can cause ongoing stress, fear, and emotional distress\n\n- Trauma and distressing events: Natural disasters , accidents, or traumatic experiences can shake your sense of safety and stability\n\n- Unsafe or unpredictable environments: Living in a stressful home, school, or workplace can impact your sense of security\n\n- Legal or visa uncertainty: Navigating legal issues, custody battles, or visa status can create ongoing stress.\n\nIt’s important to remember that stress is something we all experience and you’re not alone. It's also important to know that whatever you're going through is not your fault.\n\n### Understanding the stress cycle\n\nStress can build on itself, creating a cycle that feels hard to break. When stress becomes overwhelming, it affects sleep, energy, and decision-making, making it harder to cope with everyday challenges. This can lead to avoidance, physical tension, or emotional outbursts, which only add to the stress.\n\nUnderstanding this cycle is the first step in breaking it. Small changes, like focusing on rest, movement, or talking to someone you trust, can interrupt the pattern and restore a sense of balance.\n\nThe cycle of stress can feel overwhelming, but small changes can make a difference.\n\n- Learn about the signs and effects of stress\n\n- Understand how sleep impacts mental health and learn tips for improving yours\n\n## Short-term help\n\n### Short-term help for managing stress\n\nWhen stress feels overwhelming, it can take over your thoughts, making it hard to focus, breathe, or think clearly. It might feel all-consuming like there’s no way to slow it down.\n\nIn moments like this, having simple strategies and techniques to turn to can help you manage overwhelming feelings, ease tension in your body, and regain a sense of control.\n\nBelow, you’ll find practical ideas to help you feel calmer, especially if stress is building up or leading to panic .\n\n#### What can I try now?\n\nIf you’re feeling distressed or unsure where to start, a grounding technique can help you return to the present moment. The 5 senses technique, for example, can help you feel more connected to your surroundings, ease intense emotions, and take your focus off racing thoughts or physical sensations.\n\n### Strategies for coping with stress\n\nBelow, you can explore more techniques and strategies to cope with and manage stress.\n\n### Do deep breathing\n\nWhen stress feels like it's taking over, deep breathing can help ease both physical and emotional tension. It slows your heart rate, calms your mind, and makes it easier to face overwhelming thoughts.\n\nWhile there are a lot of breathing techniques to try, a simple one is box breathing.\n\nHow to do box breathing:\n\n- Inhale deeply through your nose for a count of 4\n\n- Hold your breath for a count of 4\n\n- Exhale slowly through your mouth for a count of 6\n\n- Repeat a few times until you feel calmer.\n\nDon't worry if it feels tricky at first. It gets easier with practise.\n\nTry it now: Use our guided box breathing video to practise this calming technique.\n\n### Move your body\n\nWhen stress builds up, it can leave you feeling tense, restless, or stuck in your thoughts. Moving your body helps release physical tension and produces endorphins, which are your body’s natural stress relievers. Even gentle movement can help you feel calmer and more grounded.\n\nYou can:\n\n- Go for a walk or run: Getting outside and changing your environment can also help shift your mindset\n\n- Stretch or do light yoga: This is a gentle way to ease muscle tension and help your body relax\n\n- Put on your favourite song and dance it out: Movement doesn’t have to be structured. Just moving how your body can help release energy.\n\n### Talk to someone you trust\n\nStress can feel isolating, but you don’t have to go through it alone. Talking to someone who listens and supports you can help lighten the mental load and give you a new perspective.\n\nSometimes even just saying your stressors or worries out loud can be enough.\n\nThings to keep in mind:\n\n- If talking feels too hard, you can consider sending a simple message like 'Hey, I’m feeling a bit off today.'\n\n- If you don’t feel like talking about stress, you can chat about something else. The connection itself can still be really helpful.\n\nClick here to learn tips for talking to someone you trust .\n\nIf you don't feel you have someone to speak with and need support now, you can always connect with a Lifeline Crisis Supporter. We're here to listen to whatever you might be going through 24 hours a day, 7 days a week via 13 11 14 , text , and chat .\n\nLifeline is here.\n\nIf you don't feel you have someone to speak with and need support right now, you can always connect with a Lifeline Crisis Supporter .\n\nWe're here to listen to whatever you might be going through 24 hours a day, 7 days a week via 13 11 14 , text , and chat . If life is in danger, call 000 .\n\n### Distract yourself\n\nWhen stress feels all-consuming, shifting your focus to a small, manageable task or comforting activity can help break the cycle of overwhelming thoughts.\n\nKeep in mind that distraction doesn’t solve stress. It can, however, give your mind a short break and help you reset.\n\n- Watch an episode of a TV show, listen to a podcast, or read a book\n\n- Try a puzzle, word game, or colouring activity to focus your mind on something neutral\n\n- Organise a small space - tidying up can give a sense of control and calm.\n\n### Cut back on caffeine, alcohol, and nicotine\n\nReducing or cutting out caffeine, alcohol, and nicotine can be a helpful way to manage stress. These substances may feel like quick fixes when you're trying to unwind at the end of the day or get through a task, but they can actually increase stress in different ways.\n\n- Caffeine can heighten feelings of anxiety, making you feel more on edge and disrupting sleep\n\n- Alcohol might seem relaxing at first, but it can interfere with sleep quality and affect your mood, leading to more stress over time\n\n- Nicotine is often used to ease tension, but it raises your heart rate and blood pressure, keeping your body in a heightened state of stress.\n\nKeep in mind that you don’t have to quit them forever. Try cutting back or taking a break to see how your body and mind respond. Even small changes, like switching to herbal tea or alcohol-free nights, can make a big difference in how you feel. It’s about finding what works for you.\n\nClick here to learn more about substance misuse and practical ways to manage it .\n\n### Prioritise and practise self-care\n\nTaking time for small acts of self-care can help you recharge and manage stress. Whether it’s using your senses to relax, engaging in soothing activities, or simply slowing down, self-care is about giving yourself permission to pause.\n\n- Rest: Give yourself permission to sleep in on the weekend or take an afternoon nap if you need rest\n\n- Connection: Call a friend for a coffee or a walk if you feel up to it. Even a quick chat can help you feel more connected. If you don't feel like seeing anyone, stepping outside for five minutes of fresh air can help you feel more connected to nature.\n\n- Comfort: Watch a comfort show or movie you’ve seen before - something that feels familiar and easy. You can also cook a meal you enjoy instead of just grabbing whatever’s quickest.\n\nClick here to learn more about the importance of self-care for mental health and wellbeing .\n\nTechniques & Guides\n\n### Self-care for mental health and wellbeing\n\nLooking for self-care ideas? Find practical tips, 5-minute quick wins, and simple ways to look after your mental health when feeling overwhelmed.\n\n10 minutes read\n\nHelps with Stress Depression\n\n### Explore more grounding techniques to find relief in the moment\n\nGrounding techniques like the 5 senses technique mentioned above can help when stress makes you feel overwhelmed or stuck in your thoughts.\n\nThey work by giving you something real to focus on - like what you can see, hear, or feel - so you can steady yourself and feel more in control.\n\nYou can learn more about grounding techniques and different exercises to try in our article below.\n\n### Finding relief through grounding techniques\n\nWhen feeling overwhelmed, grounding techniques can be a practical yet powerful way to feel calm and regain control. Learn how they can help you.\n\n11 minutes read\n\nHelps with Anxiety Stress\n\n## Long-term help\n\n### Managing stress in the long-term\n\nWhen it comes to coping with stress, short-term strategies can help you through tough moments, but it’s the healthy habits you build over time that can create lasting change.\n\nSmall, consistent changes like getting better sleep, setting boundaries, or reaching out for professional support can help ease daily pressures and give you a greater sense of control.\n\nBelow, you can explore practical ideas for reducing and managing stress in the long term.\n\n### Find ways to reduce stress in different areas of your life\n\nStress can come from many parts of your life including work, school, personal relationships, and finances. Sometimes, stress in one area can spill into another, creating a cycle that feels hard to break.\n\nFor example, feeling stretched at work might make it harder to sleep, which leaves you with less energy to manage things at home. Over time, this can build up and feel overwhelming.\n\nThe good news is that small, practical steps can ease some of that pressure. Even little changes can help you feel lighter and give you more space for rest, connection, and self-care.\n\n### Finances\n\n- Explore support options : If money is causing you stress, you’re not alone, and you don’t have to figure it all out by yourself. A financial counsellor can help you understand your options, negotiate with creditors, or create a plan for the future. A good place to start is by reaching out to a local financial support service. You can find one near you using the Lifeline Service Finder . Alternatively, you can call the National Debt Helpline for free and confidential advice.\n\n- Cut back where you can (and where it feels doable) : Reducing expenses can feel overwhelming, but even small changes can help ease financial pressure. Start with things that are easiest to adjust like reviewing subscriptions, switching to cheaper options for groceries, or looking for free community services. Remember, every little bit adds up.\n\n- Create a simple spending plan : A budget doesn’t have to be perfect or complicated. It’s ultimately just a tool to help you feel more in control. Start by writing down what’s coming in and what’s going out. Even a basic plan can help you prioritise essentials and reduce financial stress.\n\nClick here to learn more tips for reducing and managing financial stress .\n\n### Work or school\n\n- Take regular breaks: Giving your mind a chance to rest can help you stay focused and avoid burnout. Try setting a timer to remind yourself to take short breaks throughout the day. Even a quick walk, stretching, or stepping outside for fresh air can help reset your mind. And don’t skip your lunch break; your brain needs that downtime to recharge.\n\n- Talk about your workload: If things feel overwhelming, it’s okay to ask for support. Speak with your manager or teacher about adjusting your workload, reducing hours, or extending deadlines. People can’t help if they don’t know what’s going on, and being open about how you’re feeling can make a big difference.\n\n- Ask for an extension: If you’re falling behind, don’t be afraid to ask for more time. Teachers and managers often appreciate when you reach out early rather than struggling in silence. Remember, it’s okay to need a bit of extra time to get things done.\n\n### Personal life\n\n- Share responsibilities : If you live with others, try dividing up tasks like cooking, cleaning, or caring for children. It’s okay to ask for help when you need it. Sharing the load can reduce stress for everyone.\n\n- You can say: 'Hey, can we split dinner duty this week? I’m feeling a bit stretched and could use some help.'\n\n- Simplify where you can : Focus on what really needs to get done, and give yourself permission to leave non-essential tasks for another day. Sometimes, the best thing you can do is take a break and come back to it when you have more energy.\n\n- Reach out for housing or community support : If housing or safety is a source of stress, help is available . Services like Homelessness Australia can provide advice, temporary accommodation, or help you explore longer-term options. You don’t have to face it alone.\n\nTopic\n\n### Long-term help for financial stress\n\nExplore long-term strategies to strengthen your financial wellbeing, build confidence with money, and find ongoing support to reduce financial stress over time.\n\n2 minutes read\n\nHelps with Long-term help Financial stress\n\n### Tips for managing stress in the long term\n\n### Prioritise getting good, quality sleep\n\nGetting enough sleep is one of the most powerful ways to support your wellbeing and manage stress. When you’re well-rested, it’s easier to stay calm, make decisions, and cope with life’s ups and downs. Sleep helps your body recover, lowers stress, and boosts your energy and mood.\n\nIf sleep has been hard to come by, small changes can make a big difference. For example, you can try creating a bedtime routine that signals to your body it’s time to wind down.\n\n- Turn off screens an hour before bed : The light from phones and computers can keep you awake. Swap scrolling for something calming, like reading or listening to music.\n\n- Do some light stretching or breathing exercises : This can help release tension and calm your mind.\n\n- Stick to a regular sleep schedule : Going to bed and waking up at the same time each day helps regulate your body’s internal clock, making it easier to fall asleep.\n\nIf sleep is still tricky, that’s okay. Keep experimenting with what works for you; sometimes it takes a little time to get back into a rhythm.\n\nClick here to learn more about sleep and mental health .\n\n### Journal your thoughts and feelings\n\nJournaling can help you gain insight into what’s causing stress and how it affects you. It’s also a great way to reflect, process emotions, and identify patterns over time.\n\nTry this:\n\n- At the end of each day, jot down a few sentences about how you felt and what helped or made things harder.\n\n- Use journaling prompts like: ‘What is one thing I’m proud of today?’ or ‘What’s been on my mind lately?’\n\nEven small adjustments in different areas of your life can lighten your load and help you feel more in control.\n\nClick here to learn more about journaling your thoughts and feelings .\n\n### Set and maintain healthy boundaries\n\nBoundaries are the limits you set to protect your time, energy, and wellbeing. They’re not about shutting people out; they’re about making space for what matters most. Boundaries help you create balance, reduce overwhelm, and prioritise your needs without guilt.\n\nIf setting boundaries feels tricky, start small and practise being clear about what works for you.\n\n- Notice what drains your energy : Pay attention to situations or commitments that leave you feeling exhausted, resentful, or stretched too thin. These are good places to set boundaries.\n\n- Start with one boundary : It could be turning off notifications after work, saying ‘no’ to extra tasks, or setting aside time just for yourself. Small changes can have a big impact.\n\n- Be kind but clear : You can set boundaries in a way that’s respectful and honest. For example, you can say: 'I’d love to help, but I can’t take that on right now' or 'I need some quiet time this afternoon to rest.'\n\nSetting boundaries takes practise, but over time it gets easier. And you’ll likely find that others respect your honesty more than you expect.\n\nClick here to learn more about building healthy relationships .\n\n### Create a personalised self-care box\n\nWhen you’re feeling stressed, it can be hard to remember to practise self-care. Remember, self-care isn’t just about bubble baths or taking a break. It’s about intentionally doing things that help you feel balanced, supported, and recharged. When you practise self-care regularly, it builds your resilience and helps you handle life’s challenges with more ease.\n\nOne way to make self-care easier is by creating a personalised self-care box that holds a collection of comforting items or reminders that you can turn to when you need to take care of yourself. Having a self-care box ready means you’ll always have tools on hand to ground yourself, lift your mood, or take a break when things feel tough.\n\nClick here to learn ideas for creating your own self-care box .\n\n### Creating a self-care box\n\nSelf-care can help you cope with challenging times by ensuring your emotional, physical, and social needs are being met. In this article, we detail how having a self-care box can be a valuable mental health and wellbeing tool.\n\n6 minutes read\n\nHelps with Distress Overwhelm\n\n### Create a daily routine\n\nHaving a routine can give your day structure and make life feel a little more manageable. Routines create a sense of stability, which can help ease feelings of uncertainty and reduce stress.\n\nA routine doesn’t need to be complicated. Start with a few small habits that help set a positive tone for your day.\n\n- Create a simple morning routine : Make your bed, enjoy a quiet coffee or breakfast, or take a few deep breaths to centre yourself. Even five minutes of calm can set you up for the day ahead.\n\n- Add time for what matters : Build in space for things that help you feel good like stretching, journalling, or connecting with a friend.\n\n- Be flexible : Life happens, and routines can change. It’s okay to adapt as you go. What matters is finding what works for you.\n\nRemember - small routines can build into something bigger over time, helping you feel more grounded and in control.\n\n### Focus on meaningful connections\n\nStrong social connections can help you feel supported, reduce stress, and remind you that you’re not alone. Having people to turn to, whether it’s a friend, family member, or someone in your community, can make tough times feel more manageable. Even small moments of connection can lift your mood and boost your resilience.\n\nIf building or maintaining connections feels hard, start small:\n\n- Reach out to someone you trust : A simple message like 'Hey, I’ve been thinking of you. How’s your day?' can open the door to connection.\n\n- Make time for regular catch-ups : This could be a weekly coffee, a phone call, or even a short walk with a friend.\n\n- Join a group or activity : Finding a community with shared interests can help you build new connections.\n\nMeaningful relationships take time, but they’re one of the best ways to care for yourself. Click here for tips on building strong social connections .\n\n### Practise mindfulness and meditation\n\nMindfulness and meditation are simple but powerful ways to calm your mind and bring you back to the present. They can help reduce stress, ease overwhelming feelings, and ground you in what’s happening right now, rather than getting stuck in thoughts about the past or future.\n\nIt’s worth noting that meditation isn’t for everyone, and that’s okay. If it feels uncomfortable, other grounding techniques might work better for you.\n\nIf you’re curious about mindfulness, start small:\n\n- Take 1–2 minutes for deep breathing : Focus on your breath, or gently name five things you can see around you.\n\n- Try a guided meditation : Apps like Calm or Smiling Mind offer short sessions for relaxation, sleep, or managing anxiety.\n\n- Bring mindfulness into everyday moments : Slow down during tasks like eating or walking. Notice the sights, sounds, and sensations around you.\n\nMindfulness isn't something you need to be perfect at. What matters is giving yourself time to pause and reset. Click here to learn more about getting started with mindfulness .\n\n### Do a digital detox\n\nWhen life feels overwhelming, stepping away from screens can help reduce mental overload and give you space to reset. Constant notifications, social media, and endless information can leave your mind in a state of high alert, making it harder to manage stress.\n\nA digital detox doesn’t mean giving up technology forever. It’s about creating a healthier balance that works for you.\n\nYou can try:\n\n- Set screen-free times : Try phone-free periods, like the first hour after you wake up or before bed. This gives your brain time to rest and reset.\n\n- Turn off non-essential notifications : Reducing interruptions helps you feel calmer and more in control of your time.\n\n- Check-in with your social media use : Reflect on how social media makes you feel. Unfollow accounts that bring you stress and spend more time engaging with uplifting or meaningful content.\n\nFinding a balance with technology can help you feel more present, connected, and in control.\n\nClick here for more tips on how to do a digital detox .\n\n### How to do a digital detox\n\nExcessive media and technology use can have a negative impact on your mental health, relationships and overall wellbeing. If you feel your screen time has become problematic, a digital detox can help you bring things back into balance.\n\n8 minutes read\n\nHelps with Anxiety Depression\n\n### Reaching out for professional support\n\nSometimes stress can feel overwhelming, and that’s okay. Reaching out for professional support is a brave step toward feeling better. It gives you a safe space to share what you’re going through and helps you discover tools and strategies that work for you.\n\nWhether it’s speaking to a GP, connecting with a therapist, or trying an online program, there are different types of support that can be tailored to your needs.\n\n### Talk to a GP\n\nA GP is a great place to start when seeking support for stress. They can help you create a Mental Health Treatment Plan, which outlines your mental health needs and the support available to you.\n\nThis plan may include a referral to a therapist or specialist and can give you access to Medicare-subsidised therapy sessions, reducing the cost of care.\n\nClick here to learn more about getting a Mental Health Treatment Plan . If you need help finding a local healthcare provider, you can use Service Finder GP .\n\n### Explore professional therapy options\n\nTalking to a therapist can help you understand what’s behind your stress and give you new ways to cope. Two common therapies are cognitive behavioural therapy (CBT) and acceptance and commitment therapy (ACT) .\n\n- Cognitive behavioural therapy (CBT) helps you recognise and challenge unhelpful thought patterns. It focuses on practical strategies to reframe your thinking, so you can respond to stressful situations in healthier ways.\n\n- Acceptance and commitment therapy (ACT) encourages you to accept difficult thoughts and feelings rather than fight them. It helps you focus on what truly matters to you and take meaningful steps toward your goals, even in the face of challenges.\n\nIf you’re curious about CBT, you can start with this simple thought-challenging activity . It’s a practical tool to help you identify unhelpful thoughts and replace them with more balanced, supportive ones.\n\n### Look into online programs\n\nIf in-person therapy doesn’t feel right for you, or you’d like to get started now, online programs can be a great alternative. These programs offer flexible, evidence-based support you can access at your own pace.\n\n- This Way Up: Offers evidence-based courses to help manage stress, anxiety, and more. Click here to learn more .\n\n- MindSpot: Provides free online mental health assessments and treatment programs. Click here to learn more .\n\nOnline programs can be a helpful first step, or they can complement other types of support you’re exploring.\n\nTools & Apps\n\n### The Wellbeing Course\n\nThe Wellbeing Course is a free, 8-week online treatment that helps you break unhelpful habits while learning how to recognise and manage symptoms of anxiety and depression.\n\nManaging stress over the long term is about finding what works for you and building a toolkit of strategies that support your wellbeing. Combining professional support with other approaches like mindfulness, self-care, and connecting with others can help you feel more equipped to handle life’s challenges.\n\nIf you need support along the way, there are always tools, services, and people ready to help.\n\n- Find practical strategies to help you manage stress right now\n\nRemember, you don’t have to do it all at once. Even small changes like sticking to a daily routine or doing a digital detox can have a big impact in the long term. Be gentle with yourself and take things one step at a time.\n\n## Tools & apps\n\n### Discover tools, apps, and real stories to help manage stress\n\nBelow, you’ll find tools like online learning programs, forums, apps, and podcast episodes that can help you wherever you are in your wellbeing journey.\n\n### Apps and online programs\n\n### This Way Up\n\nOffers free and paid self-paced online programs that teach practical ways to manage symptoms of anxiety, depression, and other mental health challenges.\n\nHelps with Depression Anxiety\n\n### Calm\n\nCalm is a mindfulness, meditation, and music app that offers guided tracks, sleep stories, and other techniques that can help you improve your wellbeing, boost your mood, manage stress and anxiety, get better sleep, and more.\n\nHelps with Stress Anxiety\n\n### Smiling Mind\n\nSmiling Mind is a mindfulness and meditation app that helps kids, teens, and adults improve their wellbeing and achieve specific mental health goals like better sleep, reduced stress, stronger relationships, and more.\n\n### MoodMission\n\nMoodMission is a mental health and wellbeing app that helps you learn new and effective ways to deal with stress, low moods, and anxiety. By completing 'missions', you can discover mental health strategies that are quick, easily achievable, and backed by scientific evidence.\n\nHelps with Anxiety Intrusive thoughts\n\n### Real stories\n\nReal Story\n\n### Anthony's Story\n\nAnthony Hart's slide into depression snuck up on him, taking him and everyone who knew him by surprise.\n\n30 minutes read\n\nHelps with Depression Stress\n\n### Maddie's Story\n\nMaddie shares how academic pressures and fear of disappointing her parents led to anxiety and depression before learning to embrace imperfection.\n\n26 minutes read\n\nHelps with Stress Anxiety & Depression\n\n### Tom's Story\n\nTom's inspirational story about walking away from his successful footballer career and managing his mental health on a daily basis.\n\nHelps with Anxiety & Depression\n\n### Amanda's Story\n\nAmanda shares how, at 27, she was trapped in the pursuit of career success, leading to burnout, depression, and feelings of isolation due to stigma.\n\n28 minutes read\n\nHelps with Burnout Depression\n\n### Mal's Story\n\nMal Meirs has worked in some of the best restaurants in the world but the pressure, the horrendous hours, the chaos, and the physical pain of horrific injuries often caused by exhaustion and stress brought him literally to the brink of suicide.\n\n### Forums\n\n### Lifeline Forums\n\nConnect with peer support, find hope, and discover ways to take care of your mental health and wellbeing from anywhere in Australia.\n\nHelps with Healing & Recovery\n\n## Support services\n\n### Support services for managing stress\n\nBelow, you’ll find support services that offer information, counselling, and referrals to local services in your area.\n\nSupport Service\n\n### Beyond Blue\n\nBeyond Blue offers free and confidential 24/7 counselling for anyone looking for a little help with their mental health.\n\nHelps with Mental Health Wellbeing\n\n### MindSpot\n\nMindSpot is a free, digital mental health clinic that offers psychological assessments, teletherapy, and online treatment courses for challenges like depression, anxiety, stress, and more. Call 1800 614 434.\n\n### MensLine Australia\n\nMensLine Australia provides free 24/7 counselling, information, and referrals for men with relationship, mental health, and wellbeing concerns. Call 1300 789 978.\n\nHelps with Relationships Mental Health\n\n### 13YARN\n\n13YARN is a free and confidential 24/7 national crisis support line for Aboriginal and Torres Strait Islander people who are feeling overwhelmed or having difficulty coping.\n\nHelps with Worry Overwhelm\n\n### Kids Helpline\n\nKids Helpline is a free and confidential 24/7 phone and online chat counselling service for kids, teens and young people. Call 1800 551 800.\n\nHelps with Family Bullying\n\n### ReachOut\n\nReachOut is an anonymous and confidential online space where young people can openly express themselves, get a deeper understanding and perspective on what’s happening in their lives, and connect with 1:1 judgement-free peer support.\n\n### Search for more services\n\nUse the Lifeline Service Finder to search for more local and national services available to help support you.\n\n### Lifeline Service Finder\n\nLifeline's Service Finder is an online directory of free or low-cost health and community services in Australia. Search for GPs, counsellors, material support and much more.\n\nHelps with Finding support\n\n## For friends & family\n\n### Supporting someone you care about\n\nWatching someone you care about experience stress can leave you feeling unsure of how to help. Some people might need space, while others want more support but don’t know how to ask for it.\n\nThis page offers practical ways to start conversations, provide meaningful support, and look after your own wellbeing along the way. Remember, you don’t have to have all the answers. Jst being there can make a difference.\n\n### Tips for starting a conversation\n\nIt’s not always easy to know what to say when someone you care about is struggling with stress. You might worry about saying the wrong thing or feel unsure about how to bring it up. But even a simple check-in can be really powerful. Simply knowing someone cares can help ease stress.\n\nEvery conversation is different, but small things can help make it feel easier for both of you.\n\n### Choose the right moment\n\nIf someone is already feeling overwhelmed, caught off guard, or distracted, they might find it harder to open up. Choosing a calm, private moment can help them feel safer and more comfortable sharing how they’re feeling.\n\n- Pick a time when they’re more at ease : Bringing it up when they’re already stressed (like in the middle of a tough day) might not be helpful. Instead, look for a time when they seem more relaxed, such as after work, over a meal, or during a casual activity.\n\n- Consider the location : A quiet, familiar space can help the other person feel more at ease. Talking while walking, driving, or doing something side by side (like cooking or playing a game) can sometimes feel less intense than a direct, face-to-face conversation.\n\n- Respect their privacy : Avoid starting the conversation in front of others, as the other person may feel uncomfortable or pressured. If you’re in a group setting and notice they seem stressed, check in later when you can talk one-on-one.\n\nRemember - it's okay if the other person isn't ready to talk. The most important thing is to let them know you’re there whenever they are.\n\n### Ask open-ended questions\n\nWhen checking in, the way you ask questions can make a big difference.\n\nOpen-ended questions invite conversation and help the other person share what they’re feeling in their own words, rather than just answering 'yes' or 'no.'\n\n- Keep it gentle and pressure-free : Instead of 'Are you okay?' , try 'What’s been on your mind lately?' or 'How have things been feeling for you?' These questions show you care without making the other person feel like they have to give a certain answer.\n\n- Give them time to respond : If they hesitate, don’t rush to fill the silence. Sometimes, people need a moment to gather their thoughts before opening up.\n\n- Follow their lead : If they share something small, let them set the pace. You can say, 'That sounds really tough. Do you want to talk more about it?' so they know it’s okay to continue if they’re comfortable.\n\n- Avoid ‘why’ questions : Asking, 'Why are you stressed?' can sometimes feel like an interrogation, even when you mean well. Instead, try 'What’s been feeling most challenging lately?'\n\nOpening up about stress isn’t always a one-time conversation. Following up shows that you genuinely care and that they don’t have to go through it alone.\n\nA simple message like 'I’ve been thinking about you. How have things been since we last spoke?' can remind the other person that they have ongoing support.\n\n### Respond with C.A.R.E.\n\nHow you respond when someone opens up can make a big difference. Instead of trying to ‘fix’ things, use the C.A.R.E. Framework (Connect, Ask, Remind, Empower) to guide the conversation.\n\n- Connect : Focus on creating a safe, judgement-free space. Let the other person share without interruption, and show that you’re listening through your body language and tone.\n\n- Ask : Reflect on what they’ve shared and help them explore it further. You could say, ‘It sounds like this has been weighing on you for a while. How have you been coping with that?'\n\n- Remind : Highlight the other person's strengths and the resources available to them. You might say, 'You’ve been through tough times before, and you’re really strong. There are people and tools that can help.'\n\n- Empower : Encourage small steps forward and acknowledge progress. Even small actions can help rebuild confidence. Instead of offering solutions, ask, ‘What’s one thing you’d like to focus on this week? ’ to gently nudge them toward action without pressure.\n\nYou can learn more about the CARE Framework and tips for talking to someone about their mental health by clicking here .\n\n### Validate their feelings\n\nLet them know their stress is understandable.\n\nYou could say, 'That sounds really tough. I can see why you’re feeling this way.'\n\nA genuine, empathetic response can help them feel seen and supported. If you're unsure how to respond, the short Brené Brown video on empathy vs sympathy below explains how simply being present and understanding can help someone feel truly heard.\n\nNot everyone will be ready to talk straight away, and that’s okay. What’s most important is that the other person knows you’re there.\n\nFor more tips, click here to read our support guide on talking to someone about their mental health .\n\n### Supporting a child or young person?\n\nHelping a child or young person through stress can feel especially challenging. They may not always have the words to explain what’s going on, and their stress might show up in unexpected ways, like changes in behaviour, trouble sleeping, or becoming more emotional or withdrawn.\n\nYou can find tailored advice for supporting a child or young person by clicking here or on the article below.\n\nSupport Guide\n\n### How to talk to a child or young person you're concerned about\n\nParents, carers, and trusted adults can play a big role in supporting a child or young person through challenging times. Learn practical tips for starting a conversation and creating a safe space for them to open up.\n\n12 minutes read\n\nHelps with Offering support\n\n### Practical ideas for offering support\n\nWhen someone is deeply stressed, even basic tasks can feel overwhelming. Stress can lead to decision-making fatigue, making it harder for them to plan, prioritise, or take action. Offering practical help, especially with small but important tasks, can ease some of that mental load and create space for them to focus on their wellbeing.\n\nHere are some ways you can help:\n\n- Help them organise their to-do list : Sit down together and list what’s on their mind. Break it into smaller, manageable steps. Sometimes just writing things down can bring relief. You might say, 'Let’s list everything on your mind and decide what needs to be done first.'\n\n- Assist with booking a GP or counselling appointment : Making that first appointment can feel like a mountain to climb when someone is stressed. Offer to help the other person research services or book appointments. You could say, 'Would you like me to sit with you while we book that appointment?'\n\n- Prepare meals or snacks : When stress takes over, eating well often becomes an afterthought. Dropping off a ready-made meal or snacks can help ensure the other person is getting the nourishment they need.\n\n- Offer to run errands : Everyday tasks like grocery shopping or picking up prescriptions can feel exhausting when someone is stretched thin. Offering to take a few things off their plate can lighten their load.\n\n- Be their support buddy : If they’re taking steps toward professional help or trying to build healthier routines, offer to go along for support. Whether it’s joining them for a walk, sitting with them during an appointment, or encouraging a new habit, having someone alongside can make it feel less overwhelming.\n\nEven small acts of support can help someone feel less isolated and more capable of managing what’s in front of them.\n\n### How to gently encourage self-care\n\nWhen someone’s stressed, self-care often falls by the wayside. Little things like sleep, movement, and nourishing meals can make a big difference when it comes to reducing and managing stress.\n\nWhen encouraging self-care, the key is to keep it light and achievable without making the other person feel pressured.\n\nHere are a few ways you can help:\n\n- Suggest moving together : Exercise, especially outdoors, can reduce stress and boost mood. Movement can be anything from a short walk to simple stretches or breathing exercises. You might say, 'Want to go for a short walk? It could help clear your mind.'\n\n- Promote rest and relaxation : Sleep plays a huge role in managing stress, but it’s often the first thing to suffer. Encourage the other person to take breaks and unwind. Watching a comforting movie, reading, or listening to calming music can help. Click here to learn more about the importance of sleep for mental health .\n\n- Make self-care feel manageable : Instead of focusing on big lifestyle changes, suggest small steps. You can say, ' Have you had a glass of water today?' or 'How about we make something simple to eat?' These small acts can add up.\n\n### Looking after your wellbeing as a carer\n\nSupporting someone through stress can be challenging, especially if they become irritable, withdrawn, or overwhelmed. It’s difficult to be on the receiving end of these emotions, even when you understand it’s part of what they’re going through. That’s why it’s so important to care for yourself, too.\n\nTaking time to protect your own mental and emotional wellbeing isn’t selfish - it’s essential. When you look after yourself, you’ll have more energy and patience to offer meaningful support without feeling drained.\n\nHere are some ways you can prioritise your wellbeing:\n\n### Set healthy boundaries\n\nBoundaries are a way to care for yourself while staying present for others.\n\nWhen supporting someone through stress, it’s easy to feel like you have to be available all the time. But constantly giving without setting limits can leave you exhausted and burned out.\n\n- Be clear about what you can offer : Be clear about what you can offer and give yourself permission to step back when you need to recharge. You might say, 'I want to support you, but I need some time to recharge. Let’s check in tomorrow.'\n\n- Know it’s okay to say no : Setting limits doesn’t mean you care any less. It’s a way to ensure you can show up fully when you’re able to help.\n\n- Stick to your boundaries with kindness : You can be firm and compassionate at the same time. For example, 'I can’t talk right now, but I’m happy to catch up later this week.'\n\nHealthy boundaries give both you and the other person space to rest and recover, helping you avoid emotional exhaustion.\n\n### Create space for your own feelings\n\nCaring for someone who’s stressed can bring up all kinds of emotions sadness, frustration, guilt, or even anger. It’s important to acknowledge and process these feelings without judgement.\n\n- Talk to someone you trust : Sharing how you’re feeling with a friend, family member, or support group can help lighten the emotional load. Click here to learn tips for starting the conversation .\n\n- Write it down : Journaling can help you process what you’re going through and make sense of difficult emotions. It’s also a private space to reflect and release what’s on your mind. Click here for prompts to get started .\n\n- Be kind to yourself : Remind yourself that supporting someone isn’t easy. It’s okay to feel a range of emotions. It doesn’t mean you’re doing anything wrong.\n\nAcknowledging your feelings is an act of self-care. The more space you give yourself to reflect and recharge, the better you’ll be able to support others. Click here to learn more about self-care for mental health and wellbeing .\n\n### Take breaks when you need them\n\nSupporting someone through a stressful time can be emotionally and physically exhausting. It’s essential to step back and give yourself time to rest and recharge.\n\nTaking breaks doesn’t mean you’re stepping away for good. It’s about creating balance so you can continue offering support in a sustainable way.\n\n- Schedule regular time for yourself : Whether it’s a walk, a coffee with a friend, or 10 quiet minutes to breathe, small breaks can help you reset.\n\n- Do something that recharges you : Think about what makes you feel calm or energised. It could be listening to music, spending time outdoors, reading, or watching your favourite show.\n\n- Notice when you’re running low : If you’re feeling easily frustrated, emotionally drained, or physically exhausted, it’s a sign to pause and take care of yourself.\n\nRemember, breaks are not only okay; they’re necessary. You’ll be in a much better place to support someone when you’re feeling rested and steady.\n\n### Focus on what’s manageable\n\nIt’s natural to want to help in every way possible, but trying to do too much can leave you feeling stretched thin. Instead, focus on what’s realistic and sustainable for both you and the person you care about.\n\n- Prioritise what’s needed most: Ask yourself, 'What’s the one thing that could help most right now?' Offering small, practical help like organising a to-do list or preparing a meal can have a big impact.\n\n- Avoid the pressure to ‘fix’ everything: Remember, your role isn’t to solve every problem. Supporting someone is about walking alongside them, not carrying everything for them.\n\n- Acknowledge what you’re already doing: It’s easy to overlook your own efforts. Remind yourself that being present and listening is meaningful in itself.\n\nSupport is a journey, not a quick fix. Focus on small, achievable actions, and celebrate progress, both the other person's and yours, along the way.\n\nSupporting someone through stress is about being present, offering practical help, and encouraging healthy routines.\n\nBut remember - caring for yourself is just as important. By setting boundaries and taking time to rest, you’ll have the strength to continue offering support.\n\nIf it ever feels too heavy, you can always reach out to someone you trust or a support service like Carer Gateway .\n\n### Carer Gateway\n\nCarer Gateway aims to make your life easier by providing emotional, practical and financial support for carers. Provides free counselling, information, peer support, emergency respite care, and financial help to carers via phone, online, and in-person services.\n\nHelps with Overwhelm Self-care\n\nYou can also always speak with a Lifeline Crisis Supporter. We're here for you 24 hours a day, 7 days a week via 13 11 14 , text , and chat .\n\n- Find practical strategies to help manage stress right now\n\n- Explore tools, apps, and real stories to help cope with and manage stress\n\n#### Was this page helpful?\n\nYour feedback helps us improve our site for people like you.\n\nWe’d love to hear why! Tell us more\n\n## Help starts here\n\nSupport looks different for everyone. Use the drop down bar to find what feels right for you.\n\nHow can we help?\n\n- I'm thinking about suicide\n\nBack to top\n\nVisit Lifeline Australia\n\n- Training\n\n- Volunteer\n\n- Fundraise\n\n- About Lifeline\n\n- Find a Lifeline Centre\n\n- Contact us\n\nReconciliation Action Plan\n\nLived Experience Framework\n\nLifeline pays its respects to the traditional custodians across the lands on which we work, and acknowledge their elders past and present.\n\nLifeline pays deep respect to people who have personal experiences of crisis and suicide. They are the reason our organisation and services exist.\n\nLifeline is committed to providing a safe, culturally appropriate, and inclusive service for all people, regardless of their ethnicity, faith, disability, sexuality, or gender identity.\n\n- Policies\n\n- Terms of Use\n\n- Privacy\n\n- Accessibility\n\n- Language\n\nLifeline is a registered ACNC charity. ABN: 84 081 031 263. RTO Registration Code 88036. Copyright © 2025 Lifeline Australia. All rights reserved.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#main-content\n\n- Call us ●: https://www.lifeline.org.au/get-help/services/131114\n\n- Chat with us ●: https://www.lifeline.org.au/get-help/services/chat\n\n- Text us ●: https://www.lifeline.org.au/get-help/services/text\n\n- https://www.lifeline.org.au/: https://www.lifeline.org.au/\n\n- I’m thinking about suicide: https://www.lifeline.org.au/get-help/im-thinking-about-suicide\n\n- I want to talk to someone: https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone\n\n- I'm worried about someone: https://www.lifeline.org.au/get-help/im-worried-about-someone\n\n- I want to explore my options: https://www.lifeline.org.au/get-help/i-want-to-explore-my-options\n\n- Get help home: https://www.lifeline.org.au/get-help\n\n- Call us 13 11 14 ● Service online: https://www.lifeline.org.au/131114\n\n- Chat to us Support 24/7 ● Service online: https://www.lifeline.org.au/chat\n\n- Text us 0477 13 11 14 ● Service online: https://www.lifeline.org.au/text\n\n- Crisis support: https://www.lifeline.org.au/get-help/services/crisis-support\n\n- Counselling: https://www.lifeline.org.au/get-help/services/counselling\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/service-finder\n\n- Workplace & community training: https://www.lifeline.org.au/get-help/services/workplace-and-community-training\n\n- Services home: https://www.lifeline.org.au/get-help/services\n\n- Topics: https://www.lifeline.org.au/get-help/support-toolkit/topics\n\n- Techniques & guides: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps\n\n- Safety planning: https://www.lifeline.org.au/get-help/support-toolkit/safety-planning\n\n- Community perspectives: https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives\n\n- Fact sheets: https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets\n\n- Support Toolkit home: https://www.lifeline.org.au/get-help/support-toolkit\n\n- Sleep and mental health: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health\n\n- Journaling your thoughts and feelings: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and\n\n- How to do a digital detox: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox\n\n- Helping friends and family: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health\n\n- About Cognitive Behavioural Therapy (CBT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt\n\n- Forums: https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums\n\n- Real stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories\n\n- Hear from others home: https://www.lifeline.org.au/get-help/hear-from-others\n\n- Listen to Joe's story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story\n\n- Donate: https://www.lifeline.org.au/get-involved/donate\n\n- Donate to Lifeline: https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline\n\n- Donate in memory: https://inmemory.lifeline.org.au\n\n- Leave a gift in your Will: https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will\n\n- Fundraise: https://www.lifeline.org.au/get-involved/fundraising\n\n- Fundraise for Lifeline: https://fundraise.lifeline.org.au/\n\n- Events: https://www.lifeline.org.au/get-involved/events\n\n- Volunteer: https://www.lifeline.org.au/get-involved/volunteer\n\n- Become a crisis supporter: https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter\n\n- Community volunteering: https://www.lifeline.org.au/get-involved/volunteer-in-your-community\n\n- Partner with us: https://www.lifeline.org.au/get-involved/partner-with-us\n\n- About us: https://www.lifeline.org.au/about-us\n\n- Who we are: https://www.lifeline.org.au/about-us/who-we-are\n\n- Our strategy: https://www.lifeline.org.au/about-us/our-strategy\n\n- Our services: https://www.lifeline.org.au/about-us/our-services\n\n- Our impact: https://www.lifeline.org.au/about-us/our-impact\n\n- Our structure: https://www.lifeline.org.au/about-us/our-structure\n\n- Governance: https://www.lifeline.org.au/about-us/governance\n\n- Lived experience framework: https://www.lifeline.org.au/about-us/lived-experience\n\n- Our research: https://www.lifeline.org.au/about/our-research\n\n- Data & statistics: https://www.lifeline.org.au/about/our-research/data-and-statistics\n\n- Research & reports: https://www.lifeline.org.au/about/our-research/research-and-reports\n\n- Our partners: https://www.lifeline.org.au/about/our-partners\n\n- Government supporters: https://www.lifeline.org.au/about/our-partners/government-supporters\n\n- Corporate partners: https://www.lifeline.org.au/about/our-partners/our-corporate-partners\n\n- Contact us: https://www.lifeline.org.au/about/contact-us\n\n- Lifeline locations: https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you\n\n- News & media: https://www.lifeline.org.au/about/news-and-media\n\n- Careers: https://www.lifeline.org.au/about/careers\n\n- Shop merchandise: https://lifelineaustralia.infoservices.com.au\n\n- Fundraise: https://fundraise.lifeline.org.au\n\n- Urgent Crisis Support: https://www.lifeline.org.au/urgent-crisis-support\n\n- English: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress\n\n- What is stress?: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#what-is-stress\n\n- Signs & effects: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#signs-and-effects-of-stress\n\n- Causes: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#causes-of-stress\n\n- Short-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#what-to-do-when-you-feel-stressed\n\n- Long-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#long-term-help-for-stress\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#tools-apps-for-stress\n\n- Support services: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#support-services-for-stress\n\n- For friends & family: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress#for-friends-and-family\n\n- anxious: https://www.lifeline.org.au/topics/anxiety/what-is-anxiety\n\n- explore strategies to try right now: https://www.lifeline.org.au/topics/stress/what-to-do-when-you-feel-stressed\n\n- relationships: https://www.lifeline.org.au/topics/relationships/importance-of-relationships\n\n- alcohol and other substances: https://www.lifeline.org.au/topics/substance-misuse/what-is-substance-misuse\n\n- gambling: https://www.lifeline.org.au/topics/problem-gambling/about-problem-gambling\n\n- restricting food: https://www.lifeline.org.au/topics/eating-and-body-image/understanding-eating-and-body-image\n\n- self-harm: https://www.lifeline.org.au/topics/self-harm/what-is-self-harm\n\n- Physical symptoms: https://www.lifeline.org.au/topics/stress/signs-and-effects-of-stress\n\n- thoughts of suicide: https://www.lifeline.org.au/topics/suicide/what-is-suicide\n\n- Lifeline is here: https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support\n\n- common causes: https://www.lifeline.org.au/topics/stress/causes-of-stress\n\n- Explore tools, apps, and real stories: https://www.lifeline.org.au/topics/stress/tools-apps-for-stress\n\n- support service: https://www.lifeline.org.au/topics/stress/support-services-for-stress\n\n- Click here to download, save, or print our stress fact sheet: https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-stress-fact-sheet_0.pdf\n\n- Stress: https://www.lifeline.org.au/topics/stress/what-is-stress\n\n- self-esteem: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health\n\n- Intrusive thoughts: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts\n\n- grief: https://www.lifeline.org.au/topics/grief-loss/what-is-grief\n\n- homelessness: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/help-with-homelessness-resources-for-wellbeing\n\n- Problems: https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships\n\n- Feeling lonely: https://www.lifeline.org.au/topics/loneliness/what-is-loneliness\n\n- financial strain: https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress\n\n- DFV: https://www.lifeline.org.au/topics/domestic-and-family-violence/about-domestic-and-family-violence\n\n- Natural disasters: https://www.lifeline.org.au/topics/natural-disasters/understanding-natural-disasters-and-mental-health\n\n- traumatic experiences: https://www.lifeline.org.au/topics/trauma/about-trauma\n\n- panic: https://www.lifeline.org.au/topics/panic-attacks/what-is-a-panic-attack\n\n- grounding technique: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques\n\n- Click here to learn tips for talking to someone you trust: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust\n\n- text: https://www.lifeline.org.au/crisis-text/\n\n- chat: https://www.lifeline.org.au/crisis-chat/\n\n- self-care: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing\n\n- Lifeline Service Finder: https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder\n\n- National Debt Helpline: https://www.lifeline.org.au/get-help/national-services/national-debt-helpline\n\n- Click here to learn more tips for reducing and managing financial stress: https://www.lifeline.org.au/topics/financial-stress/short-term-help-for-financial-stress\n\n- help is available: https://homelessnessaustralia.org.au/homelessness-services/\n\n- https://www.lifeline.org.au/topics/financial-stress/long-term-help: https://www.lifeline.org.au/topics/financial-stress/long-term-help\n\n- Click here to learn more about building healthy relationships: https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships\n\n- personalised self-care box: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box\n\n- Click here for tips on building strong social connections: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections\n\n- Mindfulness: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness\n\n- meditation: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation\n\n- Calm: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm\n\n- Smiling Mind: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind\n\n- Click here to learn more about getting a Mental Health Treatment Plan: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to\n\n- Service Finder GP: https://www.lifeline.org.au/get-help/national-services/service-finder-gp\n\n- acceptance and commitment therapy (ACT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act\n\n- start with this simple thought-challenging activity: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity\n\n- Click here to learn more: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/this-way-up\n\n- Click here to learn more: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/the-wellbeing-course\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/moodmission: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/moodmission\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/anthonys-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/anthonys-story\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/maddies-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/maddies-story\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/toms-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/toms-story\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/amandas-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/amandas-story\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/mals-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/mals-story\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/lifeline-forums: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/lifeline-forums\n\n- https://www.lifeline.org.au/get-help/national-services/beyond-blue: https://www.lifeline.org.au/get-help/national-services/beyond-blue\n\n- https://www.lifeline.org.au/get-help/national-services/mindspot: https://www.lifeline.org.au/get-help/national-services/mindspot\n\n- https://www.lifeline.org.au/get-help/national-services/mensline-australia: https://www.lifeline.org.au/get-help/national-services/mensline-australia\n\n- https://www.lifeline.org.au/get-help/national-services/13yarn: https://www.lifeline.org.au/get-help/national-services/13yarn\n\n- https://www.lifeline.org.au/get-help/national-services/kids-helpline: https://www.lifeline.org.au/get-help/national-services/kids-helpline\n\n- https://www.lifeline.org.au/get-help/national-services/reachout: https://www.lifeline.org.au/get-help/national-services/reachout\n\n- clicking here: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre\n\n- Carer Gateway: https://www.lifeline.org.au/get-help/national-services/carer-gateway\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/find-another-service\n\n- Get involved: https://www.lifeline.org.au/get-involved\n\n- Reconciliation Action Plan: https://www.lifeline.org.au/about/reconciliation-action-plan\n\n- Policies: https://www.lifeline.org.au/policies\n\n- Privacy: https://www.lifeline.org.au/policies/privacy-policy\n\n- Language: https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support\n\n- https://www.facebook.com/LifelineAustralia/: https://www.facebook.com/LifelineAustralia/\n\n- https://www.instagram.com/lifelineaustralia/: https://www.instagram.com/lifelineaustralia/\n\n- https://au.linkedin.com/company/lifeline-australia: https://au.linkedin.com/company/lifeline-australia\n\n- https://x.com/LifelineAust: https://x.com/LifelineAust\n\n- https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw: https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+}

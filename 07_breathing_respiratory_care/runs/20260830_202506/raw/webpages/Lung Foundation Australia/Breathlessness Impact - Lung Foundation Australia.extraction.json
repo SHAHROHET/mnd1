@@ -1,0 +1,451 @@
+{
+  "source_id": "lung-foundation:breathlessness-clinical",
+  "title": "Breathlessness Impact - Lung Foundation Australia",
+  "publisher": "Lung Foundation Australia",
+  "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness",
+  "retrieved_at": "2026-08-30",
+  "topic": "Breathing And Respiratory Care",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 24273,
+  "crawl_depth": 0,
+  "seed_url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness/",
+  "links": [
+    {
+      "text": "contact us.",
+      "url": "https://lungfoundation.com.au/contact-us/"
+    },
+    {
+      "text": "https://lungfoundation.com.au",
+      "url": "https://lungfoundation.com.au"
+    },
+    {
+      "text": "Protect your lungs",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/"
+    },
+    {
+      "text": "Check your lung health",
+      "url": "https://lungfoundation.com.au/campaigns/lung-health-checklist/"
+    },
+    {
+      "text": "Signs & symptoms",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/signs-symptoms/"
+    },
+    {
+      "text": "How your lungs work",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/how-your-lungs-work/"
+    },
+    {
+      "text": "Vaping information",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/vaping-information/"
+    },
+    {
+      "text": "Air quality and your lungs",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/air-quality-and-your-lungs/"
+    },
+    {
+      "text": "National Lung Cancer Screening Program",
+      "url": "https://lungfoundation.com.au/lung-diseases/national-lung-cancer-screening-program/"
+    },
+    {
+      "text": "Protect your lungs at work",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/protect-your-lungs-at-work/"
+    },
+    {
+      "text": "Quitting smoking",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/quitting-smoking/"
+    },
+    {
+      "text": "Immunisation",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/immunisation/"
+    },
+    {
+      "text": "Lung health information for First Nations",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/lung-health-information-for-first-nations/"
+    },
+    {
+      "text": "About lung diseases & lung cancer",
+      "url": "https://lungfoundation.com.au/about-lung-diseases/"
+    },
+    {
+      "text": "What is a lung disease",
+      "url": "https://lungfoundation.com.au/about-lung-diseases/what-is-lung-disease/"
+    },
+    {
+      "text": "Impact of lung disease",
+      "url": "https://lungfoundation.com.au/about-lung-diseases/impact-of-lung-disease-in-australia/"
+    },
+    {
+      "text": "Chronic obstructive pulmonary disease (COPD)",
+      "url": "https://lungfoundation.com.au/lung-diseases/copd/"
+    },
+    {
+      "text": "Bronchiectasis",
+      "url": "https://lungfoundation.com.au/lung-diseases/bronchiectasis/"
+    },
+    {
+      "text": "Lung cancer",
+      "url": "https://lungfoundation.com.au/lung-diseases/lung-cancer/"
+    },
+    {
+      "text": "Pulmonary fibrosis",
+      "url": "https://lungfoundation.com.au/lung-diseases/pulmonary-fibrosis/"
+    },
+    {
+      "text": "Pulmonary arterial hypertension",
+      "url": "https://lungfoundation.com.au/lung-diseases/pulmonary-arterial-hypertension/"
+    },
+    {
+      "text": "Occupational lung disease",
+      "url": "https://lungfoundation.com.au/lung-diseases/occupational-lung-diseases/"
+    },
+    {
+      "text": "Respiratory infections",
+      "url": "https://lungfoundation.com.au/lung-diseases/respiratory-infections/"
+    },
+    {
+      "text": "Other lung diseases",
+      "url": "https://lungfoundation.com.au/lung-diseases/other-lung-diseases/"
+    },
+    {
+      "text": "Lung disease information for First Nations",
+      "url": "https://lungfoundation.com.au/about-lung-diseases/lung-disease-information-for-first-nations/"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://lungfoundation.com.au/protect-your-lungs/national-lung-cancer-screening-program/"
+    },
+    {
+      "text": "Support & resources",
+      "url": "https://lungfoundation.com.au/support-resources/"
+    },
+    {
+      "text": "Overview",
+      "url": "https://lungfoundation.com.au/support-and-resources/"
+    },
+    {
+      "text": "Resource hub",
+      "url": "https://lungfoundation.com.au/support-and-resources/resource-hub/"
+    },
+    {
+      "text": "Newly diagnosed",
+      "url": "https://lungfoundation.com.au/support-and-resources/recently-diagnosed/"
+    },
+    {
+      "text": "Living with a lung disease",
+      "url": "https://lungfoundation.com.au/support-and-resources/living-with-a-lung-disease/"
+    },
+    {
+      "text": "Caring for a loved one",
+      "url": "https://lungfoundation.com.au/support-and-resources/caring-for-a-loved-one/"
+    },
+    {
+      "text": "Support and palliative care",
+      "url": "https://lungfoundation.com.au/support-and-resources/support-and-palliative-care/"
+    },
+    {
+      "text": "Lung Health Helpline",
+      "url": "https://lungfoundation.com.au/support-and-resources/lung-health-helpline/"
+    },
+    {
+      "text": "Lung Cancer Screening Helpline",
+      "url": "https://lungfoundation.com.au/support-and-resources/lung-cancer-screening-helpline/"
+    },
+    {
+      "text": "Nurse-led services",
+      "url": "https://lungfoundation.com.au/support-and-resources/nurse-led-services/"
+    },
+    {
+      "text": "Social worker service",
+      "url": "https://lungfoundation.com.au/support-and-resources/social-worker/"
+    },
+    {
+      "text": "Support groups",
+      "url": "https://lungfoundation.com.au/support-and-resources/support-groups/"
+    },
+    {
+      "text": "Exercise programs",
+      "url": "https://lungfoundation.com.au/find-support-old/support-services/exercise-programs/"
+    },
+    {
+      "text": "Lung Cancer Multidisciplinary Teams (MDTs)",
+      "url": "https://lungfoundation.com.au/support-and-resources/multidisciplinary-teams-mdts/"
+    },
+    {
+      "text": "Find support",
+      "url": "https://lungfoundation.com.au/find-support/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://lungfoundation.com.au/donate/"
+    },
+    {
+      "text": "Regular giving",
+      "url": "https://lungfoundation.com.au/ways-to-give/become-a-regular-giver/"
+    },
+    {
+      "text": "Become a fundraiser",
+      "url": "https://fundraise.lungfoundation.com.au/"
+    },
+    {
+      "text": "Memorial donations",
+      "url": "https://lungfoundation.com.au/ways-to-give/memorial-donations/"
+    },
+    {
+      "text": "Hope Research Fund",
+      "url": "https://lungfoundation.com.au/ways-to-give/hope-research-fund/"
+    },
+    {
+      "text": "Gift in your Will",
+      "url": "https://lungfoundation.com.au/ways-to-give/gift-in-your-will/"
+    },
+    {
+      "text": "Philanthropy",
+      "url": "https://lungfoundation.com.au/ways-to-give/philanthropy/"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://lungfoundation.com.au/ways-to-give/partner-with-us/"
+    },
+    {
+      "text": "Search",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1OCIsInRvZ2dsZSI6ZmFsc2V9"
+    },
+    {
+      "text": "Menu",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwODIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D"
+    },
+    {
+      "text": "Find support",
+      "url": "https://lungfoundation.com.au/find-support-old/"
+    },
+    {
+      "text": "Health professionals",
+      "url": "https://lungfoundation.com.au/health-professionals/"
+    },
+    {
+      "text": "Clinical tools and training",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/"
+    },
+    {
+      "text": "Breathlessness",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness/"
+    },
+    {
+      "text": "Chronic Cough",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/chronic-cough/"
+    },
+    {
+      "text": "Pulmonary Rehabilitation",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/pulmonary-rehabilitation-health-professionals/"
+    },
+    {
+      "text": "Interstitial Lung Disease",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/interstitial-lung-disease/"
+    },
+    {
+      "text": "Enrol now",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-information/quality-use-of-medicines-in-chronic-airways-disease/"
+    },
+    {
+      "text": "https://www.addtoany.com/share",
+      "url": "https://www.addtoany.com/share"
+    },
+    {
+      "text": "https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Flungfoundation.com.au%2Fhealth-professionals%2Fclinical-tools-and-training%2Fbreathlessness%2F&linkname=Breathlessness",
+      "url": "https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Flungfoundation.com.au%2Fhealth-professionals%2Fclinical-tools-and-training%2Fbreathlessness%2F&linkname=Breathlessness"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://lungfoundation.com.au/privacy-policy/"
+    },
+    {
+      "text": "Data Collection Statement",
+      "url": "https://lungfoundation.com.au/data-collection-statement/"
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/channel/UC1jdxQi0pQDYBG3iN1duYng"
+    },
+    {
+      "text": "https://www.facebook.com/lungfoundation/",
+      "url": "https://www.facebook.com/lungfoundation/"
+    },
+    {
+      "text": "Linkedin-in",
+      "url": "https://www.linkedin.com/company/lung-foundation-australia/"
+    },
+    {
+      "text": "https://www.instagram.com/lungfoundation/",
+      "url": "https://www.instagram.com/lungfoundation/"
+    },
+    {
+      "text": "Donate now",
+      "url": "https://fundraise.lungfoundation.com.au/tax-appeal-2025"
+    },
+    {
+      "text": "About us",
+      "url": "https://lungfoundation.com.au/about-us/"
+    },
+    {
+      "text": "Shop",
+      "url": "https://lungfoundation.com.au/shop/"
+    },
+    {
+      "text": "Research",
+      "url": "https://lungfoundation.com.au/research/"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://lungfoundation.com.au/get-involved/"
+    },
+    {
+      "text": "News",
+      "url": "https://lungfoundation.com.au/news/"
+    },
+    {
+      "text": "Consumer Rights, Responsibilities, and Participation Policy",
+      "url": "https://lungfoundation.com.au/consumer-rights-responsibilities-and-participation-policy/"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://lungfoundation.com.au/cdn-cgi/l/email-protection#f5909b84809c879c9086b599809b92939a809b9194819c9a9bdb969a98db9480"
+    },
+    {
+      "text": "Marlin Communications",
+      "url": "https://marlincommunications.com/?utm_source=lungfoundation.com.au&utm_medium=referral-clients&utm_campaign=client-footer"
+    },
+    {
+      "text": "Marlin Communications",
+      "url": "https://marlincommunications.com/"
+    },
+    {
+      "text": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness"
+    },
+    {
+      "text": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9",
+      "url": "https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9"
+    },
+    {
+      "text": "Lung Foundation Australia and the Thoracic Society of Australia and New Zealand call for stronger tobacco control measures in response to the Senate report",
+      "url": "https://lungfoundation.com.au/news/lung-foundation-australia-and-the-thoracic-society-of-australia-and-new-zealand-call-for-stronger-tobacco-control-measures-in-response-to-the-senate-report/"
+    },
+    {
+      "text": "Time to Take the Next Step: Lung Foundation Australia’s national blueprint calls for urgent lung cancer reform",
+      "url": "https://lungfoundation.com.au/news/time-to-take-the-next-step-lung-foundation-australias-national-blueprint-calls-for-urgent-lung-cancer-reform/"
+    },
+    {
+      "text": "Shine a Light on Lung Cancer returns this November",
+      "url": "https://lungfoundation.com.au/news/shine-a-light-on-lung-cancer-returns-this-november/"
+    },
+    {
+      "text": "Lung Foundation Australia responds to National Press Club comments on vaping",
+      "url": "https://lungfoundation.com.au/news/lung-foundation-australia-responds-to-national-press-club-comments-on-vaping/"
+    },
+    {
+      "text": "Lung Foundation Australia warns against weakening tobacco control measures as smoking rates fall",
+      "url": "https://lungfoundation.com.au/news/lung-foundation-australia-warns-against-weakening-tobacco-control-measures-as-smoking-rates-fall/"
+    },
+    {
+      "text": "Celebrating one year of the National Lung Cancer Screening Program",
+      "url": "https://lungfoundation.com.au/news/celebrating-one-year-of-the-national-lung-cancer-screening-program/"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://lungfoundation.com.au/about-us/our-impact/"
+    },
+    {
+      "text": "Corporate Plan",
+      "url": "https://lungfoundation.com.au/about-us/a-new-direction-for-australias-lung-health/"
+    },
+    {
+      "text": "Our team",
+      "url": "https://lungfoundation.com.au/about-us/our-team/"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://lungfoundation.com.au/about-us/reconciliation-action-plan/"
+    },
+    {
+      "text": "Our corporate partners and supporters",
+      "url": "https://lungfoundation.com.au/about-us/our-partners/"
+    },
+    {
+      "text": "Join our team",
+      "url": "https://lungfoundation.com.au/about-us/join-our-team/"
+    },
+    {
+      "text": "Education and Training",
+      "url": "https://lungfoundation.com.au/health-professionals/training/"
+    },
+    {
+      "text": "Refer a patient",
+      "url": "https://lungfoundation.com.au/health-professionals/refer-a-patient/"
+    },
+    {
+      "text": "Professional networks",
+      "url": "https://lungfoundation.com.au/health-professionals/health-professionals-clinical-tools-and-training-professional-networks/"
+    },
+    {
+      "text": "Become a member",
+      "url": "https://lungfoundation.com.au/health-professionals/become-a-member/"
+    },
+    {
+      "text": "First Nations clinical tools and training",
+      "url": "https://lungfoundation.com.au/health-professionals/first-nations-clinical-tools-and-training/"
+    },
+    {
+      "text": "Research grants and awards",
+      "url": "https://lungfoundation.com.au/research/research-awards-and-grants/"
+    },
+    {
+      "text": "Research programs and partnerships",
+      "url": "https://lungfoundation.com.au/research/research-programs-and-partnerships/"
+    },
+    {
+      "text": "Connect with Research",
+      "url": "https://lungfoundation.com.au/research/connect-with-research/"
+    },
+    {
+      "text": "Advocacy and policy",
+      "url": "https://lungfoundation.com.au/advocacy-and-policy/"
+    },
+    {
+      "text": "Our strategies and campaigns",
+      "url": "https://lungfoundation.com.au/advocacy-and-policy/our-strategies-and-campaigns/"
+    },
+    {
+      "text": "Advocate with us",
+      "url": "https://lungfoundation.com.au/advocacy-and-policy/advocate-with-us/"
+    },
+    {
+      "text": "Position statements and submissions",
+      "url": "https://lungfoundation.com.au/advocacy-and-policy/position-statements-and-submissions/"
+    },
+    {
+      "text": "Become a fundraiser",
+      "url": "https://lungfoundation.com.au/get-involved/become-a-fundraiser/"
+    },
+    {
+      "text": "Join our consumer engagement program",
+      "url": "https://lungfoundation.com.au/about-us/consumer-engagement-be-involved/"
+    },
+    {
+      "text": "Events",
+      "url": "https://lungfoundation.com.au/events/"
+    },
+    {
+      "text": "Share your story",
+      "url": "https://lungfoundation.com.au/get-involved/share-your-story/"
+    },
+    {
+      "text": "Ways to give",
+      "url": "https://lungfoundation.com.au/ways-to-give/"
+    },
+    {
+      "text": "Articles and real stories",
+      "url": "https://lungfoundation.com.au/articles/"
+    }
+  ],
+  "text": "Breathlessness Impact - Lung Foundation Australia\n\nCall our free lung health helpline on 1800 654 301 or contact us.\n\nCall on 1800 654 301 or contact us.\n\n- Protect your lungs\n\n- Overview\n\n- Check your lung health\n\n- Signs & symptoms\n\n- How your lungs work\n\n- Vaping information\n\n- Air quality and your lungs\n\n- National Lung Cancer Screening Program\n\n- Protect your lungs at work\n\n- Quitting smoking\n\n- Immunisation\n\n- Lung health information for First Nations\n\nDon’t miss the signs that something isn’t right. Taking action could save your life.\n\nCheck your lung health\n\n- About lung diseases & lung cancer\n\n- What is a lung disease\n\n- Impact of lung disease\n\n- Chronic obstructive pulmonary disease (COPD)\n\n- Bronchiectasis\n\n- Lung cancer\n\n- Pulmonary fibrosis\n\n- Pulmonary arterial hypertension\n\n- Occupational lung disease\n\n- Respiratory infections\n\n- Other lung diseases\n\n- Lung disease information for First Nations\n\nLung cancer screening is here. Find out if you’re eligible.\n\nLearn more\n\n- Support & resources\n\n- Resource hub\n\n- Newly diagnosed\n\n- Living with a lung disease\n\n- Caring for a loved one\n\n- Support and palliative care\n\n- Lung Health Helpline\n\n- Lung Cancer Screening Helpline\n\n- Nurse-led services\n\n- Social worker service\n\n- Support groups\n\n- Exercise programs\n\n- Lung Cancer Multidisciplinary Teams (MDTs)\n\nWe are here to answer your questions and organise referrals to support services.\n\nContact our team\n\nFind support\n\n- Donate\n\n- Make a donation\n\n- Regular giving\n\n- Become a fundraiser\n\n- Memorial donations\n\n- Hope Research Fund\n\n- Gift in your Will\n\n- Philanthropy\n\n- Partner with us\n\nSearch\n\nMenu\n\nDonate\n\nHome / Health professionals / Clinical tools and training / Breathlessness\n\n# Breathlessness\n\n- Clinical tools and training\n\n- Breathlessness\n\n- Chronic Cough\n\n- Pulmonary Rehabilitation\n\n- Interstitial Lung Disease\n\n2 min read\n\n## Sections on this page\n\nBreathlessness, also known as dyspnoea or shortness of breath, is a common and complex symptom. It can signal serious underlying health conditions, impact quality of life, and increase the risk of emergency hospital visits. Yet breathlessness often goes unrecognised, under-assessed, and poorly managed – especially in primary care.\n\nWhether acute (developing over hours to days) or chronic (persisting for more than 4 to 8 weeks), breathlessness can stem from a wide range of causes, including chronic obstructive pulmonary disease (COPD), asthma, heart failure, obesity, physical deconditioning, anxiety, and depression.\n\nEarly identification and accurate diagnosis of the cause of breathlessness is essential for effective management and better patient outcomes. Yet fewer than 30% of breathlessness-related diagnoses made in primary care are consistent with the final specialist diagnosis.\n\n## Prevalence of breathlessness\n\nResearch from the Australian National Breathlessness Survey (2019) shows:\n\n- 9.5% of adults experience clinically significant breathlessness.\n\n- In older adults, the prevalence is even higher, affecting nearly half of those aged 65 and over.\n\n- More than 50% of people living with breathlessness have no formal diagnosis of a respiratory or cardiac condition.\n\n## Impact of breathlessness\n\nBreathlessness is more than just a symptom, it’s a serious health issue that affects every aspect of a person’s life. It severely impacts mobility, daily activities, productivity and social participation. The anxiety and fear associated with breathlessness can lead to social isolation, depression and diminished quality of life. It leads to frequent hospital admissions, emergency department visits, and long-term medical treatments, contributing to substantial healthcare costs. A study found that 1 in 5 ambulance presentations to the emergency department were due to acute or chronic breathlessness.\n\n## Clinical tools and resources\n\n### Identifying, assessing and diagnosing breathlessness e-Learning module\n\nIn collaboration with clinical experts in breathlessness, Lung Foundation Australia have developed a free, accredited eLearning course for primary care health professionals.\n\nThe course provides evidence-based methods for identifying and assessing breathlessness, practical self-management advice for patients, and ongoing resources and support. The eLearning introduces the breathlessness checklist shared-care tool and includes a reflective practice audit guide. It also provides evidence-based methods for identifying and assessing breathlessness, practical self-management advice for patients, and ongoing resources and support.\n\nEnrol now\n\n#### Was this page helpful?\n\nYes No\n\nGood job! Please give your positive feedback\n\nHow could we improve this post? Please Help us.\n\nSubmit\n\nLast updated on December 15th, 2025 at 10:46 am\n\n## Get the latest Lung Foundation Australia news\n\nStay up to date with the latest information, news, services and events by signing up to our database.\n\nI am:\n\nPatient\n\nLiving with a lung condition\n\nCarer\n\nCaring for someone with a lung condition\n\nHealth Professional\n\nResearcher\n\nName (Required)\n\nFirst Name Last Name\n\nEmail (Required)\n\nBy completing this form, you consent to your information being collected, used and disclosed in accordance with our Privacy Policy and Data Collection Statement .\n\nYoutube Linkedin-in\n\nDonate now\n\n- About lung cancer\n\n- & lung diseases\n\n- Support and resources\n\n- Find Support\n\n- About us\n\n- Shop\n\n- Health professionals\n\n- Research\n\n- First Nations\n\n- Get involved\n\n- News\n\n- Contact us\n\n- Privacy Policy\n\n- Data Collection Statement\n\n- Consumer Rights, Responsibilities, and Participation Policy\n\nLung Foundation Australia\n\nLevel 4, 12 Cribb Street\n\nYuggera Country\n\nMilton QLD 4064\n\nPostal Address: PO Box 1949, Milton, QLD, 4064\n\n1800 654 301\n\nFree Call (within Australia)\n\nPhone: 07 3251 3600\n\nEmail: [email protected]\n\nLung Foundation Australia acknowledges the Traditional Custodians of the lands on which we work throughout Australia and their unceded sovereignty of and continuing connection to land and sea. We pay our respects to First Nations cultures and to Elders past and present. We acknowledge the overrepresentation of Aboriginal and Torres Strait Islander peoples in lung disease and lung cancer. We commit to working with communities to Close the Gap and build on the strengths of communities to lead the path to healthy lungs for all.\n\nCopyright © 2026 Lung Foundation of Australia ABN 36 051 131 901\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nSite by Marlin Communications\n\nCopyright © 2026 Lung Foundation of Australia\n\nABN 36 051 131 901\n\n### Menu\n\n### Welcome to our new website!\n\nWe’re still fine-tuning things, so thanks for your patience if you spot any issues. If you’d like to share your feedback, click the ‘Feedback’ button in the bottom right corner of the page. While we can’t action every suggestion, all ideas guide our future improvements.\n\nClose\n\n### Scheduled Updates in Progress\n\nWe’re performing some system upgrades to our website which may cause some temporary technical issues. We appreciate your understanding as we work through these upgrades.\n\n### Search\n\nQuick Links\n\n### Page\n\n#### Lung Foundation Australia and the Thoracic Society of Australia and New Zealand call for stronger tobacco control measures in response to the Senate report\n\n#### Time to Take the Next Step: Lung Foundation Australia’s national blueprint calls for urgent lung cancer reform\n\n#### Shine a Light on Lung Cancer returns this November\n\n#### Lung Foundation Australia responds to National Press Club comments on vaping\n\n#### Lung Foundation Australia warns against weakening tobacco control measures as smoking rates fall\n\n#### Celebrating one year of the National Lung Cancer Screening Program\n\n### Lung Disease\n\n### Resources\n\n### Corporate Resources\n\n### Research Projects\n\n### Training\n\n### Event\n\n### Articles\n\n### News\n\n### More\n\n- Lung cancer screening\n\n- About lung cancer & lung diseases\n\n- About Lung Diseases\n\n- Occupational Lung Diseases\n\n- Our impact\n\n- Corporate Plan\n\n- Our team\n\n- Reconciliation Action Plan\n\n- Our corporate partners and supporters\n\n- Join our team\n\n- Clinical tools and information\n\n- Education and Training\n\n- Refer a patient\n\n- Professional networks\n\n- Become a member\n\n- First Nations clinical tools and training\n\n- Research grants and awards\n\n- Research programs and partnerships\n\n- Connect with Research\n\n- Advocacy and policy\n\n- Our strategies and campaigns\n\n- Advocate with us\n\n- Position statements and submissions\n\n- Join our consumer engagement program\n\n- Events\n\n- Share your story\n\n- Ways to give\n\n- Donate Now\n\n- Become a regular giver\n\n- Articles and real stories\n\n- Contact\n\nPosition\n\n## Breathlessness\n\nbio\n\n### Products\n\n#### Filter and sort\n\nArticle type\n\nAll articles\n\nCategory Article type\n\nReal stories\n\nExpert advice\n\nLung disease\n\nSelect one or more\n\nLung disease Article\n\nAll Lung Conditions\n\nAlpha1-antitrypsin\n\nAsthma\n\nBronchiectasis\n\nChildhood interstitial lung disease\n\nChronic obstructive pulmonary disease (COPD)\n\nCOVID-19\n\nIdiopathic Pulmonary Fibrosis\n\nInterstitial lung disease\n\nLong COVID\n\nLung cancer\n\nNon-tuberculous mycobacteria (NTM)\n\nOccupational lung disease\n\nOther lung conditions\n\nPaediatric Lung Disease\n\nPulmonary Arterial Hypertension\n\nPulmonary Fibrosis\n\nPulmonary fibrosis (ILD)\n\nPulmonary Hypertension\n\nSarcoisosis\n\nScleroderma\n\nTracheobronchomalacia (TBM)\n\nTuberculosis\n\nTopic\n\nCategory Article topic\n\nAir quality\n\nDiagnosis\n\nExercise\n\nLung health and prevention\n\nManagement\n\nMental health\n\nResearch\n\nSupport\n\nSymptoms\n\nTreatment\n\nSort by\n\nSelect one Alphabetically, A-Z Alphabetically, Z-A Newest first Oldest first\n\nClear\n\nApply\n\nCategory\n\nCategory product\n\nAll Products\n\nPromotional\n\nPublications\n\nResources\n\nShine a Light on Lung Cancer\n\nSelect one Best selling Alphabetically, A-Z Alphabetically, Z-A\n\nCategory lung disease LFA services\n\nAlpha-1\n\nCOVID Recovery (Long COVID)\n\nLung Transplant\n\nLymphangioleiomyomatosis (LAM)\n\nNTM /Mycobacterium Avium Complex\n\nParents Of A Child With A Lung Condition\n\nPleural Mesothelioma\n\nPulmonary Fibrosis / Idiopathic Pulmonary Fibrosis\n\nSarcoidosis\n\nSilicosis\n\nService type and category\n\nService Type Exercise programs Multi-disciplinary teams (MDTs) Nurse-led services Social Worker Support Groups\n\nService Category\n\nService delivery method\n\nIn-Person\n\nIn-Person and Online\n\nOnline\n\nPhone\n\nPost code\n\nYour current location\n\n50km 100km 200km\n\nLung Foundation Australia services first Alphabetically, A-Z Alphabetically, Z-A Newest first Oldest first\n\nI am...\n\nResource Category Who 2026\n\nA health professional\n\nAll audiences\n\nCaring for a loved one\n\nFirst Nations\n\nLiving with a lung disease\n\nNewly diagnosed with a disease\n\nWorried about my lung health\n\nResource Category Lung Disease 2026\n\nAll lung diseases\n\nOccupational lung diseases\n\nPneumonia\n\nPulmonary fibrosis (PF)\n\nRespiratory syncytial virus (RSV)\n\nResource type\n\nResource Category Type 2026\n\nAction Plan\n\nBooklet\n\nChecklist\n\nCorporate\n\nExternal resource / Link\n\nFact sheet\n\nFlyer\n\nInfographic\n\nPodcast\n\nPoster\n\nToolbox Talk\n\nVideo / Webinar\n\nResource language\n\nResource Category Language 2026\n\nArabic\n\nAssyrian\n\nChinese\n\nEnglish\n\nGreek\n\nNepali\n\nPunjabi\n\nSpanish\n\nTurkish\n\nVietnamese\n\nOnly certain resources will be available in alternative languages\n\nMost relevant Alphabetically, A-Z Alphabetically, Z-A Newest first Oldest first Most downloaded\n\nLung Disease research\n\nResearch category\n\nCategory research\n\nDetection & diagnosis\n\nQuality of life\n\nTreatments & models of care\n\nYear\n\nYear Research\n\n2020\n\n2024\n\n2022\n\n2019\n\n2018\n\n2017\n\n2016\n\n2008\n\n1999\n\nMost relevant Alphabetically, A-Z Alphabetically, Z-A Newest first Oldest first\n\nType\n\nPost Type Filter\n\nResource\n\nArticle\n\nPage\n\nEvent\n\nNews\n\nTraining\n\nService\n\nLung Diseases\n\nCategory news\n\nAcute bronchitis\n\nAsbestosis\n\nCoal workers pneumoconiosis\n\nGeneral lung health\n\nInfluenza\n\nMesothelioma\n\nObstructive sleep apnoea\n\nOther lung diseases\n\nPertussis (whooping cough)\n\nPleurisy\n\nThe common cold\n\nTraining Category topic 2026\n\nBreathlessness\n\nInhaler device technique\n\nLung Cancer training\n\nLung Cancer training for First Nations\n\nLungs in Action Exercise Classes\n\nPulmonary exercise training\n\nVaping\n\nTraining Category Type 2026\n\nFree e-learning\n\nPaid e-learning\n\nWebinar\n\nSelect one By title from lowest to highest By title from highest to lowest By date from lowest to highest By date from highest to lowest\n\nCategory who events\n\nNewly diagnosed with a lung disease\n\nCategory lung disease events\n\nCategory type events\n\nSeminar\n\n\n\n## Links found on page\n\n- contact us.: https://lungfoundation.com.au/contact-us/\n\n- https://lungfoundation.com.au: https://lungfoundation.com.au\n\n- Protect your lungs: https://lungfoundation.com.au/protect-your-lungs/\n\n- Check your lung health: https://lungfoundation.com.au/campaigns/lung-health-checklist/\n\n- Signs & symptoms: https://lungfoundation.com.au/protect-your-lungs/signs-symptoms/\n\n- How your lungs work: https://lungfoundation.com.au/protect-your-lungs/how-your-lungs-work/\n\n- Vaping information: https://lungfoundation.com.au/protect-your-lungs/vaping-information/\n\n- Air quality and your lungs: https://lungfoundation.com.au/protect-your-lungs/air-quality-and-your-lungs/\n\n- National Lung Cancer Screening Program: https://lungfoundation.com.au/lung-diseases/national-lung-cancer-screening-program/\n\n- Protect your lungs at work: https://lungfoundation.com.au/protect-your-lungs/protect-your-lungs-at-work/\n\n- Quitting smoking: https://lungfoundation.com.au/protect-your-lungs/quitting-smoking/\n\n- Immunisation: https://lungfoundation.com.au/protect-your-lungs/immunisation/\n\n- Lung health information for First Nations: https://lungfoundation.com.au/protect-your-lungs/lung-health-information-for-first-nations/\n\n- About lung diseases & lung cancer: https://lungfoundation.com.au/about-lung-diseases/\n\n- What is a lung disease: https://lungfoundation.com.au/about-lung-diseases/what-is-lung-disease/\n\n- Impact of lung disease: https://lungfoundation.com.au/about-lung-diseases/impact-of-lung-disease-in-australia/\n\n- Chronic obstructive pulmonary disease (COPD): https://lungfoundation.com.au/lung-diseases/copd/\n\n- Bronchiectasis: https://lungfoundation.com.au/lung-diseases/bronchiectasis/\n\n- Lung cancer: https://lungfoundation.com.au/lung-diseases/lung-cancer/\n\n- Pulmonary fibrosis: https://lungfoundation.com.au/lung-diseases/pulmonary-fibrosis/\n\n- Pulmonary arterial hypertension: https://lungfoundation.com.au/lung-diseases/pulmonary-arterial-hypertension/\n\n- Occupational lung disease: https://lungfoundation.com.au/lung-diseases/occupational-lung-diseases/\n\n- Respiratory infections: https://lungfoundation.com.au/lung-diseases/respiratory-infections/\n\n- Other lung diseases: https://lungfoundation.com.au/lung-diseases/other-lung-diseases/\n\n- Lung disease information for First Nations: https://lungfoundation.com.au/about-lung-diseases/lung-disease-information-for-first-nations/\n\n- Learn more: https://lungfoundation.com.au/protect-your-lungs/national-lung-cancer-screening-program/\n\n- Support & resources: https://lungfoundation.com.au/support-resources/\n\n- Overview: https://lungfoundation.com.au/support-and-resources/\n\n- Resource hub: https://lungfoundation.com.au/support-and-resources/resource-hub/\n\n- Newly diagnosed: https://lungfoundation.com.au/support-and-resources/recently-diagnosed/\n\n- Living with a lung disease: https://lungfoundation.com.au/support-and-resources/living-with-a-lung-disease/\n\n- Caring for a loved one: https://lungfoundation.com.au/support-and-resources/caring-for-a-loved-one/\n\n- Support and palliative care: https://lungfoundation.com.au/support-and-resources/support-and-palliative-care/\n\n- Lung Health Helpline: https://lungfoundation.com.au/support-and-resources/lung-health-helpline/\n\n- Lung Cancer Screening Helpline: https://lungfoundation.com.au/support-and-resources/lung-cancer-screening-helpline/\n\n- Nurse-led services: https://lungfoundation.com.au/support-and-resources/nurse-led-services/\n\n- Social worker service: https://lungfoundation.com.au/support-and-resources/social-worker/\n\n- Support groups: https://lungfoundation.com.au/support-and-resources/support-groups/\n\n- Exercise programs: https://lungfoundation.com.au/find-support-old/support-services/exercise-programs/\n\n- Lung Cancer Multidisciplinary Teams (MDTs): https://lungfoundation.com.au/support-and-resources/multidisciplinary-teams-mdts/\n\n- Find support: https://lungfoundation.com.au/find-support/\n\n- Donate: https://lungfoundation.com.au/donate/\n\n- Regular giving: https://lungfoundation.com.au/ways-to-give/become-a-regular-giver/\n\n- Become a fundraiser: https://fundraise.lungfoundation.com.au/\n\n- Memorial donations: https://lungfoundation.com.au/ways-to-give/memorial-donations/\n\n- Hope Research Fund: https://lungfoundation.com.au/ways-to-give/hope-research-fund/\n\n- Gift in your Will: https://lungfoundation.com.au/ways-to-give/gift-in-your-will/\n\n- Philanthropy: https://lungfoundation.com.au/ways-to-give/philanthropy/\n\n- Partner with us: https://lungfoundation.com.au/ways-to-give/partner-with-us/\n\n- Search: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1OCIsInRvZ2dsZSI6ZmFsc2V9\n\n- Menu: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwODIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D\n\n- Find support: https://lungfoundation.com.au/find-support-old/\n\n- Health professionals: https://lungfoundation.com.au/health-professionals/\n\n- Clinical tools and training: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/\n\n- Breathlessness: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness/\n\n- Chronic Cough: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/chronic-cough/\n\n- Pulmonary Rehabilitation: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/pulmonary-rehabilitation-health-professionals/\n\n- Interstitial Lung Disease: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/interstitial-lung-disease/\n\n- Enrol now: https://lungfoundation.com.au/health-professionals/clinical-information/quality-use-of-medicines-in-chronic-airways-disease/\n\n- https://www.addtoany.com/share: https://www.addtoany.com/share\n\n- https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Flungfoundation.com.au%2Fhealth-professionals%2Fclinical-tools-and-training%2Fbreathlessness%2F&linkname=Breathlessness: https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Flungfoundation.com.au%2Fhealth-professionals%2Fclinical-tools-and-training%2Fbreathlessness%2F&linkname=Breathlessness\n\n- Privacy Policy: https://lungfoundation.com.au/privacy-policy/\n\n- Data Collection Statement: https://lungfoundation.com.au/data-collection-statement/\n\n- Youtube: https://www.youtube.com/channel/UC1jdxQi0pQDYBG3iN1duYng\n\n- https://www.facebook.com/lungfoundation/: https://www.facebook.com/lungfoundation/\n\n- Linkedin-in: https://www.linkedin.com/company/lung-foundation-australia/\n\n- https://www.instagram.com/lungfoundation/: https://www.instagram.com/lungfoundation/\n\n- Donate now: https://fundraise.lungfoundation.com.au/tax-appeal-2025\n\n- About us: https://lungfoundation.com.au/about-us/\n\n- Shop: https://lungfoundation.com.au/shop/\n\n- Research: https://lungfoundation.com.au/research/\n\n- Get involved: https://lungfoundation.com.au/get-involved/\n\n- News: https://lungfoundation.com.au/news/\n\n- Consumer Rights, Responsibilities, and Participation Policy: https://lungfoundation.com.au/consumer-rights-responsibilities-and-participation-policy/\n\n- [email protected]: https://lungfoundation.com.au/cdn-cgi/l/email-protection#f5909b84809c879c9086b599809b92939a809b9194819c9a9bdb969a98db9480\n\n- Marlin Communications: https://marlincommunications.com/?utm_source=lungfoundation.com.au&utm_medium=referral-clients&utm_campaign=client-footer\n\n- Marlin Communications: https://marlincommunications.com/\n\n- https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness\n\n- https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9: https://lungfoundation.com.au/health-professionals/clinical-tools-and-training/breathlessness#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9\n\n- Lung Foundation Australia and the Thoracic Society of Australia and New Zealand call for stronger tobacco control measures in response to the Senate report: https://lungfoundation.com.au/news/lung-foundation-australia-and-the-thoracic-society-of-australia-and-new-zealand-call-for-stronger-tobacco-control-measures-in-response-to-the-senate-report/\n\n- Time to Take the Next Step: Lung Foundation Australia’s national blueprint calls for urgent lung cancer reform: https://lungfoundation.com.au/news/time-to-take-the-next-step-lung-foundation-australias-national-blueprint-calls-for-urgent-lung-cancer-reform/\n\n- Shine a Light on Lung Cancer returns this November: https://lungfoundation.com.au/news/shine-a-light-on-lung-cancer-returns-this-november/\n\n- Lung Foundation Australia responds to National Press Club comments on vaping: https://lungfoundation.com.au/news/lung-foundation-australia-responds-to-national-press-club-comments-on-vaping/\n\n- Lung Foundation Australia warns against weakening tobacco control measures as smoking rates fall: https://lungfoundation.com.au/news/lung-foundation-australia-warns-against-weakening-tobacco-control-measures-as-smoking-rates-fall/\n\n- Celebrating one year of the National Lung Cancer Screening Program: https://lungfoundation.com.au/news/celebrating-one-year-of-the-national-lung-cancer-screening-program/\n\n- Our impact: https://lungfoundation.com.au/about-us/our-impact/\n\n- Corporate Plan: https://lungfoundation.com.au/about-us/a-new-direction-for-australias-lung-health/\n\n- Our team: https://lungfoundation.com.au/about-us/our-team/\n\n- Reconciliation Action Plan: https://lungfoundation.com.au/about-us/reconciliation-action-plan/\n\n- Our corporate partners and supporters: https://lungfoundation.com.au/about-us/our-partners/\n\n- Join our team: https://lungfoundation.com.au/about-us/join-our-team/\n\n- Education and Training: https://lungfoundation.com.au/health-professionals/training/\n\n- Refer a patient: https://lungfoundation.com.au/health-professionals/refer-a-patient/\n\n- Professional networks: https://lungfoundation.com.au/health-professionals/health-professionals-clinical-tools-and-training-professional-networks/\n\n- Become a member: https://lungfoundation.com.au/health-professionals/become-a-member/\n\n- First Nations clinical tools and training: https://lungfoundation.com.au/health-professionals/first-nations-clinical-tools-and-training/\n\n- Research grants and awards: https://lungfoundation.com.au/research/research-awards-and-grants/\n\n- Research programs and partnerships: https://lungfoundation.com.au/research/research-programs-and-partnerships/\n\n- Connect with Research: https://lungfoundation.com.au/research/connect-with-research/\n\n- Advocacy and policy: https://lungfoundation.com.au/advocacy-and-policy/\n\n- Our strategies and campaigns: https://lungfoundation.com.au/advocacy-and-policy/our-strategies-and-campaigns/\n\n- Advocate with us: https://lungfoundation.com.au/advocacy-and-policy/advocate-with-us/\n\n- Position statements and submissions: https://lungfoundation.com.au/advocacy-and-policy/position-statements-and-submissions/\n\n- Become a fundraiser: https://lungfoundation.com.au/get-involved/become-a-fundraiser/\n\n- Join our consumer engagement program: https://lungfoundation.com.au/about-us/consumer-engagement-be-involved/\n\n- Events: https://lungfoundation.com.au/events/\n\n- Share your story: https://lungfoundation.com.au/get-involved/share-your-story/\n\n- Ways to give: https://lungfoundation.com.au/ways-to-give/\n\n- Articles and real stories: https://lungfoundation.com.au/articles/"
+}

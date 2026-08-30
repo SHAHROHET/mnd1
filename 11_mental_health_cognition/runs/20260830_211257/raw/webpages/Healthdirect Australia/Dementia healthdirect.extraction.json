@@ -1,0 +1,487 @@
+{
+  "source_id": "healthdirect:dementia",
+  "title": "Dementia | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/dementia",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 19991,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/dementia",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/dementia#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/dementia#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/dementia#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/dementia#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Alzheimer’s disease",
+      "url": "https://www.healthdirect.gov.au/alzheimers-disease"
+    },
+    {
+      "text": "younger onset dementia",
+      "url": "https://www.healthdirect.gov.au/younger-onset-dementia"
+    },
+    {
+      "text": "National Dementia Hotline",
+      "url": "https://www.dementia.org.au/get-support"
+    },
+    {
+      "text": "Dementia - an overview Dementia is a brain condition that can affect your memory, thinking and behaviour. Learn more about the symptoms, causes and prevention of dementia. Read more about Dementia - an overview.",
+      "url": "https://www.healthdirect.gov.au/dementia-overview"
+    },
+    {
+      "text": "Cognitive impairment Cognitive impairment can cause problems remembering things, concentrating and making decisions. Read tips to to prevent cognitive impairment. Read more about Cognitive impairment.",
+      "url": "https://www.healthdirect.gov.au/cognitive-impairment"
+    },
+    {
+      "text": "Vascular dementia Vascular dementia is the most preventable form of dementia. Learn how to protect your blood vessels and circulation to lower your risk. Read more about Vascular dementia.",
+      "url": "https://www.healthdirect.gov.au/vascular-dementia"
+    },
+    {
+      "text": "Lewy body dementias Lewy body dementias are caused by protein build-ups in the brain that affect brain function. Read more about the symptoms, treatment and prevention. Read more about Lewy body dementias.",
+      "url": "https://www.healthdirect.gov.au/lewy-body-dementias"
+    },
+    {
+      "text": "Frontotemporal dementia Frontotemporal dementia (FTD) affects the parts of your brain that control behaviour and language. Learn about the symptoms and management of FTD. Read more about Frontotemporal dementia.",
+      "url": "https://www.healthdirect.gov.au/frontotemporal-dementia"
+    },
+    {
+      "text": "Tests used in diagnosing dementia Find out more about the tests doctors use to diagnose dementia. Learn about physical and neurological examinations, cognitive tests, x-rays and scans. Read more about Tests used in diagnosing dementia.",
+      "url": "https://www.healthdirect.gov.au/tests-used-in-diagnosing-dementia"
+    },
+    {
+      "text": "Worried about your memory? You may be worried that your memory isn't what it used to be. Learn about the causes and prevention of memory loss, and when you should see a doctor. Read more about Worried about your memory?.",
+      "url": "https://www.healthdirect.gov.au/worried-about-your-memory"
+    },
+    {
+      "text": "How to care for someone with dementia at home Many people care for a loved one with dementia at home. This guide covers daily care, safety, behaviour changes, sleep, and how to seek more support. Read more about How to care for someone with dementia at home.",
+      "url": "https://www.healthdirect.gov.au/how-to-care-for-someone-with-dementia-at-home"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander peoples and dementia Dementia has an earlier age of onset in Aboriginal and Torres Strait Islander peoples than in non-Indigenous Australians. Learn the signs of dementia. Read more about Aboriginal and Torres Strait Islander peoples and dementia.",
+      "url": "https://www.healthdirect.gov.au/aboriginal-and-torres-strait-islander-people-and-dementia"
+    },
+    {
+      "text": "Dementia and driving Dementia can make driving unsafe because it affects your reaction time and ability to judge distances. Learn about when you may need to stop driving. Read more about Dementia and driving.",
+      "url": "https://www.healthdirect.gov.au/dementia-and-driving"
+    },
+    {
+      "text": "Supporting carers of people with dementia Caring for someone with dementia can be rewarding, hard and stressful. There are organisations that can help with training, support and financial aid. Read more about Supporting carers of people with dementia.",
+      "url": "https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia"
+    },
+    {
+      "text": "Manage your health in your 40s Be aware of the health conditions that can happen in your 40s. Learn how to reduce your risks and manage your health at this stage of life. Read more about Manage your health in your 40s.",
+      "url": "https://www.healthdirect.gov.au/manage-your-health-in-your-40s"
+    },
+    {
+      "text": "Manage your health in your 50s Some health conditions start to affect people in their 50s. Learn how to reduce your risks and manage your health at this stage of life. Read more about Manage your health in your 50s.",
+      "url": "https://www.healthdirect.gov.au/manage-your-health-in-your-50s"
+    },
+    {
+      "text": "Manage your health in your 60s Managing your health well in your 60s can lower your chance of health conditions. Learn about symptoms, diagnosis and prevention of these conditions. Read more about Manage your health in your 60s.",
+      "url": "https://www.healthdirect.gov.au/manage-your-health-in-your-60s"
+    },
+    {
+      "text": "Manage your health in your 70s and older If you are 70 or older, be aware of the signs of common health conditions. Learn some ways to help manage your health as you age. Read more about Manage your health in your 70s and older.",
+      "url": "https://www.healthdirect.gov.au/manage-your-health-in-your-70s-and-older"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Dementia | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nbeginning of content\n\n# Dementia\n\nDementia is a group of conditions that gradually affect brain function. Common signs of dementia include memory loss, misplacing things and difficulty doing familiar tasks. Alzheimer’s disease is the most common cause of dementia. Dementia is more common in older people, but people under 65 years of age can develop younger onset dementia .\n\nYou can take steps to lower your risk of dementia at any age — it's never too early or too late to do so. Support is available for people with dementia and their carers. If you notice any symptoms, see your doctor . You can also call the National Dementia Hotline on 1800 100 500 for advice.\n\n#### Dementia - an overview\n\nDementia is a brain condition that can affect your memory, thinking and behaviour. Learn more about the symptoms, causes and prevention of dementia.\n\nRead more about Dementia - an overview.\n\n#### Cognitive impairment\n\nCognitive impairment can cause problems remembering things, concentrating and making decisions. Read tips to to prevent cognitive impairment.\n\nRead more about Cognitive impairment.\n\n#### Alzheimer's disease\n\nAlzheimer's disease is a type of dementia that affects your memory and behaviour. Learn more about its symptoms, diagnosis and treatment.\n\nRead more about Alzheimer's disease.\n\n#### Younger onset dementia\n\nYounger onset dementia is the name given to dementia in people aged under 65 years. Learn what you need to think about with early onset dementia.\n\nRead more about Younger onset dementia.\n\n#### Vascular dementia\n\nVascular dementia is the most preventable form of dementia. Learn how to protect your blood vessels and circulation to lower your risk.\n\nRead more about Vascular dementia.\n\n#### Lewy body dementias\n\nLewy body dementias are caused by protein build-ups in the brain that affect brain function. Read more about the symptoms, treatment and prevention.\n\nRead more about Lewy body dementias.\n\n#### Frontotemporal dementia\n\nFrontotemporal dementia (FTD) affects the parts of your brain that control behaviour and language. Learn about the symptoms and management of FTD.\n\nRead more about Frontotemporal dementia.\n\n#### Tests used in diagnosing dementia\n\nFind out more about the tests doctors use to diagnose dementia. Learn about physical and neurological examinations, cognitive tests, x-rays and scans.\n\nRead more about Tests used in diagnosing dementia.\n\n#### Worried about your memory?\n\nYou may be worried that your memory isn't what it used to be. Learn about the causes and prevention of memory loss, and when you should see a doctor.\n\nRead more about Worried about your memory?.\n\n#### How to care for someone with dementia at home\n\nMany people care for a loved one with dementia at home. This guide covers daily care, safety, behaviour changes, sleep, and how to seek more support.\n\nRead more about How to care for someone with dementia at home.\n\n#### Aboriginal and Torres Strait Islander peoples and dementia\n\nDementia has an earlier age of onset in Aboriginal and Torres Strait Islander peoples than in non-Indigenous Australians. Learn the signs of dementia.\n\nRead more about Aboriginal and Torres Strait Islander peoples and dementia.\n\n#### Dementia and driving\n\nDementia can make driving unsafe because it affects your reaction time and ability to judge distances. Learn about when you may need to stop driving.\n\nRead more about Dementia and driving.\n\n#### Supporting carers of people with dementia\n\nCaring for someone with dementia can be rewarding, hard and stressful. There are organisations that can help with training, support and financial aid.\n\nRead more about Supporting carers of people with dementia.\n\n#### Manage your health in your 40s\n\nBe aware of the health conditions that can happen in your 40s. Learn how to reduce your risks and manage your health at this stage of life.\n\nRead more about Manage your health in your 40s.\n\n#### Manage your health in your 50s\n\nSome health conditions start to affect people in their 50s. Learn how to reduce your risks and manage your health at this stage of life.\n\nRead more about Manage your health in your 50s.\n\n#### Manage your health in your 60s\n\nManaging your health well in your 60s can lower your chance of health conditions. Learn about symptoms, diagnosis and prevention of these conditions.\n\nRead more about Manage your health in your 60s.\n\n#### Manage your health in your 70s and older\n\nIf you are 70 or older, be aware of the signs of common health conditions. Learn some ways to help manage your health as you age.\n\nRead more about Manage your health in your 70s and older.\n\n#### Seniors' health\n\nAs you get older, it's important to understand how ageing affects the mind and body. Read up on bone health, arthritis, nutrition and more.\n\nRead more about Seniors' health.\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/dementia\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dementia\n\n- Please enter your name: https://www.healthdirect.gov.au/dementia#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/dementia#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/dementia#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/dementia#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Alzheimer’s disease: https://www.healthdirect.gov.au/alzheimers-disease\n\n- younger onset dementia: https://www.healthdirect.gov.au/younger-onset-dementia\n\n- National Dementia Hotline: https://www.dementia.org.au/get-support\n\n- Dementia - an overview Dementia is a brain condition that can affect your memory, thinking and behaviour. Learn more about the symptoms, causes and prevention of dementia. Read more about Dementia - an overview.: https://www.healthdirect.gov.au/dementia-overview\n\n- Cognitive impairment Cognitive impairment can cause problems remembering things, concentrating and making decisions. Read tips to to prevent cognitive impairment. Read more about Cognitive impairment.: https://www.healthdirect.gov.au/cognitive-impairment\n\n- Vascular dementia Vascular dementia is the most preventable form of dementia. Learn how to protect your blood vessels and circulation to lower your risk. Read more about Vascular dementia.: https://www.healthdirect.gov.au/vascular-dementia\n\n- Lewy body dementias Lewy body dementias are caused by protein build-ups in the brain that affect brain function. Read more about the symptoms, treatment and prevention. Read more about Lewy body dementias.: https://www.healthdirect.gov.au/lewy-body-dementias\n\n- Frontotemporal dementia Frontotemporal dementia (FTD) affects the parts of your brain that control behaviour and language. Learn about the symptoms and management of FTD. Read more about Frontotemporal dementia.: https://www.healthdirect.gov.au/frontotemporal-dementia\n\n- Tests used in diagnosing dementia Find out more about the tests doctors use to diagnose dementia. Learn about physical and neurological examinations, cognitive tests, x-rays and scans. Read more about Tests used in diagnosing dementia.: https://www.healthdirect.gov.au/tests-used-in-diagnosing-dementia\n\n- Worried about your memory? You may be worried that your memory isn't what it used to be. Learn about the causes and prevention of memory loss, and when you should see a doctor. Read more about Worried about your memory?.: https://www.healthdirect.gov.au/worried-about-your-memory\n\n- How to care for someone with dementia at home Many people care for a loved one with dementia at home. This guide covers daily care, safety, behaviour changes, sleep, and how to seek more support. Read more about How to care for someone with dementia at home.: https://www.healthdirect.gov.au/how-to-care-for-someone-with-dementia-at-home\n\n- Aboriginal and Torres Strait Islander peoples and dementia Dementia has an earlier age of onset in Aboriginal and Torres Strait Islander peoples than in non-Indigenous Australians. Learn the signs of dementia. Read more about Aboriginal and Torres Strait Islander peoples and dementia.: https://www.healthdirect.gov.au/aboriginal-and-torres-strait-islander-people-and-dementia\n\n- Dementia and driving Dementia can make driving unsafe because it affects your reaction time and ability to judge distances. Learn about when you may need to stop driving. Read more about Dementia and driving.: https://www.healthdirect.gov.au/dementia-and-driving\n\n- Supporting carers of people with dementia Caring for someone with dementia can be rewarding, hard and stressful. There are organisations that can help with training, support and financial aid. Read more about Supporting carers of people with dementia.: https://www.healthdirect.gov.au/support-for-carers-of-people-with-dementia\n\n- Manage your health in your 40s Be aware of the health conditions that can happen in your 40s. Learn how to reduce your risks and manage your health at this stage of life. Read more about Manage your health in your 40s.: https://www.healthdirect.gov.au/manage-your-health-in-your-40s\n\n- Manage your health in your 50s Some health conditions start to affect people in their 50s. Learn how to reduce your risks and manage your health at this stage of life. Read more about Manage your health in your 50s.: https://www.healthdirect.gov.au/manage-your-health-in-your-50s\n\n- Manage your health in your 60s Managing your health well in your 60s can lower your chance of health conditions. Learn about symptoms, diagnosis and prevention of these conditions. Read more about Manage your health in your 60s.: https://www.healthdirect.gov.au/manage-your-health-in-your-60s\n\n- Manage your health in your 70s and older If you are 70 or older, be aware of the signs of common health conditions. Learn some ways to help manage your health as you age. Read more about Manage your health in your 70s and older.: https://www.healthdirect.gov.au/manage-your-health-in-your-70s-and-older\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

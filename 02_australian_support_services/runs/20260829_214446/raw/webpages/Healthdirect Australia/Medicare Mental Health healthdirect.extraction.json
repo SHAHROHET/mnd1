@@ -1,0 +1,191 @@
+{
+  "source_id": "healthdirect-australia:australian-health-services-healthcare-service-virtual-head-to-health-phone-service-mental-health-information-and-referral-bbad2627-ad81-49ae-9917-f5f0faf1be2e",
+  "title": "Medicare Mental Health | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/head-to-health-phone-service/mental-health-information-and-referral/bbad2627-ad81-49ae-9917-f5f0faf1be2e",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 6614,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/caring-for-others",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au",
+      "url": "https://www.healthdirect.gov.au"
+    },
+    {
+      "text": "Service details",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/head-to-health-phone-service/mental-health-information-and-referral/bbad2627-ad81-49ae-9917-f5f0faf1be2e#details"
+    },
+    {
+      "text": "Suggest an edit",
+      "url": "https://healthdirect-serviceline.atlassian.net/servicedesk/customer/portal/3/create/53?&customfield_10078=Medicare Mental Health&customfield_10226=2cce0399-51d1-42a8-af9b-cce1c5da14ba&customfield_10225= Mental health information and referral"
+    },
+    {
+      "text": "Medicare Mental Health",
+      "url": "https://www.medicarementalhealth.gov.au/"
+    },
+    {
+      "text": "WhatsApp",
+      "url": "https://api.whatsapp.com/send?text="
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.healthdirect.gov.au/privacy-notice"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "Provide feedback",
+      "url": "https://www.healthdirect.gov.au/how-to-provide-feedback"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    }
+  ],
+  "text": "Medicare Mental Health | healthdirect\n\nJoin Sign in\n\nMenu\n\nFree Australian health advice you can count on.\n\nBack to search results\n\nEnglish\n\nAssyrian Neo-Aramaic (الآرامية الآشورية الجديدة) Arabic (العربية) Bengali (বাংলা) Chinese Simplified (中文) Chinese Traditional (中文（台灣）) Greek (Ελληνικά) Hindi (हिन्दी) Italian (Italiano) Khmer (ភាសាខ្មែរ) Korean (한국어) Punjabi (ਪੰਜਾਬੀ) Serbian (Српски) Spanish (Español) Turkish (Türkçe) Vietnamese (Tiếng Việt)\n\n# Medicare Mental Health\n\nMental health information and referral\n\nClosed • Opens Mon, 31 Aug 8:30am\n\n- Service details\n\n- About this service\n\n## Service details\n\nNotice an error? Suggest an edit\n\n### Opening times\n\n- Monday 8:30am – 5pm\n\n- Tuesday 8:30am – 5pm\n\n- Wednesday 8:30am – 5pm\n\n- Thursday 8:30am – 5pm\n\n- Friday 8:30am – 5pm\n\n### Public holiday hours\n\n- Christmas Day ( 25/12/2026 ) Closed\n\n- Boxing Day ( 26/12/2026 ) Closed\n\n- New Year's Day ( 01/01/2027 ) Closed\n\nChristmas Day\n\nDecember 25, 2026\n\nClosed\n\nBoxing Day\n\nDecember 26, 2026\n\nNew Year's Day\n\nJanuary 1, 2027\n\nView other days and public holiday hours\n\n### Contact\n\nPhone\n\n1800 595 212\n\nWebsite\n\nMedicare Mental Health\n\n( https://www.medicarementalhealth.gov.au/ )\n\n## About this service\n\n### Access\n\n#### No appointment needed\n\nThis service does not require an appointment. Consider calling ahead to check service availability and wait times.\n\n### Billing\n\n#### No fee\n\nA free service where no payment or Medicare card is required.\n\n### Additional information\n\nThe Medicare Mental Health Phone Service is available to anyone living in Australia looking for advice, assessment and referral into and between mental health services.\n\n* Details may vary. Please call the service before visiting to double check details.\n\nPowered by :\n\n- Share\n\n- Share this on\n\n- Email\n\n- WhatsApp\n\n- Print\n\n24 hour health advice you can count on\n\n1800 022 222\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- Provide feedback\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Medicines\n\n- Service finder\n\n- Symptom checker\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au: https://www.healthdirect.gov.au\n\n- Service details: https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/head-to-health-phone-service/mental-health-information-and-referral/bbad2627-ad81-49ae-9917-f5f0faf1be2e#details\n\n- Suggest an edit: https://healthdirect-serviceline.atlassian.net/servicedesk/customer/portal/3/create/53?&customfield_10078=Medicare Mental Health&customfield_10226=2cce0399-51d1-42a8-af9b-cce1c5da14ba&customfield_10225= Mental health information and referral\n\n- Medicare Mental Health: https://www.medicarementalhealth.gov.au/\n\n- WhatsApp: https://api.whatsapp.com/send?text=\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- Terms of use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy: https://www.healthdirect.gov.au/privacy-notice\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- Provide feedback: https://www.healthdirect.gov.au/how-to-provide-feedback\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+}

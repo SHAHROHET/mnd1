@@ -1,0 +1,619 @@
+{
+  "source_id": "healthdirect-australia:sleep-tips-for-children",
+  "title": "Sleep tips for children | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/sleep-tips-for-children",
+  "retrieved_at": "2026-08-30",
+  "topic": "Sleep",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 30573,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/sleep",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep-tips-for-children"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep-tips-for-children"
+    },
+    {
+      "text": "Why is sleep important for my child?",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#why-is-sleep-important-for-my-child"
+    },
+    {
+      "text": "How much sleep does my child need?",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#how-much-sleep-does-my-child-need"
+    },
+    {
+      "text": "What are some tips to help my child sleep well?",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#what-are-some-tips-to-help-my-child"
+    },
+    {
+      "text": "What are the symptoms of a sleep problem?",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#symptoms"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#doctor"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#searchGeneralResults"
+    },
+    {
+      "text": "mood swings",
+      "url": "https://www.healthdirect.gov.au/managing-mood-swings"
+    },
+    {
+      "text": "amount of sleep",
+      "url": "https://www.pregnancybirthbaby.org.au/sleep-patterns-for-babies"
+    },
+    {
+      "text": "fall asleep",
+      "url": "https://www.pregnancybirthbaby.org.au/getting-your-baby-to-sleep"
+    },
+    {
+      "text": "caffeine",
+      "url": "https://www.healthdirect.gov.au/caffeine"
+    },
+    {
+      "text": "sleep problem",
+      "url": "https://www.healthdirect.gov.au/sleep-disorders"
+    },
+    {
+      "text": "sleepwalking",
+      "url": "https://www.healthdirect.gov.au/sleepwalking-somnambulism"
+    },
+    {
+      "text": "night terrors",
+      "url": "https://www.pregnancybirthbaby.org.au/nightmares-and-night-terrors-children"
+    },
+    {
+      "text": "teeth grinding",
+      "url": "https://www.pregnancybirthbaby.org.au/teeth-grinding"
+    },
+    {
+      "text": "snoring",
+      "url": "https://www.healthdirect.gov.au/how-to-stop-snoring"
+    },
+    {
+      "text": "trouble breathing while asleep",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/home/"
+    },
+    {
+      "text": "ways to improve night-time behaviour in children",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Bedtime_problems/"
+    },
+    {
+      "text": "Sleep Health Foundation",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-categories/children-adolescents-parents"
+    },
+    {
+      "text": "sleep problems in school aged children",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-problems-and-sleep-disorders-in-school-aged-children"
+    },
+    {
+      "text": "night terrors",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-night-terrors"
+    },
+    {
+      "text": "sleepwalking",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/sleepwalking"
+    },
+    {
+      "text": "insomnia",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/insomnia-2"
+    },
+    {
+      "text": "sleep tips for children",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/sleep-tips-for-children"
+    },
+    {
+      "text": "melatonin for children",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/melatonin-and-children"
+    },
+    {
+      "text": "sleep for babies and young children",
+      "url": "https://www.pregnancybirthbaby.org.au/sleep-and-your-child"
+    },
+    {
+      "text": "(Healthy sleep)",
+      "url": "https://www.childrens.health.qld.gov.au/health-a-to-z/healthy-sleep"
+    },
+    {
+      "text": "(Regulation of melatonin products in Australia)",
+      "url": "https://www.tga.gov.au/news/news-articles/regulation-melatonin-products-australia"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children#backToTop"
+    },
+    {
+      "text": "Sleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "Children's health",
+      "url": "https://www.healthdirect.gov.au/search-results/Children's health"
+    },
+    {
+      "text": "Insomnia",
+      "url": "https://www.healthdirect.gov.au/search-results/Insomnia"
+    },
+    {
+      "text": "Sleep Disorders",
+      "url": "https://www.healthdirect.gov.au/search-results/Sleep Disorders"
+    },
+    {
+      "text": "ADHD and Sleep in Children | Sleep Health Foundation This is a fact sheet about ADHD and Sleep. It is estimated that up to 70% of children with ADHD have some form of sleep disruption, which can be medically based or behavioural. Read more on Sleep Health Foundation website",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/adhd-and-sleep-in-children"
+    },
+    {
+      "text": "Screen time & sleep: children & teens | Raising Children Network Did you know that screen time can affect your child’s sleep? Reduce risks by encouraging your child to avoid digital technology in the hour before bed. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/teens/healthy-lifestyle/sleep/screen-time-sleep"
+    },
+    {
+      "text": "Sleep apnoea in babies & children: causes & treatment Children with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/guides/a-z-health-reference/sleep-apnoea"
+    },
+    {
+      "text": "Light, noise and baby sleep: FAQs | Raising Children Do babies sleep better in the dark? Should you use a night-light? What about music and white noise? This guide has the answers to these questions and more. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/newborns/sleep/where-your-baby-sleeps/light-noise"
+    },
+    {
+      "text": "Sleep problems and children’s learning | Raising Children Network Good sleep can help with your child’s concentration, memory and learning. But if your child has sleep problems, this can affect how well your child learns. Article available in: Arabic, Dari, Dinka, Hakha Chin, Persian, Simplified Chinese, Swahili, Tamil, Vietnamese. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/school-age/sleep/understanding-sleep/sleep-learning"
+    },
+    {
+      "text": "Kids Health Info : Sleep problems – children and teens Read more on Royal Children's Hospital website",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Sleep_problems_children_and_teens/"
+    },
+    {
+      "text": "Sleep Study - St Vincent's Lung Health Information about sleep studies. Read more on St Vincent's Hospital Lung Health website",
+      "url": "https://www.svhlunghealth.com.au/procedures/tests/sleep-study"
+    },
+    {
+      "text": "Changes to sleep during pregnancy Although it is recommended that pregnant women get 7-9 hours sleep per night, it’s common for women to experience disrupted sleep patterns at various stages throughout their pregnancy. Studies show that pregnant women experience less sleep, increased wakefulness, and excessive daytime sleepiness, with around 80% of women reporting poor sleep throughout pregnancy. Read more on Gidget Foundation Australia website",
+      "url": "https://www.gidgetfoundation.org.au/becoming-a-parent/sleep-during-pregnancy"
+    },
+    {
+      "text": "Dementia-related Sleep Disturbances and Sundowning Sleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dementia-related-sleep-disturbances"
+    },
+    {
+      "text": "Sleep Management: How to Advise Patients Our bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/sleep-management"
+    },
+    {
+      "text": "RACGP - Sleep and sleep-related disorders Sufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/miscellaneous/sleep-and-sleep-related-disorders"
+    },
+    {
+      "text": "Safe Sleep And Safer Pregnancy Overview Page For Professionals Resources, support and Information to support Health Professionals and Early Childhood Educators Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/"
+    },
+    {
+      "text": "Safe Sleep FAQs For Health Professionals Whether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-health-professionals/"
+    },
+    {
+      "text": "Safe Sleep FAQs For Early Childhood Educators These Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals. Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-early-childhood-educators/"
+    },
+    {
+      "text": "Sleep and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website",
+      "url": "https://www.orygen.org.au/Training/Resources/Physical-and-sexual-health/Fact-sheets/Sleep-young-people"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Sleep tips for children | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Sleep tips for children\n\n7-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Healthy sleep means getting enough good quality sleep and following a regular sleep routine.\n\n- Healthy sleep is essential for your child's development — poor sleep is linked to problems with mental health, growth and behaviour.\n\n- To help your child sleep well, establish a bedtime routine and avoid technology or other stimulants before bed.\n\n- Your child may have a sleep problem if they experience sleepwalking or sleep talking, night terrors or difficulty breathing while asleep.\n\n- See your doctor if your child has symptoms of a sleep problem, is sleeping too much or wakes often at night.\n\n## On this page\n\n- Why is sleep important for my child?\n\n- How much sleep does my child need?\n\n- What are some tips to help my child sleep well?\n\n- What are the symptoms of a sleep problem?\n\n- When should I see my doctor?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Why is sleep important for my child?\n\nAll children need sleep for:\n\n- growth and development\n\n- memory and concentration\n\n- learning\n\n- emotional wellbeing\n\n- safety\n\n- ability to function each day\n\n- behaviour\n\nNot having enough sleep or not sleeping well can affect how children learn, and can lead to:\n\n- mood swings\n\n- poor growth\n\n- behaviour problems\n\n## How much sleep does my child need?\n\nThe amount of sleep your child needs will change as they grow. Everyone is different, but as a guide, children need the following amounts of sleep every night:\n\n- ages 1 to 3: 11 to 14 hours (including naps)\n\n- ages 3 to 5 : 10 to 13 hours (including naps)\n\n- ages 6 to 12 : 9 to 11 hours\n\n- ages 13 to 18 : 8 to 10 hours\n\n## What are some tips to help my child sleep well?\n\nHere are some tips to help your child fall asleep , stay asleep and get enough good quality sleep:\n\n- Establish a sleep schedule: Make sure your child goes to bed early enough to get the sleep they need. Once you have set an appropriate bedtime, stick to it — even on the weekend.\n\n- Respond to any resistance: It's common for children to resist bedtime. If this happens, calmly tell them that it's time to sleep. Be firm and consistent, but do not punish them.\n\n- Establish a bedtime routine: Follow the same routine every day. This may include a bath or shower, changing into pyjamas, brushing teeth, reading or spending quiet time in their bedroom, lights out and then going to sleep.\n\n- Help your child wind down: Busy children need some time to relax. Consider playing soft music or reading to them. Avoid any stimulating activities like watching television or running around.\n\n- Make sure the bedroom is suitable for sleep: Ensure the bedroom is dark and quiet. If your child is anxious or afraid at night, use a night light.\n\n- Avoid stimulants: Make sure your child avoids any foods or drinks that contain caffeine , especially in the afternoon or close to bedtime. This includes tea, coffee, chocolate and sports drinks.\n\n- Turn off technology: Try turning off computers, phones and televisions one hour before bedtime to help your child sleep better. The light from the screens can stimulate their brain, making it harder to fall asleep and stay asleep.\n\n### Medicines to improve sleep\n\nIf you have tried other ways to improve your child's sleep that do not work, you may want to consider medicines.\n\nMelatonin plays a role in your body's sleep and wake cycle. Some families use melatonin supplements to help adjust a child's 'body clock'.\n\nIn Australia, you will need a prescription to obtain melatonin for children with sleep problems. The melatonin products available without a prescription in pharmacies or online may not be suitable for children.\n\nDo not buy melatonin or any other sleep medicines online. Products from online sources may not meet Australian safety and quality standards.\n\nTalk to your doctor or pharmacist about whether medicines may help improve your child's sleep.\n\n## What are the symptoms of a sleep problem?\n\nIf you establish good sleep habits and your child is still having trouble falling or staying asleep, they might have a sleep problem . More than 1 in 3 children have a sleep problem.\n\nSymptoms of a sleep problem include:\n\n- sleepwalking\n\n- sleep talking\n\n- night terrors\n\n- teeth grinding\n\n- snoring\n\n- trouble breathing while asleep , or taking long pauses between breaths\n\n- frequent movements during the night, especially of the legs\n\nYou might also notice a change in your child's behaviour during the day, such as:\n\n- difficulty concentrating\n\n- feeling very tired\n\n## When should I see my doctor?\n\nSee your doctor if your child:\n\n- has any symptoms of a sleep problem\n\n- is sleeping too much or too little\n\n- has difficulty falling asleep\n\n- wakes up often at night\n\n- behaves in a way that concerns you while they sleep\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## Resources and support\n\nVisit the Royal Children's Hospital Melbourne page for ways to improve night-time behaviour in children .\n\nThe Sleep Health Foundation has more information on:\n\n- sleep problems in school aged children\n\n- insomnia\n\n- sleep tips for children\n\n- melatonin for children\n\nVisit the Pregnancy, Birth and Baby website for information and resources about sleep for babies and young children .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nThe Royal Children's Hospital Melbourne (Sleep problems - children and teens) , Sleep Health foundation (Sleep problems and sleep disorders in school ages children) , Queensland Government (Healthy sleep) , Therapeutic Goods Administration (Regulation of melatonin products in Australia)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: March 2026\n\nBack To Top\n\n## Related pages\n\n- Sleep\n\n## Search our site for\n\n- Children's health\n\n- Sleep Disorders\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### ADHD and Sleep in Children | Sleep Health Foundation\n\nThis is a fact sheet about ADHD and Sleep. It is estimated that up to 70% of children with ADHD have some form of sleep disruption, which can be medically based or behavioural.\n\nRead more on Sleep Health Foundation website\n\n### Screen time & sleep: children & teens | Raising Children Network\n\nDid you know that screen time can affect your child’s sleep? Reduce risks by encouraging your child to avoid digital technology in the hour before bed.\n\nRead more on raisingchildren.net.au website\n\n### Children, Adolescents & Parents | Sleep Health Foundation\n\nAdequate sleep is vital for the healthy growth and development of children and adolescents, and it also impacts the well-being and parenting capabilities of adults.\n\n### Sleep apnoea in babies & children: causes & treatment\n\nChildren with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP.\n\n### Light, noise and baby sleep: FAQs | Raising Children\n\nDo babies sleep better in the dark? Should you use a night-light? What about music and white noise? This guide has the answers to these questions and more.\n\n### Sleep problems and children’s learning | Raising Children Network\n\nGood sleep can help with your child’s concentration, memory and learning. But if your child has sleep problems, this can affect how well your child learns. Article available in: Arabic, Dari, Dinka, Hakha Chin, Persian, Simplified Chinese, Swahili, Tamil, Vietnamese.\n\n### Kids Health Info : Sleep problems – children and teens\n\nRead more on Royal Children's Hospital website\n\n### Sleep Study - St Vincent's Lung Health\n\nInformation about sleep studies.\n\nRead more on St Vincent's Hospital Lung Health website\n\n### Changes to sleep during pregnancy\n\nAlthough it is recommended that pregnant women get 7-9 hours sleep per night, it’s common for women to experience disrupted sleep patterns at various stages throughout their pregnancy. Studies show that pregnant women experience less sleep, increased wakefulness, and excessive daytime sleepiness, with around 80% of women reporting poor sleep throughout pregnancy.\n\nRead more on Gidget Foundation Australia website\n\nShow more\n\n### Dementia-related Sleep Disturbances and Sundowning\n\nSleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses.\n\nRead more on Ausmed Education website\n\n### Sleep Management: How to Advise Patients\n\nOur bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives.\n\n### RACGP - Sleep and sleep-related disorders\n\nSufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders\n\nRead more on RACGP website\n\n### Safe Sleep And Safer Pregnancy Overview Page For Professionals\n\nResources, support and Information to support Health Professionals and Early Childhood Educators\n\nRead more on Red Nose information for Health Professionals website\n\n### Safe Sleep FAQs For Health Professionals\n\nWhether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers\n\n### Safe Sleep FAQs For Early Childhood Educators\n\nThese Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals.\n\n### Sleep and young people - Orygen, Revolution in Mind\n\nOur Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation.\n\nRead more on Orygen website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/sleep-tips-for-children\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep-tips-for-children\n\n- Please enter your name: https://www.healthdirect.gov.au/sleep-tips-for-children#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/sleep-tips-for-children#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/sleep-tips-for-children#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/sleep-tips-for-children#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep-tips-for-children\n\n- Why is sleep important for my child?: https://www.healthdirect.gov.au/sleep-tips-for-children#why-is-sleep-important-for-my-child\n\n- How much sleep does my child need?: https://www.healthdirect.gov.au/sleep-tips-for-children#how-much-sleep-does-my-child-need\n\n- What are some tips to help my child sleep well?: https://www.healthdirect.gov.au/sleep-tips-for-children#what-are-some-tips-to-help-my-child\n\n- What are the symptoms of a sleep problem?: https://www.healthdirect.gov.au/sleep-tips-for-children#symptoms\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/sleep-tips-for-children#doctor\n\n- Resources and support: https://www.healthdirect.gov.au/sleep-tips-for-children#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/sleep-tips-for-children#searchGeneralResults\n\n- mood swings: https://www.healthdirect.gov.au/managing-mood-swings\n\n- amount of sleep: https://www.pregnancybirthbaby.org.au/sleep-patterns-for-babies\n\n- fall asleep: https://www.pregnancybirthbaby.org.au/getting-your-baby-to-sleep\n\n- caffeine: https://www.healthdirect.gov.au/caffeine\n\n- sleep problem: https://www.healthdirect.gov.au/sleep-disorders\n\n- sleepwalking: https://www.healthdirect.gov.au/sleepwalking-somnambulism\n\n- night terrors: https://www.pregnancybirthbaby.org.au/nightmares-and-night-terrors-children\n\n- teeth grinding: https://www.pregnancybirthbaby.org.au/teeth-grinding\n\n- snoring: https://www.healthdirect.gov.au/how-to-stop-snoring\n\n- trouble breathing while asleep: https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- Royal Children's Hospital Melbourne: https://www.rch.org.au/home/\n\n- ways to improve night-time behaviour in children: https://www.rch.org.au/kidsinfo/fact_sheets/Bedtime_problems/\n\n- Sleep Health Foundation: https://www.sleephealthfoundation.org.au/sleep-categories/children-adolescents-parents\n\n- sleep problems in school aged children: https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-problems-and-sleep-disorders-in-school-aged-children\n\n- night terrors: https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-night-terrors\n\n- sleepwalking: https://www.sleephealthfoundation.org.au/sleep-disorders/sleepwalking\n\n- insomnia: https://www.sleephealthfoundation.org.au/sleep-disorders/insomnia-2\n\n- sleep tips for children: https://www.sleephealthfoundation.org.au/sleep-topics/sleep-tips-for-children\n\n- melatonin for children: https://www.sleephealthfoundation.org.au/sleep-disorders/melatonin-and-children\n\n- sleep for babies and young children: https://www.pregnancybirthbaby.org.au/sleep-and-your-child\n\n- (Healthy sleep): https://www.childrens.health.qld.gov.au/health-a-to-z/healthy-sleep\n\n- (Regulation of melatonin products in Australia): https://www.tga.gov.au/news/news-articles/regulation-melatonin-products-australia\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/sleep-tips-for-children#backToTop\n\n- Sleep: https://www.healthdirect.gov.au/sleep\n\n- Children's health: https://www.healthdirect.gov.au/search-results/Children's health\n\n- Insomnia: https://www.healthdirect.gov.au/search-results/Insomnia\n\n- Sleep Disorders: https://www.healthdirect.gov.au/search-results/Sleep Disorders\n\n- ADHD and Sleep in Children | Sleep Health Foundation This is a fact sheet about ADHD and Sleep. It is estimated that up to 70% of children with ADHD have some form of sleep disruption, which can be medically based or behavioural. Read more on Sleep Health Foundation website: https://www.sleephealthfoundation.org.au/sleep-topics/adhd-and-sleep-in-children\n\n- Screen time & sleep: children & teens | Raising Children Network Did you know that screen time can affect your child’s sleep? Reduce risks by encouraging your child to avoid digital technology in the hour before bed. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/teens/healthy-lifestyle/sleep/screen-time-sleep\n\n- Sleep apnoea in babies & children: causes & treatment Children with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/guides/a-z-health-reference/sleep-apnoea\n\n- Light, noise and baby sleep: FAQs | Raising Children Do babies sleep better in the dark? Should you use a night-light? What about music and white noise? This guide has the answers to these questions and more. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/newborns/sleep/where-your-baby-sleeps/light-noise\n\n- Sleep problems and children’s learning | Raising Children Network Good sleep can help with your child’s concentration, memory and learning. But if your child has sleep problems, this can affect how well your child learns. Article available in: Arabic, Dari, Dinka, Hakha Chin, Persian, Simplified Chinese, Swahili, Tamil, Vietnamese. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/school-age/sleep/understanding-sleep/sleep-learning\n\n- Kids Health Info : Sleep problems – children and teens Read more on Royal Children's Hospital website: https://www.rch.org.au/kidsinfo/fact_sheets/Sleep_problems_children_and_teens/\n\n- Sleep Study - St Vincent's Lung Health Information about sleep studies. Read more on St Vincent's Hospital Lung Health website: https://www.svhlunghealth.com.au/procedures/tests/sleep-study\n\n- Changes to sleep during pregnancy Although it is recommended that pregnant women get 7-9 hours sleep per night, it’s common for women to experience disrupted sleep patterns at various stages throughout their pregnancy. Studies show that pregnant women experience less sleep, increased wakefulness, and excessive daytime sleepiness, with around 80% of women reporting poor sleep throughout pregnancy. Read more on Gidget Foundation Australia website: https://www.gidgetfoundation.org.au/becoming-a-parent/sleep-during-pregnancy\n\n- Dementia-related Sleep Disturbances and Sundowning Sleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dementia-related-sleep-disturbances\n\n- Sleep Management: How to Advise Patients Our bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/sleep-management\n\n- RACGP - Sleep and sleep-related disorders Sufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/miscellaneous/sleep-and-sleep-related-disorders\n\n- Safe Sleep And Safer Pregnancy Overview Page For Professionals Resources, support and Information to support Health Professionals and Early Childhood Educators Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/\n\n- Safe Sleep FAQs For Health Professionals Whether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-health-professionals/\n\n- Safe Sleep FAQs For Early Childhood Educators These Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals. Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-early-childhood-educators/\n\n- Sleep and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website: https://www.orygen.org.au/Training/Resources/Physical-and-sexual-health/Fact-sheets/Sleep-young-people\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

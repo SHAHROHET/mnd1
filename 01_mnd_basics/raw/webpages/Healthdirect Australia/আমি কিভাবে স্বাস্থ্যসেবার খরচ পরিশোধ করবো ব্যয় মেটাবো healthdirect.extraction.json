@@ -1,0 +1,623 @@
+{
+  "source_id": "healthdirect-australia:bn-how-do-i-pay-for-healthcare",
+  "title": "আমি কিভাবে স্বাস্থ্যসেবার খরচ পরিশোধ করবো/ব্যয় মেটাবো? | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 27729,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "English",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "(Arabic) العربية",
+      "url": "https://www.healthdirect.gov.au/ar/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "简体中文 (Simplified Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hans/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "繁體中文 (Traditional Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hant/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "Tiếng Việt (Vietnamese)",
+      "url": "https://www.healthdirect.gov.au/vi/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "অস্ট্রেলিয়াতে আমি কিভাবে স্বাস্থ্যসেবার ব্যয়/খরচ মেটাবো?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#how"
+    },
+    {
+      "text": "মেডিকেয়ার কি?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#medicare"
+    },
+    {
+      "text": "মেডিকেয়ার কি ধরনের পরিষেবা দেয়?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#services"
+    },
+    {
+      "text": "দাঁতের পরিষেবাগুলি কি মেডিকেয়ার বহন করে?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#dental"
+    },
+    {
+      "text": "আমার ডাক্তারের ফি-এর কতটুকু মেডিকেয়ার বহন করে?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#doctor-fee"
+    },
+    {
+      "text": "আমি কিভাবে টেস্ট বা স্ক্যানের জন্য ব্যয়/খরচ মেটাবো?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#tests-and-scans"
+    },
+    {
+      "text": "আমি কিভাবে ওষুধের জন্য অর্থ পরিশোধ করবো?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#medicines"
+    },
+    {
+      "text": "যদি আমাকে হাসপাতালে যেতে হয়, মেডিকেয়ার কি আমার স্বাস্থ্যসেবা খরচ বহন করবে?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#hospital"
+    },
+    {
+      "text": "অস্ট্রেলিয়াতে কি অ্যাম্বুলেন্স পরিষেবা বিনামূল্যে পাওয়া যায়?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#ambulance"
+    },
+    {
+      "text": "ব্যক্তিগত স্বাস্থ্য বীমা কী, এবং আমার কি এটি কেনা উচিত?",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#private"
+    },
+    {
+      "text": "সম্পদ এবং সহায়তা",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#resources"
+    },
+    {
+      "text": "অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#searchGeneralResults"
+    },
+    {
+      "text": "মেডিকেয়ার",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "মেডিকেয়ার-এর জন্য কিভাবে নিবন্ধিত হতে হয় তা (enrol for Medicare)",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092"
+    },
+    {
+      "text": "পারস্পরিক স্বাস্থ্যসেবা চুক্তি",
+      "url": "https://www.servicesaustralia.gov.au/when-reciprocal-health-care-agreements-apply-and-you-visit-australia?context=22481"
+    },
+    {
+      "text": "ব্যক্তিগত স্বাস্থ্য বীমা",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "মেডিকেয়ারের জন্য যোগ্য কিনা তা যাচাই করতে",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#whocan"
+    },
+    {
+      "text": "বাল্ক বিল",
+      "url": "https://www.healthdirect.gov.au/bulk-billing-for-medical-services"
+    },
+    {
+      "text": "পাবলিক হাসপাতালে",
+      "url": "https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems"
+    },
+    {
+      "text": "এলাইড (সহযোগী) স্বাস্থ্য",
+      "url": "https://www.healthdirect.gov.au/allied-health"
+    },
+    {
+      "text": "আপনি একটি টিম কেয়ার অ্যারেঞ্জমেন্ট বা একটি জিপি ম্যানেজমেন্ট প্ল্যানে",
+      "url": "https://www.servicesaustralia.gov.au/prepare-gpmp-tcas-or-mhcc?context=20"
+    },
+    {
+      "text": "মেডিকেয়ার বেনিফিট স্কিম",
+      "url": "https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home"
+    },
+    {
+      "text": "মেডিকেয়ার কোন খরচগুলি বহন করে",
+      "url": "https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092"
+    },
+    {
+      "text": "দাঁতের চিকিৎসার",
+      "url": "https://www.healthdirect.gov.au/guide-to-dental-procedures"
+    },
+    {
+      "text": "আপনার সন্তান যোগ্য কিনা",
+      "url": "https://www.servicesaustralia.gov.au/child-dental-benefits-schedule"
+    },
+    {
+      "text": "কীভাবে দাঁতের খরচের জন্য অর্থ পরিশোধ করবেন",
+      "url": "https://www.healthdirect.gov.au/cost-of-dental-care"
+    },
+    {
+      "text": "কিভাবে সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে একটি ক্লেইম",
+      "url": "https://www.servicesaustralia.gov.au/medicare-claims?context=60092"
+    },
+    {
+      "text": "মেডিকেয়ার সেফটি নেট",
+      "url": "https://www.healthdirect.gov.au/medicare-safety-net"
+    },
+    {
+      "text": "রক্ত",
+      "url": "https://www.healthdirect.gov.au/blood-testing"
+    },
+    {
+      "text": "প্রস্রাব",
+      "url": "https://www.healthdirect.gov.au/urine-tests"
+    },
+    {
+      "text": "বায়োপসি পরীক্ষাগুলি",
+      "url": "https://www.healthdirect.gov.au/biopsy"
+    },
+    {
+      "text": "এক্স-রে,",
+      "url": "https://www.healthdirect.gov.au/x-rays"
+    },
+    {
+      "text": "CT স্ক্যান",
+      "url": "https://www.healthdirect.gov.au/ct-scan"
+    },
+    {
+      "text": "MRI স্ক্যান",
+      "url": "https://www.healthdirect.gov.au/magnetic-resonance-imaging-mri"
+    },
+    {
+      "text": "PET স্ক্যান",
+      "url": "https://www.healthdirect.gov.au/pet-scan"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092",
+      "url": "https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092"
+    },
+    {
+      "text": "ডায়াগনস্টিক টেস্ট/পরীক্ষা এবং স্ক্যানের জন্য অর্থ পরিশোধ",
+      "url": "https://www.healthdirect.gov.au/paying-for-diagnostic-testing"
+    },
+    {
+      "text": "ফার্মাসিউটিক্যাল বেনিফিট স্কিম",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs"
+    },
+    {
+      "text": "বর্তমান ফি",
+      "url": "https://www.pbs.gov.au/info/healthpro/explanatory-notes/front/fee"
+    },
+    {
+      "text": "PBS সেফটি নেট",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs#safety-net"
+    },
+    {
+      "text": "আপনার প্রতি ক্যালেন্ডার বছরে ওষুধের জন্য একটি নির্দিষ্ট পরিমাণ খরচ করার পরে",
+      "url": "https://www.dva.gov.au/get-support/health-support/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/reducing-medicine-costs-under-safety-net-scheme"
+    },
+    {
+      "text": "PBS সেফটি নেট",
+      "url": "https://www.servicesaustralia.gov.au/when-you-spend-lot-pbs-medicines?context=22016"
+    },
+    {
+      "text": "NPS MedicineWise ওয়েবসাইটে",
+      "url": "https://www.nps.org.au/consumers/keeping-your-medicines-costs-down"
+    },
+    {
+      "text": "privatehealth.gov.au",
+      "url": "https://www.privatehealth.gov.au/"
+    },
+    {
+      "text": "ইন্ডিজেনাস অ্যাক্সেস প্রোগ্রামে",
+      "url": "https://www.servicesaustralia.gov.au/indigenous-access-program"
+    },
+    {
+      "text": "ইন্ডিজেনাস অ্যাক্সেস লাইনে",
+      "url": "https://www.health.gov.au/contacts/services-australia-indigenous-access-line"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092",
+      "url": "https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092"
+    },
+    {
+      "text": "আপনার শিশুর জন্মের প্রাক্কালে",
+      "url": "https://www.servicesaustralia.gov.au/medicare-services-for-conceiving-pregnancy-and-birth?context=60092"
+    },
+    {
+      "text": "সরকারি ও বেসরকারি স্বাস্থ্য বীমার",
+      "url": "https://www.pregnancybirthbaby.org.au/"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "আমি কিভাবে স্বাস্থ্যসেবার খরচ পরিশোধ করবো/ব্যয় মেটাবো? | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# আমি কিভাবে স্বাস্থ্যসেবার খরচ পরিশোধ করবো/ব্যয় মেটাবো?\n\nSelect language: English , (Arabic) العربية , বাংলা (Bengali) , 简体中文 (Simplified Chinese) , 繁體中文 (Traditional Chinese) , Tiếng Việt (Vietnamese)\n\n## মূল তথ্যাদি\n\n- মেডিকেয়ার হল অস্ট্রেলিয়ান সরকারের বীমা প্রকল্প যা অস্ট্রেলিয়ানদের স্বাস্থ্যসেবার ব্যয় মেটাতে সহায়তা করে থাকে।\n\n- আপনি যদি মেডিকেয়ার নম্বরের জন্য যোগ্য হন, আপনি বিনামূল্যে বা কম খরচে বিভিন্ন ধরণের স্বাস্থ্যসেবা অ্যাক্সেস করতে পারবেন।\n\n- মেডিকেয়ার সিস্টেমের 3টি অংশ রয়েছে: হাসপাতাল, চিকিৎসা এবং ফার্মাসিউটিক্যাল।\n\n- সকল স্বাস্থ্য পরিষেবা মেডিকেয়ার এর অন্তর্ভুক্ত নয়।\n\n- মেডিকেয়ার দ্বারা অন্তর্ভুক্ত করা হয় না এমন কিছু পরিষেবার খরচ মেটাতে আপনি ব্যক্তিগত স্বাস্থ্য বীমা কিনতে পারেন।\n\n## এই পৃষ্ঠায়\n\n- অস্ট্রেলিয়াতে আমি কিভাবে স্বাস্থ্যসেবার ব্যয়/খরচ মেটাবো?\n\n- মেডিকেয়ার কি?\n\n- মেডিকেয়ার কি ধরনের পরিষেবা দেয়?\n\n- দাঁতের পরিষেবাগুলি কি মেডিকেয়ার বহন করে?\n\n- আমার ডাক্তারের ফি-এর কতটুকু মেডিকেয়ার বহন করে?\n\n- আমি কিভাবে টেস্ট বা স্ক্যানের জন্য ব্যয়/খরচ মেটাবো?\n\n- আমি কিভাবে ওষুধের জন্য অর্থ পরিশোধ করবো?\n\n- যদি আমাকে হাসপাতালে যেতে হয়, মেডিকেয়ার কি আমার স্বাস্থ্যসেবা খরচ বহন করবে?\n\n- অস্ট্রেলিয়াতে কি অ্যাম্বুলেন্স পরিষেবা বিনামূল্যে পাওয়া যায়?\n\n- ব্যক্তিগত স্বাস্থ্য বীমা কী, এবং আমার কি এটি কেনা উচিত?\n\n- সম্পদ এবং সহায়তা\n\n- অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য\n\n## অস্ট্রেলিয়াতে আমি কিভাবে স্বাস্থ্যসেবার ব্যয়/খরচ মেটাবো?\n\nঅস্ট্রেলিয়ান স্বাস্থ্য ব্যবস্থা অস্ট্রেলিয়ানদের নিরাপদ এবং সাশ্রয়ী মূল্যের স্বাস্থ্যসেবা প্রদান করতে সাহায্য করে। মেডিকেয়ার এবং সরকারী হাসপাতাল ব্যবস্থা যোগ্য ব্যক্তিদের সরকারী হাসপাতাল, স্বাস্থ্য পরিষেবা এবং কিছু কিছু প্রেসক্রিপশন ওষুধ বিনামূল্যে বা কম খরচে ক্রয়ের সুযোগ দেয়। ব্যক্তিগত স্বাস্থ্য বীমা পলিসি সরকারী স্বাস্থ্য পরিষেবার বাইরে অতিরিক্ত সেবা প্রদান করতে পারে।\n\n## মেডিকেয়ার কি?\n\nমেডিকেয়ার হল সরকারি বীমা প্রকল্প যা অস্ট্রেলিয়ানদেরকে স্বাস্থ্যসেবার খরচ পরিশোধে সাহায্য করে। সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে মেডিকেয়ার-এর জন্য কিভাবে নিবন্ধিত হতে হয় তা (enrol for Medicare) খোঁজ করুন।\n\nযারা মেডিকেয়ার পেতে পারেন:\n\n- অস্ট্রেলিয়ার নাগরিকগণ\n\n- নিউজিল্যান্ডের নাগরিকগণ\n\n- অস্ট্রেলিয়ার স্থায়ী বাসিন্দাগণ\n\n- যারা স্থায়ী বাসিন্দা হওয়ার আবেদন করছেন (কিছু শর্ত প্রযোজ্য)\n\n- মন্ত্রণালয়ের একটি আদেশে অবস্থানরত একজন অস্থায়ী বাসিন্দা।\n\n- নরফোক দ্বীপ, কোকোস (কিলিং) দ্বীপপুঞ্জ, ক্রিসমাস দ্বীপ বা লর্ড হাও দ্বীপের নাগরিক বা স্থায়ী বাসিন্দারা\n\nআপনি যদি অস্ট্রেলিয়ায় যান, আপনি মেডিকেয়ার সুবিধার জন্য যোগ্য হতে পারেন যদি আপনি এমন একটি দেশ থেকে আসেন যেখানে অস্ট্রেলিয়ার সাথে একটি পারস্পরিক স্বাস্থ্যসেবা চুক্তি বিদ্যমান।\n\nআপনি যদি অস্ট্রেলিয়ার সাথে স্বাস্থ্যসেবা চুক্তি নেই এমন একটি দেশ থেকে আসেন, তাহলে অস্ট্রেলিয়ায় চিকিৎসার খরচ মেটানোর জন্য আপনার ব্যক্তিগত স্বাস্থ্য বীমা কেনার কথা বিবেচনা করা উচিত।\n\nআপনি মেডিকেয়ারের জন্য যোগ্য কিনা তা যাচাই করতে সার্ভিসেস অস্ট্রেলিয়া -এর ওয়েবসাইটে দেখুন।\n\n## মেডিকেয়ার কি ধরনের পরিষেবা দেয়?\n\nমেডিকেয়ার বিনামূল্যে বা কম সল্প খরচে স্বাস্থ্যের নানারকমের পরিষেবা প্রদান করে থাকে, যার মধ্যে রয়েছে:\n\n- একজন ডাক্তার বা বিশেষজ্ঞের সাথে দেখা করা: যদি আপনার ডাক্তার বাল্ক বিল করেন, সেক্ষেত্রে মেডিকেয়ার আপনার অ্যাপয়েন্টমেন্টের খরচ বহন করবে (টেলিহেলথ অ্যাপয়েন্টমেন্ট সহ)। যদি আপনার ডাক্তার বাল্ক বিল না করেন, তাহলে আপনাকে অ্যাপয়েন্টমেন্টের জন্য অর্থ প্রদান করতে হবে এবং তারপর মেডিকেয়ার থেকে খরচের কিছু অংশ (যাকে রিবেট বলা হয়) তা দাবি করতে হবে।\n\n- হাসপাতালে যাওয়া: আপনি যদি একজন পাবলিক রোগী হিসাবে একটি পাবলিক হাসপাতালে চিকিৎসা নেন, সেক্ষেত্রে মেডিকেয়ার আপনার খরচ বহন করবে। আপনি যদি পাবলিক (সরকারী) হাসপাতালের জরুরি বিভাগে যান, মেডিকেয়ার সমস্ত খরচ বহন করবে। আপনি যদি হাসপাতালে একজন প্রাইভেট/ব্যক্তিগতভাবে রোগী হন, মেডিকেয়ার আপনার কিছু খরচ বহন করতে পারে।\n\n- পরীক্ষা/টেস্ট এবং স্ক্যান: আপনার ডাক্তার বা প্যাথলজি সংগ্রহ কেন্দ্র বাল্ক বিল দিলে মেডিকেয়ার এক্স-রে এবং প্যাথলজি পরীক্ষা সহ বিভিন্ন পরীক্ষার জন্য অর্থ প্রদান করে।\n\n- চোখের পরীক্ষা: মেডিকেয়ার চোখের পরীক্ষার জন্য অর্থ প্রদান করে, যদি চক্ষু বিশেষজ্ঞ বাল্ক বিল বেছে নেন। সব চক্ষু বিশেষজ্ঞ বাল্ক বিল করতে চান না। আপনার বয়স 65 বছরের কম হলে, আপনি প্রতি 3 বছরে একবার চোখের পরীক্ষার করাতে পারেন। 65 বছরের বেশি বয়সীরা বছরে একবার করাতে পারে।\n\n- মানসিক স্বাস্থ্য পরিষেবা: আপনি একজন মানসিক স্বাস্থ্য পেশাদারের সাথে প্রতি ক্যালেন্ডার বছরে 10টি পৃথক/একক সেশন এবং 10টি গ্রুপ সেশন পর্যন্ত মেডিকেয়ার রিবেট দাবি করতে পারেন। এটি করার জন্য, আপনার একটি মানসিক স্বাস্থ্য পরিচর্যা পরিকল্পনা এবং আপনার ডাক্তারের কাছ থেকে রেফারেল এর প্রয়োজন হবে। মেডিকেয়ার হয়তো শুধুমাত্র খরচের কিছু অংশ বহন করতে পারে, কেননা স্বাস্থ্য পেশাদাররা তাদের নিজস্ব ফি নির্ধারণ করে।\n\n- অন্যান্য সহায়তা: মেডিকেয়ার কিছু দীর্ঘমেয়াদী স্বাস্থ্য-সমস্যা, কিছু এলাইড (সহযোগী) স্বাস্থ্য পরিষেবা, এবং কিছু প্রেসক্রিপশন ওষুধ ক্রয়ের জন্য খরচ বহন করে। আপনার স্বাস্থ্যের চাহিদার উপর ভিত্তি করে পরিষেবাগুলির খরচ বহন করা হয়। আপনার যদি দীর্ঘস্থায়ী বা জটিল স্বাস্থ্য সমস্যা থাকে যার ফলে অতিরিক্ত খরচ হয়, সেক্ষেত্রে আরও তথ্যের জন্য আপনার ডাক্তারের সাথে কথা বলুন। এই খরচগুলিতে সাহায্য করার জন্য আপনি একটি টিম কেয়ার অ্যারেঞ্জমেন্ট বা একটি জিপি ম্যানেজমেন্ট প্ল্যানে খোলার জন্য যোগ্য হতে পারেন।\n\nমেডিকেয়ার সাধারণত হাসপাতালের-বাইরের পরিষেবাগুলির জন্য খরচ দেয় না যেগুলি মেডিকেয়ার বেনিফিট স্কিম (MBS) এরঅন্তর্ভুক্ত নয়, যেমন ফিজিওথেরাপি এবং পোডিয়াট্রি।\n\nসার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে মেডিকেয়ার কোন খরচগুলি বহন করে তা জানতে আরও পড়ুন।\n\n## দাঁতের পরিষেবাগুলি কি মেডিকেয়ার বহন করে?\n\nমেডিকেয়ার শুধুমাত্র দাঁতের চিকিৎসার জন্য অর্থ প্রদান করে যদি আপনি পাবলিক ডেন্টাল ক্লিনিকে চিকিৎসার জন্য যোগ্য হোন। সাধারণত, আপনার নিজের খরচ নিজেকেই বহন করতে হয়। দাঁতের চিকিৎসার জন্য অনেকেই ব্যক্তিগত স্বাস্থ্য বীমা ক্রয় করে থাকেন।\n\nমেডিকেয়ার চাইল্ড ডেন্টাল বেনিফিট স্কেডিউল (Child Dental Benefits Schedule) নামে একটি প্রকল্পের অধীনে কিছু শিশুর দাঁতের যত্নের কিছু খরচ বহন করে। আপনার সন্তান যোগ্য কিনা তা অনুসন্ধান করুন।\n\nএখানে আরও পড়ুন কীভাবে দাঁতের খরচের জন্য অর্থ পরিশোধ করবেন ।\n\n## আমার ডাক্তারের ফি-এর কতটুকু মেডিকেয়ার বহন করে?\n\nমেডিকেয়ার কিছু বা সমস্ত ফি বহন করবে যা আপনার ডাক্তার আপনাকে চার্জ করবেন - এটিকে বলা হয় 'মেডিকেয়ার বেনিফিট'।\n\nকিছু ডাক্তার বাল্ক বিল করেন। এটি হল যখন আপনার ডাক্তার পরিষেবার জন্য বেনিফিটের সমান ফি চার্জ করে। যদি আপনার ডাক্তার বাল্ক বিল করেন, মেডিকেয়ার এর সম্পূর্ণ খরচ বহন করে, যা সরাসরি আপনার ডাক্তারকে দেওয়া হয়। এর মানে হল আপনাকে আপনার ডাক্তারকে দেখার জন্য কোনো ফি দিতে হবে না।\n\nডাক্তার যদি বাল্ক বিল না দেন, তাহলে আপনাকে পরামর্শের জন্য অর্থ প্রদান করতে হবে এবং মেডিকেয়ার থেকে খরচের কিছু অংশ ফেরত পাওয়ার দাবি করতে হবে। মেডিকেয়ার দ্বারা মেটানো খরচ হল 'বেনিফিট', এবং অতিরিক্ত ব্যয় যা আপনাকে নিজেকে বহন করতে হবে তা 'গ্যাপ ফি' নামে পরিচিত।\n\nকিছু ডাক্তারের অফিসে, আপনি যখন পরামর্শ গ্রহণের জন্য অর্থ প্রদান করেন তখন তারা স্বয়ংক্রিয়ভাবে আপনার মেডিকেয়ার বেনিফিটের জন্য একটি ইলেকট্রনিক পদ্ধতিতে একটি ক্লেইম জমা দিয়ে দিতে পারে। প্রক্রিয়াকরণের পরে, মেডিকেয়ার বেনিফিট তারপর আপনার ব্যাঙ্ক অ্যাকাউন্টে প্রদান করা হয়। আপনার ডাক্তারকে জিজ্ঞাসা করুন যে তারা এই পরিষেবাটি প্রদান করে কিনা।\n\nএকটি স্বাস্থ্য পরিষেবা খুঁজুন — পরিষেবা সন্ধানকারী আপনাকে ডাক্তার, ফার্মেসি, হাসপাতাল এবং অন্যান্য স্বাস্থ্য পরিষেবা খুঁজে পেতে সাহায্য করতে পারে৷\n\nআপনি যদি একজন বিশেষজ্ঞ চিকিৎসককে দেখান, তাহলে আপনি শুধুমাত্র মেডিকেয়ার বেনিফিট দাবি করতে পারেন যদি আপনার জিপি থেকে প্রাপ্ত সাম্প্রতিক একটি রেফারেল থাকে।\n\nজানুন কিভাবে সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে একটি ক্লেইম করতে হয়।\n\nআপনি যদি হাসপাতালের বাইরে চিকিৎসা করান বা টেস্ট এর জন্য প্রচুর খরচ করেন তবে আপনি মেডিকেয়ার সেফটি নেট এর জন্য যোগ্য হতে পারেন। এর মানে আপনি অধিক পরিমাণে মেডিকেয়ার বেনিফিট (অর্থ ফেরত) পাবেন।\n\n## আমি কিভাবে টেস্ট বা স্ক্যানের জন্য ব্যয়/খরচ মেটাবো?\n\nআপনার স্বাস্থ্য সম্পর্কে আরও জানতে আপনার ডাক্তার আপনাকে টেস্ট বা স্ক্যানের জন্য রেফার করতে পারেন। আপনার কাছে রেফারেল থাকলে মেডিকেয়ার কখনও কখনও এর খরচ বহন করে।\n\n- প্যাথলজি পরীক্ষা: পরীক্ষা (রোগ নির্ণয়) যেমন রক্ত , প্রস্রাব বা বায়োপসি পরীক্ষাগুলি এর খরচ সাধারণত মেডিকেয়ার বহন করে। অনেকেই বাল্ক বিল করে থাকে।\n\n- ছবি এবং স্ক্যান: এর মধ্যে রয়েছে এক্স-রে, CT স্ক্যান , MRI স্ক্যান , PET স্ক্যান এবং আল্ট্রাসাউন্ড। এই টেস্টগুলির অনেকগুলির জন্য মেডিকেয়ার আংশিক বা সমস্ত খরচ বহন করে।\n\nস্তন ক্যান্সার, অন্ত্রের ক্যান্সার, চোখের পরীক্ষা এবং শ্রবণ পরীক্ষা সহ অস্ট্রেলিয়ায় কিছু স্ক্রীনিং পরীক্ষা বিনামূল্যে পাওয়া যায়। সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে টেস্টের খরচগুলি মেটানোর জন্য সহায়তাগুলি দেখুন।\n\nসমস্ত টেস্ট এর খরচ MBS দ্বারা মেটানো হয় না। এখানে আরও পড়ুন ডায়াগনস্টিক টেস্ট/পরীক্ষা এবং স্ক্যানের জন্য অর্থ পরিশোধ ।\n\n## আমি কিভাবে ওষুধের জন্য অর্থ পরিশোধ করবো?\n\nফার্মাসিউটিক্যাল বেনিফিট স্কিম (PBS)-এর মাধ্যমে অস্ট্রেলিয়ান সরকার কিছু প্রেসক্রিপশন ওষুধের খরচে সহায়তা দিয়ে থাকে।\n\nPBS ওষুধের বেশিরভাগ খরচ মেডিকেয়ার দ্বারা দেয়া হয় তবে আপনাকে খরচের কিছু অংশ (কো-পেমেন্ট হিসাবে পরিচিত) দিতে হবে। ভোক্তা মূল্য সূচক (CPI) এর সাথে সামঞ্জস্য রেখে প্রতি বছর 1 জানুয়ারিতে কো-পেমেন্টের পরিমাণ পরিবর্তিত হয়। আপনি pbs.gov.au-এ বর্তমান ফি চেক করতে পারেন।\n\nআপনি যদি PBS ওষুধের জন্য প্রচুর অর্থ ব্যয় করেন, তাহলে PBS সেফটি নেট আপনার প্রতি ক্যালেন্ডার বছরে ওষুধের জন্য একটি নির্দিষ্ট পরিমাণ খরচ করার পরে আপনার খরচ কমাতে পারে। সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে PBS সেফটি নেট সম্পর্কে আরও পড়ুন।\n\nযদি আপনার প্রেসক্রিপশনের ওষুধ PBS-এ তালিকাভুক্ত না থাকে, তাহলে আপনাকে সম্পূর্ণ খরচ দিতে হবে। আপনি আপনার ওষুধের খরচ কম রাখার বিষয়ে আরও পড়তে পারেন NPS MedicineWise ওয়েবসাইটে ।\n\n## যদি আমাকে হাসপাতালে যেতে হয়, মেডিকেয়ার কি আমার স্বাস্থ্যসেবা খরচ বহন করবে?\n\nআপনি যদি হাসপাতালে চিকিৎসা নেন, তবে আপনি সরকারী অথবা বেসরকারী হাসপাতালের কোনটিতে চিকিৎসা করাবেন তা বেছে নিতে পারেন। সরকারি এবং বেসরকারী হাসপাতাল কার্যপ্রণালী সম্পর্কে আরও পড়ুন।\n\nমেডিকেয়ার নম্বর সহ যে কেউ সরকারি হাসপাতালে সরকারি রোগী হিসেবে বিনামূল্যে চিকিৎসা পেতে পারেন। যাইহোক, পাবলিক (সরকারি) হাসপাতালে কিছু চিকিৎসা বা অস্ত্রোপচার করার আগে আপনাকে একটি অপেক্ষা তালিকায় যোগ দিতে হতে পারে।\n\nআপনি যদি একটি অ্যাম্বুলেন্স কল করেন, তাহলে সম্ভবত আপনাকে একটি সরকারি হাসপাতালের জরুরি বিভাগে নিয়ে যাওয়া হবে।\n\n## অস্ট্রেলিয়াতে কি অ্যাম্বুলেন্স পরিষেবা বিনামূল্যে পাওয়া যায়?\n\nমেডিকেয়ার অ্যাম্বুলেন্স পরিষেবার খরচ বহন করে না।\n\nঅস্ট্রেলিয়াতে প্রদেশ এবং টেরিটোরি গুলোতে অ্যাম্বুলেন্স পরিষেবার পরিবর্তিত ফি দেখা যায়। কুইন্সল্যান্ড এবং তাসমানিয়া বিনামূল্যে অ্যাম্বুলেন্স সুবিধা দেয়। অস্ট্রেলিয়ার অন্যান্য স্থানের লোকেদের অবশ্যই এর খরচ দিতে হয়, যদি না তাদের ব্যক্তিগত স্বাস্থ্য বীমার মাধ্যমে অ্যাম্বুলেন্স কভার না থাকে বা তারা অ্যাম্বুলেন্স সাবস্ক্রিপশনের জন্য অর্থ প্রদান করে থাকে। আপনার যদি ব্যক্তিগত স্বাস্থ্য বীমা থাকে, তবে এটি কিছু বা সমস্ত খরচ বহন করতে পারে।\n\nআপনার রাজ্য বা অঞ্চলে অ্যাম্বুলেন্স কভার ব্যবস্থা সম্পর্কে আরও তথ্যের জন্য, privatehealth.gov.au তে দেখুন।\n\n## ব্যক্তিগত স্বাস্থ্য বীমা কী, এবং আমার কি এটি কেনা উচিত?\n\nব্যক্তিগত স্বাস্থ্য বীমা হলো মেডিকেয়ার যেসবের খরচ বহন করে না সেসবের খরচের মেটাতে সাহায্য করতে পারে। আপনার পলিসির উপর নির্ভর করে, ব্যক্তিগত স্বাস্থ্য বীমা কিছু বা সমস্ত খরচ বহন (ব্যয় মেটায়) করে:\n\n- সরকারি হাসপাতালে বেসরকারি রোগী হিসেবে চিকিৎসা\n\n- আপনার পছন্দের ডাক্তারের সাথে একটি প্রাইভেট হাসপাতালে চিকিৎসা\n\n- কিছু স্বাস্থ্য পরিষেবার খরচ মেডিকেয়ার বহন করে না যেমন ফিজিওথেরাপি, ডেন্টাল/দন্ত চিকিৎসা এবং অপটিক্যাল/ চোখের চিকিৎসা\n\nব্যক্তিগত স্বাস্থ্য বীমা আপনাকে হাসপাতালের কিছু পরিষেবা আরও দ্রুততার সাথে অ্যাক্সেস করতে সহায়তা করে।\n\nযদি সম্ভব হয়, তাহলে আরও পরিষেবা এবং আউট-অফ-পকেট খরচগুলি বহনে আপনার ব্যক্তিগত স্বাস্থ্য বীমা নেওয়া উচিত। ব্যক্তিগত স্বাস্থ্য বীমা সম্পর্কে আরও পড়ুন privatehealth.gov.au এ ।\n\n## সম্পদ এবং সহায়তা\n\n### আদিবাসী এবং/অথবা টরেস দ্বীপবাসীদের জন্য তথ্য খুঁজছেন?\n\n- স্বাস্থ্য পরিষেবা এবং মেডিকেয়ার বেনিফিটগুলি সম্পর্কে আরও পড়ুন ইন্ডিজেনাস অ্যাক্সেস প্রোগ্রামে ।\n\n- কল করুন 1800 556 955-নম্বরে ইন্ডিজেনাস অ্যাক্সেস লাইনে একটি মেডিকেয়ার পরিষেবা বা পেমেন্ট সংক্রান্ত সহায়তার জন্য।\n\n### গ্রামীণ এবং প্রত্যন্ত অস্ট্রেলিয়ানদের জন্য তথ্য খুঁজছেন?\n\n- সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে কীভাবে আপনার এলাকায় মেডিকেয়ার এবং বাল্ক বিল করা অ্যাপয়েন্টমেন্ট অ্যাক্সেস করতে পারেন তা দেখুন ।\n\n### মেডিকেয়ার, গর্ভাবস্থা এবং বাচ্চা প্রসব সম্পর্কে তথ্য খুঁজছেন?\n\n- সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে মেডিকেয়ার এর মাধ্যমে আপনার শিশুর জন্মের প্রাক্কালে ফারটিলিটি চিকিৎসা, রুটিন আল্ট্রাসাউন্ড এবং টেস্ট, এবং হাসপাতালের ফি এসব অনুসন্ধান করুন।\n\n- আপনি গর্ভাবস্থা, বাচ্চা প্রসব এবং শিশুর সরকারি ও বেসরকারি স্বাস্থ্য বীমার অন্তর্ভুক্ত খরচ এবং সেগুলি সম্পর্কে সহায়ক তথ্য পেতে পারেন\n\nLast reviewed: June 2024\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare\n\n- Please enter your name: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- English: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare\n\n- (Arabic) العربية: https://www.healthdirect.gov.au/ar/how-do-i-pay-for-healthcare\n\n- 简体中文 (Simplified Chinese): https://www.healthdirect.gov.au/zh-hans/how-do-i-pay-for-healthcare\n\n- 繁體中文 (Traditional Chinese): https://www.healthdirect.gov.au/zh-hant/how-do-i-pay-for-healthcare\n\n- Tiếng Việt (Vietnamese): https://www.healthdirect.gov.au/vi/how-do-i-pay-for-healthcare\n\n- অস্ট্রেলিয়াতে আমি কিভাবে স্বাস্থ্যসেবার ব্যয়/খরচ মেটাবো?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#how\n\n- মেডিকেয়ার কি?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#medicare\n\n- মেডিকেয়ার কি ধরনের পরিষেবা দেয়?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#services\n\n- দাঁতের পরিষেবাগুলি কি মেডিকেয়ার বহন করে?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#dental\n\n- আমার ডাক্তারের ফি-এর কতটুকু মেডিকেয়ার বহন করে?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#doctor-fee\n\n- আমি কিভাবে টেস্ট বা স্ক্যানের জন্য ব্যয়/খরচ মেটাবো?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#tests-and-scans\n\n- আমি কিভাবে ওষুধের জন্য অর্থ পরিশোধ করবো?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#medicines\n\n- যদি আমাকে হাসপাতালে যেতে হয়, মেডিকেয়ার কি আমার স্বাস্থ্যসেবা খরচ বহন করবে?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#hospital\n\n- অস্ট্রেলিয়াতে কি অ্যাম্বুলেন্স পরিষেবা বিনামূল্যে পাওয়া যায়?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#ambulance\n\n- ব্যক্তিগত স্বাস্থ্য বীমা কী, এবং আমার কি এটি কেনা উচিত?: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#private\n\n- সম্পদ এবং সহায়তা: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#resources\n\n- অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য: https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare#searchGeneralResults\n\n- মেডিকেয়ার: https://www.healthdirect.gov.au/what-is-medicare\n\n- মেডিকেয়ার-এর জন্য কিভাবে নিবন্ধিত হতে হয় তা (enrol for Medicare): https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092\n\n- পারস্পরিক স্বাস্থ্যসেবা চুক্তি: https://www.servicesaustralia.gov.au/when-reciprocal-health-care-agreements-apply-and-you-visit-australia?context=22481\n\n- ব্যক্তিগত স্বাস্থ্য বীমা: https://www.healthdirect.gov.au/private-health-insurance\n\n- মেডিকেয়ারের জন্য যোগ্য কিনা তা যাচাই করতে: https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#whocan\n\n- বাল্ক বিল: https://www.healthdirect.gov.au/bulk-billing-for-medical-services\n\n- পাবলিক হাসপাতালে: https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems\n\n- এলাইড (সহযোগী) স্বাস্থ্য: https://www.healthdirect.gov.au/allied-health\n\n- আপনি একটি টিম কেয়ার অ্যারেঞ্জমেন্ট বা একটি জিপি ম্যানেজমেন্ট প্ল্যানে: https://www.servicesaustralia.gov.au/prepare-gpmp-tcas-or-mhcc?context=20\n\n- মেডিকেয়ার বেনিফিট স্কিম: https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home\n\n- মেডিকেয়ার কোন খরচগুলি বহন করে: https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092\n\n- দাঁতের চিকিৎসার: https://www.healthdirect.gov.au/guide-to-dental-procedures\n\n- আপনার সন্তান যোগ্য কিনা: https://www.servicesaustralia.gov.au/child-dental-benefits-schedule\n\n- কীভাবে দাঁতের খরচের জন্য অর্থ পরিশোধ করবেন: https://www.healthdirect.gov.au/cost-of-dental-care\n\n- কিভাবে সার্ভিসেস অস্ট্রেলিয়া ওয়েবসাইটে একটি ক্লেইম: https://www.servicesaustralia.gov.au/medicare-claims?context=60092\n\n- মেডিকেয়ার সেফটি নেট: https://www.healthdirect.gov.au/medicare-safety-net\n\n- রক্ত: https://www.healthdirect.gov.au/blood-testing\n\n- প্রস্রাব: https://www.healthdirect.gov.au/urine-tests\n\n- বায়োপসি পরীক্ষাগুলি: https://www.healthdirect.gov.au/biopsy\n\n- এক্স-রে,: https://www.healthdirect.gov.au/x-rays\n\n- CT স্ক্যান: https://www.healthdirect.gov.au/ct-scan\n\n- MRI স্ক্যান: https://www.healthdirect.gov.au/magnetic-resonance-imaging-mri\n\n- PET স্ক্যান: https://www.healthdirect.gov.au/pet-scan\n\n- https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092: https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092\n\n- ডায়াগনস্টিক টেস্ট/পরীক্ষা এবং স্ক্যানের জন্য অর্থ পরিশোধ: https://www.healthdirect.gov.au/paying-for-diagnostic-testing\n\n- ফার্মাসিউটিক্যাল বেনিফিট স্কিম: https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs\n\n- বর্তমান ফি: https://www.pbs.gov.au/info/healthpro/explanatory-notes/front/fee\n\n- PBS সেফটি নেট: https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs#safety-net\n\n- আপনার প্রতি ক্যালেন্ডার বছরে ওষুধের জন্য একটি নির্দিষ্ট পরিমাণ খরচ করার পরে: https://www.dva.gov.au/get-support/health-support/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/reducing-medicine-costs-under-safety-net-scheme\n\n- PBS সেফটি নেট: https://www.servicesaustralia.gov.au/when-you-spend-lot-pbs-medicines?context=22016\n\n- NPS MedicineWise ওয়েবসাইটে: https://www.nps.org.au/consumers/keeping-your-medicines-costs-down\n\n- privatehealth.gov.au: https://www.privatehealth.gov.au/\n\n- ইন্ডিজেনাস অ্যাক্সেস প্রোগ্রামে: https://www.servicesaustralia.gov.au/indigenous-access-program\n\n- ইন্ডিজেনাস অ্যাক্সেস লাইনে: https://www.health.gov.au/contacts/services-australia-indigenous-access-line\n\n- https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092: https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092\n\n- আপনার শিশুর জন্মের প্রাক্কালে: https://www.servicesaustralia.gov.au/medicare-services-for-conceiving-pregnancy-and-birth?context=60092\n\n- সরকারি ও বেসরকারি স্বাস্থ্য বীমার: https://www.pregnancybirthbaby.org.au/\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

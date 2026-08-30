@@ -1,0 +1,215 @@
+{
+  "source_id": "beyond-blue:get-support-find-a-mental-health-professional",
+  "title": "Find a Mental Health Professional - Beyond Blue - Beyond Blue",
+  "publisher": "Beyond Blue",
+  "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 16369,
+  "crawl_depth": 2,
+  "seed_url": "https://www.beyondblue.org.au/mental-health/depression",
+  "links": [
+    {
+      "text": "https://www.beyondblue.org.au/",
+      "url": "https://www.beyondblue.org.au/"
+    },
+    {
+      "text": "Get support",
+      "url": "https://www.beyondblue.org.au/get-support"
+    },
+    {
+      "text": "Learn about mental health",
+      "url": "https://www.beyondblue.org.au/mental-health"
+    },
+    {
+      "text": "Give",
+      "url": "https://www.beyondblue.org.au/get-involved/donate"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.beyondblue.org.au/get-involved"
+    },
+    {
+      "text": "About",
+      "url": "https://www.beyondblue.org.au/about"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.beyondblue.org.au/get-involved/donate/form"
+    },
+    {
+      "text": "Urgent help",
+      "url": "https://www.beyondblue.org.au/get-support/urgent-help"
+    },
+    {
+      "text": "General practitioners / doctors (GPs)",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#gp-doctor"
+    },
+    {
+      "text": "Psychologists",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-psychologists"
+    },
+    {
+      "text": "Counsellors and psychotherapists",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#counsellors"
+    },
+    {
+      "text": "Mental health coaches",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#mental-health-coaches"
+    },
+    {
+      "text": "Psychiatrists",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-psychiatrists"
+    },
+    {
+      "text": "Other mental health professionals",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#other-mh-professionals"
+    },
+    {
+      "text": "How much does it cost?",
+      "url": "https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-how-much-does-it-cost"
+    },
+    {
+      "text": "healthdirect's National Health Services Directory",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue"
+    },
+    {
+      "text": "Australian Psychological Society’s directory",
+      "url": "https://www.psychology.org.au/Find-a-Psychologist"
+    },
+    {
+      "text": "How much does seeing a psychologist cost?",
+      "url": "https://psychology.org.au/psychology/about-psychology/what-it-costs"
+    },
+    {
+      "text": "Australian Register of Counsellors and Psychotherapists",
+      "url": "http://www.arcapregister.com.au/"
+    },
+    {
+      "text": "Australian Counselling Association’s Registered Counsellor directory.",
+      "url": "https://www.theaca.net.au/find-registered-counsellor.php"
+    },
+    {
+      "text": "NewAccess – mental health coaching",
+      "url": "https://www.beyondblue.org.au/get-support/newaccess-mental-health-coaching"
+    },
+    {
+      "text": "healthdirect's National Health Services Directory",
+      "url": "http://www.healthdirect.gov.au/australian-health-services?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue"
+    },
+    {
+      "text": "Royal Australian and New Zealand College of Psychiatrists' directory",
+      "url": "https://www.yourhealthinmind.org/find-a-psychiatrist"
+    },
+    {
+      "text": "Australian Association of Social Workers directory",
+      "url": "https://www.aasw.asn.au/find-a-social-worker/"
+    },
+    {
+      "text": "Occupational Therapy Australia’s directory",
+      "url": "http://www.otaus.com.au/find-an-occupational-therapist?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue"
+    },
+    {
+      "text": "Helpful contacts for First Nations Peoples",
+      "url": "https://www.beyondblue.org.au/mental-health/first-nations-peoples#more-support-from-first-nationsrun-organisations"
+    },
+    {
+      "text": "Department of Health’s Better Access initiative",
+      "url": "https://www.health.gov.au/initiatives-and-programs/better-access-initiative"
+    },
+    {
+      "text": "NDIS website",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "Chat to a counsellor online",
+      "url": "https://www.beyondblue.org.au/get-support/talk-to-a-counsellor/chat"
+    },
+    {
+      "text": "Get free mental health support",
+      "url": "https://www.beyondblue.org.au/get-support/talk-to-a-counsellor"
+    },
+    {
+      "text": "Check your mental health",
+      "url": "https://www.beyondblue.org.au/mental-health/tools-and-quizzes/k10"
+    },
+    {
+      "text": "Subscribe to newsletter",
+      "url": "https://beyondblue.tfaforms.net/140"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.beyondblue.org.au/about/media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.beyondblue.org.au/about/careers"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.beyondblue.org.au/about/contact-us"
+    },
+    {
+      "text": "Mental health at work",
+      "url": "https://www.beyondblue.org.au/mental-health/work"
+    },
+    {
+      "text": "Mental health in education",
+      "url": "https://beyou.edu.au/"
+    },
+    {
+      "text": "Mental health in the home",
+      "url": "https://www.beyondblue.org.au/mental-health/parenting"
+    },
+    {
+      "text": "Learn more about how we support First Nations people",
+      "url": "https://www.beyondblue.org.au/about/first-nations-peoples"
+    },
+    {
+      "text": "Discover how we support the LGBTIQ+ community",
+      "url": "https://www.beyondblue.org.au/mental-health/LGBTIQ"
+    },
+    {
+      "text": "https://www.beyondblue.org.au/about/funding",
+      "url": "https://www.beyondblue.org.au/about/funding"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.beyondblue.org.au/general/terms-of-use"
+    },
+    {
+      "text": "Privacy policy",
+      "url": "https://www.beyondblue.org.au/general/privacy-policy"
+    },
+    {
+      "text": "Charter of rights",
+      "url": "https://www.beyondblue.org.au/general/consumer-charter-of-rights"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.beyondblue.org.au/general/site-map"
+    },
+    {
+      "text": "https://www.facebook.com/beyondblue",
+      "url": "https://www.facebook.com/beyondblue"
+    },
+    {
+      "text": "https://www.instagram.com/beyondblueofficial",
+      "url": "https://www.instagram.com/beyondblueofficial"
+    },
+    {
+      "text": "https://www.linkedin.com/company/beyondblue",
+      "url": "https://www.linkedin.com/company/beyondblue"
+    },
+    {
+      "text": "https://twitter.com/beyondblue",
+      "url": "https://twitter.com/beyondblue"
+    },
+    {
+      "text": "https://www.youtube.com/beyondblueofficial",
+      "url": "https://www.youtube.com/beyondblueofficial"
+    }
+  ],
+  "text": "Find a Mental Health Professional - Beyond Blue - Beyond Blue\n\nSEARCH\n\nGet support\n\nLearn about mental health\n\nGive\n\nGet Involved\n\nAbout\n\nDonate Urgent help\n\nUrgent help\n\nHome\n\nFind a mental health professional\n\n# Find a mental health professional\n\nFiguring out who to see to support your mental health can be hard – a psychologist, counsellor, psychiatrist or someone else? Often the best place to start is talking to your GP.\n\nOn this page we explain what different mental health professionals do and how to find mental health services near you.\n\n## What are mental health professional services?\n\nA mental health professional is an expert in conditions like anxiety and depression. They can help you prevent, treat and manage these conditions.\n\n### Finding the right professional for you\n\nSome people may need help from one mental health professional. Others may see several professionals for different treatments. Many mental health support services offer online therapy as well as face-to-face appointments.\n\nIt’s important to find someone you feel comfortable with. While some people find a practitioner and treatment that works for them first time, for others it can take a few tries. The main thing is to persevere – try not to let one bad experience put you off getting support.\n\n### On this page\n\n- General practitioners / doctors (GPs)\n\n- Psychologists\n\n- Counsellors and psychotherapists\n\n- Mental health coaches\n\n- Psychiatrists\n\n- Other mental health professionals\n\n- How much does it cost?\n\n## General Practitioners / doctors (GPs)\n\nGoing to the doctor for mental health is often the best starting point for someone seeking professional help.\n\nA GP can:\n\n- diagnose anxiety, depression and other mental health conditions\n\n- talk to you about treatment options and prescribe medication\n\n- refer you to another mental health professional such as a psychiatrist\n\n- write a mental health treatment plan so you can get Medicare rebates.\n\n### Finding a GP\n\nIt’s best to go to your regular GP. If you don’t have a GP you can find one near you using healthdirect's National Health Services Directory .\n\n### Planning your first appointment\n\nTo make sure you’ve got plenty of time to talk without feeling rushed:\n\n- When you book – ask for a longer or double appointment to talk about depression or anxiety.\n\n- Before your appointment - prepare some questions to ask your health professional\n\n- At your appointment - talk about your mental health concerns at the start of the appointment.\n\nYou and your GP may decide to have follow up appointments to check on your progress.\n\n## Psychologists\n\nPsychologists diagnose and treat mental health conditions.\n\nTreatments may include:\n\n- cognitive behavioural therapy (CBT) – changing the way you think (cognitive) and act (behavioural).\n\n- problem-solving therapy – learning to manage everyday difficulties.\n\n- interpersonal psychotherapy (IPT) – improving relationships to improve your mental health.\n\n- mindfulness-based cognitive therapy (MBCT) – group-based mindfulness meditation to avoid negative thoughts and feelings.\n\n### Finding a psychologist\n\nYou don't need a referral from a GP to see a psychologist, but you will need a referral to claim a Medicare rebate.\n\nYou can also search for your own psychologist and request a referral to a particular person from your GP. To find a qualified psychologist near you use the Australian Psychological Society’s directory .\n\n### Rebates\n\nMedicare rebates are available for individual or group sessions with psychologists. You'll need a mental health treatment plan (a referral) from a GP to claim rebates from Medicare.\n\nIf you have private health insurance and extras cover, you may be able to claim part of a psychologist's fee. Contact your health fund to check.\n\nThe Australian Psychological Society has more information about costs and rebates: How much does seeing a psychologist cost?\n\n## Counsellors and psychotherapists\n\nCounsellors and psychotherapists support people with mental health conditions. They can also help with other difficulties like relationships, grief or addiction. Treatments can include:\n\n- acceptance and commitment therapy (ACT) – stop overthinking by learning to notice and accept negative thoughts and reactions.\n\n- interpersonal psychotherapy (IPT) - improving relationships to improve your mental health.\n\n- mindfulness-based cognitive therapy (MBCT) - group-based mindfulness meditation to avoid negative thoughts and feelings.\n\n### Finding a counsellor or psychotherapist\n\nYou don’t need a referral to see a counsellor or psychotherapist. Medicare rebates aren’t available.\n\nTo find a qualified counsellor or psychotherapist near you use the:\n\n- Australian Register of Counsellors and Psychotherapists\n\n- Australian Counselling Association’s Registered Counsellor directory.\n\nIf you have private health insurance and extras cover, you may be able to claim part of the fee. Contact your health fund to check.\n\n## Mental health coaches\n\nBeyond Blue’s NewAccess program connects you with a trained mental health coach near you. You'll get 6 free, confidential sessions.\n\nMost sessions are held on the telephone or video call. Some services offer face-to-face sessions\n\n### Who it's for\n\nNewAccess is for anyone feeling stressed or overwhelmed about everyday life issues. If you’re having difficulties with work, study, relationships, health or loneliness, NewAccess may be right for you.\n\nWe also offer a specialist stream for small business owners.\n\nNewAccess isn't right for you if you’re:\n\n- currently seeing a psychologist or psychiatrist\n\n- dealing with severe or complex difficulties.\n\nFind out more:\n\nNewAccess – mental health coaching\n\n## Psychiatrists\n\nPsychiatric doctors (psychiatrists) are doctors who specialise in diagnosing and treating mental health conditions. They can make medical and psychiatric assessments and also prescribe medication.\n\nThey often use psychological treatments such as cognitive behavioural therapy (CBT) and interpersonal therapy (IPT).\n\nA GP may refer you to a psychiatrist if your anxiety or depression:\n\n- is more severe\n\n- is associated with a high risk of self-harm or suicide\n\n- continues for a long time, or continues to come back\n\n- hasn’t responded to treatment.\n\n### Finding a psychiatrist\n\nYou'll need a referral from a GP to see a psychiatrist and to claim rebates through Medicare.\n\nTo find a psychiatrist near you, you can:\n\n- ask your GP\n\n- use healthdirect's National Health Services Directory\n\n- use the Royal Australian and New Zealand College of Psychiatrists' directory (this is an opt-in directory which may not list all psychiatrists in Australia).\n\n## Other mental health professionals\n\n### Accredited mental health social workers\n\nAccredited Mental Health Social Workers can treat mental health conditions. This includes anxiety and depression.\n\nTreatments include:\n\n- interpersonal therapy (IPT) - improving relationships to improve your mental health.\n\n- training for relaxation and interpersonal skills\n\nYou don’t need a referral to see an Accredited Mental Health Social Worker, but you’ll need a referral to claim a Medicare rebate.\n\nTo find an Accredited Mental Health Social Workers near you use the Australian Association of Social Workers directory .\n\n### Mental health occupational therapists\n\nMental health occupational therapists help people with anxiety and depression take part in everyday activities. They give support for:\n\n- self-care – such as showering, dressing or preparing food\n\n- getting back to work – such as education, paid work or volunteering\n\n- connecting with others – such as making friends or joining a community group.\n\nYou don’t need a referral to see a mental health occupational therapist, but you’ll need a referral from a GP to get a Medicare rebate.\n\nTo find a qualified occupational therapist near you use Occupational Therapy Australia’s directory .\n\n### Aboriginal and Torres Strait Islander health workers\n\nAboriginal and Torres Strait Islander health workers understand the health issues of First Nations Peoples. They know what’s needed to provide culturally safe and accessible services.\n\nSupport can include:\n\n- screening, assessment, referrals and case management\n\n- transport to and attendance at specialist appointments\n\n- education and advocacy\n\n- counselling and support for family and acute distress response.\n\nFind more support at Helpful contacts for First Nations Peoples .\n\n### Crisis Assessment or Acute Treatment teams\n\nCrisis Assessment or Acute Treatment teams provide emergency psychiatric care in the community. They're sometimes called CAT teams.\n\nIf you’re experiencing a crisis, you can be assessed and treated in the community. However, if you’re a potential danger to yourself or others, you’ll be admitted to hospital.\n\nYou can contact a CAT team by calling the local hospital or community mental health services.\n\n## How much does it cost to see a mental health professional?\n\nMost mental health professionals set their own fees, so the cost varies. Check with your preferred mental health support service and ask if you can use:\n\n- Medicare rebates\n\n- private health insurance rebates\n\n- NDIS budget.\n\nSome practitioners may also offer ‘sliding scale’ fees, with lower fees for low-income clients.\n\n### Medicare rebates for mental health support services\n\nMedicare rebates are available to people with a diagnosed mental health condition such as anxiety or depression.\n\nYou may still need to pay a ‘gap’ fee. This is the difference between the health professional’s fee and the Medicare rebate.\n\nThe first step is to get a mental health treatment plan from your GP. Find out more about Medicare rebates with the Department of Health’s Better Access initiative .\n\n### Private health insurance rebate\n\nMany private health insurers offer rebates for mental health services and medical treatment. Check with your health insurance provider to see if you’re covered.\n\n### NDIS\n\nYou may be able to use the National Disability Insurance Scheme (NDIS) funding for mental health support. Find out more on the NDIS website .\n\n## Still unsure what support is right for you?\n\nOur counsellors can help point you in the right direction.\n\n### Call a counsellor on 1300 22 4636\n\n### Chat to a counsellor online\n\n## Related information\n\n### Get free mental health support - information about Beyond Blue’s support services\n\n- Check your mental health – use one of our simple tools to assess your mental health. Choose the one that’s right for you and get the resources and support you may need.\n\n## Subscribe to receive info about mental health, keeping well and stories from our community.\n\nSubscribe to newsletter\n\nBack to top\n\n- About\n\n- Media\n\n- Careers\n\n- Contact us\n\n- Get involved\n\n- Donate\n\n- Mental health at work\n\n- Mental health in education\n\n- Mental health in the home\n\nAs an organisation that supports people from across Australia, Beyond Blue acknowledges the Traditional Owners and Custodians of Country and their continuing connection to land, waters and community. We pay respect to Elders past and present.\n\nFirst Nations Peoples are advised that this website may include reference to and images of deceased persons.\n\nBeyond Blue is committed to safe inclusive spaces, policies and services for people of LGBTIQ+ communities and their families.\n\nLearn more about how we support First Nations people Discover how we support the LGBTIQ+ community\n\nPremier partners\n\nCopyright © 2026 Beyond Blue Ltd All rights reserved\n\n- Terms of use\n\n- Privacy policy\n\n- Charter of rights\n\n- Site map\n\n\n\n## Links found on page\n\n- https://www.beyondblue.org.au/: https://www.beyondblue.org.au/\n\n- Get support: https://www.beyondblue.org.au/get-support\n\n- Learn about mental health: https://www.beyondblue.org.au/mental-health\n\n- Give: https://www.beyondblue.org.au/get-involved/donate\n\n- Get Involved: https://www.beyondblue.org.au/get-involved\n\n- About: https://www.beyondblue.org.au/about\n\n- Donate: https://www.beyondblue.org.au/get-involved/donate/form\n\n- Urgent help: https://www.beyondblue.org.au/get-support/urgent-help\n\n- General practitioners / doctors (GPs): https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#gp-doctor\n\n- Psychologists: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-psychologists\n\n- Counsellors and psychotherapists: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#counsellors\n\n- Mental health coaches: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#mental-health-coaches\n\n- Psychiatrists: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-psychiatrists\n\n- Other mental health professionals: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#other-mh-professionals\n\n- How much does it cost?: https://www.beyondblue.org.au/get-support/find-a-mental-health-professional#get-support-how-much-does-it-cost\n\n- healthdirect's National Health Services Directory: https://www.healthdirect.gov.au/australian-health-services?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue\n\n- Australian Psychological Society’s directory: https://www.psychology.org.au/Find-a-Psychologist\n\n- How much does seeing a psychologist cost?: https://psychology.org.au/psychology/about-psychology/what-it-costs\n\n- Australian Register of Counsellors and Psychotherapists: http://www.arcapregister.com.au/\n\n- Australian Counselling Association’s Registered Counsellor directory.: https://www.theaca.net.au/find-registered-counsellor.php\n\n- NewAccess – mental health coaching: https://www.beyondblue.org.au/get-support/newaccess-mental-health-coaching\n\n- healthdirect's National Health Services Directory: http://www.healthdirect.gov.au/australian-health-services?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue\n\n- Royal Australian and New Zealand College of Psychiatrists' directory: https://www.yourhealthinmind.org/find-a-psychiatrist\n\n- Australian Association of Social Workers directory: https://www.aasw.asn.au/find-a-social-worker/\n\n- Occupational Therapy Australia’s directory: http://www.otaus.com.au/find-an-occupational-therapist?utm_source=findapractitioner&utm_medium=button&utm_campaign=beyondblue\n\n- Helpful contacts for First Nations Peoples: https://www.beyondblue.org.au/mental-health/first-nations-peoples#more-support-from-first-nationsrun-organisations\n\n- Department of Health’s Better Access initiative: https://www.health.gov.au/initiatives-and-programs/better-access-initiative\n\n- NDIS website: https://www.ndis.gov.au/\n\n- Chat to a counsellor online: https://www.beyondblue.org.au/get-support/talk-to-a-counsellor/chat\n\n- Get free mental health support: https://www.beyondblue.org.au/get-support/talk-to-a-counsellor\n\n- Check your mental health: https://www.beyondblue.org.au/mental-health/tools-and-quizzes/k10\n\n- Subscribe to newsletter: https://beyondblue.tfaforms.net/140\n\n- Media: https://www.beyondblue.org.au/about/media\n\n- Careers: https://www.beyondblue.org.au/about/careers\n\n- Contact us: https://www.beyondblue.org.au/about/contact-us\n\n- Mental health at work: https://www.beyondblue.org.au/mental-health/work\n\n- Mental health in education: https://beyou.edu.au/\n\n- Mental health in the home: https://www.beyondblue.org.au/mental-health/parenting\n\n- Learn more about how we support First Nations people: https://www.beyondblue.org.au/about/first-nations-peoples\n\n- Discover how we support the LGBTIQ+ community: https://www.beyondblue.org.au/mental-health/LGBTIQ\n\n- https://www.beyondblue.org.au/about/funding: https://www.beyondblue.org.au/about/funding\n\n- Terms of use: https://www.beyondblue.org.au/general/terms-of-use\n\n- Privacy policy: https://www.beyondblue.org.au/general/privacy-policy\n\n- Charter of rights: https://www.beyondblue.org.au/general/consumer-charter-of-rights\n\n- Site map: https://www.beyondblue.org.au/general/site-map\n\n- https://www.facebook.com/beyondblue: https://www.facebook.com/beyondblue\n\n- https://www.instagram.com/beyondblueofficial: https://www.instagram.com/beyondblueofficial\n\n- https://www.linkedin.com/company/beyondblue: https://www.linkedin.com/company/beyondblue\n\n- https://twitter.com/beyondblue: https://twitter.com/beyondblue\n\n- https://www.youtube.com/beyondblueofficial: https://www.youtube.com/beyondblueofficial"
+}

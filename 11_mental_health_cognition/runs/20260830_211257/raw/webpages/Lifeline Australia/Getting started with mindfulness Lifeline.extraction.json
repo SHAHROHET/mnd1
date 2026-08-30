@@ -1,0 +1,355 @@
+{
+  "source_id": "lifeline-australia:get-help-support-toolkit-techniques-and-guides-getting-started-with-mindfulness",
+  "title": "Getting started with mindfulness | Lifeline",
+  "publisher": "Lifeline Australia",
+  "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 22962,
+  "crawl_depth": 2,
+  "seed_url": "https://www.lifeline.org.au/get-help/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness#main-content"
+    },
+    {
+      "text": "Call us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/131114"
+    },
+    {
+      "text": "Chat with us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/chat"
+    },
+    {
+      "text": "Text us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/text"
+    },
+    {
+      "text": "https://www.lifeline.org.au/",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "I’m thinking about suicide",
+      "url": "https://www.lifeline.org.au/get-help/im-thinking-about-suicide"
+    },
+    {
+      "text": "I want to talk to someone",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone"
+    },
+    {
+      "text": "I'm worried about someone",
+      "url": "https://www.lifeline.org.au/get-help/im-worried-about-someone"
+    },
+    {
+      "text": "I want to explore my options",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-explore-my-options"
+    },
+    {
+      "text": "Get help home",
+      "url": "https://www.lifeline.org.au/get-help"
+    },
+    {
+      "text": "Call us 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/131114"
+    },
+    {
+      "text": "Chat to us Support 24/7 ● Service online",
+      "url": "https://www.lifeline.org.au/chat"
+    },
+    {
+      "text": "Text us 0477 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/text"
+    },
+    {
+      "text": "Crisis support",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.lifeline.org.au/get-help/services/counselling"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/service-finder"
+    },
+    {
+      "text": "Workplace & community training",
+      "url": "https://www.lifeline.org.au/get-help/services/workplace-and-community-training"
+    },
+    {
+      "text": "Services home",
+      "url": "https://www.lifeline.org.au/get-help/services"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics"
+    },
+    {
+      "text": "Techniques & guides",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps"
+    },
+    {
+      "text": "Safety planning",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/safety-planning"
+    },
+    {
+      "text": "Community perspectives",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets"
+    },
+    {
+      "text": "Support Toolkit home",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit"
+    },
+    {
+      "text": "Sleep and mental health",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health"
+    },
+    {
+      "text": "Journaling your thoughts and feelings",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and"
+    },
+    {
+      "text": "How to do a digital detox",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox"
+    },
+    {
+      "text": "Helping friends and family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "About Cognitive Behavioural Therapy (CBT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums"
+    },
+    {
+      "text": "Real stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories"
+    },
+    {
+      "text": "Hear from others home",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others"
+    },
+    {
+      "text": "Listen to Joe's story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.lifeline.org.au/get-involved/donate"
+    },
+    {
+      "text": "Donate to Lifeline",
+      "url": "https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline"
+    },
+    {
+      "text": "Donate in memory",
+      "url": "https://inmemory.lifeline.org.au"
+    },
+    {
+      "text": "Leave a gift in your Will",
+      "url": "https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://www.lifeline.org.au/get-involved/fundraising"
+    },
+    {
+      "text": "Fundraise for Lifeline",
+      "url": "https://fundraise.lifeline.org.au/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.lifeline.org.au/get-involved/events"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer"
+    },
+    {
+      "text": "Become a crisis supporter",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter"
+    },
+    {
+      "text": "Community volunteering",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer-in-your-community"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://www.lifeline.org.au/get-involved/partner-with-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.lifeline.org.au/about-us"
+    },
+    {
+      "text": "Who we are",
+      "url": "https://www.lifeline.org.au/about-us/who-we-are"
+    },
+    {
+      "text": "Our strategy",
+      "url": "https://www.lifeline.org.au/about-us/our-strategy"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.lifeline.org.au/about-us/our-services"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.lifeline.org.au/about-us/our-impact"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.lifeline.org.au/about-us/our-structure"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.lifeline.org.au/about-us/governance"
+    },
+    {
+      "text": "Lived experience framework",
+      "url": "https://www.lifeline.org.au/about-us/lived-experience"
+    },
+    {
+      "text": "Our research",
+      "url": "https://www.lifeline.org.au/about/our-research"
+    },
+    {
+      "text": "Data & statistics",
+      "url": "https://www.lifeline.org.au/about/our-research/data-and-statistics"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.lifeline.org.au/about/our-research/research-and-reports"
+    },
+    {
+      "text": "Our partners",
+      "url": "https://www.lifeline.org.au/about/our-partners"
+    },
+    {
+      "text": "Government supporters",
+      "url": "https://www.lifeline.org.au/about/our-partners/government-supporters"
+    },
+    {
+      "text": "Corporate partners",
+      "url": "https://www.lifeline.org.au/about/our-partners/our-corporate-partners"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.lifeline.org.au/about/contact-us"
+    },
+    {
+      "text": "Lifeline locations",
+      "url": "https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you"
+    },
+    {
+      "text": "News & media",
+      "url": "https://www.lifeline.org.au/about/news-and-media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.lifeline.org.au/about/careers"
+    },
+    {
+      "text": "Shop merchandise",
+      "url": "https://lifelineaustralia.infoservices.com.au"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://fundraise.lifeline.org.au"
+    },
+    {
+      "text": "Urgent Crisis Support",
+      "url": "https://www.lifeline.org.au/urgent-crisis-support"
+    },
+    {
+      "text": "English",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness"
+    },
+    {
+      "text": "meditation",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation"
+    },
+    {
+      "text": "grounding technique",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.lifeline.org.au/topics/stress/what-is-stress"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/what-is-anxiety"
+    },
+    {
+      "text": "self-esteem",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.lifeline.org.au/topics/depression/what-is-depression"
+    },
+    {
+      "text": "Smiling Mind",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/find-another-service"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://www.lifeline.org.au/get-involved"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://www.lifeline.org.au/about/reconciliation-action-plan"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.lifeline.org.au/policies"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.lifeline.org.au/policies/privacy-policy"
+    },
+    {
+      "text": "Language",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support"
+    },
+    {
+      "text": "https://www.facebook.com/LifelineAustralia/",
+      "url": "https://www.facebook.com/LifelineAustralia/"
+    },
+    {
+      "text": "https://www.instagram.com/lifelineaustralia/",
+      "url": "https://www.instagram.com/lifelineaustralia/"
+    },
+    {
+      "text": "https://au.linkedin.com/company/lifeline-australia",
+      "url": "https://au.linkedin.com/company/lifeline-australia"
+    },
+    {
+      "text": "https://x.com/LifelineAust",
+      "url": "https://x.com/LifelineAust"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw",
+      "url": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+    }
+  ],
+  "text": "Getting started with mindfulness | Lifeline Skip to main content\n\nIf life is in danger, call Triple Zero (000)\n\nCall us ● Chat with us ● Text us ●\n\n- Get help\n\n- Help starts here\n\n- I’m thinking about suicide\n\n- I want to talk to someone\n\n- I'm worried about someone\n\n- I want to explore my options\n\n- Get help home\n\nCall us 13 11 14\n\n● Service online\n\nChat to us Support 24/7\n\nText us 0477 13 11 14\n\nServices\n\n- Crisis support\n\n- Counselling\n\n- Service Finder\n\n- Workplace & community training\n\n- Services home\n\nChat with us Support 24/7\n\nSupport Toolkit\n\n- Topics\n\n- Techniques & guides\n\n- Tools & apps\n\n- Safety planning\n\n- Community perspectives\n\n- Fact sheets\n\n- Support Toolkit home\n\nSleep and mental health\n\nJournaling your thoughts and feelings\n\nHow to do a digital detox\n\nHelping friends and family\n\nAbout Cognitive Behavioural Therapy (CBT)\n\nHear from others\n\n- Forums\n\n- Real stories\n\n- Hear from others home\n\nListen to Joe's story\n\n- Get involved\n\n- Donate\n\n- Donate to Lifeline\n\n- Donate in memory\n\n- Leave a gift in your Will\n\nFundraise\n\n- Fundraise for Lifeline\n\n- Events\n\nVolunteer\n\n- Become a crisis supporter\n\n- Community volunteering\n\nPartner with us\n\nBecome a Crisis Supporter Explore\n\n- About\n\n- About us\n\n- Who we are\n\n- Our strategy\n\n- Our services\n\n- Our impact\n\n- Our structure\n\n- Governance\n\n- Lived experience framework\n\nOur research\n\n- Data & statistics\n\n- Research & reports\n\nOur partners\n\n- Government supporters\n\n- Corporate partners\n\nContact us Lifeline locations News & media Careers Shop merchandise\n\nVolunteer Fundraise\n\nDonate\n\nSearch\n\nGet help\n\nContact us\n\nLifeline locations\n\nNews & media\n\nCareers\n\nShop merchandise\n\nDonate Volunteer\n\nUrgent Crisis Support\n\n## What can we help you find?\n\nClose\n\n# Get Help\n\nIf life is in danger, call 000.\n\nCall us\n\nChat with us\n\nText us\n\nExplore our services\n\nTranslation notice: Lifeline Crisis Support is delivered in English. This page was translated automatically and may not be fully accurate. Spot an issue? Let us know\n\nShare feedback about automatic translation accuracy.\n\nBreadcrumb\n\nBack to Techniques and guides\n\n- Home\n\n- Support Toolkit\n\n- Techniques and guides\n\n- Getting started with mindfulness\n\nTranslate\n\n- English\n\n- Mandarin 普通话\n\n- Cantonese (廣東話)\n\n- Arabic (عربى)\n\n- Vietnamese\n\n- Punjabi\n\n- Hindi\n\n- Greek\n\n- Italian\n\n- Spanish\n\n- Nepali\n\n# Getting started with mindfulness\n\nDe-mystify mindfulness and learn how you can use it to reduce distress, feel more calm, improve your sleep, and rediscover joy in the small things.\n\n8 minutes\n\nHelps with Distress Grounding\n\n## What is mindfulness?\n\nMindfulness is the practice of paying attention to the present moment with an attitude of curiosity, openness, and non-judgement. It involves being fully aware of what is happening within and around us, including our thoughts, feelings, bodily sensations, and the environment. It's the opposite of daydreaming or getting lost in thought.\n\nOne of the powers of mindfulness is that anyone can do it almost anywhere and at any time. You can be mindful while washing the dishes, walking your dog, sitting at your desk, sipping some tea, or just breathing.\n\n### How is mindfulness different from meditation and relaxation?\n\nYou may hear meditation , mindfulness, and relaxation used interchangeably. While they have similarities, they are different things.\n\n- Meditation is a broader practice that involves focusing our mind to quiet the constant stream of thoughts and distractions that arise in our everyday lives. Meditation can use many different methods to achieve this goal, including repeating a mantra, focusing on an object, or practising mindfulness.\n\n- Relaxation is about releasing tension and promoting calmness. Rather than focusing on the present moment, you might relax by listening to music, reading a book, or using a grounding technique .\n\n## The benefits of practising mindfulness\n\nMindfulness has been shown to have real benefits in a range of different aspects of life, including:\n\n- Reducing stress and anxiety\n\n- Improving concentration\n\n- Enhancing emotional wellbeing\n\n- Increasing your self-awareness\n\n- Improving sleep\n\n- Increasing resilience and boosting self-esteem\n\n- Lowering blood pressure and improving physical health.\n\nThe benefits of mindfulness come over time. While you’ll most likely feel calmer after each time you practice mindfulness, the real benefits only start to accumulate over time, and with practice, so try and stick with it!\n\n### Break negative thinking patterns\n\nSometimes our minds get stuck in a loop of negative thoughts, where we can go deeper and deeper into thoughts that just make us feel worse. This can look quite different for different people, but might include:\n\n- Catastrophising and imagining the worst possible situation without taking account of how likely it is or what other possibilities might exist.\n\n- Repeatedly criticising or judging ourselves for things we might have done or not done\n\n- Seeing things in absolutes - as either all good or all bad, with no shades of grey\n\n- Drawing broad conclusions about people or things based on a single negative event or experience\n\n- Focusing on the negatives and ignoring the positives about people or experiences.\n\nThese negative thoughts can turn into thinking patterns that we fall into more easily over time and can become all-consuming. These thinking patterns also usually make us feel physically worse; increasing our heart rate and blood pressure, causing us to tense up, and even creating digestive problems, sleep issues , and impairing our immune system.\n\nMindfulness is a powerful tool to tackle these negative thinking patterns.\n\nWhen we practise mindfulness, we deliberately interrupt our thoughts by first becoming aware of them and then gently bringing our attention back to the present moment.\n\n### Improve how you feel and make better choices\n\nLike anything, the more you practice mindfulness, the better you get at it.\n\nWhen you first start, it might take some time and effort to become aware of your own thoughts and emotions. However after practicing for a little while, you’ll start to notice that when negative feelings come up (even when you’re not being deliberately mindful), you’ll be able to notice them without being consumed by them.\n\nThat means you’ll have the power to make a choice. To choose whether those emotions are something you want to act on, or feelings that are better to observe, and then let go of.\n\n### Find more joy in life\n\nPhilosophers, theologians and now scientists have known for generations that we’re often happiest when we’re fully engaged in the world around us. Whether it’s playing with our friends, eating an ice cream, noticing a butterfly in the park, or putting on our favourite jumper, the world is full of little moments we often take for granted.\n\nMindfulness helps us get out of our heads and truly, deeply engage with the little things that happen throughout the day which are intrinsically rewarding. Stringing together more and more of the enjoyment we get from those little moments is one of the greatest benefits mindfulness can bring to our lives.\n\n\"It’s like I get to take off my ‘ depression glasses’ for a little while and see the beautiful colour that’s usually filtered out”\n\n### Get better sleep\n\nSleep is like an in-built therapist for our minds. It's hugely important for our mental health and mood, but is often one of the things that is most affected when we’re not doing so well.\n\nWho hasn’t had a night of tossing and turning, not being able to get comfortable, with a million thoughts running through our mind?\n\nMindfulness is an incredibly powerful tool to tackle sleepless nights.\n\nOn a physical level, it helps us relax, slow our breathing, and calm our nervous system.\n\nMore importantly, it helps us mentally prepare for sleep, by slowing our racing mind and allowing negative thoughts and feelings to arise, before letting them go and watching them pass.\n\nThere are range of mindfulness meditations specifically designed to help you get to sleep. Check out the Smiling Mind app or website for some of our favourites.\n\nTechniques & Guides\n\n### Sleep and mental health\n\nImproving your sleep can also improve your mental health. Learn about common sleep problems, tips for creating healthy sleep habits, and strategies for falling asleep.\n\n15 minutes read\n\nHelps with Sleep Anxiety\n\n'I felt depressed when looking back on my past and I felt anxious about my future, so I started practising being present.'\n\nLizzie\n\n## How do I get started?\n\nAlthough mindfulness is simple, that doesn’t mean it’s easy. Most of us have spent years or decades jumping constantly from one thought to the next, every waking moment of our lives. Slowing down and eventually stopping the thought express train takes time and practice, but is something that everyone can do.\n\nThe good news is that while it takes time to master and see the biggest benefits, practising mindfulness can help you feel better even from the first time.\n\n### Part 1\n\nIn part 1, choose the type of mindfulness you’d like to practice. You can practice mindfulness during almost any activity, from washing the dishes to going for a walk. If you’re just beginning, the more complicated the activity, the harder it is to remain ‘mindful’, so we’d recommend starting with something simple.\n\nHere are a few suggestions:\n\n### Breathing mindfulness\n\n- Take a seat in a comfortable position\n\n- Close your eyes, and place your hands comfortably in your lap, on the armrests, or on your legs\n\n- Deliberately let go of any tension in your body, starting around your eyes, and then downwards through your face, neck, arms, torso and legs\n\n- Bring your attention to your breath\n\n- Don’t control how you’re breathing, just try to be aware of it. If you’re breathing through your nose, can you notice whether the air is mostly flowing through your right or your left nostril?\n\n- Pick a sensation related to your breath - it might be the feeling of the air passing through your nostrils, the sensation on your top lip, or your chest/belly rising and falling\n\n- Try and keep your attention focused on that sensation.\n\nFeel free to follow along with our box-breathing video now:\n\n### Eating mindfulness\n\n- Pick a favourite food, or you could simply use whatever meal you were going to have anyway. Our favourite is ice cream.\n\n- Take a bite\n\n- Try and notice as many sensations as you can. What flavour does it taste like? What other flavours are in there too?\n\n- Take another bite\n\n- This time, try and notice what temperature it is. What texture is it? How does it feel in your mouth?\n\n- Take another spoon/fork/chopstick-full\n\n- How does the weight of the food feel in your hand? What colour is it? Are there any reflections or shadows? What can you smell?\n\n- As you keep eating, try and notice as many things as you can.\n\n### Showering mindfulness\n\n- Take a shower\n\n- As you step into the water, notice the sensation of the water on your skin. Try and notice the temperature, the wetness, the pressure.\n\n- As you shower, notice the movement of your hands, the sensation of the soap on your skin and the friction between your hands\n\n- Notice the steam from the water, the way the water flows into the drain, the sound of the splashing.\n\n### Part 2\n\nPart 2 is the ‘next step’ that applies to all forms of mindfulness, whether you’re practising mindful breathing, eating, showering, or anything else. Continue on from here, once you’ve finished the steps in each of the examples above.\n\nNow comes the hard part!\n\n- Pretty quickly, you’ll notice a thought has entered your head, that’s not related to whatever it is you’re doing. You might be wondering what’s on TV tonight, thinking ‘this is boring’, or ‘my right knee hurts’. By the time you notice yourself thinking, you might have already had a whole bunch of thoughts.\n\n- When you notice that you’re thinking, don’t get frustrated with yourself! Each time you NOTICE a thought, that’s like the ‘bicep-curl’ of mindfulness - you should feel good for noticing because that’s the hard part!\n\n- Once you’ve noticed you’re thinking, let go of the thought (whatever it is!) and gently return your attention to the activity and the sensations you were noticing before. Your breath, the food, the shower.\n\n- Keep your focus on that sensation, until you notice yourself thinking again. Then repeat steps 2 & 3.\n\n- Repeat until you’ve had enough.\n\n### The first few times you try mindfulness, you’ll hopefully notice a few effects:\n\n- You feel more calm and relaxed afterwards\n\n- You realise there’s a whole world of feelings and sensations in a really simple daily activity you normally don’t notice\n\n- You notice how easily your mind jumps straight into ‘thinking’ mode, without you even realising straight away\n\n- You notice how quickly your thoughts become totally different to what you’re doing, and jump from one to another\n\n### After you’ve been practicing mindfulness for a few times, you might notice:\n\n- You feel calmer and more relaxed more quickly as you start the activity\n\n- You start to notice new things in the activity you weren’t aware of before\n\n- You catch yourself thinking more quickly before the train of thought fully leaves the station\n\n- The amount of time you remain focused on the activity (without thinking) becomes longer and longer\n\n- You feel more calm, and more relaxed after the activity.\n\n### Once you start to become a bit of a mindfulness champ, and practice regularly, you’ll probably notice:\n\n- You can apply mindfulness to a whole range of other activities\n\n- You feel calm and relaxed almost as soon as you start\n\n- You start noticing things about daily life even when you’re not trying to be mindful\n\n- You catch your ‘thinking trains’ even when you’re not being mindful.\n\nThis is when you’ll start to realise the real power of mindfulness.\n\nMindfulness helps you catch negative thinking before it starts to affect how you feel and experience the little joys and wonder of everyday life that might have been invisible before.\n\nIf you’d like to go deeper in exploring mindfulness, or would like a helping hand, Smiling Mind offers a range of free videos and guides developed by psychologists and educators.\n\nTools & Apps\n\n### Smiling Mind\n\nSmiling Mind is a mindfulness and meditation app that helps kids, teens, and adults improve their wellbeing and achieve specific mental health goals like better sleep, reduced stress, stronger relationships, and more.\n\nHelps with Anxiety Depression\n\nOn this page\n\n#### Was this page helpful?\n\nYour feedback helps us improve our site for people like you.\n\nWe’d love to hear why! Tell us more\n\n## Help starts here\n\nSupport looks different for everyone. Use the drop down bar to find what feels right for you.\n\nHow can we help?\n\n- I'm thinking about suicide\n\nBack to top\n\nVisit Lifeline Australia\n\n- Training\n\n- Volunteer\n\n- Fundraise\n\n- About Lifeline\n\n- Find a Lifeline Centre\n\n- Contact us\n\nReconciliation Action Plan\n\nLived Experience Framework\n\nLifeline pays its respects to the traditional custodians across the lands on which we work, and acknowledge their elders past and present.\n\nLifeline pays deep respect to people who have personal experiences of crisis and suicide. They are the reason our organisation and services exist.\n\nLifeline is committed to providing a safe, culturally appropriate, and inclusive service for all people, regardless of their ethnicity, faith, disability, sexuality, or gender identity.\n\n- Policies\n\n- Terms of Use\n\n- Privacy\n\n- Accessibility\n\n- Language\n\nLifeline is a registered ACNC charity. ABN: 84 081 031 263. RTO Registration Code 88036. Copyright © 2025 Lifeline Australia. All rights reserved.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness#main-content\n\n- Call us ●: https://www.lifeline.org.au/get-help/services/131114\n\n- Chat with us ●: https://www.lifeline.org.au/get-help/services/chat\n\n- Text us ●: https://www.lifeline.org.au/get-help/services/text\n\n- https://www.lifeline.org.au/: https://www.lifeline.org.au/\n\n- I’m thinking about suicide: https://www.lifeline.org.au/get-help/im-thinking-about-suicide\n\n- I want to talk to someone: https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone\n\n- I'm worried about someone: https://www.lifeline.org.au/get-help/im-worried-about-someone\n\n- I want to explore my options: https://www.lifeline.org.au/get-help/i-want-to-explore-my-options\n\n- Get help home: https://www.lifeline.org.au/get-help\n\n- Call us 13 11 14 ● Service online: https://www.lifeline.org.au/131114\n\n- Chat to us Support 24/7 ● Service online: https://www.lifeline.org.au/chat\n\n- Text us 0477 13 11 14 ● Service online: https://www.lifeline.org.au/text\n\n- Crisis support: https://www.lifeline.org.au/get-help/services/crisis-support\n\n- Counselling: https://www.lifeline.org.au/get-help/services/counselling\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/service-finder\n\n- Workplace & community training: https://www.lifeline.org.au/get-help/services/workplace-and-community-training\n\n- Services home: https://www.lifeline.org.au/get-help/services\n\n- Topics: https://www.lifeline.org.au/get-help/support-toolkit/topics\n\n- Techniques & guides: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps\n\n- Safety planning: https://www.lifeline.org.au/get-help/support-toolkit/safety-planning\n\n- Community perspectives: https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives\n\n- Fact sheets: https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets\n\n- Support Toolkit home: https://www.lifeline.org.au/get-help/support-toolkit\n\n- Sleep and mental health: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health\n\n- Journaling your thoughts and feelings: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and\n\n- How to do a digital detox: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox\n\n- Helping friends and family: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health\n\n- About Cognitive Behavioural Therapy (CBT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt\n\n- Forums: https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums\n\n- Real stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories\n\n- Hear from others home: https://www.lifeline.org.au/get-help/hear-from-others\n\n- Listen to Joe's story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story\n\n- Donate: https://www.lifeline.org.au/get-involved/donate\n\n- Donate to Lifeline: https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline\n\n- Donate in memory: https://inmemory.lifeline.org.au\n\n- Leave a gift in your Will: https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will\n\n- Fundraise: https://www.lifeline.org.au/get-involved/fundraising\n\n- Fundraise for Lifeline: https://fundraise.lifeline.org.au/\n\n- Events: https://www.lifeline.org.au/get-involved/events\n\n- Volunteer: https://www.lifeline.org.au/get-involved/volunteer\n\n- Become a crisis supporter: https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter\n\n- Community volunteering: https://www.lifeline.org.au/get-involved/volunteer-in-your-community\n\n- Partner with us: https://www.lifeline.org.au/get-involved/partner-with-us\n\n- About us: https://www.lifeline.org.au/about-us\n\n- Who we are: https://www.lifeline.org.au/about-us/who-we-are\n\n- Our strategy: https://www.lifeline.org.au/about-us/our-strategy\n\n- Our services: https://www.lifeline.org.au/about-us/our-services\n\n- Our impact: https://www.lifeline.org.au/about-us/our-impact\n\n- Our structure: https://www.lifeline.org.au/about-us/our-structure\n\n- Governance: https://www.lifeline.org.au/about-us/governance\n\n- Lived experience framework: https://www.lifeline.org.au/about-us/lived-experience\n\n- Our research: https://www.lifeline.org.au/about/our-research\n\n- Data & statistics: https://www.lifeline.org.au/about/our-research/data-and-statistics\n\n- Research & reports: https://www.lifeline.org.au/about/our-research/research-and-reports\n\n- Our partners: https://www.lifeline.org.au/about/our-partners\n\n- Government supporters: https://www.lifeline.org.au/about/our-partners/government-supporters\n\n- Corporate partners: https://www.lifeline.org.au/about/our-partners/our-corporate-partners\n\n- Contact us: https://www.lifeline.org.au/about/contact-us\n\n- Lifeline locations: https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you\n\n- News & media: https://www.lifeline.org.au/about/news-and-media\n\n- Careers: https://www.lifeline.org.au/about/careers\n\n- Shop merchandise: https://lifelineaustralia.infoservices.com.au\n\n- Fundraise: https://fundraise.lifeline.org.au\n\n- Urgent Crisis Support: https://www.lifeline.org.au/urgent-crisis-support\n\n- English: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness\n\n- meditation: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation\n\n- grounding technique: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques\n\n- stress: https://www.lifeline.org.au/topics/stress/what-is-stress\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/what-is-anxiety\n\n- self-esteem: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health\n\n- depression: https://www.lifeline.org.au/topics/depression/what-is-depression\n\n- Smiling Mind: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/find-another-service\n\n- Get involved: https://www.lifeline.org.au/get-involved\n\n- Reconciliation Action Plan: https://www.lifeline.org.au/about/reconciliation-action-plan\n\n- Policies: https://www.lifeline.org.au/policies\n\n- Privacy: https://www.lifeline.org.au/policies/privacy-policy\n\n- Language: https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support\n\n- https://www.facebook.com/LifelineAustralia/: https://www.facebook.com/LifelineAustralia/\n\n- https://www.instagram.com/lifelineaustralia/: https://www.instagram.com/lifelineaustralia/\n\n- https://au.linkedin.com/company/lifeline-australia: https://au.linkedin.com/company/lifeline-australia\n\n- https://x.com/LifelineAust: https://x.com/LifelineAust\n\n- https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw: https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+}

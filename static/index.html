@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Australian MND/ALS Assistant - Powered by DeepSeek & Local RAG</title>
+    <meta name="description" content="AI-powered care assistant for Australians living with Motor Neurone Disease (MND/ALS). Get personalised equipment pathways, NDIS funding guidance, and state-specific support from 12,000+ verified medical knowledge sources.">
+    <meta name="keywords" content="MND, ALS, Motor Neurone Disease, NDIS, Australia, equipment, FlexEquip, SWEP, MASS, care plan, assistive technology">
+    <meta name="author" content="Australian MND Care AI Project">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Australian MND/ALS Support Assistant">
+    <meta property="og:description" content="AI care assistant for MND patients, carers, and clinical teams across Australia. Powered by 12,000+ verified knowledge sources.">
+    <meta property="og:type" content="website">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💙</text></svg>" type="image/svg+xml">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Marked Markdown Parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="theme-dark font-normal">
+
+    <div class="app-container">
+        
+        <!-- Sidebar Drawer -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="brand">
+                    <div class="brand-icon"><i class="fa-solid fa-heart-pulse"></i></div>
+                    <div class="brand-text">
+                        <h2>MND Assistant</h2>
+                        <span>Australia Knowledge Base</span>
+                    </div>
+                </div>
+                <button class="icon-btn close-sidebar-btn" id="closeSidebar"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+
+            <div class="sidebar-content">
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fa-solid fa-database"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-val" id="statChunks">12,152</span>
+                        <span class="stat-lbl">Processed Chunks</span>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fa-solid fa-layer-group"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-val" id="statEntities">183</span>
+                        <span class="stat-lbl">Structured Entities</span>
+                    </div>
+                </div>
+
+                <div class="stat-card">
+                    <div class="stat-icon"><i class="fa-solid fa-globe"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-val">892</span>
+                        <span class="stat-lbl">Verified Australian Sources</span>
+                    </div>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3><i class="fa-solid fa-map-location-dot"></i> State Equipment & Support</h3>
+                    <p class="sidebar-desc">Select your state to tailor equipment pathways (e.g., FlexEquip vs SWEP vs MASS) and local MND advisors.</p>
+                    
+                    <div class="state-select-wrapper">
+                        <label for="stateSelect">Active Region:</label>
+                        <select id="stateSelect" class="custom-select">
+                            <option value="National">National (Australia Wide)</option>
+                            <option value="NSW">NSW / ACT (FlexEquip)</option>
+                            <option value="VIC">Victoria (SWEP & MND Vic)</option>
+                            <option value="QLD">Queensland (MASS)</option>
+                            <option value="WA">Western Australia</option>
+                            <option value="SA">South Australia</option>
+                            <option value="TAS">Tasmania</option>
+                            <option value="NT">Northern Territory</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="sidebar-section">
+                    <h3><i class="fa-solid fa-shield-halved"></i> Quick Emergency Warning</h3>
+                    <div class="emergency-box-mini">
+                        <i class="fa-solid fa-triangle-exclamation"></i>
+                        <span>For acute respiratory distress, severe choking, or emergencies call <strong>000 (Triple Zero)</strong> immediately.</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="deepseek-badge">
+                    <i class="fa-solid fa-brain"></i> Powered by <strong>DeepSeek API</strong>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Chat Panel -->
+        <main class="chat-panel">
+            
+            <!-- Navbar Header -->
+            <header class="navbar">
+                <div class="nav-left">
+                    <button class="icon-btn sidebar-toggle" id="toggleSidebar"><i class="fa-solid fa-bars"></i></button>
+                    <div class="nav-title">
+                        <h1>Australian MND/ALS Support Assistant</h1>
+                        <span class="badge badge-pulse" id="apiStatusBadge">
+                            <i class="fa-solid fa-circle"></i> Local RAG Mode
+                        </span>
+                    </div>
+                </div>
+
+                <div class="nav-right">
+                    <button class="btn-secondary" id="newChatBtn" title="Start a new conversation">
+                        <i class="fa-solid fa-plus"></i> <span>New Chat</span>
+                    </button>
+                    <button class="btn-secondary" id="exportBtn" title="Export / Print Care Plan Summary">
+                        <i class="fa-solid fa-print"></i> <span>Export Plan</span>
+                    </button>
+                    <button class="btn-primary" id="fontToggleBtn" title="Toggle Accessibility Text Size">
+                        <i class="fa-solid fa-text-height"></i> <span id="fontLbl">Large Text</span>
+                    </button>
+                </div>
+            </header>
+
+            <!-- Chat Message Area -->
+            <div class="chat-messages" id="chatMessages">
+                
+                <!-- Welcome Banner Card -->
+                <div class="welcome-card">
+                    <div class="welcome-icon">
+                        <i class="fa-solid fa-hands-holding-child"></i>
+                    </div>
+                    <h2>Welcome to the Australian MND/ALS Assistant</h2>
+                    <p>Designed for people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia. Ask any question regarding symptom management, NDIS funding, equipment loan libraries, or advance care planning.</p>
+                    
+                    <div class="prompt-chips">
+                        <div class="chip" data-prompt="What equipment can I get through FlexEquip or SWEP for mobility and transfer?">
+                            <i class="fa-solid fa-wheelchair"></i> Mobility & Equipment Pathways
+                        </div>
+                        <div class="chip" data-prompt="How do I manage nocturnal breathing problems or non-invasive ventilation (NIV)?">
+                            <i class="fa-solid fa-lungs"></i> Nocturnal Breathing & NIV
+                        </div>
+                        <div class="chip" data-prompt="What NDIS funding support and Centrelink Carer Payments are available for MND?">
+                            <i class="fa-solid fa-hand-holding-dollar"></i> NDIS Funding & Carer Payment
+                        </div>
+                        <div class="chip" data-prompt="What is voice banking and how early should I start with speech pathology?">
+                            <i class="fa-solid fa-microphone-lines"></i> Voice Banking & Communication
+                        </div>
+                        <div class="chip" data-prompt="What are IDDSI texture levels for swallowing safety and nutrition in MND?">
+                            <i class="fa-solid fa-utensils"></i> Swallowing & IDDSI Nutrition
+                        </div>
+                        <div class="chip" data-prompt="What is involved in Advance Care Planning and Advance Care Directives?">
+                            <i class="fa-solid fa-file-signature"></i> Advance Care Planning
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Scroll to bottom floating button -->
+            <button id="scrollToBottomBtn" class="scroll-to-bottom-btn">
+                <i class="fa-solid fa-arrow-down"></i> Scroll to bottom
+            </button>
+
+            <!-- Chat Input Controls -->
+            <div class="input-container">
+                <form id="chatForm" class="chat-form">
+                    <div class="textarea-wrapper">
+                        <textarea id="userMessage" placeholder="Ask a question about MND care, equipment, NDIS, breathing, or carer support..." rows="1"></textarea>
+                        <button type="submit" id="sendBtn" class="send-btn" disabled>
+                            <i class="fa-solid fa-paper-plane"></i>
+                        </button>
+                    </div>
+                </form>
+                <div class="input-footer">
+                    <span><i class="fa-solid fa-circle-info"></i> Information provided from verified MND Australia, NDIS, Carer Gateway, and Healthdirect publications. Always consult your treating MND care team.</span>
+                </div>
+            </div>
+
+        </main>
+
+        <!-- Sidebar overlay for mobile close-on-click -->
+        <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

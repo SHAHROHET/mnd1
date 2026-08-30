@@ -1,0 +1,563 @@
+{
+  "source_id": "healthdirect-australia:bn-what-care-do-i-need",
+  "title": "আমার কী ধরনের স্বাস্থ্যসেবা প্রয়োজন? | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24794,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/bn/what-care-do-i-need"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "English",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need"
+    },
+    {
+      "text": "(Arabic) العربية",
+      "url": "https://www.healthdirect.gov.au/ar/what-care-do-i-need"
+    },
+    {
+      "text": "简体中文 (Simplified Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hans/what-care-do-i-need"
+    },
+    {
+      "text": "繁體中文 (Traditional Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hant/what-care-do-i-need"
+    },
+    {
+      "text": "Tiếng Việt (Vietnamese)",
+      "url": "https://www.healthdirect.gov.au/vi/what-care-do-i-need"
+    },
+    {
+      "text": "অস্ট্রেলিয়ায় কী কী ধরনের স্বাস্থ্যসেবা পাওয়া যায়?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#types"
+    },
+    {
+      "text": "কখন আমার সাধারণ চিকিৎসক (GP) এর সাথে দেখা করা উচিত?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#gp"
+    },
+    {
+      "text": "আমার ফার্মাসিস্ট কী কী স্বাস্থ্য সেবা প্রদান করতে পারেন?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#pharmacist"
+    },
+    {
+      "text": "সাধারণ কর্ম-ঘন্টার বাইরে আমি অসুস্থ বা আহত হলে আমি কোথায় যেতে পারি?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#after-hours"
+    },
+    {
+      "text": "আমি কখন একটি অ্যাম্বুলেন্স কল করবো?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#ambulance"
+    },
+    {
+      "text": "স্বাস্থ্য পরিষেবা ব্যবহার করার জন্য সাহায্য এবং সম্পদ",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#using"
+    },
+    {
+      "text": "আমি কিভাবে আমার কাছাকাছি স্বাস্থ্য ক্লিনিক খুঁজে পেতে পারি?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#near-me"
+    },
+    {
+      "text": "আমি কিভাবে একজন দোভাষী পেতে পারি?",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#interpreter"
+    },
+    {
+      "text": "অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need#searchGeneralResults"
+    },
+    {
+      "text": "সাধারণ কর্ম-ঘন্টার বাইরে জিপি ক্লিনিক বা পরিষেবা",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/after-hours-healthcare-options"
+    },
+    {
+      "text": "টেলিহেলথের",
+      "url": "https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment#options"
+    },
+    {
+      "text": "চিকিৎসক (GP)",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "এক্স-রে",
+      "url": "https://www.healthdirect.gov.au/x-rays"
+    },
+    {
+      "text": "ডাক্তারের অ্যাপয়েন্টমেন্টের সর্বোত্তম ব্যবহার",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-your-doctor"
+    },
+    {
+      "text": "ওভার-দ্য-কাউন্টার (প্রেস্ক্রিপ্সন ব্যতীত)- ওষুধ",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "টিকা",
+      "url": "https://www.healthdirect.gov.au/immunisation-and-vaccinations"
+    },
+    {
+      "text": "আপনার ফার্মাসিস্টের কাছ থেকে সবচেয়ে বেশি সুবিধা নেওয়া",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "healthdirect",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "আফটার-আওয়ার (কর্ম সময়ের পরে) হেল্থ সার্ভিসেস",
+      "url": "https://www.healthdirect.gov.au/after-hours-health-services"
+    },
+    {
+      "text": "মূত্রনালীর সংক্রমণ (UTIs)",
+      "url": "https://www.healthdirect.gov.au/urinary-tract-infection-uti"
+    },
+    {
+      "text": "যৌন সংক্রমণ (STIs)",
+      "url": "https://www.healthdirect.gov.au/sexually-transmitted-infections-sti"
+    },
+    {
+      "text": "পোকা-মাকড় এর কামড়",
+      "url": "https://www.healthdirect.gov.au/insect-bites-infographic"
+    },
+    {
+      "text": "ফুসকুড়ি",
+      "url": "https://www.healthdirect.gov.au/rashes"
+    },
+    {
+      "text": "চোখ",
+      "url": "https://www.healthdirect.gov.au/eye-infections"
+    },
+    {
+      "text": "কানের",
+      "url": "https://www.healthdirect.gov.au/ear-diseases-and-disorders"
+    },
+    {
+      "text": "পোড়া",
+      "url": "https://www.healthdirect.gov.au/burns-and-scalds"
+    },
+    {
+      "text": "জরুরি বিভাগ",
+      "url": "https://www.healthdirect.gov.au/hospital-emergency-departments"
+    },
+    {
+      "text": "বুকে ব্যথা",
+      "url": "https://www.healthdirect.gov.au/chest-pain"
+    },
+    {
+      "text": "ট্রিপল জিরো কলিং (000)",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "অন্যান্য উৎসের",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "healthdirect অ্যাপটি",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "অনেক সম্প্রদায়ের ভাষা সহ",
+      "url": "https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online"
+    },
+    {
+      "text": "ভাল স্বাস্থ্য তথ্য খোঁজার বিষয়ে আরও তথ্যাদি",
+      "url": "https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online#accordion-7594"
+    },
+    {
+      "text": "ট্রান্সলেটিং এন্ড ইন্টারপ্রেটিং সার্ভিস (TIS National)",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "অ্যাম্বুলেন্স ভিক্টোরিয়া (Ambulance Victoria)",
+      "url": "https://www.ambulance.vic.gov.au/community/education/calling-an-ambulance/"
+    },
+    {
+      "text": "আদিবাসী এবং টরেস স্ট্রেইট দ্বীপবাসীদের স্বাস্থ্য ও চিকিৎসা পরিষেবার তথ্য এবং একটি মানচিত্র",
+      "url": "https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/"
+    },
+    {
+      "text": "NACCHO",
+      "url": "https://www.naccho.org.au/acchos/"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "আমার কী ধরনের স্বাস্থ্যসেবা প্রয়োজন? | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# আমার কী ধরনের স্বাস্থ্যসেবা প্রয়োজন?\n\nSelect language: English , (Arabic) العربية , বাংলা (Bengali) , 简体中文 (Simplified Chinese) , 繁體中文 (Traditional Chinese) , Tiếng Việt (Vietnamese)\n\n## মূল তথ্যাদি\n\n- যদি আপনি গুরুতর অসুস্থ বা আহত হন : ট্রিপল জিরো (০০০) তে একটি অ্যাম্বুলেন্সের জন্য কল করুন বা আপনার নিকটস্থ হাসপাতালের জরুরি বিভাগে যান।\n\n- যদি আপনার সামান্য অসুস্থতা বা আঘাত থাকে : পরামর্শের জন্য হেলথডাইরেক্টে 1800 022 222 তে কল করুন, অথবা আপনার জিপি, স্থানীয় মেডিকেল সেন্টার বা ফার্মাসিস্টের কাছে যান।\n\n- আপনার যদি চলমান চিকিৎসার প্রয়োজন হয় : আপনার জিপি (সাধারণ চিকিৎসক বা পারিবারিক ডাক্তার) এর সাথে সাক্ষাৎ করুন।\n\n- যদি আপনার ব্যক্তিগত স্বাস্থ্য পরামর্শের প্রয়োজন হয় : আপনার জিপি বা ফার্মাসিস্টের কাছে যান, অথবা 1800 022 222 তে হেলথডাইরেক্টে কল করুন।\n\n- আপনার যদি সাধারণ স্বাস্থ্য তথ্যের প্রয়োজন হয় : হেলথডাইরেক্ট দ্বারা প্রস্তাবিত লিঙ্কগুলি ব্যবহার করে অনলাইনে অনুসন্ধান করুন।\n\n## এই পৃষ্ঠায়\n\n- অস্ট্রেলিয়ায় কী কী ধরনের স্বাস্থ্যসেবা পাওয়া যায়?\n\n- কখন আমার সাধারণ চিকিৎসক (GP) এর সাথে দেখা করা উচিত?\n\n- আমার ফার্মাসিস্ট কী কী স্বাস্থ্য সেবা প্রদান করতে পারেন?\n\n- সাধারণ কর্ম-ঘন্টার বাইরে আমি অসুস্থ বা আহত হলে আমি কোথায় যেতে পারি?\n\n- আমি কখন একটি অ্যাম্বুলেন্স কল করবো?\n\n- স্বাস্থ্য পরিষেবা ব্যবহার করার জন্য সাহায্য এবং সম্পদ\n\n- আমি কিভাবে আমার কাছাকাছি স্বাস্থ্য ক্লিনিক খুঁজে পেতে পারি?\n\n- আমি কিভাবে একজন দোভাষী পেতে পারি?\n\n- অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য\n\n## অস্ট্রেলিয়ায় কী কী ধরনের স্বাস্থ্যসেবা পাওয়া যায়?\n\nঅস্ট্রেলিয়ায় অনেক ধরনের স্বাস্থ্যসেবা এবং তথ্যাদি পাওয়া যায়। এই নিবন্ধটি সঠিক সময়ে সঠিক পরিষেবাটি কীভাবে খুঁজে পেতে হয় তা ব্যাখ্যা করে।\n\nপরিষেবার মধ্যে অন্তর্ভুক্ত আছে:\n\n- আপনার ডাক্তার (সাধারণ চিকিৎসক বা পারিবারিক ডাক্তার)\n\n- আপনার ফার্মাসিস্ট\n\n- সাধারণ কর্ম-ঘন্টার বাইরে জিপি ক্লিনিক বা পরিষেবা\n\n- মেডিকেয়ার আর্জেন্ট কেয়ার ক্লিনিক\n\n- আপনার স্থানীয় হাসপাতালের জরুরি বিভাগ\n\nকিছু স্বাস্থ্যসেবা প্রদানকারী টেলিহেলথের মাধ্যমে দূরবর্তীভাবে পরিষেবা প্রদান করতে পারে।\n\nআপনার যদি অবিলম্বে চিকিৎসা সহায়তার প্রয়োজন হয়, আপনি ট্রিপল জিরো (000) কল করতে পারেন এবং একটি অ্যাম্বুলেন্স পাঠানোর জন্য অনুরোধ করতে পারেন।\n\n## কখন আমার সাধারণ চিকিৎসক (GP) এর সাথে দেখা করা উচিত?\n\nআপনার যদি কোনও স্বাস্থ্য সমস্যা বা উদ্বেগ থাকে তবে প্রথমে একজন সাধারণ চিকিৎসক (GP) এর সাথে সাক্ষাৎ করা উত্তম। তারা আপনার স্বাস্থ্যসেবা সমন্বয় সাধন করবেন এবং প্রয়োজনে আপনাকে অন্য ডাক্তার বা স্বাস্থ্য পেশাদারদের কাছে পাঠাবেন। কিছু কিছু দেশে, একজন জিপিকে পারিবারিক ডাক্তার বলা হয়।\n\nআপনার জিপি/GP আপনাকে চেনেন, এবং প্রায়শই আপনার পরিবার এবং আপনার সম্প্রদায়কেও জানেন। তারা আপনার সারা জীবন আপনাকে চিকিৎসা সেবা দিতে পারেন। আপনার পছন্দের একজন জিপি খুঁজে পেতে সময় নিন যাতে তার সাথে সততার সাথে কথা বলতে পারেন।\n\nআপনি একটি অনুশীলনে একজন জিপি (সাধারণ চিকিৎসক) এর সাথে সাক্ষাৎ করতে পারেন। এটিকে কখনও কখনও ফ্যামিলি প্র্যাক্টিস বা মেডিকেল সেন্টার বলা হয়। কিছু জিপি-র (সাধারণ চিকিৎসক) তাদের অনুশীলনে এবং মেডিকেল সেন্টারে একই জায়গায় বিভিন্ন পরিষেবা বিদ্যমান — যেমন, জিপি (সাধারণ চিকিৎসক), এক্স-রে , ফার্মাসিস্ট এবং ছোটখাটো আঘাতের জন্য চিকিৎসা।\n\nজিপি (সাধারণ চিকিৎসক)-রা আপনাকে আপনার স্বাস্থ্য সম্পর্কে পরামর্শ দিতে পারে এবং আইনি ডকুমেন্ট প্রদান করতে পারে যেমন মেডিকেল সার্টিফিকেট, বা বীমা উদ্দেশ্যে মেডিকেল রিপোর্ট, উদাহরণস্বরূপ যদি আপনার দুর্ঘটনা ঘটে থাকে।\n\nএকজন জিপির ভূমিকা এবং আপনার ডাক্তারের অ্যাপয়েন্টমেন্টের সর্বোত্তম ব্যবহার সম্পর্কে আরও জানুন।\n\nএকটি স্বাস্থ্য পরিষেবা খুঁজুন — পরিষেবা সন্ধানকারী আপনাকে ডাক্তার, ফার্মেসি, হাসপাতাল এবং অন্যান্য স্বাস্থ্য পরিষেবা খুঁজে পেতে সাহায্য করতে পারে৷\n\n## আমার ফার্মাসিস্ট কী কী স্বাস্থ্য সেবা প্রদান করতে পারেন?\n\nফার্মাসিস্ট হলেন যোগ্য বিশেষজ্ঞ যারা ওষুধ এবং আপনার স্বাস্থ্যের বিষয়ে পরামর্শ এবং তথ্য প্রদান করেন। ছোটখাটো অসুস্থতা বা আঘাতের বিষয়ে পরামর্শের জন্য আপনার ফার্মাসিস্টকে জিজ্ঞাসা করুন।\n\nযদি আপনার ডাক্তার আপনাকে ওষুধের জন্য একটি প্রেসক্রিপশন (কখনও কখনও একটি স্ক্রিপ্ট বলা হয়) দেন, সেক্ষেত্রে আপনি তা একজন ফার্মাসিস্টের কাছ থেকে কিনতে পারেন। আপনার ফার্মাসিস্ট আপনাকে আপনার ওষুধ, যেকোনো পার্শ্বপ্রতিক্রিয়া এবং আপনার শারীরিক ও মানসিক স্বাস্থ্যের অন্যান্য অনেক দিক পরিচালনার বিষয়ে পরামর্শ দিতে পারেন।\n\nফার্মাসিস্টরা ওভার-দ্য-কাউন্টার (প্রেস্ক্রিপ্সন ব্যতীত)- ওষুধ বিক্রি করে, কিছু স্বাস্থ্য পরীক্ষা করে এবং কিছু কিছু টিকা দেয়।\n\nআপনার ফার্মাসিস্টের কাছ থেকে সবচেয়ে বেশি সুবিধা নেওয়া সম্পর্কে আরও জানুন।\n\n## সাধারণ কর্ম-ঘন্টার বাইরে আমি অসুস্থ বা আহত হলে আমি কোথায় যেতে পারি?\n\n### আফটার-আওয়ার (সাধারণ কর্ম-ঘন্টার পরবর্তী সময়) জিপি সেবা\n\nআপনার জিপি বা ফার্মাসিস্ট বন্ধ হয়ে যাওয়ার পরে আপনার যদি কাউকে দেখাতে হয় তাহলে আফটার-আওয়ার পরিষেবাগুলি যত্ন প্রদান করে। আপনার নিয়মিত জিপিকে আফটার-আওয়ার পরিষেবাগুলি অফার করে কিনা, এবং তারা বন্ধ হওয়ার পরে আপনি অসুস্থ হয়ে পড়লে আপনার কী করা উচিত জিজ্ঞাসা করুন।\n\nএছাড়াও আপনি একজন নিবন্ধিত নার্সের সাথে কথা বলার জন্য healthdirect (ভিক্টোরিয়াতে NURSE-ON-CALL নামে পরিচিত) এ 1800 022 222 নম্বরে কল করতে পারেন, দিনে 24 ঘন্টা, সপ্তাহের 7 দিন৷ তারা আপনার লক্ষণগুলি সম্পর্কে আপনার সাথে কথা বলবে এবং একজন জিপির কাছ থেকে আপনাকে একটি কল ব্যাক বা একটি ভিডিও কলের প্রস্তাব দিতে পারে।\n\nআফটার-আওয়ার (কর্ম সময়ের পরে) হেল্থ সার্ভিসেস সম্পর্কে আরও জানুন।\n\n### মেডিকেয়ার আর্জেন্ট কেয়ার ক্লিনিক\n\nঅস্ট্রেলিয়া জুড়ে, মেডিকেয়ার আর্জেন্ট কেয়ার ক্লিনিকগুলি (Medicare Urgent Care Clinics) অ্যাপয়েন্টমেন্ট ছাড়াই বাল্ক-বিল স্বাস্থ্যসেবা প্রদান করে। এটি এমন চিকিৎসা সমস্যার জন্য যা জরুরি কিন্তু জীবনের জন্য হুমকি নয়, যেমন:\n\n- ছোটখাটো অসুস্থতা এবং সংক্রমণ, যেমন মূত্রনালীর সংক্রমণ (UTIs) , এবং যৌন সংক্রমণ (STIs) , শ্বাসযন্ত্রের অসুস্থতা এবং গ্যাস্ট্রোএন্টেরাইটিস\n\n- ছোটখাটো আঘাত\n\n- পোকা-মাকড় এর কামড়\n\n- ফুসকুড়ি\n\n- ছোটখাটো চোখ এবং কানের সমস্যা\n\n- হালকা পোড়া\n\nমেডিকেয়ার আর্জেন্ট কেয়ার ক্লিনিক (Medicare Urgent Care Clinics) সম্পর্কে আরো জানুন\n\n### হাসপাতালের জরুরি বিভাগ\n\nঅস্ট্রেলিয়ার অনেক হাসপাতালে জরুরি বিভাগ রয়েছে। এগুলি দিনে 24 ঘন্টা, সপ্তাহের 7 দিন খোলা থাকে। তারা এমন ব্যক্তিদের জরুরী চিকিৎসা দেয় যাদের গুরুতর অসুস্থতা বা আঘাত আছে যেগুলোর দ্রুত চিকিৎসা করা প্রয়োজন বা জীবনের জন্য হুমকিদায়ক হতে পারে।\n\nআপনি গুরুতরভাবে আহত বা অসুস্থ হলে হাসপাতালের জরুরি বিভাগে যান। যদি আপনার কোনো ছোটখাটো অসুস্থতা বা আঘাত থাকে, তাহলে আপনার জিপিকে দেখানো বা কোনো মেডিক্যাল সেন্টার, জরুরি চিকিৎসা কেন্দ্র বা ফার্মাসিস্টের কাছে যাওয়া ভালো।\n\nজরুরী বিভাগ সবসময় যত তাড়াতাড়ি সম্ভব গুরুতর অসুস্থ বা আহত রোগীদের চিকিৎসা করবে। আপনার অবস্থা কম গুরুতর হলে, আপনাকে হয়তো অপেক্ষা করতে হতে পারে।\n\n### ভার্চুয়াল জরুরী বিভাগ\n\nকিছু রাজ্য ভিডিও পরামর্শের মাধ্যমে জরুরি স্বাস্থ্য পরিষেবা প্রদান করে (যা 'টেলিহেলথ' নামেও পরিচিত) জরুরী স্বাস্থ্য সমস্যার জন্য যা প্রাণঘাতী নয়। আপনি যে স্বাস্থ্যসেবা প্রদানকারীর সাথে কথা বলেন তারা যদি মনে করেন যে আপনাকে ব্যক্তিগতভাবে জরুরীভাবে মূল্যায়ন করা দরকার, সেক্ষেত্রে তারা আপনাকে আপনার স্থানীয় হাসপাতালের জরুরি বিভাগে যেতে বা অ্যাম্বুলেন্সের মাধ্যমে পরিবহনের ব্যবস্থা করতে নির্দেশ দেবে।\n\n## আমি কখন একটি অ্যাম্বুলেন্স কল করবো?\n\nযদি আপনার আঘাত গুরুতর এবং জরুরী হয়, সেক্ষেত্রে অ্যাম্বুলেন্স এর জন্য ট্রিপল জিরো (000) তে কল করুন। যদি আপনার বা অন্য কারো এসব থাকে তাহলে অ্যাম্বুলেন্সে কল করা উচিত:\n\n- বুকে ব্যথা , বুকে টান টান অনুভূতি (জমাট অনুভুতি) বা শ্বাস নিতে অসুবিধা\n\n- প্রবল ব্যথা\n\n- বেশী জায়গা জুড়ে পোড়া\n\n- গুরুতর দুর্ঘটনা বা ট্রমা (মানসিক আঘাত)\n\n- গুরুতর রক্তপাত\n\n- হঠাৎ দুর্বলতা, মুখ, বাহু বা পায়ের অসাড়তা বা পক্ষাঘাত\n\n- অজ্ঞান হয়ে পড়া\n\nট্রিপল জিরো কলিং (000) তে এ সম্পর্কে আরও জানুন।\n\n## স্বাস্থ্য পরিষেবা ব্যবহার করার জন্য সাহায্য এবং সম্পদ\n\n### আমি অনলাইনে নির্ভরযোগ্য স্বাস্থ্য তথ্য কোথায় পেতে পারি?\n\nআপনার যদি স্বাস্থ্য সমস্যা সম্পর্কে তথ্যের প্রয়োজন হয়, তবে আপনি অনলাইনে নির্ভরযোগ্য তথ্য পেতে পারেন। কীভাবে সঠিকভাবে অনুসন্ধান করতে হয় তা জানা গুরুত্বপূর্ণ, যাতে আপনি এমন তথ্য খুঁজে পান যা বিশ্বাসযোগ্য।\n\nনিশ্চিত করুন যে আপনি শুধুমাত্র সুপরিচিত সংস্থার তথ্য ব্যবহার করছেন, যেমন অস্ট্রেলিয়ান হাসপাতাল বা সরকারী বিভাগ। আপনি অনলাইনে পড়া তথ্য সম্পর্কে নিশ্চিত না হলে সর্বদা আপনার ডাক্তারের সাথে যোগাযোগ করুন।\n\nহেলথ্‌ডিরেক্ট হল একটি সরকারি মালিকানাধীন স্বাস্থ্য পরামর্শ এবং তথ্যের পরিষেবা। এটি নিরাপদ এবং প্রাসঙ্গিক অস্ট্রেলিয়ান স্বাস্থ্য তথ্য এবং অন্যান্য উৎসের লিঙ্ক প্রদান করে যেসব আপনি বিশ্বাস করতে পারেন।\n\nযে কোন সময় বিশ্বস্ত স্বাস্থ্য তথ্য পাওয়ার জন্য আপনি Google Play বা Apple App Store থেকে healthdirect অ্যাপটি ডাউনলোড করতে পারেন।\n\nঅস্ট্রেলিয়ান কমিশন অন সেফটি অ্যান্ড কোয়ালিটি ইন হেলথকেয়ার-এ অনেক সম্প্রদায়ের ভাষা সহ অনলাইনে ভাল স্বাস্থ্য তথ্য খোঁজার বিষয়ে আরও তথ্যাদি রয়েছে।\n\n### আমি কেন হেলথ্‌ডিরেক্ট হেল্পলাইনে কল করতে পারি?\n\nআপনার যদি আরও প্রশ্ন থাকে বা আপনার ব্যক্তিগত পরিস্থিতি সম্পর্কে জিজ্ঞাসা করতে চান, আপনি 1800 022 222 (ভিক্টোরিয়াতে নার্স-অন-কল নামে পরিচিত) এ হেলথডাইরেক্ট হেল্পলাইনে কল করতে পারেন। আপনি দিনে ২৪ ঘন্টা, সপ্তাহে ৭ দিন কল করতে পারেন।\n\nআপনি যখন হেলথডাইরেক্ট হেল্পলাইনে কল করবেন, তখন আপনি একজন নিবন্ধিত নার্সের সাথে কথা বলবেন যিনি আপনাকে কিছু প্রশ্ন জিজ্ঞাসা করবেন এবং আপনাকে পরবর্তী কী করতে হবে তার পরামর্শ দেবেন।\n\nহেল্পলাইনে কল করুন:\n\n- যদি আপনার সমস্যা জরুরী না হয়\n\n- আপনাকে কোন স্বাস্থ্য পেশাদারের সাথে দেখা করতে হবে সেই পরামর্শের জন্য\n\n- আফটার আওয়ার জিপি হেল্পলাইনের সাথে সংযুক্ত হতে\n\n- আপনার নিকটতম স্বাস্থ্য পরিষেবাগুলির সন্ধান করতে\n\n### আমি কখন হেলথ্‌ডিরেক্ট সিম্পটম চেকার ব্যবহার করতে পারি?\n\nহেলথডাইরেক্ট সিম্পটম চেকার হলো একটি অনলাইন টুল যা আপনাকে আপনার উপসর্গগুলি বুঝতে এবং পরবর্তীতে কী করতে হবে তা নির্ধারণ করতে সাহায্য করতে পারে।\n\nআপনার সমস্যাটি জরুরী না হলে বা আপনি নিশ্চিত না হলে আপনি এটি ব্যবহার করতে পারেন।\n\nআপনার লক্ষণগুলি পরীক্ষা করুন — লক্ষণ পরীক্ষক ব্যবহার করুন এবং আপনার চিকিৎসা সহায়তা নেওয়ার প্রয়োজন কিনা তা খুঁজে বের করুন৷\n\n## আমি কিভাবে আমার কাছাকাছি স্বাস্থ্য ক্লিনিক খুঁজে পেতে পারি?\n\nস্বাস্থ্য পরিষেবা খোঁজার জন্য, আপনি হেলথডাইরেক্ট-এর পরিষেবা সন্ধানকারী/সার্ভিস ফাইন্ডার ব্যবহার করতে পারেন৷\n\nএছাড়াও আপনি আপনার এলাকায় স্বাস্থ্য পরিষেবা খোঁজার বিষয়ে আপনার জিপি বা ফার্মাসিস্টের কাছে পরামর্শ চাইতে পারেন।\n\n## আমি কিভাবে একজন দোভাষী পেতে পারি?\n\nযদি ইংরেজি আপনার প্রথম ভাষা না হয়, তাহলে আপনি ট্রান্সলেটিং এন্ড ইন্টারপ্রেটিং সার্ভিস (TIS National) এর মাধ্যমে একজন অনুবাদক খুঁজে নিতে পারেন। আপনি অবিলম্বে ১৩১ ৪৫০ নম্বরে কল করে একজন দোভাষীর সাথে কথা বলতে পারেন। পরিষেবাটি বিনামূল্যে এবং দিনে ২৪ ঘন্টা, সপ্তাহে ৭ দিন উপলব্ধ। আপনি যখন আপনার জিপির সাথে, হাসপাতালে বা অন্য কোনো স্বাস্থ্য পরিষেবার সাথে থাকেন তখন আপনি TIS-কে কল করতে পারেন।\n\nযদি এটি একটি জরুরী হয়, সর্বদা প্রথমে ট্রিপল জিরো (০০০)-তে কল করুন। ০০০ অপারেটর TIS National-এ কল করবে এবং আপনাকে একজন দোভাষীর সাথে সংযুক্ত করিয়ে দিবে।\n\nআপনার ডাক্তার, ফার্মাসিস্ট বা হাসপাতালও আপনার জন্য একজন দোভাষীর ব্যবস্থা করতে পারেন।\n\n### আপনি কি ইংরেজি ছাড়া অন্য ভাষায় পড়তে পছন্দ করেন?\n\nহেলথ্‌ডিরেক্ট সাংস্কৃতিক এবং ভাষাগতভাবে বৈচিত্র্যময় লোকেদের অস্ট্রেলিয়ান স্বাস্থ্যসেবা ব্যবস্থা বুঝতে সহায়তা করার জন্য তথ্যাদি সরবরাহ করে।\n\nঅ্যাম্বুলেন্স ভিক্টোরিয়া (Ambulance Victoria) -এর অনেক সম্প্রদায়ের ভাষায় অনুবাদ সহ অ্যাম্বুলেন্স কল করার বিষয়ে আরও তথ্য রয়েছে।\n\n### আদিবাসী এবং/অথবা টরেস স্ট্রেইট দ্বীপবাসীদের জন্য তথ্য খুঁজছেন?\n\nঅস্ট্রেলিয়ান ইন্ডিজেনাস হেলথ ইনফোনেট(InfoNet) আদিবাসী এবং টরেস স্ট্রেইট দ্বীপবাসীদের স্বাস্থ্য ও চিকিৎসা পরিষেবার তথ্য এবং একটি মানচিত্র সরবরাহ করে\n\nNACCHO সামগ্রিক, ব্যাপক, এবং সাংস্কৃতিকভাবে উপযুক্ত স্বাস্থ্যসেবা প্রদানের জন্য স্থানীয় আদিবাসী সম্প্রদায়ের দ্বারা সূচিত এবং পরিচালিত স্বাস্থ্যসেবা পরিষেবাগুলির তথ্যাদি সরবরাহ করে।\n\nLast reviewed: June 2024\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/bn/what-care-do-i-need\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/bn/what-care-do-i-need\n\n- Please enter your name: https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/bn/what-care-do-i-need#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/bn/what-care-do-i-need#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- English: https://www.healthdirect.gov.au/what-care-do-i-need\n\n- (Arabic) العربية: https://www.healthdirect.gov.au/ar/what-care-do-i-need\n\n- 简体中文 (Simplified Chinese): https://www.healthdirect.gov.au/zh-hans/what-care-do-i-need\n\n- 繁體中文 (Traditional Chinese): https://www.healthdirect.gov.au/zh-hant/what-care-do-i-need\n\n- Tiếng Việt (Vietnamese): https://www.healthdirect.gov.au/vi/what-care-do-i-need\n\n- অস্ট্রেলিয়ায় কী কী ধরনের স্বাস্থ্যসেবা পাওয়া যায়?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#types\n\n- কখন আমার সাধারণ চিকিৎসক (GP) এর সাথে দেখা করা উচিত?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#gp\n\n- আমার ফার্মাসিস্ট কী কী স্বাস্থ্য সেবা প্রদান করতে পারেন?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#pharmacist\n\n- সাধারণ কর্ম-ঘন্টার বাইরে আমি অসুস্থ বা আহত হলে আমি কোথায় যেতে পারি?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#after-hours\n\n- আমি কখন একটি অ্যাম্বুলেন্স কল করবো?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#ambulance\n\n- স্বাস্থ্য পরিষেবা ব্যবহার করার জন্য সাহায্য এবং সম্পদ: https://www.healthdirect.gov.au/bn/what-care-do-i-need#using\n\n- আমি কিভাবে আমার কাছাকাছি স্বাস্থ্য ক্লিনিক খুঁজে পেতে পারি?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#near-me\n\n- আমি কিভাবে একজন দোভাষী পেতে পারি?: https://www.healthdirect.gov.au/bn/what-care-do-i-need#interpreter\n\n- অস্ট্রেলীয় ওয়েবসাইট সম্পর্কিত তথ্য: https://www.healthdirect.gov.au/bn/what-care-do-i-need#searchGeneralResults\n\n- সাধারণ কর্ম-ঘন্টার বাইরে জিপি ক্লিনিক বা পরিষেবা: https://www.betterhealth.vic.gov.au/health/servicesandsupport/after-hours-healthcare-options\n\n- টেলিহেলথের: https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment#options\n\n- চিকিৎসক (GP): https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- এক্স-রে: https://www.healthdirect.gov.au/x-rays\n\n- ডাক্তারের অ্যাপয়েন্টমেন্টের সর্বোত্তম ব্যবহার: https://www.healthdirect.gov.au/questions-to-ask-your-doctor\n\n- ওভার-দ্য-কাউন্টার (প্রেস্ক্রিপ্সন ব্যতীত)- ওষুধ: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- টিকা: https://www.healthdirect.gov.au/immunisation-and-vaccinations\n\n- আপনার ফার্মাসিস্টের কাছ থেকে সবচেয়ে বেশি সুবিধা নেওয়া: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- healthdirect: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- আফটার-আওয়ার (কর্ম সময়ের পরে) হেল্থ সার্ভিসেস: https://www.healthdirect.gov.au/after-hours-health-services\n\n- মূত্রনালীর সংক্রমণ (UTIs): https://www.healthdirect.gov.au/urinary-tract-infection-uti\n\n- যৌন সংক্রমণ (STIs): https://www.healthdirect.gov.au/sexually-transmitted-infections-sti\n\n- পোকা-মাকড় এর কামড়: https://www.healthdirect.gov.au/insect-bites-infographic\n\n- ফুসকুড়ি: https://www.healthdirect.gov.au/rashes\n\n- চোখ: https://www.healthdirect.gov.au/eye-infections\n\n- কানের: https://www.healthdirect.gov.au/ear-diseases-and-disorders\n\n- পোড়া: https://www.healthdirect.gov.au/burns-and-scalds\n\n- জরুরি বিভাগ: https://www.healthdirect.gov.au/hospital-emergency-departments\n\n- বুকে ব্যথা: https://www.healthdirect.gov.au/chest-pain\n\n- ট্রিপল জিরো কলিং (000): https://www.healthdirect.gov.au/calling-triple-zero\n\n- অন্যান্য উৎসের: https://www.healthdirect.gov.au/information-partners\n\n- healthdirect অ্যাপটি: https://www.healthdirect.gov.au/health-app\n\n- অনেক সম্প্রদায়ের ভাষা সহ: https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online\n\n- ভাল স্বাস্থ্য তথ্য খোঁজার বিষয়ে আরও তথ্যাদি: https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online#accordion-7594\n\n- ট্রান্সলেটিং এন্ড ইন্টারপ্রেটিং সার্ভিস (TIS National): https://www.tisnational.gov.au/\n\n- অ্যাম্বুলেন্স ভিক্টোরিয়া (Ambulance Victoria): https://www.ambulance.vic.gov.au/community/education/calling-an-ambulance/\n\n- আদিবাসী এবং টরেস স্ট্রেইট দ্বীপবাসীদের স্বাস্থ্য ও চিকিৎসা পরিষেবার তথ্য এবং একটি মানচিত্র: https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/\n\n- NACCHO: https://www.naccho.org.au/acchos/\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

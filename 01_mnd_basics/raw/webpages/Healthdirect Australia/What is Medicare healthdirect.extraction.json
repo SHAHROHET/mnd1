@@ -1,0 +1,631 @@
+{
+  "source_id": "healthdirect-australia:what-is-medicare",
+  "title": "What is Medicare? | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/what-is-medicare",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 29757,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "What is Medicare?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#what-is"
+    },
+    {
+      "text": "Who is eligible for Medicare?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#eligibility"
+    },
+    {
+      "text": "What does Medicare cover?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#cover"
+    },
+    {
+      "text": "How do I register for Medicare?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#register"
+    },
+    {
+      "text": "How do I access Medicare?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#access"
+    },
+    {
+      "text": "What is MyMedicare?",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#mymedicare"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#searchGeneralResults"
+    },
+    {
+      "text": "Reciprocal Health Care Agreement",
+      "url": "https://www.servicesaustralia.gov.au/reciprocal-health-care-agreements"
+    },
+    {
+      "text": "Medical Benefit Schedule",
+      "url": "http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home"
+    },
+    {
+      "text": "Medicare Safety Net",
+      "url": "https://www.healthdirect.gov.au/medicare-safety-net"
+    },
+    {
+      "text": "Medicare Safety Net",
+      "url": "https://www.servicesaustralia.gov.au/how-to-register-for-medicare-safety-nets?context=22001"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/individuals/subjects/how-enrol-and-get-started-medicare/enrolling-medicare#howtoenrol"
+    },
+    {
+      "text": "completing an enrolment form",
+      "url": "https://www.servicesaustralia.gov.au/ms004"
+    },
+    {
+      "text": "myGov account",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#online"
+    },
+    {
+      "text": "enrol",
+      "url": "https://www.servicesaustralia.gov.au/individuals/subjects/how-enrol-and-get-started-medicare/enrolling-medicare"
+    },
+    {
+      "text": "myGov",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Medicare online account",
+      "url": "https://www.servicesaustralia.gov.au/medicare-online-account"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.humanservices.gov.au/individuals/forms/3101"
+    },
+    {
+      "text": "bulk bills",
+      "url": "https://www.healthdirect.gov.au/bulk-billing-for-medical-services"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme (PBS)",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs"
+    },
+    {
+      "text": "GP",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "privacy notice",
+      "url": "https://www.health.gov.au/resources/publications/mymedicare-privacy-notice"
+    },
+    {
+      "text": "several languages",
+      "url": "https://www.health.gov.au/resources/videos/introducing-mymedicare"
+    },
+    {
+      "text": "Department of Health, Disability and Ageing's website",
+      "url": "https://www.health.gov.au/our-work/mymedicare"
+    },
+    {
+      "text": "Frequently Asked Questions factsheet",
+      "url": "https://www.health.gov.au/resources/publications/mymedicare-for-patients-frequently-asked-questions"
+    },
+    {
+      "text": "Information in your language",
+      "url": "https://www.servicesaustralia.gov.au/information-your-language?context=64107"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/medicare-services-for-indigenous-australians?context=60092"
+    },
+    {
+      "text": "Indigenous Access Program",
+      "url": "https://www.servicesaustralia.gov.au/indigenous-access-program"
+    },
+    {
+      "text": "(What's covered)",
+      "url": "https://www.servicesaustralia.gov.au/whats-covered-medicare?context=60092"
+    },
+    {
+      "text": "(Medicare Safety Nets)",
+      "url": "https://www.servicesaustralia.gov.au/medicare-safety-nets"
+    },
+    {
+      "text": "(How they work)",
+      "url": "https://www.servicesaustralia.gov.au/how-medicare-safety-nets-and-thresholds-work?context=22001"
+    },
+    {
+      "text": "(Introducing MyMedicare)",
+      "url": "https://www.health.gov.au/sites/default/files/2023-09/introducing-mymedicare-fact-sheet.pdf"
+    },
+    {
+      "text": "(Registering in MyMedicare)",
+      "url": "https://www.health.gov.au/sites/default/files/2023-09/registering-in-mymedicare-fact-sheet.pdf"
+    },
+    {
+      "text": "(What is the Medicare levy?)",
+      "url": "https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/what-is-the-medicare-levy"
+    },
+    {
+      "text": "(Information for MyMedicare patients)",
+      "url": "https://www.health.gov.au/our-work/mymedicare/patients"
+    },
+    {
+      "text": "(About Medicare)",
+      "url": "https://www.health.gov.au/topics/medicare/about"
+    },
+    {
+      "text": "(Medicare costs)",
+      "url": "https://www.health.gov.au/topics/medicare/about/costs"
+    },
+    {
+      "text": "(Your Medicare card)",
+      "url": "https://www.servicesaustralia.gov.au/your-medicare-card?context=60092"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare#backToTop"
+    },
+    {
+      "text": "Medicare Benefits Schedule",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicare Benefits Schedule"
+    },
+    {
+      "text": "General Practitioners",
+      "url": "https://www.healthdirect.gov.au/search-results/General Practitioners"
+    },
+    {
+      "text": "Bulk billing - Medicare - Services Australia You may be able to access health care at no cost. Learn what bulk billing is, and how to access it. Read more on Medicare website",
+      "url": "https://www.servicesaustralia.gov.au/bulk-billing?context=60092"
+    },
+    {
+      "text": "Sleep | Medicare Mental Health Getting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/living-well/sleep"
+    },
+    {
+      "text": "What is covered by Medicare? Describes what is and what is not covered by medicare for hospital, medical and pharmaceutical benefits. Read more on Commonwealth Ombudsman website",
+      "url": "https://www.privatehealth.gov.au/health_insurance/what_is_covered/medicare.htm"
+    },
+    {
+      "text": "Anxiety disorders | Medicare Mental Health Anxiety can have a large impact on your life. Finding out more about anxiety and things you can do to control it is a positive step towards recovery. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/anxiety-disorders"
+    },
+    {
+      "text": "Depressive disorders | Medicare Mental Health Depression can make you lose interest in the important things in life. Finding out more about it, and the actions you can take to manage it, is a positive step. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/depressive-disorders"
+    },
+    {
+      "text": "Personality disorders | Medicare Mental Health If your thoughts and actions seem rigid to the point where you have trouble functioning day to day, you may have a personality disorder. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/personality-disorders"
+    },
+    {
+      "text": "Navigating mental health services | Medicare Mental Health There are many different types of mental health services and support. It's helpful to know what's available to make an informed choice. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/navigating-mental-health-services"
+    },
+    {
+      "text": "Schizophrenia and psychotic disorders | Medicare Mental Health A psychotic disorder involves a disconnection from reality. People with severe forms of psychosis can live fulfilling lives, but may require different levels of support. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/schizophrenia-and-psychotic-disorders"
+    },
+    {
+      "text": "Types of health professionals | Medicare Mental Health You may come across many types of health professional during treatment. It's important to know how each one can help you and where to find them. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/types-health-professionals"
+    },
+    {
+      "text": "RACGP - Medicare Benefits Schedule item numbers When billing Medicare, it is vital to be familiar and aware of the criteria relating to a Medicare Benefits Schedule (MBS) item number being billed Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-b/medicare-benefits-schedule-item-numbers"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "What is Medicare? | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# What is Medicare?\n\n9-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Medicare is Australia's universal healthcare insurance scheme funded by Australian taxpayers.\n\n- To be eligible for Medicare, you need to meet certain criteria and enrol.\n\n- If you are eligible, you will receive a Medicare number and card that you can to access free or low-cost medical services.\n\n- Not all health services are covered by Medicare.\n\n- Registering with MyMedicare can give your doctor's practice more funding to provide you with better care.\n\n## On this page\n\n- What is Medicare?\n\n- Who is eligible for Medicare?\n\n- What does Medicare cover?\n\n- How do I register for Medicare?\n\n- How do I access Medicare?\n\n- What is MyMedicare?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is Medicare?\n\nMedicare is the insurance scheme that gives Australian citizens, permanent residents and other eligible people access to healthcare. This includes a wide range of health and hospital services at no cost or low cost.\n\nMedicare is funded by Australian taxpayers, who pay 2% of their taxable income to help cover healthcare costs. This 'Medicare levy' is automatically calculated when you submit your tax return.\n\nDepending on your financial circumstances, you may be eligible for a reduction or exemption from the Medicare levy.\n\n## Who is eligible for Medicare?\n\nYou are eligible for Medicare benefits if you:\n\n- are an Australian or New Zealand citizen\n\n- are an Australian permanent resident\n\n- have applied for permanent residency (some conditions apply)\n\n- are a temporary resident covered by a Ministerial Order\n\n- are a citizen or permanent resident of Norfolk Island, Cocos Islands, Christmas Island or Lord Howe Island\n\n- are covered by a Reciprocal Health Care Agreement with another country\n\n## What does Medicare cover?\n\nIf you have a Medicare card, you can get free or lower cost:\n\n- medical services by doctors, specialists and other health professionals\n\n- hospital treatment\n\n- prescription medicines, if they are covered by the Pharmaceutical Benefits Scheme (PBS)\n\n- mental health care\n\n- tests, scans and preventative screening programs\n\n### How do I know how much is covered?\n\nThe benefits (refunds) you receive from Medicare are based on a schedule of fees set by the Australian Government, known as the Medical Benefit Schedule (MBS). Your doctor can choose to charge more than the set schedule fee. If an out of hospital service is on the MBS, Medicare will pay:\n\n- the full schedule fee for general practitioner services\n\n- 85% of the schedule fee for a specialist\n\n- 75% of the schedule fee for in hospital services (but if you have private hospital insurance cover for the medical service, your insurer may pay the gap of 25% of the MBS fee.)\n\n### What is the Medicare Safety Net?\n\nIf you need to see a doctor or get tests regularly, you may spend a lot of money out-of-pocket on medical appointments or tests.\n\nIf you spend over a certain amount in a year, you may be eligible for the Medicare Safety Net . Once you have spent up to a certain amount, you will receive a higher Medicare benefit for certain services for the rest of the calendar year.\n\nYou can read more on how to register for the Medicare Safety Net on the Services Australia website.\n\n## How do I register for Medicare?\n\nYou can find registration information on how to enrol at Services Australia . You can register by completing an enrolment form through Services Australia or through your myGov account . Babies born in Australia are automatically enrolled in Medicare and are listed on their parents' card. If you are aged 15 years or older, you can apply for your own Medicare card.\n\n## How do I access Medicare?\n\nTo access Medicare, you need to enrol .\n\nIf you are eligible, you will get a Medicare number and card. If you're a parent or guardian, your Medicare card will show family members' names and individual reference numbers, under a single Medicare number.\n\nYou can also get a digital copy of your Medicare card, if you have a myGov account that is linked to your Medicare online account .\n\nYou can find registration information at the front of the Medicare enrolment form at Services Australia .\n\nUse your Medicare card when you:\n\n- make a Medicare claim for a paid or unpaid doctor's account\n\n- visit a doctor who bulk bills\n\n- receive treatment as a public patient in a public hospital\n\n- fill a Pharmaceutical Benefits Scheme (PBS) prescription at a pharmacy\n\n## What is MyMedicare?\n\nMyMedicare is a free voluntary patient registration system that allows people to register with their regular general practice, preferred GP and primary care team. This formalises the relationship between doctors and their patients and allows other health professionals to easily find details of your regular practice and preferred GP, enabling better care.\n\nMyMedicare will not hold clinical health information about you. You can read the privacy notice for more information on the storage of your data.\n\nWatch the video below to learn more about MyMedicare. It has also been translated in several languages .\n\nVideo provided by The Department of Health, Disability and Ageing.\n\n### How will registering for MyMedicare benefit me?\n\nOnce registered, your primary care team will receive extra government funding to help you get the care that you need, for services such as:\n\n- longer MBS-funded telephone calls (levels C and D) with your usual GP\n\n- incentive for longer MBS telehealth consultations (Levels C, D and E) for children under 16, pensioners and concession card holders\n\n- more regular visits from your GP and better care planning, if you live in a residential aged care home\n\n- from the 2024-25 financial year, connections to more appropriate care in general practice if you have been visiting hospital frequently\n\n### How do I register for MyMedicare?\n\nTo register for MyMedicare, you must have either:\n\n- a Medicare card, or\n\n- a Department of Veterans' Affairs (DVA) Veteran Card\n\nYou will need have 2 face-to-face visits recorded with the same practice in the previous 24 months to be eligible to register with that practice.\n\nYou can register:\n\n- via your Medicare Online Account\n\n- at your doctor's practice\n\nYour practice will need to accept your registration in the MyMedicare system. Both you and your practice need to consent to the registration.\n\nParents or guardians and children can be registered at the same practice if one of them is eligible and registered at the practice.\n\nPeople in remote locations, or people experiencing hardship such as family, violence or homelessness, may be exempt from eligibility criteria.\n\nFor more information, including how to register for MyMedicare, go to the Department of Health, Disability and Ageing's website .\n\n### Who can I register with for MyMedicare?\n\nMyMedicare users can register with their preferred GP at:\n\n- an accredited general practice\n\n- an Aboriginal Community Controlled Health Service\n\n- an Aboriginal Medical Service\n\n- a nurse practitioner-led practice with a GP\n\n- other non-traditional practices that meet the healthcare provider registration and eligibility criteria\n\nYour chosen practice must be registered with MyMedicare before you can register as a patient.\n\nYou can only be registered with one practice at a time.\n\nYou can change your chosen practice and/or GP through your MyMedicare if you meet the requirements.\n\nYou can choose to withdraw from MyMedicare at any time.\n\n## Resources and Support\n\n- A list of all Medicare services is available at the Services Australia website . For all Medicare general enquiries, phone 132 011 .\n\n- You can read more about MyMedicare in this Frequently Asked Questions factsheet .\n\n### Do you prefer to read in languages other than English?\n\n- For information in your language or help from an interpreter, visit the ' Information in your language ' page on the Services Australia website.\n\n### Looking for information for Aboriginal and/or Torres Islander people?\n\n- Find out how to get started with Medicare on the Services Australia website.\n\n- Read more about available health services and Medicare benefits as part of the Indigenous Access Program .\n\n- Call the Indigenous Access Line on 1800 556 955 for help with a Medicare services or payment.\n\n#### Source s :\n\nServices Australia (What's covered) , Services Australia (Medicare Safety Nets) , Services Australia (How they work) , Australian Government (Introducing MyMedicare) , Australian Government (Registering in MyMedicare) , Australian Taxation Office (What is the Medicare levy?) , Department of Health and Aged Care (Information for MyMedicare patients) , Department of Health and Aged Care (About Medicare) , Department of Health and Aged Care (Medicare costs) , Services Australia (Your Medicare card)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2024\n\nBack To Top\n\n## Related pages\n\n- Bulk billing for medical services\n\n- Medicare Safety Nets\n\n## Search our site for\n\n- Medicare Benefits Schedule\n\n- General Practitioners\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Bulk billing - Medicare - Services Australia\n\nYou may be able to access health care at no cost. Learn what bulk billing is, and how to access it.\n\nRead more on Medicare website\n\n### Sleep | Medicare Mental Health\n\nGetting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood.\n\nRead more on Medicare Mental Health website\n\n### What is covered by Medicare?\n\nDescribes what is and what is not covered by medicare for hospital, medical and pharmaceutical benefits.\n\nRead more on Commonwealth Ombudsman website\n\n### Medicare Safety Nets - Services Australia\n\nMedicare Safety Nets can help to lower your out of pocket medical costs for out of hospital services.\n\n### Anxiety disorders | Medicare Mental Health\n\nAnxiety can have a large impact on your life. Finding out more about anxiety and things you can do to control it is a positive step towards recovery.\n\n### Depressive disorders | Medicare Mental Health\n\nDepression can make you lose interest in the important things in life. Finding out more about it, and the actions you can take to manage it, is a positive step.\n\n### Personality disorders | Medicare Mental Health\n\nIf your thoughts and actions seem rigid to the point where you have trouble functioning day to day, you may have a personality disorder.\n\n### Navigating mental health services | Medicare Mental Health\n\nThere are many different types of mental health services and support. It's helpful to know what's available to make an informed choice.\n\n### Schizophrenia and psychotic disorders | Medicare Mental Health\n\nA psychotic disorder involves a disconnection from reality. People with severe forms of psychosis can live fulfilling lives, but may require different levels of support.\n\n### Types of health professionals | Medicare Mental Health\n\nYou may come across many types of health professional during treatment. It's important to know how each one can help you and where to find them.\n\nShow more\n\n### RACGP - Medicare Benefits Schedule item numbers\n\nWhen billing Medicare, it is vital to be familiar and aware of the criteria relating to a Medicare Benefits Schedule (MBS) item number being billed\n\nRead more on RACGP website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/what-is-medicare\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/what-is-medicare\n\n- Please enter your name: https://www.healthdirect.gov.au/what-is-medicare#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/what-is-medicare#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/what-is-medicare#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/what-is-medicare#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/what-is-medicare\n\n- What is Medicare?: https://www.healthdirect.gov.au/what-is-medicare#what-is\n\n- Who is eligible for Medicare?: https://www.healthdirect.gov.au/what-is-medicare#eligibility\n\n- What does Medicare cover?: https://www.healthdirect.gov.au/what-is-medicare#cover\n\n- How do I register for Medicare?: https://www.healthdirect.gov.au/what-is-medicare#register\n\n- How do I access Medicare?: https://www.healthdirect.gov.au/what-is-medicare#access\n\n- What is MyMedicare?: https://www.healthdirect.gov.au/what-is-medicare#mymedicare\n\n- Resources and support: https://www.healthdirect.gov.au/what-is-medicare#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/what-is-medicare#searchGeneralResults\n\n- Reciprocal Health Care Agreement: https://www.servicesaustralia.gov.au/reciprocal-health-care-agreements\n\n- Medical Benefit Schedule: http://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home\n\n- Medicare Safety Net: https://www.healthdirect.gov.au/medicare-safety-net\n\n- Medicare Safety Net: https://www.servicesaustralia.gov.au/how-to-register-for-medicare-safety-nets?context=22001\n\n- Services Australia: https://www.servicesaustralia.gov.au/individuals/subjects/how-enrol-and-get-started-medicare/enrolling-medicare#howtoenrol\n\n- completing an enrolment form: https://www.servicesaustralia.gov.au/ms004\n\n- myGov account: https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#online\n\n- enrol: https://www.servicesaustralia.gov.au/individuals/subjects/how-enrol-and-get-started-medicare/enrolling-medicare\n\n- myGov: https://my.gov.au/\n\n- Medicare online account: https://www.servicesaustralia.gov.au/medicare-online-account\n\n- Services Australia: https://www.humanservices.gov.au/individuals/forms/3101\n\n- bulk bills: https://www.healthdirect.gov.au/bulk-billing-for-medical-services\n\n- Pharmaceutical Benefits Scheme (PBS): https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs\n\n- GP: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- privacy notice: https://www.health.gov.au/resources/publications/mymedicare-privacy-notice\n\n- several languages: https://www.health.gov.au/resources/videos/introducing-mymedicare\n\n- Department of Health, Disability and Ageing's website: https://www.health.gov.au/our-work/mymedicare\n\n- Frequently Asked Questions factsheet: https://www.health.gov.au/resources/publications/mymedicare-for-patients-frequently-asked-questions\n\n- Information in your language: https://www.servicesaustralia.gov.au/information-your-language?context=64107\n\n- Services Australia: https://www.servicesaustralia.gov.au/medicare-services-for-indigenous-australians?context=60092\n\n- Indigenous Access Program: https://www.servicesaustralia.gov.au/indigenous-access-program\n\n- (What's covered): https://www.servicesaustralia.gov.au/whats-covered-medicare?context=60092\n\n- (Medicare Safety Nets): https://www.servicesaustralia.gov.au/medicare-safety-nets\n\n- (How they work): https://www.servicesaustralia.gov.au/how-medicare-safety-nets-and-thresholds-work?context=22001\n\n- (Introducing MyMedicare): https://www.health.gov.au/sites/default/files/2023-09/introducing-mymedicare-fact-sheet.pdf\n\n- (Registering in MyMedicare): https://www.health.gov.au/sites/default/files/2023-09/registering-in-mymedicare-fact-sheet.pdf\n\n- (What is the Medicare levy?): https://www.ato.gov.au/individuals-and-families/medicare-and-private-health-insurance/medicare-levy/what-is-the-medicare-levy\n\n- (Information for MyMedicare patients): https://www.health.gov.au/our-work/mymedicare/patients\n\n- (About Medicare): https://www.health.gov.au/topics/medicare/about\n\n- (Medicare costs): https://www.health.gov.au/topics/medicare/about/costs\n\n- (Your Medicare card): https://www.servicesaustralia.gov.au/your-medicare-card?context=60092\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/what-is-medicare#backToTop\n\n- Medicare Benefits Schedule: https://www.healthdirect.gov.au/search-results/Medicare Benefits Schedule\n\n- General Practitioners: https://www.healthdirect.gov.au/search-results/General Practitioners\n\n- Bulk billing - Medicare - Services Australia You may be able to access health care at no cost. Learn what bulk billing is, and how to access it. Read more on Medicare website: https://www.servicesaustralia.gov.au/bulk-billing?context=60092\n\n- Sleep | Medicare Mental Health Getting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/living-well/sleep\n\n- What is covered by Medicare? Describes what is and what is not covered by medicare for hospital, medical and pharmaceutical benefits. Read more on Commonwealth Ombudsman website: https://www.privatehealth.gov.au/health_insurance/what_is_covered/medicare.htm\n\n- Anxiety disorders | Medicare Mental Health Anxiety can have a large impact on your life. Finding out more about anxiety and things you can do to control it is a positive step towards recovery. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/anxiety-disorders\n\n- Depressive disorders | Medicare Mental Health Depression can make you lose interest in the important things in life. Finding out more about it, and the actions you can take to manage it, is a positive step. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/depressive-disorders\n\n- Personality disorders | Medicare Mental Health If your thoughts and actions seem rigid to the point where you have trouble functioning day to day, you may have a personality disorder. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/personality-disorders\n\n- Navigating mental health services | Medicare Mental Health There are many different types of mental health services and support. It's helpful to know what's available to make an informed choice. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/navigating-mental-health-services\n\n- Schizophrenia and psychotic disorders | Medicare Mental Health A psychotic disorder involves a disconnection from reality. People with severe forms of psychosis can live fulfilling lives, but may require different levels of support. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/schizophrenia-and-psychotic-disorders\n\n- Types of health professionals | Medicare Mental Health You may come across many types of health professional during treatment. It's important to know how each one can help you and where to find them. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/types-health-professionals\n\n- RACGP - Medicare Benefits Schedule item numbers When billing Medicare, it is vital to be familiar and aware of the criteria relating to a Medicare Benefits Schedule (MBS) item number being billed Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-b/medicare-benefits-schedule-item-numbers\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

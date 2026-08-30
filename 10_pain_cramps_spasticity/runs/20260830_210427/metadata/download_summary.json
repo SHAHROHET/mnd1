@@ -1,0 +1,23 @@
+{
+  "topic_id": "10_pain_cramps_spasticity",
+  "topic_title": "Pain, Cramps And Spasticity",
+  "retrieved_at": "2026-08-30",
+  "sources_downloaded": 23,
+  "pain_records_written": 6,
+  "chunks_written": 368,
+  "failures": [],
+  "skipped_pdf_links": [
+    "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf",
+    "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf",
+    "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU",
+    "https://www.mndassociation.org/app/uploads/2021/07/Personal-Care-with-MND.pdf",
+    "https://www.mndassociation.org/sites/default/files/2023-08/P12%20Information%20for%20dental%20teams.pdf",
+    "https://www.sahealth.sa.gov.au/wps/wcm/connect/07edec8049e4dbbfb409fe3a89b74631/ManagingSciatica-RAH-AlliedHealth-20220301.pdf",
+    "https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/624721/Pacing-guide.pdf",
+    "https://www.naccho.org.au/wp-content/uploads/2024/10/NPSMW2497_GMBH_CMI_NSAIDs_v3.pdf"
+  ],
+  "crawl_mode": "same-site pain, cramps and spasticity crawl",
+  "max_pages_per_publisher": 45,
+  "max_crawl_depth": 2,
+  "output_root": "C:\\Users\\User1\\Downloads\\MND DATA\\10_pain_cramps_spasticity\\runs\\20260830_210427"
+}

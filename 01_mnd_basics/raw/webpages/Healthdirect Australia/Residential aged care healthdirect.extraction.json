@@ -1,0 +1,627 @@
+{
+  "source_id": "healthdirect-australia:residential-aged-care",
+  "title": "Residential aged care | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/residential-aged-care",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 33058,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "What is a residential aged care home?",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#what-is"
+    },
+    {
+      "text": "Why might I need residential care?",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#why"
+    },
+    {
+      "text": "Can I use residential care even though I'm younger than 65 years?",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#younger"
+    },
+    {
+      "text": "How can I access residential aged care?",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#access"
+    },
+    {
+      "text": "How much will it cost?",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#cost"
+    },
+    {
+      "text": "Caring for someone else",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#someone-else"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#searchGeneralResults"
+    },
+    {
+      "text": "disability",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis"
+    },
+    {
+      "text": "end-of-life",
+      "url": "https://www.healthdirect.gov.au/palliative-care"
+    },
+    {
+      "text": "Am I eligible",
+      "url": "https://www.ndis.gov.au/applying-access-ndis/am-i-eligible"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/means-assessments-residential-aged-care"
+    },
+    {
+      "text": "fee estimator",
+      "url": "https://www.myagedcare.gov.au/how-do-aged-care-costs-work"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/how-to-contact-my-aged-care"
+    },
+    {
+      "text": "incontinence",
+      "url": "https://www.healthdirect.gov.au/incontinence"
+    },
+    {
+      "text": "memory",
+      "url": "https://www.healthdirect.gov.au/memory-disorders"
+    },
+    {
+      "text": "caring for someone in an aged care home",
+      "url": "https://www.myagedcare.gov.au/caring-someone-aged-care-home"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "information in other languages",
+      "url": "https://www.myagedcare.gov.au/accessible-all#your-language"
+    },
+    {
+      "text": "Translating and Interpreting Service (TIS National)",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "support for Aboriginal and/or Torres Strait Islander people",
+      "url": "https://www.myagedcare.gov.au/support-aboriginal-and-torres-strait-islander-people"
+    },
+    {
+      "text": "Silver Rainbow",
+      "url": "https://www.lgbtiqhealth.org.au/silver_rainbow"
+    },
+    {
+      "text": "support for lesbian, gay, bisexual, transgender and intersex people",
+      "url": "https://www.myagedcare.gov.au/support-lesbian-gay-bisexual-transgender-and-intersex-people"
+    },
+    {
+      "text": "(About residential aged care)",
+      "url": "https://www.health.gov.au/our-work/residential-aged-care/about-residential-aged-care"
+    },
+    {
+      "text": "(Aged care homes)",
+      "url": "https://www.myagedcare.gov.au/aged-care-homes"
+    },
+    {
+      "text": "(Apply for an assessment)",
+      "url": "https://www.myagedcare.gov.au/assessment"
+    },
+    {
+      "text": "(My Aged Care assessment services)",
+      "url": "https://www.health.vic.gov.au/ageing-and-aged-care/my-aged-care-assessment-services"
+    },
+    {
+      "text": "(How much will I pay?)",
+      "url": "https://www.myagedcare.gov.au/how-much-will-i-pay"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care#backToTop"
+    },
+    {
+      "text": "Aged care facilities",
+      "url": "https://www.healthdirect.gov.au/search-results/Aged care facilities"
+    },
+    {
+      "text": "Respite Care",
+      "url": "https://www.healthdirect.gov.au/search-results/Respite Care"
+    },
+    {
+      "text": "Aged Care Services",
+      "url": "https://www.healthdirect.gov.au/search-results/Aged Care Services"
+    },
+    {
+      "text": "Disability support services",
+      "url": "https://www.healthdirect.gov.au/search-results/Disability support services"
+    },
+    {
+      "text": "Aged Care Hub | Carers NSW A central access point for information and resources to support carers of older Australians. Read more on Carers NSW website",
+      "url": "https://www.carersnsw.org.au/services-and-support/information-hubs/aged-care-hub"
+    },
+    {
+      "text": "Ageing and aged care | Tasmanian Department of Health Find information about ageing and aged care services in Tasmania. Read more on Tasmanian Department of Health and Human Services website",
+      "url": "https://www.health.tas.gov.au/health-topics/ageing-and-aged-care"
+    },
+    {
+      "text": "Aged care | Australian Government Department of Health, Disability and Ageing Aged care provides support for older people to help with everyday living and other needs. We fund aged care services, help people to access them, and work with providers to deliver aged care programs. Read more on Department of Health, Disability and Ageing website",
+      "url": "https://www.health.gov.au/topics/aged-care"
+    },
+    {
+      "text": "Care at home and aged care services | Department of Veterans' Affairs We can help you stay at home, return home after a hospital stay, or move into residential aged care Read more on Department of Veterans' Affairs website",
+      "url": "https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services"
+    },
+    {
+      "text": "Aged care laws in Australia | Australian Government Department of Health, Disability and Ageing The Aged Care Act 2024 is the main law that covers Australian Government-funded aged care. It sets out how the aged care system in Australia operates. Laws on diversity and discrimination also apply to aged care. Read more on Department of Health, Disability and Ageing website",
+      "url": "https://www.health.gov.au/topics/aged-care/about-aged-care/aged-care-laws-in-australia"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander aged care | Australian Government Department of Health, Disability and Ageing We are reforming aged care in response to the Aged Care Royal Commission. This will put the rights and needs of older people first, and ensure Aboriginal and Torres Strait Islander people have access to culturally safe, appropriate and accessible care. Read more on Department of Health, Disability and Ageing website",
+      "url": "https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/aged-care"
+    },
+    {
+      "text": "National Palliative Care Standards for All Health Professionals and Aged Care Services - Palliative Care Australia Promoting quality palliative care since 1991 Read more on Palliative Care Australia website",
+      "url": "https://palliativecare.org.au/publication/national-palliative-care-standards-for-all-health-professionals-and-aged-care-services/"
+    },
+    {
+      "text": "Aged Care Services - Carers NT Read more on Carers NT website",
+      "url": "https://www.carersnt.asn.au/services/aged-care-services/"
+    },
+    {
+      "text": "Aged Care Comprehensive background information on Australian aged care. Includes types of services, home care packages, policies & the new aged care quality standards. Read more on palliAGED website",
+      "url": "https://www.palliaged.com.au/Australian-Context/Aged-Care/"
+    },
+    {
+      "text": "RACGP - My Aged Care Health professionals such as GPs play a key role in supporting access to aged care services. Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/my-aged-care"
+    },
+    {
+      "text": "Preventing Falls in Aged Care A fall is ‘an event that results in a person coming to rest inadvertently on the ground or floor or other lower level’. Older people are 12 times more likely to fall than have a motor vehicle or pedestrian accident. Falls are the biggest cause of unintentional injury in older people over 65, with this age group accounting for 60% of fall hospitalisations in Australia. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/preventing-falls"
+    },
+    {
+      "text": "LGBTIQ+ Awareness in Aged Care Older Australians who identify within the LGBTIQ+ community have witnessed significant social and cultural transformation over the span of their lives. Australia’s progress on LGBTIQ+ rights has been slow and painful for the community. It is, therefore, safe to assume that LGBTIQ+ older adults who are ‘out’ will have experienced first-hand stigma, discrimination, criminalisation, rejection and isolation. So, how can we support older LGBTIQ+ Australians in the aged care system? Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/lgbtqi-awareness-in-aged-care"
+    },
+    {
+      "text": "Meal Planning in Aged Care It is well known that food consumption and nutrition are closely linked to our overall quality of life. Studies have shown when residents have the agency to choose from a menu, levels of food service satisfaction rise by up to 30%. This article will provide broad nutritional advice for older people and outline methods of effective meal planning in aged care facilities. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/meal-planning-in-aged-care"
+    },
+    {
+      "text": "Meal Service in Aged Care Attentive meal service combined with healthy and flavoursome food can be a high point in the day for aged care residents. Dining in aged care is a topic worthy of consideration, as about half of all aged care residents in Australia are either malnourished or at risk of malnutrition. This article will provide tips for providing high-quality meal service in aged care facilities. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/meal-service-in-aged-care"
+    },
+    {
+      "text": "Workforce Planning in Aged Care Appropriate workforce planning is crucial in providing safe, high-quality care. Aged care organisations are expected to have enough staff members with an appropriate range of skills to meet the needs of all older people in their care. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/workforce-planning-aged-care"
+    },
+    {
+      "text": "Providing Mealtime Support: Aged Care Requiring assistance to eat daily meals puts residents in a vulnerable position. A great deal of tact and constant communication are needed from the healthcare staff providing this care. There are steps you can take to make a resident’s mealtime as dignified and as seamless as possible. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/meal-assistance-in-aged-care"
+    },
+    {
+      "text": "Ongoing Assessment in Aged Care Older people receiving aged care services typically do so for a length of time in which their health status may change or deteriorate. In order for aged care providers to adjust to these changes and ensure older people are receiving an appropriate level of care, regular re-assessment of their condition, needs and goals is essential. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/ongoing-assessment"
+    },
+    {
+      "text": "Gastroenteritis Outbreaks in Aged Care Infectious disease outbreaks in aged care, such as gastroenteritis, often cause significant illness and distress and lead to adverse impacts on staff, resources and residents’ activities. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/gastroenteritis-outbreak-management-in-aged-care"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Residential aged care | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Residential aged care\n\n6-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- A residential aged care home is for older people who can no longer live at home and need ongoing help with everyday tasks or health care.\n\n- Some aged care homes provide basic accommodation, while others offer continuous nursing care and healthcare services.\n\n- Aged care homes are for people aged 65 years and over, for Aboriginal and/or Torres Strait Islander people aged 50 and over, and for some eligible younger people through the National Disability Insurance Scheme (NDIS).\n\n- Consider a residential aged care home if you can't safely care for yourself at home.\n\n- Costs depend on the place you choose and an assessment of your income and assets.\n\n## On this page\n\n- What is a residential aged care home?\n\n- Why might I need residential care?\n\n- Can I use residential care even though I'm younger than 65 years?\n\n- How can I access residential aged care?\n\n- How much will it cost?\n\n- Caring for someone else\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is a residential aged care home?\n\nA residential aged care home is for older people who can no longer live at home and need ongoing help with everyday tasks or health care.\n\nResidential aged care homes are also called:\n\n- residential aged care facilities (RACFs)\n\n- nursing homes\n\n- aged care homes\n\nA residential aged care home can give you the services you need to have a good quality of life.\n\nThe government funds aged care homes across Australia. These homes supply services to people who need it and are eligible.\n\nEach aged care home is different. They may provide different levels of care. Some provide basic accommodation; while others also provide continuous nursing care and healthcare services.\n\nIt's important to choose the right one for you.\n\n## Why might I need residential care?\n\nYou might consider a residential aged care home because you:\n\n- are not able to get out of the house easily\n\n- need help due to an illness or disability\n\n- are no longer able to care for yourself safely at home\n\n- need palliative ( end-of-life ) care\n\n## Can I use residential care even though I'm younger than 65 years?\n\nAustralia's aged care homes are for people aged 65 years and over and Aboriginal people aged 50 and over.\n\nA younger person with exceptional circumstances may also be eligible if their needs cannot be met through other specialist services. Contact the National Disability Insurance Scheme (NDIS) and ask what help is available for Australians with a permanent or significant disability.\n\nIf you are between the ages of 9 and 65 years, check if you can apply for NDIS support by visiting Am I eligible .\n\n## How can I access residential aged care?\n\nTo find out if you are eligible for subsidised aged care, there is a 2-part assessment process:\n\n- an eligibility check which you can do online or over the phone\n\n- an in-person assessment\n\nTo check your eligibility, you can:\n\n- call My Aged Care on 1800 200 422\n\n- visit the My Aged Care website\n\nAfter your eligibility check, you may have an assessment. This is to better understand your needs.\n\nThe assessor will come to your house. The assessor will call ahead to arrange a time to visit.\n\nThere are 2 types of assessment:\n\n- A home support assessment with a Regional Assessment Service — for low level support\n\n- A comprehensive assessment with an Aged Care Assessment Team (ACAT)\n\n## How much will it cost?\n\nEach aged care home sets their own prices. How much you need to pay depends on:\n\n- the aged care home you chose\n\n- the level of care you need\n\n- your income and assets\n\nThere are 3 types of costs associated with all aged care homes. These fees are:\n\n- accommodation costs\n\n- a basic daily care fee\n\n- a means-tested care fee\n\nThe accommodation cost is the cost for your room. It depends on your income and assets. The Government may contribute to this.\n\nThe basic daily care fee is what you pay to help cover expenses such as:\n\n- meals\n\n- laundry\n\n- heating and cooling\n\n- nursing care\n\n- personal care\n\nThe means-tested care fee is an extra contribution you pay, based on an assessment of your income and assets.\n\nYou can use the fee estimator to get an idea of the costs you may have to pay. You can also call My Aged Care on 1800 200 422 .\n\n## Caring for someone else\n\nMoving into residential aged care is often a challenging time.\n\nIt is an emotional decision for:\n\n- the person moving\n\n- their family\n\n- their friends\n\n- their carers\n\nIt might be time to consider an aged care home when your loved one has:\n\n- problems getting around\n\n- incontinence (wets or soils themselves)\n\n- challenging behaviours like wandering\n\n- problems communicating\n\n- problems with thinking, planning, and memory\n\nEven if moving to an aged care home is the best choice, you may feel unsettled.\n\nThere are many ways you can help care for your relative or friend living in an aged care home.\n\nThe My Aged Care website has a fact sheet about caring for someone in an aged care home .\n\n## Resources and support\n\nFor further information:\n\n- go to the My Aged Care website\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.\n\n### Languages other than English\n\n- My Aged Care can help you access aged care information in other languages .\n\n- You can also contact the Translating and Interpreting Service (TIS National) for support to talk to My Aged Care.\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\n- My Aged Care provides support for Aboriginal and/or Torres Strait Islander people looking to find the right aged care provider.\n\n### Information for sexually and gender-diverse families\n\n- Visit Silver Rainbow for information on ageing and aged care.\n\n- My Aged Care provides support for lesbian, gay, bisexual, transgender and intersex people .\n\n#### Source s :\n\nDepartment of Health and Aged Care (About residential aged care) , My Aged Care (Aged care homes) , My Aged Care (Apply for an assessment) , National Disability Insurance Agency (Am I Eligible) , Victoria Department of Health (My Aged Care assessment services) , My Aged Care (How much will I pay?)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2024\n\nBack To Top\n\n## Search our site for\n\n- Aged care facilities\n\n- Respite Care\n\n- Aged Care Services\n\n- Disability support services\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Aged Care Hub | Carers NSW\n\nA central access point for information and resources to support carers of older Australians.\n\nRead more on Carers NSW website\n\n### Ageing and aged care | Tasmanian Department of Health\n\nFind information about ageing and aged care services in Tasmania.\n\nRead more on Tasmanian Department of Health and Human Services website\n\n### Aged care | Australian Government Department of Health, Disability and Ageing\n\nAged care provides support for older people to help with everyday living and other needs. We fund aged care services, help people to access them, and work with providers to deliver aged care programs.\n\nRead more on Department of Health, Disability and Ageing website\n\n### Care at home and aged care services | Department of Veterans' Affairs\n\nWe can help you stay at home, return home after a hospital stay, or move into residential aged care\n\nRead more on Department of Veterans' Affairs website\n\n### Aged care laws in Australia | Australian Government Department of Health, Disability and Ageing\n\nThe Aged Care Act 2024 is the main law that covers Australian Government-funded aged care. It sets out how the aged care system in Australia operates. Laws on diversity and discrimination also apply to aged care.\n\n### Aboriginal and Torres Strait Islander aged care | Australian Government Department of Health, Disability and Ageing\n\nWe are reforming aged care in response to the Aged Care Royal Commission. This will put the rights and needs of older people first, and ensure Aboriginal and Torres Strait Islander people have access to culturally safe, appropriate and accessible care.\n\n### National Palliative Care Standards for All Health Professionals and Aged Care Services - Palliative Care Australia\n\nPromoting quality palliative care since 1991\n\nRead more on Palliative Care Australia website\n\n### Aged Care Services - Carers NT\n\nRead more on Carers NT website\n\nShow more\n\n### Aged Care\n\nComprehensive background information on Australian aged care. Includes types of services, home care packages, policies & the new aged care quality standards.\n\nRead more on palliAGED website\n\n### RACGP - My Aged Care\n\nHealth professionals such as GPs play a key role in supporting access to aged care services.\n\nRead more on RACGP website\n\n### Preventing Falls in Aged Care\n\nA fall is ‘an event that results in a person coming to rest inadvertently on the ground or floor or other lower level’. Older people are 12 times more likely to fall than have a motor vehicle or pedestrian accident. Falls are the biggest cause of unintentional injury in older people over 65, with this age group accounting for 60% of fall hospitalisations in Australia.\n\nRead more on Ausmed Education website\n\n### LGBTIQ+ Awareness in Aged Care\n\nOlder Australians who identify within the LGBTIQ+ community have witnessed significant social and cultural transformation over the span of their lives. Australia’s progress on LGBTIQ+ rights has been slow and painful for the community. It is, therefore, safe to assume that LGBTIQ+ older adults who are ‘out’ will have experienced first-hand stigma, discrimination, criminalisation, rejection and isolation. So, how can we support older LGBTIQ+ Australians in the aged care system?\n\n### Meal Planning in Aged Care\n\nIt is well known that food consumption and nutrition are closely linked to our overall quality of life. Studies have shown when residents have the agency to choose from a menu, levels of food service satisfaction rise by up to 30%. This article will provide broad nutritional advice for older people and outline methods of effective meal planning in aged care facilities.\n\n### Meal Service in Aged Care\n\nAttentive meal service combined with healthy and flavoursome food can be a high point in the day for aged care residents. Dining in aged care is a topic worthy of consideration, as about half of all aged care residents in Australia are either malnourished or at risk of malnutrition. This article will provide tips for providing high-quality meal service in aged care facilities.\n\n### Workforce Planning in Aged Care\n\nAppropriate workforce planning is crucial in providing safe, high-quality care. Aged care organisations are expected to have enough staff members with an appropriate range of skills to meet the needs of all older people in their care.\n\n### Providing Mealtime Support: Aged Care\n\nRequiring assistance to eat daily meals puts residents in a vulnerable position. A great deal of tact and constant communication are needed from the healthcare staff providing this care. There are steps you can take to make a resident’s mealtime as dignified and as seamless as possible.\n\n### Ongoing Assessment in Aged Care\n\nOlder people receiving aged care services typically do so for a length of time in which their health status may change or deteriorate. In order for aged care providers to adjust to these changes and ensure older people are receiving an appropriate level of care, regular re-assessment of their condition, needs and goals is essential.\n\n### Gastroenteritis Outbreaks in Aged Care\n\nInfectious disease outbreaks in aged care, such as gastroenteritis, often cause significant illness and distress and lead to adverse impacts on staff, resources and residents’ activities.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/residential-aged-care\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/residential-aged-care\n\n- Please enter your name: https://www.healthdirect.gov.au/residential-aged-care#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/residential-aged-care#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/residential-aged-care#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/residential-aged-care#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/residential-aged-care\n\n- What is a residential aged care home?: https://www.healthdirect.gov.au/residential-aged-care#what-is\n\n- Why might I need residential care?: https://www.healthdirect.gov.au/residential-aged-care#why\n\n- Can I use residential care even though I'm younger than 65 years?: https://www.healthdirect.gov.au/residential-aged-care#younger\n\n- How can I access residential aged care?: https://www.healthdirect.gov.au/residential-aged-care#access\n\n- How much will it cost?: https://www.healthdirect.gov.au/residential-aged-care#cost\n\n- Caring for someone else: https://www.healthdirect.gov.au/residential-aged-care#someone-else\n\n- Resources and support: https://www.healthdirect.gov.au/residential-aged-care#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/residential-aged-care#searchGeneralResults\n\n- disability: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis\n\n- end-of-life: https://www.healthdirect.gov.au/palliative-care\n\n- Am I eligible: https://www.ndis.gov.au/applying-access-ndis/am-i-eligible\n\n- My Aged Care: https://www.myagedcare.gov.au/means-assessments-residential-aged-care\n\n- fee estimator: https://www.myagedcare.gov.au/how-do-aged-care-costs-work\n\n- My Aged Care: https://www.myagedcare.gov.au/how-to-contact-my-aged-care\n\n- incontinence: https://www.healthdirect.gov.au/incontinence\n\n- memory: https://www.healthdirect.gov.au/memory-disorders\n\n- caring for someone in an aged care home: https://www.myagedcare.gov.au/caring-someone-aged-care-home\n\n- My Aged Care: https://www.myagedcare.gov.au/\n\n- information in other languages: https://www.myagedcare.gov.au/accessible-all#your-language\n\n- Translating and Interpreting Service (TIS National): https://www.tisnational.gov.au/\n\n- support for Aboriginal and/or Torres Strait Islander people: https://www.myagedcare.gov.au/support-aboriginal-and-torres-strait-islander-people\n\n- Silver Rainbow: https://www.lgbtiqhealth.org.au/silver_rainbow\n\n- support for lesbian, gay, bisexual, transgender and intersex people: https://www.myagedcare.gov.au/support-lesbian-gay-bisexual-transgender-and-intersex-people\n\n- (About residential aged care): https://www.health.gov.au/our-work/residential-aged-care/about-residential-aged-care\n\n- (Aged care homes): https://www.myagedcare.gov.au/aged-care-homes\n\n- (Apply for an assessment): https://www.myagedcare.gov.au/assessment\n\n- (My Aged Care assessment services): https://www.health.vic.gov.au/ageing-and-aged-care/my-aged-care-assessment-services\n\n- (How much will I pay?): https://www.myagedcare.gov.au/how-much-will-i-pay\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/residential-aged-care#backToTop\n\n- Aged care facilities: https://www.healthdirect.gov.au/search-results/Aged care facilities\n\n- Respite Care: https://www.healthdirect.gov.au/search-results/Respite Care\n\n- Aged Care Services: https://www.healthdirect.gov.au/search-results/Aged Care Services\n\n- Disability support services: https://www.healthdirect.gov.au/search-results/Disability support services\n\n- Aged Care Hub | Carers NSW A central access point for information and resources to support carers of older Australians. Read more on Carers NSW website: https://www.carersnsw.org.au/services-and-support/information-hubs/aged-care-hub\n\n- Ageing and aged care | Tasmanian Department of Health Find information about ageing and aged care services in Tasmania. Read more on Tasmanian Department of Health and Human Services website: https://www.health.tas.gov.au/health-topics/ageing-and-aged-care\n\n- Aged care | Australian Government Department of Health, Disability and Ageing Aged care provides support for older people to help with everyday living and other needs. We fund aged care services, help people to access them, and work with providers to deliver aged care programs. Read more on Department of Health, Disability and Ageing website: https://www.health.gov.au/topics/aged-care\n\n- Care at home and aged care services | Department of Veterans' Affairs We can help you stay at home, return home after a hospital stay, or move into residential aged care Read more on Department of Veterans' Affairs website: https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services\n\n- Aged care laws in Australia | Australian Government Department of Health, Disability and Ageing The Aged Care Act 2024 is the main law that covers Australian Government-funded aged care. It sets out how the aged care system in Australia operates. Laws on diversity and discrimination also apply to aged care. Read more on Department of Health, Disability and Ageing website: https://www.health.gov.au/topics/aged-care/about-aged-care/aged-care-laws-in-australia\n\n- Aboriginal and Torres Strait Islander aged care | Australian Government Department of Health, Disability and Ageing We are reforming aged care in response to the Aged Care Royal Commission. This will put the rights and needs of older people first, and ensure Aboriginal and Torres Strait Islander people have access to culturally safe, appropriate and accessible care. Read more on Department of Health, Disability and Ageing website: https://www.health.gov.au/topics/aboriginal-and-torres-strait-islander-health/aged-care\n\n- National Palliative Care Standards for All Health Professionals and Aged Care Services - Palliative Care Australia Promoting quality palliative care since 1991 Read more on Palliative Care Australia website: https://palliativecare.org.au/publication/national-palliative-care-standards-for-all-health-professionals-and-aged-care-services/\n\n- Aged Care Services - Carers NT Read more on Carers NT website: https://www.carersnt.asn.au/services/aged-care-services/\n\n- Aged Care Comprehensive background information on Australian aged care. Includes types of services, home care packages, policies & the new aged care quality standards. Read more on palliAGED website: https://www.palliaged.com.au/Australian-Context/Aged-Care/\n\n- RACGP - My Aged Care Health professionals such as GPs play a key role in supporting access to aged care services. Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/my-aged-care\n\n- Preventing Falls in Aged Care A fall is ‘an event that results in a person coming to rest inadvertently on the ground or floor or other lower level’. Older people are 12 times more likely to fall than have a motor vehicle or pedestrian accident. Falls are the biggest cause of unintentional injury in older people over 65, with this age group accounting for 60% of fall hospitalisations in Australia. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/preventing-falls\n\n- LGBTIQ+ Awareness in Aged Care Older Australians who identify within the LGBTIQ+ community have witnessed significant social and cultural transformation over the span of their lives. Australia’s progress on LGBTIQ+ rights has been slow and painful for the community. It is, therefore, safe to assume that LGBTIQ+ older adults who are ‘out’ will have experienced first-hand stigma, discrimination, criminalisation, rejection and isolation. So, how can we support older LGBTIQ+ Australians in the aged care system? Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/lgbtqi-awareness-in-aged-care\n\n- Meal Planning in Aged Care It is well known that food consumption and nutrition are closely linked to our overall quality of life. Studies have shown when residents have the agency to choose from a menu, levels of food service satisfaction rise by up to 30%. This article will provide broad nutritional advice for older people and outline methods of effective meal planning in aged care facilities. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/meal-planning-in-aged-care\n\n- Meal Service in Aged Care Attentive meal service combined with healthy and flavoursome food can be a high point in the day for aged care residents. Dining in aged care is a topic worthy of consideration, as about half of all aged care residents in Australia are either malnourished or at risk of malnutrition. This article will provide tips for providing high-quality meal service in aged care facilities. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/meal-service-in-aged-care\n\n- Workforce Planning in Aged Care Appropriate workforce planning is crucial in providing safe, high-quality care. Aged care organisations are expected to have enough staff members with an appropriate range of skills to meet the needs of all older people in their care. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/workforce-planning-aged-care\n\n- Providing Mealtime Support: Aged Care Requiring assistance to eat daily meals puts residents in a vulnerable position. A great deal of tact and constant communication are needed from the healthcare staff providing this care. There are steps you can take to make a resident’s mealtime as dignified and as seamless as possible. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/meal-assistance-in-aged-care\n\n- Ongoing Assessment in Aged Care Older people receiving aged care services typically do so for a length of time in which their health status may change or deteriorate. In order for aged care providers to adjust to these changes and ensure older people are receiving an appropriate level of care, regular re-assessment of their condition, needs and goals is essential. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/ongoing-assessment\n\n- Gastroenteritis Outbreaks in Aged Care Infectious disease outbreaks in aged care, such as gastroenteritis, often cause significant illness and distress and lead to adverse impacts on staff, resources and residents’ activities. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/gastroenteritis-outbreak-management-in-aged-care\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

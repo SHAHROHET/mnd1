@@ -1,0 +1,675 @@
+{
+  "source_id": "healthdirect:choking",
+  "title": "Choking | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/choking",
+  "retrieved_at": "2026-08-29",
+  "topic": "Food and nutrition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 33894,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/choking",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/choking"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/choking"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/choking#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/choking#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/choking#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/choking#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/choking"
+    },
+    {
+      "text": "What is choking?",
+      "url": "https://www.healthdirect.gov.au/choking#what-is"
+    },
+    {
+      "text": "What are the symptoms of choking?",
+      "url": "https://www.healthdirect.gov.au/choking#symptoms"
+    },
+    {
+      "text": "When should I call an ambulance or go to the emergency department?",
+      "url": "https://www.healthdirect.gov.au/choking#emergency"
+    },
+    {
+      "text": "What causes choking?",
+      "url": "https://www.healthdirect.gov.au/choking#causes"
+    },
+    {
+      "text": "How is choking diagnosed?",
+      "url": "https://www.healthdirect.gov.au/choking#diagnosed"
+    },
+    {
+      "text": "How is choking treated?",
+      "url": "https://www.healthdirect.gov.au/choking#treated"
+    },
+    {
+      "text": "Who is at risk of choking?",
+      "url": "https://www.healthdirect.gov.au/choking#risk"
+    },
+    {
+      "text": "What are the complications of choking?",
+      "url": "https://www.healthdirect.gov.au/choking#complications"
+    },
+    {
+      "text": "Can choking be prevented?",
+      "url": "https://www.healthdirect.gov.au/choking#prevented"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/choking#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/choking#searchGeneralResults"
+    },
+    {
+      "text": "lungs",
+      "url": "https://www.healthdirect.gov.au/respiratory-system"
+    },
+    {
+      "text": "coughing",
+      "url": "https://www.healthdirect.gov.au/cough"
+    },
+    {
+      "text": "trouble breathing",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath"
+    },
+    {
+      "text": "consciousness",
+      "url": "https://www.healthdirect.gov.au/blackouts"
+    },
+    {
+      "text": "ambulance",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia"
+    },
+    {
+      "text": "call triple zero (000)",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "start CPR",
+      "url": "https://www.healthdirect.gov.au/how-to-perform-cpr"
+    },
+    {
+      "text": "asthma",
+      "url": "https://www.healthdirect.gov.au/asthma-in-adolescents-and-adults"
+    },
+    {
+      "text": "fever",
+      "url": "https://www.healthdirect.gov.au/fever"
+    },
+    {
+      "text": "put all sorts of things in their mouths",
+      "url": "https://www.pregnancybirthbaby.org.au/choking-suffocation-and-swallowed-objects"
+    },
+    {
+      "text": "wheezing",
+      "url": "https://www.healthdirect.gov.au/wheezing"
+    },
+    {
+      "text": "emergency department",
+      "url": "https://www.healthdirect.gov.au/hospital-emergency-departments"
+    },
+    {
+      "text": "bronchoscopy",
+      "url": "https://www.healthdirect.gov.au/bronchoscopy"
+    },
+    {
+      "text": "learning how to eat safely",
+      "url": "https://www.pregnancybirthbaby.org.au/toddler-development-learning-to-feed-themselves"
+    },
+    {
+      "text": "cerebral palsy",
+      "url": "https://www.healthdirect.gov.au/cerebral-palsy"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.healthdirect.gov.au/epilepsy"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "brain damage",
+      "url": "https://www.healthdirect.gov.au/acquired-brain-injury-abi"
+    },
+    {
+      "text": "headaches",
+      "url": "https://www.healthdirect.gov.au/headaches"
+    },
+    {
+      "text": "Kids Helpline",
+      "url": "https://kidshelpline.com.au/"
+    },
+    {
+      "text": "choosing safe toys",
+      "url": "https://www.pregnancybirthbaby.org.au/choosing-toys"
+    },
+    {
+      "text": "Choke Check tool",
+      "url": "https://www.accc.gov.au/system/files/choke-check.pdf"
+    },
+    {
+      "text": "introduce your baby to solid foods",
+      "url": "https://www.pregnancybirthbaby.org.au/introducing-solid-food"
+    },
+    {
+      "text": "St John Ambulance Australia",
+      "url": "https://stjohn.org.au/first-aid-training"
+    },
+    {
+      "text": "Royal Life Saving Society Australia",
+      "url": "https://www.royallifesaving.com.au/training-development/training-courses/first-aid-courses"
+    },
+    {
+      "text": "Australian Red Cross",
+      "url": "https://www.redcross.org.au/firstaid/?gclid=CL_y8ou7kcsCFRRvvAodo94EaA"
+    },
+    {
+      "text": "adults",
+      "url": "https://stjohn.org.au/assets/uploads/fact sheets/english/Fact sheets_choking adult.pdf"
+    },
+    {
+      "text": "infants",
+      "url": "https://stjohn.org.au/assets/uploads/fact sheets/english/Fact sheets_choking infant.pdf"
+    },
+    {
+      "text": "Raising Children Network",
+      "url": "https://raisingchildren.net.au/babies/safety/choking-strangulation/choking-first-aid-pictures#languages-other-than-english-nav-title"
+    },
+    {
+      "text": "(Injury in Australia: Choking and suffocation)",
+      "url": "https://www.aihw.gov.au/reports/injury/choking-and-suffocation"
+    },
+    {
+      "text": "(Removal of foreign body airway obstruction: A systematic review of interventions)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S030095722030455X"
+    },
+    {
+      "text": "(Clinical practice guidelines - foreign body inhaled)",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Foreign_bodies_inhaled/"
+    },
+    {
+      "text": "(Guideline 4 - Airway)",
+      "url": "https://www.anzcor.org/home/basic-life-support/guideline-4-airway/"
+    },
+    {
+      "text": "(Evaluation of the Effectiveness of Animated Images in First Aid for Infants with Foreign Body Airway Obstruction: A Simulation Study)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12027662/"
+    },
+    {
+      "text": "(Foreign body aspiration)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/653"
+    },
+    {
+      "text": "(Safety: Choking, suffocation and strangulation prevention)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Safety_Choking_suffocation_strangulation"
+    },
+    {
+      "text": "(Self-asphyxial behaviour in adolescents)",
+      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00275-9/fulltext"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/choking#backToTop"
+    },
+    {
+      "text": "Inhaled substance or foreign object",
+      "url": "https://www.healthdirect.gov.au/inhaled-substance-or-object"
+    },
+    {
+      "text": "Swallowed object",
+      "url": "https://www.healthdirect.gov.au/swallowed-object"
+    },
+    {
+      "text": "Asphyxiation",
+      "url": "https://www.healthdirect.gov.au/search-results/Asphyxiation"
+    },
+    {
+      "text": "First Aid",
+      "url": "https://www.healthdirect.gov.au/search-results/First Aid"
+    },
+    {
+      "text": "Choking, suffocating and children | NT.GOV.AU Find out what you can do to lower the chance of your child choking or suffocating at home. Read more on NT Health website",
+      "url": "https://nt.gov.au/emergency/child-safety/choking-suffocating-and-children"
+    },
+    {
+      "text": "Choking Hazards For Babies & Toddlers: How To Keep Children Safe In 2026 | Red Nose Australia Learn which everyday objects and toys pose choking hazards for babies and toddlers under three, and how to choose safe toys. Advice from Red Nose Australia and the ACCC. Read more on Red Nose website",
+      "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/keeping-children-safe-from-choking-hazards/"
+    },
+    {
+      "text": "Choking | Better Health Channel Don't slap a choking person on the back while they are upright - gravity may cause the object to slip further down their windpipe. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/choking"
+    },
+    {
+      "text": "Choking first aid for babies: guide for Aboriginal parents This picture guide for Aboriginal parents shows what to do when a baby under 12 months is choking. Call 000. Check blockage. Do back blows and chest pushes. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/for-professionals/aboriginal-torres-strait-islanders-parents/safety/stop-choking-in-babies-aboriginal-parents"
+    },
+    {
+      "text": "Choking hazards & prevention: children | Raising Children Network Choking hazards for babies and children include anything smaller than a 20-cent coin. Cut food into small pieces and keep small objects away from children. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/toddlers/safety/choking-strangulation/choking-prevention"
+    },
+    {
+      "text": "Choking - qld.gov.au Choking occurs when a foreign body (eg. a mouthful of food) partly or completely blocks a persons airway making breathing difficult Read more on Queensland Health website",
+      "url": "https://www.qld.gov.au/health/condition/accidents-injuries-and-poisonings/first-aid/choking"
+    },
+    {
+      "text": "Choking adult or child (over 1 year) – St John Australia Read more on St John Ambulance Australia website",
+      "url": "https://stjohn.org.au/fact-sheet/choking-adult-or-child-over-1-year/"
+    },
+    {
+      "text": "Choking infant (under 1 year) – St John Australia Read more on St John Ambulance Australia website",
+      "url": "https://stjohn.org.au/fact-sheet/choking-infant-under-1-year/"
+    },
+    {
+      "text": "Kids Health Info : Safety: Choking, suffocation and strangulation prevention Read more on Royal Children's Hospital website",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Safety_Choking_suffocation_strangulation/"
+    },
+    {
+      "text": "Tracheostomy Management A patient who requires prolonged mechanical ventilation, is experiencing upper airway obstruction or needs assistance with chronic airway secretions may undergo a tracheostomy. It is vital to ensure you care for a tracheostomy carefully and thoroughly, as an adverse event such as respiratory distress may develop if the tracheostomy is not managed properly. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/tracheostomy-management"
+    },
+    {
+      "text": "Choking First Aid in Residential Aged Care Choking occurs when the trachea is completely or partially blocked by a foreign body (food, liquid or another object), obstructing airflow. Choking can be gradual or sudden, and it may only take a few seconds for the airway to become completely blocked. The specific symptoms experienced by a choking person will depend on the foreign body causing the obstruction and the severity of the blockage. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/choking-aged-care"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Choking | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Choking\n\n12-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you or someone near you is choking or has difficulty breathing, call triple zero (000) and ask for an ambulance. Stay on the phone and follow instructions.\n\n## Key facts\n\n- Choking is an emergency and knowing what to do when someone is choking can save their life.\n\n- A person chokes when something gets stuck in their windpipe, blocking the flow of air to their lungs.\n\n- If someone can't clear their airway by coughing, call an ambulance, then give 5 back blows (hits) and 5 chest thrusts until help arrives.\n\n- Babies, young children and people living with disability are at higher risk of choking.\n\n- Keep small objects out of reach of babies and children.\n\n## On this page\n\n- What is choking?\n\n- What are the symptoms of choking?\n\n- When should I call an ambulance or go to the emergency department?\n\n- What causes choking?\n\n- How is choking diagnosed?\n\n- How is choking treated?\n\n- Who is at risk of choking?\n\n- What are the complications of choking?\n\n- Can choking be prevented?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is choking?\n\nChoking happens when something gets stuck in your windpipe and blocks air from getting to your lungs .\n\nIn adults, choking may happen when a piece of food goes down the trachea (windpipe) instead of the oesophagus (food pipe).\n\nSometimes the windpipe is only partly blocked. If you can still breathe, coughing forcefully may help clear the blockage.\n\n## What are the symptoms of choking?\n\nSomeone might be choking if they:\n\n- clutch their throat\n\n- cough, wheeze or gag\n\n- have trouble breathing , speaking or swallowing\n\n- make a whistling or 'crowing' noise — or can't make any sound at all\n\n- have a blue face, lips, earlobes or fingernails\n\n- look very agitated\n\n- lose consciousness\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## When should I call an ambulance or go to the emergency department?\n\nWhile you wait for the ambulance , give first aid for choking.\n\n### First aid for adults and children over 1 year old\n\n- Try to keep the person calm. Ask them to cough hard to try to remove the object.\n\n- If coughing doesn't work, call triple zero (000) and ask for an ambulance.\n\n- Bend the person forward. Give up to 5 sharp blows on the back, between the shoulder blades, using the heel of one hand.\n\n- Check after each blow to see if the blockage has cleared.\n\n- If the blockage is still there after 5 blows, give up to 5 chest thrusts. Place one hand on the person’s middle back for support. Put the heel of your other hand on the lower half of their breastbone. Press hard into the chest with a quick thrust.\n\n- Check after each thrust to see if the blockage has cleared.\n\n- Keep giving 5 back blows and 5 chest thrusts, one after the other, until the blockage clears or medical help arrives.\n\n- If the person turns blue, becomes limp or loses consciousness, start CPR straight away. Begin with compressions, not breaths.\n\n### First aid for babies under 1 year old\n\n- If a baby is choking, call triple zero (000) immediately and ask for an ambulance. Stay on the phone and follow instructions.\n\n- After calling for an ambulance:\n\n- Lay the baby face down on your forearm. Keep their head lower than their body. Support their head and shoulders on your hand.\n\n- Hold their mouth open with your fingers.\n\n- Give up to 5 sharp blows on their back, between the shoulders, using the heel of your hand.\n\n- If you can see the object, gently remove it from their mouth with your little finger.\n\n- If the blockage hasn’t cleared after 5 back blows, lay the baby on their back on a firm surface. Put 2 fingers on the lower half of their breastbone and give up to 5 chest thrusts.\n\nCheck after each thrust to see if the blockage has cleared.\n\n- If the baby loses consciousness, start CPR straight away. Begin with compressions, not breaths.\n\n### What not to do\n\n- Don't ask the person if they're okay. Instead, ask them if they are choking. They may have difficulty breathing for another reason, such as asthma .\n\n- Don't try to do the Heimlich manoeuvre (abdominal thrusts). This can break ribs and damage internal organs.\n\n- Don't pick up a choking child and turn them upside down.\n\n- Don't hit their back while they are upright.\n\n### What should I do if I am choking?\n\nIf you are choking and alone, stay calm and try to get help. Try to clear the blockage with a forceful cough.\n\n### When should I get medical help after choking?\n\nSee your doctor if you have any of these symptoms after choking:\n\n- a cough or wheeze that doesn't go away\n\n- coughing up blood\n\n- a fever\n\n- difficulty breathing\n\n## What causes choking?\n\nBabies and young children put all sorts of things in their mouths . This can lead to choking if they put small items in their mouths.\n\nChoking can happen in adults and children if an object becomes fully or partly stuck in the windpipe. This is known as a foreign body airway obstruction.\n\n## How is choking diagnosed?\n\nIf your doctor thinks you have been choking, they will try to find out:\n\n- what happened\n\n- when it happened\n\n- what you may have inhaled\n\nTo help diagnose choking, your doctor will:\n\n- ask you questions — if you can’t speak, they may ask questions to the person who was with you\n\n- check your breathing and listen for wheezing or uneven breath sounds\n\n- check your ears, nose and throat for other objects\n\n- look for signs, such as drooling, voice changes, blue lips (called cyanosis) or coughing\n\n## How is choking treated?\n\nIn the emergency department , doctors can use different techniques to clear your windpipe.\n\nSometimes, even if the choking episode seems to have passed, an object might still be stuck further down. You may need a test called a bronchoscopy to check your airways. If something is stuck there, it can be removed to prevent infection.\n\nYou might need to stay in hospital to make sure there is no damage to your lungs.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## Who is at risk of choking?\n\nAnyone can choke but babies and young children are most at risk because:\n\n- their airways are soft and narrow\n\n- they are still learning how to eat safely\n\n- they often put things in their mouths to explore\n\nOther people who have a higher chance of choking include:\n\n- adults over 65 years of age\n\n- people living with disability, such as cerebral palsy , intellectual disability or dementia\n\n- people with epilepsy — they may choke during a seizure\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## What are the complications of choking?\n\nIf your windpipe is completely blocked and you can’t breathe, it's a medical emergency and can lead to death.\n\n### Choking games\n\nThe 'choking game' is a dangerous activity where people choke themselves or others to feel a 'high'. This is also known as the pass-out or blackout challenge.\n\nYou may think you can stop before you pass out but you may be wrong. This can lead to brain damage or death, especially if done alone.\n\nThere have been reports of young children doing choking games, often due to peer pressure or to feel a thrill. Parents may not be aware.\n\nSigns that your child might be taking part include:\n\n- showing interest in choking\n\n- bruises on their neck or wearing clothes that cover their neck\n\n- tiny red spots on or around their eyes or eyelids\n\n- headaches\n\n- irritable behaviour\n\n- spending a lot of time alone and seeming confused after\n\n- ropes, scarves or cords in their bedroom\n\nTalk to your child about the dangers of choking games. Understanding the risks may stop them from trying it.\n\nIf you are worried your child is doing choking games, call Kids Helpline on 1800 55 1800 .\n\n## Can choking be prevented?\n\nThere are steps to help lower the chance of choking for babies, children and adults.\n\n### Prevent choking on small objects in babies and children\n\nKeep small items out of reach of babies and children. Common choking hazards include:\n\n- batteries — keep toy battery covers secure and avoid toys with button batteries\n\n- toys with small parts, such as marbles or bouncy balls\n\n- polystyrene beads inside bean bags and stuffed toys\n\n- coins, safety pins, magnets, buttons and beads\n\n- water-absorbing beads used in some toys\n\n- balloons — especially broken, popped or deflated\n\nMake sure your child's toys meet Australian safety standards and are not broken or damaged. Find out more about choosing safe toys .\n\nUse the Choke Check tool from Product Safety Australia to help you spot choking hazards.\n\n### Preventing choking while eating in children\n\nHere are some things you can do to reduce your child's chance of choking while eating:\n\n- Make sure your child sits down to eat and drink. Don’t let them eat lying down or running around. Watch your child when they eat.\n\n- Cut food into small pieces and encourage them to chew well.\n\n- Avoid giving risky foods, such as lollies, raw apple or carrot, whole grapes, nuts and popcorn until they are old enough.\n\n- Cook, grate or mash hard foods to suit your child's age and developmental stage.\n\n- Cut grapes lengthways and then in half again. Remove bones from meat and fish. Cut sausages and take off the skin.\n\n- Don't force your child to eat.\n\nRead more on food textures and how to introduce your baby to solid foods .\n\n### Preventing choking in adults\n\n- Eat and drink slowly and chew food well.\n\n- Take small bites, especially of risky foods, such as popcorn or nuts.\n\n- Don’t eat while talking, laughing or lying down.\n\n- Cut food into small pieces, especially if you have a dry mouth or difficulty chewing or swallowing.\n\n## Resources and support\n\nThe best way to help with choking is to learn first aid, especially if you care for a child.\n\nYou can find first aid courses through:\n\n- St John Ambulance Australia\n\n- Royal Life Saving Society Australia\n\n- Australian Red Cross\n\nDownload and read the St John Ambulance fact sheets on choking first aid for adults and infants .\n\nUse the Product Safety Australia Choke Check tool to help you find choking hazards.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.\n\n### Do you prefer to read in languages other than English?\n\nRaising Children Network has information on choking first aid for babies in many community languages.\n\n#### Source s :\n\nAustralian Institute of Health and Welfare (Injury in Australia: Choking and suffocation) , Resuscitation - Couper K, et al (Removal of foreign body airway obstruction: A systematic review of interventions) , The Royal Children's Hospital Melbourne (Clinical practice guidelines - foreign body inhaled) , Australian and New Zealand Committee on Resuscitation (ANZCOR) (Guideline 4 - Airway) , Journal of Clinical Medicine - Ohk T, et al. (Evaluation of the Effectiveness of Animated Images in First Aid for Infants with Foreign Body Airway Obstruction: A Simulation Study) , BMJ Best Practice (Foreign body aspiration) , The Royal Children's Hospital Melbourne (Safety: Choking, suffocation and strangulation prevention) , The Lancet Child and Adolescent Health - Samarasekera U (Self-asphyxial behaviour in adolescents)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2025\n\nBack To Top\n\n## Related pages\n\n- Inhaled substance or foreign object\n\n- Swallowed object\n\n## Search our site for\n\n- Asphyxiation\n\n- First Aid\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Choking, suffocation and swallowed objects\n\nBabies and children have small airways that can be easily blocked. Some foods and common household objects can cause choking and suffocation.\n\nRead more on Pregnancy,Birth & Baby website\n\n### Choking, suffocating and children | NT.GOV.AU\n\nFind out what you can do to lower the chance of your child choking or suffocating at home.\n\nRead more on NT Health website\n\n### Choking Hazards For Babies & Toddlers: How To Keep Children Safe In 2026 | Red Nose Australia\n\nLearn which everyday objects and toys pose choking hazards for babies and toddlers under three, and how to choose safe toys. Advice from Red Nose Australia and the ACCC.\n\nRead more on Red Nose website\n\n### Choking | Better Health Channel\n\nDon't slap a choking person on the back while they are upright - gravity may cause the object to slip further down their windpipe.\n\nRead more on Better Health Channel website\n\n### Choking first aid for babies: guide for Aboriginal parents\n\nThis picture guide for Aboriginal parents shows what to do when a baby under 12 months is choking. Call 000. Check blockage. Do back blows and chest pushes.\n\nRead more on raisingchildren.net.au website\n\n### Choking hazards & prevention: children | Raising Children Network\n\nChoking hazards for babies and children include anything smaller than a 20-cent coin. Cut food into small pieces and keep small objects away from children.\n\n### Choking - qld.gov.au\n\nChoking occurs when a foreign body (eg. a mouthful of food) partly or completely blocks a persons airway making breathing difficult\n\nRead more on Queensland Health website\n\n### Choking adult or child (over 1 year) – St John Australia\n\nRead more on St John Ambulance Australia website\n\n### Choking infant (under 1 year) – St John Australia\n\n### Kids Health Info : Safety: Choking, suffocation and strangulation prevention\n\nRead more on Royal Children's Hospital website\n\nShow more\n\n### Tracheostomy Management\n\nA patient who requires prolonged mechanical ventilation, is experiencing upper airway obstruction or needs assistance with chronic airway secretions may undergo a tracheostomy. It is vital to ensure you care for a tracheostomy carefully and thoroughly, as an adverse event such as respiratory distress may develop if the tracheostomy is not managed properly.\n\nRead more on Ausmed Education website\n\n### Choking First Aid in Residential Aged Care\n\nChoking occurs when the trachea is completely or partially blocked by a foreign body (food, liquid or another object), obstructing airflow. Choking can be gradual or sudden, and it may only take a few seconds for the airway to become completely blocked. The specific symptoms experienced by a choking person will depend on the foreign body causing the obstruction and the severity of the blockage.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/choking\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/choking\n\n- Please enter your name: https://www.healthdirect.gov.au/choking#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/choking#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/choking#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/choking#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/choking\n\n- What is choking?: https://www.healthdirect.gov.au/choking#what-is\n\n- What are the symptoms of choking?: https://www.healthdirect.gov.au/choking#symptoms\n\n- When should I call an ambulance or go to the emergency department?: https://www.healthdirect.gov.au/choking#emergency\n\n- What causes choking?: https://www.healthdirect.gov.au/choking#causes\n\n- How is choking diagnosed?: https://www.healthdirect.gov.au/choking#diagnosed\n\n- How is choking treated?: https://www.healthdirect.gov.au/choking#treated\n\n- Who is at risk of choking?: https://www.healthdirect.gov.au/choking#risk\n\n- What are the complications of choking?: https://www.healthdirect.gov.au/choking#complications\n\n- Can choking be prevented?: https://www.healthdirect.gov.au/choking#prevented\n\n- Resources and support: https://www.healthdirect.gov.au/choking#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/choking#searchGeneralResults\n\n- lungs: https://www.healthdirect.gov.au/respiratory-system\n\n- coughing: https://www.healthdirect.gov.au/cough\n\n- trouble breathing: https://www.healthdirect.gov.au/shortness-of-breath\n\n- consciousness: https://www.healthdirect.gov.au/blackouts\n\n- ambulance: https://www.healthdirect.gov.au/about-ambulances-in-australia\n\n- call triple zero (000): https://www.healthdirect.gov.au/calling-triple-zero\n\n- start CPR: https://www.healthdirect.gov.au/how-to-perform-cpr\n\n- asthma: https://www.healthdirect.gov.au/asthma-in-adolescents-and-adults\n\n- fever: https://www.healthdirect.gov.au/fever\n\n- put all sorts of things in their mouths: https://www.pregnancybirthbaby.org.au/choking-suffocation-and-swallowed-objects\n\n- wheezing: https://www.healthdirect.gov.au/wheezing\n\n- emergency department: https://www.healthdirect.gov.au/hospital-emergency-departments\n\n- bronchoscopy: https://www.healthdirect.gov.au/bronchoscopy\n\n- learning how to eat safely: https://www.pregnancybirthbaby.org.au/toddler-development-learning-to-feed-themselves\n\n- cerebral palsy: https://www.healthdirect.gov.au/cerebral-palsy\n\n- epilepsy: https://www.healthdirect.gov.au/epilepsy\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- brain damage: https://www.healthdirect.gov.au/acquired-brain-injury-abi\n\n- headaches: https://www.healthdirect.gov.au/headaches\n\n- Kids Helpline: https://kidshelpline.com.au/\n\n- choosing safe toys: https://www.pregnancybirthbaby.org.au/choosing-toys\n\n- Choke Check tool: https://www.accc.gov.au/system/files/choke-check.pdf\n\n- introduce your baby to solid foods: https://www.pregnancybirthbaby.org.au/introducing-solid-food\n\n- St John Ambulance Australia: https://stjohn.org.au/first-aid-training\n\n- Royal Life Saving Society Australia: https://www.royallifesaving.com.au/training-development/training-courses/first-aid-courses\n\n- Australian Red Cross: https://www.redcross.org.au/firstaid/?gclid=CL_y8ou7kcsCFRRvvAodo94EaA\n\n- adults: https://stjohn.org.au/assets/uploads/fact sheets/english/Fact sheets_choking adult.pdf\n\n- infants: https://stjohn.org.au/assets/uploads/fact sheets/english/Fact sheets_choking infant.pdf\n\n- Raising Children Network: https://raisingchildren.net.au/babies/safety/choking-strangulation/choking-first-aid-pictures#languages-other-than-english-nav-title\n\n- (Injury in Australia: Choking and suffocation): https://www.aihw.gov.au/reports/injury/choking-and-suffocation\n\n- (Removal of foreign body airway obstruction: A systematic review of interventions): https://www.sciencedirect.com/science/article/pii/S030095722030455X\n\n- (Clinical practice guidelines - foreign body inhaled): https://www.rch.org.au/clinicalguide/guideline_index/Foreign_bodies_inhaled/\n\n- (Guideline 4 - Airway): https://www.anzcor.org/home/basic-life-support/guideline-4-airway/\n\n- (Evaluation of the Effectiveness of Animated Images in First Aid for Infants with Foreign Body Airway Obstruction: A Simulation Study): https://pmc.ncbi.nlm.nih.gov/articles/PMC12027662/\n\n- (Foreign body aspiration): https://bestpractice.bmj.com/topics/en-gb/653\n\n- (Safety: Choking, suffocation and strangulation prevention): https://www.rch.org.au/kidsinfo/fact_sheets/Safety_Choking_suffocation_strangulation\n\n- (Self-asphyxial behaviour in adolescents): https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(22)00275-9/fulltext\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/choking#backToTop\n\n- Inhaled substance or foreign object: https://www.healthdirect.gov.au/inhaled-substance-or-object\n\n- Swallowed object: https://www.healthdirect.gov.au/swallowed-object\n\n- Asphyxiation: https://www.healthdirect.gov.au/search-results/Asphyxiation\n\n- First Aid: https://www.healthdirect.gov.au/search-results/First Aid\n\n- Choking, suffocating and children | NT.GOV.AU Find out what you can do to lower the chance of your child choking or suffocating at home. Read more on NT Health website: https://nt.gov.au/emergency/child-safety/choking-suffocating-and-children\n\n- Choking Hazards For Babies & Toddlers: How To Keep Children Safe In 2026 | Red Nose Australia Learn which everyday objects and toys pose choking hazards for babies and toddlers under three, and how to choose safe toys. Advice from Red Nose Australia and the ACCC. Read more on Red Nose website: https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/keeping-children-safe-from-choking-hazards/\n\n- Choking | Better Health Channel Don't slap a choking person on the back while they are upright - gravity may cause the object to slip further down their windpipe. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/ConditionsAndTreatments/choking\n\n- Choking first aid for babies: guide for Aboriginal parents This picture guide for Aboriginal parents shows what to do when a baby under 12 months is choking. Call 000. Check blockage. Do back blows and chest pushes. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/for-professionals/aboriginal-torres-strait-islanders-parents/safety/stop-choking-in-babies-aboriginal-parents\n\n- Choking hazards & prevention: children | Raising Children Network Choking hazards for babies and children include anything smaller than a 20-cent coin. Cut food into small pieces and keep small objects away from children. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/toddlers/safety/choking-strangulation/choking-prevention\n\n- Choking - qld.gov.au Choking occurs when a foreign body (eg. a mouthful of food) partly or completely blocks a persons airway making breathing difficult Read more on Queensland Health website: https://www.qld.gov.au/health/condition/accidents-injuries-and-poisonings/first-aid/choking\n\n- Choking adult or child (over 1 year) – St John Australia Read more on St John Ambulance Australia website: https://stjohn.org.au/fact-sheet/choking-adult-or-child-over-1-year/\n\n- Choking infant (under 1 year) – St John Australia Read more on St John Ambulance Australia website: https://stjohn.org.au/fact-sheet/choking-infant-under-1-year/\n\n- Kids Health Info : Safety: Choking, suffocation and strangulation prevention Read more on Royal Children's Hospital website: https://www.rch.org.au/kidsinfo/fact_sheets/Safety_Choking_suffocation_strangulation/\n\n- Tracheostomy Management A patient who requires prolonged mechanical ventilation, is experiencing upper airway obstruction or needs assistance with chronic airway secretions may undergo a tracheostomy. It is vital to ensure you care for a tracheostomy carefully and thoroughly, as an adverse event such as respiratory distress may develop if the tracheostomy is not managed properly. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/tracheostomy-management\n\n- Choking First Aid in Residential Aged Care Choking occurs when the trachea is completely or partially blocked by a foreign body (food, liquid or another object), obstructing airflow. Choking can be gradual or sudden, and it may only take a few seconds for the airway to become completely blocked. The specific symptoms experienced by a choking person will depend on the foreign body causing the obstruction and the severity of the blockage. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/choking-aged-care\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -1,0 +1,959 @@
+{
+  "source_id": "healthdirect-australia:depression-in-men",
+  "title": "Depression in men - signs, causes, how to help | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/depression-in-men",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 50778,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/depression",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/depression-in-men"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/depression-in-men"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/depression-in-men"
+    },
+    {
+      "text": "What is depression?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#what-is"
+    },
+    {
+      "text": "What are the symptoms of depression in men?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#symptoms"
+    },
+    {
+      "text": "What causes depression in men?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#causes"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#doctor"
+    },
+    {
+      "text": "How is depression in men diagnosed?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#diagnosed"
+    },
+    {
+      "text": "How can I help a man with depression?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#help"
+    },
+    {
+      "text": "How is depression in men treated?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#treated"
+    },
+    {
+      "text": "What are the complications of depression in men?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#complications"
+    },
+    {
+      "text": "Can depression in men be prevented?",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#prevented"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#searchGeneralResults"
+    },
+    {
+      "text": "mental health condition",
+      "url": "https://www.healthdirect.gov.au/mens-mental-health"
+    },
+    {
+      "text": "interest",
+      "url": "https://www.healthdirect.gov.au/losing-interest"
+    },
+    {
+      "text": "irritable",
+      "url": "https://www.healthdirect.gov.au/irritability-and-feeling-on-edge"
+    },
+    {
+      "text": "depression in the general community",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "risk of suicide",
+      "url": "https://www.healthdirect.gov.au/warning-signs-of-suicide"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/"
+    },
+    {
+      "text": "QLife",
+      "url": "https://qlife.org.au/"
+    },
+    {
+      "text": "LGBTIQA+ mental health",
+      "url": "https://www.healthdirect.gov.au/lgbtiq-mental-health"
+    },
+    {
+      "text": "angry",
+      "url": "https://www.healthdirect.gov.au/anger-management"
+    },
+    {
+      "text": "think negative thoughts",
+      "url": "https://www.healthdirect.gov.au/self-talk"
+    },
+    {
+      "text": "not important or valuable",
+      "url": "https://www.healthdirect.gov.au/feeling-worthless"
+    },
+    {
+      "text": "self-esteem",
+      "url": "https://www.healthdirect.gov.au/self-esteem"
+    },
+    {
+      "text": "drugs or alcohol",
+      "url": "https://www.healthdirect.gov.au/drugs-and-alcohol"
+    },
+    {
+      "text": "difficulty sleeping",
+      "url": "https://www.healthdirect.gov.au/insomnia"
+    },
+    {
+      "text": "feeling tired",
+      "url": "https://www.healthdirect.gov.au/fatigue"
+    },
+    {
+      "text": "changed appetite",
+      "url": "https://www.healthdirect.gov.au/changes-to-your-appetite"
+    },
+    {
+      "text": "loss of sexual desire",
+      "url": "https://www.healthdirect.gov.au/loss-of-male-libido"
+    },
+    {
+      "text": "performance",
+      "url": "https://www.healthdirect.gov.au/male-sexual-problems"
+    },
+    {
+      "text": "headaches",
+      "url": "https://www.healthdirect.gov.au/headaches"
+    },
+    {
+      "text": "muscle pain",
+      "url": "https://www.healthdirect.gov.au/muscle-aches-and-pains"
+    },
+    {
+      "text": "restlessness",
+      "url": "https://www.healthdirect.gov.au/feeling-restless"
+    },
+    {
+      "text": "Anxiety and Depression Test (K10)",
+      "url": "https://www.beyondblue.org.au/mental-health/check-your-mental-health/k10"
+    },
+    {
+      "text": "life events",
+      "url": "https://www.healthdirect.gov.au/dealing-with-life-events"
+    },
+    {
+      "text": "new parent",
+      "url": "https://www.pregnancybirthbaby.org.au/fathers-and-depression"
+    },
+    {
+      "text": "unemployment",
+      "url": "https://www.healthdirect.gov.au/financial-stress"
+    },
+    {
+      "text": "abuse",
+      "url": "https://www.healthdirect.gov.au/domestic-violence-and-abusive-relationships"
+    },
+    {
+      "text": "stress at work",
+      "url": "https://www.healthdirect.gov.au/work-related-stress"
+    },
+    {
+      "text": "relationship",
+      "url": "https://www.healthdirect.gov.au/building-and-maintaining-healthy-relationships"
+    },
+    {
+      "text": "drugs",
+      "url": "https://www.healthdirect.gov.au/drug-abuse"
+    },
+    {
+      "text": "drink too much alcohol",
+      "url": "https://www.healthdirect.gov.au/tips-for-safe-drinking"
+    },
+    {
+      "text": "Loneliness",
+      "url": "https://www.healthdirect.gov.au/loneliness-isolation-mental-health"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/how-alcohol-affects-your-health"
+    },
+    {
+      "text": "National Alcohol and Other Drug Hotline",
+      "url": "https://www.health.gov.au/contacts/national-alcohol-and-other-drug-hotline"
+    },
+    {
+      "text": "Seek help and speak with your doctor",
+      "url": "https://www.healthdirect.gov.au/talking-to-your-doctor-gp-about-mental-health"
+    },
+    {
+      "text": "you can reach out to a friend or family member",
+      "url": "https://www.healthdirect.gov.au/how-to-talk-about-your-mental-health-concerns"
+    },
+    {
+      "text": "mental health assessment",
+      "url": "https://www.healthdirect.gov.au/mental-illness"
+    },
+    {
+      "text": "physical examination",
+      "url": "https://www.healthdirect.gov.au/physical-examination-by-a-doctor"
+    },
+    {
+      "text": "your GP",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "counsellor",
+      "url": "https://www.healthdirect.gov.au/counsellors-and-counselling"
+    },
+    {
+      "text": "You can help them by starting a conversation",
+      "url": "https://www.healthdirect.gov.au/blog/how-to-talk-to-the-men-in-your-life-about-mental-health"
+    },
+    {
+      "text": "how to help someone else",
+      "url": "https://www.blackdoginstitute.org.au/emergency-help/helping-someone-else/"
+    },
+    {
+      "text": "how to help someone with depression",
+      "url": "https://www.healthdirect.gov.au/how-to-help-someone-with-depression"
+    },
+    {
+      "text": "mental health treatment plan",
+      "url": "https://www.healthdirect.gov.au/mental-health-treatment-plan"
+    },
+    {
+      "text": "health professional",
+      "url": "https://www.healthdirect.gov.au/mental-health-professionals"
+    },
+    {
+      "text": "psychologist or psychiatrist",
+      "url": "https://www.healthdirect.gov.au/psychiatrists-and-psychologists"
+    },
+    {
+      "text": "alternative (complementary) therapies",
+      "url": "https://www.healthdirect.gov.au/complementary-therapy"
+    },
+    {
+      "text": "Antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "cognitive behaviour therapy (CBT)",
+      "url": "https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt"
+    },
+    {
+      "text": "psychotherapy",
+      "url": "https://www.healthdirect.gov.au/psychotherapy"
+    },
+    {
+      "text": "eTherapy",
+      "url": "https://www.healthdirect.gov.au/etherapy"
+    },
+    {
+      "text": "Electroconvulsive therapy (ECT)",
+      "url": "https://www.healthdirect.gov.au/electroconvulsive-therapy-ect"
+    },
+    {
+      "text": "meditation",
+      "url": "https://www.healthdirect.gov.au/meditation"
+    },
+    {
+      "text": "mindfulness",
+      "url": "https://www.healthdirect.gov.au/mindfulness"
+    },
+    {
+      "text": "eating healthy",
+      "url": "https://www.healthdirect.gov.au/healthy-eating"
+    },
+    {
+      "text": "exercising",
+      "url": "https://www.healthdirect.gov.au/fitness-and-exercise"
+    },
+    {
+      "text": "yoga",
+      "url": "https://www.healthdirect.gov.au/health-benefits-of-yoga-and-pilates"
+    },
+    {
+      "text": "massage therapy",
+      "url": "https://www.healthdirect.gov.au/massage-therapy"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "thoughts of suicide",
+      "url": "https://www.healthdirect.gov.au/are-you-experiencing-suicidal-thoughts"
+    },
+    {
+      "text": "healthdirect helpline",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Suicide Call Back Service",
+      "url": "https://www.suicidecallbackservice.org.au/"
+    },
+    {
+      "text": "Men's mental health and common challenges",
+      "url": "https://mensline.org.au/mens-mental-health/mens-mental-health-common-challenges/"
+    },
+    {
+      "text": "Dads In Distress",
+      "url": "https://www.parentsbeyondbreakup.com/dids"
+    },
+    {
+      "text": "Medicare Mental Health",
+      "url": "https://www.medicarementalhealth.gov.au/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.beyondblue.org.au/mental-health/depression"
+    },
+    {
+      "text": "how to talk to someone you're worried about",
+      "url": "https://www.beyondblue.org.au/get-support/support-someone/how-to-talk-to-someone-you-are-worried-about"
+    },
+    {
+      "text": "work and mental health",
+      "url": "https://www.beyondblue.org.au/mental-health/work-and-mental-health"
+    },
+    {
+      "text": "parenting and mental health",
+      "url": "https://www.beyondblue.org.au/mental-health/parenting"
+    },
+    {
+      "text": "Aboriginal and/or Torres Strait Islander men",
+      "url": "https://www.beyondblue.org.au/about/first-nations-peoples"
+    },
+    {
+      "text": "Embrace Multicultural Mental Health",
+      "url": "https://embracementalhealth.org.au/"
+    },
+    {
+      "text": "This Way Up",
+      "url": "https://thiswayup.org.au/resources"
+    },
+    {
+      "text": "Transcultural Mental Health Centre",
+      "url": "https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/in-your-language"
+    },
+    {
+      "text": "13YARN",
+      "url": "https://www.13yarn.org.au/"
+    },
+    {
+      "text": "watch this video",
+      "url": "https://youtu.be/N0DY8MQUX18?si=p6u4uH4HF_lIW3rZ"
+    },
+    {
+      "text": "Brother to Brother Dardi Munwurro",
+      "url": "https://dardimunwurro.com.au/"
+    },
+    {
+      "text": "WellMob",
+      "url": "https://wellmob.org.au/"
+    },
+    {
+      "text": "(The 2020 Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for mood disorders)",
+      "url": "https://www.ranzcp.org/getmedia/a4678cf4-91f5-4746-99d4-03dc7379ae51/Mood-disorders-clinical-practice-guideline-2020.pdf"
+    },
+    {
+      "text": "(Features of major depression)",
+      "url": "https://app.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Psychotropic&topicfile=major-depression&guidelinename=Psychotropic&sectionId=toc_d1e47#toc_d1e47"
+    },
+    {
+      "text": "(A Hypothesis of Gender Differences in Self-Reporting Symptom of Depression: Implications to Solve Under-Diagnosis and Under-Treatment of Depression in Males)",
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.589687/full"
+    },
+    {
+      "text": "(Mental health of Australian males: depression, suicidality and loneliness)",
+      "url": "https://aifs.gov.au/tentomen/insights-report/mental-health-australian-males-depression-suicidality-and-loneliness"
+    },
+    {
+      "text": "(National Study of Mental Health and Wellbeing)",
+      "url": "https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release"
+    },
+    {
+      "text": "(Depression in adults)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/55/pdf/55/Depression%20in%20adults.pdf"
+    },
+    {
+      "text": "(Negative rumination in depression subtypes with melancholic features and anxious distress)",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1515500/full"
+    },
+    {
+      "text": "(Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30919798/"
+    },
+    {
+      "text": "(Perfectionism, Academic Stress, Rumination and Worry: A Predictive Model for Anxiety and Depressive Symptoms in University Students From Colombia)",
+      "url": "https://journals.sagepub.com/doi/10.1177/21676968231188759"
+    },
+    {
+      "text": "(Prevention and early intervention of depression in young people: an integrated narrative review of affective awareness and Ecological Momentary Assessment)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34392830/"
+    },
+    {
+      "text": "(Overview of depressive disorders)",
+      "url": "https://app.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Psychotropic&topicfile=overview-depressive-disorders&guidelinename=Psychotropic&sectionId=toc_d1e47#toc_d1e47"
+    },
+    {
+      "text": "(Management of Depression in Adults: A Review)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38856993/"
+    },
+    {
+      "text": "(Differences in the Expression of Symptoms in Men Versus Women with Depression: A Systematic Review and Meta-analysis)",
+      "url": "https://journals.lww.com/hrpjournal/abstract/2017/01000/differences_in_the_expression_of_symptoms_in_men.4.aspx"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/depression-in-men#backToTop"
+    },
+    {
+      "text": "Depression in children",
+      "url": "https://www.healthdirect.gov.au/depression-in-children"
+    },
+    {
+      "text": "Depression in older people",
+      "url": "https://www.healthdirect.gov.au/depression-in-older-people"
+    },
+    {
+      "text": "Depression in women",
+      "url": "https://www.healthdirect.gov.au/depression-in-women"
+    },
+    {
+      "text": "Depression in young people",
+      "url": "https://www.healthdirect.gov.au/depression-in-young-people"
+    },
+    {
+      "text": "Melancholia (melancholic depression)",
+      "url": "https://www.healthdirect.gov.au/melancholia"
+    },
+    {
+      "text": "Men's health",
+      "url": "https://www.healthdirect.gov.au/search-results/Men's health"
+    },
+    {
+      "text": "Stress",
+      "url": "https://www.healthdirect.gov.au/search-results/Stress"
+    },
+    {
+      "text": "Antidepressants",
+      "url": "https://www.healthdirect.gov.au/search-results/Antidepressants"
+    },
+    {
+      "text": "Bipolar Disorder",
+      "url": "https://www.healthdirect.gov.au/search-results/Bipolar Disorder"
+    },
+    {
+      "text": "Cognitive Therapy",
+      "url": "https://www.healthdirect.gov.au/search-results/Cognitive Therapy"
+    },
+    {
+      "text": "Body Image",
+      "url": "https://www.healthdirect.gov.au/search-results/Body Image"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.healthdirect.gov.au/search-results/Counselling"
+    },
+    {
+      "text": "Electroconvulsive Therapy",
+      "url": "https://www.healthdirect.gov.au/search-results/Electroconvulsive Therapy"
+    },
+    {
+      "text": "Sadness",
+      "url": "https://www.healthdirect.gov.au/search-results/Sadness"
+    },
+    {
+      "text": "Pessimism",
+      "url": "https://www.healthdirect.gov.au/search-results/Pessimism"
+    },
+    {
+      "text": "Mental health resources for men | MensLine Australia Advice, support and referral resources for men | Free phone and online counselling Australia wide | MensLine Australia Read more on MensLine Australia website",
+      "url": "https://mensline.org.au/advice-support-referral-resources-for-men/"
+    },
+    {
+      "text": "Do men get postnatal depression and anxiety? Dads can get postnatal depression and postnatal anxiety after the birth of their baby. Here’s what you need to know about men’s postnatal depression symptoms and how to get help. Read more on Healthy Male website",
+      "url": "https://healthymale.org.au/health-article/perinatal-anxiety-and-perinatal-depression-men"
+    },
+    {
+      "text": "Depression — TINO : Tune In Not Out if not treated it can impact many areas of your life. You are not alone, find out how others have got better Read more on Tune In Not Out website",
+      "url": "https://tuneinnotout.com/mental-health/depression/"
+    },
+    {
+      "text": "Depression - Information & Resources - Black Dog Institute | Better Mental Health Information about the signs and symptoms of depression, how they present in different people, and where to go to get help. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/depression/"
+    },
+    {
+      "text": "Causes of depression - Black Dog Institute | Better Mental Health Knowing about the causes and risk factors for depression can help you understand why depression occurs and how to deal with it. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/depression/causes/"
+    },
+    {
+      "text": "Depression treatment information - Black Dog Institute | Better Mental Health It’s important to get help and the right treatment for depression. There are a range of effective treatments, that can help you recover/manage. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/depression/treatment/"
+    },
+    {
+      "text": "Bipolar self test - Black Dog Institute | Better Mental Health The bipolar disorder self test asks a few questions to determine the possibility of bipolar disorder. Please note, results are not a diagnosis. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/digital-tools-apps/bipolar-self-test/"
+    },
+    {
+      "text": "Depression self test - Black Dog Institute | Better Mental Health The depressions self test let's you know likelihood that you are dealing with depression. Please note, results are not a diagnosis. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/digital-tools-apps/depression-self-test/"
+    },
+    {
+      "text": "Helping others - Black Dog Institute | Better Mental Health If someone you know is talking about taking their own life, call LifeLine on 13 11 14 now. You can help others get through thoughts of suicide. Read more on Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/suicide/helping-others/"
+    },
+    {
+      "text": "How To Deal With Depression and Sadness Unexplained or overwhelming sadness can be a symptom of depression. Learn more about depression, its causes, and ways to get better. Read more on This Way Up website",
+      "url": "https://thiswayup.org.au/depression-explained"
+    },
+    {
+      "text": "What is Depression? It’s human nature to feel down in the dumps on occasion. Depression, however, is a diagnosable medical condition that presents as feelings of intense sadness, negativity and low mood, lasting for a long period of time. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/depression"
+    },
+    {
+      "text": "Assessing Depression in Dementia with the Cornell Scale Depression is estimated to be three to four times more common in older adults with dementia than those without. However, while depression co-occurs in about 20 to 30% of people with dementia, it can be difficult to determine whether an older adult actually has both depression and dementia, has depression only or has dementia only due to similarities between the two conditions. The Cornell Scale for Depression in Dementia (CSDD) is a screening tool specifically intended to identify the signs of depression in people with dementia. The CSDD takes into account non-verbal symptoms of potential depression, including observations and physical signs that a person with cognitive impairment may be unable to vocalise. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/depression-in-dementia"
+    },
+    {
+      "text": "RACGP - Depression Major depressive disorder is a high prevalence condition in Australia Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/mental-health/depression"
+    },
+    {
+      "text": "Depression Self-Help Resources - Information Sheets & Workbooks Self-help resources for clinical depression, developed by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website",
+      "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression"
+    },
+    {
+      "text": "Depression | CRUfAD Depression treatment chapter Read more on CRUfAD website",
+      "url": "https://crufad.org/for-clinicians/depression/"
+    },
+    {
+      "text": "Depression and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website",
+      "url": "https://www.orygen.org.au/Training/Resources/Depression/Fact-Sheets/depression-yp"
+    },
+    {
+      "text": "Depression - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website",
+      "url": "https://www.orygen.org.au/Training/Resources/Depression"
+    },
+    {
+      "text": "Psychological treatments for depression in young adults and adults born with heart problems | Cochrane Read more on Cochrane Australia website",
+      "url": "https://www.cochrane.org/CD004372/VASC_psychological-treatments-for-depression-in-young-adults-and-adults-born-with-heart-problems"
+    },
+    {
+      "text": "Treatments for depression in individuals with coronary artery disease | Cochrane Read more on Cochrane Australia website",
+      "url": "https://www.cochrane.org/CD008012/VASC_treatments-for-depression-in-patients-with-coronary-artery-disease"
+    },
+    {
+      "text": "Psychological treatments for depression and anxiety in dementia and mild cognitive impairment | Cochrane Read more on Cochrane Australia website",
+      "url": "https://www.cochrane.org/CD009125/DEMENTIA_psychological-treatments-for-depression-and-anxiety-in-dementia-and-mild-cognitive-impairment"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Depression in men - signs, causes, how to help | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Depression in men\n\n15-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you, or someone you know, is having suicidal thoughts and is in immediate danger, call triple zero (000). For help and support, call Lifeline on 13 11 14.\n\n## Key facts\n\n- Depression is a serious mental health condition that affects how you feel, think and manage daily activities.\n\n- It can make you feel sad, angry or irritable and lose interest in things you usually enjoy.\n\n- Depression is common — it affects many men at some point in their lives.\n\n- Men are more likely to notice physical symptoms such as feeling tired or losing weight, than the emotional signs.\n\n- If you are feeling down for more than 2 weeks or if you're concerned you may be depressed, seek help and speak to your doctor.\n\n## On this page\n\n- What is depression?\n\n- What are the symptoms of depression in men?\n\n- What causes depression in men?\n\n- When should I see my doctor?\n\n- How is depression in men diagnosed?\n\n- How can I help a man with depression?\n\n- How is depression in men treated?\n\n- What are the complications of depression in men?\n\n- Can depression in men be prevented?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is depression?\n\nDepression is a serious mental health condition that affects how you feel, think and manage daily activities. It can make you lose pleasure or interest in things you usually enjoy and feel, such as:\n\n- sad\n\n- angry\n\n- irritable\n\n- empty\n\n- stuck\n\n- alone\n\nWhile it is normal to feel down sometimes, people with depression experience these feelings more intensely and for longer periods. If you feel this way for 2 weeks or more, you may be experiencing depression.\n\nSocial norms and cultural contexts may define your understanding of what it is to be male or a man. For some, this may include not talking about your feelings or not showing that you're upset. This can sometimes make it hard for you to acknowledge that you may be experiencing depression. There may also be differences in how you experience depression and your behaviour. You may be more likely to report substance misuse and risk-taking behaviours.\n\nThe information in this article is about depression in men and males. However, many aspects of depression are not gender or sex specific. Read more on depression in the general community .\n\n### How common is depression in men?\n\nDepression is common — it affects about 1 in 10 men at some point in their lives. Depression can put people at risk of suicide . Sadly, an average of 6 men die by suicide every day in Australia.\n\nIf you need to talk to someone about your mental health, call Beyond Blue on 1300 22 4636 .\n\nMen who identify as gay or bisexual and men who have sex with men are at increased risk of mental health conditions.\n\nIf you are experiencing depression related to your sexuality or gender identity (LGBTQI+), QLife provides a counselling and referral service for LGBTQI+ people. You can call them on 1800 184 527 .\n\nRead more about LGBTIQA+ mental health .\n\n## What are the symptoms of depression in men?\n\nSymptoms of depression involve the way you feel, think and behave. There are also physical signs of depression. Depression affects different people in different ways.\n\nFor example, you may feel:\n\n- irritable , angry or frustrated\n\n- sad or empty\n\n- disappointed\n\n- indecisive or overwhelmed\n\n- helpless or hopeless\n\n- guilty or unworthy\n\nYou may think negative thoughts , such as:\n\n- you are not important or valuable (low self-esteem )\n\n- people would be better off without you\n\n- life is not worth living\n\n- you are a failure\n\n- you have not lived up to expectations or responsibilities as a partner, parent or provider\n\nYou may start behaving differently, for example by:\n\n- not going out with friends or family\n\n- not managing as well as you normally do at work or school\n\n- escaping into work or sports activities\n\n- not doing activities you normally look forward to\n\n- relying on drugs or alcohol\n\n- not being able to concentrate\n\n- behaving recklessly\n\nYou may also notice physical signs such as:\n\n- difficulty sleeping or feeling tired\n\n- changed appetite with or without weight loss or gain\n\n- feeling run down or unwell\n\n- loss of sexual desire or performance\n\n- headaches , muscle pain or stomach pain\n\n- tearfulness\n\n- physical agitation or restlessness\n\nYou may experience some of these signs occasionally. However, if your symptoms appear often or won't go away, you might be experiencing depression. You can check if what you are experiencing could be depression by taking Beyond Blue's Anxiety and Depression Test (K10) .\n\nWhile anyone with depression can experience one or more of these symptoms, men and women tend to experience and report them differently. Men are more likely to talk about the physical symptoms of depression, such as feeling tired or losing weight, rather than saying they feel low.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## What causes depression in men?\n\nThe exact cause of depression is unknown. Every person has different circumstances.\n\nComplex chemical changes occur in the body, particularly in the brain, when people experience depression. Usually depression happens because of a mix of:\n\n- life events\n\n- personal factors\n\n- changes in the brain\n\nWhile you often can't pinpoint the cause of depression, understanding the circumstances can sometimes help you manage it.\n\nFor some people, challenging life events or issues may cause depression. Life events associated with depression include:\n\n- the death of someone close to you\n\n- becoming a new parent\n\n- facing unemployment , financial strain or instability\n\n- past or continuing abuse\n\n- ongoing stress at work\n\n- major life changes such as an accident or the end of a relationship\n\n- migration\n\nSometimes these events can trigger depression if you are already at risk.\n\nPersonal factors may leave you more vulnerable to depression. You are more likely to develop depression if:\n\n- you have a close family member with depression\n\n- you have a serious medical condition\n\n- you have a personality that is prone to depression, such as if you worry a lot or are a perfectionist\n\n- you use drugs or drink too much alcohol\n\nLoneliness can also increase your risk of developing depression.\n\nDrug and alcohol use can be both the cause and a consequence of depression. This is because people may turn to substances to provide short-term relief from their symptoms. This is not an effective treatment. Reducing the amount of alcohol you drink can be very helpful if you have depression. You can get help from the National Alcohol and Other Drug Hotline on 1800 250 015.\n\nSometimes, people can develop depression for no obvious reason. Just because there is no clear cause, it doesn't mean that you are not experiencing depression.\n\n## When should I see my doctor?\n\nIf you are experiencing symptoms of depression, it's best to seek help early. The sooner your symptoms are addressed, the better the outcome will likely be. Seek help and speak with your doctor if you:\n\n- have been feeling sad or depressed most of the day\n\n- have symptoms of depression for 2 or more weeks\n\n- are worried that you may be depressed\n\nTalking about depression and thoughts of suicide can be hard. Your doctor is a trained professional and will not judge you.\n\nIf you are experiencing occasional signs of depression or just feeling low, you can reach out to a friend or family member . This could be to chat or go out together to do something you enjoy.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How is depression in men diagnosed?\n\nA health professional , such as a GP, psychiatrist or psychologist, can diagnose depression. If you are concerned about your mental health, or the mental health of someone you care about, contact your GP.\n\nTo diagnose depression, your doctor will do a mental health assessment . This usually involves a discussion or answering a questionnaire, as well as a physical examination . This will help your doctor identify the cause of your symptoms.\n\nYour doctor will seek to understand how you feel and think. They will check for any symptoms of depression, such as:\n\n- changes in your energy levels\n\n- appetite changes\n\n- sleep changes\n\n- if you are feeling restless, hopeless or sad\n\nThis can help them find if there are underlying causes for how you are feeling. You should also tell them if you have felt this way before or had any episodes of mania.\n\nIf you have a family history of mental illness — either depression or another condition — tell your GP , as this can help with your diagnosis.\n\nYour answers will also help your GP decide if a specialist such as a counsellor , psychologist or psychiatrist might be helpful and if a referral is needed.\n\n## How can I help a man with depression?\n\nIf you think that a male friend or family member may be experiencing depression, you can offer them help and support.\n\nSome men find it particularly difficult to share their emotions. You can help them by starting a conversation . Ask them how they are doing and show them that you want to support them. Make sure to listen to them. Choose a calm moment when there are no distractions to begin the conversation.\n\nVisit the Black Dog Institute for information on how to help someone else with a mental health condition.\n\nSometimes men with depression might feel that they don't want to seek help because they are supposed to be tough and self-reliant. In this situation, the best thing you can do is to reassure them, be patient and help them explore their options. Remind them that depression is a serious but common mental health condition that can improve with the right support.\n\nRead the healthdirect page on how to help someone with depression .\n\n## How is depression in men treated?\n\nThere are many different types of treatments depending on your symptoms and how severe they are. You should start by speaking with your doctor. They can assess you and if necessary, work with you to build a mental health treatment plan . This is a plan that maps out your treatment goals and includes the services and resources available to you.\n\nIf your doctor thinks that another health professional , such as a psychologist or psychiatrist , should be involved, they will be able to refer you to someone who can help.\n\nOften, a combination of treatments works best. The main ways to treat depression are with:\n\n- psychological treatments\n\n- physical treatments\n\n- brain stimulation therapies\n\n- self-help or alternative (complementary) therapies\n\n### Medicines\n\nAntidepressants and mood stabilising medicines affect the chemical processes in the brain that control your mood. They normally take 4 to 6 weeks to be effective.\n\nMany different medicines are used to treat depression. Your doctor will work with you to find the one that is right for you. It can take several weeks for an antidepressant medicine to work fully and your doctor may need to adjust your dose. You may experience side effects or suicidal thoughts when starting a new antidepressant.\n\n### Psychological treatments\n\nPsychological treatments used for depression include:\n\n- cognitive behaviour therapy (CBT)\n\n- interpersonal therapy (IPT)\n\n- psychotherapy\n\n- counselling\n\n- online therapies ( eTherapy )\n\n### Physical treatments\n\nPhysical treatments are sometimes appropriate for depression. These may include one of these brain stimulation therapies:\n\n- Transcranial magnetic stimulation (TMS) — uses an electromagnetic coil placed on the scalp to stimulate the nerve cells in your brain that control mood.\n\n- Electroconvulsive therapy (ECT) — involves a brief electrical stimulation of the brain while you are under anaesthetic. It is used to treat specific types of depression, including severe depression that has not responded to medicines.\n\n### Self-help and alternative therapies\n\nA wide range of self-help techniques and alternative or complementary therapies can also be used to treat depression, either by themselves or together with other types of therapies.\n\nNot all types of depression will respond to these methods alone. It is important that you work with your doctor to build a personal mental health treatment plan that will work for you.\n\nSelf-help and complementary therapies include:\n\n- meditation and mindfulness\n\n- eating healthy and exercising regularly\n\n- avoiding alcohol and drugs\n\n- yoga\n\n- massage therapy\n\nIf you are experiencing depression, your doctor may recommend one of these types of therapy by itself or together with other types of treatments.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## What are the complications of depression in men?\n\nDepression can lead to mental health and physical complications. When depression becomes very severe, you can experience dark thoughts. These can sometimes lead to self-harm or suicide. If you are having thoughts of suicide , talking to someone you trust can help.\n\nDepression can also affect your relationships and your ability to care for yourself and those around you.\n\nIf someone you care about has severe depression, learn the warning signs . They may be feeling so bad that they can't see their way out alone.\n\nRead more about suicide warning signs .\n\n## Can depression in men be prevented?\n\nEven if you are more likely to get depression, there's a lot you can do to keep symptoms away. Some proven strategies for good mental health are:\n\n- exercising\n\n- avoiding harmful levels of alcohol and other substance use\n\n- getting enough sleep\n\n- managing anxiety, such as using relaxation techniques\n\n- staying sociable so you avoid becoming isolated\n\nYou can also see a psychologist if you're not depressed. This is a good way to maintain your mental health.\n\n## Resources and support\n\nIt is important to reach out to your doctor if you are feeling down or think you may be depressed. You can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\nFor telephone counselling support for people at risk and those affected by suicide, call the Suicide Call Back Service on 1300 659 467 .\n\nThere are many resources and support online for men experiencing depression.\n\n- MensLine Australia has information on Men's mental health and common challenges .\n\n- Dads In Distress is a peer support for separated dads — call 1300 853 437 .\n\n- Pregnancy, Birth and Baby has information on fathers and depression .\n\n- Medicare Mental Health is a free service that can connect you with a mental health service provider. Make a free call to their national phone service on 1800 595 212.\n\nBeyond Blue has a lot of information on topics such as:\n\n- depression\n\n- how to talk to someone you're worried about\n\n- work and mental health\n\n- parenting and mental health\n\n- Aboriginal and/or Torres Strait Islander men\n\n### Languages other than English\n\n- Embrace Multicultural Mental Health has in-language services and information available.\n\n- This Way Up has translated resources on mental health topics.\n\n- The Transcultural Mental Health Centre has translated mental health resources in over 40 languages.\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\n- 13YARN — watch this video for Aboriginal and/or Torres Strait Islander peoples in crisis and in need of support — call 13 92 76 .\n\n- Brother to Brother Dardi Munwurro is a crisis line for men — call 1800 435 799 .\n\n- WellMob has online resources to support mental health.\n\n#### Source s :\n\nRANZCP (The 2020 Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for mood disorders) , Therapeutic Guidelines (Features of major depression) , Frontiers in Psychiatry (A Hypothesis of Gender Differences in Self-Reporting Symptom of Depression: Implications to Solve Under-Diagnosis and Under-Treatment of Depression in Males) , Australian Institute of Family Studies (Mental health of Australian males: depression, suicidality and loneliness) , Australian Bureau of Statistics (National Study of Mental Health and Wellbeing) , BMJ Best Practice (Depression in adults) , Frontiers in Psychology (Negative rumination in depression subtypes with melancholic features and anxious distress) , Developmental Psychopathology (Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity) , Emerging Adulthood (Perfectionism, Academic Stress, Rumination and Worry: A Predictive Model for Anxiety and Depressive Symptoms in University Students From Colombia) , BMC Psychology (Prevention and early intervention of depression in young people: an integrated narrative review of affective awareness and Ecological Momentary Assessment) , Therapeutic Guidelines (Overview of depressive disorders) , JAMA (Management of Depression in Adults: A Review) , Harvard Review of Psychiatry (Differences in the Expression of Symptoms in Men Versus Women with Depression: A Systematic Review and Meta-analysis) , Therapeutic Guidelines (Features of major depression)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: November 2025\n\nBack To Top\n\n## Related pages\n\n- Depression in children\n\n- Depression in older people\n\n- Depression in women\n\n- Depression in young people\n\n- How to help someone with depression\n\n- Losing interest\n\n- Melancholia (melancholic depression)\n\n## Search our site for\n\n- Men's health\n\n- Stress\n\n- Antidepressants\n\n- Bipolar Disorder\n\n- Cognitive Therapy\n\n- Body Image\n\n- Electroconvulsive Therapy\n\n- Sadness\n\n- Pessimism\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Mental health resources for men | MensLine Australia\n\nAdvice, support and referral resources for men | Free phone and online counselling Australia wide | MensLine Australia\n\nRead more on MensLine Australia website\n\n### Do men get postnatal depression and anxiety?\n\nDads can get postnatal depression and postnatal anxiety after the birth of their baby. Here’s what you need to know about men’s postnatal depression symptoms and how to get help.\n\nRead more on Healthy Male website\n\n### Depression — TINO : Tune In Not Out\n\nif not treated it can impact many areas of your life. You are not alone, find out how others have got better\n\nRead more on Tune In Not Out website\n\n### Depression - Information & Resources - Black Dog Institute | Better Mental Health\n\nInformation about the signs and symptoms of depression, how they present in different people, and where to go to get help.\n\nRead more on Black Dog Institute website\n\n### Causes of depression - Black Dog Institute | Better Mental Health\n\nKnowing about the causes and risk factors for depression can help you understand why depression occurs and how to deal with it.\n\n### Depression treatment information - Black Dog Institute | Better Mental Health\n\nIt’s important to get help and the right treatment for depression. There are a range of effective treatments, that can help you recover/manage.\n\n### Bipolar self test - Black Dog Institute | Better Mental Health\n\nThe bipolar disorder self test asks a few questions to determine the possibility of bipolar disorder. Please note, results are not a diagnosis.\n\n### Depression self test - Black Dog Institute | Better Mental Health\n\nThe depressions self test let's you know likelihood that you are dealing with depression. Please note, results are not a diagnosis.\n\n### Helping others - Black Dog Institute | Better Mental Health\n\nIf someone you know is talking about taking their own life, call LifeLine on 13 11 14 now. You can help others get through thoughts of suicide.\n\n### How To Deal With Depression and Sadness\n\nUnexplained or overwhelming sadness can be a symptom of depression. Learn more about depression, its causes, and ways to get better.\n\nRead more on This Way Up website\n\nShow more\n\n### What is Depression?\n\nIt’s human nature to feel down in the dumps on occasion. Depression, however, is a diagnosable medical condition that presents as feelings of intense sadness, negativity and low mood, lasting for a long period of time.\n\nRead more on Ausmed Education website\n\n### Assessing Depression in Dementia with the Cornell Scale\n\nDepression is estimated to be three to four times more common in older adults with dementia than those without. However, while depression co-occurs in about 20 to 30% of people with dementia, it can be difficult to determine whether an older adult actually has both depression and dementia, has depression only or has dementia only due to similarities between the two conditions. The Cornell Scale for Depression in Dementia (CSDD) is a screening tool specifically intended to identify the signs of depression in people with dementia. The CSDD takes into account non-verbal symptoms of potential depression, including observations and physical signs that a person with cognitive impairment may be unable to vocalise.\n\n### RACGP - Depression\n\nMajor depressive disorder is a high prevalence condition in Australia\n\nRead more on RACGP website\n\n### Depression Self-Help Resources - Information Sheets & Workbooks\n\nSelf-help resources for clinical depression, developed by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia.\n\nRead more on Centre for Clinical Interventions website\n\n### Depression | CRUfAD\n\nDepression treatment chapter\n\nRead more on CRUfAD website\n\n### Depression and young people - Orygen, Revolution in Mind\n\nOur Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation.\n\nRead more on Orygen website\n\n### Depression - Orygen, Revolution in Mind\n\n### Psychological treatments for depression in young adults and adults born with heart problems | Cochrane\n\nRead more on Cochrane Australia website\n\n### Treatments for depression in individuals with coronary artery disease | Cochrane\n\n### Psychological treatments for depression and anxiety in dementia and mild cognitive impairment | Cochrane\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/depression-in-men\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/depression-in-men\n\n- Please enter your name: https://www.healthdirect.gov.au/depression-in-men#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/depression-in-men#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/depression-in-men#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/depression-in-men#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/depression-in-men\n\n- What is depression?: https://www.healthdirect.gov.au/depression-in-men#what-is\n\n- What are the symptoms of depression in men?: https://www.healthdirect.gov.au/depression-in-men#symptoms\n\n- What causes depression in men?: https://www.healthdirect.gov.au/depression-in-men#causes\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/depression-in-men#doctor\n\n- How is depression in men diagnosed?: https://www.healthdirect.gov.au/depression-in-men#diagnosed\n\n- How can I help a man with depression?: https://www.healthdirect.gov.au/depression-in-men#help\n\n- How is depression in men treated?: https://www.healthdirect.gov.au/depression-in-men#treated\n\n- What are the complications of depression in men?: https://www.healthdirect.gov.au/depression-in-men#complications\n\n- Can depression in men be prevented?: https://www.healthdirect.gov.au/depression-in-men#prevented\n\n- Resources and support: https://www.healthdirect.gov.au/depression-in-men#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/depression-in-men#searchGeneralResults\n\n- mental health condition: https://www.healthdirect.gov.au/mens-mental-health\n\n- interest: https://www.healthdirect.gov.au/losing-interest\n\n- irritable: https://www.healthdirect.gov.au/irritability-and-feeling-on-edge\n\n- depression in the general community: https://www.healthdirect.gov.au/depression\n\n- risk of suicide: https://www.healthdirect.gov.au/warning-signs-of-suicide\n\n- Beyond Blue: https://www.beyondblue.org.au/\n\n- QLife: https://qlife.org.au/\n\n- LGBTIQA+ mental health: https://www.healthdirect.gov.au/lgbtiq-mental-health\n\n- angry: https://www.healthdirect.gov.au/anger-management\n\n- think negative thoughts: https://www.healthdirect.gov.au/self-talk\n\n- not important or valuable: https://www.healthdirect.gov.au/feeling-worthless\n\n- self-esteem: https://www.healthdirect.gov.au/self-esteem\n\n- drugs or alcohol: https://www.healthdirect.gov.au/drugs-and-alcohol\n\n- difficulty sleeping: https://www.healthdirect.gov.au/insomnia\n\n- feeling tired: https://www.healthdirect.gov.au/fatigue\n\n- changed appetite: https://www.healthdirect.gov.au/changes-to-your-appetite\n\n- loss of sexual desire: https://www.healthdirect.gov.au/loss-of-male-libido\n\n- performance: https://www.healthdirect.gov.au/male-sexual-problems\n\n- headaches: https://www.healthdirect.gov.au/headaches\n\n- muscle pain: https://www.healthdirect.gov.au/muscle-aches-and-pains\n\n- restlessness: https://www.healthdirect.gov.au/feeling-restless\n\n- Anxiety and Depression Test (K10): https://www.beyondblue.org.au/mental-health/check-your-mental-health/k10\n\n- life events: https://www.healthdirect.gov.au/dealing-with-life-events\n\n- new parent: https://www.pregnancybirthbaby.org.au/fathers-and-depression\n\n- unemployment: https://www.healthdirect.gov.au/financial-stress\n\n- abuse: https://www.healthdirect.gov.au/domestic-violence-and-abusive-relationships\n\n- stress at work: https://www.healthdirect.gov.au/work-related-stress\n\n- relationship: https://www.healthdirect.gov.au/building-and-maintaining-healthy-relationships\n\n- drugs: https://www.healthdirect.gov.au/drug-abuse\n\n- drink too much alcohol: https://www.healthdirect.gov.au/tips-for-safe-drinking\n\n- Loneliness: https://www.healthdirect.gov.au/loneliness-isolation-mental-health\n\n- alcohol: https://www.healthdirect.gov.au/how-alcohol-affects-your-health\n\n- National Alcohol and Other Drug Hotline: https://www.health.gov.au/contacts/national-alcohol-and-other-drug-hotline\n\n- Seek help and speak with your doctor: https://www.healthdirect.gov.au/talking-to-your-doctor-gp-about-mental-health\n\n- you can reach out to a friend or family member: https://www.healthdirect.gov.au/how-to-talk-about-your-mental-health-concerns\n\n- mental health assessment: https://www.healthdirect.gov.au/mental-illness\n\n- physical examination: https://www.healthdirect.gov.au/physical-examination-by-a-doctor\n\n- your GP: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- counsellor: https://www.healthdirect.gov.au/counsellors-and-counselling\n\n- You can help them by starting a conversation: https://www.healthdirect.gov.au/blog/how-to-talk-to-the-men-in-your-life-about-mental-health\n\n- how to help someone else: https://www.blackdoginstitute.org.au/emergency-help/helping-someone-else/\n\n- how to help someone with depression: https://www.healthdirect.gov.au/how-to-help-someone-with-depression\n\n- mental health treatment plan: https://www.healthdirect.gov.au/mental-health-treatment-plan\n\n- health professional: https://www.healthdirect.gov.au/mental-health-professionals\n\n- psychologist or psychiatrist: https://www.healthdirect.gov.au/psychiatrists-and-psychologists\n\n- alternative (complementary) therapies: https://www.healthdirect.gov.au/complementary-therapy\n\n- Antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- cognitive behaviour therapy (CBT): https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt\n\n- psychotherapy: https://www.healthdirect.gov.au/psychotherapy\n\n- eTherapy: https://www.healthdirect.gov.au/etherapy\n\n- Electroconvulsive therapy (ECT): https://www.healthdirect.gov.au/electroconvulsive-therapy-ect\n\n- meditation: https://www.healthdirect.gov.au/meditation\n\n- mindfulness: https://www.healthdirect.gov.au/mindfulness\n\n- eating healthy: https://www.healthdirect.gov.au/healthy-eating\n\n- exercising: https://www.healthdirect.gov.au/fitness-and-exercise\n\n- yoga: https://www.healthdirect.gov.au/health-benefits-of-yoga-and-pilates\n\n- massage therapy: https://www.healthdirect.gov.au/massage-therapy\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- thoughts of suicide: https://www.healthdirect.gov.au/are-you-experiencing-suicidal-thoughts\n\n- healthdirect helpline: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Suicide Call Back Service: https://www.suicidecallbackservice.org.au/\n\n- Men's mental health and common challenges: https://mensline.org.au/mens-mental-health/mens-mental-health-common-challenges/\n\n- Dads In Distress: https://www.parentsbeyondbreakup.com/dids\n\n- Medicare Mental Health: https://www.medicarementalhealth.gov.au/\n\n- depression: https://www.beyondblue.org.au/mental-health/depression\n\n- how to talk to someone you're worried about: https://www.beyondblue.org.au/get-support/support-someone/how-to-talk-to-someone-you-are-worried-about\n\n- work and mental health: https://www.beyondblue.org.au/mental-health/work-and-mental-health\n\n- parenting and mental health: https://www.beyondblue.org.au/mental-health/parenting\n\n- Aboriginal and/or Torres Strait Islander men: https://www.beyondblue.org.au/about/first-nations-peoples\n\n- Embrace Multicultural Mental Health: https://embracementalhealth.org.au/\n\n- This Way Up: https://thiswayup.org.au/resources\n\n- Transcultural Mental Health Centre: https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/in-your-language\n\n- 13YARN: https://www.13yarn.org.au/\n\n- watch this video: https://youtu.be/N0DY8MQUX18?si=p6u4uH4HF_lIW3rZ\n\n- Brother to Brother Dardi Munwurro: https://dardimunwurro.com.au/\n\n- WellMob: https://wellmob.org.au/\n\n- (The 2020 Royal Australian and New Zealand College of Psychiatrists clinical practice guidelines for mood disorders): https://www.ranzcp.org/getmedia/a4678cf4-91f5-4746-99d4-03dc7379ae51/Mood-disorders-clinical-practice-guideline-2020.pdf\n\n- (Features of major depression): https://app.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Psychotropic&topicfile=major-depression&guidelinename=Psychotropic&sectionId=toc_d1e47#toc_d1e47\n\n- (A Hypothesis of Gender Differences in Self-Reporting Symptom of Depression: Implications to Solve Under-Diagnosis and Under-Treatment of Depression in Males): https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2021.589687/full\n\n- (Mental health of Australian males: depression, suicidality and loneliness): https://aifs.gov.au/tentomen/insights-report/mental-health-australian-males-depression-suicidality-and-loneliness\n\n- (National Study of Mental Health and Wellbeing): https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release\n\n- (Depression in adults): https://bestpractice.bmj.com/topics/en-gb/55/pdf/55/Depression%20in%20adults.pdf\n\n- (Negative rumination in depression subtypes with melancholic features and anxious distress): https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1515500/full\n\n- (Mind and gut: Associations between mood and gastrointestinal distress in children exposed to adversity): https://pubmed.ncbi.nlm.nih.gov/30919798/\n\n- (Perfectionism, Academic Stress, Rumination and Worry: A Predictive Model for Anxiety and Depressive Symptoms in University Students From Colombia): https://journals.sagepub.com/doi/10.1177/21676968231188759\n\n- (Prevention and early intervention of depression in young people: an integrated narrative review of affective awareness and Ecological Momentary Assessment): https://pubmed.ncbi.nlm.nih.gov/34392830/\n\n- (Overview of depressive disorders): https://app.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Psychotropic&topicfile=overview-depressive-disorders&guidelinename=Psychotropic&sectionId=toc_d1e47#toc_d1e47\n\n- (Management of Depression in Adults: A Review): https://pubmed.ncbi.nlm.nih.gov/38856993/\n\n- (Differences in the Expression of Symptoms in Men Versus Women with Depression: A Systematic Review and Meta-analysis): https://journals.lww.com/hrpjournal/abstract/2017/01000/differences_in_the_expression_of_symptoms_in_men.4.aspx\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/depression-in-men#backToTop\n\n- Depression in children: https://www.healthdirect.gov.au/depression-in-children\n\n- Depression in older people: https://www.healthdirect.gov.au/depression-in-older-people\n\n- Depression in women: https://www.healthdirect.gov.au/depression-in-women\n\n- Depression in young people: https://www.healthdirect.gov.au/depression-in-young-people\n\n- Melancholia (melancholic depression): https://www.healthdirect.gov.au/melancholia\n\n- Men's health: https://www.healthdirect.gov.au/search-results/Men's health\n\n- Stress: https://www.healthdirect.gov.au/search-results/Stress\n\n- Antidepressants: https://www.healthdirect.gov.au/search-results/Antidepressants\n\n- Bipolar Disorder: https://www.healthdirect.gov.au/search-results/Bipolar Disorder\n\n- Cognitive Therapy: https://www.healthdirect.gov.au/search-results/Cognitive Therapy\n\n- Body Image: https://www.healthdirect.gov.au/search-results/Body Image\n\n- Counselling: https://www.healthdirect.gov.au/search-results/Counselling\n\n- Electroconvulsive Therapy: https://www.healthdirect.gov.au/search-results/Electroconvulsive Therapy\n\n- Sadness: https://www.healthdirect.gov.au/search-results/Sadness\n\n- Pessimism: https://www.healthdirect.gov.au/search-results/Pessimism\n\n- Mental health resources for men | MensLine Australia Advice, support and referral resources for men | Free phone and online counselling Australia wide | MensLine Australia Read more on MensLine Australia website: https://mensline.org.au/advice-support-referral-resources-for-men/\n\n- Do men get postnatal depression and anxiety? Dads can get postnatal depression and postnatal anxiety after the birth of their baby. Here’s what you need to know about men’s postnatal depression symptoms and how to get help. Read more on Healthy Male website: https://healthymale.org.au/health-article/perinatal-anxiety-and-perinatal-depression-men\n\n- Depression — TINO : Tune In Not Out if not treated it can impact many areas of your life. You are not alone, find out how others have got better Read more on Tune In Not Out website: https://tuneinnotout.com/mental-health/depression/\n\n- Depression - Information & Resources - Black Dog Institute | Better Mental Health Information about the signs and symptoms of depression, how they present in different people, and where to go to get help. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/depression/\n\n- Causes of depression - Black Dog Institute | Better Mental Health Knowing about the causes and risk factors for depression can help you understand why depression occurs and how to deal with it. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/depression/causes/\n\n- Depression treatment information - Black Dog Institute | Better Mental Health It’s important to get help and the right treatment for depression. There are a range of effective treatments, that can help you recover/manage. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/depression/treatment/\n\n- Bipolar self test - Black Dog Institute | Better Mental Health The bipolar disorder self test asks a few questions to determine the possibility of bipolar disorder. Please note, results are not a diagnosis. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/digital-tools-apps/bipolar-self-test/\n\n- Depression self test - Black Dog Institute | Better Mental Health The depressions self test let's you know likelihood that you are dealing with depression. Please note, results are not a diagnosis. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/digital-tools-apps/depression-self-test/\n\n- Helping others - Black Dog Institute | Better Mental Health If someone you know is talking about taking their own life, call LifeLine on 13 11 14 now. You can help others get through thoughts of suicide. Read more on Black Dog Institute website: https://www.blackdoginstitute.org.au/resources-support/suicide/helping-others/\n\n- How To Deal With Depression and Sadness Unexplained or overwhelming sadness can be a symptom of depression. Learn more about depression, its causes, and ways to get better. Read more on This Way Up website: https://thiswayup.org.au/depression-explained\n\n- What is Depression? It’s human nature to feel down in the dumps on occasion. Depression, however, is a diagnosable medical condition that presents as feelings of intense sadness, negativity and low mood, lasting for a long period of time. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/depression\n\n- Assessing Depression in Dementia with the Cornell Scale Depression is estimated to be three to four times more common in older adults with dementia than those without. However, while depression co-occurs in about 20 to 30% of people with dementia, it can be difficult to determine whether an older adult actually has both depression and dementia, has depression only or has dementia only due to similarities between the two conditions. The Cornell Scale for Depression in Dementia (CSDD) is a screening tool specifically intended to identify the signs of depression in people with dementia. The CSDD takes into account non-verbal symptoms of potential depression, including observations and physical signs that a person with cognitive impairment may be unable to vocalise. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/depression-in-dementia\n\n- RACGP - Depression Major depressive disorder is a high prevalence condition in Australia Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/mental-health/depression\n\n- Depression Self-Help Resources - Information Sheets & Workbooks Self-help resources for clinical depression, developed by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Depression\n\n- Depression | CRUfAD Depression treatment chapter Read more on CRUfAD website: https://crufad.org/for-clinicians/depression/\n\n- Depression and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website: https://www.orygen.org.au/Training/Resources/Depression/Fact-Sheets/depression-yp\n\n- Depression - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website: https://www.orygen.org.au/Training/Resources/Depression\n\n- Psychological treatments for depression in young adults and adults born with heart problems | Cochrane Read more on Cochrane Australia website: https://www.cochrane.org/CD004372/VASC_psychological-treatments-for-depression-in-young-adults-and-adults-born-with-heart-problems\n\n- Treatments for depression in individuals with coronary artery disease | Cochrane Read more on Cochrane Australia website: https://www.cochrane.org/CD008012/VASC_treatments-for-depression-in-patients-with-coronary-artery-disease\n\n- Psychological treatments for depression and anxiety in dementia and mild cognitive impairment | Cochrane Read more on Cochrane Australia website: https://www.cochrane.org/CD009125/DEMENTIA_psychological-treatments-for-depression-and-anxiety-in-dementia-and-mild-cognitive-impairment\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

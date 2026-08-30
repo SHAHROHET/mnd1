@@ -1,0 +1,411 @@
+{
+  "source_id": "ndis:applying-eligibility-requirements-what-are-ndis-disability-requirements",
+  "title": "What are the NDIS disability requirements | NDIS",
+  "publisher": "NDIS",
+  "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements",
+  "retrieved_at": "2026-08-29",
+  "topic": "NDIS, funding, benefits",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 17882,
+  "crawl_depth": 1,
+  "seed_url": "https://ndis.gov.au/applying/application-process/how-apply",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#main-content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#block-mainnavigation"
+    },
+    {
+      "text": "new NDIS legislation",
+      "url": "https://ndis.gov.au/ndis-laws/securing-ndis-future-generations"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://ndis.gov.au/"
+    },
+    {
+      "text": "Participant portal (External website)",
+      "url": "https://myndisportal.ndis.gov.au/services/auth/sso/CIAM"
+    },
+    {
+      "text": "Provider portals (External website)",
+      "url": "https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/"
+    },
+    {
+      "text": "Understanding the NDIS",
+      "url": "https://ndis.gov.au/understanding-ndis"
+    },
+    {
+      "text": "About the NDIS",
+      "url": "https://ndis.gov.au/understanding-ndis/about-ndis"
+    },
+    {
+      "text": "Where to begin",
+      "url": "https://ndis.gov.au/understanding-ndis/where-begin"
+    },
+    {
+      "text": "People that help you",
+      "url": "https://ndis.gov.au/understanding-ndis/people-help-you"
+    },
+    {
+      "text": "Applying",
+      "url": "https://ndis.gov.au/applying"
+    },
+    {
+      "text": "Eligibility requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements"
+    },
+    {
+      "text": "Gathering evidence",
+      "url": "https://ndis.gov.au/applying/gathering-evidence"
+    },
+    {
+      "text": "Application process",
+      "url": "https://ndis.gov.au/applying/application-process"
+    },
+    {
+      "text": "Types of assessments",
+      "url": "https://ndis.gov.au/applying/types-assessments"
+    },
+    {
+      "text": "Eligibility reassessments",
+      "url": "https://ndis.gov.au/applying/eligibility-reassessments"
+    },
+    {
+      "text": "For children",
+      "url": "https://ndis.gov.au/applying/children"
+    },
+    {
+      "text": "For participants",
+      "url": "https://ndis.gov.au/participants"
+    },
+    {
+      "text": "Creating a plan",
+      "url": "https://ndis.gov.au/participants/creating-plan"
+    },
+    {
+      "text": "Working with providers",
+      "url": "https://ndis.gov.au/participants/working-providers"
+    },
+    {
+      "text": "Using your funding",
+      "url": "https://ndis.gov.au/participants/using-your-funding"
+    },
+    {
+      "text": "Changing your plan",
+      "url": "https://ndis.gov.au/participants/changing-your-plan"
+    },
+    {
+      "text": "Home and living",
+      "url": "https://ndis.gov.au/participants/home-and-living"
+    },
+    {
+      "text": "Assistive technology",
+      "url": "https://ndis.gov.au/participants/assistive-technology"
+    },
+    {
+      "text": "Life transitions",
+      "url": "https://ndis.gov.au/participants/life-transitions"
+    },
+    {
+      "text": "For providers",
+      "url": "https://ndis.gov.au/providers"
+    },
+    {
+      "text": "Pricing and payments",
+      "url": "https://ndis.gov.au/providers/pricing-and-payments"
+    },
+    {
+      "text": "Working as a provider",
+      "url": "https://ndis.gov.au/providers/working-provider"
+    },
+    {
+      "text": "Working with participants",
+      "url": "https://ndis.gov.au/providers/working-participants"
+    },
+    {
+      "text": "Home and living providers",
+      "url": "https://ndis.gov.au/providers/home-and-living-providers"
+    },
+    {
+      "text": "News and events",
+      "url": "https://ndis.gov.au/news"
+    },
+    {
+      "text": "Latest events",
+      "url": "https://ndis.gov.au/news/events"
+    },
+    {
+      "text": "Latest news",
+      "url": "https://ndis.gov.au/news/latest"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://ndis.gov.au/news/media-releases"
+    },
+    {
+      "text": "Stories and videos",
+      "url": "https://ndis.gov.au/news/stories"
+    },
+    {
+      "text": "Media",
+      "url": "https://ndis.gov.au/news/media"
+    },
+    {
+      "text": "Engage",
+      "url": "https://ndis.gov.au/engage"
+    },
+    {
+      "text": "About",
+      "url": "https://ndis.gov.au/about-us"
+    },
+    {
+      "text": "About the NDIA",
+      "url": "https://ndis.gov.au/about-us/about-ndia"
+    },
+    {
+      "text": "Careers at NDIA",
+      "url": "https://ndis.gov.au/about-us/careers-ndia"
+    },
+    {
+      "text": "Changes to the NDIS",
+      "url": "https://ndis.gov.au/changes-ndis"
+    },
+    {
+      "text": "Service charter",
+      "url": "https://ndis.gov.au/about-us/service-charter"
+    },
+    {
+      "text": "Sharing information",
+      "url": "https://ndis.gov.au/about-us/sharing-information"
+    },
+    {
+      "text": "Contact",
+      "url": "https://ndis.gov.au/contact"
+    },
+    {
+      "text": "Find us",
+      "url": "https://ndis.gov.au/contact/find-us"
+    },
+    {
+      "text": "Office locations",
+      "url": "https://ndis.gov.au/contact/locations"
+    },
+    {
+      "text": "Feedback and enquiries",
+      "url": "https://ndis.gov.au/contact/feedback-and-enquiries"
+    },
+    {
+      "text": "Reporting fraud",
+      "url": "https://ndis.gov.au/contact/reporting-fraud"
+    },
+    {
+      "text": "Other support",
+      "url": "https://ndis.gov.au/contact/other-support"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fndis.gov.au%2Fapplying%2Feligibility-requirements%2Fwhat-are-ndis-disability-requirements"
+    },
+    {
+      "text": "Save page as PDF",
+      "url": "https://ndis.gov.au/print/pdf/node/11150"
+    },
+    {
+      "text": "What the NDIS disability requirements are",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are"
+    },
+    {
+      "text": "What the NDIS disability requirements are for",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are-for"
+    },
+    {
+      "text": "What the NDIS disability requirements are like",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are-like"
+    },
+    {
+      "text": "supports in your community",
+      "url": "https://ndis.gov.au/understanding-ndis/where-begin/what-are-community-connections"
+    },
+    {
+      "text": "how to apply",
+      "url": "https://ndis.gov.au/applying/application-process/how-apply"
+    },
+    {
+      "text": "What are the NDIS eligibility requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-eligibility-requirements"
+    },
+    {
+      "text": "How to check your eligibility",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/how-check-your-eligibility"
+    },
+    {
+      "text": "What are the age requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-age-requirements"
+    },
+    {
+      "text": "What are the residency requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-residence-requirements"
+    },
+    {
+      "text": "What are the disability requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements"
+    },
+    {
+      "text": "What are the early intervention eligibility requirements",
+      "url": "https://ndis.gov.au/applying/eligibility-requirements/what-are-early-intervention-eligibility-requirements"
+    },
+    {
+      "text": "What is evidence of identity",
+      "url": "https://ndis.gov.au/applying/gathering-evidence/what-evidence-identity"
+    },
+    {
+      "text": "What is supporting evidence",
+      "url": "https://ndis.gov.au/applying/gathering-evidence/what-supporting-evidence"
+    },
+    {
+      "text": "What are examples of disability evidence",
+      "url": "https://ndis.gov.au/applying/gathering-evidence/what-are-examples-disability-evidence"
+    },
+    {
+      "text": "How to gather evidence",
+      "url": "https://ndis.gov.au/applying/gathering-evidence/how-gather-evidence"
+    },
+    {
+      "text": "What is an access request form",
+      "url": "https://ndis.gov.au/applying/application-process/what-access-request-form"
+    },
+    {
+      "text": "What is a functional capacity assessment",
+      "url": "https://ndis.gov.au/applying/types-assessments/what-functional-capacity-assessment"
+    },
+    {
+      "text": "What is an eligibility reassessment",
+      "url": "https://ndis.gov.au/applying/eligibility-reassessments/what-eligibility-reassessment"
+    },
+    {
+      "text": "Guide to eligibility reassessments",
+      "url": "https://ndis.gov.au/applying/eligibility-reassessments/guide-eligibility-reassessments"
+    },
+    {
+      "text": "Guide to the early childhood approach",
+      "url": "https://ndis.gov.au/applying/children/guide-early-childhood-approach"
+    },
+    {
+      "text": "What is an early childhood partner",
+      "url": "https://ndis.gov.au/applying/children/what-early-childhood-partner"
+    },
+    {
+      "text": "How to get help for your child",
+      "url": "https://ndis.gov.au/applying/children/how-get-help-your-child"
+    },
+    {
+      "text": "Quality support for children",
+      "url": "https://ndis.gov.au/applying/children/quality-support-children"
+    },
+    {
+      "text": "Facebook (External website)",
+      "url": "https://www.facebook.com/NDISAus"
+    },
+    {
+      "text": "Instagram (External website)",
+      "url": "https://www.instagram.com/ndis_australia/"
+    },
+    {
+      "text": "LinkedIn (External website)",
+      "url": "https://www.linkedin.com/company/national-disability-insurance-agency"
+    },
+    {
+      "text": "Twitter (External website)",
+      "url": "https://twitter.com/NDIS"
+    },
+    {
+      "text": "YouTube (External website)",
+      "url": "https://www.youtube.com/user/DisabilityCare"
+    },
+    {
+      "text": "Recent website updates",
+      "url": "https://ndis.gov.au/recent-content"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://ndis.gov.au/sitemap"
+    },
+    {
+      "text": "eNewsletter sign up (External website)",
+      "url": "https://cloud.email.ndis.gov.au/newsletter-signup"
+    },
+    {
+      "text": "NDIS laws",
+      "url": "https://ndis.gov.au/ndis-laws"
+    },
+    {
+      "text": "Governance",
+      "url": "https://ndis.gov.au/governance"
+    },
+    {
+      "text": "Publications",
+      "url": "https://ndis.gov.au/publications"
+    },
+    {
+      "text": "Policies, rules and legal",
+      "url": "https://ndis.gov.au/policies-rules-and-legal"
+    },
+    {
+      "text": "Strategies",
+      "url": "https://ndis.gov.au/about-us/strategies"
+    },
+    {
+      "text": "Reference groups",
+      "url": "https://ndis.gov.au/reference-groups"
+    },
+    {
+      "text": "Grants and projects",
+      "url": "https://ndis.gov.au/grants-and-projects"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright"
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://ndis.gov.au/about-us/access-information"
+    },
+    {
+      "text": "Data and research (External website)",
+      "url": "https://dataresearch.ndis.gov.au/"
+    },
+    {
+      "text": "Engage (External website)",
+      "url": "https://engage.ndis.gov.au"
+    },
+    {
+      "text": "Freedom of information",
+      "url": "https://ndis.gov.au/about-us/policies/freedom-information"
+    },
+    {
+      "text": "Our guidelines",
+      "url": "https://ndis.gov.au/understanding-ndis/about-ndis/our-guidelines"
+    },
+    {
+      "text": "Social media",
+      "url": "https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+    }
+  ],
+  "text": "What are the NDIS disability requirements | NDIS Skip to main content Skip to main navigation\n\nWhat are the NDIS disability requirements 27/08/2026, 04:37\n\nNotice\n\nWe are updating information on this website to reflect new NDIS legislation . Information on some pages may change.\n\nNDIS 1800 800 110 Webchat\n\n## Site search\n\nSearch\n\n## Portal sign in menu\n\n- Portal sign in Expand Portal sign in sub menu\n\n- Participant portal (External website)\n\n- Provider portals (External website)\n\nMobile Menu\n\n## Main navigation\n\n- Home\n\n- Understanding the NDIS Expand Understanding the NDIS sub menu\n\n- About the NDIS\n\n- Where to begin\n\n- People that help you\n\n- Applying Expand Applying sub menu\n\n- Eligibility requirements\n\n- Gathering evidence\n\n- Application process\n\n- Types of assessments\n\n- Eligibility reassessments\n\n- For children\n\n- For participants Expand For participants sub menu\n\n- Creating a plan\n\n- Working with providers\n\n- Using your funding\n\n- Changing your plan\n\n- Home and living\n\n- Assistive technology\n\n- Life transitions\n\n- For providers Expand For providers sub menu\n\n- Pricing and payments\n\n- Working as a provider\n\n- Working with participants\n\n- Home and living providers\n\n- News and events Expand News and events sub menu\n\n- Latest events\n\n- Latest news\n\n- Media releases\n\n- Stories and videos\n\n- Media\n\n- Engage\n\n- About Expand About sub menu\n\n- About the NDIA\n\n- Careers at NDIA\n\n- Changes to the NDIS\n\n- Service charter\n\n- Sharing information\n\n- Contact Expand Contact sub menu\n\n- Find us\n\n- Office locations\n\n- Feedback and enquiries\n\n- Reporting fraud\n\n- Other support\n\n- Applying\n\n# What are the NDIS disability requirements\n\nListen\n\nPrint this page Save page as PDF\n\n### On this page:\n\n- What the NDIS disability requirements are\n\n- What the NDIS disability requirements are for\n\n- What the NDIS disability requirements are like\n\nOn this page: 1 - What the NDIS disability requirements are 2 - What the NDIS disability requirements are for 3 - What the NDIS disability requirements are like\n\n## What the NDIS disability requirements are\n\nTo be eligible:\n\n- you have a disability caused by a permanent impairment, or have a psychosocial disability caused by a permanent impairment\n\n- your permanent impairment significantly impacts your life and your ability to do everyday tasks\n\n- you’ll likely need NDIS supports for your lifetime.\n\n## What the NDIS disability requirements are for\n\nWe make decisions about who can be an NDIS participant based on these requirements and the evidence you provide about your disability and impairments.\n\nThe NDIS disability requirements are the same for everyone who applies. They're requirements that come from NDIS laws.\n\nNot every person with disability in Australia will qualify for the NDIS. The NDIS is for people with disabilities that meet all the eligibility requirements.\n\n## What the NDIS disability requirements are like\n\nTo be eligible you'll meet the age, residence and disability requirements.\n\nYou can also meet both the disability and the early intervention requirements at the same time.\n\nYou'll need to give us evidence from your doctor, specialist or treating professional. This will help us decide if you meet the disability requirements.\n\n### Your disability is caused by an impairment\n\nTo meet the disability requirements, we must have evidence that your disability or psychosocial disability is caused by at least one of the following impairments:\n\n- intellectual\n\n- cognitive\n\n- neurological\n\n- sensory\n\n- physical.\n\nWe consider an impairment a significant change in at least one of the following:\n\n- your body’s functions\n\n- your body’s structure\n\n- how you think and learn.\n\nIt doesn't matter what caused your impairment. You could have had it from birth or got it from an injury or a health condition.\n\n### Your impairment is likely to be permanent\n\nWe need to see evidence you’ll likely have your impairment for your whole life.\n\nIt’s okay if you have periods of life where there's a smaller impact on your daily life. We understand sometimes the impact of your impairment can go up and down, and come in episodes.\n\nThere are some situations where a disability or diagnosis is permanent, but your impairment is temporary, is still being treated or there are more treatment options.\n\nWe usually consider whether your impairment is likely to be permanent after all available and appropriate treatment options have been considered.\n\n### Your impairment substantially reduces your functional capacity\n\nYour permanent impairment needs to substantially reduce your functional capacity or ability to do daily activities.\n\nThis includes communicating, socialising, learning, moving around, looking after yourself or managing your life.\n\n#### You need a high level of support from others\n\nThis means you need a high level of support from other people, such as physical assistance, guidance, supervision or prompting.\n\n#### You need assistive technology, equipment or home modifications\n\nThis means you need assistive technology, equipment or home modifications that are prescribed by your GP, allied health professional or other medical professional.\n\n### Your impairment affects your ability to work, study or take part in social life\n\nWe look at how your permanent impairment affects your ability to do things like:\n\n- find and keep a job, or start your own business\n\n- study\n\n- spend and save money\n\n- play sports\n\n- go to the movies\n\n- volunteer\n\n- travel.\n\n### Your impairment means you’ll need lifetime support from the NDIS\n\nThe last thing we look at is whether you’re likely to need support under the NDIS for your whole life.\n\nEven if your needs go up and down over your life, we’ll still consider if it is likely you’ll need lifetime support under the NDIS.\n\nTo work this out, we consider:\n\n- your life circumstances\n\n- the nature of your long-term support needs\n\n- whether your needs could best be met by the NDIS or by community and mainstream supports and services.\n\n### If you're not sure you meet the disability requirements\n\nGet in touch with your local NDIS partner for advice if you meet the age and residence requirements, but are unsure if you meet the disability requirements. They’ll help you to understand if you may be eligible to become an NDIS participant through the disability requirements, the early intervention requirements or both.\n\nYour NDIS partner can connect you with supports in your community if you don’t meet the eligibility requirements.\n\nLearn more about how to apply .\n\n## Main navigation sidebar\n\n### Applying\n\n- Eligibility requirements Expand or collapse sub-menu for Eligibility requirements\n\n- What are the NDIS eligibility requirements\n\n- How to check your eligibility\n\n- What are the age requirements\n\n- What are the residency requirements\n\n- What are the disability requirements\n\n- What are the early intervention eligibility requirements\n\n- Gathering evidence Expand or collapse sub-menu for Gathering evidence\n\n- What is evidence of identity\n\n- What is supporting evidence\n\n- What are examples of disability evidence\n\n- How to gather evidence\n\n- Application process Expand or collapse sub-menu for Application process\n\n- How to apply\n\n- What is an access request form\n\n- Types of assessments Expand or collapse sub-menu for Types of assessments\n\n- What is a functional capacity assessment\n\n- Eligibility reassessments Expand or collapse sub-menu for Eligibility reassessments\n\n- What is an eligibility reassessment\n\n- Guide to eligibility reassessments\n\n- For children Expand or collapse sub-menu for For children\n\n- Guide to the early childhood approach\n\n- What is an early childhood partner\n\n- How to get help for your child\n\n- Quality support for children\n\n## Related information\n\n### What is supporting evidence\n\n### How to apply\n\n### Find an office\n\nThis page current as of\n\n25 May 2026\n\nIndicates required field\n\nWas this page useful? *\n\nNo\n\nYes\n\nWhy?\n\nIt was easy to understand\n\nThe layout or style made it easy to read\n\nThe information was easy to find\n\nWhy not?\n\nIt was too hard to understand\n\nI couldn’t find the information\n\nThe layout or style made it hard to read\n\nThe information wasn’t what I was looking for\n\nTell us more (optional)\n\nSubmit\n\nLeave this field blank\n\n## Social Menu\n\n- Facebook (External website)\n\n- Instagram (External website)\n\n- LinkedIn (External website)\n\n- Twitter (External website)\n\n- YouTube (External website)\n\n## Footer Menu\n\n- Recent website updates\n\n- Sitemap\n\n- eNewsletter sign up (External website)\n\n- NDIS laws\n\n- Careers\n\n- Governance\n\n- Publications\n\n- Policies, rules and legal\n\n- Strategies\n\n- Reference groups\n\n- Grants and projects\n\n## Copyright Menu\n\n- Privacy\n\n- Accessibility\n\n- Copyright\n\n- Disclaimers\n\n- Access to information\n\n- Data and research (External website)\n\n- Engage (External website)\n\n- Freedom of information\n\n- Our guidelines\n\n- Social media\n\nThe National Disability Insurance Agency acknowledges the Traditional Owners and Custodians of Country throughout Australia and acknowledges their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the Elders past, present and emerging.\n\nAboriginal and Torres Strait Islander readers are advised that this website may contain images, voices and videos of deceased persons.\n\nDeveloped by the National Disability Insurance Agency\n\nhttps://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements\n\n\n\n## Links found on page\n\n- Skip to main content: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#main-content\n\n- Skip to main navigation: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#block-mainnavigation\n\n- new NDIS legislation: https://ndis.gov.au/ndis-laws/securing-ndis-future-generations\n\n- NDIS: https://ndis.gov.au/\n\n- Participant portal (External website): https://myndisportal.ndis.gov.au/services/auth/sso/CIAM\n\n- Provider portals (External website): https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/\n\n- Understanding the NDIS: https://ndis.gov.au/understanding-ndis\n\n- About the NDIS: https://ndis.gov.au/understanding-ndis/about-ndis\n\n- Where to begin: https://ndis.gov.au/understanding-ndis/where-begin\n\n- People that help you: https://ndis.gov.au/understanding-ndis/people-help-you\n\n- Applying: https://ndis.gov.au/applying\n\n- Eligibility requirements: https://ndis.gov.au/applying/eligibility-requirements\n\n- Gathering evidence: https://ndis.gov.au/applying/gathering-evidence\n\n- Application process: https://ndis.gov.au/applying/application-process\n\n- Types of assessments: https://ndis.gov.au/applying/types-assessments\n\n- Eligibility reassessments: https://ndis.gov.au/applying/eligibility-reassessments\n\n- For children: https://ndis.gov.au/applying/children\n\n- For participants: https://ndis.gov.au/participants\n\n- Creating a plan: https://ndis.gov.au/participants/creating-plan\n\n- Working with providers: https://ndis.gov.au/participants/working-providers\n\n- Using your funding: https://ndis.gov.au/participants/using-your-funding\n\n- Changing your plan: https://ndis.gov.au/participants/changing-your-plan\n\n- Home and living: https://ndis.gov.au/participants/home-and-living\n\n- Assistive technology: https://ndis.gov.au/participants/assistive-technology\n\n- Life transitions: https://ndis.gov.au/participants/life-transitions\n\n- For providers: https://ndis.gov.au/providers\n\n- Pricing and payments: https://ndis.gov.au/providers/pricing-and-payments\n\n- Working as a provider: https://ndis.gov.au/providers/working-provider\n\n- Working with participants: https://ndis.gov.au/providers/working-participants\n\n- Home and living providers: https://ndis.gov.au/providers/home-and-living-providers\n\n- News and events: https://ndis.gov.au/news\n\n- Latest events: https://ndis.gov.au/news/events\n\n- Latest news: https://ndis.gov.au/news/latest\n\n- Media releases: https://ndis.gov.au/news/media-releases\n\n- Stories and videos: https://ndis.gov.au/news/stories\n\n- Media: https://ndis.gov.au/news/media\n\n- Engage: https://ndis.gov.au/engage\n\n- About: https://ndis.gov.au/about-us\n\n- About the NDIA: https://ndis.gov.au/about-us/about-ndia\n\n- Careers at NDIA: https://ndis.gov.au/about-us/careers-ndia\n\n- Changes to the NDIS: https://ndis.gov.au/changes-ndis\n\n- Service charter: https://ndis.gov.au/about-us/service-charter\n\n- Sharing information: https://ndis.gov.au/about-us/sharing-information\n\n- Contact: https://ndis.gov.au/contact\n\n- Find us: https://ndis.gov.au/contact/find-us\n\n- Office locations: https://ndis.gov.au/contact/locations\n\n- Feedback and enquiries: https://ndis.gov.au/contact/feedback-and-enquiries\n\n- Reporting fraud: https://ndis.gov.au/contact/reporting-fraud\n\n- Other support: https://ndis.gov.au/contact/other-support\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fndis.gov.au%2Fapplying%2Feligibility-requirements%2Fwhat-are-ndis-disability-requirements\n\n- Save page as PDF: https://ndis.gov.au/print/pdf/node/11150\n\n- What the NDIS disability requirements are: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are\n\n- What the NDIS disability requirements are for: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are-for\n\n- What the NDIS disability requirements are like: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements#what-the-ndis-disability-requirements-are-like\n\n- supports in your community: https://ndis.gov.au/understanding-ndis/where-begin/what-are-community-connections\n\n- how to apply: https://ndis.gov.au/applying/application-process/how-apply\n\n- What are the NDIS eligibility requirements: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-eligibility-requirements\n\n- How to check your eligibility: https://ndis.gov.au/applying/eligibility-requirements/how-check-your-eligibility\n\n- What are the age requirements: https://ndis.gov.au/applying/eligibility-requirements/what-are-age-requirements\n\n- What are the residency requirements: https://ndis.gov.au/applying/eligibility-requirements/what-are-residence-requirements\n\n- What are the disability requirements: https://ndis.gov.au/applying/eligibility-requirements/what-are-ndis-disability-requirements\n\n- What are the early intervention eligibility requirements: https://ndis.gov.au/applying/eligibility-requirements/what-are-early-intervention-eligibility-requirements\n\n- What is evidence of identity: https://ndis.gov.au/applying/gathering-evidence/what-evidence-identity\n\n- What is supporting evidence: https://ndis.gov.au/applying/gathering-evidence/what-supporting-evidence\n\n- What are examples of disability evidence: https://ndis.gov.au/applying/gathering-evidence/what-are-examples-disability-evidence\n\n- How to gather evidence: https://ndis.gov.au/applying/gathering-evidence/how-gather-evidence\n\n- What is an access request form: https://ndis.gov.au/applying/application-process/what-access-request-form\n\n- What is a functional capacity assessment: https://ndis.gov.au/applying/types-assessments/what-functional-capacity-assessment\n\n- What is an eligibility reassessment: https://ndis.gov.au/applying/eligibility-reassessments/what-eligibility-reassessment\n\n- Guide to eligibility reassessments: https://ndis.gov.au/applying/eligibility-reassessments/guide-eligibility-reassessments\n\n- Guide to the early childhood approach: https://ndis.gov.au/applying/children/guide-early-childhood-approach\n\n- What is an early childhood partner: https://ndis.gov.au/applying/children/what-early-childhood-partner\n\n- How to get help for your child: https://ndis.gov.au/applying/children/how-get-help-your-child\n\n- Quality support for children: https://ndis.gov.au/applying/children/quality-support-children\n\n- Facebook (External website): https://www.facebook.com/NDISAus\n\n- Instagram (External website): https://www.instagram.com/ndis_australia/\n\n- LinkedIn (External website): https://www.linkedin.com/company/national-disability-insurance-agency\n\n- Twitter (External website): https://twitter.com/NDIS\n\n- YouTube (External website): https://www.youtube.com/user/DisabilityCare\n\n- Recent website updates: https://ndis.gov.au/recent-content\n\n- Sitemap: https://ndis.gov.au/sitemap\n\n- eNewsletter sign up (External website): https://cloud.email.ndis.gov.au/newsletter-signup\n\n- NDIS laws: https://ndis.gov.au/ndis-laws\n\n- Governance: https://ndis.gov.au/governance\n\n- Publications: https://ndis.gov.au/publications\n\n- Policies, rules and legal: https://ndis.gov.au/policies-rules-and-legal\n\n- Strategies: https://ndis.gov.au/about-us/strategies\n\n- Reference groups: https://ndis.gov.au/reference-groups\n\n- Grants and projects: https://ndis.gov.au/grants-and-projects\n\n- Privacy: https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy\n\n- Accessibility: https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility\n\n- Copyright: https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright\n\n- Disclaimers: https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers\n\n- Access to information: https://ndis.gov.au/about-us/access-information\n\n- Data and research (External website): https://dataresearch.ndis.gov.au/\n\n- Engage (External website): https://engage.ndis.gov.au\n\n- Freedom of information: https://ndis.gov.au/about-us/policies/freedom-information\n\n- Our guidelines: https://ndis.gov.au/understanding-ndis/about-ndis/our-guidelines\n\n- Social media: https://ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+}

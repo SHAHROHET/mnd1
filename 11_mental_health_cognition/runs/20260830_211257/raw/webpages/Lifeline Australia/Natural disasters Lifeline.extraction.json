@@ -1,0 +1,839 @@
+{
+  "source_id": "lifeline-australia:get-help-support-toolkit-topics-natural-disasters",
+  "title": "Natural disasters | Lifeline",
+  "publisher": "Lifeline Australia",
+  "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 75082,
+  "crawl_depth": 2,
+  "seed_url": "https://www.lifeline.org.au/get-help/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#main-content"
+    },
+    {
+      "text": "Call us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/131114"
+    },
+    {
+      "text": "Chat with us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/chat"
+    },
+    {
+      "text": "Text us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/text"
+    },
+    {
+      "text": "https://www.lifeline.org.au/",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "I’m thinking about suicide",
+      "url": "https://www.lifeline.org.au/get-help/im-thinking-about-suicide"
+    },
+    {
+      "text": "I want to talk to someone",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone"
+    },
+    {
+      "text": "I'm worried about someone",
+      "url": "https://www.lifeline.org.au/get-help/im-worried-about-someone"
+    },
+    {
+      "text": "I want to explore my options",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-explore-my-options"
+    },
+    {
+      "text": "Get help home",
+      "url": "https://www.lifeline.org.au/get-help"
+    },
+    {
+      "text": "Call us 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/131114"
+    },
+    {
+      "text": "Chat to us Support 24/7 ● Service online",
+      "url": "https://www.lifeline.org.au/chat"
+    },
+    {
+      "text": "Text us 0477 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/text"
+    },
+    {
+      "text": "Crisis support",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.lifeline.org.au/get-help/services/counselling"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/service-finder"
+    },
+    {
+      "text": "Workplace & community training",
+      "url": "https://www.lifeline.org.au/get-help/services/workplace-and-community-training"
+    },
+    {
+      "text": "Services home",
+      "url": "https://www.lifeline.org.au/get-help/services"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics"
+    },
+    {
+      "text": "Techniques & guides",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps"
+    },
+    {
+      "text": "Safety planning",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/safety-planning"
+    },
+    {
+      "text": "Community perspectives",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets"
+    },
+    {
+      "text": "Support Toolkit home",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit"
+    },
+    {
+      "text": "Sleep and mental health",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health"
+    },
+    {
+      "text": "Journaling your thoughts and feelings",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and"
+    },
+    {
+      "text": "How to do a digital detox",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox"
+    },
+    {
+      "text": "Helping friends and family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "About Cognitive Behavioural Therapy (CBT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums"
+    },
+    {
+      "text": "Real stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories"
+    },
+    {
+      "text": "Hear from others home",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others"
+    },
+    {
+      "text": "Listen to Joe's story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.lifeline.org.au/get-involved/donate"
+    },
+    {
+      "text": "Donate to Lifeline",
+      "url": "https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline"
+    },
+    {
+      "text": "Donate in memory",
+      "url": "https://inmemory.lifeline.org.au"
+    },
+    {
+      "text": "Leave a gift in your Will",
+      "url": "https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://www.lifeline.org.au/get-involved/fundraising"
+    },
+    {
+      "text": "Fundraise for Lifeline",
+      "url": "https://fundraise.lifeline.org.au/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.lifeline.org.au/get-involved/events"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer"
+    },
+    {
+      "text": "Become a crisis supporter",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter"
+    },
+    {
+      "text": "Community volunteering",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer-in-your-community"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://www.lifeline.org.au/get-involved/partner-with-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.lifeline.org.au/about-us"
+    },
+    {
+      "text": "Who we are",
+      "url": "https://www.lifeline.org.au/about-us/who-we-are"
+    },
+    {
+      "text": "Our strategy",
+      "url": "https://www.lifeline.org.au/about-us/our-strategy"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.lifeline.org.au/about-us/our-services"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.lifeline.org.au/about-us/our-impact"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.lifeline.org.au/about-us/our-structure"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.lifeline.org.au/about-us/governance"
+    },
+    {
+      "text": "Lived experience framework",
+      "url": "https://www.lifeline.org.au/about-us/lived-experience"
+    },
+    {
+      "text": "Our research",
+      "url": "https://www.lifeline.org.au/about/our-research"
+    },
+    {
+      "text": "Data & statistics",
+      "url": "https://www.lifeline.org.au/about/our-research/data-and-statistics"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.lifeline.org.au/about/our-research/research-and-reports"
+    },
+    {
+      "text": "Our partners",
+      "url": "https://www.lifeline.org.au/about/our-partners"
+    },
+    {
+      "text": "Government supporters",
+      "url": "https://www.lifeline.org.au/about/our-partners/government-supporters"
+    },
+    {
+      "text": "Corporate partners",
+      "url": "https://www.lifeline.org.au/about/our-partners/our-corporate-partners"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.lifeline.org.au/about/contact-us"
+    },
+    {
+      "text": "Lifeline locations",
+      "url": "https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you"
+    },
+    {
+      "text": "News & media",
+      "url": "https://www.lifeline.org.au/about/news-and-media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.lifeline.org.au/about/careers"
+    },
+    {
+      "text": "Shop merchandise",
+      "url": "https://lifelineaustralia.infoservices.com.au"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://fundraise.lifeline.org.au"
+    },
+    {
+      "text": "Urgent Crisis Support",
+      "url": "https://www.lifeline.org.au/urgent-crisis-support"
+    },
+    {
+      "text": "English",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters"
+    },
+    {
+      "text": "Understanding natural disasters",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#understanding-natural-disasters-and-mental-health"
+    },
+    {
+      "text": "Feelings & effects",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#feelings-and-effects-of-natural-disasters"
+    },
+    {
+      "text": "Mental preparedness",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#mental-preparedness-tips-for-natural-disasters"
+    },
+    {
+      "text": "Short-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#short-term-help-for-coping-with-natural-disasters"
+    },
+    {
+      "text": "Long-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#long-term-help-for-coping-with-natural-disasters"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#tools-and-apps-for-coping-with-natural-disasters"
+    },
+    {
+      "text": "Support services",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#support-services-for-natural-disasters"
+    },
+    {
+      "text": "For friends & family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#natural-disasters-information-for-friends-and-family"
+    },
+    {
+      "text": "traumatic",
+      "url": "https://www.lifeline.org.au/topics/trauma/about-trauma"
+    },
+    {
+      "text": "feelings of distress",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/what-is-anxiety"
+    },
+    {
+      "text": "financial stress",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress"
+    },
+    {
+      "text": "loss of a loved one",
+      "url": "https://www.lifeline.org.au/topics/grief-loss/what-is-grief"
+    },
+    {
+      "text": "relationship breakdown",
+      "url": "https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships"
+    },
+    {
+      "text": "domestic and family violence",
+      "url": "https://www.lifeline.org.au/topics/domestic-and-family-violence/about-domestic-and-family-violence"
+    },
+    {
+      "text": "supporting someone else",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family"
+    },
+    {
+      "text": "becoming too much",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#when-to-reach-out-for-support"
+    },
+    {
+      "text": "people who can help",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/support-services-for-natural-disasters"
+    },
+    {
+      "text": "right now",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters"
+    },
+    {
+      "text": "over time",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters"
+    },
+    {
+      "text": "Things you can do to prepare mentally",
+      "url": "https://www.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters"
+    },
+    {
+      "text": "Click here to download, save, or print our natural disasters fact sheet",
+      "url": "https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-natural-disasters-fact-sheet.pdf"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.lifeline.org.au/topics/stress/what-is-stress"
+    },
+    {
+      "text": "How you might be feeling mentally and physically",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#how-you-might-be-feeling"
+    },
+    {
+      "text": "How natural disasters can impact existing mental health challenges",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#natural-disasters-and-existing-mental-health-challenges"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.lifeline.org.au/topics/depression/what-is-depression"
+    },
+    {
+      "text": "Loneliness",
+      "url": "https://www.lifeline.org.au/topics/loneliness/what-is-loneliness"
+    },
+    {
+      "text": "Alcohol and drug misuse",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/what-is-substance-misuse"
+    },
+    {
+      "text": "relationships",
+      "url": "https://www.lifeline.org.au/topics/relationships/importance-of-relationships"
+    },
+    {
+      "text": "connections",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections"
+    },
+    {
+      "text": "abusive behaviour",
+      "url": "https://www.lifeline.org.au/topics/domestic-and-family-violence/types-of-domestic-and-family-violence"
+    },
+    {
+      "text": "coercive control",
+      "url": "https://toolkit.lifeline.org.au/topics/domestic-and-family-violence/types-of-domestic-and-family-violence#coercive-control"
+    },
+    {
+      "text": "escape safely",
+      "url": "https://www.lifeline.org.au/topics/domestic-and-family-violence/help-for-domestic-and-family-violence"
+    },
+    {
+      "text": "visit our DFV help page here",
+      "url": "https://www.lifeline.org.au/topics/trauma/help-right-now-for-trauma"
+    },
+    {
+      "text": "dependency",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/feelings-and-effects-substance-misuse"
+    },
+    {
+      "text": "panic attacks",
+      "url": "https://www.lifeline.org.au/topics/panic-attacks/what-is-a-panic-attack"
+    },
+    {
+      "text": "intrusive thoughts",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts"
+    },
+    {
+      "text": "self-harm",
+      "url": "https://www.lifeline.org.au/topics/self-harm/what-is-self-harm"
+    },
+    {
+      "text": "thoughts of suicide",
+      "url": "https://www.lifeline.org.au/topics/suicide/what-is-suicide"
+    },
+    {
+      "text": "talking to someone you trust",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust"
+    },
+    {
+      "text": "Mental Health Treatment Plan",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to"
+    },
+    {
+      "text": "contact Lifeline",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/contacting-lifeline-guide"
+    },
+    {
+      "text": "text",
+      "url": "https://www.lifeline.org.au/crisis-text/"
+    },
+    {
+      "text": "chat",
+      "url": "https://www.lifeline.org.au/crisis-chat/"
+    },
+    {
+      "text": "Anticipating, identifying, and managing potential stressors",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#anticipating-identifying-and-managing-potential-stressors"
+    },
+    {
+      "text": "Practical ways to plan for an emergency",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#practical-ways-to-plan-for-an-emergency"
+    },
+    {
+      "text": "Tips for protecting your emotional wellbeing",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#tips-for-protecting-your-emotional-wellbeing"
+    },
+    {
+      "text": "effects of trauma",
+      "url": "https://www.lifeline.org.au/topics/trauma/effects-of-trauma"
+    },
+    {
+      "text": "RediPlan® disaster preparedness guide",
+      "url": "https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/red-cross-rediplan-disaster-preparedness-guide.pdf"
+    },
+    {
+      "text": "grounding technique",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques"
+    },
+    {
+      "text": "Meditate",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation"
+    },
+    {
+      "text": "practice mindfulness",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness"
+    },
+    {
+      "text": "CBT-based thought-challenging activity",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity"
+    },
+    {
+      "text": "self-care",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing"
+    },
+    {
+      "text": "Lifeline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.lifeline.org.au/get-help/national-services/beyond-blue"
+    },
+    {
+      "text": "RediPlan®",
+      "url": "https://www.redcross.org.au/globalassets/cms/community-action-catalogue/preparedness/rediplan-lite.pdf"
+    },
+    {
+      "text": "Emergency kit checklist",
+      "url": "https://www.nrma.com.au/sites/nrma/files/nrma/documents/emergency-kit-checklist.pdf"
+    },
+    {
+      "text": "Tips for making a home inventory",
+      "url": "https://thehub.nrma.com.au/property/how-make-home-inventory-and-why-you-need-start-one-today"
+    },
+    {
+      "text": "Extreme Weather Checklist",
+      "url": "https://financialrights.org.au/wp-content/uploads/2023/04/FINAL-Disaster-Checklist-.pdf"
+    },
+    {
+      "text": "Get Prepared app",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/get-prepared"
+    },
+    {
+      "text": "Help Nation",
+      "url": "https://articles.nrma.com.au/helpnation/index.html#section-HELP-NATION-Z9dEgCgbmI"
+    },
+    {
+      "text": "Wild Weather Tracker",
+      "url": "https://articles.nrma.com.au/help-nation-wild-weather-tracker/"
+    },
+    {
+      "text": "State Emergency Services",
+      "url": "https://www.ses.org.au/"
+    },
+    {
+      "text": "ABC Local Radio",
+      "url": "http://reception.abc.net.au/"
+    },
+    {
+      "text": "self-care box",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box"
+    },
+    {
+      "text": "What to do after a natural disaster",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#what-to-do-after-a-natural-disaster"
+    },
+    {
+      "text": "Tips for managing stress",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#tips-for-managing-stress"
+    },
+    {
+      "text": "Healthy ways to cope",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#healthy-ways-to-cope"
+    },
+    {
+      "text": "Resources for helping kids cope",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#resources-for-helping-kids-cope"
+    },
+    {
+      "text": "self-esteem",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health"
+    },
+    {
+      "text": "Legal advice",
+      "url": "https://financialrights.org.au/"
+    },
+    {
+      "text": "Calm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm"
+    },
+    {
+      "text": "Smiling Mind",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind"
+    },
+    {
+      "text": "click here",
+      "url": "https://www.redcross.org.au/globalassets/cms/downloads/pdfs/shella/19060-red-crisis-children-booklet-d11-176x250-web.pdf"
+    },
+    {
+      "text": "Kids Helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/kids-helpline"
+    },
+    {
+      "text": "Australian Red Cross resources for parents and caregivers",
+      "url": "https://www.redcross.org.au/emergencies/resources/resources-for-parents-and-caregivers/"
+    },
+    {
+      "text": "Tips for talking to children before an emergency",
+      "url": "https://www.redcross.org.au/globalassets/cms-assets/documents/emergency-services/talking-with-children-before-and-emergency.pdf"
+    },
+    {
+      "text": "Get ready activity book",
+      "url": "https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/get-ready-kids.pdf"
+    },
+    {
+      "text": "After an emergency activity book",
+      "url": "https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/after-the-emergency-kids-booklet.pdf"
+    },
+    {
+      "text": "Parenting: Coping with crisis",
+      "url": "https://www.redcross.org.au/globalassets/cms/downloads/pdfs/shella/19060-red-crisis-parents-booklet-d10-web.pdf"
+    },
+    {
+      "text": "australianredcross.org.au",
+      "url": "https://www.redcross.org.au/"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety"
+    },
+    {
+      "text": "How self-esteem can impact your mental health",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#self-esteem-and-recovery"
+    },
+    {
+      "text": "The importance of creating and leaning on a support system",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#creating-a-support-system"
+    },
+    {
+      "text": "Understanding triggers and unhealthy coping habits",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#understanding-triggers-and-unhealthy-coping-habits"
+    },
+    {
+      "text": "Therapies that can help with processing emotions and trauma",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#therapies-that-can-help-with-processing-emotions-and-trauma"
+    },
+    {
+      "text": "Using your experience to mentally prepare for future events",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#mentally-prepare-for-future-events"
+    },
+    {
+      "text": "healthy relationships",
+      "url": "https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships"
+    },
+    {
+      "text": "stay sober",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/short-term-help-for-substance-misuse"
+    },
+    {
+      "text": "self-harm",
+      "url": "https://www.lifeline.org.au/topics/self-harm/short-term-help-for-self-harm"
+    },
+    {
+      "text": "FriendLine",
+      "url": "https://www.lifeline.org.au/get-help/national-services/friendline"
+    },
+    {
+      "text": "eFriend",
+      "url": "https://www.lifeline.org.au/get-help/national-services/efriend"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/chriss-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/chriss-story"
+    },
+    {
+      "text": "Click here to learn about the support services available for substance misuse",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/support-services-for-substance-misuse"
+    },
+    {
+      "text": "Acceptance and commitment therapy (ACT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act"
+    },
+    {
+      "text": "Eye movement desensitisation and reprocessing (EMDR)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/emdr-therapy-what-it-is-how-it-works-and-what-to"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lindas-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lindas-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/katherine-and-jenifers-stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/katherine-and-jenifers-stories"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lilly-and-lees-stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lilly-and-lees-stories"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm-harm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm-harm"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program"
+    },
+    {
+      "text": "ABC Local Radio",
+      "url": "https://reception.abc.net.au/"
+    },
+    {
+      "text": "National Emergency Management Agency (NEMA)",
+      "url": "https://nema.gov.au/"
+    },
+    {
+      "text": "Rural Financial Counselling Service",
+      "url": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/drought/rural-financial-counselling-service"
+    },
+    {
+      "text": "Farmer Assistance Hotline",
+      "url": "https://farmerhealth.org.au/support"
+    },
+    {
+      "text": "Rural Aid Australia",
+      "url": "https://www.ruralaid.org.au/"
+    },
+    {
+      "text": "GIVIT",
+      "url": "https://www.givit.org.au/first-nations-support"
+    },
+    {
+      "text": "St Vincent de Paul",
+      "url": "https://www.vinnies.org.au/national-disasters"
+    },
+    {
+      "text": "Salvation Army",
+      "url": "https://www.salvationarmy.org.au/"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mensline-australia",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mensline-australia"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/13yarn",
+      "url": "https://www.lifeline.org.au/get-help/national-services/13yarn"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/griefline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/griefline"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mindspot",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mindspot"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/1800respect",
+      "url": "https://www.lifeline.org.au/get-help/national-services/1800respect"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/national-alcohol-other-drug-hotline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/national-alcohol-other-drug-hotline"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/national-debt-helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/national-debt-helpline"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder"
+    },
+    {
+      "text": "Signs that someone might be struggling to cope",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#signs-that-someone-might-be-struggling-to-cope"
+    },
+    {
+      "text": "Tips for helping someone you care about",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#tips-for-helping-someone-you-care-about-after-a-natural-disaster"
+    },
+    {
+      "text": "Practical ways you can offer support",
+      "url": "https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#practical-ways-you-can-offer-support"
+    },
+    {
+      "text": "Read Better Health Channel's tips for supporting a child who's experienced trauma",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/trauma-and-children-tips-for-parents"
+    },
+    {
+      "text": "Learn about the common challenges of men's mental health",
+      "url": "https://mensline.org.au/mens-mental-health/mens-mental-health-common-challenges/"
+    },
+    {
+      "text": "difficult conversations",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#tips-for-having-difficult-conversations"
+    },
+    {
+      "text": "Click here to download, save, or print our natural disasters fact sheet.",
+      "url": "https://www.lifeline.org.au/sites/default/files/2026-04/Lifeline-x-NRMA-Insurance-Extreme-Weather-and-Suicidality-Fact-Sheet.pdf"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/find-another-service"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://www.lifeline.org.au/get-involved"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://www.lifeline.org.au/about/reconciliation-action-plan"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.lifeline.org.au/policies"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.lifeline.org.au/policies/privacy-policy"
+    },
+    {
+      "text": "Language",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support"
+    },
+    {
+      "text": "https://www.facebook.com/LifelineAustralia/",
+      "url": "https://www.facebook.com/LifelineAustralia/"
+    },
+    {
+      "text": "https://www.instagram.com/lifelineaustralia/",
+      "url": "https://www.instagram.com/lifelineaustralia/"
+    },
+    {
+      "text": "https://au.linkedin.com/company/lifeline-australia",
+      "url": "https://au.linkedin.com/company/lifeline-australia"
+    },
+    {
+      "text": "https://x.com/LifelineAust",
+      "url": "https://x.com/LifelineAust"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw",
+      "url": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+    }
+  ],
+  "text": "Natural disasters | Lifeline Skip to main content\n\nIf life is in danger, call Triple Zero (000)\n\nCall us ● Chat with us ● Text us ●\n\n- Get help\n\n- Help starts here\n\n- I’m thinking about suicide\n\n- I want to talk to someone\n\n- I'm worried about someone\n\n- I want to explore my options\n\n- Get help home\n\nCall us 13 11 14\n\n● Service online\n\nChat to us Support 24/7\n\nText us 0477 13 11 14\n\nServices\n\n- Crisis support\n\n- Counselling\n\n- Service Finder\n\n- Workplace & community training\n\n- Services home\n\nChat with us Support 24/7\n\nSupport Toolkit\n\n- Topics\n\n- Techniques & guides\n\n- Tools & apps\n\n- Safety planning\n\n- Community perspectives\n\n- Fact sheets\n\n- Support Toolkit home\n\nSleep and mental health\n\nJournaling your thoughts and feelings\n\nHow to do a digital detox\n\nHelping friends and family\n\nAbout Cognitive Behavioural Therapy (CBT)\n\nHear from others\n\n- Forums\n\n- Real stories\n\n- Hear from others home\n\nListen to Joe's story\n\n- Get involved\n\n- Donate\n\n- Donate to Lifeline\n\n- Donate in memory\n\n- Leave a gift in your Will\n\nFundraise\n\n- Fundraise for Lifeline\n\n- Events\n\nVolunteer\n\n- Become a crisis supporter\n\n- Community volunteering\n\nPartner with us\n\nBecome a Crisis Supporter Explore\n\n- About\n\n- About us\n\n- Who we are\n\n- Our strategy\n\n- Our services\n\n- Our impact\n\n- Our structure\n\n- Governance\n\n- Lived experience framework\n\nOur research\n\n- Data & statistics\n\n- Research & reports\n\nOur partners\n\n- Government supporters\n\n- Corporate partners\n\nContact us Lifeline locations News & media Careers Shop merchandise\n\nVolunteer Fundraise\n\nDonate\n\nSearch\n\nGet help\n\nContact us\n\nLifeline locations\n\nNews & media\n\nCareers\n\nShop merchandise\n\nDonate Volunteer\n\nUrgent Crisis Support\n\n## What can we help you find?\n\nClose\n\n# Get Help\n\nIf life is in danger, call 000.\n\nCall us\n\nChat with us\n\nText us\n\nExplore our services\n\nTranslation notice: Lifeline Crisis Support is delivered in English. This page was translated automatically and may not be fully accurate. Spot an issue? Let us know\n\nShare feedback about automatic translation accuracy.\n\nBreadcrumb\n\nBack to Topics\n\n- Home\n\n- Support Toolkit\n\n- Natural disasters\n\nTranslate\n\n- English\n\n- Mandarin 普通话\n\n- Cantonese (廣東話)\n\n- Arabic (عربى)\n\n- Vietnamese\n\n- Punjabi\n\n- Hindi\n\n- Greek\n\n- Italian\n\n- Spanish\n\n- Nepali\n\n# Natural disasters\n\nUnderstand the mental health impacts of extreme weather and learn ways to manage stress and build resilience before, during, and after a natural disaster.\n\nJump to\n\nUnderstanding natural disasters Feelings & effects Mental preparedness Short-term help Long-term help Tools & apps Support services For friends & family\n\n## Understanding natural disasters\n\nOpen\n\n### How do natural disasters impact mental health?\n\nDue to the impact of climate change, extreme weather events such as heatwaves, bushfires, floods, and droughts are happening more frequently. Since 2019, over 80% of Australians have reported experiencing a natural disaster.\n\nWhile it can be easy to see the physical damage, we don’t always see the way these traumatic events can impact the mental health and wellbeing of ourselves and those we care about.\n\nIf you’re struggling to cope after a natural disaster or are worried about the potential effects of climate change, you’re not alone. Extreme weather can be unexpected and leave us with feelings of distress .\n\n### For example, you or someone you care about may have:\n\n- Had to leave loved ones or sentimental items behind\n\n- Witnessed catastrophic damage\n\n- Lost a loved one or a pet\n\n- Become displaced and unsure about where to live\n\n- Lost the ability to work or earn money\n\n- Sustained an injury or come close to death\n\n- Become cut off from a support network.\n\nThe uncertainty, anxiety , sense of loss, and financial stress that often come with weather-related events can be overwhelming.\n\nThis is especially true if you’re still recovering from a previous natural disaster or are already dealing with a stressful life event like the loss of a loved one , chronic illness, relationship breakdown or domestic and family violence .\n\nWhether you’ve experienced a natural disaster firsthand, as a first responder or are supporting someone else , it’s important to keep track of how you’re feeling , recognise when things are becoming too much , and reach out to people who can help when needed.\n\nIn this topic, you’ll find information and resources that can help you understand:\n\n- How natural disasters can impact your mental health\n\n- Practical things you can do to feel better right now and over time\n\n- Support services that can help you and the people you care about\n\n- Things you can do to prepare mentally .\n\nHelp is available.\n\n13 HELP (13 43 57) is Lifeline's 24/7 dedicated support line for people living through bushfire recovery or struggling to cope with an extreme weather-related event.\n\nAlternatively, you can connect with a Lifeline crisis supporter via phone ( 13 11 14 ), text , and chat . If life is in danger, call 000 .\n\nClick here to download, save, or print our natural disasters fact sheet .\n\nClose section\n\n## Feelings & effects\n\n### How can natural disasters impact my mental health?\n\nWhether you experienced a natural disaster last week, last year or in the last three years, it’s understandable if you feel like you’re stuck on a rollercoaster of emotions. Healing and rebuilding can take a long time and will look different for everyone.\n\nOftentimes, the uncertainty of not knowing what’s going to happen or how things will get better can cause the most stress .\n\nIt doesn’t matter what your experience has been, the way you’re feeling is valid. Even things like thinking about climate change or anticipating extreme weather can cause feelings of anxiety .\n\nWhat matters most is that you're being kind and compassionate to yourself, understanding your emotions, and recognising when you need support .\n\nOn this page, you’ll find information on:\n\n- How you might be feeling mentally and physically\n\n- How natural disasters can impact existing mental health challenges\n\n- Signs things might be becoming too much .\n\nScroll down to learn more.\n\n### How you might be feeling\n\nWhen a natural disaster causes major damage to your home, vehicle or business, it's normal to feel upset and overwhelmed by the recovery process. Tasks like finding somewhere to stay, organising repairs, and filing insurance claims can be time-consuming, stressful, and are often made harder by complicated emotions like grief.\n\nYou may not think you’re experiencing grief, but remember - grief isn’t limited to losing a loved one.\n\nYou can grieve:\n\n- The loss of people you weren’t close to or directly connected with\n\n- Nature and wildlife\n\n- Your home or your job/school\n\n- Your routine\n\n- The wellbeing of your community\n\n- The future you imagined.\n\nThere isn’t a right or wrong way to react to natural disasters because there isn’t a right or wrong way to cope with the stress , grief and trauma they can cause.\n\nBelow, we’ve listed common ways you might be thinking, feeling, and acting in the days, months, and years following a natural disaster or extreme weather event.\n\nKeep in mind that you may experience just one, some or all of these feelings at any point in your journey. They can come in waves and vary in levels of intensity.\n\nSome days, you may feel like you’re handling everything okay but your body could be showing you signs that you’re not coping as well as you think.\n\n### Common physical symptoms you might be experiencing\n\n- Brain fog and fatigue\n\n- Poor concentration and memory problems\n\n- Sleep problems such as difficulty falling or staying asleep\n\n- Nightmares\n\n- Feelings of unease or jumpiness\n\n- Changes in appetite\n\n- Headaches, stomach pains, and frequent colds\n\n- Hair loss and skin irritations\n\n- Chronic health problems such as cardiovascular disease, high blood pressure, diabetes, and autoimmune disorders.\n\nWhile it is normal to experience these stress responses if you’ve experienced a natural disaster, it’s important to find ways to manage your stress in order to protect your mental health and wellbeing.\n\n### Natural disasters and existing mental health challenges\n\nEven if you haven’t struggled with your mental health in the past, experiencing a natural disaster can sometimes lead to mental health conditions like:\n\n- Anxiety\n\n- Depression\n\n- Post-traumatic stress disorder (PTSD).\n\nIf you do have existing mental health challenges, experiencing a natural disaster can make those challenges more difficult.\n\nBecause of the isolation often experienced in the weeks, months, and years after a natural disaster or extreme weather event, we typically see a rise in:\n\n- Loneliness\n\n- Relationship problems\n\n- Domestic and family violence\n\n- Alcohol and drug misuse .\n\n### Relationships and loneliness\n\nNatural disasters can put a strain on relationships because of the heightened stress and emotions that can come in the aftermath. While you may be struggling to cope with your own emotions, you might also be struggling to support others.\n\nIf you’re separated from your usual support networks and communities, you may find it difficult to maintain connections with loved ones and adjust to the loss of your usual support systems and routines.\n\n### Domestic and family violence\n\nWhile any type of relationship can be impacted, natural disasters can cause particular concern for women and children experiencing domestic and family violence .\n\nThis is because natural disasters can:\n\n- Create more opportunities for abusive behaviour like coercive control\n\n- Cause abuse and violence to escalate\n\n- Prevent you from accessing support\n\n- Make it difficult to escape safely .\n\nIf you’re already experiencing domestic and family violence and would like more information and support options, visit our DFV help page here .\n\n### Substance misuse\n\nSometimes, people turn to alcohol and drugs to cope with the stress and traumatic impacts of natural disasters.\n\nWhile you may feel temporary relief from alcohol and drugs, relying on them to cope with stress can make mental health conditions like anxiety and depression worse and lead to dependency .\n\nClick here to learn more about substance misuse and where you can find support .\n\n### When to reach out for support\n\nYou can reach out for support no matter how well you think you're doing. However, it's especially important to reach out if you’re finding it hard to manage daily life.\n\nHere are some of the signs that things might be becoming too much:\n\n- Withdrawing from friends and family\n\n- Losing interest in activities\n\n- Feeling guilty and regretful\n\n- Experiencing panic attacks\n\n- Ruminating and worrying about the future\n\n- Noticing intrusive thoughts\n\n- Having flashbacks or dreams that make it feel like you’re reliving the event\n\n- Struggling to sleep or experiencing insomnia\n\n- Using alcohol and drugs to cope\n\n- Getting urges to self-harm\n\n- Feeling hopeless and having thoughts of suicide .\n\nEven though it’s normal to experience stress in the aftermath of a natural disaster, you don’t have to live with those feelings forever and you don’t have to deal with them on your own.\n\n### If things are feeling a bit too much, you can:\n\n- Learn tips for talking to someone you trust\n\n- Book an appointment with a GP to talk about getting a Mental Health Treatment Plan\n\n- Contact a mental health support service .\n\nIf those options don’t feel right for you, you may find it helpful to learn strategies to help you manage stress and cope with uncertainty on our short-term help page.\n\nYou can also always contact Lifeline via phone ( 13 11 14 ), text , and chat 24 hours a day, 7 days a week.\n\nWe’re here to listen to whatever it is you're going through.\n\n## Mental preparedness\n\n### Mental preparedness tips for natural disasters\n\nWhile it’s natural to think about physically preparing for a natural disaster, it's equally important to mentally prepare.\n\nBy taking steps to prepare mentally and emotionally for unexpected events, you can become better equipped to handle challenging situations and manage stress .\n\nOn this page, you'll find information on:\n\n- Anticipating, identifying, and managing potential stressors\n\n- Practical ways to plan for an emergency\n\n- Tips for protecting your emotional wellbeing .\n\n### Anticipating, identifying, and managing potential stressors\n\nIn life, it’s often the unexpected things that can cause us the most stress and overwhelm.\n\nBy educating yourself on what to expect before, during, and after a natural disaster, you can be proactive about what things might potentially impact you the most.\n\n#### Anticipate\n\n### Before a natural disaster\n\n- You may experience heightened anxiety as you anticipate the potential destruction and loss of life and property. For example, if you live in an area prone to bushfires, you may feel anxious when a hot, windy day approaches.\n\n- You may experience increased panic in the lead-up to a potentially inevitable disaster. For example, you might stop looking after your mental health while ‘waiting’ for the disaster to occur.\n\n- You may be in constant panic to be physically prepared. You might feel the need to stock up on emergency supplies, reinforce your home, have an evacuation plan in place, etc.\n\n- You may feel overwhelmed by the tasks to keep yourself and your loved ones safe\n\n- You may experience physical symptoms such as an upset stomach, skin irritations, and headaches as a result of increased stress while waiting for a disaster to happen\n\n- If you’ve experienced a disaster before, you may experience flashbacks and other effects of trauma .\n\n### During a natural disaster\n\n- You may experience intense fear, terror, helplessness and hopelessness while confronted with a potentially life-threatening situation\n\n- You may experience grief witnessing the destruction of possessions, homes and loss of loved ones\n\n- Disruption of routines may cause a loss of normality and stability, which can leave you feeling disoriented and stressed\n\n- Evacuations and displacement may lead to social isolation, removing you from your support networks and increasing feelings of loneliness and vulnerability\n\n- You may experience trauma when directly witnessing or experiencing events in a natural disaster, such as injuries and loss of life.\n\n### Immediately after a natural disaster\n\n- You may experience shock and emotional trauma , which can manifest as flashbacks or nightmares\n\n- You may feel numb and detached from the reality of what has happened\n\n- If lives have been lost in a natural disaster, you may feel guilty you survived while others didn’t make it\n\n- You may also experience guilt of ‘not having done enough’ to prevent the effects of the natural disaster\n\n- You may experience family and relationship problems , such as lack of communication, arguing or domestic and family violence\n\n- You may feel isolated, as no one understands how you feel or what you’ve been through.\n\n### In the long term\n\n- You may experience flashbacks, intrusive thoughts , heightened anxiety and other symptoms of post-traumatic stress disorder (PTSD)\n\n- You may develop depression , anxiety , start misusing substances and have suicidal thoughts\n\n- You may experience survivor’s guilt long after a natural disaster and question why you survived when others didn’t\n\n- Natural disasters may disrupt your daily routine and lead to work and relationship challenges\n\n- Losing your home or other material possessions may lead to financial stress\n\n- You may feel frustrated, confused and stressed pending insurance payouts, finding temporary housing or struggling to access support services\n\n- You may feel lonely and isolated as a result of losing your community\n\n- You may become more cautious or even avoid high-risk areas.\n\n#### Identify\n\nOnce you've thought through the scenarios that might impact you, you can use this RediPlan® disaster preparedness guide to make a stress management plan.\n\nAlternatively, you can use your phone's notes app or a piece of paper and the following prompts.\n\n#### Manage\n\nWhen it comes to things you can do to manage stress , what works for you might not work for someone else and vice versa.\n\nWe all respond to stress differently, which means we'll all manage it differently and that's okay.\n\nBelow are practical techniques and strategies that you can turn to when experiencing stress.\n\n- Go for a walk\n\n- Listen to music or an uplifting podcast\n\n- Spend time outside or in a garden\n\n- Try a grounding technique\n\n- Journal your thoughts and feelings\n\n- Meditate or practice mindfulness\n\n- Do this CBT-based thought-challenging activity\n\n- Practise self-care\n\n- Do volunteer work or help others\n\n- Contact a support service like Lifeline or Beyond Blue .\n\nTechniques & Guides\n\n### Finding relief through grounding techniques\n\nWhen feeling overwhelmed, grounding techniques can be a practical yet powerful way to feel calm and regain control. Learn how they can help you.\n\n11 minutes read\n\nHelps with Anxiety Stress\n\n### Practical ways to plan for an emergency\n\nOne of the best ways you can manage stress during and after a natural disaster is by getting your ducks in a row. (e.g. tackle the to-do list that’s been in your ‘too-hard basket’ for the last few years.)\n\nThis can look like:\n\n- Checking that your insurance policy and level of coverage are right for you and up to date\n\n- Taking an inventory of your household\n\n- Actioning any repairs that could help prevent damage in the event of extreme weather.\n\nBy taking care of the tasks that require a bit of deep thinking up front, you’ll feel less overwhelmed should you experience a natural disaster.\n\n### Helpful checklists to prepare for a natural disaster\n\n- Australian Red Cross RediPlan® Disaster Preparedness Guide\n\n- Create a RediPlan®\n\n- Emergency kit checklist\n\n- Tips for making a home inventory\n\n- Financial Rights Legal Centre - Extreme Weather Checklist\n\nAustralian Red Cross and NRMA Insurance have made getting prepared easier by co-creating the Get Prepared app , a digital version of Australian Red Cross' award-winning RediPlan® disaster preparedness guide and RediPlan® worksheet .\n\nYou can also find a variety of really valuable natural disaster resources on this Help Nation page and stay up to date with this Wild Weather Tracker .\n\nTools & Apps\n\n### Get Prepared\n\nGet Prepared is a mobile app that can help you prepare for, respond to, and recover from natural disasters and other unexpected extreme weather events.\n\nHelps with Natural Disasters Stress\n\nEmergency contacts and information to keep on hand\n\n- Call 000 for police, fire, or ambulance\n\n- Call State Emergency Services ( 132 500 ) for help in storms and floods. In life-threatening situations, call 000\n\n- Find your local frequency at ABC Local Radio for essential up-to-date information, including advice from authorities and available support\n\n- 13 HELP (13 43 57) is Lifeline's 24/7 dedicated support line for people living through bushfire recovery or struggling to cope with an extreme weather-related event. You can always call 13 11 14 if you prefer.\n\n### Tips for protecting your emotional wellbeing\n\nUltimately, the best way to protect your wellbeing is to ensure you're practising self-care and keeping your life as normal as possible.\n\nThis means establishing and sticking to daily routines, getting enough sleep , eating well, socialising, and moving your body.\n\nHere are a few more ways you can protect your wellbeing:\n\n- Build a strong social support system by connecting with friends and family\n\n- Create an emergency self-care box you can access when you’re feeling anxious\n\n- Create backups of important photos and memories to reduce the chances of losing them\n\n- Establish daily mindfulness or relaxation techniques to manage stress and anxiety\n\n- Listen to calming or mood-boosting playlists\n\n- Prioritise and protect your sleep\n\n- Consider seeking professional mental health support , especially if you have lived through a prior natural disaster or have a history of anxiety , depression or trauma .\n\n### Self-care for mental health and wellbeing\n\nLooking for self-care ideas? Find practical tips, 5-minute quick wins, and simple ways to look after your mental health when feeling overwhelmed.\n\n10 minutes read\n\nHelps with Stress Depression\n\n## Short-term help\n\n### Coping with natural disasters and other unexpected extreme weather events\n\nWhen you’ve experienced something traumatic , like a natural disaster, one of the best things you can do is recognise what you don’t need to do.\n\n### You don't need to ...\n\n- Have all the answers\n\n- Handle everything on your own\n\n- Suffer in silence.\n\nWe know those three things can be easier said than done, but it really is important that you show yourself some compassion and remind yourself that you’re doing the best you can.\n\nRemember, natural disasters rarely just impact one area of your life. You can feel the impacts in your relationships , communities, professional life, finances , and more.\n\nThis is why it’s important to acknowledge what you’ve been through and give yourself permission to take care of your own mental health and wellbeing before anything or anyone else.\n\n- What to do after a natural disaster\n\n- Tips for managing stress\n\n- Healthy ways to cope\n\n- Resources for helping kids cope .\n\n### What to do after a natural disaster\n\nIn the days, weeks, and months following a natural disaster, it’s common to feel overwhelmed and uncertain about the future.\n\nThis is because it's easy to find yourself in fight, flight or freeze mode when you experience stressful or traumatic events. While these are normal ways to respond, they aren’t always helpful.\n\nFor example, in ‘fight mode’, you might overload your to-do list with unimportant tasks because it gives you a false sense of control. In ‘flight’ or ‘freeze mode’, you might avoid your to-do list or not know what to do altogether.\n\nSo, first things first …\n\n### Acknowledge what you've been through\n\nBy taking time to pause and reflect on how you’ve been impacted, you’ll be able to think more clearly about what you actually need to move forward.\n\nIn particular, it’s helpful to reflect on how the event may have impacted your self-esteem . Self-esteem and mental health are closely linked because it’s where we get the resilience to push through challenging times. You may find these journaling prompts helpful.\n\n### Take as much as you can off your plate\n\nChances are you were already dealing with a lot. In the days, weeks, and even months following a natural disaster, it’s okay to dial back on your commitments and ask for help.\n\nThis could look like:\n\n- Taking time off work\n\n- Temporarily stepping back from volunteer positions\n\n- Outsourcing housework\n\n- Asking for help with childcare.\n\nIt could also mean lowering the expectations you’ve set for yourself.\n\nRemember, you don’t have to do everything or be everything to everyone. It’s okay to give yourself permission to sleep in and delay plans.\n\n### Prioritise self-care\n\nSelf-care is one of the ways we can manage stress and cope during challenging times.\n\nSelf-care can be a massage, treating yourself to a new book, or taking time off work, but it can also be as simple as:\n\n- Doing a digital detox\n\n- Eating well throughout the day\n\n- Getting adequate sleep\n\n- Moving your body regularly\n\n- Limiting drugs and alcohol\n\n- Catching up with friends and family.\n\nClick here to learn more about the importance of self-care and ideas on how to practise it .\n\n### Sleep and mental health\n\nImproving your sleep can also improve your mental health. Learn about common sleep problems, tips for creating healthy sleep habits, and strategies for falling asleep.\n\n15 minutes read\n\nHelps with Sleep Anxiety\n\n### Talk about your experience\n\nThe effects of natural disasters are often felt far and wide, which means people in your community are likely experiencing similar emotions.\n\nTalking to family members, friends, and neighbours who get what you’re going through can be a helpful way to feel more connected, make sense of your emotions, and manage stress. Click here to learn tips for talking to someone you trust .\n\nAnd remember, Lifeline crisis supporters are here to listen 24/7 via phone ( 13 11 14 ), text , and chat .\n\n### Make a plan for how you’ll know if things are becoming too much\n\nDepending on how mentally prepared you were in the lead-up to the event, you may or may not know what your stressors are, how you know if you’re experiencing them, and what tools you can use to cope.\n\nIf you haven’t taken time to think about how the event may be impacting your mental and physical health and how you’ll know if things are becoming too much, you may want to visit our natural disasters feelings and effects page.\n\n### Reach out for support\n\nKeep in mind that Australia has numerous support services that are confidential, free, and typically available 24 hours a day, 7 days a week.\n\nAfter a natural disaster, you may want help with:\n\n- Financial stress\n\n- Alcohol and drug misuse\n\n- Legal advice\n\n- Mental health counselling .\n\nClick here to find the support services that are right for you and the people you care about .\n\n### Tips for managing stress\n\nEven when there hasn’t been a natural disaster, stressors like money, work, and kids can feel overwhelming.\n\nWhile stress is a natural and necessary way your body responds to situations it perceives as threatening or dangerous, it can become a problem if it sticks around too long or becomes unmanageable.\n\nIf possible, try to minimise stress in every area of your life. This is particularly important if you were already dealing with a big life event (like the loss of a loved one , relationship breakdown , chronic illness, or previous natural disaster) before the event.\n\nWays you can manage stress:\n\n- Lean on support services and accept help from others\n\n- Ask for extensions on upcoming deadlines\n\n- Request a reduced workload\n\n- Avoid people who upset or emotionally drain you\n\n- Go for a gentle walk instead of a long run\n\n- Create and stick to routines\n\n- Limit the amount of media coverage you watch\n\n- Do a digital detox\n\n- Choose uplifting movies/series/podcasts instead of distressing topics\n\n- End a problematic or abusive relationship.\n\n### How to do a digital detox\n\nExcessive media and technology use can have a negative impact on your mental health, relationships and overall wellbeing. If you feel your screen time has become problematic, a digital detox can help you bring things back into balance.\n\n8 minutes read\n\nHelps with Anxiety Depression\n\n### Healthy ways to cope\n\nWhen it comes to managing stress, it’s helpful to have a few go-to techniques and strategies that you can use when you’re starting to feel overwhelmed.\n\nKeep in mind that we’re all different so what works for someone else might not work for you and that’s okay. The key is finding out what you can do to feel calm and safe.\n\nBelow, we’ve listed a few ideas you can try.\n\n### Create a self-care box\n\nWhen you’re distressed or overwhelmed, it can be difficult to think about how you’re going to calm down in the moment. By having a pre-prepared self-care box on hand, you can make sure it includes things that can help you relax.\n\nFor example, you could include a list of guided breathing and meditation tracks that help you sleep, a notebook to journal your thoughts and feelings , or a bag of herbal tea.\n\n### Creating a self-care box\n\nSelf-care can help you cope with challenging times by ensuring your emotional, physical, and social needs are being met. In this article, we detail how having a self-care box can be a valuable mental health and wellbeing tool.\n\n6 minutes read\n\nHelps with Distress Overwhelm\n\n### Practise mindfulness and meditation\n\nIf you’re finding it hard to stay focused during the day or are struggling to sleep, you may want to try practising mindfulness and meditation .\n\nMindfulness is the practice of paying attention to the present moment with an attitude of curiosity, openness, and non-judgement while meditation is the practice of training your brain to focus on the present moment.\n\nTo learn more and get started, you can read our introduction to meditation and getting started with mindfulness articles or download a mindfulness and meditation app like Calm or Smiling Mind .\n\n### Smiling Mind\n\nSmiling Mind is a mindfulness and meditation app that helps kids, teens, and adults improve their wellbeing and achieve specific mental health goals like better sleep, reduced stress, stronger relationships, and more.\n\n### Use a grounding technique\n\nSimilar to mindfulness , grounding techniques can help shift your attention away from distressing feelings and redirect it to what is happening right now.\n\nGrounding can be particularly helpful if you’re experiencing trauma as it can allow you to move away from negative thoughts or flashbacks.\n\nThere are several different grounding techniques, but a great one to start with is the five senses check-in because it can be helpful in decreasing the intensity of your feelings.\n\n### Resources for helping kids cope\n\nWhile kids are incredibly resilient and tend to adjust to big changes quite quickly, they respond differently to stress and trauma .\n\nFor example, while you might be able to recognise and say you’re angry because you haven’t been able to have a hot shower in two weeks, a child might appear happy but revert to babyish behaviours like thumbsucking or bedwetting. While these behaviours can feel frustrating because they're another factor making things hard for you, try to be patient and understanding with your children.\n\nIn most cases, a child will turn to you or another adult for guidance on how to feel. As a result, the way you react to a natural disaster can impact how your child will cope and recover.\n\n### Tips for helping children cope after a natural disaster\n\n- Take care of your own mental and physical health. If you’re not eating, sleeping, and functioning well, your child will pick up on it. Just like when flying, you must put on your own oxygen mask before helping others.\n\n- Stick to routines, especially around meals and bedtime. Children thrive on consistency so the sooner they can return to school and activities, the better.\n\n- Help them understand what happened. It’s okay to talk about the event and your feelings in an appropriate way. It’s also important that you encourage your child to talk about their feelings. Keep in mind that they might not feel the same way you do.\n\nFor more tips on how to help kids cope with trauma, click here .\n\nIf you’d like further advice on how to talk to your child about a natural disaster, you can contact Kids Helpline .\n\nKids Helpline is a free and confidential 24/7 online and phone counselling service for kids, teens, young people and the adults who care about them.\n\nYou can also save or download the following Australian Red Cross resources for parents and caregivers :\n\n- Tips for talking to children before an emergency\n\n- Get ready activity book (ages 5-8)\n\n- Helping children and young people cope with crisis\n\n- After an emergency activity book (ages 5-8)\n\n- Parenting: Coping with crisis\n\nLearn more at australianredcross.org.au .\n\nSupport Guide\n\n### How to talk to a child or young person you're concerned about\n\nParents, carers, and trusted adults can play a big role in supporting a child or young person through challenging times. Learn practical tips for starting a conversation and creating a safe space for them to open up.\n\n12 minutes read\n\nHelps with Offering support\n\n## Long-term help\n\n### Long-term help for coping with uncertainty, managing stress, and moving forward\n\nRegional communities that have faced natural disasters like bushfires and floods reported feeling forgotten 3-6 months after the event because support organisations have moved resources on to the next disaster.\n\nIn a way, it's similar to losing a loved one. Everyone flocks to you and helps plan the funeral, but 3-6 months after, you’re often on your own to deal with feelings like grief , loneliness , and isolation.\n\nNo matter how alone you might feel, help is available every step of the way, even five and ten years down the track.\n\nEven if things are beginning to look normal on the outside, it’s okay if you’re feeling unsettled or having trouble coping. A lot of people feel the emotional impacts of natural disasters for up to three years, if not longer.\n\nRemember, natural disasters can be traumatic experiences, so it makes sense if you’re still experiencing anxiety symptoms, intrusive thoughts , sleep problems , hypervigilance (feeling jumpy or on edge), or panic attacks .\n\n- How self-esteem can impact your mental health\n\n- The importance of creating and leaning on a support system\n\n- Understanding triggers and unhealthy coping habits\n\n- Therapies that can help with processing emotions and trauma\n\n- Using your experience to mentally prepare for future events .\n\n### Self-esteem and recovery\n\nSelf-esteem is a key way that we get through challenging times because it helps us:\n\n- Confidently express our needs and share ideas\n\n- Be open to trying new things\n\n- Recognise our value beyond our mistakes\n\n- Have healthy relationships\n\n- Trust ourselves\n\n- Ask for help .\n\nIf you have low self-esteem, it can be difficult to feel worthy of support or believe that you’re capable of rebuilding.\n\nHealthy self-esteem, on the other hand, can give us a sense of hope and optimism, which is important for maintaining motivation and perseverance throughout the recovery process.\n\nClick here to learn more about self-esteem and ways you can raise yours .\n\n### Creating a support system\n\nJust talking openly and honestly to the people in our village helps so much. You know you are NOT alone.\n\nBundanoon, NSW Community Member\n\nResearch shows that people with strong connections with family, friends, and their community cope best in times of crisis. Unfortunately, natural disasters can fuel loneliness and create further isolation.\n\nIf possible, try to create a support network of people who you can:\n\n- Call for a chat\n\n- Go for a walk with\n\n- Meet up with for a coffee\n\n- Ask for help when you're feeling overwhelmed\n\n- Offer practical support (such as giving you rides to appointments or looking after your kids)\n\n- Help you stay sober or resist urges to self-harm .\n\nIf you don't feel like you have anyone to reach out to at the moment, you can contact support services like FriendLine and eFriend or consider joining a support group.\n\nReal Story\n\n### Chris's Story\n\nChris shares his story of holding on to hope after surviving three major bushfires, including Victoria’s Black Saturday and the PTSD it caused.\n\n30 minutes read\n\nHelps with Trauma Suicidality\n\n### Understanding triggers and unhealthy coping habits\n\nWhen you’ve gone through something traumatic like a natural disaster, your body can react in ways that don’t always make sense to you.\n\nWe know that it’s completely normal to experience hypervigilance following a natural disaster.\n\nHypervigilance is when you’re constantly on guard and looking out for danger, even when there is little to no immediate risk of harm.\n\nIt is often a sign of anxiety and can become worse when there’s a:\n\n- Severe weather warning\n\n- Sudden storm or extreme weather\n\n- Predicted drought\n\n- News report of a natural disaster\n\n- Anniversary of a natural disaster.\n\nWhen dealing with chronic stress and trauma , it's common to find yourself drinking more alcohol than usual, taking drugs, or having urges to self-harm .\n\nEven though they can ultimately lead to more serious mental health problems, substance misuse is often used to numb unexpected and distressing emotions.\n\nAs tough as it may be to overcome an addiction, it is possible and there are people who want to help.\n\nClick here to learn about the support services available for substance misuse .\n\n### Managing anniversaries\n\nAnniversaries of a natural disaster can be really upsetting, particularly if the media coverage is intense or there are formal events to mark the anniversary.\n\nIf you find these things difficult, you may want to:\n\n- Limit your exposure to media coverage\n\n- Plan your day with relaxing and enjoyable activities\n\n- Make sure you have people available to support you\n\n- Do a digital detox .\n\n### Therapies that can help with processing emotions and trauma\n\nIf you’re struggling to cope and are unsure what it is you’re exactly experiencing, you may want to speak with your GP about getting a Mental Health Treatment Plan .\n\nA Mental Health Treatment Plan will give you access to a psychologist who can engage in therapies such as:\n\n- Cognitive behavioural therapy (CBT)\n\n- Acceptance and commitment therapy (ACT)\n\n- Eye movement desensitisation and reprocessing (EMDR) .\n\nCBT and ACT are evidence-based therapies that can help you confront and process painful emotions and give you strategies for coping in everyday life.\n\nWhile there are ACT and CBT-based activities you can do on your own, it can be beneficial and more effective to work with a professional therapist.\n\n### A CBT-based thought challenging activity\n\nOur thoughts have a powerful impact on our emotions and behaviour. Try this CBT-based activity to help you to manage your thoughts and emotions more effectively.\n\nFor a trauma -informed alternative to traditional talk therapies like CBT, you can consider EMDR therapy .\n\nA lot of people prefer EMDR for dealing with trauma because you don’t have to go into detail about what happened if you don’t want to.\n\nBelow, you can watch a video to learn more about how EMDR works.\n\n### Mentally prepare for future events\n\nAs we continue to experience extreme weather more frequently, it's understandable if you're worried about future events.\n\nOne way to ease worries and manage stress is by using your experience and resilience to plan and mentally prepare for the possibility of future natural disasters.\n\nVisit our mental preparedness page to learn about resources that can help.\n\nTopic\n\nLearn mental preparedness skills to build resilience and reduce the emotional impact of future natural disasters.\n\n5 minutes read\n\nHelps with Managing Emotions Building Resilience\n\n## Tools & apps\n\n### Tools, apps, and stories for coping with natural disasters\n\nAn important part of mentally preparing for and moving forward after a natural disaster is actively taking care of your mental health and wellbeing during challenging times.\n\nBelow, you’ll find tools and apps that can teach you practical ways to mentally prepare for extreme weather , understand the impact of your experience, manage distressing feelings, and build resilience.\n\n### Linda's Story\n\nIn this episode of Griefline's Life After Loss podcast, Linda shares how she and her family hold on to hope while coping with the loss, grief, and trauma that comes with surviving multiple natural disasters.\n\n32 minutes read\n\nHelps with Coping with grief\n\n### Katherine and Jenifer's Stories\n\nIn this episode of Griefline's Life After Loss podcast, bushfire survivors Katherine Boland and Jenifer James speak candidly about their lived experience of climate grief following the 2019/2020 summer bushfires.\n\n28 minutes read\n\n### Lilly and Lee's Stories\n\nIn this episode of Griefline's Life After Loss podcast, Lilly and Lee share how they hold on to hope while coping with the loss, grief, and trauma that comes with surviving multiple natural disasters.\n\n### Calm\n\nCalm is a mindfulness, meditation, and music app that offers guided tracks, sleep stories, and other techniques that can help you improve your wellbeing, boost your mood, manage stress and anxiety, get better sleep, and more.\n\nHelps with Stress Anxiety\n\n### Daybreak\n\nDaybreak is a confidential app that can help you quit or change your relationship with alcohol by helping you track your drinks, set goals, complete habit-changing activities, and access online community support.\n\nHelps with Alcohol\n\n### Calm Harm\n\nCalm Harm is an evidence-based and anonymous app that helps young people manage the urge to self-harm while teaching emotional regulation skills. Ages 13+.\n\nHelps with Self-harm Resisting urges\n\n### PTSD Program\n\nMental Health Online’s PTSD Program teaches you about post-traumatic stress disorder as well as skills and strategies you can use to manage it. It’s designed to help you feel better right now and in the long term.\n\nHelps with Trauma\n\n### Depression & Anxiety Program\n\nMental Health Online’s Depression & Anxiety Program teaches you strategies to manage the symptoms of depression and anxiety at the same time. It’s designed to help you feel better right now and in the long term.\n\nHelps with Depression Anxiety\n\n## Support services\n\n### Support services that can help before, during, and after a natural disaster\n\nEmergency contacts and information\n\n### National services for recovery and rebuilding\n\nFor natural disaster on-the-ground support, long-term recovery programs, and financial assistance options, you can contact:\n\n- National Emergency Management Agency (NEMA)\n\n- Rural Financial Counselling Service\n\n- Farmer Assistance Hotline\n\n- Rural Aid Australia\n\n- Australian Red Cross\n\n- GIVIT\n\n- St Vincent de Paul\n\n- Salvation Army .\n\n### Mental health information, advice, and counselling services\n\nSupport Service\n\n### Lifeline Crisis Support\n\nLifeline is a free and confidential one-to-one support service for anyone feeling overwhelmed, distressed or having difficulty staying safe.\n\nHelps with Suicidality Safety Planning\n\n### Beyond Blue\n\nBeyond Blue offers free and confidential 24/7 counselling for anyone looking for a little help with their mental health.\n\nHelps with Mental Health Wellbeing\n\n### MensLine Australia\n\nMensLine Australia provides free 24/7 counselling, information, and referrals for men with relationship, mental health, and wellbeing concerns. Call 1300 789 978.\n\nHelps with Relationships Mental Health\n\n### Kids Helpline\n\nKids Helpline is a free and confidential 24/7 phone and online chat counselling service for kids, teens and young people. Call 1800 551 800.\n\nHelps with Family Bullying\n\n### 13YARN\n\n13YARN is a free and confidential 24/7 national crisis support line for Aboriginal and Torres Strait Islander people who are feeling overwhelmed or having difficulty coping.\n\nHelps with Worry Overwhelm\n\n### Griefline\n\nGriefline provides free and confidential counselling, resources and information to people experiencing grief and loss across Australia. Call 1300 845 745.\n\nHelps with Grief & loss Finding Support\n\n### FriendLine\n\nFriendLine is a free and anonymous national phone and chat service for anyone 18+ who’s feeling lonely, socially isolated, or just wants to connect with a friendly volunteer.\n\nHelps with Loneliness Connection\n\n### eFriend\n\neFriend is a free service that allows people who are feeling low, lonely or isolated to access virtual peer support sessions via video or phone call.\n\n### MindSpot\n\nMindSpot is a free, digital mental health clinic that offers psychological assessments, teletherapy, and online treatment courses for challenges like depression, anxiety, stress, and more. Call 1800 614 434.\n\n### Support services for domestic and family violence, substance misuse, and financial stress\n\n### 1800RESPECT\n\n1800RESPECT is a free and confidential 24/7 counselling, information, and referral service for anyone in Australia impacted by domestic and family violence. Call 1800 737 732.\n\nHelps with Domestic and family violence\n\n### National Alcohol & Other Drug Hotline\n\nThe National Alcohol & Other Drug Hotline is a free and confidential phone service that provides counselling, advice, and information for those struggling with addiction. Call 1800 250 015.\n\nHelps with Substance Misuse Addiction\n\n### National Debt Helpline\n\nProvides free, independent and confidential financial counselling with a qualified professional via phone or live chat Monday to Friday.\n\nHelps with Financial stress Finding support\n\n### Search for more services\n\nUse the Lifeline Service Finder to search for more local and national services available to help support you.\n\n### Lifeline Service Finder\n\nLifeline's Service Finder is an online directory of free or low-cost health and community services in Australia. Search for GPs, counsellors, material support and much more.\n\nHelps with Finding support\n\n## For friends & family\n\n### Understanding natural disasters and how you can help\n\nWhether you’ve experienced a natural disaster firsthand, as a first responder, or are trying to support someone you care about, it’s common to feel stressed , overwhelmed and uncertain about the future for weeks, months, and even years.\n\nFor example, you might be trying to heal and rebuild personally while also helping parents, elderly relatives, friends, or fellow community members.\n\nEven with mental preparation for events like droughts, bushfires, storms, and floods, natural disasters can cause worsening symptoms of existing mental health conditions such as anxiety , depression , and post-traumatic stress disorder (PTSD).\n\nThis is why it’s important to be aware of how you and the people you care about are coping.\n\n- Signs that someone might be struggling to cope\n\n- Tips for helping someone you care about\n\n- Practical ways you can offer support .\n\n### Signs that someone might be struggling to cope\n\nIt can be hard to know if someone we care about is struggling because everyone responds to stress and trauma in their own way.\n\nOn one hand, people are really good at saying, 'I'm fine.' when they're really not. On the other, people tend to light up around people they feel comfortable with.\n\nIf you suspect someone might be struggling to cope, it's a good idea to look out for the following signs.\n\n### Someone who's struggling to cope might be:\n\n- Losing interest in activities they once enjoyed\n\n- Having frequent mood swings\n\n- Fluctuating in weight\n\n- Drinking more alcohol than usual\n\n- Having trouble sleeping\n\n- Complaining of stomach issues\n\n- Concerned about having intrusive thoughts\n\n- Having flashbacks or dreams that make it feel like they’re reliving the event\n\n- Having urges to self-harm\n\n- Feeling hopeless or having thoughts of suicide .\n\nIf you're concerned about a child or man, spotting signs can be even harder.\n\nChildren lack the emotional maturity needed to process and express what they're experiencing, so you might see them revert to babyish behaviour. For example, a child who's struggling may start sucking their thumb, throwing tantrums or wetting the bed.\n\nWhile men have the emotional maturity to express how they're feeling, they may not feel like they're allowed to. As a result, depression symptoms in a man can look like anger, risk-taking behaviour or burning out at work.\n\nIf you're looking for information on how to help children or a man in your life, you might find the following resources helpful:\n\n- Contact Kids Helpline\n\n- Read Better Health Channel's tips for supporting a child who's experienced trauma\n\n- Contact Mensline Australia\n\n- Learn about the common challenges of men's mental health .\n\nLifeline crisis supporters are here to help.\n\nIf you're concerned that someone is struggling or might be thinking about suicide and aren't sure how to talk to them, you can contact Lifeline via phone ( 13 11 14 ), text , and chat .\n\n### Tips for helping someone you care about after a natural disaster\n\nOne of the most powerful things you can do in the aftermath of any traumatic event is listen.\n\nIt can be tempting to offer solutions, but really, the best thing you can do is listen to what the person you care about is experiencing.\n\nMore practical support can come down the track but remember that most of the time - people just want to feel heard and have their emotions validated.\n\nScroll down for more tips.\n\n### Be patient\n\nThe feelings and effects of a natural disaster can be felt for years.\n\nOften described as a roller coaster of emotions, don't be surprised if you feel like the person you care about is up and down for quite a while.\n\nThe best thing to do is just let them know you're there to listen, talk, and help whenever they feel ready.\n\n### Show empathy, not sympathy\n\nAs mentioned before, simply being heard and seen can be incredibly soothing.\n\nWhen the person you care about is telling you what they experienced, try to avoid saying things like, ‘At least you didn’t lose your house.’\n\nInstead, validate their experience by saying things like, 'I can see why you feel so overwhelmed right now.'\n\nBelow, you can watch a great video by Brene Brown about the power of empathy.\n\n### Ask how you can help\n\nSometimes, it can also be difficult to know how to help someone. As tempting as it is to offer solutions, you may want to consider asking how you can help.\n\nFor example, you could say:\n\n- 'Do you just feel like venting right now or do you want solutions?'\n\n- 'You’ve been through so much. Is there anything you’d like to talk about?'\n\n- 'I can imagine you’re really overwhelmed. Is there something I can take off your plate?'\n\n### Feelings and effects of natural disasters\n\nUnderstand the mental health effects of natural disasters and how to know when things are getting to be too much.\n\n4 minutes read\n\n### Practical ways you can offer support\n\nWhen someone is emotionally recovering from a natural disaster, thinking clearly or finding the energy to move forward can be difficult.\n\nHere are a few ideas for how you can offer practical support:\n\n- Help them make a to-do list, assist with filling out forms, or gather support resources on their behalf\n\n- Book an appointment with their GP to talk about getting a Mental Health Treatment Plan\n\n- Organise a meal train and/or volunteers to help with things like mowing\n\n- Encourage them to practise self-care by asking them to go for a walk or offering to watch their kids while they catch up on sleep .\n\n### Mental Health Care Plan: what it covers and how to start\n\nLearn what a Mental Health Treatment Plan (previously called a Mental Health Care Plan) is, what it covers, how to get one, and what Medicare may cover.\n\nHelps with Treatment Understanding\n\nSupporting someone else can be an overwhelming experience in itself.\n\nWhile it's vital to look out for others, it can't come at the expense of your own mental and physical health.\n\nThis is particularly important to remember if you experienced the natural disaster alongside the person you're supporting.\n\nAs a carer, be sure to:\n\n- Set and maintain personal boundaries\n\n- Prioritise and practise self-care\n\n- Recognise when things are becoming too much\n\n- Learn how to have difficult conversations .\n\nClick here to download, save, or print our natural disasters fact sheet.\n\n#### Was this page helpful?\n\nYour feedback helps us improve our site for people like you.\n\nWe’d love to hear why! Tell us more\n\nThis content was developed in partnership with\n\n## Help starts here\n\nSupport looks different for everyone. Use the drop down bar to find what feels right for you.\n\nHow can we help?\n\n- I'm thinking about suicide\n\nBack to top\n\nVisit Lifeline Australia\n\n- Training\n\n- Volunteer\n\n- Fundraise\n\n- About Lifeline\n\n- Find a Lifeline Centre\n\n- Contact us\n\nReconciliation Action Plan\n\nLived Experience Framework\n\nLifeline pays its respects to the traditional custodians across the lands on which we work, and acknowledge their elders past and present.\n\nLifeline pays deep respect to people who have personal experiences of crisis and suicide. They are the reason our organisation and services exist.\n\nLifeline is committed to providing a safe, culturally appropriate, and inclusive service for all people, regardless of their ethnicity, faith, disability, sexuality, or gender identity.\n\n- Policies\n\n- Terms of Use\n\n- Privacy\n\n- Accessibility\n\n- Language\n\nLifeline is a registered ACNC charity. ABN: 84 081 031 263. RTO Registration Code 88036. Copyright © 2025 Lifeline Australia. All rights reserved.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#main-content\n\n- Call us ●: https://www.lifeline.org.au/get-help/services/131114\n\n- Chat with us ●: https://www.lifeline.org.au/get-help/services/chat\n\n- Text us ●: https://www.lifeline.org.au/get-help/services/text\n\n- https://www.lifeline.org.au/: https://www.lifeline.org.au/\n\n- I’m thinking about suicide: https://www.lifeline.org.au/get-help/im-thinking-about-suicide\n\n- I want to talk to someone: https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone\n\n- I'm worried about someone: https://www.lifeline.org.au/get-help/im-worried-about-someone\n\n- I want to explore my options: https://www.lifeline.org.au/get-help/i-want-to-explore-my-options\n\n- Get help home: https://www.lifeline.org.au/get-help\n\n- Call us 13 11 14 ● Service online: https://www.lifeline.org.au/131114\n\n- Chat to us Support 24/7 ● Service online: https://www.lifeline.org.au/chat\n\n- Text us 0477 13 11 14 ● Service online: https://www.lifeline.org.au/text\n\n- Crisis support: https://www.lifeline.org.au/get-help/services/crisis-support\n\n- Counselling: https://www.lifeline.org.au/get-help/services/counselling\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/service-finder\n\n- Workplace & community training: https://www.lifeline.org.au/get-help/services/workplace-and-community-training\n\n- Services home: https://www.lifeline.org.au/get-help/services\n\n- Topics: https://www.lifeline.org.au/get-help/support-toolkit/topics\n\n- Techniques & guides: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps\n\n- Safety planning: https://www.lifeline.org.au/get-help/support-toolkit/safety-planning\n\n- Community perspectives: https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives\n\n- Fact sheets: https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets\n\n- Support Toolkit home: https://www.lifeline.org.au/get-help/support-toolkit\n\n- Sleep and mental health: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health\n\n- Journaling your thoughts and feelings: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and\n\n- How to do a digital detox: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox\n\n- Helping friends and family: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health\n\n- About Cognitive Behavioural Therapy (CBT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt\n\n- Forums: https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums\n\n- Real stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories\n\n- Hear from others home: https://www.lifeline.org.au/get-help/hear-from-others\n\n- Listen to Joe's story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story\n\n- Donate: https://www.lifeline.org.au/get-involved/donate\n\n- Donate to Lifeline: https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline\n\n- Donate in memory: https://inmemory.lifeline.org.au\n\n- Leave a gift in your Will: https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will\n\n- Fundraise: https://www.lifeline.org.au/get-involved/fundraising\n\n- Fundraise for Lifeline: https://fundraise.lifeline.org.au/\n\n- Events: https://www.lifeline.org.au/get-involved/events\n\n- Volunteer: https://www.lifeline.org.au/get-involved/volunteer\n\n- Become a crisis supporter: https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter\n\n- Community volunteering: https://www.lifeline.org.au/get-involved/volunteer-in-your-community\n\n- Partner with us: https://www.lifeline.org.au/get-involved/partner-with-us\n\n- About us: https://www.lifeline.org.au/about-us\n\n- Who we are: https://www.lifeline.org.au/about-us/who-we-are\n\n- Our strategy: https://www.lifeline.org.au/about-us/our-strategy\n\n- Our services: https://www.lifeline.org.au/about-us/our-services\n\n- Our impact: https://www.lifeline.org.au/about-us/our-impact\n\n- Our structure: https://www.lifeline.org.au/about-us/our-structure\n\n- Governance: https://www.lifeline.org.au/about-us/governance\n\n- Lived experience framework: https://www.lifeline.org.au/about-us/lived-experience\n\n- Our research: https://www.lifeline.org.au/about/our-research\n\n- Data & statistics: https://www.lifeline.org.au/about/our-research/data-and-statistics\n\n- Research & reports: https://www.lifeline.org.au/about/our-research/research-and-reports\n\n- Our partners: https://www.lifeline.org.au/about/our-partners\n\n- Government supporters: https://www.lifeline.org.au/about/our-partners/government-supporters\n\n- Corporate partners: https://www.lifeline.org.au/about/our-partners/our-corporate-partners\n\n- Contact us: https://www.lifeline.org.au/about/contact-us\n\n- Lifeline locations: https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you\n\n- News & media: https://www.lifeline.org.au/about/news-and-media\n\n- Careers: https://www.lifeline.org.au/about/careers\n\n- Shop merchandise: https://lifelineaustralia.infoservices.com.au\n\n- Fundraise: https://fundraise.lifeline.org.au\n\n- Urgent Crisis Support: https://www.lifeline.org.au/urgent-crisis-support\n\n- English: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters\n\n- Understanding natural disasters: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#understanding-natural-disasters-and-mental-health\n\n- Feelings & effects: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#feelings-and-effects-of-natural-disasters\n\n- Mental preparedness: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#mental-preparedness-tips-for-natural-disasters\n\n- Short-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#short-term-help-for-coping-with-natural-disasters\n\n- Long-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#long-term-help-for-coping-with-natural-disasters\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#tools-and-apps-for-coping-with-natural-disasters\n\n- Support services: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#support-services-for-natural-disasters\n\n- For friends & family: https://www.lifeline.org.au/get-help/support-toolkit/topics/natural-disasters#natural-disasters-information-for-friends-and-family\n\n- traumatic: https://www.lifeline.org.au/topics/trauma/about-trauma\n\n- feelings of distress: https://www.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/what-is-anxiety\n\n- financial stress: https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress\n\n- loss of a loved one: https://www.lifeline.org.au/topics/grief-loss/what-is-grief\n\n- relationship breakdown: https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships\n\n- domestic and family violence: https://www.lifeline.org.au/topics/domestic-and-family-violence/about-domestic-and-family-violence\n\n- supporting someone else: https://www.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family\n\n- becoming too much: https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#when-to-reach-out-for-support\n\n- people who can help: https://www.lifeline.org.au/topics/natural-disasters/support-services-for-natural-disasters\n\n- right now: https://www.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters\n\n- over time: https://www.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters\n\n- Things you can do to prepare mentally: https://www.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters\n\n- Click here to download, save, or print our natural disasters fact sheet: https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-natural-disasters-fact-sheet.pdf\n\n- stress: https://www.lifeline.org.au/topics/stress/what-is-stress\n\n- How you might be feeling mentally and physically: https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#how-you-might-be-feeling\n\n- How natural disasters can impact existing mental health challenges: https://toolkit.lifeline.org.au/topics/natural-disasters/feelings-and-effects-of-natural-disasters#natural-disasters-and-existing-mental-health-challenges\n\n- Depression: https://www.lifeline.org.au/topics/depression/what-is-depression\n\n- Loneliness: https://www.lifeline.org.au/topics/loneliness/what-is-loneliness\n\n- Alcohol and drug misuse: https://www.lifeline.org.au/topics/substance-misuse/what-is-substance-misuse\n\n- relationships: https://www.lifeline.org.au/topics/relationships/importance-of-relationships\n\n- connections: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections\n\n- abusive behaviour: https://www.lifeline.org.au/topics/domestic-and-family-violence/types-of-domestic-and-family-violence\n\n- coercive control: https://toolkit.lifeline.org.au/topics/domestic-and-family-violence/types-of-domestic-and-family-violence#coercive-control\n\n- escape safely: https://www.lifeline.org.au/topics/domestic-and-family-violence/help-for-domestic-and-family-violence\n\n- visit our DFV help page here: https://www.lifeline.org.au/topics/trauma/help-right-now-for-trauma\n\n- dependency: https://www.lifeline.org.au/topics/substance-misuse/feelings-and-effects-substance-misuse\n\n- panic attacks: https://www.lifeline.org.au/topics/panic-attacks/what-is-a-panic-attack\n\n- intrusive thoughts: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts\n\n- self-harm: https://www.lifeline.org.au/topics/self-harm/what-is-self-harm\n\n- thoughts of suicide: https://www.lifeline.org.au/topics/suicide/what-is-suicide\n\n- talking to someone you trust: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust\n\n- Mental Health Treatment Plan: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to\n\n- contact Lifeline: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/contacting-lifeline-guide\n\n- text: https://www.lifeline.org.au/crisis-text/\n\n- chat: https://www.lifeline.org.au/crisis-chat/\n\n- Anticipating, identifying, and managing potential stressors: https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#anticipating-identifying-and-managing-potential-stressors\n\n- Practical ways to plan for an emergency: https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#practical-ways-to-plan-for-an-emergency\n\n- Tips for protecting your emotional wellbeing: https://toolkit.lifeline.org.au/topics/natural-disasters/mental-preparedness-tips-for-natural-disasters#tips-for-protecting-your-emotional-wellbeing\n\n- effects of trauma: https://www.lifeline.org.au/topics/trauma/effects-of-trauma\n\n- RediPlan® disaster preparedness guide: https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/red-cross-rediplan-disaster-preparedness-guide.pdf\n\n- grounding technique: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques\n\n- Meditate: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation\n\n- practice mindfulness: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/getting-started-with-mindfulness\n\n- CBT-based thought-challenging activity: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity\n\n- self-care: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing\n\n- Lifeline: https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support\n\n- Beyond Blue: https://www.lifeline.org.au/get-help/national-services/beyond-blue\n\n- RediPlan®: https://www.redcross.org.au/globalassets/cms/community-action-catalogue/preparedness/rediplan-lite.pdf\n\n- Emergency kit checklist: https://www.nrma.com.au/sites/nrma/files/nrma/documents/emergency-kit-checklist.pdf\n\n- Tips for making a home inventory: https://thehub.nrma.com.au/property/how-make-home-inventory-and-why-you-need-start-one-today\n\n- Extreme Weather Checklist: https://financialrights.org.au/wp-content/uploads/2023/04/FINAL-Disaster-Checklist-.pdf\n\n- Get Prepared app: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/get-prepared\n\n- Help Nation: https://articles.nrma.com.au/helpnation/index.html#section-HELP-NATION-Z9dEgCgbmI\n\n- Wild Weather Tracker: https://articles.nrma.com.au/help-nation-wild-weather-tracker/\n\n- State Emergency Services: https://www.ses.org.au/\n\n- ABC Local Radio: http://reception.abc.net.au/\n\n- self-care box: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box\n\n- What to do after a natural disaster: https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#what-to-do-after-a-natural-disaster\n\n- Tips for managing stress: https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#tips-for-managing-stress\n\n- Healthy ways to cope: https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#healthy-ways-to-cope\n\n- Resources for helping kids cope: https://toolkit.lifeline.org.au/topics/natural-disasters/short-term-help-for-coping-with-natural-disasters#resources-for-helping-kids-cope\n\n- self-esteem: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health\n\n- Legal advice: https://financialrights.org.au/\n\n- Calm: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm\n\n- Smiling Mind: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind\n\n- click here: https://www.redcross.org.au/globalassets/cms/downloads/pdfs/shella/19060-red-crisis-children-booklet-d11-176x250-web.pdf\n\n- Kids Helpline: https://www.lifeline.org.au/get-help/national-services/kids-helpline\n\n- Australian Red Cross resources for parents and caregivers: https://www.redcross.org.au/emergencies/resources/resources-for-parents-and-caregivers/\n\n- Tips for talking to children before an emergency: https://www.redcross.org.au/globalassets/cms-assets/documents/emergency-services/talking-with-children-before-and-emergency.pdf\n\n- Get ready activity book: https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/get-ready-kids.pdf\n\n- After an emergency activity book: https://www.redcross.org.au/globalassets/cms/downloads/pdfs/disaster-plan/after-the-emergency-kids-booklet.pdf\n\n- Parenting: Coping with crisis: https://www.redcross.org.au/globalassets/cms/downloads/pdfs/shella/19060-red-crisis-parents-booklet-d10-web.pdf\n\n- australianredcross.org.au: https://www.redcross.org.au/\n\n- https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-a-child-or-young-person-youre\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety\n\n- How self-esteem can impact your mental health: https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#self-esteem-and-recovery\n\n- The importance of creating and leaning on a support system: https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#creating-a-support-system\n\n- Understanding triggers and unhealthy coping habits: https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#understanding-triggers-and-unhealthy-coping-habits\n\n- Therapies that can help with processing emotions and trauma: https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#therapies-that-can-help-with-processing-emotions-and-trauma\n\n- Using your experience to mentally prepare for future events: https://toolkit.lifeline.org.au/topics/natural-disasters/long-term-help-for-coping-with-natural-disasters#mentally-prepare-for-future-events\n\n- healthy relationships: https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships\n\n- stay sober: https://www.lifeline.org.au/topics/substance-misuse/short-term-help-for-substance-misuse\n\n- self-harm: https://www.lifeline.org.au/topics/self-harm/short-term-help-for-self-harm\n\n- FriendLine: https://www.lifeline.org.au/get-help/national-services/friendline\n\n- eFriend: https://www.lifeline.org.au/get-help/national-services/efriend\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/chriss-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/chriss-story\n\n- Click here to learn about the support services available for substance misuse: https://www.lifeline.org.au/topics/substance-misuse/support-services-for-substance-misuse\n\n- Acceptance and commitment therapy (ACT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act\n\n- Eye movement desensitisation and reprocessing (EMDR): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/emdr-therapy-what-it-is-how-it-works-and-what-to\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lindas-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lindas-story\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/katherine-and-jenifers-stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/katherine-and-jenifers-stories\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lilly-and-lees-stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lilly-and-lees-stories\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm-harm: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm-harm\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program\n\n- ABC Local Radio: https://reception.abc.net.au/\n\n- National Emergency Management Agency (NEMA): https://nema.gov.au/\n\n- Rural Financial Counselling Service: https://www.agriculture.gov.au/agriculture-land/farm-food-drought/drought/rural-financial-counselling-service\n\n- Farmer Assistance Hotline: https://farmerhealth.org.au/support\n\n- Rural Aid Australia: https://www.ruralaid.org.au/\n\n- GIVIT: https://www.givit.org.au/first-nations-support\n\n- St Vincent de Paul: https://www.vinnies.org.au/national-disasters\n\n- Salvation Army: https://www.salvationarmy.org.au/\n\n- https://www.lifeline.org.au/get-help/national-services/mensline-australia: https://www.lifeline.org.au/get-help/national-services/mensline-australia\n\n- https://www.lifeline.org.au/get-help/national-services/13yarn: https://www.lifeline.org.au/get-help/national-services/13yarn\n\n- https://www.lifeline.org.au/get-help/national-services/griefline: https://www.lifeline.org.au/get-help/national-services/griefline\n\n- https://www.lifeline.org.au/get-help/national-services/mindspot: https://www.lifeline.org.au/get-help/national-services/mindspot\n\n- https://www.lifeline.org.au/get-help/national-services/1800respect: https://www.lifeline.org.au/get-help/national-services/1800respect\n\n- https://www.lifeline.org.au/get-help/national-services/national-alcohol-other-drug-hotline: https://www.lifeline.org.au/get-help/national-services/national-alcohol-other-drug-hotline\n\n- https://www.lifeline.org.au/get-help/national-services/national-debt-helpline: https://www.lifeline.org.au/get-help/national-services/national-debt-helpline\n\n- https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder: https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder\n\n- Signs that someone might be struggling to cope: https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#signs-that-someone-might-be-struggling-to-cope\n\n- Tips for helping someone you care about: https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#tips-for-helping-someone-you-care-about-after-a-natural-disaster\n\n- Practical ways you can offer support: https://toolkit.lifeline.org.au/topics/natural-disasters/natural-disasters-information-for-friends-and-family#practical-ways-you-can-offer-support\n\n- Read Better Health Channel's tips for supporting a child who's experienced trauma: https://www.betterhealth.vic.gov.au/health/healthyliving/trauma-and-children-tips-for-parents\n\n- Learn about the common challenges of men's mental health: https://mensline.org.au/mens-mental-health/mens-mental-health-common-challenges/\n\n- difficult conversations: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#tips-for-having-difficult-conversations\n\n- Click here to download, save, or print our natural disasters fact sheet.: https://www.lifeline.org.au/sites/default/files/2026-04/Lifeline-x-NRMA-Insurance-Extreme-Weather-and-Suicidality-Fact-Sheet.pdf\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/find-another-service\n\n- Get involved: https://www.lifeline.org.au/get-involved\n\n- Reconciliation Action Plan: https://www.lifeline.org.au/about/reconciliation-action-plan\n\n- Policies: https://www.lifeline.org.au/policies\n\n- Privacy: https://www.lifeline.org.au/policies/privacy-policy\n\n- Language: https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support\n\n- https://www.facebook.com/LifelineAustralia/: https://www.facebook.com/LifelineAustralia/\n\n- https://www.instagram.com/lifelineaustralia/: https://www.instagram.com/lifelineaustralia/\n\n- https://au.linkedin.com/company/lifeline-australia: https://au.linkedin.com/company/lifeline-australia\n\n- https://x.com/LifelineAust: https://x.com/LifelineAust\n\n- https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw: https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+}

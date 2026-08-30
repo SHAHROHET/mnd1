@@ -1,0 +1,775 @@
+{
+  "source_id": "healthdirect:falls",
+  "title": "Older people and falls – causes, treatments and prevention | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/falls",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mobility And Daily Living",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 42640,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/falls",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/falls"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/falls"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/falls#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/falls#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/falls#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/falls#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/falls"
+    },
+    {
+      "text": "Why are falls a concern for older people?",
+      "url": "https://www.healthdirect.gov.au/falls#concerning"
+    },
+    {
+      "text": "What causes falls?",
+      "url": "https://www.healthdirect.gov.au/falls#why"
+    },
+    {
+      "text": "What other risk factors are there for a fall?",
+      "url": "https://www.healthdirect.gov.au/falls#risk"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/falls#doctor"
+    },
+    {
+      "text": "How are falls treated?",
+      "url": "https://www.healthdirect.gov.au/falls#treated"
+    },
+    {
+      "text": "How can falls be prevented?",
+      "url": "https://www.healthdirect.gov.au/falls#prevented"
+    },
+    {
+      "text": "What are the complications of a fall?",
+      "url": "https://www.healthdirect.gov.au/falls#complications"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/falls#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/falls#searchGeneralResults"
+    },
+    {
+      "text": "dizzy",
+      "url": "https://www.healthdirect.gov.au/dizziness"
+    },
+    {
+      "text": "lightheaded",
+      "url": "https://www.healthdirect.gov.au/lightheadedness"
+    },
+    {
+      "text": "poorer eyesight",
+      "url": "https://www.healthdirect.gov.au/eye-health-tips-for-over-60s"
+    },
+    {
+      "text": "incontinence",
+      "url": "https://www.healthdirect.gov.au/incontinence"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "Alzheimer's disease",
+      "url": "https://www.healthdirect.gov.au/alzheimers-disease"
+    },
+    {
+      "text": "delirium",
+      "url": "https://www.healthdirect.gov.au/delirium"
+    },
+    {
+      "text": "physically active",
+      "url": "https://www.healthdirect.gov.au/physical-activity-guidelines-for-older-adults"
+    },
+    {
+      "text": "drinking enough water",
+      "url": "https://www.healthdirect.gov.au/drinking-water-and-your-health"
+    },
+    {
+      "text": "eating well",
+      "url": "https://www.healthdirect.gov.au/healthy-eating-over-60"
+    },
+    {
+      "text": "Low blood pressure",
+      "url": "https://www.healthdirect.gov.au/low-blood-pressure-hypotension"
+    },
+    {
+      "text": "medicine side effects",
+      "url": "https://www.healthdirect.gov.au/medicine-and-side-effects"
+    },
+    {
+      "text": "Stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "Parkinson's disease",
+      "url": "https://www.healthdirect.gov.au/parkinsons-disease"
+    },
+    {
+      "text": "arthritis",
+      "url": "https://www.healthdirect.gov.au/arthritis"
+    },
+    {
+      "text": "Diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "reduce sensation in your feet and legs",
+      "url": "https://www.healthdirect.gov.au/peripheral-neuropathy"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "antidepressant medicines",
+      "url": "https://www.healthdirect.gov.au/search-results/antidepressants"
+    },
+    {
+      "text": "sleeping pills",
+      "url": "https://www.healthdirect.gov.au/safe-use-of-sleeping-pills"
+    },
+    {
+      "text": "strong pain relievers",
+      "url": "https://www.healthdirect.gov.au/opioid-medicines"
+    },
+    {
+      "text": "osteoporosis",
+      "url": "https://www.healthdirect.gov.au/healthy-bones"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "manage your health as you get older",
+      "url": "https://www.healthdirect.gov.au/manage-your-health-in-your-70s-and-older"
+    },
+    {
+      "text": "physiotherapist",
+      "url": "https://www.healthdirect.gov.au/physiotherapy"
+    },
+    {
+      "text": "occupational therapist",
+      "url": "https://www.healthdirect.gov.au/occupational-therapy"
+    },
+    {
+      "text": "dietitian",
+      "url": "https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "vitamin D",
+      "url": "https://www.healthdirect.gov.au/vitamin-d-and-your-health"
+    },
+    {
+      "text": "calcium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20412/calcium"
+    },
+    {
+      "text": "fracture",
+      "url": "https://www.healthdirect.gov.au/fractures"
+    },
+    {
+      "text": "confusion",
+      "url": "https://www.healthdirect.gov.au/confusion"
+    },
+    {
+      "text": "review your medicines",
+      "url": "https://www.healthdirect.gov.au/home-medicines-review"
+    },
+    {
+      "text": "Older people",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "podiatrist",
+      "url": "https://www.healthdirect.gov.au/podiatrist"
+    },
+    {
+      "text": "eyes checked",
+      "url": "https://www.healthdirect.gov.au/eye-tests"
+    },
+    {
+      "text": "cataracts",
+      "url": "https://www.healthdirect.gov.au/cataracts"
+    },
+    {
+      "text": "hearing tests",
+      "url": "https://www.healthdirect.gov.au/hearing-test"
+    },
+    {
+      "text": "tai chi",
+      "url": "https://www.healthdirect.gov.au/health-benefits-of-tai-chi"
+    },
+    {
+      "text": "group exercise programs",
+      "url": "https://www.healthdirect.gov.au/group-exercise-for-beginners"
+    },
+    {
+      "text": "underweight",
+      "url": "https://www.healthdirect.gov.au/what-to-do-if-you-are-underweight"
+    },
+    {
+      "text": "wrist fractures",
+      "url": "https://www.healthdirect.gov.au/hand-and-finger-fractures"
+    },
+    {
+      "text": "aged care facility",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "resources for older people and their families",
+      "url": "https://www.anzfallsprevention.org/resources/resources-for-older-people-and-their-families/"
+    },
+    {
+      "text": "moving safely and recovering from a fracture",
+      "url": "https://healthybonesaustralia.org.au/resource-hub/fact-sheets/"
+    },
+    {
+      "text": "Occupational Therapy Australia",
+      "url": "http://www.otaus.com.au/"
+    },
+    {
+      "text": "find a private practice OT",
+      "url": "http://www.otaus.com.au/find-an-occupational-therapist"
+    },
+    {
+      "text": "Injury Matters",
+      "url": "https://www.injurymatters.org.au/"
+    },
+    {
+      "text": "making your home safer",
+      "url": "https://www.injurymatters.org.au/programs/stay-on-your-feet/information-for-over-60s/make-your-home-safer/"
+    },
+    {
+      "text": "Stay on Your Feet",
+      "url": "https://www.stayonyourfeet.com.au/"
+    },
+    {
+      "text": "reduce your chance of falling in the bathroom",
+      "url": "https://player.vimeo.com/video/810362293"
+    },
+    {
+      "text": "preventing falls in Community care",
+      "url": "https://www.safetyandquality.gov.au/publications-and-resources/resource-library/preventing-falls-community-care-fact-sheet"
+    },
+    {
+      "text": "Australian Commission on Safety and Quality in Health Care",
+      "url": "https://www.safetyandquality.gov.au/"
+    },
+    {
+      "text": "preventing falls for older people",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/dont-fall-for-it-a-guide-to-preventing-falls-for-older-people"
+    },
+    {
+      "text": "staying on your feet",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/stay-on-your-feet-move-improve-remove"
+    },
+    {
+      "text": "(Falls)",
+      "url": "https://www.healthstats.nsw.gov.au/page/Falls"
+    },
+    {
+      "text": "(Falls)",
+      "url": "https://www.aihw.gov.au/reports/injury/falls"
+    },
+    {
+      "text": "(Don't fall for it!)",
+      "url": "https://www.health.gov.au/sites/default/files/documents/2021/04/don-t-fall-for-it-falls-can-be-prevented.pdf"
+    },
+    {
+      "text": "(Fact Sheet: Preventing falls in Community Care)",
+      "url": "https://www.safetyandquality.gov.au"
+    },
+    {
+      "text": "(Falls Guidelines for Community Care)",
+      "url": "https://www.safetyandquality.gov.au/publications-and-resources/resource-library/falls-guidelines-community-care"
+    },
+    {
+      "text": "(Falls prevention)",
+      "url": "https://www.health.vic.gov.au/ageing-and-aged-care/falls-prevention"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/falls#backToTop"
+    },
+    {
+      "text": "Fractures",
+      "url": "https://www.healthdirect.gov.au/search-results/Fractures"
+    },
+    {
+      "text": "Injuries",
+      "url": "https://www.healthdirect.gov.au/search-results/Injuries"
+    },
+    {
+      "text": "Caring for an elderly person | Carer Gateway Explore our 10 tips about what you can do to make life easier if you are a carer looking after an elderly person. Read more on Carer Gateway website",
+      "url": "https://www.carergateway.gov.au/your-life-carer/your-life-around-caring/who-caring/caring-elderly"
+    },
+    {
+      "text": "Retirement years - Services Australia Help and payments for when you retire. Information about planning for retirement. What to do if you decide to keep working past Age Pension age. Read more on Centrelink website",
+      "url": "https://www.servicesaustralia.gov.au/retirement-years"
+    },
+    {
+      "text": "Our Elders and Elderly - WellMob Keeping our Elders safe and well is an important community responsibility. We need to support the wellbeing of our elderly and protect them against Elder abuse. Read more on WellMob website",
+      "url": "https://wellmob.org.au/e-health-topics/our-mob/our-elders-and-elderly/"
+    },
+    {
+      "text": "Seniors | eSafety Commissioner Online safety resources and support for older Australians Read more on Office of the eSafety Commissioner website",
+      "url": "https://www.esafety.gov.au/seniors"
+    },
+    {
+      "text": "Older Adults - Immunisation Coalition Immunisation remains an important part of ongoing healthcare for older Australians. Read more on Immunisation Coalition website",
+      "url": "https://immunisationcoalition.org.au/diseases/older-adults/"
+    },
+    {
+      "text": "Older People -ACON – We are New South Wales’ leading HIV and LGBTQ+ health organisation. We are New South Wales’ leading HIV and LGBTQ+ health organisation. Read more on ACON website",
+      "url": "https://www.acon.org.au/who-we-are-here-for/older-people/"
+    },
+    {
+      "text": "Older Adults | Mental Health Commission Learn about mental health for older adults and find specific support and services. Read more on WA Health website",
+      "url": "https://www.mhc.wa.gov.au/your-health-and-wellbeing/older-adults/"
+    },
+    {
+      "text": "Effectively Communicating Older People’s Care Needs In order to deliver safe and effective care, aged care organisations need to ensure that information about an older person’s condition, needs, goals and preferences is effectively communicated between members of the care team as well as other parties that share responsibility for the person’s care. This will prevent older people in your care from constantly needing to remind staff of their needs, as well as reduce the risk of mistakes and harm from occurring. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/communicating-residents-care-needs"
+    },
+    {
+      "text": "Delirium Awareness and Cognitive Impairment When any person, particularly an older adult, accesses a healthcare service, there is a need for health professionals to not only treat their prioritising health concerns but also recognise and treat any other comorbidities they may have concurrently (or consequently) developed during their stay. One such comorbidity that may occur during a hospital stay is delirium. Any patient who has had surgery, is in pain, has moved beds multiple times or is dehydrated is at risk of delirium. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/cognitive-impairment"
+    },
+    {
+      "text": "A Guide to Optimal Health in Aged Care As they age, older adults find themselves facing unique health challenges. Whether on their own or requiring in-home care services, by maintaining a healthy lifestyle, older adults can help prevent and control many of these issues while improving their quality of life. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/guide-optimal-health-aged-care"
+    },
+    {
+      "text": "Care to Learn Podcast Episode 9: Geoff Ahern In this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/care-to-learn-podcast-episode-9"
+    },
+    {
+      "text": "Transitioning to Residential Aged Care: Loss and Grief Transitioning into residential aged care is a major life event that can be difficult and stressful for an older person and their carers or loved ones, especially if the change has come about due to a medical issue and there is limited time to make a decision. It’s estimated that over 50% of older people living in residential aged care experience depression and/or anxiety, compared to 10% of older people overall. Furthermore, less than half of that 50% enter residential aged care with pre-existing mental illness. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/loss-grief-aged-care"
+    },
+    {
+      "text": "Person-centred Care in Aged Care Person-centred care is an approach to aged care that emphasises the importance of partnership between older people and providers during care planning, delivery and management. A crucial aspect of person-centred care is respecting and responding to older people’s needs, values and preferences. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/person-centred-care"
+    },
+    {
+      "text": "Advocates and Language Services Older people have the right to speak up about the care they are receiving. Providers must ensure that every older person has the ability to raise concerns about their care regardless of culture, language, impairment or other factors. If these barriers impede the person’s ability to access the complaint system, the provider is expected to link them to extra support that enables them to do so. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/advocates-and-language-services"
+    },
+    {
+      "text": "Partnering With Older People Partnering with older people is more than just a buzzword - it’s a fundamental right. Being able to make decisions about our own lives and having those decisions respected is something that the Aged Care Quality and Safety Commission (ACQSC) is ensuring that all aged care recipients are provided. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/planning-with-consumers"
+    },
+    {
+      "text": "Providing Best Care for Older People in a Hospital Setting Hospitalisation is an overwhelming event for older people that places them at significant risk of complications and deterioration at the best of times. Older adults face a unique set of risks and challenges in hospital settings. Therefore, knowing how to care for these vulnerable people is crucial. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/best-care-older-people-hospital"
+    },
+    {
+      "text": "Three Areas of Focus for Improving Care of the Older Adult As the Australian population continues to age, it is undeniable that there is a need for nursing care to focus on how best to improve the care of older adults. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/improving-older-adult-care"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Older people and falls – causes, treatments and prevention | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Older people and falls\n\n12-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you or someone you care for has experienced a severe fall, go to your nearest emergency department or call triple zero (000) and ask for an ambulance.\n\n## Key facts\n\n- It's common for people who are aged 65 years and over to fall one or more times a year.\n\n- Falls are often due to gradual physical changes that affect the way you move.\n\n- Sometimes falls are due to hazards in and around your home.\n\n- Falls can cause hip fractures and other serious injuries — you may need care in hospital.\n\n- There are many things you can do to reduce your chance of being injured by a fall.\n\n- It's important to see your doctor if you've had a fall, even if you were not injured.\n\n## On this page\n\n- Why are falls a concern for older people?\n\n- What causes falls?\n\n- What other risk factors are there for a fall?\n\n- When should I see my doctor?\n\n- How are falls treated?\n\n- How can falls be prevented?\n\n- What are the complications of a fall?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Why are falls a concern for older people?\n\nFalls are a major health concern for older people (those aged 65 years and over). Older people are much more likely to be admitted to hospital after a fall than younger people.\n\nFalls are the number one cause of accidental injury in older Australians. One in 4 people who are aged 65 years and over have at least 1 fall per year.\n\nEven when falls don't cause an injury, they can trigger a loss of confidence and lead to an ongoing fear of falling.\n\nOver time, this can lead to an older person becoming less active, which increases the risk of falling again.\n\nThere are things you can do to lower the chance of having a fall or being seriously injured in a fall. Having healthy habits and an awareness of what causes falls can help.\n\n## What causes falls?\n\nIf someone falls, it's not necessarily because they were not concentrating or they are clumsy. There are many reasons why older people might have a fall, including those listed below.\n\n### Changes to the body\n\nOur bodies change slowly over the years as part of normal ageing.\n\nAs you get older , you may notice:\n\n- difficulty with balance or feeling dizzy or lightheaded\n\n- weaker muscles or less feeling in your feet and legs\n\n- pain in your joints, that may affect your mobility\n\n- poorer eyesight or difficulty with sudden light changes or glare\n\n- slower reaction times\n\n- new health problems such as incontinence\n\n- gaps in memory, dementia or Alzheimer's disease\n\nThese changes can be due to normal ageing, or an illness or other medical conditions. Sudden changes to how you think or behave may be due to delirium .\n\nChanges to your body can affect the way you move around. You may find it harder to lift your feet or feel unsteady when you walk. It might get harder to judge heights and distances. These changes make you more likely to fall.\n\n### Dangers in and around the home\n\nAround half of all falls happen in and around the home. Common household hazards are:\n\n- poor lighting\n\n- unsafe or poorly fitting shoes or slippers\n\n- slippery surfaces, such as wet or polished floors\n\n- trip hazards such as rugs, floor mats and electrical cords\n\n- steps or uneven surfaces\n\n### Poor general health and wellbeing\n\nPeople who don't keep physically active may have poorer balance and weaker muscles. This can increase your risk of falling.\n\nNot drinking enough water can lead to dehydration. Not eating well can lead to malnutrition. These health problems can make it difficult for you to stay strong enough to move about easily.\n\nIf you had surgery or have a short-term illness like the flu, you may be more likely to fall while you recover.\n\n### Other reasons for a fall\n\nSome conditions that are more common in older people can increase your chance of falling. These include:\n\n- A history of previous falls — if you have fallen more than once in the past 6 months, you are more likely to fall again.\n\n- Low blood pressure — you may feel light-headed, dizzy or unsteady while moving.\n\n- Postural (orthostatic) hypotension — this is when your blood pressure drops when you change position, such as going from sitting to standing. This can be due to a medical condition or due to medicine side effects .\n\n- Stroke , Parkinson's disease and arthritis — change the way you move, and can make it harder to react quickly or stop yourself if you stumble.\n\n- Diabetes — changes in blood sugar levels can make you feel faint. Diabetes can also affect your eyesight and reduce sensation in your feet and legs .\n\n- Depression — some types of antidepressant medicines can increase your risk of falling.\n\n- Medicines that cause drowsiness such as sleeping pills and strong pain relievers containing opioids.\n\nIf you have osteoporosis (thin, weak bones), there's a higher chance of breaking a bone if you fall.\n\n## When should I see my doctor?\n\nSpeak with your doctor if you've had a fall — even if you feel fine.\n\nFalls can be a sign of many different health issues, including:\n\n- a new medical problem\n\n- a side effect of your medicines\n\n- balance problems\n\n- muscle weakness\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\nYour doctor can assess your risk of falls and suggest ways to reduce your chance of falling again.\n\nIt's also a good idea to see your doctor for regular check-ups. Your doctor can help you manage your health as you get older . It's a good idea to address any concerns as soon as you can.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How are falls treated?\n\nOnce you are over 65 years of age expect to be asked if you sometimes fall.\n\nIf you've had a fall, or are concerned about your risk of having a fall, your doctor will work out which causes apply to you. Depending on your risk factors, they may suggest the following things.\n\n### Falls prevention plan\n\nYour doctor can work with you and your family or carers to predict, prevent and manage falls. They may refer you to other health professionals such as a physiotherapist , occupational therapist or dietitian if you are at high risk of falls.\n\nYou may also find it reassuring to carry a personal alarm. You can use it to quickly call for help if you fall.\n\n### Vitamin D and calcium supplements\n\nYour doctor might suggest some changes to what you eat.\n\nTalk with your doctor about whether you may benefit from vitamin D and calcium supplements. These supplements may help to improve your bone health and reduce the chance that a fall will cause a fracture .\n\n### Balance and exercise\n\nOlder people should aim for 2 or 3 hours of physical activity every week. You can do this:\n\n- at home\n\n- at a community exercise class\n\n- following a program from a physiotherapist\n\nThere is evidence that doing exercises that improve your balance and ability to move can prevent harm from falls.\n\nYour doctor can also help with any episode of dizziness or fainting.\n\n### Medications review\n\nSome medicines cause side effects such as:\n\n- drowsiness\n\n- confusion\n\n- unsteadiness or dizziness\n\nSince these side effects can increase your risk of falling, your doctor or pharmacist can review your medicines . They will check to see if any changes to your medicines are needed.\n\nOlder people often take multiple medicines and may not be sure what they are all for.\n\n### Bladder and bowel control\n\nAs you get older it can be harder to control when you urinate (do a wee) or defecate (do a poo). You may fall when you are hurrying to the toilet.\n\nSome causes of incontinence (loss of bladder or bowel control) can be treated by your doctor. Tell your doctor if you have having difficulty making it to the toilet on time.\n\n### Podiatry assessment\n\nAgeing can cause changes to your feet, which can change the way you walk and your balance.\n\nIf you have painful or swollen feet or have tingling or pins and needles, see a podiatrist . They can provide advice on ways to improve your circulation, decrease swelling and reduce pain in your legs and feet.\n\nGood shoes can help with your mobility.\n\n### Vision and hearing checks\n\nEarly detection of eye problems can stop them from getting worse. See your optometrist to get your eyes checked regularly.\n\nIf you wear glasses, have them checked each year. If you struggle to see well due to cataracts , surgery to remove these will help you reduce the likelihood of falls and fractures.\n\nBeing able to hear well can help you notice hazards around you. Find out about hearing tests .\n\n### Hip protectors\n\nA hip fracture is most often caused by a fall in older people. You can get hip protectors which are placed inside special underwear. The protectors sit over your hips to protect them in case of a fall. They may be suitable for people who have osteoporosis or who fall frequently.\n\n## How can falls be prevented?\n\nThere are many ways to reduce the risk of falls, including:\n\n### Lifestyle changes\n\n- Keep physically active . Whatever your age, aim to do at least 30 minutes of activity, most days of the week. This will help you stay strong and improve your balance. Suitable activities include tai chi , dancing and group exercise programs .\n\n- Maintain a healthy diet . Enjoy a wide variety of foods, particularly during hot weather. Food supplements may help if you are underweight .\n\n- Stand up slowly after you have been lying down or sitting to prevent posture-related dizziness.\n\n#### Changes around the home\n\nYou can reduce the risk of falls by addressing factors in your home that increase your risk of falls.\n\nLighting\n\nGood lighting around the house is important. Simple changes can help improve visibility and reduce your chance of a fall:\n\n- Turn lights on when you walk around.\n\n- Leave hallway lights on at night.\n\n- Reduce sun glare inside your house by using net curtains or blinds on your windows.\n\nSlipping\n\nThink about the best footwear to use around the home and fix dangerous surfaces to reduce the risk of slipping:\n\n- Use non-slip mats in wet zones, such as the shower and bathroom. For larger rooms, consider a non-slip flooring material in the whole area.\n\n- Install handrails or a seat in the shower or bath. Place non-skid tape on the edges of steps and stairs to make them easier to see.\n\n- Remove moss, slime or fallen leaves from outdoor paths.\n\n- Wear well-fitting shoes.\n\nTripping\n\nEven small things can be trip hazards:\n\n- Keep walkways clear of clutter and tape down electrical cords along skirting boards.\n\n- Mark any small changes in floor level with contrasting colour so they're clearly seen.\n\n- Install a draught excluder on the bottom of doors instead of using loose fabric that may be a trip hazard.\n\n- Get rid of old mats and torn or stretched carpet. Tape down turned-up rug corners.\n\n## What are the complications of a fall?\n\nFalls can cause hip and thigh injuries. They are the most common reason for hip fracture hospital admissions (9 in 10 cases). Falls can also lead to head injuries, wrist fractures and other injuries.\n\nHip fractures can reduce your independence and cause you to become more reliant on family members and carers. This may also increase your chance of moving into an aged care facility following the injury.\n\nAfter a fall, you may become fearful of falling again and lose confidence in walking. You may start to be less physically active. Over time, reduced movement may increase your risk of further falls due to:\n\n- poor balance\n\n- weak muscles\n\n- stiff joints\n\n## Resources and support\n\nHelp is available to keep older people safe from falls:\n\n- The Australia and New Zealand Falls Prevention Society has a collection of resources for older people and their families .\n\n- Healthy Bones Australia has articles on moving safely and recovering from a fracture . You can also call them on 1800 242 141 for general information about bone health or osteoporosis.\n\n- Go to Occupational Therapy Australia to find a private practice OT in your area who can help you assess your home and make safety changes.\n\n- Injury Matters , based in Western Australia, offers tips on making your home safer , as well as a home safety checklist and Stay on Your Feet materials.\n\n- Watch this video from Queensland Health to learn some simple steps to reduce your chance of falling in the bathroom . Read a fact sheet for health professionals about preventing falls in Community care produced by the Australian Commission on Safety and Quality in Health Care .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n### Languages other than English\n\nHealth Translations Victoria provides fact sheets on preventing falls for older people and staying on your feet in several languages.\n\n#### Source s :\n\nNSW Government (Falls) , Australian Institute of Health and Welfare (Falls) , Australian Government (Don't fall for it!) , Australian Commission on Safety and Quality in Health Care (Fact Sheet: Preventing falls in Community Care) , Australian Commission on Safety and Quality in Health Care (Falls Guidelines for Community Care) , Victoria Department of Health (Falls prevention)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: September 2025\n\nBack To Top\n\n## Search our site for\n\n- Fractures\n\n- Injuries\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Caring for an elderly person | Carer Gateway\n\nExplore our 10 tips about what you can do to make life easier if you are a carer looking after an elderly person.\n\nRead more on Carer Gateway website\n\n### Retirement years - Services Australia\n\nHelp and payments for when you retire. Information about planning for retirement. What to do if you decide to keep working past Age Pension age.\n\nRead more on Centrelink website\n\n### Our Elders and Elderly - WellMob\n\nKeeping our Elders safe and well is an important community responsibility. We need to support the wellbeing of our elderly and protect them against Elder abuse.\n\nRead more on WellMob website\n\n### Seniors | eSafety Commissioner\n\nOnline safety resources and support for older Australians\n\nRead more on Office of the eSafety Commissioner website\n\n### Older Adults - Immunisation Coalition\n\nImmunisation remains an important part of ongoing healthcare for older Australians.\n\nRead more on Immunisation Coalition website\n\n### Older People -ACON – We are New South Wales’ leading HIV and LGBTQ+ health organisation.\n\nWe are New South Wales’ leading HIV and LGBTQ+ health organisation.\n\nRead more on ACON website\n\n### Older Adults | Mental Health Commission\n\nLearn about mental health for older adults and find specific support and services.\n\nRead more on WA Health website\n\nShow more\n\n### Effectively Communicating Older People’s Care Needs\n\nIn order to deliver safe and effective care, aged care organisations need to ensure that information about an older person’s condition, needs, goals and preferences is effectively communicated between members of the care team as well as other parties that share responsibility for the person’s care. This will prevent older people in your care from constantly needing to remind staff of their needs, as well as reduce the risk of mistakes and harm from occurring.\n\nRead more on Ausmed Education website\n\n### Delirium Awareness and Cognitive Impairment\n\nWhen any person, particularly an older adult, accesses a healthcare service, there is a need for health professionals to not only treat their prioritising health concerns but also recognise and treat any other comorbidities they may have concurrently (or consequently) developed during their stay. One such comorbidity that may occur during a hospital stay is delirium. Any patient who has had surgery, is in pain, has moved beds multiple times or is dehydrated is at risk of delirium.\n\n### A Guide to Optimal Health in Aged Care\n\nAs they age, older adults find themselves facing unique health challenges. Whether on their own or requiring in-home care services, by maintaining a healthy lifestyle, older adults can help prevent and control many of these issues while improving their quality of life.\n\n### Care to Learn Podcast Episode 9: Geoff Ahern\n\nIn this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care.\n\n### Transitioning to Residential Aged Care: Loss and Grief\n\nTransitioning into residential aged care is a major life event that can be difficult and stressful for an older person and their carers or loved ones, especially if the change has come about due to a medical issue and there is limited time to make a decision. It’s estimated that over 50% of older people living in residential aged care experience depression and/or anxiety, compared to 10% of older people overall. Furthermore, less than half of that 50% enter residential aged care with pre-existing mental illness.\n\n### Person-centred Care in Aged Care\n\nPerson-centred care is an approach to aged care that emphasises the importance of partnership between older people and providers during care planning, delivery and management. A crucial aspect of person-centred care is respecting and responding to older people’s needs, values and preferences.\n\n### Advocates and Language Services\n\nOlder people have the right to speak up about the care they are receiving. Providers must ensure that every older person has the ability to raise concerns about their care regardless of culture, language, impairment or other factors. If these barriers impede the person’s ability to access the complaint system, the provider is expected to link them to extra support that enables them to do so.\n\n### Partnering With Older People\n\nPartnering with older people is more than just a buzzword - it’s a fundamental right. Being able to make decisions about our own lives and having those decisions respected is something that the Aged Care Quality and Safety Commission (ACQSC) is ensuring that all aged care recipients are provided.\n\n### Providing Best Care for Older People in a Hospital Setting\n\nHospitalisation is an overwhelming event for older people that places them at significant risk of complications and deterioration at the best of times. Older adults face a unique set of risks and challenges in hospital settings. Therefore, knowing how to care for these vulnerable people is crucial.\n\n### Three Areas of Focus for Improving Care of the Older Adult\n\nAs the Australian population continues to age, it is undeniable that there is a need for nursing care to focus on how best to improve the care of older adults.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/falls\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/falls\n\n- Please enter your name: https://www.healthdirect.gov.au/falls#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/falls#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/falls#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/falls#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/falls\n\n- Why are falls a concern for older people?: https://www.healthdirect.gov.au/falls#concerning\n\n- What causes falls?: https://www.healthdirect.gov.au/falls#why\n\n- What other risk factors are there for a fall?: https://www.healthdirect.gov.au/falls#risk\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/falls#doctor\n\n- How are falls treated?: https://www.healthdirect.gov.au/falls#treated\n\n- How can falls be prevented?: https://www.healthdirect.gov.au/falls#prevented\n\n- What are the complications of a fall?: https://www.healthdirect.gov.au/falls#complications\n\n- Resources and support: https://www.healthdirect.gov.au/falls#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/falls#searchGeneralResults\n\n- dizzy: https://www.healthdirect.gov.au/dizziness\n\n- lightheaded: https://www.healthdirect.gov.au/lightheadedness\n\n- poorer eyesight: https://www.healthdirect.gov.au/eye-health-tips-for-over-60s\n\n- incontinence: https://www.healthdirect.gov.au/incontinence\n\n- dementia: https://www.healthdirect.gov.au/dementia\n\n- Alzheimer's disease: https://www.healthdirect.gov.au/alzheimers-disease\n\n- delirium: https://www.healthdirect.gov.au/delirium\n\n- physically active: https://www.healthdirect.gov.au/physical-activity-guidelines-for-older-adults\n\n- drinking enough water: https://www.healthdirect.gov.au/drinking-water-and-your-health\n\n- eating well: https://www.healthdirect.gov.au/healthy-eating-over-60\n\n- Low blood pressure: https://www.healthdirect.gov.au/low-blood-pressure-hypotension\n\n- medicine side effects: https://www.healthdirect.gov.au/medicine-and-side-effects\n\n- Stroke: https://www.healthdirect.gov.au/stroke\n\n- Parkinson's disease: https://www.healthdirect.gov.au/parkinsons-disease\n\n- arthritis: https://www.healthdirect.gov.au/arthritis\n\n- Diabetes: https://www.healthdirect.gov.au/diabetes\n\n- reduce sensation in your feet and legs: https://www.healthdirect.gov.au/peripheral-neuropathy\n\n- Depression: https://www.healthdirect.gov.au/depression\n\n- antidepressant medicines: https://www.healthdirect.gov.au/search-results/antidepressants\n\n- sleeping pills: https://www.healthdirect.gov.au/safe-use-of-sleeping-pills\n\n- strong pain relievers: https://www.healthdirect.gov.au/opioid-medicines\n\n- osteoporosis: https://www.healthdirect.gov.au/healthy-bones\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- manage your health as you get older: https://www.healthdirect.gov.au/manage-your-health-in-your-70s-and-older\n\n- physiotherapist: https://www.healthdirect.gov.au/physiotherapy\n\n- occupational therapist: https://www.healthdirect.gov.au/occupational-therapy\n\n- dietitian: https://www.healthdirect.gov.au/dietitians\n\n- vitamin D: https://www.healthdirect.gov.au/vitamin-d-and-your-health\n\n- calcium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20412/calcium\n\n- fracture: https://www.healthdirect.gov.au/fractures\n\n- confusion: https://www.healthdirect.gov.au/confusion\n\n- review your medicines: https://www.healthdirect.gov.au/home-medicines-review\n\n- Older people: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- podiatrist: https://www.healthdirect.gov.au/podiatrist\n\n- eyes checked: https://www.healthdirect.gov.au/eye-tests\n\n- cataracts: https://www.healthdirect.gov.au/cataracts\n\n- hearing tests: https://www.healthdirect.gov.au/hearing-test\n\n- tai chi: https://www.healthdirect.gov.au/health-benefits-of-tai-chi\n\n- group exercise programs: https://www.healthdirect.gov.au/group-exercise-for-beginners\n\n- underweight: https://www.healthdirect.gov.au/what-to-do-if-you-are-underweight\n\n- wrist fractures: https://www.healthdirect.gov.au/hand-and-finger-fractures\n\n- aged care facility: https://www.healthdirect.gov.au/residential-aged-care\n\n- resources for older people and their families: https://www.anzfallsprevention.org/resources/resources-for-older-people-and-their-families/\n\n- moving safely and recovering from a fracture: https://healthybonesaustralia.org.au/resource-hub/fact-sheets/\n\n- Occupational Therapy Australia: http://www.otaus.com.au/\n\n- find a private practice OT: http://www.otaus.com.au/find-an-occupational-therapist\n\n- Injury Matters: https://www.injurymatters.org.au/\n\n- making your home safer: https://www.injurymatters.org.au/programs/stay-on-your-feet/information-for-over-60s/make-your-home-safer/\n\n- Stay on Your Feet: https://www.stayonyourfeet.com.au/\n\n- reduce your chance of falling in the bathroom: https://player.vimeo.com/video/810362293\n\n- preventing falls in Community care: https://www.safetyandquality.gov.au/publications-and-resources/resource-library/preventing-falls-community-care-fact-sheet\n\n- Australian Commission on Safety and Quality in Health Care: https://www.safetyandquality.gov.au/\n\n- preventing falls for older people: https://www.healthtranslations.vic.gov.au/resources/dont-fall-for-it-a-guide-to-preventing-falls-for-older-people\n\n- staying on your feet: https://www.healthtranslations.vic.gov.au/resources/stay-on-your-feet-move-improve-remove\n\n- (Falls): https://www.healthstats.nsw.gov.au/page/Falls\n\n- (Falls): https://www.aihw.gov.au/reports/injury/falls\n\n- (Don't fall for it!): https://www.health.gov.au/sites/default/files/documents/2021/04/don-t-fall-for-it-falls-can-be-prevented.pdf\n\n- (Fact Sheet: Preventing falls in Community Care): https://www.safetyandquality.gov.au\n\n- (Falls Guidelines for Community Care): https://www.safetyandquality.gov.au/publications-and-resources/resource-library/falls-guidelines-community-care\n\n- (Falls prevention): https://www.health.vic.gov.au/ageing-and-aged-care/falls-prevention\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/falls#backToTop\n\n- Fractures: https://www.healthdirect.gov.au/search-results/Fractures\n\n- Injuries: https://www.healthdirect.gov.au/search-results/Injuries\n\n- Caring for an elderly person | Carer Gateway Explore our 10 tips about what you can do to make life easier if you are a carer looking after an elderly person. Read more on Carer Gateway website: https://www.carergateway.gov.au/your-life-carer/your-life-around-caring/who-caring/caring-elderly\n\n- Retirement years - Services Australia Help and payments for when you retire. Information about planning for retirement. What to do if you decide to keep working past Age Pension age. Read more on Centrelink website: https://www.servicesaustralia.gov.au/retirement-years\n\n- Our Elders and Elderly - WellMob Keeping our Elders safe and well is an important community responsibility. We need to support the wellbeing of our elderly and protect them against Elder abuse. Read more on WellMob website: https://wellmob.org.au/e-health-topics/our-mob/our-elders-and-elderly/\n\n- Seniors | eSafety Commissioner Online safety resources and support for older Australians Read more on Office of the eSafety Commissioner website: https://www.esafety.gov.au/seniors\n\n- Older Adults - Immunisation Coalition Immunisation remains an important part of ongoing healthcare for older Australians. Read more on Immunisation Coalition website: https://immunisationcoalition.org.au/diseases/older-adults/\n\n- Older People -ACON – We are New South Wales’ leading HIV and LGBTQ+ health organisation. We are New South Wales’ leading HIV and LGBTQ+ health organisation. Read more on ACON website: https://www.acon.org.au/who-we-are-here-for/older-people/\n\n- Older Adults | Mental Health Commission Learn about mental health for older adults and find specific support and services. Read more on WA Health website: https://www.mhc.wa.gov.au/your-health-and-wellbeing/older-adults/\n\n- Effectively Communicating Older People’s Care Needs In order to deliver safe and effective care, aged care organisations need to ensure that information about an older person’s condition, needs, goals and preferences is effectively communicated between members of the care team as well as other parties that share responsibility for the person’s care. This will prevent older people in your care from constantly needing to remind staff of their needs, as well as reduce the risk of mistakes and harm from occurring. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/communicating-residents-care-needs\n\n- Delirium Awareness and Cognitive Impairment When any person, particularly an older adult, accesses a healthcare service, there is a need for health professionals to not only treat their prioritising health concerns but also recognise and treat any other comorbidities they may have concurrently (or consequently) developed during their stay. One such comorbidity that may occur during a hospital stay is delirium. Any patient who has had surgery, is in pain, has moved beds multiple times or is dehydrated is at risk of delirium. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/cognitive-impairment\n\n- A Guide to Optimal Health in Aged Care As they age, older adults find themselves facing unique health challenges. Whether on their own or requiring in-home care services, by maintaining a healthy lifestyle, older adults can help prevent and control many of these issues while improving their quality of life. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/guide-optimal-health-aged-care\n\n- Care to Learn Podcast Episode 9: Geoff Ahern In this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/care-to-learn-podcast-episode-9\n\n- Transitioning to Residential Aged Care: Loss and Grief Transitioning into residential aged care is a major life event that can be difficult and stressful for an older person and their carers or loved ones, especially if the change has come about due to a medical issue and there is limited time to make a decision. It’s estimated that over 50% of older people living in residential aged care experience depression and/or anxiety, compared to 10% of older people overall. Furthermore, less than half of that 50% enter residential aged care with pre-existing mental illness. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/loss-grief-aged-care\n\n- Person-centred Care in Aged Care Person-centred care is an approach to aged care that emphasises the importance of partnership between older people and providers during care planning, delivery and management. A crucial aspect of person-centred care is respecting and responding to older people’s needs, values and preferences. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/person-centred-care\n\n- Advocates and Language Services Older people have the right to speak up about the care they are receiving. Providers must ensure that every older person has the ability to raise concerns about their care regardless of culture, language, impairment or other factors. If these barriers impede the person’s ability to access the complaint system, the provider is expected to link them to extra support that enables them to do so. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/advocates-and-language-services\n\n- Partnering With Older People Partnering with older people is more than just a buzzword - it’s a fundamental right. Being able to make decisions about our own lives and having those decisions respected is something that the Aged Care Quality and Safety Commission (ACQSC) is ensuring that all aged care recipients are provided. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/planning-with-consumers\n\n- Providing Best Care for Older People in a Hospital Setting Hospitalisation is an overwhelming event for older people that places them at significant risk of complications and deterioration at the best of times. Older adults face a unique set of risks and challenges in hospital settings. Therefore, knowing how to care for these vulnerable people is crucial. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/best-care-older-people-hospital\n\n- Three Areas of Focus for Improving Care of the Older Adult As the Australian population continues to age, it is undeniable that there is a need for nursing care to focus on how best to improve the care of older adults. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/improving-older-adult-care\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

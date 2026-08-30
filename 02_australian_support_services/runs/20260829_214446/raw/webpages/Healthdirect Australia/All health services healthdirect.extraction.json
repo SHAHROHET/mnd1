@@ -1,0 +1,1603 @@
+{
+  "source_id": "healthdirect-australia:australian-health-services-all-services",
+  "title": "All health services | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/australian-health-services/all-services",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 62831,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/caring-for-others",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au",
+      "url": "https://www.healthdirect.gov.au"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#I"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#W"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#Y"
+    },
+    {
+      "text": "i",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services#i"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander maternal and infant health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/aboriginal-and-torres-strait-islander-maternal-and-infant-health-service/1578861000168108"
+    },
+    {
+      "text": "Accommodation support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/accommodation-support/1256131000168104"
+    },
+    {
+      "text": "Acquired brain injury information and referral support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/acquired-brain-injury-information-and-referral-support/1241751000168104"
+    },
+    {
+      "text": "Acupuncture",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/acupuncture/1120851000168104"
+    },
+    {
+      "text": "Acute mental health inpatient service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/acute-mental-health-inpatient-service/1239041000168102"
+    },
+    {
+      "text": "Acute mental health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/acute-mental-health-service/1580931000168102"
+    },
+    {
+      "text": "Acute pain service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/acute-pain-service/310072004"
+    },
+    {
+      "text": "Addiction service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/addiction-service/788125002"
+    },
+    {
+      "text": "Adult mental health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/adult-mental-health-service/788002001"
+    },
+    {
+      "text": "After hours GP clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/after-hours-gp-clinic/1223071000168109"
+    },
+    {
+      "text": "Aged care residential service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/aged-care-residential-service/1120991000168102"
+    },
+    {
+      "text": "Aged care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/aged-care-service/1223361000168101"
+    },
+    {
+      "text": "Alcohol and drug information",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-drug-information/1248881000168109"
+    },
+    {
+      "text": "Alcohol and other drug withdrawal management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drug-withdrawal-management-service/1582421000168107"
+    },
+    {
+      "text": "Alcohol and other drugs addiction medicine child and adolescent service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-addiction-medicine-child-and-adolescent-service/1580811000168101"
+    },
+    {
+      "text": "Alcohol and other drugs court diversion service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-court-diversion-service/1580821000168108"
+    },
+    {
+      "text": "Alcohol and other drugs psychosocial service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-psychosocial-service/1580791000168100"
+    },
+    {
+      "text": "Alternative therapies",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/alternative-therapies/10025004"
+    },
+    {
+      "text": "Anaesthetics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/anaesthetics/310001007"
+    },
+    {
+      "text": "Anatomic pathology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/anatomic-pathology-service/708183009"
+    },
+    {
+      "text": "Angioplasty and angiography service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/angioplasty-and-angiography-service/1579181000168104"
+    },
+    {
+      "text": "Assertive community management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/assertive-community-management-service/1582751000168106"
+    },
+    {
+      "text": "Assessment service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/assessment-service/310002000"
+    },
+    {
+      "text": "Bone and connective tissue oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/bone-and-connective-tissue-oncology-service/1591321000168108"
+    },
+    {
+      "text": "Bone densitometry service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/bone-densitometry-service/1579081000168100"
+    },
+    {
+      "text": "Breast cancer surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/breast-cancer-surgery/24051000087102"
+    },
+    {
+      "text": "Breast health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/breast-health/1579121000168103"
+    },
+    {
+      "text": "Breast screening",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/breast-screening/310126000"
+    },
+    {
+      "text": "Breast surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/breast-surgery-service/310139001"
+    },
+    {
+      "text": "Burns service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/burns-service/1255914002"
+    },
+    {
+      "text": "Cancer genetics service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-genetics-service/1580921000168100"
+    },
+    {
+      "text": "Cancer services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-services/1223321000168106"
+    },
+    {
+      "text": "Cancer support group",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-support-group/1293001000168107"
+    },
+    {
+      "text": "Cannabis use disorder treatment service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cannabis-use-disorder-treatment-service/1579171000168102"
+    },
+    {
+      "text": "Cardiac rehabilitation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cardiac-rehabilitation/733459009"
+    },
+    {
+      "text": "Cardiology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cardiology/789718008"
+    },
+    {
+      "text": "Cardiology diagnostic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cardiology-diagnostic-service/1579131000168100"
+    },
+    {
+      "text": "Cardiothoracic surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cardiothoracic-surgery/310140004"
+    },
+    {
+      "text": "Cataract extraction procedure service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cataract-extraction-procedure-service/1586721000168104"
+    },
+    {
+      "text": "Chemical Pathology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/chemical-pathology/310076001"
+    },
+    {
+      "text": "Chemotherapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/chemotherapy/1244931000168105"
+    },
+    {
+      "text": "Child and adolescent mental health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/child-and-adolescent-mental-health/1239001000168104"
+    },
+    {
+      "text": "Child development service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/child-development-service/1225031000168107"
+    },
+    {
+      "text": "Child protection",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/child-protection/1225041000168103"
+    },
+    {
+      "text": "Children and youth services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-and-youth-services/310066004"
+    },
+    {
+      "text": "Children's cardiology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-cardiology/789717003"
+    },
+    {
+      "text": "Children's clinical genetics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-clinical-genetics/792849008"
+    },
+    {
+      "text": "Children's clinical pharmacology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-clinical-pharmacology/1223201000168109"
+    },
+    {
+      "text": "Children's dentistry",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-dentistry/310147001"
+    },
+    {
+      "text": "Children's dermatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-dermatology/1223211000168107"
+    },
+    {
+      "text": "Children's endocrinology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-endocrinology/3761000175103"
+    },
+    {
+      "text": "Children's ENT (ear, nose and throat)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-ent-ear-nose-and-throat/789716007"
+    },
+    {
+      "text": "Children's gastroenterology and hepatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-gastroenterology-and-hepatology/1248801000168101"
+    },
+    {
+      "text": "Children's haematology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-haematology/897188002"
+    },
+    {
+      "text": "Children's immunology and allergy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-immunology-and-allergy/1223231000168102"
+    },
+    {
+      "text": "Children's infectious disease clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-infectious-disease-clinic/3781000175109"
+    },
+    {
+      "text": "Children's intensive care",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-intensive-care/310034009"
+    },
+    {
+      "text": "Children's medical service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-medical-service/1223241000168106"
+    },
+    {
+      "text": "Children's nephrology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-nephrology/3791000175107"
+    },
+    {
+      "text": "Children's neurology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-neurology/310068003"
+    },
+    {
+      "text": "Children's nuclear medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-nuclear-medicine/1223251000168108"
+    },
+    {
+      "text": "Children's oncology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-oncology/310069006"
+    },
+    {
+      "text": "Children's rehabilitation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-rehabilitation/1223271000168104"
+    },
+    {
+      "text": "Children's respiratory therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-respiratory-therapy/789715006"
+    },
+    {
+      "text": "Children's rheumatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-rheumatology/789714005"
+    },
+    {
+      "text": "Children's sleep medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-sleep-medicine/1223301000168102"
+    },
+    {
+      "text": "Children's surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-surgery/310163009"
+    },
+    {
+      "text": "Chinese herbal medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/chinese-herbal-medicine/1226611000168100"
+    },
+    {
+      "text": "Chiropractor",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/chiropractor/722170006"
+    },
+    {
+      "text": "Chronic disease management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/chronic-disease-management/1226621000168107"
+    },
+    {
+      "text": "Clinical genetics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-genetics/788004000"
+    },
+    {
+      "text": "Clinical immunology and allergy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-immunology-and-allergy/788121006"
+    },
+    {
+      "text": "Clinical oncology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-oncology/310022001"
+    },
+    {
+      "text": "Clinical pathology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-pathology/708184003"
+    },
+    {
+      "text": "Clinical pharmacology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-pharmacology/700436003"
+    },
+    {
+      "text": "Clinical psychology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-psychology/1256181000168103"
+    },
+    {
+      "text": "Coagulation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/coagulation-service/708193002"
+    },
+    {
+      "text": "Cognition and memory service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cognition-and-memory-service/1599211000168108"
+    },
+    {
+      "text": "Colorectal surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/colorectal-surgery-service/310155008"
+    },
+    {
+      "text": "Community cancer service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/community-cancer-service/1223341000168100"
+    },
+    {
+      "text": "Community health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/community-health-service/1585211000168107"
+    },
+    {
+      "text": "Community nursing and allied health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/community-nursing-and-allied-health-service/1587231000168109"
+    },
+    {
+      "text": "Complex menopause service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/complex-menopause-service/1659981000168107"
+    },
+    {
+      "text": "Computerised tomography service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/computerised-tomography-service/310128004"
+    },
+    {
+      "text": "Continence service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/continence-service/1244941000168101"
+    },
+    {
+      "text": "COPD management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/copd-management-service/1586301000168107"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/counselling/310026003"
+    },
+    {
+      "text": "COVID-19 management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/covid-19-management-service/1575081000168102"
+    },
+    {
+      "text": "COVID-19 vaccine clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/covid-19-vaccine-clinic/1575161000168105"
+    },
+    {
+      "text": "Craniofacial surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/craniofacial-surgery-service/1586471000168109"
+    },
+    {
+      "text": "Crisis and emergency accommodation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/crisis-and-emergency-accommodation/1248851000168102"
+    },
+    {
+      "text": "Crisis counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/crisis-counselling/1244561000168107"
+    },
+    {
+      "text": "Cystic Fibrosis management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cystic-fibrosis-management-service/1584971000168109"
+    },
+    {
+      "text": "Dermatological surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/cosmetic-surgery/1225071000168105"
+    },
+    {
+      "text": "Dementia management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dementia-management/1599221000168101"
+    },
+    {
+      "text": "Dental hygiene service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dental-hygiene-service/1223551000168105"
+    },
+    {
+      "text": "Dental services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dental-services/722176000"
+    },
+    {
+      "text": "Dentists",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dentists/310144008"
+    },
+    {
+      "text": "Dermatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dermatology/700241009"
+    },
+    {
+      "text": "Developmental disability support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/developmental-disability-support/1584731000168109"
+    },
+    {
+      "text": "Diabetes education",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/diabetes-education/734920002"
+    },
+    {
+      "text": "Diabetes mellitus service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/diabetes-mellitus-service/444913002"
+    },
+    {
+      "text": "Diagnostic imaging",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/diagnostic-imaging/708175003"
+    },
+    {
+      "text": "Diagnostic investigation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/diagnostic-investigation/310028002"
+    },
+    {
+      "text": "Dietetics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/dietetics/310090003"
+    },
+    {
+      "text": "Diversional therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/diversional-therapy/1586741000168105"
+    },
+    {
+      "text": "Domestic and family violence support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/domestic-and-family-violence-support/1225051000168101"
+    },
+    {
+      "text": "Domestic violence counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/domestic-violence-counselling/1244571000168101"
+    },
+    {
+      "text": "Drug and alcohol counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-counselling/1244861000168109"
+    },
+    {
+      "text": "Drug and alcohol dependence treatment (Non-residential)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-dependence-treatment-non-residential/1244881000168100"
+    },
+    {
+      "text": "Drug and alcohol dependence treatment (Residential)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-dependence-treatment-residential/1244911000168100"
+    },
+    {
+      "text": "Drug and alcohol support group",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-support-group/1239091000168105"
+    },
+    {
+      "text": "Early childhood intervention",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/early-childhood-intervention/1225061000168104"
+    },
+    {
+      "text": "Early parenting support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/early-parenting-support/1308141000168105"
+    },
+    {
+      "text": "Eating disorder service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/eating-disorder-service/1586751000168107"
+    },
+    {
+      "text": "Emergency care centre service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/emergency-care-centre-service/933600281000036103"
+    },
+    {
+      "text": "Emergency department service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/emergency-department-service/310000008"
+    },
+    {
+      "text": "Employee health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/employee-health-service/2471000175109"
+    },
+    {
+      "text": "Endocrine diagnostic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/endocrine-diagnostic-service/1581451000168107"
+    },
+    {
+      "text": "Endocrinology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/endocrinology-service/700434000"
+    },
+    {
+      "text": "Endodontics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/endodontics/734862008"
+    },
+    {
+      "text": "Endoscopy service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/endoscopy-service/310030000"
+    },
+    {
+      "text": "ENT (Ear nose and throat) medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/ent-ear-nose-and-throat-medicine/310149003"
+    },
+    {
+      "text": "Enteral nutrition service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/enteral-nutrition-service/1585121000168109"
+    },
+    {
+      "text": "Epilepsy management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/epilepsy-management-service/1584741000168100"
+    },
+    {
+      "text": "Exercise physiology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/exercise-physiology/1240761000168106"
+    },
+    {
+      "text": "Falls prevention",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/falls-prevention/1244961000168102"
+    },
+    {
+      "text": "Family counselling service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/family-counselling-service/1255941000168103"
+    },
+    {
+      "text": "Family planning",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/family-planning/310031001"
+    },
+    {
+      "text": "Financial counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/financial-counselling/1244581000168103"
+    },
+    {
+      "text": "Gastroenterology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/gastroenterology/700433006"
+    },
+    {
+      "text": "Gastroenterology and hepatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/gastroenterology-and-hepatology/1238961000168106"
+    },
+    {
+      "text": "General counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/general-counselling/1277211000168104"
+    },
+    {
+      "text": "General surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/general-surgery/310156009"
+    },
+    {
+      "text": "Genetic counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/genetic-counselling/1256081000168104"
+    },
+    {
+      "text": "Genetic pathology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/genetic-pathology/1248841000168104"
+    },
+    {
+      "text": "Geriatric medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/geriatric-medicine/3531000175102"
+    },
+    {
+      "text": "GP (General practice)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/gp-general-practice/788007007"
+    },
+    {
+      "text": "Grief counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/grief-counselling/1244551000168105"
+    },
+    {
+      "text": "Gynaecological oncology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/gynaecological-oncology/1238971000168100"
+    },
+    {
+      "text": "Gynaecology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/gynaecology/310061009"
+    },
+    {
+      "text": "Haematology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/haematology/708196005"
+    },
+    {
+      "text": "Haematology oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/haematology-oncology-service/1582251000168100"
+    },
+    {
+      "text": "Hand surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hand-surgery/310157000"
+    },
+    {
+      "text": "Head and neck cancer service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/head-and-neck-cancer-service/1580961000168100"
+    },
+    {
+      "text": "Head injury rehabilitation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/head-injury-rehabilitation-service/310130002"
+    },
+    {
+      "text": "Health counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/health-counselling/1277221000168106"
+    },
+    {
+      "text": "Health information and referral",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/health-information-and-referral/1276981000168103"
+    },
+    {
+      "text": "Health promotion",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/health-promotion/1293061000168108"
+    },
+    {
+      "text": "Hearing aids",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hearing-aids/310015009"
+    },
+    {
+      "text": "Hearing clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hearing-clinic/310004004"
+    },
+    {
+      "text": "Hepatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hepatology/23901000087101"
+    },
+    {
+      "text": "High risk foot service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/high-risk-foot-service/1586761000168109"
+    },
+    {
+      "text": "HIV and AIDS management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hiv-and-aids-management-service/1587261000168101"
+    },
+    {
+      "text": "Home care support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/home-care-support/1248871000168106"
+    },
+    {
+      "text": "Homelessness support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/homelessness-support/1248861000168100"
+    },
+    {
+      "text": "Hospital general medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-general-medicine/1649211000168105"
+    },
+    {
+      "text": "Hospital in the home",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-in-the-home/1648341000168106"
+    },
+    {
+      "text": "Hospital pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-pharmacy/1244921000168107"
+    },
+    {
+      "text": "Hospitals",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hospitals/1223151000168101"
+    },
+    {
+      "text": "Hydrotherapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hydrotherapy/1223571000168101"
+    },
+    {
+      "text": "Hyperbaric medicine service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/hyperbaric-medicine-service/1163004008"
+    },
+    {
+      "text": "Immunisation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/immunisation/1238911000168108"
+    },
+    {
+      "text": "Immunology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/immunology/708190004"
+    },
+    {
+      "text": "Indigenous health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/indigenous-health/1292991000168106"
+    },
+    {
+      "text": "Infectious diseases service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/infectious-diseases-service/788001008"
+    },
+    {
+      "text": "Influenza (Flu) Vaccine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/influenza-flu-vaccine/1633181000168107"
+    },
+    {
+      "text": "Integrated care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-care-service/1575171000168104"
+    },
+    {
+      "text": "Integrated family service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-family-service/1256031000168100"
+    },
+    {
+      "text": "Integrated violence abuse and neglect service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-violence-abuse-and-neglect-service/1575091000168104"
+    },
+    {
+      "text": "Intensive care",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/intensive-care/310032008"
+    },
+    {
+      "text": "Legal medicine service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/legal-medicine-service/722393008"
+    },
+    {
+      "text": "Liaison psychiatry service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/liaison-psychiatry-service/310119000"
+    },
+    {
+      "text": "Lower gastrointestinal oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/lower-gastrointestinal-oncology-service/1578731000168107"
+    },
+    {
+      "text": "Lymphedema",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/lymphedema/1578521000168101"
+    },
+    {
+      "text": "Massage therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/massage-therapy/1135791000168108"
+    },
+    {
+      "text": "Maternal, child and family health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/maternal-child-and-family-health/1238921000168101"
+    },
+    {
+      "text": "Maxillofacial surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/maxillofacial-surgery/710028007"
+    },
+    {
+      "text": "Medical micorbiology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/medical-micorbiology-service/310078000"
+    },
+    {
+      "text": "Medication management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/medication-management/1135811000168107"
+    },
+    {
+      "text": "Men's health clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/men-s-health-clinic/1238981000168102"
+    },
+    {
+      "text": "Mental health advocacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-advocacy/1239011000168101"
+    },
+    {
+      "text": "Mental health case management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-case-management/1239031000168106"
+    },
+    {
+      "text": "Mental health crisis assessment and treatment",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-crisis-assessment-and-treatment/1239021000168108"
+    },
+    {
+      "text": "Mental health early intervention service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-early-intervention-service/1580161000168108"
+    },
+    {
+      "text": "Mental health extended care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-extended-care-service/1580171000168102"
+    },
+    {
+      "text": "Mental health information and referral",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-information-and-referral/1256091000168101"
+    },
+    {
+      "text": "Mental health non-residential rehabilitation",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-non-residential-rehabilitation/1239051000168100"
+    },
+    {
+      "text": "Mental health promotion and prevention service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-promotion-and-prevention-service/1580181000168104"
+    },
+    {
+      "text": "Mental health research service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-research-service/1580761000168107"
+    },
+    {
+      "text": "Mental health residential rehabilitation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-residential-rehabilitation-service/1239061000168103"
+    },
+    {
+      "text": "Mental health services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-services/708168004"
+    },
+    {
+      "text": "Midwifery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/midwifery-service/714088003"
+    },
+    {
+      "text": "Minor medical procedure service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/minor-medical-procedure-service/1579991000168103"
+    },
+    {
+      "text": "Minor surgical service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/minor-surgical-service/1578711000168102"
+    },
+    {
+      "text": "MRI",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/mri/310127009"
+    },
+    {
+      "text": "Multicultural health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/multicultural-health-service/1580191000168101"
+    },
+    {
+      "text": "Music therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/music-therapy/310086000"
+    },
+    {
+      "text": "Myotherapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/myotherapy/1240771000168100"
+    },
+    {
+      "text": "Needle and Syringe Program",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/needle-and-syringe-program/1244871000168103"
+    },
+    {
+      "text": "Neonatology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neonatology-service/1277201000168102"
+    },
+    {
+      "text": "Nephrology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nephrology/788003006"
+    },
+    {
+      "text": "Neuro-oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neuro-oncology-service/1579141000168109"
+    },
+    {
+      "text": "Neurology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neurology/788005004"
+    },
+    {
+      "text": "Neurology diagnostic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neurology-diagnostic-service/1580461000168101"
+    },
+    {
+      "text": "Neuropsychology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neuropsychology/1136331000168101"
+    },
+    {
+      "text": "Neurosurgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/neurosurgery/310159002"
+    },
+    {
+      "text": "Non-acute mental health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/non-acute-mental-health-service/1578591000168104"
+    },
+    {
+      "text": "Nuclear medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nuclear-medicine/788009005"
+    },
+    {
+      "text": "Nurse led clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nurse-led-clinic/1277181000168103"
+    },
+    {
+      "text": "Nurse practitioner led clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nurse-practitioner-led-clinic/1277191000168100"
+    },
+    {
+      "text": "Nursing service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nursing-service/708170008"
+    },
+    {
+      "text": "Nutrition",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/nutrition/1240781000168102"
+    },
+    {
+      "text": "Obstetric care",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/obstetric-care/1538951000168100"
+    },
+    {
+      "text": "Obstetrics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/obstetrics/310063007"
+    },
+    {
+      "text": "Obstetrics and gynaecology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/obstetrics-and-gynaecology/310060005"
+    },
+    {
+      "text": "Occupational health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-health-service/310064001"
+    },
+    {
+      "text": "Occupational medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-medicine/1277151000168105"
+    },
+    {
+      "text": "Occupational therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-therapy/310093001"
+    },
+    {
+      "text": "Ocular oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/ocular-oncology-service/1580781000168103"
+    },
+    {
+      "text": "One on one mentoring support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/one-on-one-mentoring-support/1276661000168101"
+    },
+    {
+      "text": "Ophthalmology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/ophthalmology/310160007"
+    },
+    {
+      "text": "Opthalmology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/opthalmology/1579151000168106"
+    },
+    {
+      "text": "Optometry",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/optometry/310105000"
+    },
+    {
+      "text": "Oral and maxillofacial surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/oral-and-maxillofacial-surgery-service/788008002"
+    },
+    {
+      "text": "Oral medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/oral-medicine/1237575008"
+    },
+    {
+      "text": "Oral surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/oral-surgery/310145009"
+    },
+    {
+      "text": "Orthodontics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/orthodontics/310146005"
+    },
+    {
+      "text": "Orthopaedic endoscopy service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/orthopaedic-endoscopy-service/1580831000168106"
+    },
+    {
+      "text": "Orthopaedic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/orthopaedic-service/310161006"
+    },
+    {
+      "text": "Orthoptics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/orthoptics/310106004"
+    },
+    {
+      "text": "Osteopathic refracture prevention service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/osteopathic-refracture-prevention-service/1578511000168108"
+    },
+    {
+      "text": "Osteopathy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/osteopathy/1136391000168102"
+    },
+    {
+      "text": "Outreach service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/outreach-service/1244481000168102"
+    },
+    {
+      "text": "Pacemaker consultation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pacemaker-consultation-service/1585801000168108"
+    },
+    {
+      "text": "Paediatric allied health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/paediatric-allied-health/1579091000168102"
+    },
+    {
+      "text": "Paediatric emergency medical service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/paediatric-emergency-medical-service/3751000175100"
+    },
+    {
+      "text": "Pain management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pain-management/310071006"
+    },
+    {
+      "text": "Pain medicine service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pain-medicine-service/1277171000168101"
+    },
+    {
+      "text": "Palliative medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/palliative-medicine/1277161000168107"
+    },
+    {
+      "text": "Parenting and family support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/parenting-and-family-support/1238881000168108"
+    },
+    {
+      "text": "Parenting support",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/parenting-support/1586091000168104"
+    },
+    {
+      "text": "Pathology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pathology/310074003"
+    },
+    {
+      "text": "Patient advocacy and liaison",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/patient-advocacy-and-liaison/1238871000168105"
+    },
+    {
+      "text": "Perinatal mental health",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/perinatal-mental-health/1239071000168109"
+    },
+    {
+      "text": "Perinatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/perinatology/2451000175103"
+    },
+    {
+      "text": "Periodontics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/periodontics/1255186006"
+    },
+    {
+      "text": "Perioperative service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/perioperative-service/933774631000036107"
+    },
+    {
+      "text": "Pharmacotherapy for drug and alcohol dependence",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pharmacotherapy-for-drug-and-alcohol-dependence/1244891000168102"
+    },
+    {
+      "text": "Pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pharmacy/310080006"
+    },
+    {
+      "text": "Physical activity program",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/physical-activity-program/1256101000168106"
+    },
+    {
+      "text": "Physical and rehabilitation medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/physical-and-rehabilitation-medicine/722424008"
+    },
+    {
+      "text": "Physiotherapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/physiotherapy/722140001"
+    },
+    {
+      "text": "Plastic surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/plastic-surgery/310164003"
+    },
+    {
+      "text": "Podiatry",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/podiatry/310087009"
+    },
+    {
+      "text": "Post acute care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/post-acute-care-service/1586121000168100"
+    },
+    {
+      "text": "Pregnancy social supoort service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-social-supoort-service/301981000210101"
+    },
+    {
+      "text": "Pregnancy termination",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-termination/310062002"
+    },
+    {
+      "text": "Pregnancy ultrasound",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-ultrasound/708173005"
+    },
+    {
+      "text": "Pregnancy, birth and baby giref and loss service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-birth-and-baby-giref-and-loss-service/933754111000036106"
+    },
+    {
+      "text": "Preventive service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/preventive-service/278032008"
+    },
+    {
+      "text": "Primary healthcare service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/primary-healthcare-service/1586771000168103"
+    },
+    {
+      "text": "Private same-day hospital",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/private-same-day-hospital/1223171000168105"
+    },
+    {
+      "text": "Problem gambling counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/problem-gambling-counselling/1244591000168100"
+    },
+    {
+      "text": "Prosthetic and orthotic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/prosthetic-and-orthotic-service/816075004"
+    },
+    {
+      "text": "Prosthodontics",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/prosthodontics/734863003"
+    },
+    {
+      "text": "Psychiatry",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/psychiatry/310116007"
+    },
+    {
+      "text": "Psychogeriatric service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/psychogeriatric-service/310121005"
+    },
+    {
+      "text": "Psychology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/psychology/310123008"
+    },
+    {
+      "text": "Public health and preventive medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/public-health-and-preventive-medicine/26081000087101"
+    },
+    {
+      "text": "Pulmonary medicine service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-medicine-service/722174002"
+    },
+    {
+      "text": "Pulmonary rehabilitation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-rehabilitation-service/2461000175101"
+    },
+    {
+      "text": "Pulmonary tuberculosis management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-tuberculosis-management-service/1582761000168108"
+    },
+    {
+      "text": "Quit smoking",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/quit-smoking/1244901000168103"
+    },
+    {
+      "text": "Radiation oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/radiation-oncology-service/788123009"
+    },
+    {
+      "text": "Radiology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/radiology-service/310125001"
+    },
+    {
+      "text": "Refugee health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/refugee-health-service/1248591000168109"
+    },
+    {
+      "text": "Rehabilitation psychiatry service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/rehabilitation-psychiatry-service/310122003"
+    },
+    {
+      "text": "Rehabilitation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/rehabilitation-service/310129007"
+    },
+    {
+      "text": "Relationship counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/relationship-counselling/1255961000168104"
+    },
+    {
+      "text": "Renal dialysis",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/renal-dialysis/1244951000168104"
+    },
+    {
+      "text": "Reproductive endocrinology and infertility",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/reproductive-endocrinology-and-infertility/1248741000168105"
+    },
+    {
+      "text": "Residential care (Children)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/residential-care-children/1256021000168103"
+    },
+    {
+      "text": "Respiratory diagnostic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-diagnostic-service/1587241000168100"
+    },
+    {
+      "text": "Respiratory endoscopy service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-endoscopy-service/1587141000168108"
+    },
+    {
+      "text": "Respiratory medicine and sleep disorder management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-medicine-and-sleep-disorder-management-service/1581751000168100"
+    },
+    {
+      "text": "Respiratory oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-oncology-service/1587151000168105"
+    },
+    {
+      "text": "Rheumatology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/rheumatology/3621000175101"
+    },
+    {
+      "text": "Sexual assault counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sexual-assault-counselling/1244611000168105"
+    },
+    {
+      "text": "Sexual health clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sexual-health-clinic/788122004"
+    },
+    {
+      "text": "Sexually transmissible infection management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sexually-transmissible-infection-management-service/1582741000168109"
+    },
+    {
+      "text": "Skin cancer clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/skin-cancer-clinic/1223331000168109"
+    },
+    {
+      "text": "Skin check (General practice)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/skin-check-general-practice/1276651000168103"
+    },
+    {
+      "text": "Sleep diagnostic service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sleep-diagnostic-service/1581701000168104"
+    },
+    {
+      "text": "Sleep medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sleep-medicine/1136421000168109"
+    },
+    {
+      "text": "Social support service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/social-support-service/1239111000168102"
+    },
+    {
+      "text": "Social workers",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/social-workers/1238891000168106"
+    },
+    {
+      "text": "Speech pathology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/speech-pathology/310101009"
+    },
+    {
+      "text": "Spine orthopedic surgery",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/spine-orthopedic-surgery/24141000087104"
+    },
+    {
+      "text": "Spiritual counselling",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/spiritual-counselling/1255971000168105"
+    },
+    {
+      "text": "Sports medicine",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/sports-medicine/2351000175106"
+    },
+    {
+      "text": "Stimulant use disorder treatment service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/stimulant-use-disorder-treatment-service/1584791000168108"
+    },
+    {
+      "text": "Stomal therapy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/stomal-therapy/1244491000168104"
+    },
+    {
+      "text": "Stroke service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/stroke-service/310137004"
+    },
+    {
+      "text": "Substance use in pregnancy and parenting service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/substance-use-in-pregnancy-and-parenting-service/1584811000168107"
+    },
+    {
+      "text": "Support groups",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/support-groups/1239081000168107"
+    },
+    {
+      "text": "Surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/surgery-service/310138009"
+    },
+    {
+      "text": "Surgical oncology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/surgical-oncology/699478002"
+    },
+    {
+      "text": "Thyroid and other endocrine oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/thyroid-and-other-endocrine-oncology-service/1581781000168107"
+    },
+    {
+      "text": "Total parenteral nutrition service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/total-parenteral-nutrition-service/1586111000168107"
+    },
+    {
+      "text": "Transgender health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/transgender-health-service/896974005"
+    },
+    {
+      "text": "Transition Care Program",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/transition-care-program/1244531000168104"
+    },
+    {
+      "text": "Translator service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/translator-service/1575191000168103"
+    },
+    {
+      "text": "Transplant surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/transplant-surgery-service/310165002"
+    },
+    {
+      "text": "Trauma counselling service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/trauma-counselling-service/1244601000168107"
+    },
+    {
+      "text": "Trauma surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/trauma-surgery-service/310166001"
+    },
+    {
+      "text": "Tuberculosis management service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/tuberculosis-management-service/1581951000168102"
+    },
+    {
+      "text": "Ultrasound scan",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/ultrasound-scan/310169008"
+    },
+    {
+      "text": "Upper gatrointestinal oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/upper-gatrointestinal-oncology-service/1580951000168108"
+    },
+    {
+      "text": "Urgent care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/urgent-care-service/1646051000168105"
+    },
+    {
+      "text": "Uro-oncology service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/uro-oncology-service/1580911000168107"
+    },
+    {
+      "text": "Urogynaecology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/urogynaecology/1248771000168103"
+    },
+    {
+      "text": "Urology",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/urology/310167005"
+    },
+    {
+      "text": "Vascular diagnostic services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-diagnostic-services/1581741000168102"
+    },
+    {
+      "text": "Vascular medicine service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-medicine-service/722352000"
+    },
+    {
+      "text": "Vascular surgery service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-surgery-service/310168000"
+    },
+    {
+      "text": "Victims of crime counselling service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/victims-of-crime-counselling-service/1255981000168108"
+    },
+    {
+      "text": "Viral hepatitis mangement service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/viral-hepatitis-mangement-service/1582321000168102"
+    },
+    {
+      "text": "Virtual emergency service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/virtual-emergency-service/1753591000168109"
+    },
+    {
+      "text": "Walk-in centre",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/walk-in-centre/1244541000168108"
+    },
+    {
+      "text": "Women's health clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/women-s-health-clinic/1248691000168108"
+    },
+    {
+      "text": "Wound management",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/wound-management/1248701000168108"
+    },
+    {
+      "text": "Youth health service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/youth-health-service/1248711000168106"
+    },
+    {
+      "text": "invasive ventolation service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services/invasive-ventolation-service/1575201000168100"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.healthdirect.gov.au/privacy-notice"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "Provide feedback",
+      "url": "https://www.healthdirect.gov.au/how-to-provide-feedback"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    }
+  ],
+  "text": "All health services | healthdirect\n\nJoin Sign in\n\nMenu\n\nFree Australian health advice you can count on.\n\nEnglish\n\nAssyrian Neo-Aramaic (الآرامية الآشورية الجديدة) Arabic (العربية) Bengali (বাংলা) Chinese Simplified (中文) Chinese Traditional (中文（台灣）) Greek (Ελληνικά) Hindi (हिन्दी) Italian (Italiano) Khmer (ភាសាខ្មែរ) Korean (한국어) Punjabi (ਪੰਜਾਬੀ) Serbian (Српски) Spanish (Español) Turkish (Türkçe) Vietnamese (Tiếng Việt)\n\n# All health services\n\nDiscover medical professionals and other healthcare services\n\n- A\n\n- B\n\n- C\n\n- D\n\n- E\n\n- F\n\n- G\n\n- H\n\n- I\n\n- L\n\n- M\n\n- N\n\n- O\n\n- P\n\n- Q\n\n- R\n\n- S\n\n- T\n\n- U\n\n- V\n\n- W\n\n- Y\n\n## A\n\n- Aboriginal and Torres Strait Islander maternal and infant health service\n\n- Accommodation support\n\n- Acquired brain injury information and referral support\n\n- Acupuncture\n\n- Acute mental health inpatient service\n\n- Acute mental health service\n\n- Acute pain service\n\n- Addiction service\n\n- Adult mental health service\n\n- After hours GP clinic\n\n- Aged care residential service\n\n- Aged care service\n\n- Alcohol and drug information\n\n- Alcohol and other drug withdrawal management service\n\n- Alcohol and other drugs addiction medicine child and adolescent service\n\n- Alcohol and other drugs court diversion service\n\n- Alcohol and other drugs psychosocial service\n\n- Alternative therapies\n\n- Anaesthetics\n\n- Anatomic pathology service\n\n- Angioplasty and angiography service\n\n- Assertive community management service\n\n- Assessment service\n\n## B\n\n- Bone and connective tissue oncology service\n\n- Bone densitometry service\n\n- Breast cancer surgery\n\n- Breast health\n\n- Breast screening\n\n- Breast surgery service\n\n- Burns service\n\n## C\n\n- Cancer genetics service\n\n- Cancer services\n\n- Cancer support group\n\n- Cannabis use disorder treatment service\n\n- Cardiac rehabilitation\n\n- Cardiology\n\n- Cardiology diagnostic service\n\n- Cardiothoracic surgery\n\n- Cataract extraction procedure service\n\n- Chemical Pathology\n\n- Chemotherapy\n\n- Child and adolescent mental health\n\n- Child development service\n\n- Child protection\n\n- Children and youth services\n\n- Children's cardiology\n\n- Children's clinical genetics\n\n- Children's clinical pharmacology\n\n- Children's dentistry\n\n- Children's dermatology\n\n- Children's endocrinology\n\n- Children's ENT (ear, nose and throat)\n\n- Children's gastroenterology and hepatology\n\n- Children's haematology\n\n- Children's immunology and allergy\n\n- Children's infectious disease clinic\n\n- Children's intensive care\n\n- Children's medical service\n\n- Children's nephrology\n\n- Children's neurology\n\n- Children's nuclear medicine\n\n- Children's oncology\n\n- Children's rehabilitation\n\n- Children's respiratory therapy\n\n- Children's rheumatology\n\n- Children's sleep medicine\n\n- Children's surgery\n\n- Chinese herbal medicine\n\n- Chiropractor\n\n- Chronic disease management\n\n- Clinical genetics\n\n- Clinical immunology and allergy\n\n- Clinical oncology\n\n- Clinical pathology\n\n- Clinical pharmacology\n\n- Clinical psychology\n\n- Coagulation service\n\n- Cognition and memory service\n\n- Colorectal surgery service\n\n- Community cancer service\n\n- Community health service\n\n- Community nursing and allied health service\n\n- Complex menopause service\n\n- Computerised tomography service\n\n- Continence service\n\n- COPD management service\n\n- Counselling\n\n- COVID-19 management service\n\n- COVID-19 vaccine clinic\n\n- Craniofacial surgery service\n\n- Crisis and emergency accommodation\n\n- Crisis counselling\n\n- Cystic Fibrosis management service\n\n- Dermatological surgery\n\n## D\n\n- Dementia management\n\n- Dental hygiene service\n\n- Dental services\n\n- Dentists\n\n- Dermatology\n\n- Developmental disability support\n\n- Diabetes education\n\n- Diabetes mellitus service\n\n- Diagnostic imaging\n\n- Diagnostic investigation\n\n- Dietetics\n\n- Diversional therapy\n\n- Domestic and family violence support\n\n- Domestic violence counselling\n\n- Drug and alcohol counselling\n\n- Drug and alcohol dependence treatment (Non-residential)\n\n- Drug and alcohol dependence treatment (Residential)\n\n- Drug and alcohol support group\n\n## E\n\n- Early childhood intervention\n\n- Early parenting support\n\n- Eating disorder service\n\n- Emergency care centre service\n\n- Emergency department service\n\n- Employee health service\n\n- Endocrine diagnostic service\n\n- Endocrinology service\n\n- Endodontics\n\n- Endoscopy service\n\n- ENT (Ear nose and throat) medicine\n\n- Enteral nutrition service\n\n- Epilepsy management service\n\n- Exercise physiology\n\n## F\n\n- Falls prevention\n\n- Family counselling service\n\n- Family planning\n\n- Financial counselling\n\n## G\n\n- Gastroenterology\n\n- Gastroenterology and hepatology\n\n- General counselling\n\n- General surgery\n\n- Genetic counselling\n\n- Genetic pathology\n\n- Geriatric medicine\n\n- GP (General practice)\n\n- Grief counselling\n\n- Gynaecological oncology\n\n- Gynaecology\n\n## H\n\n- Haematology\n\n- Haematology oncology service\n\n- Hand surgery\n\n- Head and neck cancer service\n\n- Head injury rehabilitation service\n\n- Health counselling\n\n- Health information and referral\n\n- Health promotion\n\n- Hearing aids\n\n- Hearing clinic\n\n- Hepatology\n\n- High risk foot service\n\n- HIV and AIDS management service\n\n- Home care support\n\n- Homelessness support\n\n- Hospital general medicine\n\n- Hospital in the home\n\n- Hospital pharmacy\n\n- Hospitals\n\n- Hydrotherapy\n\n- Hyperbaric medicine service\n\n## I\n\n- Immunisation\n\n- Immunology\n\n- Indigenous health\n\n- Infectious diseases service\n\n- Influenza (Flu) Vaccine\n\n- Integrated care service\n\n- Integrated family service\n\n- Integrated violence abuse and neglect service\n\n- Intensive care\n\n## L\n\n- Legal medicine service\n\n- Liaison psychiatry service\n\n- Lower gastrointestinal oncology service\n\n- Lymphedema\n\n## M\n\n- Massage therapy\n\n- Maternal, child and family health\n\n- Maxillofacial surgery\n\n- Medical micorbiology service\n\n- Medication management\n\n- Men's health clinic\n\n- Mental health advocacy\n\n- Mental health case management\n\n- Mental health crisis assessment and treatment\n\n- Mental health early intervention service\n\n- Mental health extended care service\n\n- Mental health information and referral\n\n- Mental health non-residential rehabilitation\n\n- Mental health promotion and prevention service\n\n- Mental health research service\n\n- Mental health residential rehabilitation service\n\n- Mental health services\n\n- Midwifery service\n\n- Minor medical procedure service\n\n- Minor surgical service\n\n- MRI\n\n- Multicultural health service\n\n- Music therapy\n\n- Myotherapy\n\n## N\n\n- Needle and Syringe Program\n\n- Neonatology service\n\n- Nephrology\n\n- Neuro-oncology service\n\n- Neurology\n\n- Neurology diagnostic service\n\n- Neuropsychology\n\n- Neurosurgery\n\n- Non-acute mental health service\n\n- Nuclear medicine\n\n- Nurse led clinic\n\n- Nurse practitioner led clinic\n\n- Nursing service\n\n- Nutrition\n\n## O\n\n- Obstetric care\n\n- Obstetrics\n\n- Obstetrics and gynaecology\n\n- Occupational health service\n\n- Occupational medicine\n\n- Occupational therapy\n\n- Ocular oncology service\n\n- One on one mentoring support\n\n- Ophthalmology\n\n- Opthalmology\n\n- Optometry\n\n- Oral and maxillofacial surgery service\n\n- Oral medicine\n\n- Oral surgery\n\n- Orthodontics\n\n- Orthopaedic endoscopy service\n\n- Orthopaedic service\n\n- Orthoptics\n\n- Osteopathic refracture prevention service\n\n- Osteopathy\n\n- Outreach service\n\n## P\n\n- Pacemaker consultation service\n\n- Paediatric allied health\n\n- Paediatric emergency medical service\n\n- Pain management\n\n- Pain medicine service\n\n- Palliative medicine\n\n- Parenting and family support\n\n- Parenting support\n\n- Pathology\n\n- Patient advocacy and liaison\n\n- Perinatal mental health\n\n- Perinatology\n\n- Periodontics\n\n- Perioperative service\n\n- Pharmacotherapy for drug and alcohol dependence\n\n- Pharmacy\n\n- Physical activity program\n\n- Physical and rehabilitation medicine\n\n- Physiotherapy\n\n- Plastic surgery\n\n- Podiatry\n\n- Post acute care service\n\n- Pregnancy social supoort service\n\n- Pregnancy termination\n\n- Pregnancy ultrasound\n\n- Pregnancy, birth and baby giref and loss service\n\n- Preventive service\n\n- Primary healthcare service\n\n- Private same-day hospital\n\n- Problem gambling counselling\n\n- Prosthetic and orthotic service\n\n- Prosthodontics\n\n- Psychiatry\n\n- Psychogeriatric service\n\n- Psychology\n\n- Public health and preventive medicine\n\n- Pulmonary medicine service\n\n- Pulmonary rehabilitation service\n\n- Pulmonary tuberculosis management service\n\n## Q\n\n- Quit smoking\n\n## R\n\n- Radiation oncology service\n\n- Radiology service\n\n- Refugee health service\n\n- Rehabilitation psychiatry service\n\n- Rehabilitation service\n\n- Relationship counselling\n\n- Renal dialysis\n\n- Reproductive endocrinology and infertility\n\n- Residential care (Children)\n\n- Respiratory diagnostic service\n\n- Respiratory endoscopy service\n\n- Respiratory medicine and sleep disorder management service\n\n- Respiratory oncology service\n\n- Rheumatology\n\n## S\n\n- Sexual assault counselling\n\n- Sexual health clinic\n\n- Sexually transmissible infection management service\n\n- Skin cancer clinic\n\n- Skin check (General practice)\n\n- Sleep diagnostic service\n\n- Sleep medicine\n\n- Social support service\n\n- Social workers\n\n- Speech pathology\n\n- Spine orthopedic surgery\n\n- Spiritual counselling\n\n- Sports medicine\n\n- Stimulant use disorder treatment service\n\n- Stomal therapy\n\n- Stroke service\n\n- Substance use in pregnancy and parenting service\n\n- Support groups\n\n- Surgery service\n\n- Surgical oncology\n\n## T\n\n- Thyroid and other endocrine oncology service\n\n- Total parenteral nutrition service\n\n- Transgender health service\n\n- Transition Care Program\n\n- Translator service\n\n- Transplant surgery service\n\n- Trauma counselling service\n\n- Trauma surgery service\n\n- Tuberculosis management service\n\n## U\n\n- Ultrasound scan\n\n- Upper gatrointestinal oncology service\n\n- Urgent care service\n\n- Uro-oncology service\n\n- Urogynaecology\n\n- Urology\n\n## V\n\n- Vascular diagnostic services\n\n- Vascular medicine service\n\n- Vascular surgery service\n\n- Victims of crime counselling service\n\n- Viral hepatitis mangement service\n\n- Virtual emergency service\n\n## W\n\n- Walk-in centre\n\n- Women's health clinic\n\n- Wound management\n\n## Y\n\n- Youth health service\n\n- invasive ventolation service\n\n24 hour health advice you can count on\n\n1800 022 222\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- Provide feedback\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Medicines\n\n- Service finder\n\n- Symptom checker\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au: https://www.healthdirect.gov.au\n\n- A: https://www.healthdirect.gov.au/australian-health-services/all-services#A\n\n- B: https://www.healthdirect.gov.au/australian-health-services/all-services#B\n\n- C: https://www.healthdirect.gov.au/australian-health-services/all-services#C\n\n- D: https://www.healthdirect.gov.au/australian-health-services/all-services#D\n\n- E: https://www.healthdirect.gov.au/australian-health-services/all-services#E\n\n- F: https://www.healthdirect.gov.au/australian-health-services/all-services#F\n\n- G: https://www.healthdirect.gov.au/australian-health-services/all-services#G\n\n- H: https://www.healthdirect.gov.au/australian-health-services/all-services#H\n\n- I: https://www.healthdirect.gov.au/australian-health-services/all-services#I\n\n- L: https://www.healthdirect.gov.au/australian-health-services/all-services#L\n\n- M: https://www.healthdirect.gov.au/australian-health-services/all-services#M\n\n- N: https://www.healthdirect.gov.au/australian-health-services/all-services#N\n\n- O: https://www.healthdirect.gov.au/australian-health-services/all-services#O\n\n- P: https://www.healthdirect.gov.au/australian-health-services/all-services#P\n\n- Q: https://www.healthdirect.gov.au/australian-health-services/all-services#Q\n\n- R: https://www.healthdirect.gov.au/australian-health-services/all-services#R\n\n- S: https://www.healthdirect.gov.au/australian-health-services/all-services#S\n\n- T: https://www.healthdirect.gov.au/australian-health-services/all-services#T\n\n- U: https://www.healthdirect.gov.au/australian-health-services/all-services#U\n\n- V: https://www.healthdirect.gov.au/australian-health-services/all-services#V\n\n- W: https://www.healthdirect.gov.au/australian-health-services/all-services#W\n\n- Y: https://www.healthdirect.gov.au/australian-health-services/all-services#Y\n\n- i: https://www.healthdirect.gov.au/australian-health-services/all-services#i\n\n- Aboriginal and Torres Strait Islander maternal and infant health service: https://www.healthdirect.gov.au/australian-health-services/all-services/aboriginal-and-torres-strait-islander-maternal-and-infant-health-service/1578861000168108\n\n- Accommodation support: https://www.healthdirect.gov.au/australian-health-services/all-services/accommodation-support/1256131000168104\n\n- Acquired brain injury information and referral support: https://www.healthdirect.gov.au/australian-health-services/all-services/acquired-brain-injury-information-and-referral-support/1241751000168104\n\n- Acupuncture: https://www.healthdirect.gov.au/australian-health-services/all-services/acupuncture/1120851000168104\n\n- Acute mental health inpatient service: https://www.healthdirect.gov.au/australian-health-services/all-services/acute-mental-health-inpatient-service/1239041000168102\n\n- Acute mental health service: https://www.healthdirect.gov.au/australian-health-services/all-services/acute-mental-health-service/1580931000168102\n\n- Acute pain service: https://www.healthdirect.gov.au/australian-health-services/all-services/acute-pain-service/310072004\n\n- Addiction service: https://www.healthdirect.gov.au/australian-health-services/all-services/addiction-service/788125002\n\n- Adult mental health service: https://www.healthdirect.gov.au/australian-health-services/all-services/adult-mental-health-service/788002001\n\n- After hours GP clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/after-hours-gp-clinic/1223071000168109\n\n- Aged care residential service: https://www.healthdirect.gov.au/australian-health-services/all-services/aged-care-residential-service/1120991000168102\n\n- Aged care service: https://www.healthdirect.gov.au/australian-health-services/all-services/aged-care-service/1223361000168101\n\n- Alcohol and drug information: https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-drug-information/1248881000168109\n\n- Alcohol and other drug withdrawal management service: https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drug-withdrawal-management-service/1582421000168107\n\n- Alcohol and other drugs addiction medicine child and adolescent service: https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-addiction-medicine-child-and-adolescent-service/1580811000168101\n\n- Alcohol and other drugs court diversion service: https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-court-diversion-service/1580821000168108\n\n- Alcohol and other drugs psychosocial service: https://www.healthdirect.gov.au/australian-health-services/all-services/alcohol-and-other-drugs-psychosocial-service/1580791000168100\n\n- Alternative therapies: https://www.healthdirect.gov.au/australian-health-services/all-services/alternative-therapies/10025004\n\n- Anaesthetics: https://www.healthdirect.gov.au/australian-health-services/all-services/anaesthetics/310001007\n\n- Anatomic pathology service: https://www.healthdirect.gov.au/australian-health-services/all-services/anatomic-pathology-service/708183009\n\n- Angioplasty and angiography service: https://www.healthdirect.gov.au/australian-health-services/all-services/angioplasty-and-angiography-service/1579181000168104\n\n- Assertive community management service: https://www.healthdirect.gov.au/australian-health-services/all-services/assertive-community-management-service/1582751000168106\n\n- Assessment service: https://www.healthdirect.gov.au/australian-health-services/all-services/assessment-service/310002000\n\n- Bone and connective tissue oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/bone-and-connective-tissue-oncology-service/1591321000168108\n\n- Bone densitometry service: https://www.healthdirect.gov.au/australian-health-services/all-services/bone-densitometry-service/1579081000168100\n\n- Breast cancer surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/breast-cancer-surgery/24051000087102\n\n- Breast health: https://www.healthdirect.gov.au/australian-health-services/all-services/breast-health/1579121000168103\n\n- Breast screening: https://www.healthdirect.gov.au/australian-health-services/all-services/breast-screening/310126000\n\n- Breast surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/breast-surgery-service/310139001\n\n- Burns service: https://www.healthdirect.gov.au/australian-health-services/all-services/burns-service/1255914002\n\n- Cancer genetics service: https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-genetics-service/1580921000168100\n\n- Cancer services: https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-services/1223321000168106\n\n- Cancer support group: https://www.healthdirect.gov.au/australian-health-services/all-services/cancer-support-group/1293001000168107\n\n- Cannabis use disorder treatment service: https://www.healthdirect.gov.au/australian-health-services/all-services/cannabis-use-disorder-treatment-service/1579171000168102\n\n- Cardiac rehabilitation: https://www.healthdirect.gov.au/australian-health-services/all-services/cardiac-rehabilitation/733459009\n\n- Cardiology: https://www.healthdirect.gov.au/australian-health-services/all-services/cardiology/789718008\n\n- Cardiology diagnostic service: https://www.healthdirect.gov.au/australian-health-services/all-services/cardiology-diagnostic-service/1579131000168100\n\n- Cardiothoracic surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/cardiothoracic-surgery/310140004\n\n- Cataract extraction procedure service: https://www.healthdirect.gov.au/australian-health-services/all-services/cataract-extraction-procedure-service/1586721000168104\n\n- Chemical Pathology: https://www.healthdirect.gov.au/australian-health-services/all-services/chemical-pathology/310076001\n\n- Chemotherapy: https://www.healthdirect.gov.au/australian-health-services/all-services/chemotherapy/1244931000168105\n\n- Child and adolescent mental health: https://www.healthdirect.gov.au/australian-health-services/all-services/child-and-adolescent-mental-health/1239001000168104\n\n- Child development service: https://www.healthdirect.gov.au/australian-health-services/all-services/child-development-service/1225031000168107\n\n- Child protection: https://www.healthdirect.gov.au/australian-health-services/all-services/child-protection/1225041000168103\n\n- Children and youth services: https://www.healthdirect.gov.au/australian-health-services/all-services/children-and-youth-services/310066004\n\n- Children's cardiology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-cardiology/789717003\n\n- Children's clinical genetics: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-clinical-genetics/792849008\n\n- Children's clinical pharmacology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-clinical-pharmacology/1223201000168109\n\n- Children's dentistry: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-dentistry/310147001\n\n- Children's dermatology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-dermatology/1223211000168107\n\n- Children's endocrinology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-endocrinology/3761000175103\n\n- Children's ENT (ear, nose and throat): https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-ent-ear-nose-and-throat/789716007\n\n- Children's gastroenterology and hepatology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-gastroenterology-and-hepatology/1248801000168101\n\n- Children's haematology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-haematology/897188002\n\n- Children's immunology and allergy: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-immunology-and-allergy/1223231000168102\n\n- Children's infectious disease clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-infectious-disease-clinic/3781000175109\n\n- Children's intensive care: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-intensive-care/310034009\n\n- Children's medical service: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-medical-service/1223241000168106\n\n- Children's nephrology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-nephrology/3791000175107\n\n- Children's neurology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-neurology/310068003\n\n- Children's nuclear medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-nuclear-medicine/1223251000168108\n\n- Children's oncology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-oncology/310069006\n\n- Children's rehabilitation: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-rehabilitation/1223271000168104\n\n- Children's respiratory therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-respiratory-therapy/789715006\n\n- Children's rheumatology: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-rheumatology/789714005\n\n- Children's sleep medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-sleep-medicine/1223301000168102\n\n- Children's surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/children-s-surgery/310163009\n\n- Chinese herbal medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/chinese-herbal-medicine/1226611000168100\n\n- Chiropractor: https://www.healthdirect.gov.au/australian-health-services/all-services/chiropractor/722170006\n\n- Chronic disease management: https://www.healthdirect.gov.au/australian-health-services/all-services/chronic-disease-management/1226621000168107\n\n- Clinical genetics: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-genetics/788004000\n\n- Clinical immunology and allergy: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-immunology-and-allergy/788121006\n\n- Clinical oncology: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-oncology/310022001\n\n- Clinical pathology: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-pathology/708184003\n\n- Clinical pharmacology: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-pharmacology/700436003\n\n- Clinical psychology: https://www.healthdirect.gov.au/australian-health-services/all-services/clinical-psychology/1256181000168103\n\n- Coagulation service: https://www.healthdirect.gov.au/australian-health-services/all-services/coagulation-service/708193002\n\n- Cognition and memory service: https://www.healthdirect.gov.au/australian-health-services/all-services/cognition-and-memory-service/1599211000168108\n\n- Colorectal surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/colorectal-surgery-service/310155008\n\n- Community cancer service: https://www.healthdirect.gov.au/australian-health-services/all-services/community-cancer-service/1223341000168100\n\n- Community health service: https://www.healthdirect.gov.au/australian-health-services/all-services/community-health-service/1585211000168107\n\n- Community nursing and allied health service: https://www.healthdirect.gov.au/australian-health-services/all-services/community-nursing-and-allied-health-service/1587231000168109\n\n- Complex menopause service: https://www.healthdirect.gov.au/australian-health-services/all-services/complex-menopause-service/1659981000168107\n\n- Computerised tomography service: https://www.healthdirect.gov.au/australian-health-services/all-services/computerised-tomography-service/310128004\n\n- Continence service: https://www.healthdirect.gov.au/australian-health-services/all-services/continence-service/1244941000168101\n\n- COPD management service: https://www.healthdirect.gov.au/australian-health-services/all-services/copd-management-service/1586301000168107\n\n- Counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/counselling/310026003\n\n- COVID-19 management service: https://www.healthdirect.gov.au/australian-health-services/all-services/covid-19-management-service/1575081000168102\n\n- COVID-19 vaccine clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/covid-19-vaccine-clinic/1575161000168105\n\n- Craniofacial surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/craniofacial-surgery-service/1586471000168109\n\n- Crisis and emergency accommodation: https://www.healthdirect.gov.au/australian-health-services/all-services/crisis-and-emergency-accommodation/1248851000168102\n\n- Crisis counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/crisis-counselling/1244561000168107\n\n- Cystic Fibrosis management service: https://www.healthdirect.gov.au/australian-health-services/all-services/cystic-fibrosis-management-service/1584971000168109\n\n- Dermatological surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/cosmetic-surgery/1225071000168105\n\n- Dementia management: https://www.healthdirect.gov.au/australian-health-services/all-services/dementia-management/1599221000168101\n\n- Dental hygiene service: https://www.healthdirect.gov.au/australian-health-services/all-services/dental-hygiene-service/1223551000168105\n\n- Dental services: https://www.healthdirect.gov.au/australian-health-services/all-services/dental-services/722176000\n\n- Dentists: https://www.healthdirect.gov.au/australian-health-services/all-services/dentists/310144008\n\n- Dermatology: https://www.healthdirect.gov.au/australian-health-services/all-services/dermatology/700241009\n\n- Developmental disability support: https://www.healthdirect.gov.au/australian-health-services/all-services/developmental-disability-support/1584731000168109\n\n- Diabetes education: https://www.healthdirect.gov.au/australian-health-services/all-services/diabetes-education/734920002\n\n- Diabetes mellitus service: https://www.healthdirect.gov.au/australian-health-services/all-services/diabetes-mellitus-service/444913002\n\n- Diagnostic imaging: https://www.healthdirect.gov.au/australian-health-services/all-services/diagnostic-imaging/708175003\n\n- Diagnostic investigation: https://www.healthdirect.gov.au/australian-health-services/all-services/diagnostic-investigation/310028002\n\n- Dietetics: https://www.healthdirect.gov.au/australian-health-services/all-services/dietetics/310090003\n\n- Diversional therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/diversional-therapy/1586741000168105\n\n- Domestic and family violence support: https://www.healthdirect.gov.au/australian-health-services/all-services/domestic-and-family-violence-support/1225051000168101\n\n- Domestic violence counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/domestic-violence-counselling/1244571000168101\n\n- Drug and alcohol counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-counselling/1244861000168109\n\n- Drug and alcohol dependence treatment (Non-residential): https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-dependence-treatment-non-residential/1244881000168100\n\n- Drug and alcohol dependence treatment (Residential): https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-dependence-treatment-residential/1244911000168100\n\n- Drug and alcohol support group: https://www.healthdirect.gov.au/australian-health-services/all-services/drug-and-alcohol-support-group/1239091000168105\n\n- Early childhood intervention: https://www.healthdirect.gov.au/australian-health-services/all-services/early-childhood-intervention/1225061000168104\n\n- Early parenting support: https://www.healthdirect.gov.au/australian-health-services/all-services/early-parenting-support/1308141000168105\n\n- Eating disorder service: https://www.healthdirect.gov.au/australian-health-services/all-services/eating-disorder-service/1586751000168107\n\n- Emergency care centre service: https://www.healthdirect.gov.au/australian-health-services/all-services/emergency-care-centre-service/933600281000036103\n\n- Emergency department service: https://www.healthdirect.gov.au/australian-health-services/all-services/emergency-department-service/310000008\n\n- Employee health service: https://www.healthdirect.gov.au/australian-health-services/all-services/employee-health-service/2471000175109\n\n- Endocrine diagnostic service: https://www.healthdirect.gov.au/australian-health-services/all-services/endocrine-diagnostic-service/1581451000168107\n\n- Endocrinology service: https://www.healthdirect.gov.au/australian-health-services/all-services/endocrinology-service/700434000\n\n- Endodontics: https://www.healthdirect.gov.au/australian-health-services/all-services/endodontics/734862008\n\n- Endoscopy service: https://www.healthdirect.gov.au/australian-health-services/all-services/endoscopy-service/310030000\n\n- ENT (Ear nose and throat) medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/ent-ear-nose-and-throat-medicine/310149003\n\n- Enteral nutrition service: https://www.healthdirect.gov.au/australian-health-services/all-services/enteral-nutrition-service/1585121000168109\n\n- Epilepsy management service: https://www.healthdirect.gov.au/australian-health-services/all-services/epilepsy-management-service/1584741000168100\n\n- Exercise physiology: https://www.healthdirect.gov.au/australian-health-services/all-services/exercise-physiology/1240761000168106\n\n- Falls prevention: https://www.healthdirect.gov.au/australian-health-services/all-services/falls-prevention/1244961000168102\n\n- Family counselling service: https://www.healthdirect.gov.au/australian-health-services/all-services/family-counselling-service/1255941000168103\n\n- Family planning: https://www.healthdirect.gov.au/australian-health-services/all-services/family-planning/310031001\n\n- Financial counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/financial-counselling/1244581000168103\n\n- Gastroenterology: https://www.healthdirect.gov.au/australian-health-services/all-services/gastroenterology/700433006\n\n- Gastroenterology and hepatology: https://www.healthdirect.gov.au/australian-health-services/all-services/gastroenterology-and-hepatology/1238961000168106\n\n- General counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/general-counselling/1277211000168104\n\n- General surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/general-surgery/310156009\n\n- Genetic counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/genetic-counselling/1256081000168104\n\n- Genetic pathology: https://www.healthdirect.gov.au/australian-health-services/all-services/genetic-pathology/1248841000168104\n\n- Geriatric medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/geriatric-medicine/3531000175102\n\n- GP (General practice): https://www.healthdirect.gov.au/australian-health-services/all-services/gp-general-practice/788007007\n\n- Grief counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/grief-counselling/1244551000168105\n\n- Gynaecological oncology: https://www.healthdirect.gov.au/australian-health-services/all-services/gynaecological-oncology/1238971000168100\n\n- Gynaecology: https://www.healthdirect.gov.au/australian-health-services/all-services/gynaecology/310061009\n\n- Haematology: https://www.healthdirect.gov.au/australian-health-services/all-services/haematology/708196005\n\n- Haematology oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/haematology-oncology-service/1582251000168100\n\n- Hand surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/hand-surgery/310157000\n\n- Head and neck cancer service: https://www.healthdirect.gov.au/australian-health-services/all-services/head-and-neck-cancer-service/1580961000168100\n\n- Head injury rehabilitation service: https://www.healthdirect.gov.au/australian-health-services/all-services/head-injury-rehabilitation-service/310130002\n\n- Health counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/health-counselling/1277221000168106\n\n- Health information and referral: https://www.healthdirect.gov.au/australian-health-services/all-services/health-information-and-referral/1276981000168103\n\n- Health promotion: https://www.healthdirect.gov.au/australian-health-services/all-services/health-promotion/1293061000168108\n\n- Hearing aids: https://www.healthdirect.gov.au/australian-health-services/all-services/hearing-aids/310015009\n\n- Hearing clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/hearing-clinic/310004004\n\n- Hepatology: https://www.healthdirect.gov.au/australian-health-services/all-services/hepatology/23901000087101\n\n- High risk foot service: https://www.healthdirect.gov.au/australian-health-services/all-services/high-risk-foot-service/1586761000168109\n\n- HIV and AIDS management service: https://www.healthdirect.gov.au/australian-health-services/all-services/hiv-and-aids-management-service/1587261000168101\n\n- Home care support: https://www.healthdirect.gov.au/australian-health-services/all-services/home-care-support/1248871000168106\n\n- Homelessness support: https://www.healthdirect.gov.au/australian-health-services/all-services/homelessness-support/1248861000168100\n\n- Hospital general medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-general-medicine/1649211000168105\n\n- Hospital in the home: https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-in-the-home/1648341000168106\n\n- Hospital pharmacy: https://www.healthdirect.gov.au/australian-health-services/all-services/hospital-pharmacy/1244921000168107\n\n- Hospitals: https://www.healthdirect.gov.au/australian-health-services/all-services/hospitals/1223151000168101\n\n- Hydrotherapy: https://www.healthdirect.gov.au/australian-health-services/all-services/hydrotherapy/1223571000168101\n\n- Hyperbaric medicine service: https://www.healthdirect.gov.au/australian-health-services/all-services/hyperbaric-medicine-service/1163004008\n\n- Immunisation: https://www.healthdirect.gov.au/australian-health-services/all-services/immunisation/1238911000168108\n\n- Immunology: https://www.healthdirect.gov.au/australian-health-services/all-services/immunology/708190004\n\n- Indigenous health: https://www.healthdirect.gov.au/australian-health-services/all-services/indigenous-health/1292991000168106\n\n- Infectious diseases service: https://www.healthdirect.gov.au/australian-health-services/all-services/infectious-diseases-service/788001008\n\n- Influenza (Flu) Vaccine: https://www.healthdirect.gov.au/australian-health-services/all-services/influenza-flu-vaccine/1633181000168107\n\n- Integrated care service: https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-care-service/1575171000168104\n\n- Integrated family service: https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-family-service/1256031000168100\n\n- Integrated violence abuse and neglect service: https://www.healthdirect.gov.au/australian-health-services/all-services/integrated-violence-abuse-and-neglect-service/1575091000168104\n\n- Intensive care: https://www.healthdirect.gov.au/australian-health-services/all-services/intensive-care/310032008\n\n- Legal medicine service: https://www.healthdirect.gov.au/australian-health-services/all-services/legal-medicine-service/722393008\n\n- Liaison psychiatry service: https://www.healthdirect.gov.au/australian-health-services/all-services/liaison-psychiatry-service/310119000\n\n- Lower gastrointestinal oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/lower-gastrointestinal-oncology-service/1578731000168107\n\n- Lymphedema: https://www.healthdirect.gov.au/australian-health-services/all-services/lymphedema/1578521000168101\n\n- Massage therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/massage-therapy/1135791000168108\n\n- Maternal, child and family health: https://www.healthdirect.gov.au/australian-health-services/all-services/maternal-child-and-family-health/1238921000168101\n\n- Maxillofacial surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/maxillofacial-surgery/710028007\n\n- Medical micorbiology service: https://www.healthdirect.gov.au/australian-health-services/all-services/medical-micorbiology-service/310078000\n\n- Medication management: https://www.healthdirect.gov.au/australian-health-services/all-services/medication-management/1135811000168107\n\n- Men's health clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/men-s-health-clinic/1238981000168102\n\n- Mental health advocacy: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-advocacy/1239011000168101\n\n- Mental health case management: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-case-management/1239031000168106\n\n- Mental health crisis assessment and treatment: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-crisis-assessment-and-treatment/1239021000168108\n\n- Mental health early intervention service: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-early-intervention-service/1580161000168108\n\n- Mental health extended care service: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-extended-care-service/1580171000168102\n\n- Mental health information and referral: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-information-and-referral/1256091000168101\n\n- Mental health non-residential rehabilitation: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-non-residential-rehabilitation/1239051000168100\n\n- Mental health promotion and prevention service: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-promotion-and-prevention-service/1580181000168104\n\n- Mental health research service: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-research-service/1580761000168107\n\n- Mental health residential rehabilitation service: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-residential-rehabilitation-service/1239061000168103\n\n- Mental health services: https://www.healthdirect.gov.au/australian-health-services/all-services/mental-health-services/708168004\n\n- Midwifery service: https://www.healthdirect.gov.au/australian-health-services/all-services/midwifery-service/714088003\n\n- Minor medical procedure service: https://www.healthdirect.gov.au/australian-health-services/all-services/minor-medical-procedure-service/1579991000168103\n\n- Minor surgical service: https://www.healthdirect.gov.au/australian-health-services/all-services/minor-surgical-service/1578711000168102\n\n- MRI: https://www.healthdirect.gov.au/australian-health-services/all-services/mri/310127009\n\n- Multicultural health service: https://www.healthdirect.gov.au/australian-health-services/all-services/multicultural-health-service/1580191000168101\n\n- Music therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/music-therapy/310086000\n\n- Myotherapy: https://www.healthdirect.gov.au/australian-health-services/all-services/myotherapy/1240771000168100\n\n- Needle and Syringe Program: https://www.healthdirect.gov.au/australian-health-services/all-services/needle-and-syringe-program/1244871000168103\n\n- Neonatology service: https://www.healthdirect.gov.au/australian-health-services/all-services/neonatology-service/1277201000168102\n\n- Nephrology: https://www.healthdirect.gov.au/australian-health-services/all-services/nephrology/788003006\n\n- Neuro-oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/neuro-oncology-service/1579141000168109\n\n- Neurology: https://www.healthdirect.gov.au/australian-health-services/all-services/neurology/788005004\n\n- Neurology diagnostic service: https://www.healthdirect.gov.au/australian-health-services/all-services/neurology-diagnostic-service/1580461000168101\n\n- Neuropsychology: https://www.healthdirect.gov.au/australian-health-services/all-services/neuropsychology/1136331000168101\n\n- Neurosurgery: https://www.healthdirect.gov.au/australian-health-services/all-services/neurosurgery/310159002\n\n- Non-acute mental health service: https://www.healthdirect.gov.au/australian-health-services/all-services/non-acute-mental-health-service/1578591000168104\n\n- Nuclear medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/nuclear-medicine/788009005\n\n- Nurse led clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/nurse-led-clinic/1277181000168103\n\n- Nurse practitioner led clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/nurse-practitioner-led-clinic/1277191000168100\n\n- Nursing service: https://www.healthdirect.gov.au/australian-health-services/all-services/nursing-service/708170008\n\n- Nutrition: https://www.healthdirect.gov.au/australian-health-services/all-services/nutrition/1240781000168102\n\n- Obstetric care: https://www.healthdirect.gov.au/australian-health-services/all-services/obstetric-care/1538951000168100\n\n- Obstetrics: https://www.healthdirect.gov.au/australian-health-services/all-services/obstetrics/310063007\n\n- Obstetrics and gynaecology: https://www.healthdirect.gov.au/australian-health-services/all-services/obstetrics-and-gynaecology/310060005\n\n- Occupational health service: https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-health-service/310064001\n\n- Occupational medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-medicine/1277151000168105\n\n- Occupational therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/occupational-therapy/310093001\n\n- Ocular oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/ocular-oncology-service/1580781000168103\n\n- One on one mentoring support: https://www.healthdirect.gov.au/australian-health-services/all-services/one-on-one-mentoring-support/1276661000168101\n\n- Ophthalmology: https://www.healthdirect.gov.au/australian-health-services/all-services/ophthalmology/310160007\n\n- Opthalmology: https://www.healthdirect.gov.au/australian-health-services/all-services/opthalmology/1579151000168106\n\n- Optometry: https://www.healthdirect.gov.au/australian-health-services/all-services/optometry/310105000\n\n- Oral and maxillofacial surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/oral-and-maxillofacial-surgery-service/788008002\n\n- Oral medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/oral-medicine/1237575008\n\n- Oral surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/oral-surgery/310145009\n\n- Orthodontics: https://www.healthdirect.gov.au/australian-health-services/all-services/orthodontics/310146005\n\n- Orthopaedic endoscopy service: https://www.healthdirect.gov.au/australian-health-services/all-services/orthopaedic-endoscopy-service/1580831000168106\n\n- Orthopaedic service: https://www.healthdirect.gov.au/australian-health-services/all-services/orthopaedic-service/310161006\n\n- Orthoptics: https://www.healthdirect.gov.au/australian-health-services/all-services/orthoptics/310106004\n\n- Osteopathic refracture prevention service: https://www.healthdirect.gov.au/australian-health-services/all-services/osteopathic-refracture-prevention-service/1578511000168108\n\n- Osteopathy: https://www.healthdirect.gov.au/australian-health-services/all-services/osteopathy/1136391000168102\n\n- Outreach service: https://www.healthdirect.gov.au/australian-health-services/all-services/outreach-service/1244481000168102\n\n- Pacemaker consultation service: https://www.healthdirect.gov.au/australian-health-services/all-services/pacemaker-consultation-service/1585801000168108\n\n- Paediatric allied health: https://www.healthdirect.gov.au/australian-health-services/all-services/paediatric-allied-health/1579091000168102\n\n- Paediatric emergency medical service: https://www.healthdirect.gov.au/australian-health-services/all-services/paediatric-emergency-medical-service/3751000175100\n\n- Pain management: https://www.healthdirect.gov.au/australian-health-services/all-services/pain-management/310071006\n\n- Pain medicine service: https://www.healthdirect.gov.au/australian-health-services/all-services/pain-medicine-service/1277171000168101\n\n- Palliative medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/palliative-medicine/1277161000168107\n\n- Parenting and family support: https://www.healthdirect.gov.au/australian-health-services/all-services/parenting-and-family-support/1238881000168108\n\n- Parenting support: https://www.healthdirect.gov.au/australian-health-services/all-services/parenting-support/1586091000168104\n\n- Pathology: https://www.healthdirect.gov.au/australian-health-services/all-services/pathology/310074003\n\n- Patient advocacy and liaison: https://www.healthdirect.gov.au/australian-health-services/all-services/patient-advocacy-and-liaison/1238871000168105\n\n- Perinatal mental health: https://www.healthdirect.gov.au/australian-health-services/all-services/perinatal-mental-health/1239071000168109\n\n- Perinatology: https://www.healthdirect.gov.au/australian-health-services/all-services/perinatology/2451000175103\n\n- Periodontics: https://www.healthdirect.gov.au/australian-health-services/all-services/periodontics/1255186006\n\n- Perioperative service: https://www.healthdirect.gov.au/australian-health-services/all-services/perioperative-service/933774631000036107\n\n- Pharmacotherapy for drug and alcohol dependence: https://www.healthdirect.gov.au/australian-health-services/all-services/pharmacotherapy-for-drug-and-alcohol-dependence/1244891000168102\n\n- Pharmacy: https://www.healthdirect.gov.au/australian-health-services/all-services/pharmacy/310080006\n\n- Physical activity program: https://www.healthdirect.gov.au/australian-health-services/all-services/physical-activity-program/1256101000168106\n\n- Physical and rehabilitation medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/physical-and-rehabilitation-medicine/722424008\n\n- Physiotherapy: https://www.healthdirect.gov.au/australian-health-services/all-services/physiotherapy/722140001\n\n- Plastic surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/plastic-surgery/310164003\n\n- Podiatry: https://www.healthdirect.gov.au/australian-health-services/all-services/podiatry/310087009\n\n- Post acute care service: https://www.healthdirect.gov.au/australian-health-services/all-services/post-acute-care-service/1586121000168100\n\n- Pregnancy social supoort service: https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-social-supoort-service/301981000210101\n\n- Pregnancy termination: https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-termination/310062002\n\n- Pregnancy ultrasound: https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-ultrasound/708173005\n\n- Pregnancy, birth and baby giref and loss service: https://www.healthdirect.gov.au/australian-health-services/all-services/pregnancy-birth-and-baby-giref-and-loss-service/933754111000036106\n\n- Preventive service: https://www.healthdirect.gov.au/australian-health-services/all-services/preventive-service/278032008\n\n- Primary healthcare service: https://www.healthdirect.gov.au/australian-health-services/all-services/primary-healthcare-service/1586771000168103\n\n- Private same-day hospital: https://www.healthdirect.gov.au/australian-health-services/all-services/private-same-day-hospital/1223171000168105\n\n- Problem gambling counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/problem-gambling-counselling/1244591000168100\n\n- Prosthetic and orthotic service: https://www.healthdirect.gov.au/australian-health-services/all-services/prosthetic-and-orthotic-service/816075004\n\n- Prosthodontics: https://www.healthdirect.gov.au/australian-health-services/all-services/prosthodontics/734863003\n\n- Psychiatry: https://www.healthdirect.gov.au/australian-health-services/all-services/psychiatry/310116007\n\n- Psychogeriatric service: https://www.healthdirect.gov.au/australian-health-services/all-services/psychogeriatric-service/310121005\n\n- Psychology: https://www.healthdirect.gov.au/australian-health-services/all-services/psychology/310123008\n\n- Public health and preventive medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/public-health-and-preventive-medicine/26081000087101\n\n- Pulmonary medicine service: https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-medicine-service/722174002\n\n- Pulmonary rehabilitation service: https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-rehabilitation-service/2461000175101\n\n- Pulmonary tuberculosis management service: https://www.healthdirect.gov.au/australian-health-services/all-services/pulmonary-tuberculosis-management-service/1582761000168108\n\n- Quit smoking: https://www.healthdirect.gov.au/australian-health-services/all-services/quit-smoking/1244901000168103\n\n- Radiation oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/radiation-oncology-service/788123009\n\n- Radiology service: https://www.healthdirect.gov.au/australian-health-services/all-services/radiology-service/310125001\n\n- Refugee health service: https://www.healthdirect.gov.au/australian-health-services/all-services/refugee-health-service/1248591000168109\n\n- Rehabilitation psychiatry service: https://www.healthdirect.gov.au/australian-health-services/all-services/rehabilitation-psychiatry-service/310122003\n\n- Rehabilitation service: https://www.healthdirect.gov.au/australian-health-services/all-services/rehabilitation-service/310129007\n\n- Relationship counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/relationship-counselling/1255961000168104\n\n- Renal dialysis: https://www.healthdirect.gov.au/australian-health-services/all-services/renal-dialysis/1244951000168104\n\n- Reproductive endocrinology and infertility: https://www.healthdirect.gov.au/australian-health-services/all-services/reproductive-endocrinology-and-infertility/1248741000168105\n\n- Residential care (Children): https://www.healthdirect.gov.au/australian-health-services/all-services/residential-care-children/1256021000168103\n\n- Respiratory diagnostic service: https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-diagnostic-service/1587241000168100\n\n- Respiratory endoscopy service: https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-endoscopy-service/1587141000168108\n\n- Respiratory medicine and sleep disorder management service: https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-medicine-and-sleep-disorder-management-service/1581751000168100\n\n- Respiratory oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/respiratory-oncology-service/1587151000168105\n\n- Rheumatology: https://www.healthdirect.gov.au/australian-health-services/all-services/rheumatology/3621000175101\n\n- Sexual assault counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/sexual-assault-counselling/1244611000168105\n\n- Sexual health clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/sexual-health-clinic/788122004\n\n- Sexually transmissible infection management service: https://www.healthdirect.gov.au/australian-health-services/all-services/sexually-transmissible-infection-management-service/1582741000168109\n\n- Skin cancer clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/skin-cancer-clinic/1223331000168109\n\n- Skin check (General practice): https://www.healthdirect.gov.au/australian-health-services/all-services/skin-check-general-practice/1276651000168103\n\n- Sleep diagnostic service: https://www.healthdirect.gov.au/australian-health-services/all-services/sleep-diagnostic-service/1581701000168104\n\n- Sleep medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/sleep-medicine/1136421000168109\n\n- Social support service: https://www.healthdirect.gov.au/australian-health-services/all-services/social-support-service/1239111000168102\n\n- Social workers: https://www.healthdirect.gov.au/australian-health-services/all-services/social-workers/1238891000168106\n\n- Speech pathology: https://www.healthdirect.gov.au/australian-health-services/all-services/speech-pathology/310101009\n\n- Spine orthopedic surgery: https://www.healthdirect.gov.au/australian-health-services/all-services/spine-orthopedic-surgery/24141000087104\n\n- Spiritual counselling: https://www.healthdirect.gov.au/australian-health-services/all-services/spiritual-counselling/1255971000168105\n\n- Sports medicine: https://www.healthdirect.gov.au/australian-health-services/all-services/sports-medicine/2351000175106\n\n- Stimulant use disorder treatment service: https://www.healthdirect.gov.au/australian-health-services/all-services/stimulant-use-disorder-treatment-service/1584791000168108\n\n- Stomal therapy: https://www.healthdirect.gov.au/australian-health-services/all-services/stomal-therapy/1244491000168104\n\n- Stroke service: https://www.healthdirect.gov.au/australian-health-services/all-services/stroke-service/310137004\n\n- Substance use in pregnancy and parenting service: https://www.healthdirect.gov.au/australian-health-services/all-services/substance-use-in-pregnancy-and-parenting-service/1584811000168107\n\n- Support groups: https://www.healthdirect.gov.au/australian-health-services/all-services/support-groups/1239081000168107\n\n- Surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/surgery-service/310138009\n\n- Surgical oncology: https://www.healthdirect.gov.au/australian-health-services/all-services/surgical-oncology/699478002\n\n- Thyroid and other endocrine oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/thyroid-and-other-endocrine-oncology-service/1581781000168107\n\n- Total parenteral nutrition service: https://www.healthdirect.gov.au/australian-health-services/all-services/total-parenteral-nutrition-service/1586111000168107\n\n- Transgender health service: https://www.healthdirect.gov.au/australian-health-services/all-services/transgender-health-service/896974005\n\n- Transition Care Program: https://www.healthdirect.gov.au/australian-health-services/all-services/transition-care-program/1244531000168104\n\n- Translator service: https://www.healthdirect.gov.au/australian-health-services/all-services/translator-service/1575191000168103\n\n- Transplant surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/transplant-surgery-service/310165002\n\n- Trauma counselling service: https://www.healthdirect.gov.au/australian-health-services/all-services/trauma-counselling-service/1244601000168107\n\n- Trauma surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/trauma-surgery-service/310166001\n\n- Tuberculosis management service: https://www.healthdirect.gov.au/australian-health-services/all-services/tuberculosis-management-service/1581951000168102\n\n- Ultrasound scan: https://www.healthdirect.gov.au/australian-health-services/all-services/ultrasound-scan/310169008\n\n- Upper gatrointestinal oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/upper-gatrointestinal-oncology-service/1580951000168108\n\n- Urgent care service: https://www.healthdirect.gov.au/australian-health-services/all-services/urgent-care-service/1646051000168105\n\n- Uro-oncology service: https://www.healthdirect.gov.au/australian-health-services/all-services/uro-oncology-service/1580911000168107\n\n- Urogynaecology: https://www.healthdirect.gov.au/australian-health-services/all-services/urogynaecology/1248771000168103\n\n- Urology: https://www.healthdirect.gov.au/australian-health-services/all-services/urology/310167005\n\n- Vascular diagnostic services: https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-diagnostic-services/1581741000168102\n\n- Vascular medicine service: https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-medicine-service/722352000\n\n- Vascular surgery service: https://www.healthdirect.gov.au/australian-health-services/all-services/vascular-surgery-service/310168000\n\n- Victims of crime counselling service: https://www.healthdirect.gov.au/australian-health-services/all-services/victims-of-crime-counselling-service/1255981000168108\n\n- Viral hepatitis mangement service: https://www.healthdirect.gov.au/australian-health-services/all-services/viral-hepatitis-mangement-service/1582321000168102\n\n- Virtual emergency service: https://www.healthdirect.gov.au/australian-health-services/all-services/virtual-emergency-service/1753591000168109\n\n- Walk-in centre: https://www.healthdirect.gov.au/australian-health-services/all-services/walk-in-centre/1244541000168108\n\n- Women's health clinic: https://www.healthdirect.gov.au/australian-health-services/all-services/women-s-health-clinic/1248691000168108\n\n- Wound management: https://www.healthdirect.gov.au/australian-health-services/all-services/wound-management/1248701000168108\n\n- Youth health service: https://www.healthdirect.gov.au/australian-health-services/all-services/youth-health-service/1248711000168106\n\n- invasive ventolation service: https://www.healthdirect.gov.au/australian-health-services/all-services/invasive-ventolation-service/1575201000168100\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- Terms of use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy: https://www.healthdirect.gov.au/privacy-notice\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- Provide feedback: https://www.healthdirect.gov.au/how-to-provide-feedback\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+}

@@ -1,0 +1,603 @@
+{
+  "source_id": "healthdirect:sleep-apnoea",
+  "title": "Obstructive sleep apnoea - symptoms and treatment | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea",
+  "retrieved_at": "2026-08-30",
+  "topic": "Sleep",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 26002,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "What is obstructive sleep apnoea?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#what-is"
+    },
+    {
+      "text": "What are the symptoms of obstructive sleep apnoea?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#symptoms"
+    },
+    {
+      "text": "What causes obstructive sleep apnoea?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#caused"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#doctor"
+    },
+    {
+      "text": "How is obstructive sleep apnoea diagnosed?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#diagnosed"
+    },
+    {
+      "text": "How is obstructive sleep apnoea treated?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#treated"
+    },
+    {
+      "text": "Can obstructive sleep apnoea be prevented?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#prevented"
+    },
+    {
+      "text": "Complications of obstructive sleep apnoea",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#complications"
+    },
+    {
+      "text": "What is the difference between obstructive sleep apnoea and central sleep apnoea?",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#difference"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#searchGeneralResults"
+    },
+    {
+      "text": "insomnia",
+      "url": "https://www.healthdirect.gov.au/insomnia"
+    },
+    {
+      "text": "sleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "heartburn",
+      "url": "https://www.healthdirect.gov.au/heartburn"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "obese",
+      "url": "https://www.healthdirect.gov.au/obesity"
+    },
+    {
+      "text": "post-menopausal",
+      "url": "https://www.healthdirect.gov.au/post-menopause"
+    },
+    {
+      "text": "adenoids",
+      "url": "https://www.healthdirect.gov.au/adenoids"
+    },
+    {
+      "text": "family history",
+      "url": "https://www.healthdirect.gov.au/family-medical-history"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/alcohol"
+    },
+    {
+      "text": "Children can also have OSA",
+      "url": "https://www.pregnancybirthbaby.org.au/sleep-disorders-in-children"
+    },
+    {
+      "text": "tonsils",
+      "url": "https://www.healthdirect.gov.au/tonsillectomy"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "losing weight",
+      "url": "https://www.healthdirect.gov.au/weight-loss-and-dieting"
+    },
+    {
+      "text": "quitting smoking",
+      "url": "https://www.healthdirect.gov.au/quit-smoking-vaping"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/how-alcohol-affects-your-health"
+    },
+    {
+      "text": "sleeping pills",
+      "url": "https://www.healthdirect.gov.au/safe-use-of-sleeping-pills"
+    },
+    {
+      "text": "high blood pressure",
+      "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension"
+    },
+    {
+      "text": "heart arrhythmias",
+      "url": "https://www.healthdirect.gov.au/heart-arrhythmias"
+    },
+    {
+      "text": "coronary heart disease",
+      "url": "https://www.healthdirect.gov.au/coronary-heart-disease-and-atherosclerosis"
+    },
+    {
+      "text": "heart failure",
+      "url": "https://www.healthdirect.gov.au/heart-failure"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "erectile dysfunction",
+      "url": "https://www.healthdirect.gov.au/erectile-dysfunction"
+    },
+    {
+      "text": "(Obstructive sleep apnoea in adults)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Respiratory&topicfile=obstructive-sleep-apnoea-adults&guidelinename=Respiratory&sectionId=toc_d1e47#toc_d1e47"
+    },
+    {
+      "text": "(Obstructive sleep apnoea in adults)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/215/complications"
+    },
+    {
+      "text": "(Central sleep apnoea in adults)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Respiratory&topicfile=central-sleep-apnoea-adults&guidelinename=Respiratory&sectionId=toc_d1e47#toc_d1e47"
+    },
+    {
+      "text": "(Obstructive sleep apnoea (OSA))",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/childhood_obstructive_sleep_apnoea_osa/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea#backToTop"
+    },
+    {
+      "text": "Sleep",
+      "url": "https://www.healthdirect.gov.au/search-results/Sleep"
+    },
+    {
+      "text": "Central Sleep Apnoea (CSA) | Sleep Health Foundation This is a fact sheet about Central Sleep Apnoea (CSA). CSA occurs when the brain fails to send the proper signals to the muscles that control breathing and a pause occurs between breaths. Read more on Sleep Health Foundation website",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/central-sleep-apnoea-csa"
+    },
+    {
+      "text": "Obstructive Sleep Apnoea (OSA) | Sleep Health Foundation This is a fact sheet about Obstructive Sleep Apnoea (OSA). OSA is a common and serious sleep disorder characterised by repeated interruptions, or apnoeas, in breathing, causing disrupted sleep. Read more on Sleep Health Foundation website",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "Sleep apnoea in babies & children: causes & treatment Children with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/guides/a-z-health-reference/sleep-apnoea"
+    },
+    {
+      "text": "Kids Health Info : Obstructive sleep apnoea (OSA) Read more on Royal Children's Hospital website",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Obstructive_sleep_apnoea_OSA/"
+    },
+    {
+      "text": "Obstructive Sleep Apnoea: More Than Just a Bad Night's Sleep People who have obstructive sleep apnoea (OSA) will experience continuous episodes of partial or complete obstruction of the throat while sleeping. This obstruction occurs when the walls of the upper airway collapse and narrow, preventing air from reaching the lungs. A person with OSA stops breathing for a short period of time, typically 10 seconds to one minute. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "Diagnosis and management of obstructive sleep apnoea in adults - Australian Prescriber Diagnosis and management of obstructive sleep apnoea is important. Untreated sleep apnoea results in non-restorative sleep and daytime sleepiness, and may lead to adverse long-term cardiovascular and neurocognitive outcomes. Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/diagnosis-and-management-of-obstructive-sleep-apnoea-in-adults.html"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Obstructive sleep apnoea - symptoms and treatment | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Obstructive sleep apnoea (OSA)\n\n7-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Obstructive sleep apnoea (OSA) happens when you have breathing pauses at night while you're asleep.\n\n- People who have OSA may snore, wake up gasping and feel tired during the day.\n\n- Your doctor can refer you to a sleep specialist for a diagnosis and to get treatment.\n\n- It's important to treat OSA because it can increase your risk of other health problems.\n\n## On this page\n\n- What is obstructive sleep apnoea?\n\n- What are the symptoms of obstructive sleep apnoea?\n\n- What causes obstructive sleep apnoea?\n\n- When should I see my doctor?\n\n- How is obstructive sleep apnoea diagnosed?\n\n- How is obstructive sleep apnoea treated?\n\n- Can obstructive sleep apnoea be prevented?\n\n- Complications of obstructive sleep apnoea\n\n- What is the difference between obstructive sleep apnoea and central sleep apnoea?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is obstructive sleep apnoea?\n\nObstructive sleep apnoea (OSA) is a problem with your breathing while you are asleep.\n\nIf you have OSA, your airway is partly or completely blocked at times while you're asleep. This can cause you to stop breathing for short periods. You then wake up briefly (called an arousal), which restarts your breathing.\n\nThese breathing pauses, known as 'apnoeas', can happen many times a night, and you're often unaware of it happening.\n\nHaving OSA can increase your risk of other health problems and complications.\n\n## What are the symptoms of obstructive sleep apnoea?\n\nSymptoms of OSA include:\n\n- pauses in breathing while you're sleeping, which other people may notice (apnoeas)\n\n- loud snoring (vibration of your throat during sleep)\n\n- tossing and turning during sleep\n\n- waking up gasping or choking\n\n- breath holding\n\n- insomnia\n\n- tiredness and feeling unrefreshed after sleep\n\n- daytime sleepiness\n\nSometimes people with OSA have symptoms of:\n\n- heartburn at night\n\n- dry mouth\n\n- waking up with a headache\n\n- irritability during the day\n\n- depression\n\n- problems with attention, learning and memory\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## What causes obstructive sleep apnoea?\n\nOSA can affect anyone, but your risk is higher if you:\n\n- are overweight or obese\n\n- are male\n\n- are a post-menopausal female\n\n- have a thick neck\n\n- have a naturally narrow airway\n\n- have large adenoids , tonsils or a large tongue\n\nOther factors that can increase your risk of sleep apnoea are:\n\n- having a family history of OSA\n\n- being middle aged or older\n\n- drinking alcohol\n\n- smoking\n\nChildren can also have OSA , but OSA in children is usually caused by having large tonsils or adenoids .\n\n## When should I see my doctor?\n\nSee your doctor if you or someone close to you is concerned about possible obstructive sleep apnoea.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How is obstructive sleep apnoea diagnosed?\n\nYour doctor will ask about your symptoms. If you share a bedroom with someone, it's a good idea to take this person with you to the doctor. They can describe your sleep and whether it's noisy or disturbed.\n\nYour doctor will examine you, including checking your nose and throat. They may also check your blood pressure and general health.\n\nYou may need a referral to a sleep clinic for an overnight sleep study. This may be organised by your doctor, or you may need to see a specialist doctor.\n\nSome clinics do sleep studies under supervision in a sleep laboratory. Another option for some people is a home sleep study.\n\nDuring a sleep study, your breathing and oxygen levels are monitored while you sleep.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## How is obstructive sleep apnoea treated?\n\nTreatment for OSA aims to treat your symptoms and reduce your risk of related health problems.\n\nThe type of treatment will depend on how severe your OSA is and your overall health.\n\n### Self-care measures\n\nSelf-care treatments for OSA include:\n\n- losing weight (if you are overweight)\n\n- quitting smoking and vaping if you smoke or vape\n\n- avoiding alcohol, medicines and drugs that can affect sleep\n\n- using nasal corticosteroid sprays if your nose is blocked\n\n### Other treatments\n\nTreatments are also available to help keep your airways open while you are sleeping. These include:\n\n- continuous positive airway pressure (CPAP) — where a pump feeds pressurised air into a mask that you wear on your face\n\n- wearing an oral appliance (splinting device) fitted by your dentist\n\n### Surgery\n\nSurgery may be recommended for some people with OSA. This may be considered if you have problems with your airway that contribute to your snoring (such as large adenoids or tonsils).\n\nSurgery is usually only done if other treatments have not helped.\n\n## Can obstructive sleep apnoea be prevented?\n\nYou can help prevent symptoms of OSA by:\n\n- maintaining a healthy weight\n\n- limiting your alcohol consumption\n\n- not smoking\n\nYou should also try to:\n\n- have good sleep habits, including a regular sleep pattern\n\n- limit your use of sleeping pills\n\n## Complications of obstructive sleep apnoea\n\nAs well as making you tired, untreated OSA can increase your risk of health problems, such as:\n\n- high blood pressure\n\n- heart arrhythmias\n\n- coronary heart disease\n\n- heart failure\n\n- stroke\n\nAdults with untreated OSA also have a higher risk of:\n\n- diabetes\n\n- poor memory\n\n- lack of concentration\n\n- moodiness, depression and personality change\n\n- decreased libido, and male erectile dysfunction\n\nYou are also at higher risk of car accidents and workplace accidents if you have OSA.\n\n## What is the difference between obstructive sleep apnoea and central sleep apnoea?\n\nPeople with central sleep apnoea (CSA), have breathing pauses (apnoeas) during the night because of pauses in the drive to breathe. This is different to OSA, where apnoeas are caused by a blocked airway.\n\nCSA is less common than OSA. You're less likely to snore loudly with CSA than with OSA.\n\nIllnesses such as heart failure and some medicines can cause you to develop CSA by affecting your brain's breathing control centres.\n\n## Resources and support\n\nSee your doctor if you are concerned about obstructive sleep apnoea.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nTherapeutic Guidelines (Obstructive sleep apnoea in adults) , BMJ Best Practice (Obstructive sleep apnoea in adults) , Therapeutic Guidelines (Central sleep apnoea in adults) , Royal Children's Hospital Melbourne (Obstructive sleep apnoea (OSA))\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2024\n\nBack To Top\n\n## Search our site for\n\n- Sleep\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Central Sleep Apnoea (CSA) | Sleep Health Foundation\n\nThis is a fact sheet about Central Sleep Apnoea (CSA). CSA occurs when the brain fails to send the proper signals to the muscles that control breathing and a pause occurs between breaths.\n\nRead more on Sleep Health Foundation website\n\n### Obstructive Sleep Apnoea (OSA) | Sleep Health Foundation\n\nThis is a fact sheet about Obstructive Sleep Apnoea (OSA). OSA is a common and serious sleep disorder characterised by repeated interruptions, or apnoeas, in breathing, causing disrupted sleep.\n\n### Sleep apnoea in babies & children: causes & treatment\n\nChildren with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP.\n\nRead more on raisingchildren.net.au website\n\n### Kids Health Info : Obstructive sleep apnoea (OSA)\n\nRead more on Royal Children's Hospital website\n\nShow more\n\n### Obstructive Sleep Apnoea: More Than Just a Bad Night's Sleep\n\nPeople who have obstructive sleep apnoea (OSA) will experience continuous episodes of partial or complete obstruction of the throat while sleeping. This obstruction occurs when the walls of the upper airway collapse and narrow, preventing air from reaching the lungs. A person with OSA stops breathing for a short period of time, typically 10 seconds to one minute.\n\nRead more on Ausmed Education website\n\n### Diagnosis and management of obstructive sleep apnoea in adults - Australian Prescriber\n\nDiagnosis and management of obstructive sleep apnoea is important. Untreated sleep apnoea results in non-restorative sleep and daytime sleepiness, and may lead to adverse long-term cardiovascular and neurocognitive outcomes.\n\nRead more on Australian Prescriber website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- Please enter your name: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- What is obstructive sleep apnoea?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#what-is\n\n- What are the symptoms of obstructive sleep apnoea?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#symptoms\n\n- What causes obstructive sleep apnoea?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#caused\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#doctor\n\n- How is obstructive sleep apnoea diagnosed?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#diagnosed\n\n- How is obstructive sleep apnoea treated?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#treated\n\n- Can obstructive sleep apnoea be prevented?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#prevented\n\n- Complications of obstructive sleep apnoea: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#complications\n\n- What is the difference between obstructive sleep apnoea and central sleep apnoea?: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#difference\n\n- Resources and support: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#searchGeneralResults\n\n- insomnia: https://www.healthdirect.gov.au/insomnia\n\n- sleep: https://www.healthdirect.gov.au/sleep\n\n- heartburn: https://www.healthdirect.gov.au/heartburn\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- obese: https://www.healthdirect.gov.au/obesity\n\n- post-menopausal: https://www.healthdirect.gov.au/post-menopause\n\n- adenoids: https://www.healthdirect.gov.au/adenoids\n\n- family history: https://www.healthdirect.gov.au/family-medical-history\n\n- alcohol: https://www.healthdirect.gov.au/alcohol\n\n- Children can also have OSA: https://www.pregnancybirthbaby.org.au/sleep-disorders-in-children\n\n- tonsils: https://www.healthdirect.gov.au/tonsillectomy\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- losing weight: https://www.healthdirect.gov.au/weight-loss-and-dieting\n\n- quitting smoking: https://www.healthdirect.gov.au/quit-smoking-vaping\n\n- alcohol: https://www.healthdirect.gov.au/how-alcohol-affects-your-health\n\n- sleeping pills: https://www.healthdirect.gov.au/safe-use-of-sleeping-pills\n\n- high blood pressure: https://www.healthdirect.gov.au/high-blood-pressure-hypertension\n\n- heart arrhythmias: https://www.healthdirect.gov.au/heart-arrhythmias\n\n- coronary heart disease: https://www.healthdirect.gov.au/coronary-heart-disease-and-atherosclerosis\n\n- heart failure: https://www.healthdirect.gov.au/heart-failure\n\n- stroke: https://www.healthdirect.gov.au/stroke\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- erectile dysfunction: https://www.healthdirect.gov.au/erectile-dysfunction\n\n- (Obstructive sleep apnoea in adults): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Respiratory&topicfile=obstructive-sleep-apnoea-adults&guidelinename=Respiratory&sectionId=toc_d1e47#toc_d1e47\n\n- (Obstructive sleep apnoea in adults): https://bestpractice.bmj.com/topics/en-gb/215/complications\n\n- (Central sleep apnoea in adults): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Respiratory&topicfile=central-sleep-apnoea-adults&guidelinename=Respiratory&sectionId=toc_d1e47#toc_d1e47\n\n- (Obstructive sleep apnoea (OSA)): https://www.rch.org.au/kidsinfo/fact_sheets/childhood_obstructive_sleep_apnoea_osa/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/obstructive-sleep-apnoea#backToTop\n\n- Sleep: https://www.healthdirect.gov.au/search-results/Sleep\n\n- Central Sleep Apnoea (CSA) | Sleep Health Foundation This is a fact sheet about Central Sleep Apnoea (CSA). CSA occurs when the brain fails to send the proper signals to the muscles that control breathing and a pause occurs between breaths. Read more on Sleep Health Foundation website: https://www.sleephealthfoundation.org.au/sleep-disorders/central-sleep-apnoea-csa\n\n- Obstructive Sleep Apnoea (OSA) | Sleep Health Foundation This is a fact sheet about Obstructive Sleep Apnoea (OSA). OSA is a common and serious sleep disorder characterised by repeated interruptions, or apnoeas, in breathing, causing disrupted sleep. Read more on Sleep Health Foundation website: https://www.sleephealthfoundation.org.au/sleep-disorders/obstructive-sleep-apnoea\n\n- Sleep apnoea in babies & children: causes & treatment Children with obstructive sleep apnoea might snore, pause or struggle for breath while asleep. If you think your child has sleep apnoea, take them to a GP. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/guides/a-z-health-reference/sleep-apnoea\n\n- Kids Health Info : Obstructive sleep apnoea (OSA) Read more on Royal Children's Hospital website: https://www.rch.org.au/kidsinfo/fact_sheets/Obstructive_sleep_apnoea_OSA/\n\n- Obstructive Sleep Apnoea: More Than Just a Bad Night's Sleep People who have obstructive sleep apnoea (OSA) will experience continuous episodes of partial or complete obstruction of the throat while sleeping. This obstruction occurs when the walls of the upper airway collapse and narrow, preventing air from reaching the lungs. A person with OSA stops breathing for a short period of time, typically 10 seconds to one minute. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/obstructive-sleep-apnoea\n\n- Diagnosis and management of obstructive sleep apnoea in adults - Australian Prescriber Diagnosis and management of obstructive sleep apnoea is important. Untreated sleep apnoea results in non-restorative sleep and daytime sleepiness, and may lead to adverse long-term cardiovascular and neurocognitive outcomes. Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/diagnosis-and-management-of-obstructive-sleep-apnoea-in-adults.html\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

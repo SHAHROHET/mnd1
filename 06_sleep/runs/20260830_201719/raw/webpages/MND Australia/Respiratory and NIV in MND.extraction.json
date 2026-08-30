@@ -1,0 +1,419 @@
+{
+  "source_id": "mnd-australia:respiratory-niv",
+  "title": "Respiratory and NIV in MND",
+  "publisher": "MND Australia",
+  "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd",
+  "retrieved_at": "2026-08-30",
+  "topic": "Sleep",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 44920,
+  "crawl_depth": 0,
+  "seed_url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd",
+  "links": [
+    {
+      "text": "About",
+      "url": "https://www.mndaustralia.org.au/about-us"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.mndaustralia.org.au/contact-us"
+    },
+    {
+      "text": "https://www.mndaustralia.org.au/",
+      "url": "https://www.mndaustralia.org.au/"
+    },
+    {
+      "text": "Information",
+      "url": "https://www.mndaustralia.org.au/mnd-connect"
+    },
+    {
+      "text": "About MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd"
+    },
+    {
+      "text": "Find services and support",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/find-services"
+    },
+    {
+      "text": "Living with MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd"
+    },
+    {
+      "text": "Carers, family and friends",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/support-for-carers-family-friends"
+    },
+    {
+      "text": "For health professionals",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers"
+    },
+    {
+      "text": "Information resources",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources"
+    },
+    {
+      "text": "Language and accessibility",
+      "url": "https://www.mndaustralia.org.au/accessibility"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.mndaustralia.org.au/research"
+    },
+    {
+      "text": "Our research grants program",
+      "url": "https://www.mndaustralia.org.au/research/our-research"
+    },
+    {
+      "text": "Clinical trials in Australia",
+      "url": "https://www.mndaustralia.org.au/research/clinical-trials"
+    },
+    {
+      "text": "Support MND research",
+      "url": "https://www.mndaustralia.org.au/research/support-mnd-research"
+    },
+    {
+      "text": "MiNDAUS Registry",
+      "url": "https://www.mndaustralia.org.au/research/mnd-registry"
+    },
+    {
+      "text": "Research statistics",
+      "url": "https://www.mndaustralia.org.au/research/mnd-research-statistics"
+    },
+    {
+      "text": "MND Research Collective",
+      "url": "https://www.mndaustralia.org.au/research/mnd-collective"
+    },
+    {
+      "text": "Advocacy",
+      "url": "https://www.mndaustralia.org.au/advocacy"
+    },
+    {
+      "text": "Our advocacy priorities",
+      "url": "https://www.mndaustralia.org.au/advocacy/our-priorities"
+    },
+    {
+      "text": "Advocate for change",
+      "url": "https://www.mndaustralia.org.au/get-involved/advocatingforchange"
+    },
+    {
+      "text": "Government submissions",
+      "url": "https://www.mndaustralia.org.au/advocacy/government-submissions-hearings"
+    },
+    {
+      "text": "Parliamentary Friends of MND",
+      "url": "https://www.mndaustralia.org.au/advocacy/parliamentary-friends-of-mnd"
+    },
+    {
+      "text": "Every Moment Matters",
+      "url": "https://www.mndaustralia.org.au/advocacy/every-moment-matters"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.mndaustralia.org.au/get-involved"
+    },
+    {
+      "text": "The National MND Lived Experience Network",
+      "url": "https://www.mndaustralia.org.au/get-involved/national-mnd-lived-experience-network"
+    },
+    {
+      "text": "National MND Conference 2026",
+      "url": "https://www.mndaustralia.org.au/get-involved/care-and-research-conference-2026"
+    },
+    {
+      "text": "MND Community Survey 2025",
+      "url": "https://www.mndaustralia.org.au/get-involved/community-survey-2025"
+    },
+    {
+      "text": "Support MND Australia",
+      "url": "https://www.mndaustralia.org.au/get-involved/make-a-donation"
+    },
+    {
+      "text": "News & Stories",
+      "url": "https://www.mndaustralia.org.au/articles"
+    },
+    {
+      "text": "News",
+      "url": "https://www.mndaustralia.org.au/articles/news"
+    },
+    {
+      "text": "Stories",
+      "url": "https://www.mndaustralia.org.au/articles/stories"
+    },
+    {
+      "text": "Research news",
+      "url": "https://www.mndaustralia.org.au/articles/research-news"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.mndaustralia.org.au/articles/media-releases"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndnsw.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#3950575f565550575c7954575d574a4e17564b5e17584c"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndsa.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#f499959d98809bce9590999d9ab4999a908795da9b8693da9581"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#50393e363f3c393e35103d3e343e23277e3f22377e3125"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndatas.asn.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#aec7c0c8c1eec3c0cacfdacfdd80cfddc080cfdb"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#98f1f6fef7f4f1f6fdd8f5f6fcf6ebefb6f7eaffb6f9ed"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mnd.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#e881868e87a885868cc6879a8fc6899d"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndqld.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d8b1b6beb798b5b6bcb9a9f6b7aabff6b9ad"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndawa.asn.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#fc9d98919592bc9192989d8b9dd29d8f92d29d89"
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.mndaustralia.org.au/"
+    },
+    {
+      "text": "Managing symptoms in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms"
+    },
+    {
+      "text": "Cognitive change in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/cognition-behaviour-in-mnd"
+    },
+    {
+      "text": "Dysarthria and communication in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/communication-in-mnd"
+    },
+    {
+      "text": "Dysphagia and nutrition in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management"
+    },
+    {
+      "text": "Fatigue and insomnia in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/fatigue-and-insomnia"
+    },
+    {
+      "text": "Muscle weakness and pain in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/movement-joints"
+    },
+    {
+      "text": "Respiratory and NIV in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd"
+    },
+    {
+      "text": "Saliva management in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/saliva-management-in-mnd"
+    },
+    {
+      "text": "Canadian best practice recommendations for the management of amyotrophic lateral sclerosis",
+      "url": "https://www.cmaj.ca/content/192/46/E1453"
+    },
+    {
+      "text": "respiratory decision tree - figure 1",
+      "url": "https://www.cmaj.ca/content/192/46/E1453/tab-figures-data"
+    },
+    {
+      "text": "Respiratory function and respiratory symptoms",
+      "url": "https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#respiratory-function-and-respiratory-symptoms"
+    },
+    {
+      "text": "Cough effectiveness",
+      "url": "https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#cough-effectiveness"
+    },
+    {
+      "text": "Non – invasive ventilation:",
+      "url": "https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#non-invasive-ventilation"
+    },
+    {
+      "text": "Assessing and managing respiratory function in motor neurone disease pathway Non-invasive ventilation in motor neurone disease",
+      "url": "https://pathways.nice.org.uk/pathways/motor-neurone-disease#path=view%3A/pathways/motor-neurone-disease/assessing-and-managing-respiratory-function-in-motor-neurone-disease.xml&content=view-index"
+    },
+    {
+      "text": "EFNS guidelines on the Clinical Management of Amyotrophic Lateral Sclerosis (MALS) – revised report of an EFNS task force",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2011.03501.x"
+    },
+    {
+      "text": ",",
+      "url": "https://www.aan.com/Guidelines/home/GuidelineDetail/370"
+    },
+    {
+      "text": "the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review)",
+      "url": "https://n.neurology.org/content/73/15/1218"
+    },
+    {
+      "text": "Respiratory management algorithm",
+      "url": "https://n.neurology.org/content/73/15/1218/tab-figures-data"
+    },
+    {
+      "text": "Session 10: Symptom Management – Breathing",
+      "url": "https://edu.mndhub.org.au/lms/course/15931-MND-Aware"
+    },
+    {
+      "text": "Management of NIV in MND and elective withdrawal of ventilation,",
+      "url": "https://www.youtube.com/watch?v=lUFXrx4zzi0&t=353s"
+    },
+    {
+      "text": "Respiration and non-invasive ventilation",
+      "url": "https://www.podbean.com/media/share/pb-k8ydm-b327d1?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share"
+    },
+    {
+      "text": "A service development project to establish a joint Respiratory/MND Clinic,",
+      "url": "https://www.youtube.com/watch?app=desktop&v=7RbtQOWKVys&list=PLbiBIrPZvTbftxtD_0LuByKyYPi7G0zRF&index=18"
+    },
+    {
+      "text": "Ambulatory Care Model Using Volume Assured pressure Support Ventilation,",
+      "url": "https://www.youtube.com/watch?v=JI4nBAokpVc&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=1&t=10s"
+    },
+    {
+      "text": "Breath Stacking Interim Results and Learning Strategies",
+      "url": "https://www.youtube.com/watch?v=sNFijH17saQ&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=6&t=16s"
+    },
+    {
+      "text": "Challenges of assessment and management of cough augmentation in ALS/MND,",
+      "url": "https://www.youtube.com/watch?v=avAkZRlZpPE&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=7&t=40s"
+    },
+    {
+      "text": "Multidisciplinary assessment and management of cough for airway clearance,",
+      "url": "https://www.youtube.com/watch?v=6OlOwJAwMEs&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=8&t=56s"
+    },
+    {
+      "text": "Training in Non-invasive Ventilation: Incorporating discussions from diagnosis to End of Life Care,",
+      "url": "https://www.youtube.com/watch?v=zcIXCm0uu44&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=9&t=4s"
+    },
+    {
+      "text": "Advancing Respiratory Care in the ALS/MND Clinic,",
+      "url": "https://www.youtube.com/watch?app=desktop&v=Jir0whwfHlY"
+    },
+    {
+      "text": "Withdrawal of NIV - How can we help all involved?",
+      "url": "https://www.alsmndalliance.org/wp-content/uploads/2010/12/012-Withdrawal-of-non-invasive-ventilation-D-Oliver.pdf"
+    },
+    {
+      "text": "More About MND: A guide for people living with MND, their family and friends",
+      "url": "https://www.mndaustralia.org.au/getmedia/f130edda-2594-43f7-823b-421760621e48/MoreAboutMND_MNDAustralia_2024.pdf"
+    },
+    {
+      "text": "Breathing and motor neurone disease: an introduction",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-and-mnd-an-introduction"
+    },
+    {
+      "text": "Breathing and motor neurone disease: what you can do",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-what-you-can-do"
+    },
+    {
+      "text": "Breathing and motor neurone disease: medications and non-invasive ventilation",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-medications-and-non-invasive-ventilation"
+    },
+    {
+      "text": "Breathing and MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/breathing-and-mnd"
+    },
+    {
+      "text": "Equipment, assitive technology and home modifications",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/equipment,-assistive-technology-home-modifications"
+    },
+    {
+      "text": "Eating, drinking and swallowing",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/eating,-drinking-swallowing"
+    },
+    {
+      "text": "Talking about end of life and planning ahead",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/talking-about-end-of-life-and-planning-ahead"
+    },
+    {
+      "text": "Should I have assisted ventilation to help breathing difficulty in MND?",
+      "url": "https://mnddecisiontools.com/public/3/decision_tool"
+    },
+    {
+      "text": "Breathing and MND,",
+      "url": "https://www.youtube.com/watch?app=desktop&v=UwYb1P6H4aE"
+    },
+    {
+      "text": "Breathing life into MND,",
+      "url": "https://www.youtube.com/watch?app=desktop&v=wFQoXETkkFw&list=PLpLXU2QzUiV6eQFsSYxFX48lX7chUBNpx&index=6"
+    },
+    {
+      "text": "Tube Feeding and Ventilation",
+      "url": "https://healthtalk.org/motor-neurone-disease-mnd/tube-feeding-pegs-rigs-pigs-and-ventilation"
+    },
+    {
+      "text": "Eating, swallowing and breathing with MND",
+      "url": "https://healthtalk.org/motor-neurone-disease-mnd/eating-swallowing-and-breathing-with-mnd"
+    },
+    {
+      "text": "What is MND?",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd"
+    },
+    {
+      "text": "Types of MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/types-of-mnd"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf"
+    },
+    {
+      "text": "Whistleblower policy",
+      "url": "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf"
+    },
+    {
+      "text": "Terms & conditions",
+      "url": "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.mndaustralia.org.au/sitemap"
+    },
+    {
+      "text": "https://www.facebook.com/mndaustralia",
+      "url": "https://www.facebook.com/mndaustralia"
+    },
+    {
+      "text": "https://www.instagram.com/mnd_australia/?hl=en",
+      "url": "https://www.instagram.com/mnd_australia/?hl=en"
+    },
+    {
+      "text": "https://www.youtube.com/user/MNDAust",
+      "url": "https://www.youtube.com/user/MNDAust"
+    },
+    {
+      "text": "https://www.linkedin.com/company/2181170/admin/",
+      "url": "https://www.linkedin.com/company/2181170/admin/"
+    }
+  ],
+  "text": "Respiratory and NIV in MND\n\n- About\n\n- Contact\n\n- Language and accessibility\n\n- Information\n\n- MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.\n\n- View all\n\n- Back\n\n- About MND\n\n- Find services and support\n\n- Living with MND\n\n- Carers, family and friends\n\n- For health professionals\n\n- Information resources\n\nView all\n\n- Research\n\n- MND Australia's research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.\n\n- Our research grants program\n\n- Clinical trials in Australia\n\n- Support MND research\n\n- MiNDAUS Registry\n\n- Research statistics\n\n- MND Research Collective\n\n- Advocacy\n\n- On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.\n\n- Our advocacy priorities\n\n- Advocate for change\n\n- Government submissions\n\n- Parliamentary Friends of MND\n\n- Every Moment Matters\n\n- Get Involved\n\n- Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.\n\n- The National MND Lived Experience Network\n\n- National MND Conference 2026\n\n- MND Community Survey 2025\n\n- Support MND Australia\n\n- News & Stories\n\n- News, stories & media\n\n- Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.\n\n- News\n\n- Stories\n\n- Research news\n\n- Media releases\n\nLanguage and accessibility Get Support\n\nBack\n\nGet support\n\nCall the number below to get directly connected to the local MND association in your State\n\n1800 777 175\n\n9am to 4:30pm Monday to Friday\n\n## Australian Capital Territory\n\n(MND services in the ACT are provided by MND NSW )\n\nBuilding 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111\n\nPost: Locked Bag 5005,Gladesville NSW 1675\n\nT: 1800 777 175\n\nVisit website Send a message\n\n## South Australia\n\n66 Hughes Street, Mile End SA 5031\n\nPost: PO Box 2087 Hilton Plaza SA 5033\n\n## New South Wales\n\nBuilding 4, Gladesville Hospital,Victoria Road, Gladesville NSW 2111\n\n## Tasmania\n\n( MND services in Tasmania are provided by MND Victoria )\n\n265 Canterbury Rd, Canterbury Vic 3126\n\nPost: PO Box 23, Canterbury 3126\n\n## Northern Territory\n\n( MND services in the NT are provided by MND NSW )\n\nPost: Locked Bag 5005, Gladesville NSW 1675\n\n## Victoria\n\n## Queensland\n\n1/89 Factory Road, Oxley QLD 4075\n\nPost: PO Box 470, Inala QLD 4077\n\n## Western Australia\n\nUnit 1, 184 Raleigh Street, Carlisle WA 6101\n\nPost: as above\n\nSearch\n\nGet Support Donate\n\n- Information & Support\n\n- Managing symptoms in MND\n\n- Respiratory and NIV in MND\n\n# Respiratory management & NIV\n\nManaging symptoms\n\n- Cognitive change in MND\n\n- Dysarthria and communication in MND\n\n- Dysphagia and nutrition in MND\n\n- Fatigue and insomnia in MND\n\n- Muscle weakness and pain in MND\n\n- Saliva management in MND\n\nPDF/Print this page\n\nLast updated: June 2021\n\nThis information is for health professionals and service providers.\n\nWeakness of the respiratory muscles can develop at any stage of disease progression and may cause dyspnoea (shortness of breath), fatigue, impaired quality of life and somnolence.\n\nDyspnoea is a common symptom of MND. Usually respiratory muscle weakness occurs late in the disease and contributes to the most likely cause of death, respiratory failure.\n\nHowever, problems with breathing can occur at any stage and is sometimes a presenting symptom. It is important to note that respiratory muscle weakness can affect how other symptoms of MND, such as difficulties with swallowing, are managed.\n\n## Clinical features\n\nEarly in the course of the disease nocturnal hypoventilation may not be manifest by obvious dyspnoea or shortness of breath but more by headaches or general tiredness.\n\nLater, more marked shortness of breath may appear but this tends to be at the time when the person living with MND has severe generalised weakness which may affect the throat and limb muscles - the symptoms at that time may include:\n\n- breathlessness on exertion, sometimes just the exertion of speaking or eating\n\n- sleep disturbance, anxiety and panic\n\n- orthopnoea - breathless lying flat\n\n- quiet voice and fewer words per breath\n\n- weakened cough and sneeze\n\n- hypoventilation which may be worse during sleep\n\n- upper airway may also be partially obstructed due to bulbar and laryngeal muscle weakness\n\n- increasing blood C02 levels resulting in headaches, nausea and tiredness, especially on waking\n\n- hypoxia, especially if there is coexisting lung disease.\n\nType two respiratory failure is the most common cause of death in ALS and non-invasive ventilation was the first intervention shown to have a positive impact on both survival and quality of life. Symptoms of respiratory failure can develop insidiously and initially respiratory failure may only occur in REM sleep when diaphragmatic weakness causes hypoxia and hypercapnoea resulting in sleep disturbance. Later in the disease patients develop dyspnoea at rest, poor cough and respiratory tract infections. These problems are exacerbated by bulbar dysfunction. Early trials of drugs that may improve respiratory muscle contractile force and cough effectiveness are underway (Hobson and McDermott, 2016).\n\nRespiratory failure is associated with significant morbidity and is the usual cause of death in people with ALS/MND. For this reason, supporting and maintaining respiratory function is regarded as an essential component of care. A significant advance in the respiratory management of ALS/MND was the discovery of the beneficial effects of non-invasive ventilation (NIV), in which the patient uses a mask ventilator system overnight during sleep (Berlowitz et al, 2016).\n\nPatients with ALS commonly develop respiratory failure as a result of decreased diaphragmatic and intercostal muscle strength and impaired glottis function resulting in an ineffective cough. Dyspnea is an uncommon presenting symptom of chronic respiratory failure. Rather, patients usually present insidiously with symptoms related to nocturnal oxygen desaturations such as frequent night time arousals, morning headache, excessive daytime sleepiness, orthopnea and fatigue (Jackson et al, 2015).\n\n## Assessment\n\nIdeally, discussion regarding respiratory management and referral to a specialist respiratory physician should take place early in the disease course. Regular respiratory review and assessment, including sleep studies, are indicated in most persons living with MND as a key part of their multidisciplinary care.\n\nThese should be initiated at a relatively early stage with regular and timely follow up depending upon the level of abnormality detected.\n\nIn terms of the optimum method of respiratory function monitoring, sitting and lying forced vital capacities (FVC) are routinely performed, although sniff nasal inspiratory pressure measurement may be a more appropriate measure in those patients with severe bulbar weakness. In addition, the point at which to institute NIV remains a topic of debate, in particular whether this intervention has a role in patients who have asymptomatic respiratory muscle weakness, although in general very few patients will embrace NIV if it does not provide improvement of specific symptoms. Typically, NIV is considered when seated or supine FVC falls below 50%, but may also be considered in symptomatic patients, or patients with evidence of nocturnal hypoventilation (e.g. hypoxia noted on nocturnal pulse oximetry). Orthopnoea, as a marker of diaphragm weakness, and sleep fragmentation are the best general indicators of a good symptomatic response to NIV (Simon et al, 2015).\n\nSleep often initially unmasks respiratory muscle weakness, and particularly, rapid eye movement (REM) sleep. During REM sleep, there is hypotonia of the intercostal and accessory muscles and also depressed central respiratory drive. Thus, the diaphragm, weakened by partial denervation yet working alone, may not generate enough pressure to overcome the respiratory load, causing hypoventilation. Therefore, the patient must wake frequently from REM sleep to maintain adequate ventilation. Sleep-disordered breathing (SDB) is one of the earliest manifestations of respiratory insufficiency. Patients with SDB experience early morning headaches, unrefreshing sleep and daytime somnolence. A partner's or carer's history can help as they may be more aware than the patient of frequent arousals from sleep.\n\nOrthopnoea is another early symptom of diaphragmatic weakness: clinicians should ask about the number of pillows used in bed. Every patient with MND should be assessed for the symptoms of respiratory impairment (table 1). Postural discomfort, cough and excessive saliva may also disturb sleep in MND, and so, produce sleep-related symptoms. Poor bulbar function also disrupts sleep through hypotonia and collapse of the upper airway musculature, especially during REM sleep. It is important to establish the precise cause of disturbed sleep, to provide the correct treatment. Respiratory muscle weakness usually develops insidiously, but can occur suddenly, rarely being the presenting feature.\n\nIn patients presenting with sudden onset respiratory symptoms, it is important to remember the possibility of intercurrent events such as chest infection, pulmonary embolism and increasing obesity. Some patients have significant hypoventilation and hypercapnia without major symptoms. Moreover, the early symptoms of respiratory failure are often non-specific and may overlap with symptoms common in MND, such as fatigue and tiredness. Therefore, the clinical assessment should include one or more respiratory function tests (Rafiq et al, 2012).\n\n## Management\n\nDyspnoea is one of the most frightening symptoms of MND and there are a number of strategies that help to address this symptom and sensations of breathlessness. Early involvement of respiratory and palliative care specialists, as part of the multidisciplinary team, will be helpful in managing dyspnoea and supporting the person with MND and their family.\n\nEarly referral and involvement of an occupational therapist and physiotherapist and regular review is important to support the person with MND and their family to maintain comfort, access relevant assistive technology and manage symptoms as they arise.\n\nManagement strategies include:\n\n- early discussion and consultation regarding respiratory support and interventions available including NIV\n\n- early referral and involvement of a palliative care physician/team\n\n- relieve anxiety and sensation of breathlessness\n\n- reassurance\n\n- improve airflow\n\n- meditation and/or\n\n- medications\n\n- correct positioning in chair and bed\n\n- recliner chairs and beds with adjustable back and leg supports may be helpful\n\n- a semi-recumbent position may be most comfortable - this position allows the intercostal muscles and the diaphragm to work to greatest advantage\n\n- controlled breathing exercises and assisted cough techniques\n\n- the physiotherapist may be able to reduce anxiety by teaching breath stacking and/or manual assisted cough techniques\n\n- for people with bulbar dysfunction, or whose cough is ineffective with unassisted breath stacking, consider assisted breath stacking (for example, using a lung volume recruitment bag)\n\n- a mechanical cough assist device can be helpful if assisted breath stacking is not effective, and/or during a respiratory tract infection\n\n- secretion control\n\n- retained secretions in the mouth and pharynx accompanied with weakened cough further compromise the airway and add to the person‘s discomfort and panic\n\n- suction machine may be of benefit\n\n- Atrovent via a nebuliser may be helpful in the early stages of difficulty with airway secretions\n\nEarly referral to a respiratory physician is important. As patients develop respiratory failure, non-invasive ventilation, including bi-level positive airway pressure (BiPAP), may be used to assist weakened respiratory muscles, thereby improving sleep duration, quality and efficiency, and energy levels. Early onset of respiratory failure is indicative of a poor prognosis. Non-pharmacological measures to minimise dyspnoea involve upright positioning and careful planning of the day (ie spacing out activities that trigger dyspnoea, such as toileting and showering). Pharmacological management includes the use of low-dose benzodiazepines and low-dose morphine (Lau et al 2018).\n\nRespiratory muscle weakness and respiratory failure produce a substantial burden of symptoms in MND, and are ultimately the cause of death in most patients. Measurement of respiratory muscle function is recommended at each clinic visit to document respiratory function. Identifying the onset and progression of respiratory muscle weakness has important prognostic implications and enables early intervention with NIV, such as bi-level positive airway pressure (Bi-PAP) (Simon et al 2015).\n\n## Non-invasive ventilation (NIV)\n\nEvidence supports the use of non-invasive ventilation (NIV) to improve quality of life and meaningfully prolong life. NIV will also help to address and relieve the symptoms of CO2 retention, poor sleep and dyspnoea.\n\nSymptom control using NIV is often sustained for many months or years. A respiratory physician will need to assess the person in order to prescribe the appropriate settings for NIV. NIV is delivered via a mask usually at night initially and then as required during the day as MND progresses. People living with MND are usually prescribed variable positive airway pressure (VPAP) or bi-level positive airway pressure (BIPAP) machines due to the lower level of pressure applied when exhaling. These machines can be adjusted to provide increased respiratory support if needed.\n\nThe person living with MND, together with their family, should be guided through a decision-making process related to management of respiratory symptoms and their future care. Detailed discussions should be held with regard to options early in the progression of the disease, considering quality of life, cost, support issues and the timing and process of withdrawal of NIV.\n\nNIV use in ALS is recommended in clinical guidelines globally, but only recently has literature emerged that highlights the importance of the quality of NIV care and the need for ongoing alignment of care with symptom relief and clinical needs (Berlowitz and Sheers 2021).\n\nWhile the importance of individualizing care was highlighted, factors optimizing use for all patients include: specialized multi-disciplinary team service provision; determining need using respiratory function tests in addition to symptom report; providing adequate information for patients and their family; paying attention to the role of carers in decision-making; adequately managing secretions; considering the most advantageous place of initiation; optimizing the interface, machine mode, and settings for patient comfort and effectiveness; providing supportive interventions where appropriate; regular monitoring and adjustment of settings; and providing opportunities for ongoing discussion of patient wishes (Baxter et al 2019).\n\nNon‐invasive ventilation (NIV) probably improves median survival and quality of life in people with respiratory insufficiency and normal to moderately impaired bulbar function compared to standard care, and improves quality of life but not survival for people with poor bulbar function (1 RCT, N = 41, moderate‐quality evidence; a second RCT did not provide data). The review did not evaluate other approaches such as tracheostomy‐assisted ('invasive') ventilation, or assess timing of NIV initiation (Ng et al 2017).\n\nThese data suggest that NIV has an important role in improving survival in MND/ALS. The magnitude of benefit is large at 13 months overall, compared with the 2-3 months attributable to riluzole. Access to NIV services is not universal, however, given the substantial clinical benefits observed in ALS/MND determining the cost/benefit of increased access to NIV services should be a priority. The observed benefit was largest in those with ALS-bulbar disease and while this may be partly attributable to earlier NIV initiation, the observed survival increase suggests NIV has a role in bulbar onset disease. We observed an overall reduction in pulmonary function decline, albeit variably distributed across phenotypes. Future research should explore the optimal timing and methods for initiating NIV within different phenotypes in order to optimise respiratory function, quality of life and survival (Berlowitz et al 2016).\n\nAppropriate NIV provides benefits both in terms of prolonging survival and improving quality of life. Of relevance, NIV does not significantly increase caregiver burden or stress, making it a valid option in most situations. In some instances, Bi-PAP may not be readily tolerated, but efforts to overcome patient discomfort should be attempted, for example by optimising the type of mask and fittings, providing humidified air, and altering pressure settings (Simon et al 2015).\n\n## Additional management strategies\n\n#### Medications\n\nMedications to manage dyspnoea (shortness of breath) and anxiety include opiates and benzodiazepines.\n\nDyspnea, despite liberal use of NIV, can be treated with morphine starting at 2.5–5 mg every 4 hours and increased in dose and frequency as needed. Anxiety and restlessness can be treated with lorazepam 0.5–2 mg every 4 hours as needed. Opiates and anxiolytics doses should be increased if they are not providing satisfactory control (Jackson et al 2015).\n\n#### Airway secretions\n\nRetained secretions in the mouth and pharynx, accompanied with weakened cough, further compromise the airway and can add to feelings of discomfort and panic. For strategies and medications to manage secretions see also Dysphagia & nutrition and Saliva management pages.\n\nMechanical insufflator-exsufflator devices (e.g. CoughAssist) may help provide relief from unpleasant symptoms related to difficulty clearing upper airways secretions in patients with a weak cough (Simon et al 2015).\n\nMechanical insufflation/exsufflation may be considered to clear secretions, particularly during an acute chest infection (Level C) (Jackson et al, 2015).\n\n#### Oxygen\n\nThere is no evidence that oxygen therapy could be advantageous to people with neuromuscular disease.\n\nRespiratory muscle weakness occurs eventually in everyone with MND. Oxygen should be used with caution in the presence of respiratory muscle weakness because this weakness leads to the retention of carbon dioxide (hypercapnia) not hypoxia (inadequate levels of oxygen in the body). In this situation oxygen therapy can lead to further respiratory depression and hypercapnia leading to coma and death, therefore, non-invasive ventilation may be the most appropriate treatment.\n\nIncreasing airflow in the form of a fan or open windows may provide relief.\n\nOxygen may sometimes be used, with caution and appropriate monitoring, to relieve the symptoms and sensation of breathlessness as a palliative measure. Oxygen can be used with NIV.\n\nAirflow appears to offer meaningful relief of chronic breathlessness and should be considered as an adjunct treatment in the management of breathlessness (Swan et al 2019).\n\nAcute respiratory failure in ALS patients is usually precipitated by an acute infection or pulmonary embolism and is seldom due to muscle weakness alone. For dyspneic or obtunded patients, emergency evaluation for endotracheal intubation may be necessary. If hypoxia alone is present and the patient is alert, oxygen at low-flow rates (< 1 L/min) may correct hypoxia although such therapy must be administered with caution, since patients with neuromuscular disease are often hypercapneic, and oxygen often depresses ventilatory drive and exacerbates hypoventilation. NIV is usually tried initially if control of secretions and cough assistance is successful. Whether intubation or NIV is utilized, patients sometimes can be weaned following the precipitating respiratory crisis; others may require ventilation assistance indefinitely. Pulmonary consultation is always indicated in these patients (Jackson et al, 2015).\n\n## Implications to consider for mechanical ventilation\n\nLife support via continuous ventilation with a tracheostomy (invasive mechanical ventilation) is not commonly used in Australia for a person with motor neurone disease as their respiratory function will not recover and their disease will continue to progress. Some people, however, may wish to consider and be informed about invasive ventilation, particularly if their goal is long term survival rather than delay of dying.\n\nThere are a number of implications to consider when discussing NIV and tracheostomy with patients including:\n\n- quality of life issues\n\n- impact of other symptoms such as cognitive impairment and drooling\n\n- cost of and access to assisted ventilation\n\n- increased dependency on family and carers\n\n- increased need for support – is appropriate professional support available and affordable to support invasive mechanical ventilation at home?\n\n- the impact on the carer should be included in discussions and decision making\n\n- power of attorney/guardianship, financial affairs, medical treatment/advance medical directives, and\n\n- withdrawal and end of life care.\n\nWhen a patient with motor neuron disease (MND) is very dependent on mechanical ventilation, its withdrawal may lead to rapid onset of distressing breathlessness. The degree and acuity of breathlessness and distress are, to some extent, predictable and are related to the level of residual respiratory muscle function. Effective management of the expected symptoms of distress and breathlessness that arise in the withdrawal of mechanical ventilation is a professional responsibility, and is similar to the anticipatory and ongoing symptom management required for painful procedures and operations. Since some patients will not be able to tolerate even a few minutes without mechanical ventilation while others will be able to tolerate it for several hours, an individualised plan of symptom management is required. However, there is evidence that withdrawal of mechanical ventilation in MND can be challenging for everyone involved.\n\nIndividualised, proportionate, titrated opioid and sedative medications were used to provide good symptom management, and provided new insight into the substantial variability in what patients require to manage their symptoms and how long the process takes. Most patients required lower doses than in previous literature (Faull and Wenzel 2020).\n\nWith progression of respiratory muscle weakness, it is common for individuals to begin to use NIV during the day for symptom relief.At the end of life, some patients die peacefully with NIV in-situ whilst others simply stop using it without experiencing significant difficulties. In a proportion of patients the decision to no longer continue using NIV is more complex. Patients may require the assistance of others, for example, to remove the mask, and may require treatment to prevent distressing symptoms. This can cause anxiety on legal and ethical grounds which may interfere with the delivery of the best end of life care. The law in many countries recognises that a patient with capacity can opt to refuse or withdraw from medical treatment even if it will result in death.\n\nGuidelines have been drawn up to advise those considering ventilation withdrawal. It is recommended that patients, family and clinicians openly discuss their thoughts about ventilation and the circumstances at the end-of-life. These discussions should begin before ventilation commences and continue throughout the illness and may be triggered by situations such as when patients begin to use ventilation in the day to relieve dyspnoea or if topics such as advanced decision-making or euthanasia are raised. If a patient expresses a wish to withdraw from ventilation the patient’s capacity must be assessed and it must be established that the decision is the settled position of the individual.\n\nConscious sedation (i.e drowsy but awake) using opiates and benzodiazepines should be achieved prior to ventilation withdrawal to avoid distressing symptoms. Deep unconscious sedation may be needed to tolerate withdrawal in those who become breathless quickly after mask removal. Although patients may die quickly, preparations must be made to support patients where the process may take longer” (Hobson and McDermott 2016).\n\nBesides Bi-PAP, other respiratory support devices may improve overall respiratory function, including cough augmentation. ‘Sip-and-puff’ ventilation may be useful to augment respiration during the day and does not require tracheostomy. The decision to perform tracheostomy and institute invasive ventilation is complex, and depends on patient, clinician and resource factors. It is noted that the rates of long-term tracheal ventilation vary according to countries, and that very few patients pursue this therapy in Australia and UK because of the apparent clinical futility of the approach (Simon et al 2015).\n\n## Respiratory management guidelines\n\nShoesmith et al 2021 , Canadian best practice recommendations for the management of amyotrophic lateral sclerosis :\n\nSee respiratory decision tree - figure 1 and respiratory management recommendations - table 1\n\nNational Institute for Health and Clinical Excellence (2016) NICE Guideline: Motor Neurone Disease Assessment and Management – see recommendations:\n\n1.12 Respiratory function and respiratory symptoms\n\n1.13 Cough effectiveness\n\n1.14 Non – invasive ventilation: Information and support about non-invasive ventilation, Identification and assessment of respiratory impairment, Non-invasive ventilation for treatment of respiratory impairment in people with MND, Stopping non-invasive ventilation\n\nSee also NICE interactive pathways: Assessing and managing respiratory function in motor neurone disease pathway\n\nNon-invasive ventilation in motor neurone disease\n\n​​​​\n\nAndersen et al 2012 , EFNS guidelines on the Clinical Management of Amyotrophic Lateral Sclerosis (MALS) – revised report of an EFNS task force , Respiratory management in patients with ALS recomendations:\n\n- Symptoms or signs of respiratory insufficiency (including symptoms of nocturnal hypoventilation) should be checked at each visit (GCPP).\n\n- Forced vital capacity and vital capacity are the most available and practical tests for the regular monitoring of respiratory function (GCPP).\n\n- SNP may be used for monitoring, particularly in bulbar patients with weak lips (GCPP).\n\n- Percutaneous nocturnal oximetry is recommended as a screening test and for monitoring respiratory function (GCPP).\n\n- Symptoms or signs of respiratory insufficiency should prompt discussions with the patient and caregivers about treatment options and the terminal phase. Early discussions are needed to allow advance planning and directives (GCPP).\n\n- NIPPV should be considered in preference to IMV in patients with symptoms or signs of respiratory insufficiency (GCPP).\n\n- NIPPV can prolong survival for many months (level A) and may improve the patient’s quality of life (level C).\n\n- Active management of secretions and provision of cough-assist devices can increase the effectiveness of assisted ventilation in ALS (GCPP).\n\n- IMV has a major impact upon caregivers and should be initiated only after informed discussion (GCPP).\n\n- Unplanned (emergency) IMV should be avoided through an early discussion of end-of-life issues, co-ordination with palliative care teams and appropriate advance directives (GCPP).\n\n- Oxygen therapy alone should be avoided as it may exacerbate carbon dioxide retention and oral dryness. Use oxygen only if symptomatic hypoxia is present (GCPP).\n\n- The medical treatment of intermittent dyspnoea should involve:\n\n- for short dyspnoeic bouts: relieve anxiety and give lorazepam 0.5–2.5 mg sublingually;\n\n- for longer phases of dyspnoea (>30 min): give morphine 2.5 mg orally or s.c. (GCPP)\n\n- For the medical treatment of chronic dyspnoea, start with morphine 2.5 mg orally four to six times daily. For severe dyspnoea, give morphine s.c. or as an i.v. infusion. Start with 0.5 mg/h and titrate. If needed, add midazolam (2.5–5 mg) or diazepam for nocturnal symptom control and to relieve anxiety (GCPP)\n\nMiller et al 2009, Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review) : report of the Quality Standards Subcommittee of the American Academy of Neurology.\n\nRecommendations: NIV should be considered to treat respiratory insufficiency in order to lengthen survival (Level B), and may be considered to slow the decline of forced vital capacity (Level C) and improve quality of life (Level C). Early initiation of NIV may increase compliance (Level C), and insufflation/exsufflation may be considered to help clear secretions (Level C).\n\nSee also:\n\nRespiratory management algorithm\n\nSummary of Evidence Based Guideline for Clinicians\n\nRafiq et al, 2012, Respiratory management of motor neurone disease: a review of current practice and new developments - Practice points:\n\n- Domiciliary NIV therapy has been an important advance for patients with MND.\n\n- Cough strength may be impaired in MND; a suitable cough augmentation technique can help such patients.\n\n- Clinicians should pay careful attention to nutritional support in patients with MND.\n\n- Pharmacological management of symptoms may include anticholinergics for excess saliva and mucolytics, for example, carbocisteine, to reduce secretion viscosity.\n\n- Tracheostomy ventilation is an option for patients who wish to live but who cannot use NIV.\n\n- Palliative care needs, end-of-life issues and stopping respiratory support should be discussed regularly with the patient and the family\n\n## You may also be interested in ...\n\nMND Aware e-training program MND Hub – online training course for health professionals and service providers developed by MND NSW – Session 10: Symptom Management – Breathing\n\nCentre of Palliative Care, Hot Topics in Palliative Care Webinar Series 2021, Management of NIV in MND and elective withdrawal of ventilation, Assoc/Professor Mark Howard, Dr Susan Mathers, Dr Rowan Hearn.\n\nThe Southern Metropolitan Region Palliative Care Consortium (SMRPCC), Robyn Reid, MND Shared Care Worker- MND podcasts - Respiration and non-invasive ventilation\n\nInternational Alliance of ALS/MND Association, 18th Allied Professionals Forum 2020:\n\n- A service development project to establish a joint Respiratory/MND Clinic, Jane Leicester & David Derry\n\nInternational Alliance of ALS/MND Association, 17th Allied Professionals Forum 2019:\n\n- Ambulatory Care Model Using Volume Assured pressure Support Ventilation, Wai Kuen Chow\n\nInternational Alliance of ALS/MND Association, 16th Allied Professionals Forum 2018:\n\n- Breath Stacking Interim Results and Learning Strategies , Dianne Fraser\n\n- Challenges of assessment and management of cough augmentation in ALS/MND, Charlotte Masey\n\n- Multidisciplinary assessment and management of cough for airway clearance, Jodi Allen\n\n- Training in Non-invasive Ventilation: Incorporating discussions from diagnosis to End of Life Care, Jane Martin\n\nInternational Alliance of ALS/MND Association, 15th Annual Allied Professionals Forum, 2017:\n\n- Advancing Respiratory Care in the ALS/MND Clinic, Denise Martins\n\nDr David Oliver, 2010, Withdrawal of NIV - How can we help all involved?\n\n## Information for people living with MND\n\n#### Resources to download\n\nMore About MND: A guide for people living with MND, their family and friends\n\n#### Fact sheets\n\nBreathing and motor neurone disease: an introduction\n\nBreathing and motor neurone disease: what you can do\n\nBreathing and motor neurone disease: medications and non-invasive ventilation\n\n#### Useful web pages\n\nBreathing and MND\n\nEquipment, assitive technology and home modifications\n\nEating, drinking and swallowing\n\nTalking about end of life and planning ahead\n\n#### Other resources:\n\nMND Decision Assist Tool, Should I have assisted ventilation to help breathing difficulty in MND?\n\nMND NSW, Living well with MND 2019:\n\n- Breathing and MND, Dr Collette Menadue\n\nMND Australia, 4th MND Connect 2018:\n\n- Breathing life into MND, Professor David Berlowitz.\n\nHealth Talk - healthtalk.org - stories collected by academic researchers who interview people in their own homes, using their own words:\n\nTube Feeding and Ventilation\n\nEating, swallowing and breathing with MND\n\n## Keep in touch\n\nGet the latest news about MND research,\n\ncare & advocacy right in your inbox.\n\nInformation for\n\n- People living with MND\n\n- Family members and carers\n\n- Health professionals\n\n- Supporting MND Australia\n\nPopular links\n\n- What is MND?\n\n- Types of MND\n\n- MND research\n\n- MND Lived Experience Network\n\n- Contact Us\n\n- Privacy Policy\n\n- Whistleblower policy\n\n- Terms & conditions\n\n- Site map\n\n©MND Australia 2025\n\nMND Australia would like to advise Aboriginal and Torres Strait Islander users that this website may contain images or names of deceased persons.\n\nLink copied to clipboard\n\n\n\n## Links found on page\n\n- About: https://www.mndaustralia.org.au/about-us\n\n- Contact: https://www.mndaustralia.org.au/contact-us\n\n- https://www.mndaustralia.org.au/: https://www.mndaustralia.org.au/\n\n- Information: https://www.mndaustralia.org.au/mnd-connect\n\n- About MND: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd\n\n- Find services and support: https://www.mndaustralia.org.au/mnd-connect/find-services\n\n- Living with MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd\n\n- Carers, family and friends: https://www.mndaustralia.org.au/mnd-connect/support-for-carers-family-friends\n\n- For health professionals: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers\n\n- Information resources: https://www.mndaustralia.org.au/mnd-connect/information-resources\n\n- Language and accessibility: https://www.mndaustralia.org.au/accessibility\n\n- Research: https://www.mndaustralia.org.au/research\n\n- Our research grants program: https://www.mndaustralia.org.au/research/our-research\n\n- Clinical trials in Australia: https://www.mndaustralia.org.au/research/clinical-trials\n\n- Support MND research: https://www.mndaustralia.org.au/research/support-mnd-research\n\n- MiNDAUS Registry: https://www.mndaustralia.org.au/research/mnd-registry\n\n- Research statistics: https://www.mndaustralia.org.au/research/mnd-research-statistics\n\n- MND Research Collective: https://www.mndaustralia.org.au/research/mnd-collective\n\n- Advocacy: https://www.mndaustralia.org.au/advocacy\n\n- Our advocacy priorities: https://www.mndaustralia.org.au/advocacy/our-priorities\n\n- Advocate for change: https://www.mndaustralia.org.au/get-involved/advocatingforchange\n\n- Government submissions: https://www.mndaustralia.org.au/advocacy/government-submissions-hearings\n\n- Parliamentary Friends of MND: https://www.mndaustralia.org.au/advocacy/parliamentary-friends-of-mnd\n\n- Every Moment Matters: https://www.mndaustralia.org.au/advocacy/every-moment-matters\n\n- Get Involved: https://www.mndaustralia.org.au/get-involved\n\n- The National MND Lived Experience Network: https://www.mndaustralia.org.au/get-involved/national-mnd-lived-experience-network\n\n- National MND Conference 2026: https://www.mndaustralia.org.au/get-involved/care-and-research-conference-2026\n\n- MND Community Survey 2025: https://www.mndaustralia.org.au/get-involved/community-survey-2025\n\n- Support MND Australia: https://www.mndaustralia.org.au/get-involved/make-a-donation\n\n- News & Stories: https://www.mndaustralia.org.au/articles\n\n- News: https://www.mndaustralia.org.au/articles/news\n\n- Stories: https://www.mndaustralia.org.au/articles/stories\n\n- Research news: https://www.mndaustralia.org.au/articles/research-news\n\n- Media releases: https://www.mndaustralia.org.au/articles/media-releases\n\n- Visit website: https://www.mndnsw.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#3950575f565550575c7954575d574a4e17564b5e17584c\n\n- Visit website: https://www.mndsa.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#f499959d98809bce9590999d9ab4999a908795da9b8693da9581\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#50393e363f3c393e35103d3e343e23277e3f22377e3125\n\n- Visit website: https://www.mndatas.asn.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#aec7c0c8c1eec3c0cacfdacfdd80cfddc080cfdb\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#98f1f6fef7f4f1f6fdd8f5f6fcf6ebefb6f7eaffb6f9ed\n\n- Visit website: https://www.mnd.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#e881868e87a885868cc6879a8fc6899d\n\n- Visit website: https://www.mndqld.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d8b1b6beb798b5b6bcb9a9f6b7aabff6b9ad\n\n- Visit website: https://www.mndawa.asn.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#fc9d98919592bc9192989d8b9dd29d8f92d29d89\n\n- Donate: https://donate.mndaustralia.org.au/\n\n- Managing symptoms in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms\n\n- Cognitive change in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/cognition-behaviour-in-mnd\n\n- Dysarthria and communication in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/communication-in-mnd\n\n- Dysphagia and nutrition in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management\n\n- Fatigue and insomnia in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/fatigue-and-insomnia\n\n- Muscle weakness and pain in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/movement-joints\n\n- Respiratory and NIV in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd\n\n- Saliva management in MND: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/saliva-management-in-mnd\n\n- Canadian best practice recommendations for the management of amyotrophic lateral sclerosis: https://www.cmaj.ca/content/192/46/E1453\n\n- respiratory decision tree - figure 1: https://www.cmaj.ca/content/192/46/E1453/tab-figures-data\n\n- Respiratory function and respiratory symptoms: https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#respiratory-function-and-respiratory-symptoms\n\n- Cough effectiveness: https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#cough-effectiveness\n\n- Non – invasive ventilation:: https://www.nice.org.uk/guidance/NG42/chapter/Recommendations#non-invasive-ventilation\n\n- Assessing and managing respiratory function in motor neurone disease pathway Non-invasive ventilation in motor neurone disease: https://pathways.nice.org.uk/pathways/motor-neurone-disease#path=view%3A/pathways/motor-neurone-disease/assessing-and-managing-respiratory-function-in-motor-neurone-disease.xml&content=view-index\n\n- EFNS guidelines on the Clinical Management of Amyotrophic Lateral Sclerosis (MALS) – revised report of an EFNS task force: https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2011.03501.x\n\n- ,: https://www.aan.com/Guidelines/home/GuidelineDetail/370\n\n- the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): https://n.neurology.org/content/73/15/1218\n\n- Respiratory management algorithm: https://n.neurology.org/content/73/15/1218/tab-figures-data\n\n- Session 10: Symptom Management – Breathing: https://edu.mndhub.org.au/lms/course/15931-MND-Aware\n\n- Management of NIV in MND and elective withdrawal of ventilation,: https://www.youtube.com/watch?v=lUFXrx4zzi0&t=353s\n\n- Respiration and non-invasive ventilation: https://www.podbean.com/media/share/pb-k8ydm-b327d1?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share\n\n- A service development project to establish a joint Respiratory/MND Clinic,: https://www.youtube.com/watch?app=desktop&v=7RbtQOWKVys&list=PLbiBIrPZvTbftxtD_0LuByKyYPi7G0zRF&index=18\n\n- Ambulatory Care Model Using Volume Assured pressure Support Ventilation,: https://www.youtube.com/watch?v=JI4nBAokpVc&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=1&t=10s\n\n- Breath Stacking Interim Results and Learning Strategies: https://www.youtube.com/watch?v=sNFijH17saQ&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=6&t=16s\n\n- Challenges of assessment and management of cough augmentation in ALS/MND,: https://www.youtube.com/watch?v=avAkZRlZpPE&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=7&t=40s\n\n- Multidisciplinary assessment and management of cough for airway clearance,: https://www.youtube.com/watch?v=6OlOwJAwMEs&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=8&t=56s\n\n- Training in Non-invasive Ventilation: Incorporating discussions from diagnosis to End of Life Care,: https://www.youtube.com/watch?v=zcIXCm0uu44&list=PLbiBIrPZvTbcGR6uoZ1WKYwOQknxaHF1s&index=9&t=4s\n\n- Advancing Respiratory Care in the ALS/MND Clinic,: https://www.youtube.com/watch?app=desktop&v=Jir0whwfHlY\n\n- Withdrawal of NIV - How can we help all involved?: https://www.alsmndalliance.org/wp-content/uploads/2010/12/012-Withdrawal-of-non-invasive-ventilation-D-Oliver.pdf\n\n- More About MND: A guide for people living with MND, their family and friends: https://www.mndaustralia.org.au/getmedia/f130edda-2594-43f7-823b-421760621e48/MoreAboutMND_MNDAustralia_2024.pdf\n\n- Breathing and motor neurone disease: an introduction: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-and-mnd-an-introduction\n\n- Breathing and motor neurone disease: what you can do: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-what-you-can-do\n\n- Breathing and motor neurone disease: medications and non-invasive ventilation: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-medications-and-non-invasive-ventilation\n\n- Breathing and MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/breathing-and-mnd\n\n- Equipment, assitive technology and home modifications: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/equipment,-assistive-technology-home-modifications\n\n- Eating, drinking and swallowing: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/eating,-drinking-swallowing\n\n- Talking about end of life and planning ahead: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/talking-about-end-of-life-and-planning-ahead\n\n- Should I have assisted ventilation to help breathing difficulty in MND?: https://mnddecisiontools.com/public/3/decision_tool\n\n- Breathing and MND,: https://www.youtube.com/watch?app=desktop&v=UwYb1P6H4aE\n\n- Breathing life into MND,: https://www.youtube.com/watch?app=desktop&v=wFQoXETkkFw&list=PLpLXU2QzUiV6eQFsSYxFX48lX7chUBNpx&index=6\n\n- Tube Feeding and Ventilation: https://healthtalk.org/motor-neurone-disease-mnd/tube-feeding-pegs-rigs-pigs-and-ventilation\n\n- Eating, swallowing and breathing with MND: https://healthtalk.org/motor-neurone-disease-mnd/eating-swallowing-and-breathing-with-mnd\n\n- What is MND?: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd\n\n- Types of MND: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/types-of-mnd\n\n- Privacy Policy: https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf\n\n- Whistleblower policy: https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf\n\n- Terms & conditions: https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU\n\n- Site map: https://www.mndaustralia.org.au/sitemap\n\n- https://www.facebook.com/mndaustralia: https://www.facebook.com/mndaustralia\n\n- https://www.instagram.com/mnd_australia/?hl=en: https://www.instagram.com/mnd_australia/?hl=en\n\n- https://www.youtube.com/user/MNDAust: https://www.youtube.com/user/MNDAust\n\n- https://www.linkedin.com/company/2181170/admin/: https://www.linkedin.com/company/2181170/admin/"
+}
