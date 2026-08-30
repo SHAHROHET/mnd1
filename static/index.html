@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Australian MND/ALS Assistant - Powered by DeepSeek & Local RAG</title>
+    <title>Australian MND/ALS Care Assistant</title>
     <meta name="description" content="AI-powered care assistant for Australians living with Motor Neurone Disease (MND/ALS). Get personalised equipment pathways, NDIS funding guidance, and state-specific support from 12,000+ verified medical knowledge sources.">
     <meta name="keywords" content="MND, ALS, Motor Neurone Disease, NDIS, Australia, equipment, FlexEquip, SWEP, MASS, care plan, assistive technology">
     <meta name="author" content="Australian MND Care AI Project">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="Australian MND/ALS Support Assistant">
+    <meta property="og:title" content="Australian MND/ALS Care Assistant">
     <meta property="og:description" content="AI care assistant for MND patients, carers, and clinical teams across Australia. Powered by 12,000+ verified knowledge sources.">
     <meta property="og:type" content="website">
     
@@ -48,27 +48,10 @@
             </div>
 
             <div class="sidebar-content">
-                <div class="stat-card">
-                    <div class="stat-icon"><i class="fa-solid fa-database"></i></div>
-                    <div class="stat-info">
-                        <span class="stat-val" id="statChunks">12,152</span>
-                        <span class="stat-lbl">Processed Chunks</span>
-                    </div>
-                </div>
-
-                <div class="stat-card">
-                    <div class="stat-icon"><i class="fa-solid fa-layer-group"></i></div>
-                    <div class="stat-info">
-                        <span class="stat-val" id="statEntities">183</span>
-                        <span class="stat-lbl">Structured Entities</span>
-                    </div>
-                </div>
-
-                <div class="stat-card">
-                    <div class="stat-icon"><i class="fa-solid fa-globe"></i></div>
-                    <div class="stat-info">
-                        <span class="stat-val">892</span>
-                        <span class="stat-lbl">Verified Australian Sources</span>
+                <div class="sidebar-section">
+                    <h3><i class="fa-solid fa-clock-rotate-left"></i> Previous Chats</h3>
+                    <div class="conversations-list" id="conversationsList">
+                        <div class="no-chats-msg">No saved conversations yet.</div>
                     </div>
                 </div>
 
@@ -101,8 +84,8 @@
             </div>
 
             <div class="sidebar-footer">
-                <div class="deepseek-badge">
-                    <i class="fa-solid fa-brain"></i> Powered by <strong>DeepSeek API</strong>
+                <div class="mnd-badge">
+                    <i class="fa-solid fa-heart-pulse"></i> <strong>MND Care & Support</strong>
                 </div>
             </div>
         </aside>
@@ -115,9 +98,9 @@
                 <div class="nav-left">
                     <button class="icon-btn sidebar-toggle" id="toggleSidebar"><i class="fa-solid fa-bars"></i></button>
                     <div class="nav-title">
-                        <h1>Australian MND/ALS Support Assistant</h1>
+                        <h1>MND Care Assistant</h1>
                         <span class="badge badge-pulse" id="apiStatusBadge">
-                            <i class="fa-solid fa-circle"></i> Local RAG Mode
+                            <i class="fa-solid fa-circle"></i> Local Guide Active
                         </span>
                     </div>
                 </div>

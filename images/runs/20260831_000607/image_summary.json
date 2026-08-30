@@ -1,0 +1,49 @@
+{
+  "retrieved_at": "2026-08-31",
+  "run_id": "20260831_000607",
+  "images_written": 259,
+  "failures": [
+    "https://www.mndaustralia.org.au/getattachment/0b2d2e66-a33a-480d-a9a6-36659eef50d2/MND-Care-approach.jpg: HTTP Error 404: Not Found",
+    "https://www.mndaustralia.org.au/getattachment/8cc3815f-57a8-47ee-b04d-afef5c10338e/MD-care.png: HTTP Error 404: Not Found",
+    "https://www.speechpathologyaustralia.org.au/images/CommunicationHub/About-communication/Diverse%20group%20of%20teenage%20boys.jpeg: HTTP Error 404: Not Found"
+  ],
+  "skipped": [
+    "https://mndwamndwa.blob.core.windows.net/assets/contentpage_htmlcontent/OT-2.png (too small: 3384 bytes)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc3a831c00_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/products/resized/Daisy%20WC%20mount%201%20edited%20Copy%20Copy%20Copy%20Copy-cr-600x600.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/products/resized/EQ6302%20Rehadapt%20FS%20Telelock%20floor%20mount%20pic-cr-600x600.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc437de5c4_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc3e314ed4_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc41b43468_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/cushion-combo4-cr-500x500.png (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc44c0ccb1_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/categories/resized/image_65adc36a6f0ec_One%20Off%20Specialised%20Equip%20Photo-cr-500x500.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/products/resized/EQ7361%20EQ7362%20Permobil%20tray%20edited%20Copy-cr-600x600.jpg (duplicate image content)",
+    "https://flexequip.com.au/images/com_eshop/products/resized/EQ6457%20spex%20cushion%2040cm%20x%2046cm%20pic%201%20edited%20Copy-cr-600x600.jpg (duplicate image content)",
+    "https://www.dementia.org.au/_next/image?url=https://cms.dementia.org.au/sites/default/files/styles/card/public/2024-02/LIQ4%20-%20Support%20for%20Carers.png?h=2c365730&itok=ZUaQO65p&w=1920&q=75 (duplicate image content)",
+    "https://www.carergateway.gov.au/akam/13/pixel_3fad9212?a=dD02YTVjYzgyNTQ3ZDAwYWE0YzMwNDQ0OTc5NThmNDNmOWQzYzBiYmM0JmpzPW9mZg== (too small: 0 bytes)",
+    "https://www.myagedcare.gov.au/_next/image?url=http://nginx:8080/sites/default/files/styles/mac_image_content_block_fw_3_2/public/2025-09/older-men-having-cup-tea-outdoors.jpg?h=06ac0d8c&itok=P-DPEGMs&w=32&q=75 (too small: 440 bytes)",
+    "https://www.myagedcare.gov.au/_next/image?url=http://nginx:8080/sites/default/files/styles/mac_image_content_block_fw_3_2/public/2025-09/older-men-having-cup-tea-outdoors.jpg?h=06ac0d8c&itok=P-DPEGMs&w=48&q=75 (too small: 772 bytes)",
+    "https://www.myagedcare.gov.au/_next/image?url=http://nginx:8080/sites/default/files/styles/mac_image_content_block_fw_3_2/public/2025-09/older-men-having-cup-tea-outdoors.jpg?h=06ac0d8c&itok=P-DPEGMs&w=64&q=75 (too small: 1150 bytes)",
+    "https://www.myagedcare.gov.au/_next/image?url=http://nginx:8080/sites/default/files/styles/mac_image_content_block_fw_3_2/public/2025-09/older-men-having-cup-tea-outdoors.jpg?h=06ac0d8c&itok=P-DPEGMs&w=96&q=75 (too small: 2006 bytes)",
+    "https://www.myagedcare.gov.au/_next/image?url=http://nginx:8080/sites/default/files/styles/mac_image_content_block_fw_3_2/public/2025-09/older-men-having-cup-tea-outdoors.jpg?h=06ac0d8c&itok=P-DPEGMs&w=128&q=75 (too small: 2798 bytes)"
+  ],
+  "topic_counts": {
+    "01_mnd_basics": 0,
+    "02_australian_support_services": 37,
+    "03_ndis_funding_benefits": 2,
+    "04_equipment_assistive_technology": 180,
+    "05_food_nutrition": 2,
+    "06_sleep": 0,
+    "07_breathing_respiratory_care": 0,
+    "08_communication": 4,
+    "09_mobility_daily_living": 0,
+    "10_pain_cramps_spasticity": 0,
+    "11_mental_health_cognition": 2,
+    "12_carer_support": 19,
+    "13_palliative_care_advance_planning": 13
+  },
+  "output_root": "C:\\Users\\User1\\Downloads\\MND DATA\\images\\runs\\20260831_000607",
+  "aggregate_metadata": "C:\\Users\\User1\\Downloads\\MND DATA\\metadata\\images.jsonl"
+}

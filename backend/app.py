@@ -57,14 +57,55 @@ if os.path.exists(ENV_FILE):
 
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 
+IMAGE_MAP = {}
+
+def build_image_map():
+    global IMAGE_MAP
+    IMAGE_MAP = {}
+    assets_dir = os.path.join(BASE_DIR, "images", "assets")
+    if not os.path.exists(assets_dir):
+        print(f"Images assets directory not found at: {assets_dir}", flush=True)
+        return
+    for root, dirs, files in os.walk(assets_dir):
+        for file in files:
+            ext = os.path.splitext(file)[1].lower()
+            if ext in [".png", ".jpg", ".jpeg", ".webp", ".svg"]:
+                full_path = os.path.join(root, file)
+                rel_path = os.path.relpath(full_path, BASE_DIR).replace("\\", "/")
+                name_part = os.path.splitext(file)[0]
+                if "-" in name_part:
+                    parts = name_part.rsplit("-", 1)
+                    rightmost = parts[1].strip()
+                    if len(rightmost) >= 8 and len(rightmost) <= 12 and re.match(r'^[a-f0-9]+$', rightmost):
+                        name_part = parts[0].strip()
+                norm_name = re.sub(r'[^a-z0-9]', '', name_part.lower())
+                IMAGE_MAP[norm_name] = "/" + rel_path
+    print(f"Indexed {len(IMAGE_MAP)} product/care images.", flush=True)
+
+def find_image_for_query(query: str) -> str:
+    norm_query = re.sub(r'[^a-z0-9]', '', query.lower())
+    if not norm_query:
+        return ""
+    if norm_query in IMAGE_MAP:
+        return IMAGE_MAP[norm_query]
+    for key, path in IMAGE_MAP.items():
+        if key in norm_query or norm_query in key:
+            return path
+    return ""
+
 os.makedirs(STATIC_DIR, exist_ok=True)
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+
+IMAGES_DIR = os.path.join(BASE_DIR, "images")
+if os.path.exists(IMAGES_DIR):
+    app.mount("/images", StaticFiles(directory=IMAGES_DIR), name="images")
 
 indexer = MNDIndexer()
 
 @app.on_event("startup")
 def startup_event():
     indexer.load_index()
+    build_image_map()
 
 EMERGENCY_KEYWORDS = [
     "can't breathe", "cannot breathe", "choking", "choke",
@@ -82,6 +123,7 @@ SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super
 - **Playful, Warm & Uplifting:** Be vibrant, enthusiastic, conversational, and genuinely engaging! Use friendly Aussie warmth (e.g. "G'day!", "Hey there! Great question!", "Let's get this sorted out together!").
 - **Engaging & Visual:** Use expressive emojis (✨, ♿, 🦘, 💡, 💙, 🌟, 📑), bullet points, and encouraging check-ins to make reading fun, easy, and lighthearted.
 - **Accurate & Empowering:** Keep all NDIS funding, equipment loan libraries (like FlexEquip or SWEP), clinical care tips, and state guidelines 100% accurate, but explain them in an encouraging, upbeat, and accessible way!
+- **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product!
 
 🎯 MANDATORY REGIONAL INSTRUCTION FOR USER LOCATION:
 The user has specifically selected the target state/region: **{selected_state}**.
@@ -130,6 +172,13 @@ async def search_endpoint(payload: dict):
         
     docs = indexer.search_documents(query, state=state, top_k=5)
     entities = indexer.search_entities(query, state=state, top_k=4)
+    
+    # Attach images if found
+    for ent in entities:
+        ent["image_url"] = find_image_for_query(ent.get("name", ""))
+    for doc in docs:
+        doc["image_url"] = find_image_for_query(doc.get("source_title", ""))
+        
     return {
         "documents": docs,
         "entities": entities,
@@ -185,6 +234,12 @@ async def chat_endpoint(request: Request):
     docs = indexer.search_documents(message, state=state, top_k=5)
     entities = indexer.search_entities(message, state=state, top_k=4)
 
+    # Attach images if found
+    for ent in entities:
+        ent["image_url"] = find_image_for_query(ent.get("name", ""))
+    for doc in docs:
+        doc["image_url"] = find_image_for_query(doc.get("source_title", ""))
+
     # Format context block
     context_items = []
     
@@ -192,12 +247,16 @@ async def chat_endpoint(request: Request):
         context_items.append(f"=== STRUCTURED ENTITY & DIRECTORY RECORDS (FILTERED FOR {state.upper()}) ===")
         for ent in entities:
             ent_str = f"• Name: {ent.get('name')}\n  Category: {ent.get('category')}\n  State: {ent.get('state')}\n  Description: {ent.get('description')}\n  Eligibility/Notes: {ent.get('eligibility', '') or ent.get('funding_notes', '')}\n  Website/URL: {ent.get('website', '') or ent.get('source_url', '') or ent.get('product_url', '')}"
+            if ent.get("image_url"):
+                ent_str += f"\n  Image URL: {ent.get('image_url')}"
             context_items.append(ent_str)
 
     if docs:
         context_items.append(f"\n=== RETRIEVED DOCUMENT CHUNKS (FILTERED FOR {state.upper()}) ===")
         for d in docs:
             d_str = f"• Title: {d.get('source_title')} (Publisher: {d.get('publisher')}, State: {d.get('state')})\n  URL: {d.get('url')}\n  Content: {d.get('text')}"
+            if d.get("image_url"):
+                d_str += f"\n  Image URL: {d.get('image_url')}"
             context_items.append(d_str)
 
     context_block = "\n\n".join(context_items)
@@ -290,6 +349,8 @@ async def chat_endpoint(request: Request):
                     response_text += f"- **[{ent.get('name')}]({url})** ✨ ({ent.get('category', '').replace('_', ' ').title()})\n  {ent.get('description')}\n"
                     if ent.get('eligibility'):
                         response_text += f"  *Who's eligible:* {ent.get('eligibility')}\n"
+                    if ent.get('image_url'):
+                        response_text += f"  \n  ![{ent.get('name')}]({ent.get('image_url')})\n\n"
                     response_text += "\n"
 
             if docs:

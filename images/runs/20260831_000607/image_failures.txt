@@ -1,0 +1,5 @@
+Image download failures:
+
+- https://www.mndaustralia.org.au/getattachment/0b2d2e66-a33a-480d-a9a6-36659eef50d2/MND-Care-approach.jpg: HTTP Error 404: Not Found
+- https://www.mndaustralia.org.au/getattachment/8cc3815f-57a8-47ee-b04d-afef5c10338e/MD-care.png: HTTP Error 404: Not Found
+- https://www.speechpathologyaustralia.org.au/images/CommunicationHub/About-communication/Diverse%20group%20of%20teenage%20boys.jpeg: HTTP Error 404: Not Found

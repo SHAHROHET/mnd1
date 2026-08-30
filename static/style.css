@@ -213,6 +213,93 @@ body {
     gap: 8px;
 }
 
+.conversations-list {
+    display: flex;
+    flex-direction: column;
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 4px;
+}
+
+.no-chats-msg {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+    padding: 8px 4px;
+}
+
+.conversation-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 12px;
+    border-radius: var(--radius-sm);
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    margin-bottom: 6px;
+    gap: 8px;
+}
+
+.conversation-item:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.conversation-item.active {
+    background: rgba(0, 168, 150, 0.15);
+    border-color: rgba(0, 168, 150, 0.35);
+    color: var(--primary);
+}
+
+.conversation-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    flex: 1;
+}
+
+.conversation-info i {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    flex-shrink: 0;
+}
+
+.conversation-title {
+    font-size: 0.82rem;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.delete-conv-btn {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: all var(--transition-fast);
+}
+
+.conversation-item:hover .delete-conv-btn {
+    opacity: 0.6;
+}
+
+.conversation-item:hover .delete-conv-btn:hover {
+    opacity: 1;
+    color: var(--danger-red);
+    background: rgba(230, 57, 70, 0.1);
+}
+
 .sidebar-desc {
     font-size: 0.8rem;
     color: var(--text-muted);
@@ -267,7 +354,7 @@ body {
     border-top: 1px solid var(--bg-card-border);
 }
 
-.deepseek-badge {
+.mnd-badge {
     background: rgba(0, 168, 150, 0.1);
     border: 1px solid rgba(0, 168, 150, 0.25);
     color: var(--primary);

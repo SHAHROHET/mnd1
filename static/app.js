@@ -7,14 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const stateSelect = document.getElementById("stateSelect");
     const apiStatusBadge = document.getElementById("apiStatusBadge");
     
-    const settingsModal = document.getElementById("settingsModal");
-    const openSettingsBtn = document.getElementById("openSettingsBtn");
-    const closeSettingsBtn = document.getElementById("closeSettingsBtn");
-    const saveKeyBtn = document.getElementById("saveKeyBtn");
-    const clearKeyBtn = document.getElementById("clearKeyBtn");
-    const apiKeyInput = document.getElementById("apiKeyInput");
-    const modelSelect = document.getElementById("modelSelect");
-    
     const fontToggleBtn = document.getElementById("fontToggleBtn");
     const fontLbl = document.getElementById("fontLbl");
     
@@ -22,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const closeSidebar = document.getElementById("closeSidebar");
     const sidebar = document.getElementById("sidebar");
     const sidebarOverlay = document.getElementById("sidebarOverlay");
+    const conversationsList = document.getElementById("conversationsList");
 
     // Configure marked to render clickable external links with icons
     const renderer = new marked.Renderer();
@@ -35,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Smart Scroll & Manual Scroll Detection
     let isUserScrolledUp = false;
-    let chatHistory = []; // Stores conversation turn history [{role, content}]
+    let chatHistory = []; // Stores conversation turn history [{role, content}] for RAG API payload
     let isStreaming = false; // Concurrency guard — prevents overlapping requests
     const scrollToBottomBtn = document.getElementById("scrollToBottomBtn");
 
@@ -59,6 +52,172 @@ document.addEventListener("DOMContentLoaded", () => {
         scrollToBottomBtn.classList.remove("visible");
     });
 
+    // Local Storage Conversation History Manager
+    let conversations = JSON.parse(localStorage.getItem("mnd_conversations")) || {};
+    let currentConvId = localStorage.getItem("mnd_current_conv_id") || null;
+
+    function saveConversations() {
+        localStorage.setItem("mnd_conversations", JSON.stringify(conversations));
+        localStorage.setItem("mnd_current_conv_id", currentConvId);
+    }
+
+    function startNewConversation() {
+        const id = "conv_" + Date.now();
+        conversations[id] = {
+            id: id,
+            title: "New Chat Session",
+            state: stateSelect.value,
+            messages: [],
+            updatedAt: Date.now()
+        };
+        currentConvId = id;
+        saveConversations();
+        renderConversationsList();
+        loadConversation(id);
+    }
+
+    function renderConversationsList() {
+        if (!conversationsList) return;
+        conversationsList.innerHTML = "";
+        
+        const sortedConvs = Object.values(conversations).sort((a, b) => b.updatedAt - a.updatedAt);
+        
+        if (sortedConvs.length === 0) {
+            conversationsList.innerHTML = `<div class="no-chats-msg">No saved conversations yet.</div>`;
+            return;
+        }
+        
+        sortedConvs.forEach(conv => {
+            const item = document.createElement("div");
+            item.className = `conversation-item ${conv.id === currentConvId ? 'active' : ''}`;
+            item.setAttribute("data-id", conv.id);
+            
+            item.innerHTML = `
+                <div class="conversation-info">
+                    <i class="fa-regular fa-message"></i>
+                    <span class="conversation-title" title="${conv.title}">${conv.title}</span>
+                </div>
+                <button class="delete-conv-btn" title="Delete conversation">
+                    <i class="fa-solid fa-trash-can"></i>
+                </button>
+            `;
+            
+            // Load conversation on click
+            item.addEventListener("click", (e) => {
+                if (isStreaming) return; // Prevent switching chats during stream
+                // Don't trigger load if clicking delete button
+                if (e.target.closest(".delete-conv-btn")) return;
+                loadConversation(conv.id);
+            });
+            
+            // Delete conversation on click
+            const deleteBtn = item.querySelector(".delete-conv-btn");
+            deleteBtn.addEventListener("click", (e) => {
+                e.stopPropagation();
+                deleteConversation(conv.id);
+            });
+            
+            conversationsList.appendChild(item);
+        });
+    }
+
+    function deleteConversation(id) {
+        delete conversations[id];
+        if (currentConvId === id) {
+            const keys = Object.keys(conversations);
+            if (keys.length > 0) {
+                currentConvId = keys[keys.length - 1];
+            } else {
+                currentConvId = null;
+            }
+        }
+        saveConversations();
+        renderConversationsList();
+        
+        if (currentConvId) {
+            loadConversation(currentConvId);
+        } else {
+            startNewConversation();
+        }
+    }
+
+    function loadConversation(id) {
+        currentConvId = id;
+        const conv = conversations[id];
+        if (!conv) return;
+        
+        // Sync state selector
+        stateSelect.value = conv.state || "National";
+        localStorage.setItem("mnd_state", stateSelect.value);
+        
+        // Rebuild chatMessages container
+        chatMessages.innerHTML = "";
+        
+        if (conv.messages.length === 0) {
+            // Show welcome card
+            chatMessages.innerHTML = `
+                <div class="welcome-card">
+                    <div class="welcome-icon">
+                        <i class="fa-solid fa-hands-holding-child"></i>
+                    </div>
+                    <h2>Welcome to the Australian MND/ALS Assistant</h2>
+                    <p>Designed for people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia. Ask any question regarding symptom management, NDIS funding, equipment loan libraries, or advance care planning.</p>
+                    <div class="prompt-chips">
+                        <div class="chip" data-prompt="What equipment can I get through FlexEquip or SWEP for mobility and transfer?">
+                            <i class="fa-solid fa-wheelchair"></i> Mobility & Equipment Pathways
+                        </div>
+                        <div class="chip" data-prompt="How do I manage nocturnal breathing problems or non-invasive ventilation (NIV)?">
+                            <i class="fa-solid fa-lungs"></i> Nocturnal Breathing & NIV
+                        </div>
+                        <div class="chip" data-prompt="What NDIS funding support and Centrelink Carer Payments are available for MND?">
+                            <i class="fa-solid fa-hand-holding-dollar"></i> NDIS Funding & Carer Payment
+                        </div>
+                        <div class="chip" data-prompt="What is voice banking and how early should I start with speech pathology?">
+                            <i class="fa-solid fa-microphone-lines"></i> Voice Banking & Communication
+                        </div>
+                        <div class="chip" data-prompt="What are IDDSI texture levels for swallowing safety and nutrition in MND?">
+                            <i class="fa-solid fa-utensils"></i> Swallowing & IDDSI Nutrition
+                        </div>
+                        <div class="chip" data-prompt="What is involved in Advance Care Planning and Advance Care Directives?">
+                            <i class="fa-solid fa-file-signature"></i> Advance Care Planning
+                        </div>
+                    </div>
+                </div>
+            `;
+            bindPromptChips();
+            chatHistory = [];
+        } else {
+            // Re-render past messages
+            conv.messages.forEach(msg => {
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp);
+                chatMessages.appendChild(row);
+            });
+            
+            // Build chatHistory array (API multi-turn payload)
+            chatHistory = [];
+            conv.messages.forEach(msg => {
+                chatHistory.push({ role: msg.role, content: msg.content });
+            });
+            if (chatHistory.length > 10) chatHistory = chatHistory.slice(-10);
+            
+            // Re-inject copy button triggers
+            document.querySelectorAll(".message-content").forEach(c => {
+                injectCodeCopyButtons(c);
+            });
+        }
+        
+        // Mark active item in sidebar
+        document.querySelectorAll(".conversation-item").forEach(item => {
+            if (item.getAttribute("data-id") === id) {
+                item.classList.add("active");
+            } else {
+                item.classList.remove("active");
+            }
+        });
+        
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
     // Load saved settings
     let savedState = localStorage.getItem("mnd_state") || "National";
     let isLargeFont = localStorage.getItem("mnd_large_font") === "true";
@@ -70,12 +229,6 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch("/api/stats")
         .then(res => res.json())
         .then(data => {
-            if (data.total_documents) {
-                document.getElementById("statChunks").textContent = data.total_documents.toLocaleString();
-            }
-            if (data.total_entities) {
-                document.getElementById("statEntities").textContent = data.total_entities.toLocaleString();
-            }
             updateBadgeStatus(data.has_api_key);
         })
         .catch(err => updateBadgeStatus(false));
@@ -91,51 +244,20 @@ document.addEventListener("DOMContentLoaded", () => {
         window.print();
     });
 
-    // New Chat button — clears conversation and resets UI
+    // New Chat button — creates new conversation and active state
     const newChatBtn = document.getElementById("newChatBtn");
     newChatBtn?.addEventListener("click", () => {
-        chatHistory = [];
-        chatMessages.innerHTML = "";
-        // Re-insert welcome card
-        chatMessages.innerHTML = `
-            <div class="welcome-card">
-                <div class="welcome-icon">
-                    <i class="fa-solid fa-hands-holding-child"></i>
-                </div>
-                <h2>Welcome to the Australian MND/ALS Assistant</h2>
-                <p>Designed for people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia. Ask any question regarding symptom management, NDIS funding, equipment loan libraries, or advance care planning.</p>
-                <div class="prompt-chips">
-                    <div class="chip" data-prompt="What equipment can I get through FlexEquip or SWEP for mobility and transfer?">
-                        <i class="fa-solid fa-wheelchair"></i> Mobility & Equipment Pathways
-                    </div>
-                    <div class="chip" data-prompt="How do I manage nocturnal breathing problems or non-invasive ventilation (NIV)?">
-                        <i class="fa-solid fa-lungs"></i> Nocturnal Breathing & NIV
-                    </div>
-                    <div class="chip" data-prompt="What NDIS funding support and Centrelink Carer Payments are available for MND?">
-                        <i class="fa-solid fa-hand-holding-dollar"></i> NDIS Funding & Carer Payment
-                    </div>
-                    <div class="chip" data-prompt="What is voice banking and how early should I start with speech pathology?">
-                        <i class="fa-solid fa-microphone-lines"></i> Voice Banking & Communication
-                    </div>
-                    <div class="chip" data-prompt="What are IDDSI texture levels for swallowing safety and nutrition in MND?">
-                        <i class="fa-solid fa-utensils"></i> Swallowing & IDDSI Nutrition
-                    </div>
-                    <div class="chip" data-prompt="What is involved in Advance Care Planning and Advance Care Directives?">
-                        <i class="fa-solid fa-file-signature"></i> Advance Care Planning
-                    </div>
-                </div>
-            </div>
-        `;
-        // Re-bind prompt chips
-        bindPromptChips();
-        userMessage.value = "";
-        userMessage.style.height = "auto";
-        sendBtn.disabled = true;
+        if (isStreaming) return;
+        startNewConversation();
     });
 
     // State Selector change
     stateSelect.addEventListener("change", (e) => {
         localStorage.setItem("mnd_state", e.target.value);
+        if (currentConvId && conversations[currentConvId]) {
+            conversations[currentConvId].state = e.target.value;
+            saveConversations();
+        }
     });
 
     // Font Toggle
@@ -162,10 +284,10 @@ document.addEventListener("DOMContentLoaded", () => {
     function updateBadgeStatus(hasBackendKey) {
         if (hasBackendKey) {
             apiStatusBadge.classList.add("active");
-            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> DeepSeek API Active`;
+            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Assistant Active`;
         } else {
             apiStatusBadge.classList.remove("active");
-            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Local RAG Mode`;
+            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Local Guide Active`;
         }
     }
 
@@ -199,13 +321,17 @@ document.addEventListener("DOMContentLoaded", () => {
             });
         });
     }
-    bindPromptChips();
 
     // Chat Submission
     chatForm.addEventListener("submit", async (e) => {
         e.preventDefault();
         const text = userMessage.value.trim();
         if (!text || isStreaming) return;
+
+        // Ensure we have an active conversation session
+        if (!currentConvId || !conversations[currentConvId]) {
+            startNewConversation();
+        }
 
         // Lock streaming state
         isStreaming = true;
@@ -220,13 +346,35 @@ document.addEventListener("DOMContentLoaded", () => {
         const welcomeCard = document.querySelector(".welcome-card");
         if (welcomeCard) welcomeCard.style.display = "none";
 
+        // Generate timestamp
+        const now = new Date();
+        const timestampStr = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+
         // Append User Message
-        appendMessage("user", text);
+        appendMessage("user", text, timestampStr);
+        
+        // Save user message to conversations storage
+        conversations[currentConvId].messages.push({
+            role: "user",
+            content: text,
+            timestamp: timestampStr
+        });
+        
+        // Auto-rename chat from first message if default
+        if (conversations[currentConvId].title === "New Chat Session") {
+            const firstWords = text.split(" ").slice(0, 4).join(" ");
+            conversations[currentConvId].title = firstWords + (text.split(" ").length > 4 ? "..." : "");
+            renderConversationsList();
+        }
+        
+        conversations[currentConvId].updatedAt = Date.now();
+        saveConversations();
+
         userMessage.value = "";
         userMessage.style.height = "auto";
 
         // Create Assistant Message Row
-        const assistantRow = createMessageRow("assistant", "");
+        const assistantRow = createMessageRow("assistant", "", timestampStr);
         const contentDiv = assistantRow.querySelector(".message-content");
         contentDiv.innerHTML = `<span class="typing-indicator"><i class="fa-solid fa-circle-notch fa-spin"></i> Retrieving MND Knowledge Base...</span>`;
         chatMessages.appendChild(assistantRow);
@@ -296,6 +444,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 10) chatHistory = chatHistory.slice(-10);
 
+                // Save assistant message to conversations storage
+                conversations[currentConvId].messages.push({
+                    role: "assistant",
+                    content: fullContent,
+                    timestamp: timestampStr
+                });
+                conversations[currentConvId].updatedAt = Date.now();
+                saveConversations();
+
                 // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
             }
@@ -311,15 +468,15 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    function appendMessage(role, text) {
-        const row = createMessageRow(role, text);
+    function appendMessage(role, text, timestamp) {
+        const row = createMessageRow(role, text, timestamp);
         chatMessages.appendChild(row);
         if (!isUserScrolledUp) {
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     }
 
-    function createMessageRow(role, text) {
+    function createMessageRow(role, text, timestamp) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -340,8 +497,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Timestamp label
         const ts = document.createElement("div");
         ts.className = "message-timestamp";
-        const now = new Date();
-        ts.textContent = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        ts.textContent = timestamp || new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
 
         const wrapper = document.createElement("div");
         wrapper.className = "message-wrapper";
@@ -356,6 +512,8 @@ document.addEventListener("DOMContentLoaded", () => {
     function injectCodeCopyButtons(container) {
         const codeBlocks = container.querySelectorAll("pre");
         codeBlocks.forEach(pre => {
+            if (pre.querySelector(".code-copy-btn")) return; // Prevent duplicate buttons
+            
             const btn = document.createElement("button");
             btn.className = "code-copy-btn";
             btn.innerHTML = `<i class="fa-solid fa-copy"></i> Copy`;
@@ -371,5 +529,13 @@ document.addEventListener("DOMContentLoaded", () => {
             pre.style.position = "relative";
             pre.appendChild(btn);
         });
+    }
+
+    // Startup routing
+    if (currentConvId && conversations[currentConvId]) {
+        renderConversationsList();
+        loadConversation(currentConvId);
+    } else {
+        startNewConversation();
     }
 });
