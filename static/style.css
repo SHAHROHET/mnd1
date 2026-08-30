@@ -1040,3 +1040,115 @@ textarea {
         padding: 9px;
     }
 }
+
+/* Verified Resources & Equipment Deck */
+.resources-deck {
+    margin-top: 16px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding-top: 16px;
+    width: 100%;
+}
+
+.deck-title {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--accent-gold);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.deck-scroll {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    scroll-snap-type: x mandatory;
+}
+
+.deck-scroll::-webkit-scrollbar {
+    height: 6px;
+}
+
+.deck-scroll::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+}
+
+.deck-card {
+    flex: 0 0 200px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: var(--radius-sm);
+    text-decoration: none;
+    color: var(--text-main) !important;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: all var(--transition-fast);
+    scroll-snap-align: start;
+}
+
+.deck-card:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: var(--primary) !important;
+    transform: translateY(-2px);
+}
+
+.deck-card-img {
+    width: 100%;
+    height: 110px;
+    object-fit: contain;
+    background: #ffffff; /* Make product images stand out clearly */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 6px;
+}
+
+.deck-card-no-img {
+    width: 100%;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.02);
+    color: var(--text-muted);
+    font-size: 1.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.deck-card-body {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    flex: 1;
+}
+
+.deck-card-tag {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: var(--primary);
+    letter-spacing: 0.5px;
+}
+
+.deck-card-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.deck-card-desc {
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    margin: 0;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+

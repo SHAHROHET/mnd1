@@ -189,7 +189,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             // Re-render past messages
             conv.messages.forEach(msg => {
-                const row = createMessageRow(msg.role, msg.content, msg.timestamp);
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.entities);
                 chatMessages.appendChild(row);
             });
             
@@ -381,6 +381,7 @@ document.addEventListener("DOMContentLoaded", () => {
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
         let fullContent = "";
+        let currentEntities = [];
 
         try {
             const response = await fetch("/api/chat", {
@@ -416,6 +417,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
                         try {
                             const parsed = JSON.parse(jsonStr);
+                            if (parsed.entities) {
+                                currentEntities = parsed.entities;
+                            }
                             if (parsed.content) {
                                 fullContent += parsed.content;
                                 try {
@@ -444,14 +448,46 @@ document.addEventListener("DOMContentLoaded", () => {
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 10) chatHistory = chatHistory.slice(-10);
 
-                // Save assistant message to conversations storage
+                // Save assistant message with retrieved entities to conversations storage
                 conversations[currentConvId].messages.push({
                     role: "assistant",
                     content: fullContent,
-                    timestamp: timestampStr
+                    timestamp: timestampStr,
+                    entities: currentEntities
                 });
                 conversations[currentConvId].updatedAt = Date.now();
                 saveConversations();
+
+                // Append visual card deck if entities found
+                if (currentEntities && currentEntities.length > 0) {
+                    const deck = document.createElement("div");
+                    deck.className = "resources-deck";
+                    
+                    let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
+                    deckHtml += `<div class="deck-scroll">`;
+                    
+                    currentEntities.forEach(ent => {
+                        const imgHtml = ent.image_url ? `<img src="${ent.image_url}" alt="${ent.name}" class="deck-card-img">` : `<div class="deck-card-no-img"><i class="fa-solid fa-toolbox"></i></div>`;
+                        const url = ent.website || ent.source_url || ent.product_url || "#";
+                        deckHtml += `
+                            <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
+                                ${imgHtml}
+                                <div class="deck-card-body">
+                                    <span class="deck-card-tag">${ent.category ? ent.category.replace('_', ' ').toUpperCase() : 'SUPPORT'}</span>
+                                    <h4 class="deck-card-title" title="${ent.name}">${ent.name}</h4>
+                                    <p class="deck-card-desc">${ent.description ? ent.description.substring(0, 80) + '...' : ''}</p>
+                                </div>
+                            </a>
+                        `;
+                    });
+                    deckHtml += `</div>`;
+                    deck.innerHTML = deckHtml;
+                    contentDiv.appendChild(deck);
+                    
+                    if (!isUserScrolledUp) {
+                        chatMessages.scrollTop = chatMessages.scrollHeight;
+                    }
+                }
 
                 // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
@@ -468,15 +504,15 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    function appendMessage(role, text, timestamp) {
-        const row = createMessageRow(role, text, timestamp);
+    function appendMessage(role, text, timestamp, entities) {
+        const row = createMessageRow(role, text, timestamp, entities);
         chatMessages.appendChild(row);
         if (!isUserScrolledUp) {
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     }
 
-    function createMessageRow(role, text, timestamp) {
+    function createMessageRow(role, text, timestamp, entities) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -492,6 +528,33 @@ document.addEventListener("DOMContentLoaded", () => {
             } catch (e) {
                 content.textContent = text;
             }
+        }
+
+        // Render visual card deck if entities are provided
+        if (entities && entities.length > 0) {
+            const deck = document.createElement("div");
+            deck.className = "resources-deck";
+            
+            let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
+            deckHtml += `<div class="deck-scroll">`;
+            
+            entities.forEach(ent => {
+                const imgHtml = ent.image_url ? `<img src="${ent.image_url}" alt="${ent.name}" class="deck-card-img">` : `<div class="deck-card-no-img"><i class="fa-solid fa-toolbox"></i></div>`;
+                const url = ent.website || ent.source_url || ent.product_url || "#";
+                deckHtml += `
+                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
+                        ${imgHtml}
+                        <div class="deck-card-body">
+                            <span class="deck-card-tag">${ent.category ? ent.category.replace('_', ' ').toUpperCase() : 'SUPPORT'}</span>
+                            <h4 class="deck-card-title" title="${ent.name}">${ent.name}</h4>
+                            <p class="deck-card-desc">${ent.description ? ent.description.substring(0, 80) + '...' : ''}</p>
+                        </div>
+                    </a>
+                `;
+            });
+            deckHtml += `</div>`;
+            deck.innerHTML = deckHtml;
+            content.appendChild(deck);
         }
 
         // Timestamp label

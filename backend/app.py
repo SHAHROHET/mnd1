@@ -274,6 +274,9 @@ async def chat_endpoint(request: Request):
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
 
+            # Yield matched entities list for visual UI card deck
+            yield f"data: {json.dumps({'entities': entities})}\n\n"
+
             url = "https://api.deepseek.com/v1/chat/completions"
             headers = {
                 "Authorization": f"Bearer {api_key}",
@@ -335,6 +338,9 @@ async def chat_endpoint(request: Request):
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
 
+            # Yield matched entities list for visual UI card deck
+            yield f"data: {json.dumps({'entities': entities})}\n\n"
+
             intro = f"*(Using Local Knowledge Index Mode — Enter a DeepSeek API key in the top right to enable live DeepSeek API generation)*\n\n"
             yield f"data: {json.dumps({'content': intro})}\n\n"
 
@@ -351,7 +357,7 @@ async def chat_endpoint(request: Request):
                     if ent.get('eligibility'):
                         response_text += f"  *Who's eligible:* {ent.get('eligibility')}\n"
                     if ent.get('image_url'):
-                        response_text += f"  \n  ![{ent.get('name')}]({ent.get('image_url')})\n\n"
+                        response_text += f"\n\n![{ent.get('name')}]({ent.get('image_url')})\n\n"
                     response_text += "\n"
 
             if docs:
