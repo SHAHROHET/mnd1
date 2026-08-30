@@ -78,8 +78,9 @@ def build_image_map():
                     rightmost = parts[1].strip()
                     if len(rightmost) >= 8 and len(rightmost) <= 12 and re.match(r'^[a-f0-9]+$', rightmost):
                         name_part = parts[0].strip()
+                from urllib.parse import quote
                 norm_name = re.sub(r'[^a-z0-9]', '', name_part.lower())
-                IMAGE_MAP[norm_name] = "/" + rel_path
+                IMAGE_MAP[norm_name] = "/" + quote(rel_path, safe="/")
     print(f"Indexed {len(IMAGE_MAP)} product/care images.", flush=True)
 
 def find_image_for_query(query: str) -> str:
@@ -123,7 +124,7 @@ SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super
 - **Playful, Warm & Uplifting:** Be vibrant, enthusiastic, conversational, and genuinely engaging! Use friendly Aussie warmth (e.g. "G'day!", "Hey there! Great question!", "Let's get this sorted out together!").
 - **Engaging & Visual:** Use expressive emojis (✨, ♿, 🦘, 💡, 💙, 🌟, 📑), bullet points, and encouraging check-ins to make reading fun, easy, and lighthearted.
 - **Accurate & Empowering:** Keep all NDIS funding, equipment loan libraries (like FlexEquip or SWEP), clinical care tips, and state guidelines 100% accurate, but explain them in an encouraging, upbeat, and accessible way!
-- **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product!
+- **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product! Do NOT modify the image_url path or prepend any domain name (e.g., do not add 'https://flexequip.com.au' or similar). Use the exact relative path provided.
 
 🎯 MANDATORY REGIONAL INSTRUCTION FOR USER LOCATION:
 The user has specifically selected the target state/region: **{selected_state}**.
