@@ -16,6 +16,23 @@ document.addEventListener("DOMContentLoaded", () => {
     const sidebarOverlay = document.getElementById("sidebarOverlay");
     const conversationsList = document.getElementById("conversationsList");
 
+    let clientImageMap = {};
+
+    function findImageInClientMap(query) {
+        if (!query) return "";
+        const normQuery = query.toLowerCase().replace(/[^a-z0-9]/g, "");
+        if (!normQuery) return "";
+        if (clientImageMap[normQuery]) {
+            return clientImageMap[normQuery];
+        }
+        for (const [key, val] of Object.entries(clientImageMap)) {
+            if (key.includes(normQuery) || normQuery.includes(key)) {
+                return val;
+            }
+        }
+        return "";
+    }
+
     // Configure marked to render clickable external links with icons
     const renderer = new marked.Renderer();
     renderer.link = (linkObj) => {
@@ -24,6 +41,47 @@ document.addEventListener("DOMContentLoaded", () => {
         const text = (typeof linkObj === 'object' ? linkObj.text : arguments[2]) || href;
         return `<a href="${href}" target="_blank" rel="noopener noreferrer" title="${title || text}">${text} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75em; opacity: 0.85;"></i></a>`;
     };
+    
+    renderer.image = (imageObj, titleArg, textArg) => {
+        let href = "";
+        let text = "";
+        let title = "";
+        
+        if (imageObj && typeof imageObj === 'object') {
+            href = imageObj.href || "";
+            text = imageObj.text || "";
+            title = imageObj.title || "";
+        } else {
+            href = imageObj || "";
+            text = textArg || "";
+            title = titleArg || "";
+        }
+        
+        let finalSrc = href;
+        let queryKey = text || "";
+        if (href) {
+            const filename = href.split('/').pop().split('?')[0];
+            const nameWithoutExt = filename.replace(/\.[^/.]+$/, "");
+            let cleanName = nameWithoutExt;
+            if (nameWithoutExt.includes("-")) {
+                const parts = nameWithoutExt.split("-");
+                const lastPart = parts[parts.length - 1];
+                if (lastPart.length >= 8 && lastPart.length <= 12 && /^[a-f0-9]+$/.test(lastPart)) {
+                    parts.pop();
+                    cleanName = parts.join("-");
+                }
+            }
+            queryKey = cleanName;
+        }
+        
+        const matched = findImageInClientMap(queryKey) || findImageInClientMap(text);
+        if (matched) {
+            finalSrc = matched;
+        }
+        
+        return `<img src="${finalSrc}" alt="${text || 'Care Image'}" class="care-message-img" title="${title || text}">`;
+    };
+    
     marked.use({ renderer });
 
     // Smart Scroll & Manual Scroll Detection
@@ -225,13 +283,20 @@ document.addEventListener("DOMContentLoaded", () => {
     stateSelect.value = savedState;
     if (isLargeFont) applyFontMode(true);
 
-    // Fetch backend status on startup to update API status badge
+    // Fetch backend status and image map on startup
     fetch("/api/stats")
         .then(res => res.json())
         .then(data => {
             updateBadgeStatus(data.has_api_key);
         })
         .catch(err => updateBadgeStatus(false));
+
+    fetch("/api/images")
+        .then(res => res.json())
+        .then(data => {
+            clientImageMap = data || {};
+        })
+        .catch(err => console.error("Failed to load client image map:", err));
 
     // Sidebar Toggle
     toggleSidebar?.addEventListener("click", () => sidebar.classList.add("active"));

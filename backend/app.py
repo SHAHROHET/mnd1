@@ -164,6 +164,10 @@ async def get_stats():
         "status": "online"
     }
 
+@app.get("/api/images")
+async def get_images_map():
+    return IMAGE_MAP
+
 @app.post("/api/search")
 async def search_endpoint(payload: dict):
     query = payload.get("query", "")
