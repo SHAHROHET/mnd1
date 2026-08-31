@@ -556,6 +556,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
+
+                // Smoothly scroll back to the start of the assistant response
+                if (!isUserScrolledUp) {
+                    setTimeout(() => {
+                        chatMessages.scrollTo({
+                            top: assistantRow.offsetTop - 16,
+                            behavior: "smooth"
+                        });
+                    }, 150);
+                }
             }
 
         } catch (err) {
