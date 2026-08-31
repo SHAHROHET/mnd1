@@ -557,11 +557,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
 
-                // Smoothly scroll back to the start of the assistant response
+                // Smoothly scroll back to the start of the user's question so both question & answer are visible
                 if (!isUserScrolledUp) {
+                    const userRow = assistantRow.previousElementSibling;
+                    const targetScrollTop = userRow ? userRow.offsetTop - 16 : assistantRow.offsetTop - 16;
                     setTimeout(() => {
                         chatMessages.scrollTo({
-                            top: assistantRow.offsetTop - 16,
+                            top: targetScrollTop,
                             behavior: "smooth"
                         });
                     }, 150);
