@@ -1,0 +1,619 @@
+{
+  "source_id": "healthdirect:about-ambulances",
+  "title": "About ambulances in Australia | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia",
+  "retrieved_at": "2026-08-31",
+  "topic": "Emergency Planning",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24618,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/about-ambulances-in-australia",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/about-ambulances-in-australia"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/about-ambulances-in-australia"
+    },
+    {
+      "text": "What is an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#what-is"
+    },
+    {
+      "text": "When should I call an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#call"
+    },
+    {
+      "text": "What happens when I call an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#what-happens"
+    },
+    {
+      "text": "Will I always be taken to a hospital?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#taken"
+    },
+    {
+      "text": "What to expect when I am being transported in an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#expect"
+    },
+    {
+      "text": "Who works in an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#who"
+    },
+    {
+      "text": "What is the cost of an ambulance?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#cost"
+    },
+    {
+      "text": "Are there other medical and non-emergency transport schemes?",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#other"
+    },
+    {
+      "text": "Resources and Support",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#searchGeneralResults"
+    },
+    {
+      "text": "Royal Flying Doctor Service",
+      "url": "https://www.flyingdoctor.org.au/nswact/"
+    },
+    {
+      "text": "call triple zero (000)",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "seizure",
+      "url": "https://www.healthdirect.gov.au/seizures"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "urgent care clinic",
+      "url": "https://www.healthdirect.gov.au/urgent-care-clinics"
+    },
+    {
+      "text": "Paramedics",
+      "url": "https://www.healthdirect.gov.au/paramedics"
+    },
+    {
+      "text": "Paramedicine Board of Australia",
+      "url": "https://www.paramedicineboard.gov.au/"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "Australia Capital Territory",
+      "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges"
+    },
+    {
+      "text": "New South Wales",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees"
+    },
+    {
+      "text": "Northern Territory",
+      "url": "https://nt.gov.au/wellbeing/hospitals-health-services/ambulance-services"
+    },
+    {
+      "text": "Queensland",
+      "url": "https://www.qld.gov.au/emergency/emergencies-services/qld-visitors-qas"
+    },
+    {
+      "text": "South Australia",
+      "url": "https://saambulance.sa.gov.au/what-we-do/fees-and-charges/"
+    },
+    {
+      "text": "Tasmania",
+      "url": "https://www.health.tas.gov.au/hospitals/ambulance/ambulance-costs"
+    },
+    {
+      "text": "Victoria",
+      "url": "https://www.health.vic.gov.au/patient-care/ambulance-fees"
+    },
+    {
+      "text": "Western Australia",
+      "url": "https://www.stjohnwa.com.au/ambulance-and-health-services/metro-ambulance-service/metro-ambulance-fees"
+    },
+    {
+      "text": "private health insurers",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "ambulance cover",
+      "url": "https://www.privatehealth.gov.au/health_insurance/what_is_covered/ambulance.htm"
+    },
+    {
+      "text": "healthcare appointment",
+      "url": "https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment"
+    },
+    {
+      "text": "Health Translations",
+      "url": "https://www.healthtranslations.vic.gov.au/"
+    },
+    {
+      "text": "calling triple zero",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/how-to-call-card"
+    },
+    {
+      "text": "how to get help for a health emergency",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/how-to-get-help-for-a-health-emergency-easy-read"
+    },
+    {
+      "text": "what happens when an ambulance comes to help you?",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/what-happens-when-an-ambulance-comes-to-help-you-easy-read"
+    },
+    {
+      "text": "Emergency+",
+      "url": "https://www.emergencyplus.com.au/"
+    },
+    {
+      "text": "Poisons Information Centre",
+      "url": "https://www.poisonsinfo.nsw.gov.au/"
+    },
+    {
+      "text": "(Calling and ambulance)",
+      "url": "https://www.ambulance.vic.gov.au/calling-ambulance"
+    },
+    {
+      "text": "(Emergency Services)",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/emergency-services"
+    },
+    {
+      "text": "(Different ambulance vehicles in Australia)",
+      "url": "https://www.apcollege.edu.au/blog/ambulance-vehicles/"
+    },
+    {
+      "text": "(When should I call an ambulance?)",
+      "url": "https://esa.act.gov.au/about-esa-emergency-services/ambulance/calling-ambulance"
+    },
+    {
+      "text": "(Health care and Medicare)",
+      "url": "https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092#hospital"
+    },
+    {
+      "text": "(Non-emergency services)",
+      "url": "https://www.ambulance.vic.gov.au/non-emergency-services"
+    },
+    {
+      "text": "(Becoming a paramedic)",
+      "url": "https://www.ambulance.vic.gov.au/become-a-paramedic"
+    },
+    {
+      "text": "(Patient transport service)",
+      "url": "https://www.ambulance.qld.gov.au/our-services/patient-transport"
+    },
+    {
+      "text": "(Patient transport service)",
+      "url": "https://saambulance.sa.gov.au/what-we-do/patient-transport-services/"
+    },
+    {
+      "text": "(Ambulance Officers and Paramedics)",
+      "url": "https://www.jobsandskills.gov.au/data/occupation-and-industry-profiles/occupations/4111-ambulance-officers-and-paramedics"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia#backToTop"
+    },
+    {
+      "text": "Ambulance – when to call one | National Centre for Farmer Health First aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own. Read more on National Centre for Farmer Health website",
+      "url": "https://farmerhealth.org.au/ambulance-when-to-call-one/"
+    },
+    {
+      "text": "Calling an ambulance | Better Health Channel In a medical emergency, call triple zero (000) for assistance. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/calling-an-ambulance"
+    },
+    {
+      "text": "Royal Flying Doctor Service Royal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world. Read more on Partner Organisation website",
+      "url": "https://www.flyingdoctor.org.au/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "About ambulances in Australia | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# About ambulances in Australia\n\n7-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- An ambulance is a vehicle equipped for urgently taking sick or injured people to hospital.\n\n- There are many types of ambulance, all with special equipment.\n\n- Paramedics are first responders, who know how to stabilise people and get them to hospital quickly.\n\n- Medicare does not cover the cost of ambulance services.\n\n- The cost of calling an ambulance varies between states and territories.\n\n## On this page\n\n- What is an ambulance?\n\n- When should I call an ambulance?\n\n- What happens when I call an ambulance?\n\n- Will I always be taken to a hospital?\n\n- What to expect when I am being transported in an ambulance?\n\n- Who works in an ambulance?\n\n- What is the cost of an ambulance?\n\n- Are there other medical and non-emergency transport schemes?\n\n- Resources and Support\n\n- Related information on Australian websites\n\n## What is an ambulance?\n\nCall Triple Zero (000) if you need urgent medical help.\n\nAmbulances are vehicles that transport people needing urgent medical care to hospital.\n\nThere are many types of ambulance, all specially equipped. They include:\n\n- vans\n\n- motorbikes\n\n- cycle response bikes\n\n- buses\n\n- aeroplanes and helicopters\n\n- rescue trucks\n\n### Vans\n\nThe van is the most common type of ambulance vehicle across Australia. These are used by advanced care paramedics for medical emergencies. They are also used by patient transport officers for non-emergency situations.\n\n### Motorbikes\n\nAmbulance motorbikes can move through traffic quickly, to reach sick or injured people sooner. They are not used to carry passengers.\n\n### Cycle response bikes\n\nAmbulance mountain bikes are sometimes used at events. They're used by specially trained health staff to quickly respond to incidents.\n\n### Buses\n\nAmbulance buses are used at events or for patient transport. Ambulance buses can carry up to 12 people, some seated and some on stretchers.\n\n### Aeroplanes and helicopters\n\nAir ambulances offer medical care and transport for people living in remote areas. The Royal Flying Doctor Service work in partnership with many state ambulance services.\n\nHelicopters are used for patient retrieval (getting them back from somewhere) and to move high-needs patients between hospitals.\n\n### Rescue trucks\n\nSpecialised vehicles, known as ambulance rescue trucks, carry equipment for difficult rescue situations.\n\n## When should I call an ambulance?\n\nYou should call triple zero (000) and ask for an ambulance when you need urgent medical help.\n\nExamples of times when you may need an ambulance are:\n\n- injury from a car crash\n\n- falling from a height\n\n- stabbing or shooting\n\n- severe burns\n\n- heavy bleeding\n\nExamples of health crises that may need an ambulance are:\n\n- heart attack, chest pain or chest tightness\n\n- sudden weakness or numbness of your face, arm or leg\n\n- breathing difficulties\n\n- loss of consciousness or collapse\n\n- seizure\n\n### What should I do if it is not an emergency?\n\nIf you need healthcare, but it's not life threatening, you can:\n\n- speak with a pharmacist\n\n- visit your doctor\n\n- visit an urgent care clinic\n\n- call healthdirect on 1800 022 222 (known as Nurse-on-Call in Victoria) for advice from a registered nurse\n\n## What happens when I call an ambulance?\n\nThe person who answers your triple zero (000) call is called the operator. They will ask if you need:\n\n- ambulance\n\n- fire\n\n- police\n\nThey will ask you questions about where you are and what has happened. It's important to speak clearly.\n\nOnce the operator knows what has happened, they will organise a suitable service. Paramedics will be sent if you need urgent medical treatment.\n\nIt is important that you stay on the phone unless the operator tells you to hang up. Follow the operator's advice while you wait for the ambulance to arrive.\n\nIf the call is not an emergency, the operator may transfer your call to a healthdirect registered nurse. They will give you with help over the phone and tell you what to do next.\n\n## Will I always be taken to a hospital?\n\nWhen the ambulance arrives, the paramedics who attend will assess you.\n\nYou might be treated on site, or they might decide you need to go to hospital for further treatment.\n\nArriving at hospital in an ambulance does not mean you will be treated more quickly.\n\n## What to expect when I am being transported in an ambulance?\n\nAmbulances have equipment for a variety of medical emergencies. This includes equipment to stabilise someone and get them to hospital safely.\n\nAll ambulances have equipment to allow communication with the ambulance base and local hospital.\n\n## Who works in an ambulance?\n\nParamedics give emergency health care. They are sometimes called first responders.\n\nQualified paramedics are registered with the Paramedicine Board of Australia . You can check their registration at the Australian Health Practitioners Regulation Authority (AHPRA) website.\n\n## What is the cost of an ambulance?\n\nMedicare does not cover the cost of ambulance services. The cost for an ambulance varies between each state and territory.\n\nTo find out more about the fees in your state, visit:\n\n- Australia Capital Territory\n\n- New South Wales\n\n- Northern Territory\n\n- Queensland\n\n- South Australia\n\n- Tasmania\n\n- Victoria\n\n- Western Australia\n\nYou can buy ambulance cover only from most private health insurers . Find out more about ambulance cover .\n\n## Are there other medical and non-emergency transport schemes?\n\nIf you can't use public or private transport, you may be able to use a non-urgent ambulance. Patient transport services may:\n\n- move you between hospitals\n\n- take you home\n\n- take you to another health service\n\nThe availability and costs of patient transport schemes also vary between states.\n\nRead more about travelling to your healthcare appointment .\n\n## Resources and Support\n\nHealth Translations have information in English and other languages on:\n\n- calling triple zero\n\n- how to get help for a health emergency (Easy Read)\n\n- what happens when an ambulance comes to help you? (Easy Read)\n\nConsider downloading the Emergency+ app. It can use your phone's GPS to find your exact location. So, when you call triple zero (000), you have the information you need.\n\nIf you think you have swallowed a poison, call the Poisons Information Centre on 13 11 26.\n\nFor non-urgent health problems, you can call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nAmbulance Victoria (Calling and ambulance) , NSW Ambulance (Emergency Services) , Australian Paramedical College (Different ambulance vehicles in Australia) , ACT Emergency Services Agency (When should I call an ambulance?) , Services Australia (Health care and Medicare) , Ambulance Victoria (Non-emergency services) , Ambulance Victoria (Becoming a paramedic) , Queensland Ambulance Service (Patient transport service) , SA Ambulance Service (Patient transport service) , Australian Government (Ambulance Officers and Paramedics)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: May 2025\n\nBack To Top\n\n## Related pages\n\n- Calling triple zero (000)\n\n- Paramedics\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Ambulance services | NT.GOV.AU\n\nSt John Ambulance emergency and non-emergency ambulance services.\n\nRead more on NT Health website\n\n### Ambulance – when to call one | National Centre for Farmer Health\n\nFirst aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own.\n\nRead more on National Centre for Farmer Health website\n\n### Calling an ambulance | Better Health Channel\n\nIn a medical emergency, call triple zero (000) for assistance.\n\nRead more on Better Health Channel website\n\n### Royal Flying Doctor Service\n\nRoyal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world.\n\nRead more on Partner Organisation website\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/about-ambulances-in-australia\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/about-ambulances-in-australia\n\n- Please enter your name: https://www.healthdirect.gov.au/about-ambulances-in-australia#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/about-ambulances-in-australia#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/about-ambulances-in-australia#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/about-ambulances-in-australia#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/about-ambulances-in-australia\n\n- What is an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#what-is\n\n- When should I call an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#call\n\n- What happens when I call an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#what-happens\n\n- Will I always be taken to a hospital?: https://www.healthdirect.gov.au/about-ambulances-in-australia#taken\n\n- What to expect when I am being transported in an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#expect\n\n- Who works in an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#who\n\n- What is the cost of an ambulance?: https://www.healthdirect.gov.au/about-ambulances-in-australia#cost\n\n- Are there other medical and non-emergency transport schemes?: https://www.healthdirect.gov.au/about-ambulances-in-australia#other\n\n- Resources and Support: https://www.healthdirect.gov.au/about-ambulances-in-australia#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/about-ambulances-in-australia#searchGeneralResults\n\n- Royal Flying Doctor Service: https://www.flyingdoctor.org.au/nswact/\n\n- call triple zero (000): https://www.healthdirect.gov.au/calling-triple-zero\n\n- seizure: https://www.healthdirect.gov.au/seizures\n\n- pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- urgent care clinic: https://www.healthdirect.gov.au/urgent-care-clinics\n\n- Paramedics: https://www.healthdirect.gov.au/paramedics\n\n- Paramedicine Board of Australia: https://www.paramedicineboard.gov.au/\n\n- Medicare: https://www.healthdirect.gov.au/what-is-medicare\n\n- Australia Capital Territory: https://esa.act.gov.au/about-esa-emergency-services/ambulance/fees-and-charges\n\n- New South Wales: https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees\n\n- Northern Territory: https://nt.gov.au/wellbeing/hospitals-health-services/ambulance-services\n\n- Queensland: https://www.qld.gov.au/emergency/emergencies-services/qld-visitors-qas\n\n- South Australia: https://saambulance.sa.gov.au/what-we-do/fees-and-charges/\n\n- Tasmania: https://www.health.tas.gov.au/hospitals/ambulance/ambulance-costs\n\n- Victoria: https://www.health.vic.gov.au/patient-care/ambulance-fees\n\n- Western Australia: https://www.stjohnwa.com.au/ambulance-and-health-services/metro-ambulance-service/metro-ambulance-fees\n\n- private health insurers: https://www.healthdirect.gov.au/private-health-insurance\n\n- ambulance cover: https://www.privatehealth.gov.au/health_insurance/what_is_covered/ambulance.htm\n\n- healthcare appointment: https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment\n\n- Health Translations: https://www.healthtranslations.vic.gov.au/\n\n- calling triple zero: https://www.healthtranslations.vic.gov.au/resources/how-to-call-card\n\n- how to get help for a health emergency: https://www.healthtranslations.vic.gov.au/resources/how-to-get-help-for-a-health-emergency-easy-read\n\n- what happens when an ambulance comes to help you?: https://www.healthtranslations.vic.gov.au/resources/what-happens-when-an-ambulance-comes-to-help-you-easy-read\n\n- Emergency+: https://www.emergencyplus.com.au/\n\n- Poisons Information Centre: https://www.poisonsinfo.nsw.gov.au/\n\n- (Calling and ambulance): https://www.ambulance.vic.gov.au/calling-ambulance\n\n- (Emergency Services): https://www.ambulance.nsw.gov.au/our-services/emergency-services\n\n- (Different ambulance vehicles in Australia): https://www.apcollege.edu.au/blog/ambulance-vehicles/\n\n- (When should I call an ambulance?): https://esa.act.gov.au/about-esa-emergency-services/ambulance/calling-ambulance\n\n- (Health care and Medicare): https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092#hospital\n\n- (Non-emergency services): https://www.ambulance.vic.gov.au/non-emergency-services\n\n- (Becoming a paramedic): https://www.ambulance.vic.gov.au/become-a-paramedic\n\n- (Patient transport service): https://www.ambulance.qld.gov.au/our-services/patient-transport\n\n- (Patient transport service): https://saambulance.sa.gov.au/what-we-do/patient-transport-services/\n\n- (Ambulance Officers and Paramedics): https://www.jobsandskills.gov.au/data/occupation-and-industry-profiles/occupations/4111-ambulance-officers-and-paramedics\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/about-ambulances-in-australia#backToTop\n\n- Ambulance – when to call one | National Centre for Farmer Health First aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own. Read more on National Centre for Farmer Health website: https://farmerhealth.org.au/ambulance-when-to-call-one/\n\n- Calling an ambulance | Better Health Channel In a medical emergency, call triple zero (000) for assistance. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/calling-an-ambulance\n\n- Royal Flying Doctor Service Royal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world. Read more on Partner Organisation website: https://www.flyingdoctor.org.au/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

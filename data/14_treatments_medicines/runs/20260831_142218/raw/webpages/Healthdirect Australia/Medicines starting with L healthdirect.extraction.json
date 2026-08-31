@@ -1,0 +1,2235 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-l-excludenonartg",
+  "title": "Medicines starting with \"L\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 71569,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "L-Arginine Hydrochloride (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65059011000036107/l-arginine-hydrochloride-phebra"
+    },
+    {
+      "text": "L-Carnitine (Metabolics)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1129911000168101/l-carnitine-metabolics"
+    },
+    {
+      "text": "L.C.E 100/25/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526131000168106/l.c.e-100-25-200"
+    },
+    {
+      "text": "L.C.E. 125/31.25/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526591000168104/l.c.e.-125-31.25-200"
+    },
+    {
+      "text": "L.C.E. 150/37.5/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526721000168109/l.c.e.-150-37.5-200"
+    },
+    {
+      "text": "L.C.E. 200/50/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526471000168104/l.c.e.-200-50-200"
+    },
+    {
+      "text": "L.C.E. 50/12.5/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526281000168100/l.c.e.-50-12.5-200"
+    },
+    {
+      "text": "L.C.E. 75/18.75/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526081000168106/l.c.e.-75-18.75-200"
+    },
+    {
+      "text": "Labetalol (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1446961000168105/labetalol-sxp"
+    },
+    {
+      "text": "Laceraine Topical Wound Anaesthetic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1465701000168105/laceraine-topical-wound-anaesthetic"
+    },
+    {
+      "text": "Lacomed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650811000036102/lacomed"
+    },
+    {
+      "text": "Lacosacor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1649671000168100/lacosacor"
+    },
+    {
+      "text": "Lacosam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1600311000168102/lacosam"
+    },
+    {
+      "text": "Lacosamide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,959641000168109/lacosamide-apo"
+    },
+    {
+      "text": "Lacosamide (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1600351000168101/lacosamide-arx"
+    },
+    {
+      "text": "Lacosamide (InterPharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650411000036104/lacosamide-interpharma"
+    },
+    {
+      "text": "Lacosamide (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1599561000168108/lacosamide-lupin"
+    },
+    {
+      "text": "Lacosamide (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1649271000168102/lacosamide-pharmacor"
+    },
+    {
+      "text": "Lacosamide (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1599231000168103/lacosamide-sandoz"
+    },
+    {
+      "text": "Lacovim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1650811000168100/lacovim"
+    },
+    {
+      "text": "Lacreo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600221000036104/lacreo"
+    },
+    {
+      "text": "Lacritec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1344861000168102/lacritec"
+    },
+    {
+      "text": "Lacteeze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779071000168104/lacteeze"
+    },
+    {
+      "text": "Lactulose (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1758501000168109/lactulose-apohealth"
+    },
+    {
+      "text": "Lactulose (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1507131000168100/lactulose-chemists'-own"
+    },
+    {
+      "text": "Lagevrio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1594701000168101/lagevrio"
+    },
+    {
+      "text": "Lamictal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4438011000036105/lamictal"
+    },
+    {
+      "text": "Lamidus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3897011000036105/lamidus"
+    },
+    {
+      "text": "Lamisil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34081000168103/lamisil"
+    },
+    {
+      "text": "Lamisil Athlete's Foot",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33401000168102/lamisil-athlete's-foot"
+    },
+    {
+      "text": "Lamisil Dermgel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39931000168104/lamisil-dermgel"
+    },
+    {
+      "text": "Lamisil Once",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29121000168102/lamisil-once"
+    },
+    {
+      "text": "Lamitan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884551000168105/lamitan"
+    },
+    {
+      "text": "Lamivudine (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58071000036104/lamivudine-alphapharm"
+    },
+    {
+      "text": "Lamivudine (Ranbaxy)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600111000036102/lamivudine-ranbaxy"
+    },
+    {
+      "text": "Lamivudine (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1685701000168105/lamivudine-viatris"
+    },
+    {
+      "text": "Lamivudine and Zidovudine 150/300 (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34041000168108/lamivudine-and-zidovudine-150-300-alphapharm"
+    },
+    {
+      "text": "Lamivudine and Zidovudine 150/300 (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1658631000168109/lamivudine-and-zidovudine-150-300-viatris"
+    },
+    {
+      "text": "Lamotrigine (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,667441000168105/lamotrigine-an"
+    },
+    {
+      "text": "Lamotrigine (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1551921000168102/lamotrigine-apx"
+    },
+    {
+      "text": "Lamotrigine (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,870701000168102/lamotrigine-gh"
+    },
+    {
+      "text": "Lamotrigine (PS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933240971000036104/lamotrigine-ps"
+    },
+    {
+      "text": "Lamotrigine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39736011000036104/lamotrigine-sandoz"
+    },
+    {
+      "text": "Lamotrigine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1784581000168100/lamotrigine-wgr"
+    },
+    {
+      "text": "Lamotrust",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72919011000036109/lamotrust"
+    },
+    {
+      "text": "Lamzede",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,160571121000036102/lamzede"
+    },
+    {
+      "text": "Lanoxin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3340011000036103/lanoxin"
+    },
+    {
+      "text": "Lanoxin Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,735041000168105/lanoxin-adult"
+    },
+    {
+      "text": "Lanoxin Infants",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,735081000168100/lanoxin-infants"
+    },
+    {
+      "text": "Lanoxin Paediatric Elixir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,735001000168108/lanoxin-paediatric-elixir"
+    },
+    {
+      "text": "Lanoxin PG",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36681000168101/lanoxin-pg"
+    },
+    {
+      "text": "Lansoprazole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52481000168101/lansoprazole-apo"
+    },
+    {
+      "text": "Lansoprazole ODT (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701281000168101/lansoprazole-odt-apo"
+    },
+    {
+      "text": "Lansoprazole ODT (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,683811000168101/lansoprazole-odt-gh"
+    },
+    {
+      "text": "Lanvis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4436011000036106/lanvis"
+    },
+    {
+      "text": "Lanzopran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,84770011000036105/lanzopran"
+    },
+    {
+      "text": "Larandine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586271000036106/larandine"
+    },
+    {
+      "text": "Largactil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36041000168104/largactil"
+    },
+    {
+      "text": "Largactil Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57151000168102/largactil-syrup"
+    },
+    {
+      "text": "Lariam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39563011000036101/lariam"
+    },
+    {
+      "text": "Lasix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26171000168109/lasix"
+    },
+    {
+      "text": "Lasix High Dose",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19131000168107/lasix-high-dose"
+    },
+    {
+      "text": "Latanoprost (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40341000036105/latanoprost-apo"
+    },
+    {
+      "text": "Latanoprost (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1009521000168103/latanoprost-apotex"
+    },
+    {
+      "text": "Latanoprost (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40211000036103/latanoprost-sandoz"
+    },
+    {
+      "text": "Latanoprost RT (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1270771000168101/latanoprost-rt-pfizer"
+    },
+    {
+      "text": "Latanoprost/Timolol 0.05/5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1034941000168107/latanoprost-timolol-0.05-5-apotex"
+    },
+    {
+      "text": "Latanoprost/Timolol 50/5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,649501000168109/latanoprost-timolol-50-5-apo"
+    },
+    {
+      "text": "Latnop",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,155851751000036103/latnop"
+    },
+    {
+      "text": "Latnoprost",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698922491000036100/latnoprost"
+    },
+    {
+      "text": "Latuda",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,724621000168105/latuda"
+    },
+    {
+      "text": "Lavione",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1596521000168106/lavione"
+    },
+    {
+      "text": "Lax-Suppositories",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,170464651000036104/lax-suppositories"
+    },
+    {
+      "text": "Lax-Tab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3574011000036106/lax-tab"
+    },
+    {
+      "text": "Lax-Tab EC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1784531000168101/lax-tab-ec"
+    },
+    {
+      "text": "Laxative with Senna (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701871000168103/laxative-with-senna-chemists'-own"
+    },
+    {
+      "text": "Laxative with Softener (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1420491000168108/laxative-with-softener-apohealth"
+    },
+    {
+      "text": "Laxettes",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,64991011000036102/laxettes"
+    },
+    {
+      "text": "Laxiflocin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537451000036107/laxiflocin"
+    },
+    {
+      "text": "Lazcluze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,855265971000036109/lazcluze"
+    },
+    {
+      "text": "Lecigon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1700221000168109/lecigon"
+    },
+    {
+      "text": "Lecteva 100/25/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1481031000168104/lecteva-100-25-200"
+    },
+    {
+      "text": "Lecteva 125/31.25/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1482711000168103/lecteva-125-31.25-200"
+    },
+    {
+      "text": "Lecteva 150/37.5/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1481321000168104/lecteva-150-37.5-200"
+    },
+    {
+      "text": "Lecteva 200/50/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1483031000168103/lecteva-200-50-200"
+    },
+    {
+      "text": "Lecteva 50/12.5/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1482431000168103/lecteva-50-12.5-200"
+    },
+    {
+      "text": "Lecteva 75/18.75/200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1482971000168108/lecteva-75-18.75-200"
+    },
+    {
+      "text": "Ledaga",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1558371000168109/ledaga"
+    },
+    {
+      "text": "Ledip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87531000036100/ledip"
+    },
+    {
+      "text": "Leflunomide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32491000168102/leflunomide-apo"
+    },
+    {
+      "text": "Leflunomide (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,755921000168101/leflunomide-apotex"
+    },
+    {
+      "text": "Leflunomide (CH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,732965601000036106/leflunomide-ch"
+    },
+    {
+      "text": "Leflunomide (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1115131000168102/leflunomide-generic-health"
+    },
+    {
+      "text": "Leflunomide (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,676771000168100/leflunomide-sandoz"
+    },
+    {
+      "text": "Leflunomide (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770671000168100/leflunomide-wgr"
+    },
+    {
+      "text": "Lemsip Max Cold and Flu",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2501000168102/lemsip-max-cold-and-flu"
+    },
+    {
+      "text": "Lemsip Max Cold and Flu plus Chesty Cough",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53235011000036105/lemsip-max-cold-and-flu-plus-chesty-cough"
+    },
+    {
+      "text": "Lemsip Max Cold and Flu with Decongestant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929917011000036103/lemsip-max-cold-and-flu-with-decongestant"
+    },
+    {
+      "text": "Lemtrada",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,172581000036101/lemtrada"
+    },
+    {
+      "text": "Lenalide",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1642731000168101/lenalide"
+    },
+    {
+      "text": "Lenalidomide (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641951000168103/lenalidomide-cipla"
+    },
+    {
+      "text": "Lenalidomide (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641891000168101/lenalidomide-dr.-reddy's"
+    },
+    {
+      "text": "Lenalidomide (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1644421000168103/lenalidomide-sandoz"
+    },
+    {
+      "text": "Lenalidomide (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1664491000168109/lenalidomide-viatris"
+    },
+    {
+      "text": "Lenest 20 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,706751000168109/lenest-20-ed"
+    },
+    {
+      "text": "Lenest 30 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,767881000168109/lenest-30-ed"
+    },
+    {
+      "text": "Lengout",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3865011000036102/lengout"
+    },
+    {
+      "text": "Lenvatinib (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705151000036104/lenvatinib-arx"
+    },
+    {
+      "text": "Lenvima",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,766621000168109/lenvima"
+    },
+    {
+      "text": "Lepine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536811000036108/lepine"
+    },
+    {
+      "text": "Leqembi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599341000036101/leqembi"
+    },
+    {
+      "text": "Leqvio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1572711000168104/leqvio"
+    },
+    {
+      "text": "Lercan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924368011000036107/lercan"
+    },
+    {
+      "text": "Lercanidipine (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1297071000168108/lercanidipine-apotex"
+    },
+    {
+      "text": "Lercanidipine (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1666571000168101/lercanidipine-arx"
+    },
+    {
+      "text": "Lercanidipine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770891000168100/lercanidipine-wgr"
+    },
+    {
+      "text": "Lercanidipine Enalapril 10/10 (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1218561000168108/lercanidipine-enalapril-10-10-mylan"
+    },
+    {
+      "text": "Lercanidipine Enalapril 10/20 (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1219551000168104/lercanidipine-enalapril-10-20-mylan"
+    },
+    {
+      "text": "Lercanidipine Hydrochloride (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,661381000168101/lercanidipine-hydrochloride-an"
+    },
+    {
+      "text": "Lercanidipine Hydrochloride (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,7301000168109/lercanidipine-hydrochloride-apo"
+    },
+    {
+      "text": "Lescol XL",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10271000168106/lescol-xl"
+    },
+    {
+      "text": "Letrozole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63331000168105/letrozole-apo"
+    },
+    {
+      "text": "Letrozole (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1009561000168108/letrozole-apotex"
+    },
+    {
+      "text": "Letrozole (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1683391000168104/letrozole-arx"
+    },
+    {
+      "text": "Letrozole (FBM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,684311000168106/letrozole-fbm"
+    },
+    {
+      "text": "Letrozole (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1459751000168100/letrozole-genrx"
+    },
+    {
+      "text": "Letrozole (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1385761000168102/letrozole-gh"
+    },
+    {
+      "text": "Letrozole (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924362011000036109/letrozole-pharmacor"
+    },
+    {
+      "text": "Letrozole (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1141000036108/letrozole-sandoz"
+    },
+    {
+      "text": "Letrozole (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1766571000168106/letrozole-wgr"
+    },
+    {
+      "text": "Letybo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1677811000168102/letybo"
+    },
+    {
+      "text": "Leucovorin Calcium (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920091011000036103/leucovorin-calcium-dbl"
+    },
+    {
+      "text": "Leucovorin Calcium (Mayne Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3461011000036106/leucovorin-calcium-mayne-pharma"
+    },
+    {
+      "text": "Leucovorin Calcium (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3477011000036109/leucovorin-calcium-pfizer-perth"
+    },
+    {
+      "text": "Leucovorin Calcium (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1357851000168105/leucovorin-calcium-pfizer"
+    },
+    {
+      "text": "Leukeran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4398011000036106/leukeran"
+    },
+    {
+      "text": "Leustatin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3680011000036104/leustatin"
+    },
+    {
+      "text": "Levactam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,172831000036103/levactam"
+    },
+    {
+      "text": "Leveceumid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1256491000168107/leveceumid"
+    },
+    {
+      "text": "Levefintaic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1253271000168100/levefintaic"
+    },
+    {
+      "text": "Levekep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707671000168106/levekep"
+    },
+    {
+      "text": "Levemir Flexpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25431000168105/levemir-flexpen"
+    },
+    {
+      "text": "Levemir Penfill",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57061000168104/levemir-penfill"
+    },
+    {
+      "text": "Levenakai",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1253571000168102/levenakai"
+    },
+    {
+      "text": "Leveriuol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1277611000168101/leveriuol"
+    },
+    {
+      "text": "Levesineal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1256621000168108/levesineal"
+    },
+    {
+      "text": "Leveth 150/30 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1786851000168103/leveth-150-30-ed"
+    },
+    {
+      "text": "Levetiracetam (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,796781000168100/levetiracetam-accord"
+    },
+    {
+      "text": "Levetiracetam (Admed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1289541000168104/levetiracetam-admed"
+    },
+    {
+      "text": "Levetiracetam (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,707391000168100/levetiracetam-aft"
+    },
+    {
+      "text": "Levetiracetam (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,991000168106/levetiracetam-apo"
+    },
+    {
+      "text": "Levetiracetam (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,713721000168108/levetiracetam-auro"
+    },
+    {
+      "text": "Levetiracetam (B&B)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707551000168103/levetiracetam-b&b"
+    },
+    {
+      "text": "Levetiracetam (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193811000036104/levetiracetam-gh"
+    },
+    {
+      "text": "Levetiracetam (LAPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193691000036108/levetiracetam-lapl"
+    },
+    {
+      "text": "Levetiracetam (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1668711000168102/levetiracetam-medsurge"
+    },
+    {
+      "text": "Levetiracetam (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707471000168108/levetiracetam-mlabs"
+    },
+    {
+      "text": "Levetiracetam (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526401000168109/levetiracetam-mylan"
+    },
+    {
+      "text": "Levetiracetam (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,69321000036103/levetiracetam-pfizer"
+    },
+    {
+      "text": "Levetiracetam (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87284011000036105/levetiracetam-sandoz"
+    },
+    {
+      "text": "Levetiracetam (SCP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193431000036105/levetiracetam-scp"
+    },
+    {
+      "text": "Levetiracetam (SZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922938011000036101/levetiracetam-sz"
+    },
+    {
+      "text": "Levetiracetam (Torrent)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536531000036101/levetiracetam-torrent"
+    },
+    {
+      "text": "Levetiracetam (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1673251000168109/levetiracetam-viatris"
+    },
+    {
+      "text": "Levetiracetam (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1771201000168103/levetiracetam-wgr"
+    },
+    {
+      "text": "Levetiracetam (WP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707411000168100/levetiracetam-wp"
+    },
+    {
+      "text": "Levetiracetam IV (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,814561000168105/levetiracetam-iv-apo"
+    },
+    {
+      "text": "Levetiracetam IV (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1191481000168108/levetiracetam-iv-apotex"
+    },
+    {
+      "text": "Levetiracetam IV (Hospira)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698231000168104/levetiracetam-iv-hospira"
+    },
+    {
+      "text": "Levetiram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599731000036107/levetiram"
+    },
+    {
+      "text": "Levetor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507591000036109/levetor"
+    },
+    {
+      "text": "Levi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56201000168107/levi"
+    },
+    {
+      "text": "Levlen ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700023311000036106/levlen-ed"
+    },
+    {
+      "text": "Levodopa/Carbidopa 100/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454181000168105/levodopa-carbidopa-100-25-apo"
+    },
+    {
+      "text": "Levodopa/Carbidopa 250/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454361000168103/levodopa-carbidopa-250-25-apo"
+    },
+    {
+      "text": "Levonorgestrel (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753221000036107/levonorgestrel-apohealth"
+    },
+    {
+      "text": "Levonorgestrel-1 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1000091000168101/levonorgestrel-1-apo"
+    },
+    {
+      "text": "Levonorgestrel-1 (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,759181000168103/levonorgestrel-1-gh"
+    },
+    {
+      "text": "Levothox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663401000168100/levothox"
+    },
+    {
+      "text": "Levothyroxine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1686951000168101/levothyroxine-apo"
+    },
+    {
+      "text": "Levothyroxine (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1629141000168103/levothyroxine-intas"
+    },
+    {
+      "text": "Levothyroxine (Lup)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1679281000168100/levothyroxine-lup"
+    },
+    {
+      "text": "Levothyroxine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1693221000168108/levothyroxine-sandoz"
+    },
+    {
+      "text": "Levoxine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590311000168107/levoxine"
+    },
+    {
+      "text": "Levt",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537251000036108/levt"
+    },
+    {
+      "text": "Lexam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78594011000036105/lexam"
+    },
+    {
+      "text": "Lexapro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3210011000036104/lexapro"
+    },
+    {
+      "text": "Lexotan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3511011000036102/lexotan"
+    },
+    {
+      "text": "Li Zhong Tang (KPC Herbs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1382621000168107/li-zhong-tang-kpc-herbs"
+    },
+    {
+      "text": "Libtayo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1506831000168109/libtayo"
+    },
+    {
+      "text": "Lidocaine (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1404131000168104/lidocaine-accord"
+    },
+    {
+      "text": "Lidocaine (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1548571000168101/lidocaine-baxter"
+    },
+    {
+      "text": "Lidocaine (lignocaine hydrochloride 2% with adrenaline 1 in 80 000) (ATO)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47911000168104/lidocaine-lignocaine-hydrochloride-2-with-adrenaline-1-in-80-000-ato"
+    },
+    {
+      "text": "Lidocaine (Lumacina)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1764111000168101/lidocaine-lumacina"
+    },
+    {
+      "text": "Lidocaine (Noridem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648001000168107/lidocaine-noridem"
+    },
+    {
+      "text": "Lidocaine 0.5% with Adrenaline 1 in 200 000 (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651211000036107/lidocaine-0.5-with-adrenaline-1-in-200-000-phebra"
+    },
+    {
+      "text": "Lidocaine 1% with Adrenaline 1 in 200 000 (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651221000036100/lidocaine-1-with-adrenaline-1-in-200-000-phebra"
+    },
+    {
+      "text": "Lidocaine 2% with Adrenaline 1 in 200 000 (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651231000036103/lidocaine-2-with-adrenaline-1-in-200-000-phebra"
+    },
+    {
+      "text": "Lignocaine (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1177461000168103/lignocaine-claris"
+    },
+    {
+      "text": "Lignocaine (Perrigo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1442391000168103/lignocaine-perrigo"
+    },
+    {
+      "text": "Lignocaine (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,693201000168104/lignocaine-pfizer"
+    },
+    {
+      "text": "Lignocaine Hydrochloride (Orion)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53090011000036100/lignocaine-hydrochloride-orion"
+    },
+    {
+      "text": "Lignocaine Hydrochloride 4% and Fluorescein Sodium 0.25% Minims (Bausch & Lomb)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62981000168104/lignocaine-hydrochloride-4-and-fluorescein-sodium-0.25-minims-bausch-&-lomb"
+    },
+    {
+      "text": "Lignospan Special 2% / 1 in 80 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45221000168105/lignospan-special-2---1-in-80-000"
+    },
+    {
+      "text": "Lincocin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3225011000036102/lincocin"
+    },
+    {
+      "text": "Lincomycin (LWS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703561000036108/lincomycin-lws"
+    },
+    {
+      "text": "Lincomycin (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1143531000168100/lincomycin-sxp"
+    },
+    {
+      "text": "Linevox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,867491000168108/linevox"
+    },
+    {
+      "text": "Linezolid (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1247881000168105/linezolid-akm"
+    },
+    {
+      "text": "Linezolid (Amneal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1194861000168103/linezolid-amneal"
+    },
+    {
+      "text": "Linezolid (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1011571000168100/linezolid-apo"
+    },
+    {
+      "text": "Linezolid (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600291000036101/linezolid-genrx"
+    },
+    {
+      "text": "Linezolid (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1174921000168106/linezolid-kabi"
+    },
+    {
+      "text": "Linezolid (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1247761000168105/linezolid-pharmacor"
+    },
+    {
+      "text": "Linopril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1320031000168109/linopril"
+    },
+    {
+      "text": "Lioresal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3860011000036106/lioresal"
+    },
+    {
+      "text": "Lipex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3298011000036103/lipex"
+    },
+    {
+      "text": "Lipidil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4138011000036106/lipidil"
+    },
+    {
+      "text": "Lipigem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83550011000036105/lipigem"
+    },
+    {
+      "text": "Lipiodol Ultra-Fluid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39771011000036106/lipiodol-ultra-fluid"
+    },
+    {
+      "text": "Lipitor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3877011000036101/lipitor"
+    },
+    {
+      "text": "Liposomal Doxorubicin (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,171541000036102/liposomal-doxorubicin-sun"
+    },
+    {
+      "text": "Lipostat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3757011000036101/lipostat"
+    },
+    {
+      "text": "Liquid Paraffin (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,76004011000036102/liquid-paraffin-gold-cross"
+    },
+    {
+      "text": "Liraglutide (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,845295231000036108/liraglutide-arx"
+    },
+    {
+      "text": "Liraglutide (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,818404201000036109/liraglutide-cipla"
+    },
+    {
+      "text": "Liraglutide (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507491000036108/liraglutide-sandoz"
+    },
+    {
+      "text": "Lisanol Antiseptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1297491000168103/lisanol-antiseptic"
+    },
+    {
+      "text": "Lisinopril (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,96231000036104/lisinopril-apo"
+    },
+    {
+      "text": "Lisinopril (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52382011000036107/lisinopril-apotex"
+    },
+    {
+      "text": "Lisinopril (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193111000036109/lisinopril-ipca"
+    },
+    {
+      "text": "Lisinopril (PIP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1269311000168106/lisinopril-pip"
+    },
+    {
+      "text": "Lisinopril (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,79351011000036102/lisinopril-sandoz"
+    },
+    {
+      "text": "Lisinopril (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1750701000168102/lisinopril-wgr"
+    },
+    {
+      "text": "Lisodrate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1320301000168100/lisodrate"
+    },
+    {
+      "text": "Lisoril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925547011000036105/lisoril"
+    },
+    {
+      "text": "Litak",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4333011000036108/litak"
+    },
+    {
+      "text": "Litfulo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933280121000036105/litfulo"
+    },
+    {
+      "text": "Lithicarb",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3104011000036109/lithicarb"
+    },
+    {
+      "text": "Lithicarb SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927411000168100/lithicarb-sr"
+    },
+    {
+      "text": "Little Coughs",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1436261000168101/little-coughs"
+    },
+    {
+      "text": "Little Parachoc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1403691000168107/little-parachoc"
+    },
+    {
+      "text": "Livdelzi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651371000036107/livdelzi"
+    },
+    {
+      "text": "Livial",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39758011000036104/livial"
+    },
+    {
+      "text": "Livilan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1524521000168105/livilan"
+    },
+    {
+      "text": "Livostin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4339011000036106/livostin"
+    },
+    {
+      "text": "Livtencity",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1660181000168105/livtencity"
+    },
+    {
+      "text": "Livudine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599361000036100/livudine"
+    },
+    {
+      "text": "LMX 4 Topical Anaesthetic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4651000168107/lmx-4-topical-anaesthetic"
+    },
+    {
+      "text": "LMX-4",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1258091000168102/lmx-4"
+    },
+    {
+      "text": "Locacorten-Vioform 0.02% / 1%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1001000168102/locacorten-vioform-0.02---1"
+    },
+    {
+      "text": "Loceryl Nail Lacquer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59341000168105/loceryl-nail-lacquer"
+    },
+    {
+      "text": "Loette",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87054011000036109/loette"
+    },
+    {
+      "text": "Lofenoxal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2995011000036104/lofenoxal"
+    },
+    {
+      "text": "Logem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701951000168104/logem"
+    },
+    {
+      "text": "Logicin Cold and Flu Day/Night",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1071751000168107/logicin-cold-and-flu-day-night"
+    },
+    {
+      "text": "Logicin Cold and Flu PE Day/Night",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1356411000168108/logicin-cold-and-flu-pe-day-night"
+    },
+    {
+      "text": "Logicin Cold and Flu Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1068071000168101/logicin-cold-and-flu-relief"
+    },
+    {
+      "text": "Logicin Flu Strength Day and Night",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,50041000168102/logicin-flu-strength-day-and-night"
+    },
+    {
+      "text": "Logicin Rapid Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53296011000036108/logicin-rapid-relief"
+    },
+    {
+      "text": "Logicin Rapid Relief Nasal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4081011000036100/logicin-rapid-relief-nasal"
+    },
+    {
+      "text": "Logynon ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700021511000036101/logynon-ed"
+    },
+    {
+      "text": "Lokelma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,896582561000036105/lokelma"
+    },
+    {
+      "text": "Lomide",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53404011000036102/lomide"
+    },
+    {
+      "text": "Lomotil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3447011000036105/lomotil"
+    },
+    {
+      "text": "Loniten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3684011000036109/loniten"
+    },
+    {
+      "text": "Lonquex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,795731000168108/lonquex"
+    },
+    {
+      "text": "Loperamide (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1431751000168102/loperamide-apohealth"
+    },
+    {
+      "text": "Lorapaed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53259011000036106/lorapaed"
+    },
+    {
+      "text": "Lorastyne (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,649051000168103/lorastyne-pharmacy-action"
+    },
+    {
+      "text": "Loratadine (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53343011000036104/loratadine-amcal"
+    },
+    {
+      "text": "Loratadine (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53461011000036104/loratadine-chemists'-own"
+    },
+    {
+      "text": "Loratadine Antihistamine (Trust)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1466341000168102/loratadine-antihistamine-trust"
+    },
+    {
+      "text": "Loratadine Hayfever and Allergy Relief (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1403821000168109/loratadine-hayfever-and-allergy-relief-apohealth"
+    },
+    {
+      "text": "Loraze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1479751000168103/loraze"
+    },
+    {
+      "text": "Lorazepam (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772361000168103/lorazepam-aft"
+    },
+    {
+      "text": "Lorazepam (AJS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1606941000168102/lorazepam-ajs"
+    },
+    {
+      "text": "Lorazepam (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,134101000036109/lorazepam-apo"
+    },
+    {
+      "text": "Lorazepam (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1627651000168103/lorazepam-lupin"
+    },
+    {
+      "text": "Lorazepam (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1478971000168101/lorazepam-mylan"
+    },
+    {
+      "text": "Lorazepam (SCP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1479071000168105/lorazepam-scp"
+    },
+    {
+      "text": "Lorazepam (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1604061000168106/lorazepam-sxp"
+    },
+    {
+      "text": "Lorazepam (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1685541000168103/lorazepam-viatris"
+    },
+    {
+      "text": "Lorazepam (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1747541000168108/lorazepam-wgr"
+    },
+    {
+      "text": "Lorazol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1646501000168104/lorazol"
+    },
+    {
+      "text": "Lorrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1310631000168107/lorrex"
+    },
+    {
+      "text": "Lorstat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19751000036109/lorstat"
+    },
+    {
+      "text": "Lorviqua",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1480891000168103/lorviqua"
+    },
+    {
+      "text": "Losartan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1003821000168102/losartan-apo"
+    },
+    {
+      "text": "Losec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3618011000036100/losec"
+    },
+    {
+      "text": "Lotemax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,123721000036101/lotemax"
+    },
+    {
+      "text": "Low Dose Aspirin (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1511091000168106/low-dose-aspirin-chemists'-own"
+    },
+    {
+      "text": "Low Dose Aspirin (Coles)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1093751000168103/low-dose-aspirin-coles"
+    },
+    {
+      "text": "Low Dose Aspirin (TerryWhite Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1752381000168105/low-dose-aspirin-terrywhite-chemmart"
+    },
+    {
+      "text": "Loxalate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,79334011000036103/loxalate"
+    },
+    {
+      "text": "Loxip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26181000036100/loxip"
+    },
+    {
+      "text": "Lozanoc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,679991000168108/lozanoc"
+    },
+    {
+      "text": "LPV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4373011000036105/lpv"
+    },
+    {
+      "text": "Lucas' Papaw",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78612011000036105/lucas'-papaw"
+    },
+    {
+      "text": "Lucentis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3299011000036106/lucentis"
+    },
+    {
+      "text": "Lucinda",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599801000036107/lucinda"
+    },
+    {
+      "text": "Lucrin Depot",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6141000168106/lucrin-depot"
+    },
+    {
+      "text": "Lucrin Depot 3-Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54651000168100/lucrin-depot-3-month"
+    },
+    {
+      "text": "Lucrin Depot 4-Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47391000168107/lucrin-depot-4-month"
+    },
+    {
+      "text": "Lucrin Depot 6-Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,750001000168100/lucrin-depot-6-month"
+    },
+    {
+      "text": "Lucrin Depot Paediatric",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698271000168101/lucrin-depot-paediatric"
+    },
+    {
+      "text": "Lumakras",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,936217261000036103/lumakras"
+    },
+    {
+      "text": "Lumatogan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1243011000168104/lumatogan"
+    },
+    {
+      "text": "Lumexia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,435511681000036106/lumexia"
+    },
+    {
+      "text": "Lumigan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24941000168106/lumigan"
+    },
+    {
+      "text": "Lumigan PF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17031000168103/lumigan-pf"
+    },
+    {
+      "text": "Lumigan RC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1121531000168101/lumigan-rc"
+    },
+    {
+      "text": "Lumin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4262011000036102/lumin"
+    },
+    {
+      "text": "Lumiprost",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1247251000168102/lumiprost"
+    },
+    {
+      "text": "Lumitoprost",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1243341000168103/lumitoprost"
+    },
+    {
+      "text": "Lunava",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193181000036101/lunava"
+    },
+    {
+      "text": "Luracor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1501721000168109/luracor"
+    },
+    {
+      "text": "Luralem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491001000168107/luralem"
+    },
+    {
+      "text": "Luralembic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1498311000168103/luralembic"
+    },
+    {
+      "text": "Lurasidone (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1492271000168100/lurasidone-alembic"
+    },
+    {
+      "text": "Lurasidone (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1492691000168102/lurasidone-apo"
+    },
+    {
+      "text": "Lurasidone (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1482301000168102/lurasidone-lupin"
+    },
+    {
+      "text": "Lurasidone (MSN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491731000168103/lurasidone-msn"
+    },
+    {
+      "text": "Lurasidone (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1501891000168101/lurasidone-pharmacor"
+    },
+    {
+      "text": "Lurasidone (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1496311000168104/lurasidone-sandoz"
+    },
+    {
+      "text": "Lurasidone (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1526091000168109/lurasidone-sun"
+    },
+    {
+      "text": "Lurasidone (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770311000168102/lurasidone-wgr"
+    },
+    {
+      "text": "Lurobi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1498471000168104/lurobi"
+    },
+    {
+      "text": "Lutacip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1753221000168109/lutacip"
+    },
+    {
+      "text": "Lutathera",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703211000036108/lutathera"
+    },
+    {
+      "text": "Lutein Defence",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1319481000168104/lutein-defence"
+    },
+    {
+      "text": "Luveris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39654011000036102/luveris"
+    },
+    {
+      "text": "Luvox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4159011000036104/luvox"
+    },
+    {
+      "text": "Luxturna",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1495351000168106/luxturna"
+    },
+    {
+      "text": "Lyclear Scabies",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61381000168105/lyclear-scabies"
+    },
+    {
+      "text": "Lymph-Flo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1213711000168109/lymph-flo"
+    },
+    {
+      "text": "Lynkuet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586191000036104/lynkuet"
+    },
+    {
+      "text": "Lynparza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,807181000168103/lynparza"
+    },
+    {
+      "text": "Lyprinol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1338361000168104/lyprinol"
+    },
+    {
+      "text": "Lyraccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1316461000168103/lyraccord"
+    },
+    {
+      "text": "Lyrica",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32972011000036104/lyrica"
+    },
+    {
+      "text": "Lyrica CR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1536001000168101/lyrica-cr"
+    },
+    {
+      "text": "Lyrigalin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1389711000168102/lyrigalin"
+    },
+    {
+      "text": "Lyrilin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1326611000168106/lyrilin"
+    },
+    {
+      "text": "Lytgobi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536861000036105/lytgobi"
+    },
+    {
+      "text": "Lyzalon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,972181000168101/lyzalon"
+    },
+    {
+      "text": "Labetalol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21231/labetalol"
+    },
+    {
+      "text": "Lacosamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21230/lacosamide"
+    },
+    {
+      "text": "Lactobacillus acidophilus + Bifidobacterium lactis",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24291/lactobacillus-acidophilus-+-bifidobacterium-lactis"
+    },
+    {
+      "text": "Lactobacillus acidophilus + Lactobacillus rhamnosus + Bifidobacterium lactis + Lactobacillus plantarum + Bifidobacterium animalis + Lactobacillus paracasei + thiamine + riboflavin + colecalciferol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50793/lactobacillus-acidophilus-+-lactobacillus-rhamnosus-+-bifidobacterium-lactis-+-lactobacillus-plantarum-+-bifidobacterium-animalis-+-lactobacillus-paracasei-+-thiamine-+-riboflavin-+-colecalciferol"
+    },
+    {
+      "text": "Lactobacillus plantarum",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22599/lactobacillus-plantarum"
+    },
+    {
+      "text": "Lactobacillus reuteri",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26659/lactobacillus-reuteri"
+    },
+    {
+      "text": "Lactobacillus reuteri + colecalciferol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50652/lactobacillus-reuteri-+-colecalciferol"
+    },
+    {
+      "text": "Lactobacillus rhamnosus + Lactobacillus casei + Lactobacillus acidophilus + Lactobacillus plantarum + Lactobacillus fermentum + Bifidobacterium animalis + Bifidobacterium breve + Bifidobacterium bifidum + Streptococcus thermophilus",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50275/lactobacillus-rhamnosus-+-lactobacillus-casei-+-lactobacillus-acidophilus-+-lactobacillus-plantarum-+-lactobacillus-fermentum-+-bifidobacterium-animalis-+-bifidobacterium-breve-+-bifidobacterium-bifidum-+-streptococcus-thermophilus"
+    },
+    {
+      "text": "Lactobacillus rhamnosus + Lactobacillus reuteri",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50517/lactobacillus-rhamnosus-+-lactobacillus-reuteri"
+    },
+    {
+      "text": "Lactobacillus rhamnosus + Saccharomyces boulardii",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50518/lactobacillus-rhamnosus-+-saccharomyces-boulardii"
+    },
+    {
+      "text": "lactulose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22600/lactulose"
+    },
+    {
+      "text": "Lamivudine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20186/lamivudine"
+    },
+    {
+      "text": "lamivudine + zidovudine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23346/lamivudine-+-zidovudine"
+    },
+    {
+      "text": "Lamotrigine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21229/lamotrigine"
+    },
+    {
+      "text": "Lanadelumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24817/lanadelumab"
+    },
+    {
+      "text": "Landiolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50607/landiolol"
+    },
+    {
+      "text": "Lanreotide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21228/lanreotide"
+    },
+    {
+      "text": "Lansoprazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21227/lansoprazole"
+    },
+    {
+      "text": "lanthanum",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21225/lanthanum"
+    },
+    {
+      "text": "Lapatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21226/lapatinib"
+    },
+    {
+      "text": "laronidase",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21224/laronidase"
+    },
+    {
+      "text": "larotrectinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26812/larotrectinib"
+    },
+    {
+      "text": "latanoprost",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20423/latanoprost"
+    },
+    {
+      "text": "latanoprost + timolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23347/latanoprost-+-timolol"
+    },
+    {
+      "text": "Lauromacrogol-400",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21223/lauromacrogol-400"
+    },
+    {
+      "text": "Lazertinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50558/lazertinib"
+    },
+    {
+      "text": "Lebrikizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50059/lebrikizumab"
+    },
+    {
+      "text": "Lecanemab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50674/lecanemab"
+    },
+    {
+      "text": "Ledipasvir + sofosbuvir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23605/ledipasvir-+-sofosbuvir"
+    },
+    {
+      "text": "leflunomide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21222/leflunomide"
+    },
+    {
+      "text": "Lemborexant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27022/lemborexant"
+    },
+    {
+      "text": "Lenacapavir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27135/lenacapavir"
+    },
+    {
+      "text": "Lenalidomide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21221/lenalidomide"
+    },
+    {
+      "text": "Leniolisib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50519/leniolisib"
+    },
+    {
+      "text": "Lenvatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23781/lenvatinib"
+    },
+    {
+      "text": "Lercanidipine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20992/lercanidipine"
+    },
+    {
+      "text": "Lercanidipine + enalapril",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23348/lercanidipine-+-enalapril"
+    },
+    {
+      "text": "letermovir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24451/letermovir"
+    },
+    {
+      "text": "letibotulinumtoxinA",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27148/letibotulinumtoxina"
+    },
+    {
+      "text": "Letrozole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21218/letrozole"
+    },
+    {
+      "text": "Leuprorelin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21217/leuprorelin"
+    },
+    {
+      "text": "Levetiracetam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21216/levetiracetam"
+    },
+    {
+      "text": "Levocabastine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22611/levocabastine"
+    },
+    {
+      "text": "Levocarnitine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24338/levocarnitine"
+    },
+    {
+      "text": "Levocetirizine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22612/levocetirizine"
+    },
+    {
+      "text": "levodopa + benserazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23349/levodopa-+-benserazide"
+    },
+    {
+      "text": "levodopa + carbidopa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23350/levodopa-+-carbidopa"
+    },
+    {
+      "text": "levodopa + carbidopa + entacapone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23543/levodopa-+-carbidopa-+-entacapone"
+    },
+    {
+      "text": "levonorgestrel",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21213/levonorgestrel"
+    },
+    {
+      "text": "levonorgestrel + ethinylestradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23293/levonorgestrel-+-ethinylestradiol"
+    },
+    {
+      "text": "Levothyroxine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20572/levothyroxine"
+    },
+    {
+      "text": "lidocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21211/lidocaine"
+    },
+    {
+      "text": "lidocaine + adrenaline (epinephrine)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23351/lidocaine-+-adrenaline-epinephrine"
+    },
+    {
+      "text": "lidocaine + aminoacridine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23162/lidocaine-+-aminoacridine"
+    },
+    {
+      "text": "lidocaine + benzydamine + dichlorobenzyl alcohol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23547/lidocaine-+-benzydamine-+-dichlorobenzyl-alcohol"
+    },
+    {
+      "text": "lidocaine + cetrimide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23353/lidocaine-+-cetrimide"
+    },
+    {
+      "text": "Lidocaine + cetrimide + chlorhexidine + hexamidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50541/lidocaine-+-cetrimide-+-chlorhexidine-+-hexamidine"
+    },
+    {
+      "text": "lidocaine + dichlorobenzyl alcohol + amylmetacresol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23544/lidocaine-+-dichlorobenzyl-alcohol-+-amylmetacresol"
+    },
+    {
+      "text": "lidocaine + fluorescein",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23306/lidocaine-+-fluorescein"
+    },
+    {
+      "text": "lidocaine + hydrocortisone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23356/lidocaine-+-hydrocortisone"
+    },
+    {
+      "text": "lidocaine + menthol + chlorhexidine + cetrimide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24220/lidocaine-+-menthol-+-chlorhexidine-+-cetrimide"
+    },
+    {
+      "text": "Lidocaine + phenoxyisopropanol + cetrimide + chlorhexidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50542/lidocaine-+-phenoxyisopropanol-+-cetrimide-+-chlorhexidine"
+    },
+    {
+      "text": "lidocaine + phenylephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23358/lidocaine-+-phenylephrine"
+    },
+    {
+      "text": "lidocaine + prilocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23359/lidocaine-+-prilocaine"
+    },
+    {
+      "text": "lifitegrast",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26572/lifitegrast"
+    },
+    {
+      "text": "Light liquid paraffin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22796/light-liquid-paraffin"
+    },
+    {
+      "text": "linaclotide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26578/linaclotide"
+    },
+    {
+      "text": "linagliptin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20738/linagliptin"
+    },
+    {
+      "text": "linagliptin + metformin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23361/linagliptin-+-metformin"
+    },
+    {
+      "text": "lincomycin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21210/lincomycin"
+    },
+    {
+      "text": "linezolid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21209/linezolid"
+    },
+    {
+      "text": "Linzagolix",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50608/linzagolix"
+    },
+    {
+      "text": "liothyronine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21208/liothyronine"
+    },
+    {
+      "text": "lipase + amylase + protease",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23954/lipase-+-amylase-+-protease"
+    },
+    {
+      "text": "lipegfilgrastim",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23835/lipegfilgrastim"
+    },
+    {
+      "text": "liposomal amphotericin B",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22071/liposomal-amphotericin-b"
+    },
+    {
+      "text": "Liquid paraffin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23585/liquid-paraffin"
+    },
+    {
+      "text": "Liquid paraffin + lanolin oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23402/liquid-paraffin-+-lanolin-oil"
+    },
+    {
+      "text": "Liquorice extract + British yellowhead extract + Korean ginseng extract + ban xia extract + ginger extract + jujube extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50279/liquorice-extract-+-british-yellowhead-extract-+-korean-ginseng-extract-+-ban-xia-extract-+-ginger-extract-+-jujube-extract"
+    },
+    {
+      "text": "Liquorice extract + mondo grass extract + Korean ginseng extract + ban xia extract + foxtail millet extract + jujube extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50280/liquorice-extract-+-mondo-grass-extract-+-korean-ginseng-extract-+-ban-xia-extract-+-foxtail-millet-extract-+-jujube-extract"
+    },
+    {
+      "text": "Liraglutide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21207/liraglutide"
+    },
+    {
+      "text": "Lisdexamfetamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21206/lisdexamfetamine"
+    },
+    {
+      "text": "Lisinopril",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21205/lisinopril"
+    },
+    {
+      "text": "Lithium carbonate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21204/lithium-carbonate"
+    },
+    {
+      "text": "lodoxamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21202/lodoxamide"
+    },
+    {
+      "text": "lomustine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21201/lomustine"
+    },
+    {
+      "text": "Lonapegsomatropin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50585/lonapegsomatropin"
+    },
+    {
+      "text": "loperamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21377/loperamide"
+    },
+    {
+      "text": "loperamide + simethicone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23362/loperamide-+-simethicone"
+    },
+    {
+      "text": "Lopinavir + ritonavir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23363/lopinavir-+-ritonavir"
+    },
+    {
+      "text": "Loratadine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22621/loratadine"
+    },
+    {
+      "text": "loratadine + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23364/loratadine-+-pseudoephedrine"
+    },
+    {
+      "text": "Lorazepam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21199/lorazepam"
+    },
+    {
+      "text": "Lorlatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26735/lorlatinib"
+    },
+    {
+      "text": "Losartan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21198/losartan"
+    },
+    {
+      "text": "Loteprednol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22623/loteprednol"
+    },
+    {
+      "text": "lumacaftor + ivacaftor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23864/lumacaftor-+-ivacaftor"
+    },
+    {
+      "text": "Lumasiran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50543/lumasiran"
+    },
+    {
+      "text": "Lurasidone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21196/lurasidone"
+    },
+    {
+      "text": "lurbinectedin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27160/lurbinectedin"
+    },
+    {
+      "text": "Luspatercept",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50544/luspatercept"
+    },
+    {
+      "text": "lutein + zeaxanthin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24865/lutein-+-zeaxanthin"
+    },
+    {
+      "text": "Lutetium (177-Lu) vipivotide tetraxetan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50494/lutetium-177-lu-vipivotide-tetraxetan"
+    },
+    {
+      "text": "Lutetium (177Lu) oxodotreotide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50748/lutetium-177lu-oxodotreotide"
+    },
+    {
+      "text": "lutropin alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21195/lutropin-alfa"
+    },
+    {
+      "text": "Lysine + ascorbic acid + citrus bioflavonoids extract + zinc + nicotinamide + pyridoxine + membranous milk vetch extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50284/lysine-+-ascorbic-acid-+-citrus-bioflavonoids-extract-+-zinc-+-nicotinamide-+-pyridoxine-+-membranous-milk-vetch-extract"
+    },
+    {
+      "text": "Lysine + thiamine + pyridoxine + cyanocobalamin + ferric pyrophosphate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50285/lysine-+-thiamine-+-pyridoxine-+-cyanocobalamin-+-ferric-pyrophosphate"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"L\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"L\"\n\n## Brand names\n\n- L-Arginine Hydrochloride (Phebra)\n\n- L-Carnitine (Metabolics)\n\n- L.C.E 100/25/200\n\n- L.C.E. 125/31.25/200\n\n- L.C.E. 150/37.5/200\n\n- L.C.E. 200/50/200\n\n- L.C.E. 50/12.5/200\n\n- L.C.E. 75/18.75/200\n\n- Labetalol (SXP)\n\n- Laceraine Topical Wound Anaesthetic\n\n- Lacomed\n\n- Lacosacor\n\n- Lacosam\n\n- Lacosamide (Apo)\n\n- Lacosamide (ARX)\n\n- Lacosamide (InterPharma)\n\n- Lacosamide (Lupin)\n\n- Lacosamide (Pharmacor)\n\n- Lacosamide (Sandoz)\n\n- Lacovim\n\n- Lacreo\n\n- Lacritec\n\n- Lacteeze\n\n- Lactulose (Apohealth)\n\n- Lactulose (Chemists' Own)\n\n- Lagevrio\n\n- Lamictal\n\n- Lamidus\n\n- Lamisil\n\n- Lamisil Athlete's Foot\n\n- Lamisil Dermgel\n\n- Lamisil Once\n\n- Lamitan\n\n- Lamivudine (Alphapharm)\n\n- Lamivudine (Ranbaxy)\n\n- Lamivudine (Viatris)\n\n- Lamivudine and Zidovudine 150/300 (Alphapharm)\n\n- Lamivudine and Zidovudine 150/300 (Viatris)\n\n- Lamotrigine (AN)\n\n- Lamotrigine (APX)\n\n- Lamotrigine (GH)\n\n- Lamotrigine (PS)\n\n- Lamotrigine (Sandoz)\n\n- Lamotrigine (WGR)\n\n- Lamotrust\n\n- Lamzede\n\n- Lanoxin\n\n- Lanoxin Adult\n\n- Lanoxin Infants\n\n- Lanoxin Paediatric Elixir\n\n- Lanoxin PG\n\n- Lansoprazole (Apo)\n\n- Lansoprazole ODT (Apo)\n\n- Lansoprazole ODT (GH)\n\n- Lanvis\n\n- Lanzopran\n\n- Larandine\n\n- Largactil\n\n- Largactil Syrup\n\n- Lariam\n\n- Lasix\n\n- Lasix High Dose\n\n- Latanoprost (Apo)\n\n- Latanoprost (Apotex)\n\n- Latanoprost (Sandoz)\n\n- Latanoprost RT (Pfizer)\n\n- Latanoprost/Timolol 0.05/5 (Apotex)\n\n- Latanoprost/Timolol 50/5 (Apo)\n\n- Latnop\n\n- Latnoprost\n\n- Latuda\n\n- Lavione\n\n- Lax-Suppositories\n\n- Lax-Tab\n\n- Lax-Tab EC\n\n- Laxative with Senna (Chemists' Own)\n\n- Laxative with Softener (Apohealth)\n\n- Laxettes\n\n- Laxiflocin\n\n- Lazcluze\n\n- Lecigon\n\n- Lecteva 100/25/200\n\n- Lecteva 125/31.25/200\n\n- Lecteva 150/37.5/200\n\n- Lecteva 200/50/200\n\n- Lecteva 50/12.5/200\n\n- Lecteva 75/18.75/200\n\n- Ledaga\n\n- Ledip\n\n- Leflunomide (Apo)\n\n- Leflunomide (Apotex)\n\n- Leflunomide (CH)\n\n- Leflunomide (Generic Health)\n\n- Leflunomide (Sandoz)\n\n- Leflunomide (WGR)\n\n- Lemsip Max Cold and Flu\n\n- Lemsip Max Cold and Flu plus Chesty Cough\n\n- Lemsip Max Cold and Flu with Decongestant\n\n- Lemtrada\n\n- Lenalide\n\n- Lenalidomide (Cipla)\n\n- Lenalidomide (Dr. Reddy's)\n\n- Lenalidomide (Sandoz)\n\n- Lenalidomide (Viatris)\n\n- Lenest 20 ED\n\n- Lenest 30 ED\n\n- Lengout\n\n- Lenvatinib (ARX)\n\n- Lenvima\n\n- Lepine\n\n- Leqembi\n\n- Leqvio\n\n- Lercan\n\n- Lercanidipine (Apotex)\n\n- Lercanidipine (ARX)\n\n- Lercanidipine (WGR)\n\n- Lercanidipine Enalapril 10/10 (Mylan)\n\n- Lercanidipine Enalapril 10/20 (Mylan)\n\n- Lercanidipine Hydrochloride (AN)\n\n- Lercanidipine Hydrochloride (Apo)\n\n- Lescol XL\n\n- Letrozole (Apo)\n\n- Letrozole (Apotex)\n\n- Letrozole (ARX)\n\n- Letrozole (FBM)\n\n- Letrozole (GenRx)\n\n- Letrozole (GH)\n\n- Letrozole (Pharmacor)\n\n- Letrozole (Sandoz)\n\n- Letrozole (WGR)\n\n- Letybo\n\n- Leucovorin Calcium (DBL)\n\n- Leucovorin Calcium (Mayne Pharma)\n\n- Leucovorin Calcium (Pfizer (Perth))\n\n- Leucovorin Calcium (Pfizer)\n\n- Leukeran\n\n- Leustatin\n\n- Levactam\n\n- Leveceumid\n\n- Levefintaic\n\n- Levekep\n\n- Levemir Flexpen\n\n- Levemir Penfill\n\n- Levenakai\n\n- Leveriuol\n\n- Levesineal\n\n- Leveth 150/30 ED\n\n- Levetiracetam (Accord)\n\n- Levetiracetam (Admed)\n\n- Levetiracetam (AFT)\n\n- Levetiracetam (Apo)\n\n- Levetiracetam (Auro)\n\n- Levetiracetam (B&B)\n\n- Levetiracetam (GH)\n\n- Levetiracetam (LAPL)\n\n- Levetiracetam (Medsurge)\n\n- Levetiracetam (MLabs)\n\n- Levetiracetam (Mylan)\n\n- Levetiracetam (Pfizer)\n\n- Levetiracetam (Sandoz)\n\n- Levetiracetam (SCP)\n\n- Levetiracetam (SZ)\n\n- Levetiracetam (Torrent)\n\n- Levetiracetam (Viatris)\n\n- Levetiracetam (WGR)\n\n- Levetiracetam (WP)\n\n- Levetiracetam IV (Apo)\n\n- Levetiracetam IV (Apotex)\n\n- Levetiracetam IV (Hospira)\n\n- Levetiram\n\n- Levetor\n\n- Levi\n\n- Levlen ED\n\n- Levodopa/Carbidopa 100/25 (Apo)\n\n- Levodopa/Carbidopa 250/25 (Apo)\n\n- Levonorgestrel (Apohealth)\n\n- Levonorgestrel-1 (Apo)\n\n- Levonorgestrel-1 (GH)\n\n- Levothox\n\n- Levothyroxine (Apo)\n\n- Levothyroxine (Intas)\n\n- Levothyroxine (Lup)\n\n- Levothyroxine (Sandoz)\n\n- Levoxine\n\n- Levt\n\n- Lexam\n\n- Lexapro\n\n- Lexotan\n\n- Li Zhong Tang (KPC Herbs)\n\n- Libtayo\n\n- Lidocaine (Accord)\n\n- Lidocaine (Baxter)\n\n- Lidocaine (lignocaine hydrochloride 2% with adrenaline 1 in 80 000) (ATO)\n\n- Lidocaine (Lumacina)\n\n- Lidocaine (Noridem)\n\n- Lidocaine 0.5% with Adrenaline 1 in 200 000 (Phebra)\n\n- Lidocaine 1% with Adrenaline 1 in 200 000 (Phebra)\n\n- Lidocaine 2% with Adrenaline 1 in 200 000 (Phebra)\n\n- Lignocaine (Claris)\n\n- Lignocaine (Perrigo)\n\n- Lignocaine (Pfizer)\n\n- Lignocaine Hydrochloride (Orion)\n\n- Lignocaine Hydrochloride 4% and Fluorescein Sodium 0.25% Minims (Bausch & Lomb)\n\n- Lignospan Special 2% / 1 in 80 000\n\n- Lincocin\n\n- Lincomycin (LWS)\n\n- Lincomycin (SXP)\n\n- Linevox\n\n- Linezolid (AKM)\n\n- Linezolid (Amneal)\n\n- Linezolid (Apo)\n\n- Linezolid (GenRx)\n\n- Linezolid (Kabi)\n\n- Linezolid (Pharmacor)\n\n- Linopril\n\n- Lioresal\n\n- Lipex\n\n- Lipidil\n\n- Lipigem\n\n- Lipiodol Ultra-Fluid\n\n- Lipitor\n\n- Liposomal Doxorubicin (Sun)\n\n- Lipostat\n\n- Liquid Paraffin (Gold Cross)\n\n- Liraglutide (ARX)\n\n- Liraglutide (Cipla)\n\n- Liraglutide (Sandoz)\n\n- Lisanol Antiseptic\n\n- Lisinopril (Apo)\n\n- Lisinopril (Apotex)\n\n- Lisinopril (Ipca)\n\n- Lisinopril (PIP)\n\n- Lisinopril (Sandoz)\n\n- Lisinopril (WGR)\n\n- Lisodrate\n\n- Lisoril\n\n- Litak\n\n- Litfulo\n\n- Lithicarb\n\n- Lithicarb SR\n\n- Little Coughs\n\n- Little Parachoc\n\n- Livdelzi\n\n- Livial\n\n- Livilan\n\n- Livostin\n\n- Livtencity\n\n- Livudine\n\n- LMX 4 Topical Anaesthetic\n\n- LMX-4\n\n- Locacorten-Vioform 0.02% / 1%\n\n- Loceryl Nail Lacquer\n\n- Loette\n\n- Lofenoxal\n\n- Logem\n\n- Logicin Cold and Flu Day/Night\n\n- Logicin Cold and Flu PE Day/Night\n\n- Logicin Cold and Flu Relief\n\n- Logicin Flu Strength Day and Night\n\n- Logicin Rapid Relief\n\n- Logicin Rapid Relief Nasal\n\n- Logynon ED\n\n- Lokelma\n\n- Lomide\n\n- Lomotil\n\n- Loniten\n\n- Lonquex\n\n- Loperamide (Apohealth)\n\n- Lorapaed\n\n- Lorastyne (Pharmacy Action)\n\n- Loratadine (Amcal)\n\n- Loratadine (Chemists' Own)\n\n- Loratadine Antihistamine (Trust)\n\n- Loratadine Hayfever and Allergy Relief (Apohealth)\n\n- Loraze\n\n- Lorazepam (AFT)\n\n- Lorazepam (AJS)\n\n- Lorazepam (Apo)\n\n- Lorazepam (Lupin)\n\n- Lorazepam (Mylan)\n\n- Lorazepam (SCP)\n\n- Lorazepam (SXP)\n\n- Lorazepam (Viatris)\n\n- Lorazepam (WGR)\n\n- Lorazol\n\n- Lorrex\n\n- Lorstat\n\n- Lorviqua\n\n- Losartan (Apo)\n\n- Losec\n\n- Lotemax\n\n- Low Dose Aspirin (Chemists' Own)\n\n- Low Dose Aspirin (Coles)\n\n- Low Dose Aspirin (TerryWhite Chemmart)\n\n- Loxalate\n\n- Loxip\n\n- Lozanoc\n\n- LPV\n\n- Lucas' Papaw\n\n- Lucentis\n\n- Lucinda\n\n- Lucrin Depot\n\n- Lucrin Depot 3-Month\n\n- Lucrin Depot 4-Month\n\n- Lucrin Depot 6-Month\n\n- Lucrin Depot Paediatric\n\n- Lumakras\n\n- Lumatogan\n\n- Lumexia\n\n- Lumigan\n\n- Lumigan PF\n\n- Lumigan RC\n\n- Lumin\n\n- Lumiprost\n\n- Lumitoprost\n\n- Lunava\n\n- Luracor\n\n- Luralem\n\n- Luralembic\n\n- Lurasidone (Alembic)\n\n- Lurasidone (Apo)\n\n- Lurasidone (Lupin)\n\n- Lurasidone (MSN)\n\n- Lurasidone (Pharmacor)\n\n- Lurasidone (Sandoz)\n\n- Lurasidone (Sun)\n\n- Lurasidone (WGR)\n\n- Lurobi\n\n- Lutacip\n\n- Lutathera\n\n- Lutein Defence\n\n- Luveris\n\n- Luvox\n\n- Luxturna\n\n- Lyclear Scabies\n\n- Lymph-Flo\n\n- Lynkuet\n\n- Lynparza\n\n- Lyprinol\n\n- Lyraccord\n\n- Lyrica\n\n- Lyrica CR\n\n- Lyrigalin\n\n- Lyrilin\n\n- Lytgobi\n\n- Lyzalon\n\nPREV 1 2 3 4 5 6 7 NEXT\n\n## Active ingredients\n\n- Labetalol\n\n- Lacosamide\n\n- Lactobacillus acidophilus +\n\n- Bifidobacterium lactis\n\n- Lactobacillus rhamnosus +\n\n- Bifidobacterium lactis +\n\n- Lactobacillus plantarum +\n\n- Bifidobacterium animalis +\n\n- Lactobacillus paracasei +\n\n- thiamine +\n\n- riboflavin +\n\n- colecalciferol\n\n- Lactobacillus plantarum\n\n- Lactobacillus reuteri\n\n- Lactobacillus reuteri +\n\n- Lactobacillus casei +\n\n- Lactobacillus fermentum +\n\n- Bifidobacterium breve +\n\n- Bifidobacterium bifidum +\n\n- Streptococcus thermophilus\n\n- Saccharomyces boulardii\n\n- lactulose\n\n- Lamivudine\n\n- lamivudine +\n\n- zidovudine\n\n- Lamotrigine\n\n- Lanadelumab\n\n- Landiolol\n\n- Lanreotide\n\n- Lansoprazole\n\n- lanthanum\n\n- Lapatinib\n\n- laronidase\n\n- larotrectinib\n\n- latanoprost\n\n- latanoprost +\n\n- timolol\n\n- Lauromacrogol-400\n\n- Lazertinib\n\n- Lebrikizumab\n\n- Lecanemab\n\n- Ledipasvir +\n\n- sofosbuvir\n\n- leflunomide\n\n- Lemborexant\n\n- Lenacapavir\n\n- Lenalidomide\n\n- Leniolisib\n\n- Lenvatinib\n\n- Lercanidipine\n\n- Lercanidipine +\n\n- enalapril\n\n- letermovir\n\n- letibotulinumtoxinA\n\n- Letrozole\n\n- Leuprorelin\n\n- Levetiracetam\n\n- Levocabastine\n\n- Levocarnitine\n\n- Levocetirizine\n\n- levodopa +\n\n- benserazide\n\n- carbidopa\n\n- carbidopa +\n\n- entacapone\n\n- levonorgestrel\n\n- levonorgestrel +\n\n- ethinylestradiol\n\n- Levothyroxine\n\n- lidocaine\n\n- lidocaine +\n\n- adrenaline (epinephrine)\n\n- aminoacridine\n\n- benzydamine +\n\n- dichlorobenzyl alcohol\n\n- cetrimide\n\n- cetrimide +\n\n- chlorhexidine +\n\n- hexamidine\n\n- dichlorobenzyl alcohol +\n\n- amylmetacresol\n\n- fluorescein\n\n- hydrocortisone\n\n- menthol +\n\n- phenoxyisopropanol +\n\n- chlorhexidine\n\n- phenylephrine\n\n- prilocaine\n\n- lifitegrast\n\n- Light liquid paraffin\n\n- linaclotide\n\n- linagliptin\n\n- linagliptin +\n\n- metformin\n\n- lincomycin\n\n- linezolid\n\n- Linzagolix\n\n- liothyronine\n\n- lipase +\n\n- amylase +\n\n- protease\n\n- lipegfilgrastim\n\n- liposomal amphotericin B\n\n- Liquid paraffin\n\n- Liquid paraffin +\n\n- lanolin oil\n\n- Liquorice extract +\n\n- British yellowhead extract +\n\n- Korean ginseng extract +\n\n- ban xia extract +\n\n- ginger extract +\n\n- jujube extract\n\n- mondo grass extract +\n\n- foxtail millet extract +\n\n- Liraglutide\n\n- Lisdexamfetamine\n\n- Lisinopril\n\n- Lithium carbonate\n\n- lodoxamide\n\n- lomustine\n\n- Lonapegsomatropin\n\n- loperamide\n\n- loperamide +\n\n- simethicone\n\n- Lopinavir +\n\n- ritonavir\n\n- Loratadine\n\n- loratadine +\n\n- pseudoephedrine\n\n- Lorazepam\n\n- Lorlatinib\n\n- Losartan\n\n- Loteprednol\n\n- lumacaftor +\n\n- ivacaftor\n\n- Lumasiran\n\n- Lurasidone\n\n- lurbinectedin\n\n- Luspatercept\n\n- lutein +\n\n- zeaxanthin\n\n- Lutetium (177-Lu) vipivotide tetraxetan\n\n- Lutetium (177Lu) oxodotreotide\n\n- lutropin alfa\n\n- Lysine +\n\n- ascorbic acid +\n\n- citrus bioflavonoids extract +\n\n- zinc +\n\n- nicotinamide +\n\n- pyridoxine +\n\n- membranous milk vetch extract\n\n- cyanocobalamin +\n\n- ferric pyrophosphate\n\nPREV 1 2 3 4 5 6 7 8 9 10 11 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- L-Arginine Hydrochloride (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,65059011000036107/l-arginine-hydrochloride-phebra\n\n- L-Carnitine (Metabolics): https://www.healthdirect.gov.au/medicines/brand/amt,1129911000168101/l-carnitine-metabolics\n\n- L.C.E 100/25/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526131000168106/l.c.e-100-25-200\n\n- L.C.E. 125/31.25/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526591000168104/l.c.e.-125-31.25-200\n\n- L.C.E. 150/37.5/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526721000168109/l.c.e.-150-37.5-200\n\n- L.C.E. 200/50/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526471000168104/l.c.e.-200-50-200\n\n- L.C.E. 50/12.5/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526281000168100/l.c.e.-50-12.5-200\n\n- L.C.E. 75/18.75/200: https://www.healthdirect.gov.au/medicines/brand/amt,1526081000168106/l.c.e.-75-18.75-200\n\n- Labetalol (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1446961000168105/labetalol-sxp\n\n- Laceraine Topical Wound Anaesthetic: https://www.healthdirect.gov.au/medicines/brand/amt,1465701000168105/laceraine-topical-wound-anaesthetic\n\n- Lacomed: https://www.healthdirect.gov.au/medicines/brand/amt,933650811000036102/lacomed\n\n- Lacosacor: https://www.healthdirect.gov.au/medicines/brand/amt,1649671000168100/lacosacor\n\n- Lacosam: https://www.healthdirect.gov.au/medicines/brand/amt,1600311000168102/lacosam\n\n- Lacosamide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,959641000168109/lacosamide-apo\n\n- Lacosamide (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1600351000168101/lacosamide-arx\n\n- Lacosamide (InterPharma): https://www.healthdirect.gov.au/medicines/brand/amt,933650411000036104/lacosamide-interpharma\n\n- Lacosamide (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1599561000168108/lacosamide-lupin\n\n- Lacosamide (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1649271000168102/lacosamide-pharmacor\n\n- Lacosamide (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1599231000168103/lacosamide-sandoz\n\n- Lacovim: https://www.healthdirect.gov.au/medicines/brand/amt,1650811000168100/lacovim\n\n- Lacreo: https://www.healthdirect.gov.au/medicines/brand/amt,933600221000036104/lacreo\n\n- Lacritec: https://www.healthdirect.gov.au/medicines/brand/amt,1344861000168102/lacritec\n\n- Lacteeze: https://www.healthdirect.gov.au/medicines/brand/amt,1779071000168104/lacteeze\n\n- Lactulose (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1758501000168109/lactulose-apohealth\n\n- Lactulose (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1507131000168100/lactulose-chemists'-own\n\n- Lagevrio: https://www.healthdirect.gov.au/medicines/brand/amt,1594701000168101/lagevrio\n\n- Lamictal: https://www.healthdirect.gov.au/medicines/brand/amt,4438011000036105/lamictal\n\n- Lamidus: https://www.healthdirect.gov.au/medicines/brand/amt,3897011000036105/lamidus\n\n- Lamisil: https://www.healthdirect.gov.au/medicines/brand/amt,34081000168103/lamisil\n\n- Lamisil Athlete's Foot: https://www.healthdirect.gov.au/medicines/brand/amt,33401000168102/lamisil-athlete's-foot\n\n- Lamisil Dermgel: https://www.healthdirect.gov.au/medicines/brand/amt,39931000168104/lamisil-dermgel\n\n- Lamisil Once: https://www.healthdirect.gov.au/medicines/brand/amt,29121000168102/lamisil-once\n\n- Lamitan: https://www.healthdirect.gov.au/medicines/brand/amt,884551000168105/lamitan\n\n- Lamivudine (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,58071000036104/lamivudine-alphapharm\n\n- Lamivudine (Ranbaxy): https://www.healthdirect.gov.au/medicines/brand/amt,933600111000036102/lamivudine-ranbaxy\n\n- Lamivudine (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1685701000168105/lamivudine-viatris\n\n- Lamivudine and Zidovudine 150/300 (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,34041000168108/lamivudine-and-zidovudine-150-300-alphapharm\n\n- Lamivudine and Zidovudine 150/300 (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1658631000168109/lamivudine-and-zidovudine-150-300-viatris\n\n- Lamotrigine (AN): https://www.healthdirect.gov.au/medicines/brand/amt,667441000168105/lamotrigine-an\n\n- Lamotrigine (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1551921000168102/lamotrigine-apx\n\n- Lamotrigine (GH): https://www.healthdirect.gov.au/medicines/brand/amt,870701000168102/lamotrigine-gh\n\n- Lamotrigine (PS): https://www.healthdirect.gov.au/medicines/brand/amt,933240971000036104/lamotrigine-ps\n\n- Lamotrigine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,39736011000036104/lamotrigine-sandoz\n\n- Lamotrigine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1784581000168100/lamotrigine-wgr\n\n- Lamotrust: https://www.healthdirect.gov.au/medicines/brand/amt,72919011000036109/lamotrust\n\n- Lamzede: https://www.healthdirect.gov.au/medicines/brand/amt,160571121000036102/lamzede\n\n- Lanoxin: https://www.healthdirect.gov.au/medicines/brand/amt,3340011000036103/lanoxin\n\n- Lanoxin Adult: https://www.healthdirect.gov.au/medicines/brand/amt,735041000168105/lanoxin-adult\n\n- Lanoxin Infants: https://www.healthdirect.gov.au/medicines/brand/amt,735081000168100/lanoxin-infants\n\n- Lanoxin Paediatric Elixir: https://www.healthdirect.gov.au/medicines/brand/amt,735001000168108/lanoxin-paediatric-elixir\n\n- Lanoxin PG: https://www.healthdirect.gov.au/medicines/brand/amt,36681000168101/lanoxin-pg\n\n- Lansoprazole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,52481000168101/lansoprazole-apo\n\n- Lansoprazole ODT (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,701281000168101/lansoprazole-odt-apo\n\n- Lansoprazole ODT (GH): https://www.healthdirect.gov.au/medicines/brand/amt,683811000168101/lansoprazole-odt-gh\n\n- Lanvis: https://www.healthdirect.gov.au/medicines/brand/amt,4436011000036106/lanvis\n\n- Lanzopran: https://www.healthdirect.gov.au/medicines/brand/amt,84770011000036105/lanzopran\n\n- Larandine: https://www.healthdirect.gov.au/medicines/brand/amt,933586271000036106/larandine\n\n- Largactil: https://www.healthdirect.gov.au/medicines/brand/amt,36041000168104/largactil\n\n- Largactil Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,57151000168102/largactil-syrup\n\n- Lariam: https://www.healthdirect.gov.au/medicines/brand/amt,39563011000036101/lariam\n\n- Lasix: https://www.healthdirect.gov.au/medicines/brand/amt,26171000168109/lasix\n\n- Lasix High Dose: https://www.healthdirect.gov.au/medicines/brand/amt,19131000168107/lasix-high-dose\n\n- Latanoprost (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,40341000036105/latanoprost-apo\n\n- Latanoprost (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1009521000168103/latanoprost-apotex\n\n- Latanoprost (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,40211000036103/latanoprost-sandoz\n\n- Latanoprost RT (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1270771000168101/latanoprost-rt-pfizer\n\n- Latanoprost/Timolol 0.05/5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1034941000168107/latanoprost-timolol-0.05-5-apotex\n\n- Latanoprost/Timolol 50/5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,649501000168109/latanoprost-timolol-50-5-apo\n\n- Latnop: https://www.healthdirect.gov.au/medicines/brand/amt,155851751000036103/latnop\n\n- Latnoprost: https://www.healthdirect.gov.au/medicines/brand/amt,698922491000036100/latnoprost\n\n- Latuda: https://www.healthdirect.gov.au/medicines/brand/amt,724621000168105/latuda\n\n- Lavione: https://www.healthdirect.gov.au/medicines/brand/amt,1596521000168106/lavione\n\n- Lax-Suppositories: https://www.healthdirect.gov.au/medicines/brand/amt,170464651000036104/lax-suppositories\n\n- Lax-Tab: https://www.healthdirect.gov.au/medicines/brand/amt,3574011000036106/lax-tab\n\n- Lax-Tab EC: https://www.healthdirect.gov.au/medicines/brand/amt,1784531000168101/lax-tab-ec\n\n- Laxative with Senna (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,701871000168103/laxative-with-senna-chemists'-own\n\n- Laxative with Softener (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1420491000168108/laxative-with-softener-apohealth\n\n- Laxettes: https://www.healthdirect.gov.au/medicines/brand/amt,64991011000036102/laxettes\n\n- Laxiflocin: https://www.healthdirect.gov.au/medicines/brand/amt,933537451000036107/laxiflocin\n\n- Lazcluze: https://www.healthdirect.gov.au/medicines/brand/amt,855265971000036109/lazcluze\n\n- Lecigon: https://www.healthdirect.gov.au/medicines/brand/amt,1700221000168109/lecigon\n\n- Lecteva 100/25/200: https://www.healthdirect.gov.au/medicines/brand/amt,1481031000168104/lecteva-100-25-200\n\n- Lecteva 125/31.25/200: https://www.healthdirect.gov.au/medicines/brand/amt,1482711000168103/lecteva-125-31.25-200\n\n- Lecteva 150/37.5/200: https://www.healthdirect.gov.au/medicines/brand/amt,1481321000168104/lecteva-150-37.5-200\n\n- Lecteva 200/50/200: https://www.healthdirect.gov.au/medicines/brand/amt,1483031000168103/lecteva-200-50-200\n\n- Lecteva 50/12.5/200: https://www.healthdirect.gov.au/medicines/brand/amt,1482431000168103/lecteva-50-12.5-200\n\n- Lecteva 75/18.75/200: https://www.healthdirect.gov.au/medicines/brand/amt,1482971000168108/lecteva-75-18.75-200\n\n- Ledaga: https://www.healthdirect.gov.au/medicines/brand/amt,1558371000168109/ledaga\n\n- Ledip: https://www.healthdirect.gov.au/medicines/brand/amt,87531000036100/ledip\n\n- Leflunomide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,32491000168102/leflunomide-apo\n\n- Leflunomide (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,755921000168101/leflunomide-apotex\n\n- Leflunomide (CH): https://www.healthdirect.gov.au/medicines/brand/amt,732965601000036106/leflunomide-ch\n\n- Leflunomide (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,1115131000168102/leflunomide-generic-health\n\n- Leflunomide (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,676771000168100/leflunomide-sandoz\n\n- Leflunomide (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770671000168100/leflunomide-wgr\n\n- Lemsip Max Cold and Flu: https://www.healthdirect.gov.au/medicines/brand/amt,2501000168102/lemsip-max-cold-and-flu\n\n- Lemsip Max Cold and Flu plus Chesty Cough: https://www.healthdirect.gov.au/medicines/brand/amt,53235011000036105/lemsip-max-cold-and-flu-plus-chesty-cough\n\n- Lemsip Max Cold and Flu with Decongestant: https://www.healthdirect.gov.au/medicines/brand/amt,929917011000036103/lemsip-max-cold-and-flu-with-decongestant\n\n- Lemtrada: https://www.healthdirect.gov.au/medicines/brand/amt,172581000036101/lemtrada\n\n- Lenalide: https://www.healthdirect.gov.au/medicines/brand/amt,1642731000168101/lenalide\n\n- Lenalidomide (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1641951000168103/lenalidomide-cipla\n\n- Lenalidomide (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1641891000168101/lenalidomide-dr.-reddy's\n\n- Lenalidomide (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1644421000168103/lenalidomide-sandoz\n\n- Lenalidomide (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1664491000168109/lenalidomide-viatris\n\n- Lenest 20 ED: https://www.healthdirect.gov.au/medicines/brand/amt,706751000168109/lenest-20-ed\n\n- Lenest 30 ED: https://www.healthdirect.gov.au/medicines/brand/amt,767881000168109/lenest-30-ed\n\n- Lengout: https://www.healthdirect.gov.au/medicines/brand/amt,3865011000036102/lengout\n\n- Lenvatinib (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933705151000036104/lenvatinib-arx\n\n- Lenvima: https://www.healthdirect.gov.au/medicines/brand/amt,766621000168109/lenvima\n\n- Lepine: https://www.healthdirect.gov.au/medicines/brand/amt,933536811000036108/lepine\n\n- Leqembi: https://www.healthdirect.gov.au/medicines/brand/amt,933599341000036101/leqembi\n\n- Leqvio: https://www.healthdirect.gov.au/medicines/brand/amt,1572711000168104/leqvio\n\n- Lercan: https://www.healthdirect.gov.au/medicines/brand/amt,924368011000036107/lercan\n\n- Lercanidipine (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1297071000168108/lercanidipine-apotex\n\n- Lercanidipine (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1666571000168101/lercanidipine-arx\n\n- Lercanidipine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770891000168100/lercanidipine-wgr\n\n- Lercanidipine Enalapril 10/10 (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1218561000168108/lercanidipine-enalapril-10-10-mylan\n\n- Lercanidipine Enalapril 10/20 (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1219551000168104/lercanidipine-enalapril-10-20-mylan\n\n- Lercanidipine Hydrochloride (AN): https://www.healthdirect.gov.au/medicines/brand/amt,661381000168101/lercanidipine-hydrochloride-an\n\n- Lercanidipine Hydrochloride (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,7301000168109/lercanidipine-hydrochloride-apo\n\n- Lescol XL: https://www.healthdirect.gov.au/medicines/brand/amt,10271000168106/lescol-xl\n\n- Letrozole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,63331000168105/letrozole-apo\n\n- Letrozole (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1009561000168108/letrozole-apotex\n\n- Letrozole (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1683391000168104/letrozole-arx\n\n- Letrozole (FBM): https://www.healthdirect.gov.au/medicines/brand/amt,684311000168106/letrozole-fbm\n\n- Letrozole (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,1459751000168100/letrozole-genrx\n\n- Letrozole (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1385761000168102/letrozole-gh\n\n- Letrozole (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,924362011000036109/letrozole-pharmacor\n\n- Letrozole (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1141000036108/letrozole-sandoz\n\n- Letrozole (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1766571000168106/letrozole-wgr\n\n- Letybo: https://www.healthdirect.gov.au/medicines/brand/amt,1677811000168102/letybo\n\n- Leucovorin Calcium (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,920091011000036103/leucovorin-calcium-dbl\n\n- Leucovorin Calcium (Mayne Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,3461011000036106/leucovorin-calcium-mayne-pharma\n\n- Leucovorin Calcium (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,3477011000036109/leucovorin-calcium-pfizer-perth\n\n- Leucovorin Calcium (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1357851000168105/leucovorin-calcium-pfizer\n\n- Leukeran: https://www.healthdirect.gov.au/medicines/brand/amt,4398011000036106/leukeran\n\n- Leustatin: https://www.healthdirect.gov.au/medicines/brand/amt,3680011000036104/leustatin\n\n- Levactam: https://www.healthdirect.gov.au/medicines/brand/amt,172831000036103/levactam\n\n- Leveceumid: https://www.healthdirect.gov.au/medicines/brand/amt,1256491000168107/leveceumid\n\n- Levefintaic: https://www.healthdirect.gov.au/medicines/brand/amt,1253271000168100/levefintaic\n\n- Levekep: https://www.healthdirect.gov.au/medicines/brand/amt,1707671000168106/levekep\n\n- Levemir Flexpen: https://www.healthdirect.gov.au/medicines/brand/amt,25431000168105/levemir-flexpen\n\n- Levemir Penfill: https://www.healthdirect.gov.au/medicines/brand/amt,57061000168104/levemir-penfill\n\n- Levenakai: https://www.healthdirect.gov.au/medicines/brand/amt,1253571000168102/levenakai\n\n- Leveriuol: https://www.healthdirect.gov.au/medicines/brand/amt,1277611000168101/leveriuol\n\n- Levesineal: https://www.healthdirect.gov.au/medicines/brand/amt,1256621000168108/levesineal\n\n- Leveth 150/30 ED: https://www.healthdirect.gov.au/medicines/brand/amt,1786851000168103/leveth-150-30-ed\n\n- Levetiracetam (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,796781000168100/levetiracetam-accord\n\n- Levetiracetam (Admed): https://www.healthdirect.gov.au/medicines/brand/amt,1289541000168104/levetiracetam-admed\n\n- Levetiracetam (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,707391000168100/levetiracetam-aft\n\n- Levetiracetam (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,991000168106/levetiracetam-apo\n\n- Levetiracetam (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,713721000168108/levetiracetam-auro\n\n- Levetiracetam (B&B): https://www.healthdirect.gov.au/medicines/brand/amt,1707551000168103/levetiracetam-b&b\n\n- Levetiracetam (GH): https://www.healthdirect.gov.au/medicines/brand/amt,933193811000036104/levetiracetam-gh\n\n- Levetiracetam (LAPL): https://www.healthdirect.gov.au/medicines/brand/amt,933193691000036108/levetiracetam-lapl\n\n- Levetiracetam (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1668711000168102/levetiracetam-medsurge\n\n- Levetiracetam (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1707471000168108/levetiracetam-mlabs\n\n- Levetiracetam (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1526401000168109/levetiracetam-mylan\n\n- Levetiracetam (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,69321000036103/levetiracetam-pfizer\n\n- Levetiracetam (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,87284011000036105/levetiracetam-sandoz\n\n- Levetiracetam (SCP): https://www.healthdirect.gov.au/medicines/brand/amt,933193431000036105/levetiracetam-scp\n\n- Levetiracetam (SZ): https://www.healthdirect.gov.au/medicines/brand/amt,922938011000036101/levetiracetam-sz\n\n- Levetiracetam (Torrent): https://www.healthdirect.gov.au/medicines/brand/amt,933536531000036101/levetiracetam-torrent\n\n- Levetiracetam (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1673251000168109/levetiracetam-viatris\n\n- Levetiracetam (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1771201000168103/levetiracetam-wgr\n\n- Levetiracetam (WP): https://www.healthdirect.gov.au/medicines/brand/amt,1707411000168100/levetiracetam-wp\n\n- Levetiracetam IV (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,814561000168105/levetiracetam-iv-apo\n\n- Levetiracetam IV (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1191481000168108/levetiracetam-iv-apotex\n\n- Levetiracetam IV (Hospira): https://www.healthdirect.gov.au/medicines/brand/amt,698231000168104/levetiracetam-iv-hospira\n\n- Levetiram: https://www.healthdirect.gov.au/medicines/brand/amt,933599731000036107/levetiram\n\n- Levetor: https://www.healthdirect.gov.au/medicines/brand/amt,933507591000036109/levetor\n\n- Levi: https://www.healthdirect.gov.au/medicines/brand/amt,56201000168107/levi\n\n- Levlen ED: https://www.healthdirect.gov.au/medicines/brand/amt,700023311000036106/levlen-ed\n\n- Levodopa/Carbidopa 100/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454181000168105/levodopa-carbidopa-100-25-apo\n\n- Levodopa/Carbidopa 250/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454361000168103/levodopa-carbidopa-250-25-apo\n\n- Levonorgestrel (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,933753221000036107/levonorgestrel-apohealth\n\n- Levonorgestrel-1 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1000091000168101/levonorgestrel-1-apo\n\n- Levonorgestrel-1 (GH): https://www.healthdirect.gov.au/medicines/brand/amt,759181000168103/levonorgestrel-1-gh\n\n- Levothox: https://www.healthdirect.gov.au/medicines/brand/amt,1663401000168100/levothox\n\n- Levothyroxine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1686951000168101/levothyroxine-apo\n\n- Levothyroxine (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1629141000168103/levothyroxine-intas\n\n- Levothyroxine (Lup): https://www.healthdirect.gov.au/medicines/brand/amt,1679281000168100/levothyroxine-lup\n\n- Levothyroxine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1693221000168108/levothyroxine-sandoz\n\n- Levoxine: https://www.healthdirect.gov.au/medicines/brand/amt,1590311000168107/levoxine\n\n- Levt: https://www.healthdirect.gov.au/medicines/brand/amt,933537251000036108/levt\n\n- Lexam: https://www.healthdirect.gov.au/medicines/brand/amt,78594011000036105/lexam\n\n- Lexapro: https://www.healthdirect.gov.au/medicines/brand/amt,3210011000036104/lexapro\n\n- Lexotan: https://www.healthdirect.gov.au/medicines/brand/amt,3511011000036102/lexotan\n\n- Li Zhong Tang (KPC Herbs): https://www.healthdirect.gov.au/medicines/brand/amt,1382621000168107/li-zhong-tang-kpc-herbs\n\n- Libtayo: https://www.healthdirect.gov.au/medicines/brand/amt,1506831000168109/libtayo\n\n- Lidocaine (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1404131000168104/lidocaine-accord\n\n- Lidocaine (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1548571000168101/lidocaine-baxter\n\n- Lidocaine (lignocaine hydrochloride 2% with adrenaline 1 in 80 000) (ATO): https://www.healthdirect.gov.au/medicines/brand/amt,47911000168104/lidocaine-lignocaine-hydrochloride-2-with-adrenaline-1-in-80-000-ato\n\n- Lidocaine (Lumacina): https://www.healthdirect.gov.au/medicines/brand/amt,1764111000168101/lidocaine-lumacina\n\n- Lidocaine (Noridem): https://www.healthdirect.gov.au/medicines/brand/amt,1648001000168107/lidocaine-noridem\n\n- Lidocaine 0.5% with Adrenaline 1 in 200 000 (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,933651211000036107/lidocaine-0.5-with-adrenaline-1-in-200-000-phebra\n\n- Lidocaine 1% with Adrenaline 1 in 200 000 (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,933651221000036100/lidocaine-1-with-adrenaline-1-in-200-000-phebra\n\n- Lidocaine 2% with Adrenaline 1 in 200 000 (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,933651231000036103/lidocaine-2-with-adrenaline-1-in-200-000-phebra\n\n- Lignocaine (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,1177461000168103/lignocaine-claris\n\n- Lignocaine (Perrigo): https://www.healthdirect.gov.au/medicines/brand/amt,1442391000168103/lignocaine-perrigo\n\n- Lignocaine (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,693201000168104/lignocaine-pfizer\n\n- Lignocaine Hydrochloride (Orion): https://www.healthdirect.gov.au/medicines/brand/amt,53090011000036100/lignocaine-hydrochloride-orion\n\n- Lignocaine Hydrochloride 4% and Fluorescein Sodium 0.25% Minims (Bausch & Lomb): https://www.healthdirect.gov.au/medicines/brand/amt,62981000168104/lignocaine-hydrochloride-4-and-fluorescein-sodium-0.25-minims-bausch-&-lomb\n\n- Lignospan Special 2% / 1 in 80 000: https://www.healthdirect.gov.au/medicines/brand/amt,45221000168105/lignospan-special-2---1-in-80-000\n\n- Lincocin: https://www.healthdirect.gov.au/medicines/brand/amt,3225011000036102/lincocin\n\n- Lincomycin (LWS): https://www.healthdirect.gov.au/medicines/brand/amt,933703561000036108/lincomycin-lws\n\n- Lincomycin (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1143531000168100/lincomycin-sxp\n\n- Linevox: https://www.healthdirect.gov.au/medicines/brand/amt,867491000168108/linevox\n\n- Linezolid (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1247881000168105/linezolid-akm\n\n- Linezolid (Amneal): https://www.healthdirect.gov.au/medicines/brand/amt,1194861000168103/linezolid-amneal\n\n- Linezolid (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1011571000168100/linezolid-apo\n\n- Linezolid (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,933600291000036101/linezolid-genrx\n\n- Linezolid (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1174921000168106/linezolid-kabi\n\n- Linezolid (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1247761000168105/linezolid-pharmacor\n\n- Linopril: https://www.healthdirect.gov.au/medicines/brand/amt,1320031000168109/linopril\n\n- Lioresal: https://www.healthdirect.gov.au/medicines/brand/amt,3860011000036106/lioresal\n\n- Lipex: https://www.healthdirect.gov.au/medicines/brand/amt,3298011000036103/lipex\n\n- Lipidil: https://www.healthdirect.gov.au/medicines/brand/amt,4138011000036106/lipidil\n\n- Lipigem: https://www.healthdirect.gov.au/medicines/brand/amt,83550011000036105/lipigem\n\n- Lipiodol Ultra-Fluid: https://www.healthdirect.gov.au/medicines/brand/amt,39771011000036106/lipiodol-ultra-fluid\n\n- Lipitor: https://www.healthdirect.gov.au/medicines/brand/amt,3877011000036101/lipitor\n\n- Liposomal Doxorubicin (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,171541000036102/liposomal-doxorubicin-sun\n\n- Lipostat: https://www.healthdirect.gov.au/medicines/brand/amt,3757011000036101/lipostat\n\n- Liquid Paraffin (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,76004011000036102/liquid-paraffin-gold-cross\n\n- Liraglutide (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,845295231000036108/liraglutide-arx\n\n- Liraglutide (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,818404201000036109/liraglutide-cipla\n\n- Liraglutide (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933507491000036108/liraglutide-sandoz\n\n- Lisanol Antiseptic: https://www.healthdirect.gov.au/medicines/brand/amt,1297491000168103/lisanol-antiseptic\n\n- Lisinopril (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,96231000036104/lisinopril-apo\n\n- Lisinopril (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,52382011000036107/lisinopril-apotex\n\n- Lisinopril (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,933193111000036109/lisinopril-ipca\n\n- Lisinopril (PIP): https://www.healthdirect.gov.au/medicines/brand/amt,1269311000168106/lisinopril-pip\n\n- Lisinopril (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,79351011000036102/lisinopril-sandoz\n\n- Lisinopril (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1750701000168102/lisinopril-wgr\n\n- Lisodrate: https://www.healthdirect.gov.au/medicines/brand/amt,1320301000168100/lisodrate\n\n- Lisoril: https://www.healthdirect.gov.au/medicines/brand/amt,925547011000036105/lisoril\n\n- Litak: https://www.healthdirect.gov.au/medicines/brand/amt,4333011000036108/litak\n\n- Litfulo: https://www.healthdirect.gov.au/medicines/brand/amt,933280121000036105/litfulo\n\n- Lithicarb: https://www.healthdirect.gov.au/medicines/brand/amt,3104011000036109/lithicarb\n\n- Lithicarb SR: https://www.healthdirect.gov.au/medicines/brand/amt,927411000168100/lithicarb-sr\n\n- Little Coughs: https://www.healthdirect.gov.au/medicines/brand/amt,1436261000168101/little-coughs\n\n- Little Parachoc: https://www.healthdirect.gov.au/medicines/brand/amt,1403691000168107/little-parachoc\n\n- Livdelzi: https://www.healthdirect.gov.au/medicines/brand/amt,933651371000036107/livdelzi\n\n- Livial: https://www.healthdirect.gov.au/medicines/brand/amt,39758011000036104/livial\n\n- Livilan: https://www.healthdirect.gov.au/medicines/brand/amt,1524521000168105/livilan\n\n- Livostin: https://www.healthdirect.gov.au/medicines/brand/amt,4339011000036106/livostin\n\n- Livtencity: https://www.healthdirect.gov.au/medicines/brand/amt,1660181000168105/livtencity\n\n- Livudine: https://www.healthdirect.gov.au/medicines/brand/amt,933599361000036100/livudine\n\n- LMX 4 Topical Anaesthetic: https://www.healthdirect.gov.au/medicines/brand/amt,4651000168107/lmx-4-topical-anaesthetic\n\n- LMX-4: https://www.healthdirect.gov.au/medicines/brand/amt,1258091000168102/lmx-4\n\n- Locacorten-Vioform 0.02% / 1%: https://www.healthdirect.gov.au/medicines/brand/amt,1001000168102/locacorten-vioform-0.02---1\n\n- Loceryl Nail Lacquer: https://www.healthdirect.gov.au/medicines/brand/amt,59341000168105/loceryl-nail-lacquer\n\n- Loette: https://www.healthdirect.gov.au/medicines/brand/amt,87054011000036109/loette\n\n- Lofenoxal: https://www.healthdirect.gov.au/medicines/brand/amt,2995011000036104/lofenoxal\n\n- Logem: https://www.healthdirect.gov.au/medicines/brand/amt,701951000168104/logem\n\n- Logicin Cold and Flu Day/Night: https://www.healthdirect.gov.au/medicines/brand/amt,1071751000168107/logicin-cold-and-flu-day-night\n\n- Logicin Cold and Flu PE Day/Night: https://www.healthdirect.gov.au/medicines/brand/amt,1356411000168108/logicin-cold-and-flu-pe-day-night\n\n- Logicin Cold and Flu Relief: https://www.healthdirect.gov.au/medicines/brand/amt,1068071000168101/logicin-cold-and-flu-relief\n\n- Logicin Flu Strength Day and Night: https://www.healthdirect.gov.au/medicines/brand/amt,50041000168102/logicin-flu-strength-day-and-night\n\n- Logicin Rapid Relief: https://www.healthdirect.gov.au/medicines/brand/amt,53296011000036108/logicin-rapid-relief\n\n- Logicin Rapid Relief Nasal: https://www.healthdirect.gov.au/medicines/brand/amt,4081011000036100/logicin-rapid-relief-nasal\n\n- Logynon ED: https://www.healthdirect.gov.au/medicines/brand/amt,700021511000036101/logynon-ed\n\n- Lokelma: https://www.healthdirect.gov.au/medicines/brand/amt,896582561000036105/lokelma\n\n- Lomide: https://www.healthdirect.gov.au/medicines/brand/amt,53404011000036102/lomide\n\n- Lomotil: https://www.healthdirect.gov.au/medicines/brand/amt,3447011000036105/lomotil\n\n- Loniten: https://www.healthdirect.gov.au/medicines/brand/amt,3684011000036109/loniten\n\n- Lonquex: https://www.healthdirect.gov.au/medicines/brand/amt,795731000168108/lonquex\n\n- Loperamide (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1431751000168102/loperamide-apohealth\n\n- Lorapaed: https://www.healthdirect.gov.au/medicines/brand/amt,53259011000036106/lorapaed\n\n- Lorastyne (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,649051000168103/lorastyne-pharmacy-action\n\n- Loratadine (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,53343011000036104/loratadine-amcal\n\n- Loratadine (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,53461011000036104/loratadine-chemists'-own\n\n- Loratadine Antihistamine (Trust): https://www.healthdirect.gov.au/medicines/brand/amt,1466341000168102/loratadine-antihistamine-trust\n\n- Loratadine Hayfever and Allergy Relief (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1403821000168109/loratadine-hayfever-and-allergy-relief-apohealth\n\n- Loraze: https://www.healthdirect.gov.au/medicines/brand/amt,1479751000168103/loraze\n\n- Lorazepam (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1772361000168103/lorazepam-aft\n\n- Lorazepam (AJS): https://www.healthdirect.gov.au/medicines/brand/amt,1606941000168102/lorazepam-ajs\n\n- Lorazepam (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,134101000036109/lorazepam-apo\n\n- Lorazepam (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1627651000168103/lorazepam-lupin\n\n- Lorazepam (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1478971000168101/lorazepam-mylan\n\n- Lorazepam (SCP): https://www.healthdirect.gov.au/medicines/brand/amt,1479071000168105/lorazepam-scp\n\n- Lorazepam (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1604061000168106/lorazepam-sxp\n\n- Lorazepam (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1685541000168103/lorazepam-viatris\n\n- Lorazepam (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1747541000168108/lorazepam-wgr\n\n- Lorazol: https://www.healthdirect.gov.au/medicines/brand/amt,1646501000168104/lorazol\n\n- Lorrex: https://www.healthdirect.gov.au/medicines/brand/amt,1310631000168107/lorrex\n\n- Lorstat: https://www.healthdirect.gov.au/medicines/brand/amt,19751000036109/lorstat\n\n- Lorviqua: https://www.healthdirect.gov.au/medicines/brand/amt,1480891000168103/lorviqua\n\n- Losartan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1003821000168102/losartan-apo\n\n- Losec: https://www.healthdirect.gov.au/medicines/brand/amt,3618011000036100/losec\n\n- Lotemax: https://www.healthdirect.gov.au/medicines/brand/amt,123721000036101/lotemax\n\n- Low Dose Aspirin (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1511091000168106/low-dose-aspirin-chemists'-own\n\n- Low Dose Aspirin (Coles): https://www.healthdirect.gov.au/medicines/brand/amt,1093751000168103/low-dose-aspirin-coles\n\n- Low Dose Aspirin (TerryWhite Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,1752381000168105/low-dose-aspirin-terrywhite-chemmart\n\n- Loxalate: https://www.healthdirect.gov.au/medicines/brand/amt,79334011000036103/loxalate\n\n- Loxip: https://www.healthdirect.gov.au/medicines/brand/amt,26181000036100/loxip\n\n- Lozanoc: https://www.healthdirect.gov.au/medicines/brand/amt,679991000168108/lozanoc\n\n- LPV: https://www.healthdirect.gov.au/medicines/brand/amt,4373011000036105/lpv\n\n- Lucas' Papaw: https://www.healthdirect.gov.au/medicines/brand/amt,78612011000036105/lucas'-papaw\n\n- Lucentis: https://www.healthdirect.gov.au/medicines/brand/amt,3299011000036106/lucentis\n\n- Lucinda: https://www.healthdirect.gov.au/medicines/brand/amt,933599801000036107/lucinda\n\n- Lucrin Depot: https://www.healthdirect.gov.au/medicines/brand/amt,6141000168106/lucrin-depot\n\n- Lucrin Depot 3-Month: https://www.healthdirect.gov.au/medicines/brand/amt,54651000168100/lucrin-depot-3-month\n\n- Lucrin Depot 4-Month: https://www.healthdirect.gov.au/medicines/brand/amt,47391000168107/lucrin-depot-4-month\n\n- Lucrin Depot 6-Month: https://www.healthdirect.gov.au/medicines/brand/amt,750001000168100/lucrin-depot-6-month\n\n- Lucrin Depot Paediatric: https://www.healthdirect.gov.au/medicines/brand/amt,698271000168101/lucrin-depot-paediatric\n\n- Lumakras: https://www.healthdirect.gov.au/medicines/brand/amt,936217261000036103/lumakras\n\n- Lumatogan: https://www.healthdirect.gov.au/medicines/brand/amt,1243011000168104/lumatogan\n\n- Lumexia: https://www.healthdirect.gov.au/medicines/brand/amt,435511681000036106/lumexia\n\n- Lumigan: https://www.healthdirect.gov.au/medicines/brand/amt,24941000168106/lumigan\n\n- Lumigan PF: https://www.healthdirect.gov.au/medicines/brand/amt,17031000168103/lumigan-pf\n\n- Lumigan RC: https://www.healthdirect.gov.au/medicines/brand/amt,1121531000168101/lumigan-rc\n\n- Lumin: https://www.healthdirect.gov.au/medicines/brand/amt,4262011000036102/lumin\n\n- Lumiprost: https://www.healthdirect.gov.au/medicines/brand/amt,1247251000168102/lumiprost\n\n- Lumitoprost: https://www.healthdirect.gov.au/medicines/brand/amt,1243341000168103/lumitoprost\n\n- Lunava: https://www.healthdirect.gov.au/medicines/brand/amt,933193181000036101/lunava\n\n- Luracor: https://www.healthdirect.gov.au/medicines/brand/amt,1501721000168109/luracor\n\n- Luralem: https://www.healthdirect.gov.au/medicines/brand/amt,1491001000168107/luralem\n\n- Luralembic: https://www.healthdirect.gov.au/medicines/brand/amt,1498311000168103/luralembic\n\n- Lurasidone (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,1492271000168100/lurasidone-alembic\n\n- Lurasidone (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1492691000168102/lurasidone-apo\n\n- Lurasidone (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1482301000168102/lurasidone-lupin\n\n- Lurasidone (MSN): https://www.healthdirect.gov.au/medicines/brand/amt,1491731000168103/lurasidone-msn\n\n- Lurasidone (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1501891000168101/lurasidone-pharmacor\n\n- Lurasidone (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1496311000168104/lurasidone-sandoz\n\n- Lurasidone (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,1526091000168109/lurasidone-sun\n\n- Lurasidone (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770311000168102/lurasidone-wgr\n\n- Lurobi: https://www.healthdirect.gov.au/medicines/brand/amt,1498471000168104/lurobi\n\n- Lutacip: https://www.healthdirect.gov.au/medicines/brand/amt,1753221000168109/lutacip\n\n- Lutathera: https://www.healthdirect.gov.au/medicines/brand/amt,933703211000036108/lutathera\n\n- Lutein Defence: https://www.healthdirect.gov.au/medicines/brand/amt,1319481000168104/lutein-defence\n\n- Luveris: https://www.healthdirect.gov.au/medicines/brand/amt,39654011000036102/luveris\n\n- Luvox: https://www.healthdirect.gov.au/medicines/brand/amt,4159011000036104/luvox\n\n- Luxturna: https://www.healthdirect.gov.au/medicines/brand/amt,1495351000168106/luxturna\n\n- Lyclear Scabies: https://www.healthdirect.gov.au/medicines/brand/amt,61381000168105/lyclear-scabies\n\n- Lymph-Flo: https://www.healthdirect.gov.au/medicines/brand/amt,1213711000168109/lymph-flo\n\n- Lynkuet: https://www.healthdirect.gov.au/medicines/brand/amt,933586191000036104/lynkuet\n\n- Lynparza: https://www.healthdirect.gov.au/medicines/brand/amt,807181000168103/lynparza\n\n- Lyprinol: https://www.healthdirect.gov.au/medicines/brand/amt,1338361000168104/lyprinol\n\n- Lyraccord: https://www.healthdirect.gov.au/medicines/brand/amt,1316461000168103/lyraccord\n\n- Lyrica: https://www.healthdirect.gov.au/medicines/brand/amt,32972011000036104/lyrica\n\n- Lyrica CR: https://www.healthdirect.gov.au/medicines/brand/amt,1536001000168101/lyrica-cr\n\n- Lyrigalin: https://www.healthdirect.gov.au/medicines/brand/amt,1389711000168102/lyrigalin\n\n- Lyrilin: https://www.healthdirect.gov.au/medicines/brand/amt,1326611000168106/lyrilin\n\n- Lytgobi: https://www.healthdirect.gov.au/medicines/brand/amt,933536861000036105/lytgobi\n\n- Lyzalon: https://www.healthdirect.gov.au/medicines/brand/amt,972181000168101/lyzalon\n\n- Labetalol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21231/labetalol\n\n- Lacosamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21230/lacosamide\n\n- Lactobacillus acidophilus + Bifidobacterium lactis: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24291/lactobacillus-acidophilus-+-bifidobacterium-lactis\n\n- Lactobacillus acidophilus + Lactobacillus rhamnosus + Bifidobacterium lactis + Lactobacillus plantarum + Bifidobacterium animalis + Lactobacillus paracasei + thiamine + riboflavin + colecalciferol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50793/lactobacillus-acidophilus-+-lactobacillus-rhamnosus-+-bifidobacterium-lactis-+-lactobacillus-plantarum-+-bifidobacterium-animalis-+-lactobacillus-paracasei-+-thiamine-+-riboflavin-+-colecalciferol\n\n- Lactobacillus plantarum: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22599/lactobacillus-plantarum\n\n- Lactobacillus reuteri: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26659/lactobacillus-reuteri\n\n- Lactobacillus reuteri + colecalciferol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50652/lactobacillus-reuteri-+-colecalciferol\n\n- Lactobacillus rhamnosus + Lactobacillus casei + Lactobacillus acidophilus + Lactobacillus plantarum + Lactobacillus fermentum + Bifidobacterium animalis + Bifidobacterium breve + Bifidobacterium bifidum + Streptococcus thermophilus: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50275/lactobacillus-rhamnosus-+-lactobacillus-casei-+-lactobacillus-acidophilus-+-lactobacillus-plantarum-+-lactobacillus-fermentum-+-bifidobacterium-animalis-+-bifidobacterium-breve-+-bifidobacterium-bifidum-+-streptococcus-thermophilus\n\n- Lactobacillus rhamnosus + Lactobacillus reuteri: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50517/lactobacillus-rhamnosus-+-lactobacillus-reuteri\n\n- Lactobacillus rhamnosus + Saccharomyces boulardii: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50518/lactobacillus-rhamnosus-+-saccharomyces-boulardii\n\n- lactulose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22600/lactulose\n\n- Lamivudine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20186/lamivudine\n\n- lamivudine + zidovudine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23346/lamivudine-+-zidovudine\n\n- Lamotrigine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21229/lamotrigine\n\n- Lanadelumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24817/lanadelumab\n\n- Landiolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50607/landiolol\n\n- Lanreotide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21228/lanreotide\n\n- Lansoprazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21227/lansoprazole\n\n- lanthanum: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21225/lanthanum\n\n- Lapatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21226/lapatinib\n\n- laronidase: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21224/laronidase\n\n- larotrectinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26812/larotrectinib\n\n- latanoprost: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20423/latanoprost\n\n- latanoprost + timolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23347/latanoprost-+-timolol\n\n- Lauromacrogol-400: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21223/lauromacrogol-400\n\n- Lazertinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50558/lazertinib\n\n- Lebrikizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50059/lebrikizumab\n\n- Lecanemab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50674/lecanemab\n\n- Ledipasvir + sofosbuvir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23605/ledipasvir-+-sofosbuvir\n\n- leflunomide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21222/leflunomide\n\n- Lemborexant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27022/lemborexant\n\n- Lenacapavir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27135/lenacapavir\n\n- Lenalidomide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21221/lenalidomide\n\n- Leniolisib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50519/leniolisib\n\n- Lenvatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23781/lenvatinib\n\n- Lercanidipine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20992/lercanidipine\n\n- Lercanidipine + enalapril: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23348/lercanidipine-+-enalapril\n\n- letermovir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24451/letermovir\n\n- letibotulinumtoxinA: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27148/letibotulinumtoxina\n\n- Letrozole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21218/letrozole\n\n- Leuprorelin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21217/leuprorelin\n\n- Levetiracetam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21216/levetiracetam\n\n- Levocabastine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22611/levocabastine\n\n- Levocarnitine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24338/levocarnitine\n\n- Levocetirizine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22612/levocetirizine\n\n- levodopa + benserazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23349/levodopa-+-benserazide\n\n- levodopa + carbidopa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23350/levodopa-+-carbidopa\n\n- levodopa + carbidopa + entacapone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23543/levodopa-+-carbidopa-+-entacapone\n\n- levonorgestrel: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21213/levonorgestrel\n\n- levonorgestrel + ethinylestradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23293/levonorgestrel-+-ethinylestradiol\n\n- Levothyroxine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20572/levothyroxine\n\n- lidocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21211/lidocaine\n\n- lidocaine + adrenaline (epinephrine): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23351/lidocaine-+-adrenaline-epinephrine\n\n- lidocaine + aminoacridine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23162/lidocaine-+-aminoacridine\n\n- lidocaine + benzydamine + dichlorobenzyl alcohol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23547/lidocaine-+-benzydamine-+-dichlorobenzyl-alcohol\n\n- lidocaine + cetrimide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23353/lidocaine-+-cetrimide\n\n- Lidocaine + cetrimide + chlorhexidine + hexamidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50541/lidocaine-+-cetrimide-+-chlorhexidine-+-hexamidine\n\n- lidocaine + dichlorobenzyl alcohol + amylmetacresol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23544/lidocaine-+-dichlorobenzyl-alcohol-+-amylmetacresol\n\n- lidocaine + fluorescein: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23306/lidocaine-+-fluorescein\n\n- lidocaine + hydrocortisone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23356/lidocaine-+-hydrocortisone\n\n- lidocaine + menthol + chlorhexidine + cetrimide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24220/lidocaine-+-menthol-+-chlorhexidine-+-cetrimide\n\n- Lidocaine + phenoxyisopropanol + cetrimide + chlorhexidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50542/lidocaine-+-phenoxyisopropanol-+-cetrimide-+-chlorhexidine\n\n- lidocaine + phenylephrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23358/lidocaine-+-phenylephrine\n\n- lidocaine + prilocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23359/lidocaine-+-prilocaine\n\n- lifitegrast: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26572/lifitegrast\n\n- Light liquid paraffin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22796/light-liquid-paraffin\n\n- linaclotide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26578/linaclotide\n\n- linagliptin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20738/linagliptin\n\n- linagliptin + metformin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23361/linagliptin-+-metformin\n\n- lincomycin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21210/lincomycin\n\n- linezolid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21209/linezolid\n\n- Linzagolix: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50608/linzagolix\n\n- liothyronine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21208/liothyronine\n\n- lipase + amylase + protease: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23954/lipase-+-amylase-+-protease\n\n- lipegfilgrastim: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23835/lipegfilgrastim\n\n- liposomal amphotericin B: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22071/liposomal-amphotericin-b\n\n- Liquid paraffin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23585/liquid-paraffin\n\n- Liquid paraffin + lanolin oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23402/liquid-paraffin-+-lanolin-oil\n\n- Liquorice extract + British yellowhead extract + Korean ginseng extract + ban xia extract + ginger extract + jujube extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50279/liquorice-extract-+-british-yellowhead-extract-+-korean-ginseng-extract-+-ban-xia-extract-+-ginger-extract-+-jujube-extract\n\n- Liquorice extract + mondo grass extract + Korean ginseng extract + ban xia extract + foxtail millet extract + jujube extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50280/liquorice-extract-+-mondo-grass-extract-+-korean-ginseng-extract-+-ban-xia-extract-+-foxtail-millet-extract-+-jujube-extract\n\n- Liraglutide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21207/liraglutide\n\n- Lisdexamfetamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21206/lisdexamfetamine\n\n- Lisinopril: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21205/lisinopril\n\n- Lithium carbonate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21204/lithium-carbonate\n\n- lodoxamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21202/lodoxamide\n\n- lomustine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21201/lomustine\n\n- Lonapegsomatropin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50585/lonapegsomatropin\n\n- loperamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21377/loperamide\n\n- loperamide + simethicone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23362/loperamide-+-simethicone\n\n- Lopinavir + ritonavir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23363/lopinavir-+-ritonavir\n\n- Loratadine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22621/loratadine\n\n- loratadine + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23364/loratadine-+-pseudoephedrine\n\n- Lorazepam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21199/lorazepam\n\n- Lorlatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26735/lorlatinib\n\n- Losartan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21198/losartan\n\n- Loteprednol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22623/loteprednol\n\n- lumacaftor + ivacaftor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23864/lumacaftor-+-ivacaftor\n\n- Lumasiran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50543/lumasiran\n\n- Lurasidone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21196/lurasidone\n\n- lurbinectedin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27160/lurbinectedin\n\n- Luspatercept: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50544/luspatercept\n\n- lutein + zeaxanthin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24865/lutein-+-zeaxanthin\n\n- Lutetium (177-Lu) vipivotide tetraxetan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50494/lutetium-177-lu-vipivotide-tetraxetan\n\n- Lutetium (177Lu) oxodotreotide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50748/lutetium-177lu-oxodotreotide\n\n- lutropin alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21195/lutropin-alfa\n\n- Lysine + ascorbic acid + citrus bioflavonoids extract + zinc + nicotinamide + pyridoxine + membranous milk vetch extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50284/lysine-+-ascorbic-acid-+-citrus-bioflavonoids-extract-+-zinc-+-nicotinamide-+-pyridoxine-+-membranous-milk-vetch-extract\n\n- Lysine + thiamine + pyridoxine + cyanocobalamin + ferric pyrophosphate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50285/lysine-+-thiamine-+-pyridoxine-+-cyanocobalamin-+-ferric-pyrophosphate\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

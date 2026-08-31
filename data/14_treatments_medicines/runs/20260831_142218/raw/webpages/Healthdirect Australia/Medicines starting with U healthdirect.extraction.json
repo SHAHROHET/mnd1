@@ -1,0 +1,675 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-u-excludenonartg",
+  "title": "Medicines starting with \"U\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 19717,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Ubistesin 4% / 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,667001000168102/ubistesin-4---1-in-200-000"
+    },
+    {
+      "text": "Ubistesin Forte 4% / 1 in 100 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,666951000168104/ubistesin-forte-4---1-in-100-000"
+    },
+    {
+      "text": "Ultibiotic Women's Flora Probiotic (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,636340911000036108/ultibiotic-women's-flora-probiotic-swisse"
+    },
+    {
+      "text": "Ultiboost Calcium plus Vitamin D (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1415201000168101/ultiboost-calcium-plus-vitamin-d-swisse"
+    },
+    {
+      "text": "Ultiboost Co-Enzyme Q10 (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1192581000168103/ultiboost-co-enzyme-q10-swisse"
+    },
+    {
+      "text": "Ultiboost Grape Seed (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1351761000168106/ultiboost-grape-seed-swisse"
+    },
+    {
+      "text": "Ultiboost High Strength Cranberry (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1347151000168102/ultiboost-high-strength-cranberry-swisse"
+    },
+    {
+      "text": "Ultiboost High Strength Vitamin C (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1406891000168100/ultiboost-high-strength-vitamin-c-swisse"
+    },
+    {
+      "text": "Ultiboost Memory plus Focus (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,147574471000036105/ultiboost-memory-plus-focus-swisse"
+    },
+    {
+      "text": "Ultiboost Odourless High Strength Wild Fish Oil (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1192661000168108/ultiboost-odourless-high-strength-wild-fish-oil-swisse"
+    },
+    {
+      "text": "Ultiboost Odourless Wild Fish Oil (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1513611000168107/ultiboost-odourless-wild-fish-oil-swisse"
+    },
+    {
+      "text": "Ultiboost Vitamin D (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1403901000168105/ultiboost-vitamin-d-swisse"
+    },
+    {
+      "text": "Ultibro Breezhaler 110/50",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,672621000168107/ultibro-breezhaler-110-50"
+    },
+    {
+      "text": "Ultiva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33941011000036102/ultiva"
+    },
+    {
+      "text": "Ultivite Children's Multivitamin (Swisse)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506241000036103/ultivite-children's-multivitamin-swisse"
+    },
+    {
+      "text": "Ultomiris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1405341000168107/ultomiris"
+    },
+    {
+      "text": "Ultra Magnesium (Nature's Help)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586561000036100/ultra-magnesium-nature's-help"
+    },
+    {
+      "text": "Ultra Nature Vitamin D3",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1750881000168101/ultra-nature-vitamin-d3"
+    },
+    {
+      "text": "Ultrabiotic 45",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1499131000168100/ultrabiotic-45"
+    },
+    {
+      "text": "Ultraclean 85 (Bioceuticals)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,388437231000036109/ultraclean-85-bioceuticals"
+    },
+    {
+      "text": "Ultratag RBC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1401781000168100/ultratag-rbc"
+    },
+    {
+      "text": "Ultravist-150",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,912981000168105/ultravist-150"
+    },
+    {
+      "text": "Ultravist-240",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,27581000168100/ultravist-240"
+    },
+    {
+      "text": "Ultravist-300",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5191000168106/ultravist-300"
+    },
+    {
+      "text": "Ultravist-370",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20471000168101/ultravist-370"
+    },
+    {
+      "text": "Ungvita",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,81966011000036101/ungvita"
+    },
+    {
+      "text": "Uniclar Aqueous",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,762111000168109/uniclar-aqueous"
+    },
+    {
+      "text": "Univent Cipule",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5841000168105/univent-cipule"
+    },
+    {
+      "text": "Uptravi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,805651000168106/uptravi"
+    },
+    {
+      "text": "Ural",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4427011000036106/ural"
+    },
+    {
+      "text": "Ural High Strength Cranberry-60 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1446501000168101/ural-high-strength-cranberry-60-000"
+    },
+    {
+      "text": "Uraleev",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736061000036101/uraleev"
+    },
+    {
+      "text": "Uramet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1521761000168105/uramet"
+    },
+    {
+      "text": "Urederm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4151011000036103/urederm"
+    },
+    {
+      "text": "Uremide",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3144011000036100/uremide"
+    },
+    {
+      "text": "Urex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51141000168106/urex"
+    },
+    {
+      "text": "Urex Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18581000168105/urex-forte"
+    },
+    {
+      "text": "Urex-M",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55341000168107/urex-m"
+    },
+    {
+      "text": "Uricalm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,64992011000036108/uricalm"
+    },
+    {
+      "text": "Urinary Tract Antibacterial (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1793481000168101/urinary-tract-antibacterial-apohealth"
+    },
+    {
+      "text": "Urinary Tract Antibacterial (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1793291000168102/urinary-tract-antibacterial-chemists'-own"
+    },
+    {
+      "text": "Urodantin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1250541000168101/urodantin"
+    },
+    {
+      "text": "Urografin 30%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701000168103/urografin-30"
+    },
+    {
+      "text": "Uromitexan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4340011000036101/uromitexan"
+    },
+    {
+      "text": "Ursodeoxycholic Acid (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651921000036107/ursodeoxycholic-acid-arx"
+    },
+    {
+      "text": "Ursodox (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,765941000168104/ursodox-gh"
+    },
+    {
+      "text": "Ursodox (LAPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,764481000168101/ursodox-lapl"
+    },
+    {
+      "text": "Ursofalk",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3056011000036102/ursofalk"
+    },
+    {
+      "text": "Ursosan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,691191000168103/ursosan"
+    },
+    {
+      "text": "Utrogestan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,842981000168107/utrogestan"
+    },
+    {
+      "text": "Uvadex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1409451000168101/uvadex"
+    },
+    {
+      "text": "Uzedy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,471857461000036106/uzedy"
+    },
+    {
+      "text": "Ubidecarenone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23057/ubidecarenone"
+    },
+    {
+      "text": "Ubidecarenone + d-alpha-tocopherol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25027/ubidecarenone-+-d-alpha-tocopherol"
+    },
+    {
+      "text": "Ublituximab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50611/ublituximab"
+    },
+    {
+      "text": "Ulipristal",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23927/ulipristal"
+    },
+    {
+      "text": "Umeclidinium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21405/umeclidinium"
+    },
+    {
+      "text": "Umeclidinium + vilanterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23452/umeclidinium-+-vilanterol"
+    },
+    {
+      "text": "Upadacitinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26656/upadacitinib"
+    },
+    {
+      "text": "Urea",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23061/urea"
+    },
+    {
+      "text": "Urea (14C)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24336/urea-14c"
+    },
+    {
+      "text": "Ursodeoxycholic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20427/ursodeoxycholic-acid"
+    },
+    {
+      "text": "Ustekinumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20426/ustekinumab"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"U\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"U\"\n\n## Brand names\n\n- Ubistesin 4% / 1 in 200 000\n\n- Ubistesin Forte 4% / 1 in 100 000\n\n- Ultibiotic Women's Flora Probiotic (Swisse)\n\n- Ultiboost Calcium plus Vitamin D (Swisse)\n\n- Ultiboost Co-Enzyme Q10 (Swisse)\n\n- Ultiboost Grape Seed (Swisse)\n\n- Ultiboost High Strength Cranberry (Swisse)\n\n- Ultiboost High Strength Vitamin C (Swisse)\n\n- Ultiboost Memory plus Focus (Swisse)\n\n- Ultiboost Odourless High Strength Wild Fish Oil (Swisse)\n\n- Ultiboost Odourless Wild Fish Oil (Swisse)\n\n- Ultiboost Vitamin D (Swisse)\n\n- Ultibro Breezhaler 110/50\n\n- Ultiva\n\n- Ultivite Children's Multivitamin (Swisse)\n\n- Ultomiris\n\n- Ultra Magnesium (Nature's Help)\n\n- Ultra Nature Vitamin D3\n\n- Ultrabiotic 45\n\n- Ultraclean 85 (Bioceuticals)\n\n- Ultratag RBC\n\n- Ultravist-150\n\n- Ultravist-240\n\n- Ultravist-300\n\n- Ultravist-370\n\n- Ungvita\n\n- Uniclar Aqueous\n\n- Univent Cipule\n\n- Uptravi\n\n- Ural\n\n- Ural High Strength Cranberry-60 000\n\n- Uraleev\n\n- Uramet\n\n- Urederm\n\n- Uremide\n\n- Urex\n\n- Urex Forte\n\n- Urex-M\n\n- Uricalm\n\n- Urinary Tract Antibacterial (Apohealth)\n\n- Urinary Tract Antibacterial (Chemists' Own)\n\n- Urodantin\n\n- Urografin 30%\n\n- Uromitexan\n\n- Ursodeoxycholic Acid (ARX)\n\n- Ursodox (GH)\n\n- Ursodox (LAPL)\n\n- Ursofalk\n\n- Ursosan\n\n- Utrogestan\n\n- Uvadex\n\n- Uzedy\n\nPREV 1 2 NEXT\n\n## Active ingredients\n\n- Ubidecarenone\n\n- Ubidecarenone +\n\n- d-alpha-tocopherol\n\n- Ublituximab\n\n- Ulipristal\n\n- Umeclidinium\n\n- Umeclidinium +\n\n- vilanterol\n\n- Upadacitinib\n\n- Urea\n\n- Urea (14C)\n\n- Ursodeoxycholic acid\n\n- Ustekinumab\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Ubistesin 4% / 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,667001000168102/ubistesin-4---1-in-200-000\n\n- Ubistesin Forte 4% / 1 in 100 000: https://www.healthdirect.gov.au/medicines/brand/amt,666951000168104/ubistesin-forte-4---1-in-100-000\n\n- Ultibiotic Women's Flora Probiotic (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,636340911000036108/ultibiotic-women's-flora-probiotic-swisse\n\n- Ultiboost Calcium plus Vitamin D (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1415201000168101/ultiboost-calcium-plus-vitamin-d-swisse\n\n- Ultiboost Co-Enzyme Q10 (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1192581000168103/ultiboost-co-enzyme-q10-swisse\n\n- Ultiboost Grape Seed (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1351761000168106/ultiboost-grape-seed-swisse\n\n- Ultiboost High Strength Cranberry (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1347151000168102/ultiboost-high-strength-cranberry-swisse\n\n- Ultiboost High Strength Vitamin C (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1406891000168100/ultiboost-high-strength-vitamin-c-swisse\n\n- Ultiboost Memory plus Focus (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,147574471000036105/ultiboost-memory-plus-focus-swisse\n\n- Ultiboost Odourless High Strength Wild Fish Oil (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1192661000168108/ultiboost-odourless-high-strength-wild-fish-oil-swisse\n\n- Ultiboost Odourless Wild Fish Oil (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1513611000168107/ultiboost-odourless-wild-fish-oil-swisse\n\n- Ultiboost Vitamin D (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,1403901000168105/ultiboost-vitamin-d-swisse\n\n- Ultibro Breezhaler 110/50: https://www.healthdirect.gov.au/medicines/brand/amt,672621000168107/ultibro-breezhaler-110-50\n\n- Ultiva: https://www.healthdirect.gov.au/medicines/brand/amt,33941011000036102/ultiva\n\n- Ultivite Children's Multivitamin (Swisse): https://www.healthdirect.gov.au/medicines/brand/amt,933506241000036103/ultivite-children's-multivitamin-swisse\n\n- Ultomiris: https://www.healthdirect.gov.au/medicines/brand/amt,1405341000168107/ultomiris\n\n- Ultra Magnesium (Nature's Help): https://www.healthdirect.gov.au/medicines/brand/amt,933586561000036100/ultra-magnesium-nature's-help\n\n- Ultra Nature Vitamin D3: https://www.healthdirect.gov.au/medicines/brand/amt,1750881000168101/ultra-nature-vitamin-d3\n\n- Ultrabiotic 45: https://www.healthdirect.gov.au/medicines/brand/amt,1499131000168100/ultrabiotic-45\n\n- Ultraclean 85 (Bioceuticals): https://www.healthdirect.gov.au/medicines/brand/amt,388437231000036109/ultraclean-85-bioceuticals\n\n- Ultratag RBC: https://www.healthdirect.gov.au/medicines/brand/amt,1401781000168100/ultratag-rbc\n\n- Ultravist-150: https://www.healthdirect.gov.au/medicines/brand/amt,912981000168105/ultravist-150\n\n- Ultravist-240: https://www.healthdirect.gov.au/medicines/brand/amt,27581000168100/ultravist-240\n\n- Ultravist-300: https://www.healthdirect.gov.au/medicines/brand/amt,5191000168106/ultravist-300\n\n- Ultravist-370: https://www.healthdirect.gov.au/medicines/brand/amt,20471000168101/ultravist-370\n\n- Ungvita: https://www.healthdirect.gov.au/medicines/brand/amt,81966011000036101/ungvita\n\n- Uniclar Aqueous: https://www.healthdirect.gov.au/medicines/brand/amt,762111000168109/uniclar-aqueous\n\n- Univent Cipule: https://www.healthdirect.gov.au/medicines/brand/amt,5841000168105/univent-cipule\n\n- Uptravi: https://www.healthdirect.gov.au/medicines/brand/amt,805651000168106/uptravi\n\n- Ural: https://www.healthdirect.gov.au/medicines/brand/amt,4427011000036106/ural\n\n- Ural High Strength Cranberry-60 000: https://www.healthdirect.gov.au/medicines/brand/amt,1446501000168101/ural-high-strength-cranberry-60-000\n\n- Uraleev: https://www.healthdirect.gov.au/medicines/brand/amt,933736061000036101/uraleev\n\n- Uramet: https://www.healthdirect.gov.au/medicines/brand/amt,1521761000168105/uramet\n\n- Urederm: https://www.healthdirect.gov.au/medicines/brand/amt,4151011000036103/urederm\n\n- Uremide: https://www.healthdirect.gov.au/medicines/brand/amt,3144011000036100/uremide\n\n- Urex: https://www.healthdirect.gov.au/medicines/brand/amt,51141000168106/urex\n\n- Urex Forte: https://www.healthdirect.gov.au/medicines/brand/amt,18581000168105/urex-forte\n\n- Urex-M: https://www.healthdirect.gov.au/medicines/brand/amt,55341000168107/urex-m\n\n- Uricalm: https://www.healthdirect.gov.au/medicines/brand/amt,64992011000036108/uricalm\n\n- Urinary Tract Antibacterial (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1793481000168101/urinary-tract-antibacterial-apohealth\n\n- Urinary Tract Antibacterial (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1793291000168102/urinary-tract-antibacterial-chemists'-own\n\n- Urodantin: https://www.healthdirect.gov.au/medicines/brand/amt,1250541000168101/urodantin\n\n- Urografin 30%: https://www.healthdirect.gov.au/medicines/brand/amt,701000168103/urografin-30\n\n- Uromitexan: https://www.healthdirect.gov.au/medicines/brand/amt,4340011000036101/uromitexan\n\n- Ursodeoxycholic Acid (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933651921000036107/ursodeoxycholic-acid-arx\n\n- Ursodox (GH): https://www.healthdirect.gov.au/medicines/brand/amt,765941000168104/ursodox-gh\n\n- Ursodox (LAPL): https://www.healthdirect.gov.au/medicines/brand/amt,764481000168101/ursodox-lapl\n\n- Ursofalk: https://www.healthdirect.gov.au/medicines/brand/amt,3056011000036102/ursofalk\n\n- Ursosan: https://www.healthdirect.gov.au/medicines/brand/amt,691191000168103/ursosan\n\n- Utrogestan: https://www.healthdirect.gov.au/medicines/brand/amt,842981000168107/utrogestan\n\n- Uvadex: https://www.healthdirect.gov.au/medicines/brand/amt,1409451000168101/uvadex\n\n- Uzedy: https://www.healthdirect.gov.au/medicines/brand/amt,471857461000036106/uzedy\n\n- Ubidecarenone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23057/ubidecarenone\n\n- Ubidecarenone + d-alpha-tocopherol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25027/ubidecarenone-+-d-alpha-tocopherol\n\n- Ublituximab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50611/ublituximab\n\n- Ulipristal: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23927/ulipristal\n\n- Umeclidinium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21405/umeclidinium\n\n- Umeclidinium + vilanterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23452/umeclidinium-+-vilanterol\n\n- Upadacitinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26656/upadacitinib\n\n- Urea: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23061/urea\n\n- Urea (14C): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24336/urea-14c\n\n- Ursodeoxycholic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20427/ursodeoxycholic-acid\n\n- Ustekinumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20426/ustekinumab\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

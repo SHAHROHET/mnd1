@@ -1,0 +1,4 @@
+webpage PBS Riluzole <https://www.pbs.gov.au/medicine/item/8664B-14393M>: Unable to download https://www.pbs.gov.au/medicine/item/8664B-14393M: HTTP 400 Bad Request
+webpage Clinical trials <https://fightmnd.org.au/research/clinical-trials/>: Unable to download https://fightmnd.org.au/research/clinical-trials/: HTTP 404 Not Found
+pdf https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Herbal-medicines-in-pregnancy-breastfeeding-171018.pdf: Unable to download https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Herbal-medicines-in-pregnancy-breastfeeding-171018.pdf: [Errno 11001] getaddrinfo failed
+pdf https://www.thewomens.org.au/images/uploads/fact-sheets/Medicines-in-pregnancy-171018.pdf: Unable to download https://www.thewomens.org.au/images/uploads/fact-sheets/Medicines-in-pregnancy-171018.pdf: HTTP 404 Not Found

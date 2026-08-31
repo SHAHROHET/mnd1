@@ -1,0 +1,687 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-and-driving",
+  "title": "Medicines and driving | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-and-driving",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 25582,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "How will medicines affect my driving?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#affect"
+    },
+    {
+      "text": "Which medicines might affect my driving?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#which"
+    },
+    {
+      "text": "What should I do when I start a new medicine?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#start"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#doctor"
+    },
+    {
+      "text": "What should I do if I am unsure if it's safe to drive?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#unsure"
+    },
+    {
+      "text": "Prescription medicines and driving laws",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#prescriptions"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#searchGeneralResults"
+    },
+    {
+      "text": "dizzy",
+      "url": "https://www.healthdirect.gov.au/dizziness"
+    },
+    {
+      "text": "faint",
+      "url": "https://www.healthdirect.gov.au/fainting"
+    },
+    {
+      "text": "nauseous",
+      "url": "https://www.healthdirect.gov.au/nausea"
+    },
+    {
+      "text": "blurred vision",
+      "url": "https://www.healthdirect.gov.au/blurred-vision"
+    },
+    {
+      "text": "confused",
+      "url": "https://www.healthdirect.gov.au/confusion"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.healthdirect.gov.au/anxiety"
+    },
+    {
+      "text": "over-the-counter medicines",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "complementary",
+      "url": "https://www.healthdirect.gov.au/complementary-therapy"
+    },
+    {
+      "text": "illicit drugs",
+      "url": "https://www.healthdirect.gov.au/Illicit-drug-use"
+    },
+    {
+      "text": "cold and flu",
+      "url": "https://www.healthdirect.gov.au/colds-and-flu"
+    },
+    {
+      "text": "antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "sleeping pills",
+      "url": "https://www.healthdirect.gov.au/safe-use-of-sleeping-pills"
+    },
+    {
+      "text": "opioids",
+      "url": "https://www.healthdirect.gov.au/opioids"
+    },
+    {
+      "text": "pain relief",
+      "url": "https://www.healthdirect.gov.au/pain-relief-medicines"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.healthdirect.gov.au/epilepsy"
+    },
+    {
+      "text": "medicinal cannabis",
+      "url": "https://www.healthdirect.gov.au/medicinal-cannabis"
+    },
+    {
+      "text": "low blood pressure",
+      "url": "https://www.healthdirect.gov.au/low-blood-pressure-hypotension"
+    },
+    {
+      "text": "medicines for anxiety",
+      "url": "https://www.healthdirect.gov.au/medicines-for-anxiety"
+    },
+    {
+      "text": "antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "nerve pain",
+      "url": "https://www.healthdirect.gov.au/nerve-pain"
+    },
+    {
+      "text": "migraines",
+      "url": "https://www.healthdirect.gov.au/migraine"
+    },
+    {
+      "text": "bladder problems",
+      "url": "https://www.healthdirect.gov.au/urinary-problems"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "antipsychotic medicines",
+      "url": "https://www.healthdirect.gov.au/antipsychotic-medicines"
+    },
+    {
+      "text": "schizophrenia",
+      "url": "https://www.healthdirect.gov.au/schizophrenia"
+    },
+    {
+      "text": "bipolar disorder",
+      "url": "https://www.healthdirect.gov.au/bipolar-disorder"
+    },
+    {
+      "text": "drink alcohol while you are taking medicines",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "hypoglycaemia",
+      "url": "https://www.healthdirect.gov.au/hypoglycaemia-low-blood-sugar"
+    },
+    {
+      "text": "side effects",
+      "url": "https://www.healthdirect.gov.au/medicine-and-side-effects"
+    },
+    {
+      "text": "label",
+      "url": "https://www.healthdirect.gov.au/how-to-read-cmis"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "medicines for diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes-medicines"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/licences/medical-conditions-and-fitness-to-drive"
+    },
+    {
+      "text": "Roads and Maritime Services",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/alcohol-and-drugs"
+    },
+    {
+      "text": "Northern Territory Government",
+      "url": "https://nt.gov.au/driving/safety/alcohol-drugs-and-driving"
+    },
+    {
+      "text": "Queensland Government",
+      "url": "https://www.qld.gov.au/transport/safety/road-safety/drink-driving"
+    },
+    {
+      "text": "Towards Zero Together",
+      "url": "https://www.dpti.sa.gov.au/towardszerotogether"
+    },
+    {
+      "text": "Transport Services",
+      "url": "https://www.transport.tas.gov.au/"
+    },
+    {
+      "text": "Transport Victoria",
+      "url": "https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/alcohol-drugs-and-driving/medicines-and-road-safety"
+    },
+    {
+      "text": "Main Roads",
+      "url": "https://www.mainroads.wa.gov.au/"
+    },
+    {
+      "text": "(Driving safety and medicines)",
+      "url": "https://www.health.nsw.gov.au/aod/resources/Factsheets/driving-safety-med-printable.PDF"
+    },
+    {
+      "text": "(Medication & driving)",
+      "url": "https://research.qut.edu.au/carrs-q/wp-content/uploads/sites/296/2020/06/Medications-and-Driving-screen.pdf"
+    },
+    {
+      "text": "(What's on my medicine label?)",
+      "url": "https://www.tga.gov.au/products/medicines/find-information-about-medicine/whats-my-medicine-label"
+    },
+    {
+      "text": "(Prescribed Cannabis Medicines and fitness to drive)",
+      "url": "https://www.medicinalcannabis.nsw.gov.au/patients/driving"
+    },
+    {
+      "text": "(Assessing fitness to drive)",
+      "url": "https://austroads.gov.au/publications/assessing-fitness-to-drive/ap-g56/neurological-conditions/seizures-and-epilepsy"
+    },
+    {
+      "text": "(Drugs and driving)",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/drugs"
+    },
+    {
+      "text": "(Medicines and road safety)",
+      "url": "https://transport.vic.gov.au/Road-rules-and-safety/Alcohol-drugs-and-driving/Medicines-and-road-safety"
+    },
+    {
+      "text": "(Driving with diabetes)",
+      "url": "https://www.diabetesaustralia.com.au/living-with-diabetes/driving/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving#backToTop"
+    },
+    {
+      "text": "Medicines during pregnancy",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Medicines for babies and children",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Medicines safety for older people",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Out-of-date medicines",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Questions to ask before taking a medicine",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reporting a problem with a medicine",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Driving",
+      "url": "https://www.healthdirect.gov.au/search-results/Driving"
+    },
+    {
+      "text": "Polypharmacy",
+      "url": "https://www.healthdirect.gov.au/search-results/Polypharmacy"
+    },
+    {
+      "text": "Medicine regulation",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine regulation"
+    },
+    {
+      "text": "Medicine scheduling",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine scheduling"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines and driving | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Medicines and driving\n\n9-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Some medicines can affect your ability to drive safely.\n\n- These can be prescription medicines or medicines that you buy over-the-counter at a pharmacy or supermarket.\n\n- When starting a new medicine, ask your doctor or pharmacist whether it's safe to drive.\n\n## On this page\n\n- How will medicines affect my driving?\n\n- Which medicines might affect my driving?\n\n- What should I do when I start a new medicine?\n\n- When should I see my doctor?\n\n- What should I do if I am unsure if it's safe to drive?\n\n- Prescription medicines and driving laws\n\n- Resources and support\n\n- Related information on Australian websites\n\n## How will medicines affect my driving?\n\nIf you think your medicine is affecting your driving, stop driving and talk to your doctor. Do not stop taking the medicine. There might be other medicines you can take.\n\nTo drive safely, you need to be able to see, think and react properly. Some medicines can affect these skills.\n\nSome medicines can cause side effects, like:\n\n- feeling drowsy or tired\n\n- feeling dizzy , faint or nauseous (feeling sick)\n\n- having double or blurred vision\n\n- being shaky or unsteady\n\n- being confused and less alert\n\n- having muscle weakness or being less coordinated\n\n- having anxiety or other changes to your mood\n\nThese effects may cause you to:\n\n- not be able to concentrate properly\n\n- not be able to judge distance or speed properly\n\n- react more slowly\n\nThese effects might change how well you drive. It can be the same as driving when you are over the legal limit for alcohol.\n\n## Which medicines might affect my driving?\n\nThere are many types of medicines that may affect your driving. These include:\n\n- over-the-counter medicines\n\n- prescribed medicines from your doctor\n\n- complementary medicines\n\n- illicit drugs\n\nSome medicines that may affect your driving are:\n\n- some medicines for blood pressure, diabetes, nausea, inflammation or fungal infections\n\n- some cold and flu preparations\n\n- some antihistamines\n\n- sleeping pills\n\n- opioids — used for pain relief\n\n- epilepsy medicines\n\n- diet pills\n\n- medicinal cannabis that contains delta-9-tetrahydrocannabinol (THC)\n\nCannabidiol does not contain THC but it can also cause you to feel sleepy or tired. It may cause low blood pressure .\n\nSome medicines that you may take for your mental health make it hard to drive safely. These include:\n\n- medicines for anxiety\n\n- some antidepressants — used for nerve pain , migraines , bladder problems and depression\n\n- antipsychotic medicines — used for conditions like schizophrenia and bipolar disorder\n\nIf you take these medicines, it may not be safe to drive. Talk to your doctor about whether it's safe to drive.\n\nNot everyone's driving will be affected by these medicines. It depends on:\n\n- how your body adapts to the medicine\n\n- how long before you drive that you take it\n\n- what other medicines you are taking\n\n### What if I take more than one type of medicine?\n\nYour chances of being affected by medicines are greater if you:\n\n- take more than one medicine\n\n- drink alcohol while you are taking medicines\n\n### Can my medical condition affect my driving?\n\nYour illness or health condition can also affect your driving. Some medicines can help you drive more safely by controlling your medical condition. These conditions include:\n\n- diabetes\n\n- epilepsy\n\n- heart disease\n\nDo not drive if you have missed a dose of medicine that you need to control a condition that may affect your driving. Arrange another form of transport, such as public transport, ride share or a taxi.\n\nIf you are on diabetes medicines that may cause low blood sugar — especially insulin — you should check your blood glucose levels before driving and every two hours during a trip. Carry glucose for treatment of low blood sugar and be aware of the symptoms of low blood sugar ( hypoglycaemia ).\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n## What should I do when I start a new medicine?\n\nWhen you are taking a new medicine, it's a good idea to see what effect the medicine has.\n\nYou should not drive until you are sure that the medicine will not affect your ability to drive.\n\nYour medicine might affect your driving more when you first start taking it. Over time, you may get used to it and experience fewer side effects .\n\nSome medicines can last in your system for a long time. If you've taken a sleeping tablet you might still be drowsy the next morning. This is similar to having a 'hangover' from too much alcohol the night before.\n\nDo not stop taking your medicine or change the dose without talking to your doctor first.\n\n### Tips for starting a new medicine\n\nHere are some tips to help you drive safely when starting a new medicine.\n\n- Always read and follow the instructions on the medicine's label .\n\n- Read the consumer medicine information leaflet — this is available for all prescription medicines and some non-prescription medicines.\n\n- Do not take more than the prescribed dose of your medicine.\n\n- Do not drink alcohol or take other drugs while you are taking medicines.\n\n## When should I see my doctor?\n\nYou should see your doctor if you are unsure whether your medicines may affect your driving.\n\nYour doctor can explain how to manage your medicines and your medical condition so that you stay safe while driving.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## What should I do if I am unsure if it's safe to drive?\n\nIf you feel you may not be safe to drive, do not drive. Arrange for another form of transport, such as ride share, public transport or a taxi.\n\nCheck with your doctor or pharmacist whether it's safe to drive while on your medicine.\n\n## Prescription medicines and driving laws\n\nIf you have a medical condition that could affect your driving, you will need to tell your state or territory licensing authority.\n\nYou may need to give them a medical report from a doctor which says that you are fit to drive.\n\nIt can be a criminal offence to drive in Australia with a medical condition that affects your ability to drive safely. This may affect your insurance if you have an accident.\n\nIf you take medicines for diabetes — especially insulin and some oral medicines — you should check your blood glucose level before driving to make sure it's not too low . Your blood glucose level should be 5mmol/L or more.\n\nDriving under the influence of prescription medicines or illicit drugs can carry heavy fines.\n\n## Resources and support\n\nState and territory governments are in charge of road rules and road safety. You can find more information for your state or territory at:\n\n- Australian Capital Territory: Access Canberra 13 22 81\n\n- New South Wales: Roads and Maritime Services\n\n- Northern Territory: Northern Territory Government\n\n- Queensland: Queensland Government 13 74 68\n\n- South Australia: Towards Zero Together\n\n- Tasmania: Transport Services 1300 135 513\n\n- Victoria: Transport Victoria 13 11 71\n\n- Western Australia: Main Roads 138 138\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nNSW Health (Driving safety and medicines) , Centre for Accident Research and Road Safety Queensland (Medication & driving) , Therapeutic Goods Administration (What's on my medicine label?) , NSW Health - Centre for Cannabis Research and innovation (Prescribed Cannabis Medicines and fitness to drive) , Austroads (Assessing fitness to drive) , Transport for NSW (Drugs and driving) , Transport Victoria (Medicines and road safety) , Diabetes Australia (Driving with diabetes)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: July 2025\n\nBack To Top\n\n## Related pages\n\n- Medicines and alcohol\n\n- Medicines during pregnancy\n\n- Medicines for babies and children\n\n- Medicines safety for older people\n\n- Out-of-date medicines\n\n- Questions to ask before taking a medicine\n\n- Reporting a problem with a medicine\n\n## Search our site for\n\n- Driving\n\n- Polypharmacy\n\n- Medicine regulation\n\n- Medicine scheduling\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Driving with diabetes | Diabetes Australia\n\nWhen driving with diabetes, there are some things you need to consider to keep you and the people around you safe on the road.\n\nRead more on Diabetes Australia website\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-and-driving\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-driving\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-and-driving#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-and-driving#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-and-driving#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-and-driving#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-driving\n\n- How will medicines affect my driving?: https://www.healthdirect.gov.au/medicines-and-driving#affect\n\n- Which medicines might affect my driving?: https://www.healthdirect.gov.au/medicines-and-driving#which\n\n- What should I do when I start a new medicine?: https://www.healthdirect.gov.au/medicines-and-driving#start\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/medicines-and-driving#doctor\n\n- What should I do if I am unsure if it's safe to drive?: https://www.healthdirect.gov.au/medicines-and-driving#unsure\n\n- Prescription medicines and driving laws: https://www.healthdirect.gov.au/medicines-and-driving#prescriptions\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-and-driving#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-and-driving#searchGeneralResults\n\n- dizzy: https://www.healthdirect.gov.au/dizziness\n\n- faint: https://www.healthdirect.gov.au/fainting\n\n- nauseous: https://www.healthdirect.gov.au/nausea\n\n- blurred vision: https://www.healthdirect.gov.au/blurred-vision\n\n- confused: https://www.healthdirect.gov.au/confusion\n\n- anxiety: https://www.healthdirect.gov.au/anxiety\n\n- over-the-counter medicines: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- complementary: https://www.healthdirect.gov.au/complementary-therapy\n\n- illicit drugs: https://www.healthdirect.gov.au/Illicit-drug-use\n\n- cold and flu: https://www.healthdirect.gov.au/colds-and-flu\n\n- antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- sleeping pills: https://www.healthdirect.gov.au/safe-use-of-sleeping-pills\n\n- opioids: https://www.healthdirect.gov.au/opioids\n\n- pain relief: https://www.healthdirect.gov.au/pain-relief-medicines\n\n- epilepsy: https://www.healthdirect.gov.au/epilepsy\n\n- medicinal cannabis: https://www.healthdirect.gov.au/medicinal-cannabis\n\n- low blood pressure: https://www.healthdirect.gov.au/low-blood-pressure-hypotension\n\n- medicines for anxiety: https://www.healthdirect.gov.au/medicines-for-anxiety\n\n- antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- nerve pain: https://www.healthdirect.gov.au/nerve-pain\n\n- migraines: https://www.healthdirect.gov.au/migraine\n\n- bladder problems: https://www.healthdirect.gov.au/urinary-problems\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- antipsychotic medicines: https://www.healthdirect.gov.au/antipsychotic-medicines\n\n- schizophrenia: https://www.healthdirect.gov.au/schizophrenia\n\n- bipolar disorder: https://www.healthdirect.gov.au/bipolar-disorder\n\n- drink alcohol while you are taking medicines: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- hypoglycaemia: https://www.healthdirect.gov.au/hypoglycaemia-low-blood-sugar\n\n- side effects: https://www.healthdirect.gov.au/medicine-and-side-effects\n\n- label: https://www.healthdirect.gov.au/how-to-read-cmis\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- medicines for diabetes: https://www.healthdirect.gov.au/diabetes-medicines\n\n- Access Canberra: https://www.accesscanberra.act.gov.au/driving-transport-and-parking/licences/medical-conditions-and-fitness-to-drive\n\n- Roads and Maritime Services: https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/alcohol-and-drugs\n\n- Northern Territory Government: https://nt.gov.au/driving/safety/alcohol-drugs-and-driving\n\n- Queensland Government: https://www.qld.gov.au/transport/safety/road-safety/drink-driving\n\n- Towards Zero Together: https://www.dpti.sa.gov.au/towardszerotogether\n\n- Transport Services: https://www.transport.tas.gov.au/\n\n- Transport Victoria: https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/alcohol-drugs-and-driving/medicines-and-road-safety\n\n- Main Roads: https://www.mainroads.wa.gov.au/\n\n- (Driving safety and medicines): https://www.health.nsw.gov.au/aod/resources/Factsheets/driving-safety-med-printable.PDF\n\n- (Medication & driving): https://research.qut.edu.au/carrs-q/wp-content/uploads/sites/296/2020/06/Medications-and-Driving-screen.pdf\n\n- (What's on my medicine label?): https://www.tga.gov.au/products/medicines/find-information-about-medicine/whats-my-medicine-label\n\n- (Prescribed Cannabis Medicines and fitness to drive): https://www.medicinalcannabis.nsw.gov.au/patients/driving\n\n- (Assessing fitness to drive): https://austroads.gov.au/publications/assessing-fitness-to-drive/ap-g56/neurological-conditions/seizures-and-epilepsy\n\n- (Drugs and driving): https://www.transport.nsw.gov.au/roadsafety/topics-tips/drugs\n\n- (Medicines and road safety): https://transport.vic.gov.au/Road-rules-and-safety/Alcohol-drugs-and-driving/Medicines-and-road-safety\n\n- (Driving with diabetes): https://www.diabetesaustralia.com.au/living-with-diabetes/driving/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-and-driving#backToTop\n\n- Medicines during pregnancy: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Medicines for babies and children: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Medicines safety for older people: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Out-of-date medicines: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Questions to ask before taking a medicine: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reporting a problem with a medicine: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Driving: https://www.healthdirect.gov.au/search-results/Driving\n\n- Polypharmacy: https://www.healthdirect.gov.au/search-results/Polypharmacy\n\n- Medicine regulation: https://www.healthdirect.gov.au/search-results/Medicine regulation\n\n- Medicine scheduling: https://www.healthdirect.gov.au/search-results/Medicine scheduling\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

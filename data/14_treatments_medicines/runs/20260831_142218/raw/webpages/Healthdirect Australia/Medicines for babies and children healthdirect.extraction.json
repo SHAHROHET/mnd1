@@ -1,0 +1,751 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-for-babies-and-children",
+  "title": "Medicines for babies and children | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 36773,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Prescription and over-the-counter (OTC) medicines",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#prescription"
+    },
+    {
+      "text": "Common types of medicines given to babies and children for pain and fever",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#types"
+    },
+    {
+      "text": "What happens if my child has a reaction to a medicine?",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#reaction"
+    },
+    {
+      "text": "How do I make sure my child gets the right dose of medicine?",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#right-dose"
+    },
+    {
+      "text": "What medicines should I avoid giving my child?",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#avoid"
+    },
+    {
+      "text": "What if I gave my child the wrong dose or medicine?",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#wrong-dose"
+    },
+    {
+      "text": "How should I store medicines safely?",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#store"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#searchGeneralResults"
+    },
+    {
+      "text": "over-the-counter (OTC) medicines",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "allergies",
+      "url": "https://www.healthdirect.gov.au/allergies-and-hypersensitivities"
+    },
+    {
+      "text": "over-the-counter (OTC) medicines",
+      "url": "https://www.healthdirect.gov.au/pain-relief-medicines"
+    },
+    {
+      "text": "supplements",
+      "url": "https://www.healthdirect.gov.au/dietary-supplements"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "pain",
+      "url": "https://www.pregnancybirthbaby.org.au/pain-management-in-babies"
+    },
+    {
+      "text": "fever",
+      "url": "https://www.healthdirect.gov.au/fever-and-high-temperature-in-children"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.healthdirect.gov.au/paracetamol"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "fever",
+      "url": "https://www.pregnancybirthbaby.org.au/fever-in-babies"
+    },
+    {
+      "text": "asthma",
+      "url": "https://www.pregnancybirthbaby.org.au/asthma-in-children"
+    },
+    {
+      "text": "bleeding disorder",
+      "url": "https://www.healthdirect.gov.au/blood-disorders"
+    },
+    {
+      "text": "Antibiotics",
+      "url": "https://www.healthdirect.gov.au/antibiotics"
+    },
+    {
+      "text": "bacteria",
+      "url": "https://www.healthdirect.gov.au/bacterial-infections"
+    },
+    {
+      "text": "colds",
+      "url": "https://www.healthdirect.gov.au/coughs-and-colds-in-children"
+    },
+    {
+      "text": "flu",
+      "url": "https://www.healthdirect.gov.au/cold-or-flu-infographic"
+    },
+    {
+      "text": "differences between bacterial and viral infections",
+      "url": "https://www.healthdirect.gov.au/bacterial-vs-viral-infection"
+    },
+    {
+      "text": "Antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "allergies",
+      "url": "https://www.pregnancybirthbaby.org.au/airborne-allergies-around-your-home"
+    },
+    {
+      "text": "itching",
+      "url": "https://www.healthdirect.gov.au/itchy-skin"
+    },
+    {
+      "text": "rashes",
+      "url": "https://www.pregnancybirthbaby.org.au/common-childhood-rashes"
+    },
+    {
+      "text": "vitamin and mineral",
+      "url": "https://www.healthdirect.gov.au/vitamins-and-minerals-explained"
+    },
+    {
+      "text": "breastfed",
+      "url": "https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby"
+    },
+    {
+      "text": "infant formula",
+      "url": "https://www.pregnancybirthbaby.org.au/feeding-your-baby-with-formula"
+    },
+    {
+      "text": "starting solid food",
+      "url": "https://www.pregnancybirthbaby.org.au/introducing-solid-food"
+    },
+    {
+      "text": "low birthweight",
+      "url": "https://www.pregnancybirthbaby.org.au/having-a-small-baby"
+    },
+    {
+      "text": "vegan diet",
+      "url": "https://www.healthdirect.gov.au/vegetarian-and-vegan-diets"
+    },
+    {
+      "text": "child's nutrition",
+      "url": "https://www.pregnancybirthbaby.org.au/healthy-eating-for-your-child"
+    },
+    {
+      "text": "abdominal (tummy) pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain-in-children"
+    },
+    {
+      "text": "vomiting",
+      "url": "https://www.pregnancybirthbaby.org.au/poos-and-wees"
+    },
+    {
+      "text": "nausea",
+      "url": "https://www.healthdirect.gov.au/nausea"
+    },
+    {
+      "text": "dizziness",
+      "url": "https://www.healthdirect.gov.au/dizziness"
+    },
+    {
+      "text": "difficulty breathing",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath"
+    },
+    {
+      "text": "Aspirin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin"
+    },
+    {
+      "text": "Cough and cold medicines",
+      "url": "https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19-for-children"
+    },
+    {
+      "text": "store medicines safely",
+      "url": "https://www.pregnancybirthbaby.org.au/medicine-and-poisons-safety-in-the-home"
+    },
+    {
+      "text": "1300 MEDICINE",
+      "url": "https://1300medicine.com.au/"
+    },
+    {
+      "text": "Royal Children's Hospital",
+      "url": "https://www.rch.org.au/uploadedFiles/Main/Content/pharmacy/how-to-give-medications-to-children.pdf"
+    },
+    {
+      "text": "Pain Management Network",
+      "url": "https://aci.health.nsw.gov.au/chronic-pain/our-mob"
+    },
+    {
+      "text": "video call",
+      "url": "https://www.pregnancybirthbaby.org.au/video-call"
+    },
+    {
+      "text": "(Clinical Practice Guidelines - Acute pain management)",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management"
+    },
+    {
+      "text": "(Clinical Practice Guidelines: Vomiting)",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/"
+    },
+    {
+      "text": "(Over-the-counter medicines: What parents use and why)",
+      "url": "https://rchpoll.org.au/wp-content/uploads/2016/09/20160907_Australian-Child-Health-Poll_Detailed-Report.pdf"
+    },
+    {
+      "text": "(Accidental poisoning of preschool children from medicinal substances, Australia)",
+      "url": "https://www.aihw.gov.au/getmedia/81573af6-3fbc-4848-a23c-0952cc3f27d6/injcat39.pdf?v=20230605182328&inline=true"
+    },
+    {
+      "text": "(Use of dietary supplements by children and adolescents)",
+      "url": "https://www.scielo.br/j/jped/a/8srCsDPXbTSxPyjj6PgzDGd"
+    },
+    {
+      "text": "(The Antibiotic Resistance Crisis)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4378521"
+    },
+    {
+      "text": "(Review of Aspirin / Reye’s syndrome warning statement)",
+      "url": "https://www.tga.gov.au/sites/default/files/review-aspirin-reyes-syndrome-0404.pdf"
+    },
+    {
+      "text": "(First-generation oral sedating antihistamines - do not use in children)",
+      "url": "https://www.tga.gov.au/news/safety-updates/first-generation-oral-sedating-antihistamines-do-not-use-children"
+    },
+    {
+      "text": "(Toxicity of buprenorphine overdoses in children)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18381506/"
+    },
+    {
+      "text": "(Seizures associated with poisoning in children: tricyclic antidepressant intoxication)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17168978"
+    },
+    {
+      "text": "(Adverse Drug Reactions in Children: Comparison of Reports Collected in a Pharmacovigilance Project Versus Spontaneously Collected ADR Reports)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9931796"
+    },
+    {
+      "text": "(Promethazine hydrochloride (Phenergan) not to be used in children under 6)",
+      "url": "https://www.tga.gov.au/news/safety-updates/promethazine-hydrochloride-phenergan-not-be-used-children-under-6"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children#backToTop"
+    },
+    {
+      "text": "Medicines and alcohol",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "Medicines and driving",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Medicines during pregnancy",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Medicines safety for older people",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Out-of-date medicines",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Questions to ask before taking a medicine",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reporting a problem with a medicine",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Nonprescription Drugs",
+      "url": "https://www.healthdirect.gov.au/search-results/Nonprescription Drugs"
+    },
+    {
+      "text": "Pain relief drugs",
+      "url": "https://www.healthdirect.gov.au/search-results/Pain relief drugs"
+    },
+    {
+      "text": "Medicine regulation",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine regulation"
+    },
+    {
+      "text": "Medicine scheduling",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine scheduling"
+    },
+    {
+      "text": "Medicines for autistic children & teens | Raising Children Network Medicines sometimes help with behaviour and other challenges in autistic children and teens. The right medicine for your autistic child depends on their needs. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/autism/therapies-services/therapies-interventions/medications-asd"
+    },
+    {
+      "text": "Common Asthma Medicines for Children | Asthma Australia Find out which asthma medicines are commonly used in children and how they help manage symptoms. Call us for more info on 1800 ASTHMA Read more on Asthma Australia website",
+      "url": "https://asthma.org.au/kids/treatment/asthma-medicines-for-kids/"
+    },
+    {
+      "text": "Children’s medicines: a guide | Raising Children Network Children’s medicines are designed for children’s bodies. Ask your doctor or pharmacist about which medicines your child needs, and check dosage instructions. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/guides/a-z-health-reference/medications"
+    },
+    {
+      "text": "Medicines and poisoning: keeping kids safe | Raising Children Network Medicines are the most common cause of poisoning in young children. Safety starts with locking medicines in a child-resistant cupboard when not in use. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/babies/safety/poisons/medicines-that-can-poison"
+    },
+    {
+      "text": "Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Kids Health Info : Medicines for children and medicine reactions Read more on Royal Children's Hospital website",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Medicines_for_children_and_medicine_reactions/"
+    },
+    {
+      "text": "TGA The TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods. Read more on Partner Organisation website",
+      "url": "https://www.tga.gov.au/"
+    },
+    {
+      "text": "Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Administration of medicines to children: a practical guide How can medicines be made more palatable for children? Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/administration-of-medicines-to-children-a-practical-guide.html"
+    },
+    {
+      "text": "Quality use of medicines: who owns it now? - Australian Prescriber The closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake. Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/quality-use-of-medicines-who-owns-it-now.html"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines for babies and children | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Medicines for babies and children\n\n11-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you think you’ve given your baby or child too much medicine or the wrong medicine, call the Poisons Information Centre on 13 11 26 or call triple zero (000). If your child has difficulty breathing, becomes unconscious or has a seizure, call triple zero (000) and ask for an ambulance.\n\n## Key facts\n\n- Some medicines for children can only be prescribed by a doctor; others can be bought over the counter in a pharmacy or shop.\n\n- Paracetamol and ibuprofen can help reduce pain and fever, but don't treat the cause.\n\n- Always follow the correct dose for your child's age and weight — giving too much medicine can be dangerous.\n\n- Some medicines, such as aspirin, cough and cold medicines, and anti-nausea medicine, aren't safe for young children.\n\n- Call the Poisons Information Centre on 13 11 26 if you think your child has taken too much medicine.\n\n## On this page\n\n- Prescription and over-the-counter (OTC) medicines\n\n- Common types of medicines given to babies and children for pain and fever\n\n- What happens if my child has a reaction to a medicine?\n\n- How do I make sure my child gets the right dose of medicine?\n\n- What medicines should I avoid giving my child?\n\n- What if I gave my child the wrong dose or medicine?\n\n- How should I store medicines safely?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Prescription and over-the-counter (OTC) medicines\n\nThere are 2 main ways you can get medicines for your child:\n\n- prescription medicines — your child's doctor can prescribe these\n\n- over-the-counter (OTC) medicines — you can buy these at a pharmacy or shop without a prescription\n\n### Prescription medicines\n\nIf your doctor prescribes a medicine for your child, they should explain:\n\n- the full name of the medicine\n\n- what it's for\n\n- how often to give it\n\n- the correct dose\n\n- when to give it — for example, before or after meals\n\n- how long your child needs to take it\n\n- any common side effects\n\nAlways tell your doctor if your child has any allergies or is taking any other medicines, including:\n\n- over-the-counter (OTC) medicines\n\n- complementary medicines\n\n- vitamins or mineral supplements\n\nSome medicines can interact with each other. It's important your doctor knows about all the medicines your child is taking.\n\nOnly give prescription medicines to the person they are prescribed for. Don't share them with anyone else.\n\n### Over-the-counter (OTC) medicines\n\nIf you buy medicines without a prescription:\n\n- always read the instructions carefully\n\n- check the dose is right for your child's weight\n\n- ask your pharmacist or doctor for advice if you're unsure about anything\n\n## Common types of medicines given to babies and children for pain and fever\n\nIn Australia, the medicines used most often to treat pain and fever in children are:\n\n- paracetamol\n\n- ibuprofen\n\nThese medicines are also called pain-relief medicines . They can help ease pain and lower fever but do not treat the cause of your child's pain. If your child is unwell or in severe pain, take them to your doctor to find out why.\n\nYou can buy paracetamol and ibuprofen without a prescription. They are available in liquid form for babies and young children.\n\n### Paracetamol\n\nParacetamol is used to treat mild or moderate pain and fever in babies over 1 month of age.\n\nIt comes in different strengths for different ages, including for babies, young children and older children. How much paracetamol you can give to your child will depend on their age and weight.\n\nHere are some tips to help you give paracetamol to your child:\n\n- Always check that the strength is right for your child's age and weight.\n\n- Follow the dose instructions on the pack. If you are not sure how much your child needs, ask your pharmacist.\n\n- It's a good idea to ask another adult to double-check the dose before you give it to your child.\n\n- You can give your child paracetamol every 4 to 6 hours but no more than 4 times in 24 hours. You should not give your child more paracetamol than the recommended dose.\n\n- Before you give your child paracetamol, make sure that other medicines they take don't also have paracetamol in them.\n\n- If your child needs to take paracetamol for more than 48 hours, see a doctor.\n\n### Ibuprofen\n\nYou can use ibuprofen to treat pain and fever in babies over 3 months of age .\n\nHere are some tips that may help you give ibuprofen to your child:\n\n- Don't give ibuprofen to your child if they have asthma or a bleeding disorder .\n\n- Give ibuprofen after feeding.\n\n- The dose depends on your child's age and weight. Follow the dose instructions on the pack.\n\n- You can give your child ibuprofen every 6 to 8 hours but no more than 3 times in 24 hours.\n\n- If your child needs to take ibuprofen for more than 48 hours, see a doctor.\n\n### Can I give paracetamol and ibuprofen to my child at the same time?\n\nStart by giving your child either paracetamol or ibuprofen on its own.\n\nIf this doesn't help enough, you can give your child paracetamol and ibuprofen at the same time. You can also alternate between the 2 medicines.\n\nMake sure you don't give your child more than the allowed amount of each medicine in one day. To avoid giving your child too much medicine, write down what time you give each dose of paracetamol and ibuprofen.\n\n### Antibiotics\n\nAntibiotics treat infections caused by bacteria . Antibiotics don't work on viruses, including those that cause colds and flu . Read more on the differences between bacterial and viral infections .\n\nYour doctor will prescribe the correct dose and how long to take it (this is called a course). It's important to finish the full course, even if your child feels better before it's finished.\n\nUsing antibiotics when they aren't needed or not finishing the course can lead to antibiotic resistance. This makes antibiotics less effective in the future.\n\n### Antihistamines\n\nAntihistamines treat symptoms of allergies , such as:\n\n- itching\n\n- sneezing\n\n- swelling\n\n- rashes\n\nThere are 2 types of antihistamines:\n\n- those that make you feel drowsy (sedating)\n\n- those that don't make you drowsy (non-sedating)\n\nDo not give sedating antihistamines such as promethazine to children under 6 years old. Before giving your child an antihistamine, speak to your doctor or pharmacist.\n\nIf your child needs an antihistamine, speak to your doctor or pharmacist .\n\n### Vitamins and mineral supplements\n\nMost children don't need vitamin and mineral supplements if they:\n\n- are breastfed by someone who eats well and regularly\n\n- have infant formula\n\n- eat a balanced and varied diet after starting solid food\n\nSupplements may be needed if your baby or child:\n\n- was born with low birthweight\n\n- has certain medical conditions\n\n- follows a vegan diet\n\nCheck with your doctor if you have any concerns about your child's nutrition .\n\n## What happens if my child has a reaction to a medicine?\n\nChildren do not always react to medicines in the expected way. Let your doctor know if you think a medicine isn't working or if you notice side-effects, such as:\n\n- abdominal (tummy) pain\n\n- vomiting\n\n- nausea\n\n- dizziness\n\nIf your baby or child has a reaction to medicine, such as difficulty breathing , facial swelling or a whole-body rash, call triple zero (000) and ask for an ambulance.\n\n## How do I make sure my child gets the right dose of medicine?\n\nIt's important to give your child the right dose of medicine. In Australia, giving the wrong dose of medicine is the most common cause of accidental poisoning in children under one year of age.\n\nHere are 6 tips to help make sure your child gets the right dose of medicine:\n\n- Know your child's weight . Doctors use body weight to calculate the right amount of medicine.\n\n- Read the instructions carefully . The right dose depends on your child's age and weight. Children's medicines often come in different strengths for different age groups. Don't give more than what's recommended. If you are unsure, speak to your doctor, pharmacist or child health nurse.\n\n- Check the label. Look at the active ingredients. Don't give more than one medicine with the same active ingredient. For example, one medicine might contain only paracetamol, while another might combine paracetamol with other ingredients.\n\n- Double-check doses. Ask another adult to check the dose before you give the medicine. Check decimal points carefully (for example 0.5 ml is different from 5 ml). Write down the name of the medicine, the time you gave it, the amount and the active ingredient.\n\n- Use the right measuring tool . Always use the syringe or measuring cup that comes with liquid medicines. If none is provided, ask your pharmacist for one. Shake liquid medicines before measuring the dose.\n\n- Don't mix medicine with formula. Your baby may not drink the full bottle, so they won't get the full dose.\n\nIf your child can't swallow pills, ask your doctor or pharmacist if there's a liquid version or if it's safe to crush the tablet.\n\n## What medicines should I avoid giving my child?\n\nThere are some medicines that you should never give to your baby or young child.\n\n- Aspirin should not be given to children under 12 years of age unless it is specifically prescribed by your doctor.\n\n- Cough and cold medicines (including nasal sprays) are not suitable for children under 6 years of age.\n\n- Chewable tablets (including vitamins) can cause your young child to choke. Follow the age directions on the package.\n\n- Anti-nausea medicines should not be used unless instructed by your doctor.\n\n- Sedating antihistamines, such as promethazine.\n\nYou should also never give your child any medicine that has:\n\n- been prescribed for another person\n\n- been prescribed for a different health condition\n\n- passed its expiry date\n\n## What if I gave my child the wrong dose or medicine?\n\nIf your child has breathing difficulties, loses consciousness or has a seizure, call triple zero (000) and ask for an ambulance.\n\nIf you think you've given your baby or child too much medicine or you may have given a medicine that should be avoided, act quickly:\n\n- Call the Poisons Information Centre on 13 11 26 , or\n\n- Call your doctor, or\n\n- Call triple zero (000) and request an ambulance, or\n\n- Go to the emergency department of your nearest hospital\n\nDon't try to treat the problem until you've spoken to the Poisons Information Centre.\n\n## How should I store medicines safely?\n\nHere are some tips to store medicines safely :\n\n- Keep all medicines out of your child's reach, preferably in a locked, child-proof cabinet.\n\n- Keep medicines in the labelled containers they came in.\n\n- Check storage instructions — some medicines must go in the fridge.\n\n- Look at the expiry date. Take expired medicines to your local pharmacy for safe disposal.\n\n## Resources and support\n\n- Call 1300 MEDICINE (1300 633 424) if you have questions about medicines.\n\n- For more information on how to give your child medicines, visit the Royal Children's Hospital website.\n\n- If you have more questions about medicines, speak to your doctor or pharmacist.\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\n- The Pain Management Network offers information about pain medicines for Aboriginal and/or Torres Strait Islander people.\n\n### Speak to a maternal child health nurse\n\nCall Pregnancy, Birth and Baby to speak to a maternal child health nurse on 1800 882 436 or video call . Available 7am to midnight (AET), 7 days a week.\n\n#### Source s :\n\nThe Royal Children's Hospital (Clinical Practice Guidelines - Acute pain management) , The Royal Children's Hospital (Clinical Practice Guidelines: Vomiting) , The Royal Children's Hospital (Over-the-counter medicines: What parents use and why) , Australian Institute of Health and Welfare (Accidental poisoning of preschool children from medicinal substances, Australia) , The Journal of Pediatrics (Use of dietary supplements by children and adolescents) , Pharmacy and Therapeutics (The Antibiotic Resistance Crisis) , Australian Government (Review of Aspirin / Reye’s syndrome warning statement) , Therapeutic good administration (First-generation oral sedating antihistamines - do not use in children) , Pediatrics (Toxicity of buprenorphine overdoses in children) , Pediatrics International (Seizures associated with poisoning in children: tricyclic antidepressant intoxication) , Paediatrics Drugs (Adverse Drug Reactions in Children: Comparison of Reports Collected in a Pharmacovigilance Project Versus Spontaneously Collected ADR Reports) , Therapeutic Goods Administration (Promethazine hydrochloride (Phenergan) not to be used in children under 6)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: April 2025\n\nBack To Top\n\n## Related pages\n\n- Medicines and alcohol\n\n- Medicines and driving\n\n- Medicines during pregnancy\n\n- Medicines safety for older people\n\n- Out-of-date medicines\n\n- Questions to ask before taking a medicine\n\n- Reporting a problem with a medicine\n\n## Search our site for\n\n- Nonprescription Drugs\n\n- Pain relief drugs\n\n- Medicine regulation\n\n- Medicine scheduling\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Medicines for autistic children & teens | Raising Children Network\n\nMedicines sometimes help with behaviour and other challenges in autistic children and teens. The right medicine for your autistic child depends on their needs.\n\nRead more on raisingchildren.net.au website\n\n### Common Asthma Medicines for Children | Asthma Australia\n\nFind out which asthma medicines are commonly used in children and how they help manage symptoms. Call us for more info on 1800 ASTHMA\n\nRead more on Asthma Australia website\n\n### Children’s medicines: a guide | Raising Children Network\n\nChildren’s medicines are designed for children’s bodies. Ask your doctor or pharmacist about which medicines your child needs, and check dosage instructions.\n\n### Medicines and poisoning: keeping kids safe | Raising Children Network\n\nMedicines are the most common cause of poisoning in young children. Safety starts with locking medicines in a child-resistant cupboard when not in use.\n\n### Medicines for babies and children\n\nGet practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects.\n\nRead more on Pregnancy,Birth & Baby website\n\n### Kids Health Info : Medicines for children and medicine reactions\n\nRead more on Royal Children's Hospital website\n\n### TGA\n\nThe TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods.\n\nRead more on Partner Organisation website\n\n### Medicines during pregnancy\n\nLearn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins.\n\nShow more\n\n### Administration of medicines to children: a practical guide\n\nHow can medicines be made more palatable for children?\n\nRead more on Australian Prescriber website\n\n### Quality use of medicines: who owns it now? - Australian Prescriber\n\nThe closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-for-babies-and-children#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-for-babies-and-children#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Prescription and over-the-counter (OTC) medicines: https://www.healthdirect.gov.au/medicines-for-babies-and-children#prescription\n\n- Common types of medicines given to babies and children for pain and fever: https://www.healthdirect.gov.au/medicines-for-babies-and-children#types\n\n- What happens if my child has a reaction to a medicine?: https://www.healthdirect.gov.au/medicines-for-babies-and-children#reaction\n\n- How do I make sure my child gets the right dose of medicine?: https://www.healthdirect.gov.au/medicines-for-babies-and-children#right-dose\n\n- What medicines should I avoid giving my child?: https://www.healthdirect.gov.au/medicines-for-babies-and-children#avoid\n\n- What if I gave my child the wrong dose or medicine?: https://www.healthdirect.gov.au/medicines-for-babies-and-children#wrong-dose\n\n- How should I store medicines safely?: https://www.healthdirect.gov.au/medicines-for-babies-and-children#store\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-for-babies-and-children#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-for-babies-and-children#searchGeneralResults\n\n- over-the-counter (OTC) medicines: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- allergies: https://www.healthdirect.gov.au/allergies-and-hypersensitivities\n\n- over-the-counter (OTC) medicines: https://www.healthdirect.gov.au/pain-relief-medicines\n\n- supplements: https://www.healthdirect.gov.au/dietary-supplements\n\n- pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- pain: https://www.pregnancybirthbaby.org.au/pain-management-in-babies\n\n- fever: https://www.healthdirect.gov.au/fever-and-high-temperature-in-children\n\n- paracetamol: https://www.healthdirect.gov.au/paracetamol\n\n- ibuprofen: https://www.healthdirect.gov.au/ibuprofen\n\n- fever: https://www.pregnancybirthbaby.org.au/fever-in-babies\n\n- asthma: https://www.pregnancybirthbaby.org.au/asthma-in-children\n\n- bleeding disorder: https://www.healthdirect.gov.au/blood-disorders\n\n- Antibiotics: https://www.healthdirect.gov.au/antibiotics\n\n- bacteria: https://www.healthdirect.gov.au/bacterial-infections\n\n- colds: https://www.healthdirect.gov.au/coughs-and-colds-in-children\n\n- flu: https://www.healthdirect.gov.au/cold-or-flu-infographic\n\n- differences between bacterial and viral infections: https://www.healthdirect.gov.au/bacterial-vs-viral-infection\n\n- Antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- allergies: https://www.pregnancybirthbaby.org.au/airborne-allergies-around-your-home\n\n- itching: https://www.healthdirect.gov.au/itchy-skin\n\n- rashes: https://www.pregnancybirthbaby.org.au/common-childhood-rashes\n\n- vitamin and mineral: https://www.healthdirect.gov.au/vitamins-and-minerals-explained\n\n- breastfed: https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby\n\n- infant formula: https://www.pregnancybirthbaby.org.au/feeding-your-baby-with-formula\n\n- starting solid food: https://www.pregnancybirthbaby.org.au/introducing-solid-food\n\n- low birthweight: https://www.pregnancybirthbaby.org.au/having-a-small-baby\n\n- vegan diet: https://www.healthdirect.gov.au/vegetarian-and-vegan-diets\n\n- child's nutrition: https://www.pregnancybirthbaby.org.au/healthy-eating-for-your-child\n\n- abdominal (tummy) pain: https://www.healthdirect.gov.au/abdominal-pain-in-children\n\n- vomiting: https://www.pregnancybirthbaby.org.au/poos-and-wees\n\n- nausea: https://www.healthdirect.gov.au/nausea\n\n- dizziness: https://www.healthdirect.gov.au/dizziness\n\n- difficulty breathing: https://www.healthdirect.gov.au/shortness-of-breath\n\n- Aspirin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin\n\n- Cough and cold medicines: https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19-for-children\n\n- store medicines safely: https://www.pregnancybirthbaby.org.au/medicine-and-poisons-safety-in-the-home\n\n- 1300 MEDICINE: https://1300medicine.com.au/\n\n- Royal Children's Hospital: https://www.rch.org.au/uploadedFiles/Main/Content/pharmacy/how-to-give-medications-to-children.pdf\n\n- Pain Management Network: https://aci.health.nsw.gov.au/chronic-pain/our-mob\n\n- video call: https://www.pregnancybirthbaby.org.au/video-call\n\n- (Clinical Practice Guidelines - Acute pain management): https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management\n\n- (Clinical Practice Guidelines: Vomiting): https://www.rch.org.au/clinicalguide/guideline_index/Vomiting/\n\n- (Over-the-counter medicines: What parents use and why): https://rchpoll.org.au/wp-content/uploads/2016/09/20160907_Australian-Child-Health-Poll_Detailed-Report.pdf\n\n- (Accidental poisoning of preschool children from medicinal substances, Australia): https://www.aihw.gov.au/getmedia/81573af6-3fbc-4848-a23c-0952cc3f27d6/injcat39.pdf?v=20230605182328&inline=true\n\n- (Use of dietary supplements by children and adolescents): https://www.scielo.br/j/jped/a/8srCsDPXbTSxPyjj6PgzDGd\n\n- (The Antibiotic Resistance Crisis): https://pmc.ncbi.nlm.nih.gov/articles/PMC4378521\n\n- (Review of Aspirin / Reye’s syndrome warning statement): https://www.tga.gov.au/sites/default/files/review-aspirin-reyes-syndrome-0404.pdf\n\n- (First-generation oral sedating antihistamines - do not use in children): https://www.tga.gov.au/news/safety-updates/first-generation-oral-sedating-antihistamines-do-not-use-children\n\n- (Toxicity of buprenorphine overdoses in children): https://pubmed.ncbi.nlm.nih.gov/18381506/\n\n- (Seizures associated with poisoning in children: tricyclic antidepressant intoxication): https://pubmed.ncbi.nlm.nih.gov/17168978\n\n- (Adverse Drug Reactions in Children: Comparison of Reports Collected in a Pharmacovigilance Project Versus Spontaneously Collected ADR Reports): https://pmc.ncbi.nlm.nih.gov/articles/PMC9931796\n\n- (Promethazine hydrochloride (Phenergan) not to be used in children under 6): https://www.tga.gov.au/news/safety-updates/promethazine-hydrochloride-phenergan-not-be-used-children-under-6\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-for-babies-and-children#backToTop\n\n- Medicines and alcohol: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- Medicines and driving: https://www.healthdirect.gov.au/medicines-and-driving\n\n- Medicines during pregnancy: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Medicines safety for older people: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Out-of-date medicines: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Questions to ask before taking a medicine: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reporting a problem with a medicine: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Nonprescription Drugs: https://www.healthdirect.gov.au/search-results/Nonprescription Drugs\n\n- Pain relief drugs: https://www.healthdirect.gov.au/search-results/Pain relief drugs\n\n- Medicine regulation: https://www.healthdirect.gov.au/search-results/Medicine regulation\n\n- Medicine scheduling: https://www.healthdirect.gov.au/search-results/Medicine scheduling\n\n- Medicines for autistic children & teens | Raising Children Network Medicines sometimes help with behaviour and other challenges in autistic children and teens. The right medicine for your autistic child depends on their needs. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/autism/therapies-services/therapies-interventions/medications-asd\n\n- Common Asthma Medicines for Children | Asthma Australia Find out which asthma medicines are commonly used in children and how they help manage symptoms. Call us for more info on 1800 ASTHMA Read more on Asthma Australia website: https://asthma.org.au/kids/treatment/asthma-medicines-for-kids/\n\n- Children’s medicines: a guide | Raising Children Network Children’s medicines are designed for children’s bodies. Ask your doctor or pharmacist about which medicines your child needs, and check dosage instructions. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/guides/a-z-health-reference/medications\n\n- Medicines and poisoning: keeping kids safe | Raising Children Network Medicines are the most common cause of poisoning in young children. Safety starts with locking medicines in a child-resistant cupboard when not in use. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/babies/safety/poisons/medicines-that-can-poison\n\n- Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/medicines-for-babies-and-children\n\n- Kids Health Info : Medicines for children and medicine reactions Read more on Royal Children's Hospital website: https://www.rch.org.au/kidsinfo/fact_sheets/Medicines_for_children_and_medicine_reactions/\n\n- TGA The TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods. Read more on Partner Organisation website: https://www.tga.gov.au/\n\n- Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy\n\n- Administration of medicines to children: a practical guide How can medicines be made more palatable for children? Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/administration-of-medicines-to-children-a-practical-guide.html\n\n- Quality use of medicines: who owns it now? - Australian Prescriber The closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake. Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/quality-use-of-medicines-who-owns-it-now.html\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

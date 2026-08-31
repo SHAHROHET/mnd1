@@ -1,0 +1,519 @@
+{
+  "source_id": "tga:riluzole-sandoz-artg",
+  "title": "RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack (167717) | Therapeutic Goods Administration (TGA)",
+  "publisher": "Therapeutic Goods Administration",
+  "url": "https://www.tga.gov.au/resources/artg/167717",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 19636,
+  "crawl_depth": 0,
+  "seed_url": "https://www.tga.gov.au/resources/artg/167717",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.tga.gov.au/resources/artg/167717#main-content"
+    },
+    {
+      "text": "https://www.tga.gov.au/",
+      "url": "https://www.tga.gov.au/"
+    },
+    {
+      "text": "News and events",
+      "url": "https://www.tga.gov.au/news"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.tga.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.tga.gov.au/about-us"
+    },
+    {
+      "text": "Product regulation",
+      "url": "https://www.tga.gov.au/products"
+    },
+    {
+      "text": "Quick links",
+      "url": "https://www.tga.gov.au/quick-links"
+    },
+    {
+      "text": "Search our product register (ARTG)",
+      "url": "https://www.tga.gov.au/resources/artg"
+    },
+    {
+      "text": "What's new",
+      "url": "https://www.tga.gov.au/news/whats-new"
+    },
+    {
+      "text": "Regulation essentials",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/regulation-essentials"
+    },
+    {
+      "text": "Regulations for all products",
+      "url": "https://www.tga.gov.au/products/regulations-all-products"
+    },
+    {
+      "text": "Legislation and legislative instruments",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/legislation-and-legislative-instruments"
+    },
+    {
+      "text": "Ingredients and the scheduling of medicines and chemicals",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/ingredients-and-scheduling-medicines-and-chemicals"
+    },
+    {
+      "text": "Manufacturing",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/manufacturing"
+    },
+    {
+      "text": "Application and market authorisation",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/overview-applying-market-authorisation"
+    },
+    {
+      "text": "Labelling and packaging",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/labelling-and-packaging"
+    },
+    {
+      "text": "Advertising",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/advertising"
+    },
+    {
+      "text": "Import and export",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/import-and-export"
+    },
+    {
+      "text": "Compliance and enforcement",
+      "url": "https://www.tga.gov.au/safety/compliance-and-enforcement"
+    },
+    {
+      "text": "Access pathways including clinical trials",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways"
+    },
+    {
+      "text": "Biologicals",
+      "url": "https://www.tga.gov.au/products/biologicals"
+    },
+    {
+      "text": "Faecal microbiota transplant (FMT)",
+      "url": "https://www.tga.gov.au/products/biologicals/faecal-microbiota-transplant-products"
+    },
+    {
+      "text": "Human cell and tissue (HCT)",
+      "url": "https://www.tga.gov.au/products/biologicals/human-cell-and-tissue-products"
+    },
+    {
+      "text": "Medical devices",
+      "url": "https://www.tga.gov.au/products/medical-devices"
+    },
+    {
+      "text": "Implantable devices",
+      "url": "https://www.tga.gov.au/products/medical-devices/implantable-devices"
+    },
+    {
+      "text": "In vitro diagnostic (IVD) devices",
+      "url": "https://www.tga.gov.au/products/medical-devices/vitro-diagnostic-devices"
+    },
+    {
+      "text": "Personal protective equipment (PPE)",
+      "url": "https://www.tga.gov.au/products/medical-devices/personal-protective-equipment"
+    },
+    {
+      "text": "Personalised medical devices",
+      "url": "https://www.tga.gov.au/products/medical-devices/personalised-medical-devices"
+    },
+    {
+      "text": "Software and artificial intelligence (AI)",
+      "url": "https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai"
+    },
+    {
+      "text": "System and procedure packs",
+      "url": "https://www.tga.gov.au/products/medical-devices/system-and-procedure-packs"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.tga.gov.au/products/medicines"
+    },
+    {
+      "text": "Assessed listed medicines",
+      "url": "https://www.tga.gov.au/products/medicines/assessed-listed-medicines"
+    },
+    {
+      "text": "Listed medicines",
+      "url": "https://www.tga.gov.au/products/medicines/listed-medicines"
+    },
+    {
+      "text": "Over-the-counter (OTC) medicines",
+      "url": "https://www.tga.gov.au/products/medicines/over-counter-medicines"
+    },
+    {
+      "text": "Prescription medicines",
+      "url": "https://www.tga.gov.au/products/medicines/prescription-medicines"
+    },
+    {
+      "text": "Registered complementary medicines",
+      "url": "https://www.tga.gov.au/products/medicines/registered-complementary-medicines"
+    },
+    {
+      "text": "Therapeutic sunscreens",
+      "url": "https://www.tga.gov.au/products/medicines/therapeutic-sunscreens"
+    },
+    {
+      "text": "Other therapeutic goods",
+      "url": "https://www.tga.gov.au/products/other-therapeutic-good"
+    },
+    {
+      "text": "Disinfectants and sterilants",
+      "url": "https://www.tga.gov.au/products/other-therapeutic-good/disinfectants-and-sterilants"
+    },
+    {
+      "text": "Tampons and menstrual cups",
+      "url": "https://www.tga.gov.au/products/other-therapeutic-good/tampons-and-menstrual-cups"
+    },
+    {
+      "text": "Unapproved therapeutic goods",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods"
+    },
+    {
+      "text": "MDMA and psilocybine",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods/mdma-and-psilocybine"
+    },
+    {
+      "text": "Medicinal cannabis",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods/medicinal-cannabis"
+    },
+    {
+      "text": "Therapeutic vaping goods",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods/therapeutic-vaping-goods"
+    },
+    {
+      "text": "Boundary and combination products",
+      "url": "https://www.tga.gov.au/products/boundary-combination"
+    },
+    {
+      "text": "Safety and shortages",
+      "url": "https://www.tga.gov.au/safety"
+    },
+    {
+      "text": "Report a problem",
+      "url": "https://www.tga.gov.au/safety/report-problem"
+    },
+    {
+      "text": "Report an adverse event or safety problem",
+      "url": "https://www.tga.gov.au/safety/report-problem/report-adverse-event-or-safety-problem"
+    },
+    {
+      "text": "Report a breach",
+      "url": "https://www.tga.gov.au/safety/report-problem/report-breach"
+    },
+    {
+      "text": "Report a medicine shortage for industry",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortages-information-sponsors/manage-medicine-shortage/report-medicine-shortage-industry"
+    },
+    {
+      "text": "Manage a medical device supply disruption",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medical-device-supply-disruptions-or-shortages/managing-medical-device-supply-disruption-or-shortage"
+    },
+    {
+      "text": "Safety monitoring and information",
+      "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information"
+    },
+    {
+      "text": "Safety alerts",
+      "url": "https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts"
+    },
+    {
+      "text": "Safety updates",
+      "url": "https://www.tga.gov.au/news/safety-updates"
+    },
+    {
+      "text": "Shortages and supply disruptions",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions"
+    },
+    {
+      "text": "Medicine shortages",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages"
+    },
+    {
+      "text": "Medicine shortage alerts",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortage-alerts"
+    },
+    {
+      "text": "Medical device supply disruptions",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medical-device-supply-disruptions-or-shortages"
+    },
+    {
+      "text": "Recalls and other market actions",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions"
+    },
+    {
+      "text": "Database of Recalls, Product Alerts and Product Corrections (DRAC)",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions/database-recalls-product-alerts-and-product-corrections-drac"
+    },
+    {
+      "text": "What to do if your medicine or medical device is recalled",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions/what-do-if-your-medicine-or-medical-device-recalled"
+    },
+    {
+      "text": "Market actions",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions/market-actions"
+    },
+    {
+      "text": "Procedure for recalls, product alerts and product corrections (PRAC)",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions/procedure-recalls-product-alerts-and-product-corrections-prac"
+    },
+    {
+      "text": "Recall coordinators for therapeutic goods",
+      "url": "https://www.tga.gov.au/safety/recalls-and-other-market-actions/recall-coordinators-therapeutic-goods"
+    },
+    {
+      "text": "Adverse events",
+      "url": "https://www.tga.gov.au/safety/adverse-events"
+    },
+    {
+      "text": "Medical device adverse events",
+      "url": "https://www.tga.gov.au/safety/adverse-events/medical-device-adverse-events"
+    },
+    {
+      "text": "Medicine adverse events",
+      "url": "https://www.tga.gov.au/safety/adverse-events/medicine-adverse-events"
+    },
+    {
+      "text": "Database of Adverse Event Notifications (DAEN)",
+      "url": "https://www.tga.gov.au/safety/adverse-events/database-adverse-event-notifications-daen"
+    },
+    {
+      "text": "Compliance actions and outcomes",
+      "url": "https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-actions-and-outcomes"
+    },
+    {
+      "text": "Compliance management",
+      "url": "https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-management-enforcement"
+    },
+    {
+      "text": "Compliance priorities",
+      "url": "https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-management-enforcement/import-advertising-and-supply-compliance-priorities-2023-25"
+    },
+    {
+      "text": "Resources and guidance",
+      "url": "https://www.tga.gov.au/resources"
+    },
+    {
+      "text": "For consumers",
+      "url": "https://www.tga.gov.au/resources/consumer-information-and-resources"
+    },
+    {
+      "text": "Travelling with medicines and medical devices",
+      "url": "https://www.tga.gov.au/resources/consumer-information-and-resources/travelling-medicines-and-medical-devices"
+    },
+    {
+      "text": "Vapes: information for individuals and patients",
+      "url": "https://www.tga.gov.au/products/unapproved-therapeutic-goods/therapeutic-vaping-goods/vaping-hub/vapes-information-individuals-and-patients"
+    },
+    {
+      "text": "What we regulate",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/regulation-essentials/what-we-regulate"
+    },
+    {
+      "text": "Consumer Medicine Information (CMI)",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/consumer-medicine-information-cmi"
+    },
+    {
+      "text": "For health professionals",
+      "url": "https://www.tga.gov.au/resources/health-professional-information-and-resources"
+    },
+    {
+      "text": "Medicine shortages: information for health professionals",
+      "url": "https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortages-information-health-professionals"
+    },
+    {
+      "text": "Section 19A approvals database",
+      "url": "https://www.tga.gov.au/resources/section-19a-approvals"
+    },
+    {
+      "text": "Product Information (PI)",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/product-information-pi"
+    },
+    {
+      "text": "For industry",
+      "url": "https://www.tga.gov.au/resources/industry-guidance-and-resources"
+    },
+    {
+      "text": "Australian Regulatory Guidelines (ARGs)",
+      "url": "https://www.tga.gov.au/resources/industry-guidance-and-resources/australian-regulatory-guidelines-args"
+    },
+    {
+      "text": "Guidance",
+      "url": "https://www.tga.gov.au/resources/guidance"
+    },
+    {
+      "text": "International scientific guidelines adopted in Australia",
+      "url": "https://www.tga.gov.au/resources/resources/international-scientific-guidelines-adopted-australia"
+    },
+    {
+      "text": "Search legislation and legislative instruments",
+      "url": "https://www.tga.gov.au/resources/legislation"
+    },
+    {
+      "text": "Business services",
+      "url": "https://www.tga.gov.au/business-services"
+    },
+    {
+      "text": "TGA Business Services",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs"
+    },
+    {
+      "text": "TGA Business Services: getting started with the TGA",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-getting-started-tga"
+    },
+    {
+      "text": "Enquiries about TGA Business Services portal",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs#contacts"
+    },
+    {
+      "text": "Open TGA Business Services portal",
+      "url": "https://adfs.tga.gov.au/adfs/ls/?wtrealm=https%3a%2f%2fbusiness.tga.gov.au&wctx=WsFedOwinState%3dafDpL4fvxuene3ofk_qJShdxCLR1kTA9JaV2uXAM0haecDbUnnQPhdGlojuMWXL-LBCBibWrRWSBFgFSeFB306ww7L9v_t7eaE3atdzeK5Laen6iaptm6yNvIlzsTFe6&wa=wsignin1.0"
+    },
+    {
+      "text": "TGA Business Services: how to use the portal",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-how-use-portal"
+    },
+    {
+      "text": "TGA Business Services forms",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-forms"
+    },
+    {
+      "text": "TGA Business Services databases",
+      "url": "https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-databases"
+    },
+    {
+      "text": "Modernising our digital systems",
+      "url": "https://www.tga.gov.au/business-services/modernising-our-digital-systems"
+    },
+    {
+      "text": "Online payment portal",
+      "url": "https://www.tga.gov.au/business-services/online-payment-portal"
+    },
+    {
+      "text": "Special Access Scheme and Authorised Prescriber Scheme online system",
+      "url": "https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system"
+    },
+    {
+      "text": "Authorised Prescriber Scheme",
+      "url": "https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system/access-unapproved-therapeutic-goods-multiple-patients-authorised-prescriber"
+    },
+    {
+      "text": "Special Access Scheme",
+      "url": "https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system/access-unapproved-therapeutic-goods-individual-patients-special-access-scheme"
+    },
+    {
+      "text": "Open Special Access & Authorised Prescriber Scheme portal",
+      "url": "https://compliance.health.gov.au/sas/"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/sharing/share-offsite/?url=https://www.tga.gov.au/resources/artg/167717"
+    },
+    {
+      "text": "(Twitter)",
+      "url": "https://x.com/intent/tweet?text=RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack (167717)&url=https://www.tga.gov.au/resources/artg/167717"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/sharer.php?u=https://www.tga.gov.au/resources/artg/167717"
+    },
+    {
+      "text": "Sandoz Pty Ltd",
+      "url": "https://www.tga.gov.au/resources/sponsor/sandoz-pty-ltd"
+    },
+    {
+      "text": "Download PDF",
+      "url": "https://www.ebs.tga.gov.au/servlet/xmlmillr6?dbid=ebs/PublicHTML/pdfStore.nsf&docid=167717&agid=(PrintDetailsPublic)&actionid=1"
+    },
+    {
+      "text": "Download PDF",
+      "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2012-PI-01704-3"
+    },
+    {
+      "text": "Download PDF",
+      "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2015-CMI-02667-1"
+    },
+    {
+      "text": "RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack, Sandoz Pty Ltd , CON-1292",
+      "url": "https://www.tga.gov.au/resources/section-14-consents/riluzole-sandoz-riluzole-50mg-film-coated-tablet-blister-pack-sandoz-pty-ltd-con-1292"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.tga.gov.au/about-us/using-our-website/accessibility"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.tga.gov.au/about-us/using-our-website/privacy"
+    },
+    {
+      "text": "Security",
+      "url": "https://www.tga.gov.au/about-us/using-our-website/security"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.tga.gov.au/about-us/using-our-website/disclaimer"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.tga.gov.au/about-us/using-our-website/copyright"
+    },
+    {
+      "text": "Freedom of information",
+      "url": "https://www.tga.gov.au/about-us/freedom-information-foi"
+    },
+    {
+      "text": "Acronyms and glossary terms",
+      "url": "https://www.tga.gov.au/resources/acronyms-and-glossary-terms"
+    },
+    {
+      "text": "Search our databases",
+      "url": "https://www.tga.gov.au/resources/datasets"
+    },
+    {
+      "text": "Office of Drug Control",
+      "url": "https://www.odc.gov.au/"
+    },
+    {
+      "text": "State and territory contacts",
+      "url": "https://www.tga.gov.au/products/regulations-all-products/ingredients-and-scheduling-medicines-and-chemicals/scheduling-national-classification-system/poisons-standard-and-scheduling-medicines-and-chemicals/contacts-stateterritory-medicines-poisons-regulation-units"
+    },
+    {
+      "text": "Email subscriptions",
+      "url": "https://www.tga.gov.au/news/email-subscriptions"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/TGAgovau/"
+    },
+    {
+      "text": "(formerly Twitter)",
+      "url": "https://twitter.com/TGAgovau"
+    },
+    {
+      "text": "Youtube",
+      "url": "https://www.youtube.com/channel/UCem9INJbMSOeW1Ry9cNbucw"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://instagram.com/tgagovau"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/company/therapeutic-goods-administration/"
+    },
+    {
+      "text": "Provide feedback",
+      "url": "https://tgaau.qualtrics.com/jfe/form/SV_57rDaBiJKfJL3UO"
+    },
+    {
+      "text": "Back to top",
+      "url": "https://www.tga.gov.au/resources/artg/167717#topofpage"
+    }
+  ],
+  "text": "RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack (167717) | Therapeutic Goods Administration (TGA)\n\nSkip to main content\n\n### Sub menu\n\n- News and events\n\n- Contact us\n\n- About us\n\nSearch\n\nType to search. Suggestions will appear as you type.\n\nMenu Search\n\n← Back ✕ Close\n\n## Mega menu\n\n- Home\n\n- Product regulation\n\n## Product regulation\n\n- Understand your obligations and access industry Guidance and other information about the products we regulate.\n\n- Quick links\n\n- Search our product register (ARTG)\n\n- What's new\n\n- Regulation essentials\n\n- Regulations for all products\n\n- Legislation and legislative instruments\n\n- Ingredients and the scheduling of medicines and chemicals\n\n- Manufacturing\n\n- Application and market authorisation\n\n- Labelling and packaging\n\n- Advertising\n\n- Import and export\n\n- Compliance and enforcement\n\n- Access pathways including clinical trials\n\n- Biologicals\n\n- Faecal microbiota transplant (FMT)\n\n- Human cell and tissue (HCT)\n\n- Medical devices\n\n- Implantable devices\n\n- In vitro diagnostic (IVD) devices\n\n- Personal protective equipment (PPE)\n\n- Personalised medical devices\n\n- Software and artificial intelligence (AI)\n\n- System and procedure packs\n\n- Medicines\n\n- Assessed listed medicines\n\n- Listed medicines\n\n- Over-the-counter (OTC) medicines\n\n- Prescription medicines\n\n- Registered complementary medicines\n\n- Therapeutic sunscreens\n\n- Other therapeutic goods\n\n- Disinfectants and sterilants\n\n- Tampons and menstrual cups\n\n- Unapproved therapeutic goods\n\n- MDMA and psilocybine\n\n- Medicinal cannabis\n\n- Therapeutic vaping goods\n\n- Boundary and combination products\n\n- Safety and shortages\n\n## Safety and shortages\n\n- Access information about product recalls, shortages and other alerts, and learn how we manage safety.\n\n- Report a problem\n\n- Report an adverse event or safety problem\n\n- Report a breach\n\n- Report a medicine shortage for industry\n\n- Manage a medical device supply disruption\n\n- Safety monitoring and information\n\n- Safety alerts\n\n- Safety updates\n\n- Shortages and supply disruptions\n\n- Medicine shortages\n\n- Medicine shortage alerts\n\n- Medical device supply disruptions\n\n- Recalls and other market actions\n\n- Database of Recalls, Product Alerts and Product Corrections (DRAC)\n\n- What to do if your medicine or medical device is recalled\n\n- Market actions\n\n- Procedure for recalls, product alerts and product corrections (PRAC)\n\n- Recall coordinators for therapeutic goods\n\n- Adverse events\n\n- Medical device adverse events\n\n- Medicine adverse events\n\n- Database of Adverse Event Notifications (DAEN)\n\n- Compliance actions and outcomes\n\n- Compliance management\n\n- Compliance priorities\n\n- Resources and guidance\n\n## Resources and guidance\n\n- Get information to help you understand our work, regulations and industry obligations.\n\n- For consumers\n\n- Travelling with medicines and medical devices\n\n- Vapes: information for individuals and patients\n\n- What we regulate\n\n- Consumer Medicine Information (CMI)\n\n- For health professionals\n\n- Medicine shortages: information for health professionals\n\n- Section 19A approvals database\n\n- Product Information (PI)\n\n- For industry\n\n- Australian Regulatory Guidelines (ARGs)\n\n- Guidance\n\n- International scientific guidelines adopted in Australia\n\n- Search legislation and legislative instruments\n\n- Business services\n\n## Business services\n\n- Access our systems to submit applications, manage forms, make payments and communicate securely.\n\n- TGA Business Services\n\n- TGA Business Services: getting started with the TGA\n\n- Enquiries about TGA Business Services portal\n\n- Open TGA Business Services portal\n\n- TGA Business Services: how to use the portal\n\n- TGA Business Services forms\n\n- TGA Business Services databases\n\n- Modernising our digital systems\n\n- Online payment portal\n\n- Special Access Scheme and Authorised Prescriber Scheme online system\n\n- Authorised Prescriber Scheme\n\n- Special Access Scheme\n\n- Open Special Access & Authorised Prescriber Scheme portal\n\n## You are here\n\n- Australian Register of Therapeutic Goods (ARTG)\n\n# RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack (167717)\n\n- Listen\n\n- Print\n\n- Share\n\n- LinkedIn\n\n- (Twitter)\n\n- Facebook\n\n- Email\n\nLoading...\n\n## ARTG ID 167717\n\nARTG Name\n\nRILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack\n\nProduct name\n\nARTG Date\n\n8 March 2012\n\nRegistration Type\n\nMedicine\n\nTherapeutic good type\n\nMedicines\n\nSponsor\n\nSandoz Pty Ltd\n\nIngredients\n\nriluzole\n\nLicence category\n\nRE\n\nLicence status\n\nA\n\nSummary\n\nDownload PDF\n\nProduct Information\n\nConsumer Medicine Information\n\n## Related information\n\n### RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack, Sandoz Pty Ltd , CON-1292\n\n- 19 September 2024\n\n- Section 14 consent\n\n- Consent to import and supply while noncompliant with standards. The consent is effective from 19 September 2024 until 31 December 2025.\n\n### Using our website\n\n- Accessibility\n\n- Privacy\n\n- Security\n\n- Disclaimer\n\n- Copyright\n\n- Freedom of information\n\n- Acronyms and glossary terms\n\n### Quick links\n\n- Search our databases\n\n- Report a problem or side effect\n\n- Authorised Prescriber\n\n- Office of Drug Control\n\n- State and territory contacts\n\n### Connect with us\n\n- Email subscriptions\n\n- (formerly Twitter)\n\n- Youtube\n\n- Instagram\n\n### Help us improve\n\nWe are always looking for ways to improve our website.\n\nProvide feedback\n\nThe Department of Health, Disability and Ageing acknowledges First Nations peoples as the Traditional Owners of Country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to them and their cultures, and to all Elders both past and present.\n\n© Commonwealth of Australia\n\nBack to top\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.tga.gov.au/resources/artg/167717#main-content\n\n- https://www.tga.gov.au/: https://www.tga.gov.au/\n\n- News and events: https://www.tga.gov.au/news\n\n- Contact us: https://www.tga.gov.au/contact-us\n\n- About us: https://www.tga.gov.au/about-us\n\n- Product regulation: https://www.tga.gov.au/products\n\n- Quick links: https://www.tga.gov.au/quick-links\n\n- Search our product register (ARTG): https://www.tga.gov.au/resources/artg\n\n- What's new: https://www.tga.gov.au/news/whats-new\n\n- Regulation essentials: https://www.tga.gov.au/products/regulations-all-products/regulation-essentials\n\n- Regulations for all products: https://www.tga.gov.au/products/regulations-all-products\n\n- Legislation and legislative instruments: https://www.tga.gov.au/products/regulations-all-products/legislation-and-legislative-instruments\n\n- Ingredients and the scheduling of medicines and chemicals: https://www.tga.gov.au/products/regulations-all-products/ingredients-and-scheduling-medicines-and-chemicals\n\n- Manufacturing: https://www.tga.gov.au/products/regulations-all-products/manufacturing\n\n- Application and market authorisation: https://www.tga.gov.au/products/regulations-all-products/overview-applying-market-authorisation\n\n- Labelling and packaging: https://www.tga.gov.au/products/regulations-all-products/labelling-and-packaging\n\n- Advertising: https://www.tga.gov.au/products/regulations-all-products/advertising\n\n- Import and export: https://www.tga.gov.au/products/regulations-all-products/import-and-export\n\n- Compliance and enforcement: https://www.tga.gov.au/safety/compliance-and-enforcement\n\n- Access pathways including clinical trials: https://www.tga.gov.au/products/unapproved-therapeutic-goods/access-pathways\n\n- Biologicals: https://www.tga.gov.au/products/biologicals\n\n- Faecal microbiota transplant (FMT): https://www.tga.gov.au/products/biologicals/faecal-microbiota-transplant-products\n\n- Human cell and tissue (HCT): https://www.tga.gov.au/products/biologicals/human-cell-and-tissue-products\n\n- Medical devices: https://www.tga.gov.au/products/medical-devices\n\n- Implantable devices: https://www.tga.gov.au/products/medical-devices/implantable-devices\n\n- In vitro diagnostic (IVD) devices: https://www.tga.gov.au/products/medical-devices/vitro-diagnostic-devices\n\n- Personal protective equipment (PPE): https://www.tga.gov.au/products/medical-devices/personal-protective-equipment\n\n- Personalised medical devices: https://www.tga.gov.au/products/medical-devices/personalised-medical-devices\n\n- Software and artificial intelligence (AI): https://www.tga.gov.au/products/medical-devices/software-and-artificial-intelligence-ai\n\n- System and procedure packs: https://www.tga.gov.au/products/medical-devices/system-and-procedure-packs\n\n- Medicines: https://www.tga.gov.au/products/medicines\n\n- Assessed listed medicines: https://www.tga.gov.au/products/medicines/assessed-listed-medicines\n\n- Listed medicines: https://www.tga.gov.au/products/medicines/listed-medicines\n\n- Over-the-counter (OTC) medicines: https://www.tga.gov.au/products/medicines/over-counter-medicines\n\n- Prescription medicines: https://www.tga.gov.au/products/medicines/prescription-medicines\n\n- Registered complementary medicines: https://www.tga.gov.au/products/medicines/registered-complementary-medicines\n\n- Therapeutic sunscreens: https://www.tga.gov.au/products/medicines/therapeutic-sunscreens\n\n- Other therapeutic goods: https://www.tga.gov.au/products/other-therapeutic-good\n\n- Disinfectants and sterilants: https://www.tga.gov.au/products/other-therapeutic-good/disinfectants-and-sterilants\n\n- Tampons and menstrual cups: https://www.tga.gov.au/products/other-therapeutic-good/tampons-and-menstrual-cups\n\n- Unapproved therapeutic goods: https://www.tga.gov.au/products/unapproved-therapeutic-goods\n\n- MDMA and psilocybine: https://www.tga.gov.au/products/unapproved-therapeutic-goods/mdma-and-psilocybine\n\n- Medicinal cannabis: https://www.tga.gov.au/products/unapproved-therapeutic-goods/medicinal-cannabis\n\n- Therapeutic vaping goods: https://www.tga.gov.au/products/unapproved-therapeutic-goods/therapeutic-vaping-goods\n\n- Boundary and combination products: https://www.tga.gov.au/products/boundary-combination\n\n- Safety and shortages: https://www.tga.gov.au/safety\n\n- Report a problem: https://www.tga.gov.au/safety/report-problem\n\n- Report an adverse event or safety problem: https://www.tga.gov.au/safety/report-problem/report-adverse-event-or-safety-problem\n\n- Report a breach: https://www.tga.gov.au/safety/report-problem/report-breach\n\n- Report a medicine shortage for industry: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortages-information-sponsors/manage-medicine-shortage/report-medicine-shortage-industry\n\n- Manage a medical device supply disruption: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medical-device-supply-disruptions-or-shortages/managing-medical-device-supply-disruption-or-shortage\n\n- Safety monitoring and information: https://www.tga.gov.au/safety/safety-monitoring-and-information\n\n- Safety alerts: https://www.tga.gov.au/safety/safety-monitoring-and-information/safety-alerts\n\n- Safety updates: https://www.tga.gov.au/news/safety-updates\n\n- Shortages and supply disruptions: https://www.tga.gov.au/safety/shortages-and-supply-disruptions\n\n- Medicine shortages: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages\n\n- Medicine shortage alerts: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortage-alerts\n\n- Medical device supply disruptions: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medical-device-supply-disruptions-or-shortages\n\n- Recalls and other market actions: https://www.tga.gov.au/safety/recalls-and-other-market-actions\n\n- Database of Recalls, Product Alerts and Product Corrections (DRAC): https://www.tga.gov.au/safety/recalls-and-other-market-actions/database-recalls-product-alerts-and-product-corrections-drac\n\n- What to do if your medicine or medical device is recalled: https://www.tga.gov.au/safety/recalls-and-other-market-actions/what-do-if-your-medicine-or-medical-device-recalled\n\n- Market actions: https://www.tga.gov.au/safety/recalls-and-other-market-actions/market-actions\n\n- Procedure for recalls, product alerts and product corrections (PRAC): https://www.tga.gov.au/safety/recalls-and-other-market-actions/procedure-recalls-product-alerts-and-product-corrections-prac\n\n- Recall coordinators for therapeutic goods: https://www.tga.gov.au/safety/recalls-and-other-market-actions/recall-coordinators-therapeutic-goods\n\n- Adverse events: https://www.tga.gov.au/safety/adverse-events\n\n- Medical device adverse events: https://www.tga.gov.au/safety/adverse-events/medical-device-adverse-events\n\n- Medicine adverse events: https://www.tga.gov.au/safety/adverse-events/medicine-adverse-events\n\n- Database of Adverse Event Notifications (DAEN): https://www.tga.gov.au/safety/adverse-events/database-adverse-event-notifications-daen\n\n- Compliance actions and outcomes: https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-actions-and-outcomes\n\n- Compliance management: https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-management-enforcement\n\n- Compliance priorities: https://www.tga.gov.au/safety/compliance-and-enforcement/compliance-management-enforcement/import-advertising-and-supply-compliance-priorities-2023-25\n\n- Resources and guidance: https://www.tga.gov.au/resources\n\n- For consumers: https://www.tga.gov.au/resources/consumer-information-and-resources\n\n- Travelling with medicines and medical devices: https://www.tga.gov.au/resources/consumer-information-and-resources/travelling-medicines-and-medical-devices\n\n- Vapes: information for individuals and patients: https://www.tga.gov.au/products/unapproved-therapeutic-goods/therapeutic-vaping-goods/vaping-hub/vapes-information-individuals-and-patients\n\n- What we regulate: https://www.tga.gov.au/products/regulations-all-products/regulation-essentials/what-we-regulate\n\n- Consumer Medicine Information (CMI): https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/consumer-medicine-information-cmi\n\n- For health professionals: https://www.tga.gov.au/resources/health-professional-information-and-resources\n\n- Medicine shortages: information for health professionals: https://www.tga.gov.au/safety/shortages-and-supply-disruptions/medicine-shortages/medicine-shortages-information-health-professionals\n\n- Section 19A approvals database: https://www.tga.gov.au/resources/section-19a-approvals\n\n- Product Information (PI): https://www.tga.gov.au/products/regulations-all-products/about-australian-register-therapeutic-goods-artg/product-information-pi\n\n- For industry: https://www.tga.gov.au/resources/industry-guidance-and-resources\n\n- Australian Regulatory Guidelines (ARGs): https://www.tga.gov.au/resources/industry-guidance-and-resources/australian-regulatory-guidelines-args\n\n- Guidance: https://www.tga.gov.au/resources/guidance\n\n- International scientific guidelines adopted in Australia: https://www.tga.gov.au/resources/resources/international-scientific-guidelines-adopted-australia\n\n- Search legislation and legislative instruments: https://www.tga.gov.au/resources/legislation\n\n- Business services: https://www.tga.gov.au/business-services\n\n- TGA Business Services: https://www.tga.gov.au/business-services/tga-business-services-tbs\n\n- TGA Business Services: getting started with the TGA: https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-getting-started-tga\n\n- Enquiries about TGA Business Services portal: https://www.tga.gov.au/business-services/tga-business-services-tbs#contacts\n\n- Open TGA Business Services portal: https://adfs.tga.gov.au/adfs/ls/?wtrealm=https%3a%2f%2fbusiness.tga.gov.au&wctx=WsFedOwinState%3dafDpL4fvxuene3ofk_qJShdxCLR1kTA9JaV2uXAM0haecDbUnnQPhdGlojuMWXL-LBCBibWrRWSBFgFSeFB306ww7L9v_t7eaE3atdzeK5Laen6iaptm6yNvIlzsTFe6&wa=wsignin1.0\n\n- TGA Business Services: how to use the portal: https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-how-use-portal\n\n- TGA Business Services forms: https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-forms\n\n- TGA Business Services databases: https://www.tga.gov.au/business-services/tga-business-services-tbs/tga-business-services-databases\n\n- Modernising our digital systems: https://www.tga.gov.au/business-services/modernising-our-digital-systems\n\n- Online payment portal: https://www.tga.gov.au/business-services/online-payment-portal\n\n- Special Access Scheme and Authorised Prescriber Scheme online system: https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system\n\n- Authorised Prescriber Scheme: https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system/access-unapproved-therapeutic-goods-multiple-patients-authorised-prescriber\n\n- Special Access Scheme: https://www.tga.gov.au/business-services/special-access-scheme-and-authorised-prescriber-online-system/access-unapproved-therapeutic-goods-individual-patients-special-access-scheme\n\n- Open Special Access & Authorised Prescriber Scheme portal: https://compliance.health.gov.au/sas/\n\n- LinkedIn: https://www.linkedin.com/sharing/share-offsite/?url=https://www.tga.gov.au/resources/artg/167717\n\n- (Twitter): https://x.com/intent/tweet?text=RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack (167717)&url=https://www.tga.gov.au/resources/artg/167717\n\n- Facebook: https://facebook.com/sharer.php?u=https://www.tga.gov.au/resources/artg/167717\n\n- Sandoz Pty Ltd: https://www.tga.gov.au/resources/sponsor/sandoz-pty-ltd\n\n- Download PDF: https://www.ebs.tga.gov.au/servlet/xmlmillr6?dbid=ebs/PublicHTML/pdfStore.nsf&docid=167717&agid=(PrintDetailsPublic)&actionid=1\n\n- Download PDF: https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2012-PI-01704-3\n\n- Download PDF: https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2015-CMI-02667-1\n\n- RILUZOLE SANDOZ riluzole 50mg film-coated tablet blister pack, Sandoz Pty Ltd , CON-1292: https://www.tga.gov.au/resources/section-14-consents/riluzole-sandoz-riluzole-50mg-film-coated-tablet-blister-pack-sandoz-pty-ltd-con-1292\n\n- Accessibility: https://www.tga.gov.au/about-us/using-our-website/accessibility\n\n- Privacy: https://www.tga.gov.au/about-us/using-our-website/privacy\n\n- Security: https://www.tga.gov.au/about-us/using-our-website/security\n\n- Disclaimer: https://www.tga.gov.au/about-us/using-our-website/disclaimer\n\n- Copyright: https://www.tga.gov.au/about-us/using-our-website/copyright\n\n- Freedom of information: https://www.tga.gov.au/about-us/freedom-information-foi\n\n- Acronyms and glossary terms: https://www.tga.gov.au/resources/acronyms-and-glossary-terms\n\n- Search our databases: https://www.tga.gov.au/resources/datasets\n\n- Office of Drug Control: https://www.odc.gov.au/\n\n- State and territory contacts: https://www.tga.gov.au/products/regulations-all-products/ingredients-and-scheduling-medicines-and-chemicals/scheduling-national-classification-system/poisons-standard-and-scheduling-medicines-and-chemicals/contacts-stateterritory-medicines-poisons-regulation-units\n\n- Email subscriptions: https://www.tga.gov.au/news/email-subscriptions\n\n- Facebook: https://www.facebook.com/TGAgovau/\n\n- (formerly Twitter): https://twitter.com/TGAgovau\n\n- Youtube: https://www.youtube.com/channel/UCem9INJbMSOeW1Ry9cNbucw\n\n- Instagram: https://instagram.com/tgagovau\n\n- LinkedIn: https://www.linkedin.com/company/therapeutic-goods-administration/\n\n- Provide feedback: https://tgaau.qualtrics.com/jfe/form/SV_57rDaBiJKfJL3UO\n\n- Back to top: https://www.tga.gov.au/resources/artg/167717#topofpage"
+}

@@ -1,0 +1,12 @@
+{
+  "topic_id": "14_treatments_medicines",
+  "topic_title": "Treatments And Medicines",
+  "run_id": "20260831_142432",
+  "retrieved_at": "2026-08-31",
+  "run_folder": "C:\\Users\\User1\\Downloads\\MND DATA\\14_treatments_medicines\\runs\\20260831_142432",
+  "sources_downloaded": 18,
+  "chunks_written": 263,
+  "treatment_records_written": 8,
+  "failure_count": 0,
+  "failures_path": "C:\\Users\\User1\\Downloads\\MND DATA\\14_treatments_medicines\\runs\\20260831_142432\\metadata\\download_failures.txt"
+}

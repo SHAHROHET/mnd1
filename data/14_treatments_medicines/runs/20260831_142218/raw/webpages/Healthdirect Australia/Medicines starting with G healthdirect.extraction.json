@@ -1,0 +1,1499 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-g-excludenonartg",
+  "title": "Medicines starting with \"G\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 47155,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Gabaccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924406011000036102/gabaccord"
+    },
+    {
+      "text": "Gabacor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924388011000036109/gabacor"
+    },
+    {
+      "text": "Gabalep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1366421000168107/gabalep"
+    },
+    {
+      "text": "Gabalex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1407081000168108/gabalex"
+    },
+    {
+      "text": "Gabapen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,853011000168106/gabapen"
+    },
+    {
+      "text": "Gabapentin (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1245491000168103/gabapentin-apotex"
+    },
+    {
+      "text": "Gabapentin (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1485141000168105/gabapentin-apx"
+    },
+    {
+      "text": "Gabapentin (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1485991000168104/gabapentin-arx"
+    },
+    {
+      "text": "Gabapentin (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,112611000036104/gabapentin-aspen"
+    },
+    {
+      "text": "Gabapentin (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1253871000168104/gabapentin-astron"
+    },
+    {
+      "text": "Gabapentin (B&B)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1356871000168103/gabapentin-b&b"
+    },
+    {
+      "text": "Gabapentin (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39677011000036105/gabapentin-chemmart"
+    },
+    {
+      "text": "Gabapentin (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1253791000168108/gabapentin-intas"
+    },
+    {
+      "text": "Gabapentin (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1394071000168106/gabapentin-ipca"
+    },
+    {
+      "text": "Gabapentin (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1281921000168104/gabapentin-mlabs"
+    },
+    {
+      "text": "Gabapentin (MLPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1406981000168109/gabapentin-mlpl"
+    },
+    {
+      "text": "Gabapentin (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1241101000168102/gabapentin-noumed"
+    },
+    {
+      "text": "Gabapentin (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4227011000036105/gabapentin-pharmacor"
+    },
+    {
+      "text": "Gabapentin (PIP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1399441000168105/gabapentin-pip"
+    },
+    {
+      "text": "Gabapentin (PTIN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1400821000168104/gabapentin-ptin"
+    },
+    {
+      "text": "Gabapentin (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85264011000036106/gabapentin-sandoz"
+    },
+    {
+      "text": "Gabapentin (SPR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1624121000168108/gabapentin-spr"
+    },
+    {
+      "text": "Gabapentin (STR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1487631000168102/gabapentin-str"
+    },
+    {
+      "text": "Gabapentin (TIH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1624571000168100/gabapentin-tih"
+    },
+    {
+      "text": "Gabapentin (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1745421000168105/gabapentin-wgr"
+    },
+    {
+      "text": "Gabapentin (WP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1659831000168102/gabapentin-wp"
+    },
+    {
+      "text": "Gabaran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4184011000036106/gabaran"
+    },
+    {
+      "text": "Gabatine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39179011000036102/gabatine"
+    },
+    {
+      "text": "Gabitril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3197011000036101/gabitril"
+    },
+    {
+      "text": "Gabrica",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1392341000168109/gabrica"
+    },
+    {
+      "text": "Gadovist-1.0",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55781000168103/gadovist-1.0"
+    },
+    {
+      "text": "Galafold",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1237371000168102/galafold"
+    },
+    {
+      "text": "Galantamine (SZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564151000036103/galantamine-sz"
+    },
+    {
+      "text": "Galantamine MR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2801000168100/galantamine-mr-apo"
+    },
+    {
+      "text": "Galantamine SR (SCP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537441000036109/galantamine-sr-scp"
+    },
+    {
+      "text": "Galantyl",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87281011000036107/galantyl"
+    },
+    {
+      "text": "Gallium (Ga67) Citrate (Lantheus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1208001000168102/gallium-ga67-citrate-lantheus"
+    },
+    {
+      "text": "Galvumet 50/1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14481000168101/galvumet-50-1000"
+    },
+    {
+      "text": "Galvumet 50/500",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32001000168102/galvumet-50-500"
+    },
+    {
+      "text": "Galvumet 50/850",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,9411000168105/galvumet-50-850"
+    },
+    {
+      "text": "Galvus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85259011000036102/galvus"
+    },
+    {
+      "text": "Gamine XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,12551000168101/gamine-xr"
+    },
+    {
+      "text": "Gamophen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925525011000036103/gamophen"
+    },
+    {
+      "text": "Gamunex 10%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,966321000168105/gamunex-10"
+    },
+    {
+      "text": "Ganciclovir (Agila)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736881000036104/ganciclovir-agila"
+    },
+    {
+      "text": "Ganciclovir (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736861000036109/ganciclovir-alphapharm"
+    },
+    {
+      "text": "Ganciclovir (HHH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736891000036102/ganciclovir-hhh"
+    },
+    {
+      "text": "Ganciclovir (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1763351000168100/ganciclovir-lupin"
+    },
+    {
+      "text": "Ganciclovir (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736871000036101/ganciclovir-mylan"
+    },
+    {
+      "text": "Ganciclovir (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1102051000168103/ganciclovir-sxp"
+    },
+    {
+      "text": "Ganfort 0.3/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13531000168101/ganfort-0.3-5"
+    },
+    {
+      "text": "Ganfort PF 0.3/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,649691000168104/ganfort-pf-0.3-5"
+    },
+    {
+      "text": "Ganirelix (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1793391000168107/ganirelix-arx"
+    },
+    {
+      "text": "Ganirelix (Gedeon Richter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,188303041000036101/ganirelix-gedeon-richter"
+    },
+    {
+      "text": "Ganirelix (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,822982011000036100/ganirelix-gh"
+    },
+    {
+      "text": "Ganirelix (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,208300341000036100/ganirelix-juno"
+    },
+    {
+      "text": "Ganirelix (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,601605961000036103/ganirelix-lupin"
+    },
+    {
+      "text": "Ganirelix (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1534351000168107/ganirelix-sun"
+    },
+    {
+      "text": "Ganirelix (Theramex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1656061000168105/ganirelix-theramex"
+    },
+    {
+      "text": "Ganvado",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536521000036103/ganvado"
+    },
+    {
+      "text": "Gapentin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,842011000168102/gapentin"
+    },
+    {
+      "text": "Gardasil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73683011000036100/gardasil"
+    },
+    {
+      "text": "Gardasil 9",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1122871000168109/gardasil-9"
+    },
+    {
+      "text": "Garlic (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1177621000168106/garlic-cenovis"
+    },
+    {
+      "text": "Garlic and Horseradish plus C Complex (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1349931000168100/garlic-and-horseradish-plus-c-complex-cenovis"
+    },
+    {
+      "text": "Gasbusters",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65074011000036109/gasbusters"
+    },
+    {
+      "text": "Gastenz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929908011000036100/gastenz"
+    },
+    {
+      "text": "Gastrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,77901000036108/gastrex"
+    },
+    {
+      "text": "Gastro-Lieve",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1742971000168106/gastro-lieve"
+    },
+    {
+      "text": "Gastro-Soothe",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,119121000036105/gastro-soothe"
+    },
+    {
+      "text": "Gastro-Stop",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3292011000036101/gastro-stop"
+    },
+    {
+      "text": "Gastro-Stop Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1342061000168102/gastro-stop-plus"
+    },
+    {
+      "text": "Gastrogel Antacid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41521000168105/gastrogel-antacid"
+    },
+    {
+      "text": "Gastrografin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75940011000036109/gastrografin"
+    },
+    {
+      "text": "Gaviscon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5001000168104/gaviscon"
+    },
+    {
+      "text": "Gaviscon Double Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,664481000168106/gaviscon-double-strength"
+    },
+    {
+      "text": "Gaviscon Dual Action",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47081000168106/gaviscon-dual-action"
+    },
+    {
+      "text": "Gaviscon Extra Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1734721000168101/gaviscon-extra-strength"
+    },
+    {
+      "text": "Gaviscon Infant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,665931000168104/gaviscon-infant"
+    },
+    {
+      "text": "Gazyva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,654091000168105/gazyva"
+    },
+    {
+      "text": "Gefitinib (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1271741000168102/gefitinib-apo"
+    },
+    {
+      "text": "Gefitinib (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1271941000168104/gefitinib-apotex"
+    },
+    {
+      "text": "Gefitinib (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1495741000168105/gefitinib-cipla"
+    },
+    {
+      "text": "Gel-Kam Sensitive",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1173851000168109/gel-kam-sensitive"
+    },
+    {
+      "text": "Gelofusine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4101011000036109/gelofusine"
+    },
+    {
+      "text": "Gemaccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19911000036107/gemaccord"
+    },
+    {
+      "text": "Gemcitabine (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1273431000168102/gemcitabine-an"
+    },
+    {
+      "text": "Gemcitabine (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72908011000036104/gemcitabine-dbl"
+    },
+    {
+      "text": "Gemcitabine (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65050011000036101/gemcitabine-ebewe"
+    },
+    {
+      "text": "Gemcitabine (Eugia)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703701000036100/gemcitabine-eugia"
+    },
+    {
+      "text": "Gemcitabine (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703621000036103/gemcitabine-gxp"
+    },
+    {
+      "text": "Gemcitabine (Irem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703381000036105/gemcitabine-irem"
+    },
+    {
+      "text": "Gemcitabine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193721000036103/gemcitabine-sandoz"
+    },
+    {
+      "text": "Gemfibrozil (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33930011000036105/gemfibrozil-pharmacor"
+    },
+    {
+      "text": "Genotropin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3050011000036100/genotropin"
+    },
+    {
+      "text": "Genotropin GoQuick",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5561000168107/genotropin-goquick"
+    },
+    {
+      "text": "Genotropin MiniQuick",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1393961000168102/genotropin-miniquick"
+    },
+    {
+      "text": "Genox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3564011000036100/genox"
+    },
+    {
+      "text": "Gentamicin (B Braun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1336871000168102/gentamicin-b-braun"
+    },
+    {
+      "text": "Gentamicin (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4253011000036100/gentamicin-dbl"
+    },
+    {
+      "text": "Gentamicin (Noridem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1716581000168105/gentamicin-noridem"
+    },
+    {
+      "text": "Gentamicin (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3722011000036102/gentamicin-pfizer-perth"
+    },
+    {
+      "text": "Gentamicin (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1537821000168104/gentamicin-pfizer"
+    },
+    {
+      "text": "Genvoya",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,768631000168108/genvoya"
+    },
+    {
+      "text": "Gesicomb",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1087751000168107/gesicomb"
+    },
+    {
+      "text": "Getero",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635661000036108/getero"
+    },
+    {
+      "text": "Gilenya",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933218951000036102/gilenya"
+    },
+    {
+      "text": "Gilmat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1347241000168107/gilmat"
+    },
+    {
+      "text": "Ginseng 5500 (Caruso's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1382861000168101/ginseng-5500-caruso's"
+    },
+    {
+      "text": "Giotrif",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,157731000036105/giotrif"
+    },
+    {
+      "text": "Givlaari",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1728981000168105/givlaari"
+    },
+    {
+      "text": "Glamin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85245011000036102/glamin"
+    },
+    {
+      "text": "Glatira",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1547131000168106/glatira"
+    },
+    {
+      "text": "Glatiramer Acetate (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186971000168106/glatiramer-acetate-teva"
+    },
+    {
+      "text": "Glaumox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,81972011000036107/glaumox"
+    },
+    {
+      "text": "Glenbex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1724891000168106/glenbex"
+    },
+    {
+      "text": "Glenmect",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703411000036107/glenmect"
+    },
+    {
+      "text": "Gliclazide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1189091000168100/gliclazide-apo"
+    },
+    {
+      "text": "Gliclazide (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1552161000168103/gliclazide-apx"
+    },
+    {
+      "text": "Gliclazide (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4008011000036108/gliclazide-genrx"
+    },
+    {
+      "text": "Gliclazide (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703611000036105/gliclazide-wgr"
+    },
+    {
+      "text": "Gliclazide MR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24721000168102/gliclazide-mr-apo"
+    },
+    {
+      "text": "Gliclazide MR (Ardix)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,676731000168103/gliclazide-mr-ardix"
+    },
+    {
+      "text": "Gliclazide MR (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1664431000168105/gliclazide-mr-lupin"
+    },
+    {
+      "text": "Gliclazide MR (PCOR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536651000036108/gliclazide-mr-pcor"
+    },
+    {
+      "text": "Gliclazide MR (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1473001000168102/gliclazide-mr-pharmacor"
+    },
+    {
+      "text": "Gliclazide MR (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635831000036101/gliclazide-mr-sandoz"
+    },
+    {
+      "text": "Gliclazide MR (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1709301000168101/gliclazide-mr-viatris"
+    },
+    {
+      "text": "Glimepiride (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1188841000168107/glimepiride-apotex"
+    },
+    {
+      "text": "Glimepiride (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1684801000168102/glimepiride-arx"
+    },
+    {
+      "text": "Glimepiride (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3850011000036104/glimepiride-sandoz"
+    },
+    {
+      "text": "Glimepiride (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1767591000168109/glimepiride-wgr"
+    },
+    {
+      "text": "Gliolan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,696691000168104/gliolan"
+    },
+    {
+      "text": "Gliride",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698331000168106/gliride"
+    },
+    {
+      "text": "Glivec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3084011000036104/glivec"
+    },
+    {
+      "text": "Glixafor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650551000036101/glixafor"
+    },
+    {
+      "text": "Glucagen Hypokit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36881000168102/glucagen-hypokit"
+    },
+    {
+      "text": "Glucobete",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15181000036104/glucobete"
+    },
+    {
+      "text": "Glucohexal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3062011000036106/glucohexal"
+    },
+    {
+      "text": "Glucomet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4140011000036108/glucomet"
+    },
+    {
+      "text": "Glucosamine (Faulding)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1464851000168103/glucosamine-faulding"
+    },
+    {
+      "text": "Glucosamine 1500 Complex Advanced (Nutra-Life)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1449611000168105/glucosamine-1500-complex-advanced-nutra-life"
+    },
+    {
+      "text": "Glucosamine HCl (Healthy Care)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196671000168101/glucosamine-hcl-healthy-care"
+    },
+    {
+      "text": "Glucosamine plus Fish Oil (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1347771000168107/glucosamine-plus-fish-oil-blackmores"
+    },
+    {
+      "text": "Glucosamine plus Fish Oil (Nature's Way)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1783011000168101/glucosamine-plus-fish-oil-nature's-way"
+    },
+    {
+      "text": "Glucosamine Sulfate (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,988128591000036101/glucosamine-sulfate-nature's-own"
+    },
+    {
+      "text": "Glucosamine Sulfate and Chondroitin Advanced (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,140125971000036102/glucosamine-sulfate-and-chondroitin-advanced-nature's-own"
+    },
+    {
+      "text": "Glucosamine Sulfate One-a-Day (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1280561000168109/glucosamine-sulfate-one-a-day-blackmores"
+    },
+    {
+      "text": "Glucosamine Sulfate with Chondroitin (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1783391000168108/glucosamine-sulfate-with-chondroitin-nature's-own"
+    },
+    {
+      "text": "Glucose (B Braun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78600011000036108/glucose-b-braun"
+    },
+    {
+      "text": "Glucose (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3320011000036100/glucose-baxter"
+    },
+    {
+      "text": "Glucose (Fresenius Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13861000168106/glucose-fresenius-kabi"
+    },
+    {
+      "text": "Glucose (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65179011000036104/glucose-phebra"
+    },
+    {
+      "text": "Glucose 10% Sodium Chloride 0.22% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32401000168108/glucose-10-sodium-chloride-0.22-baxter"
+    },
+    {
+      "text": "Glucose 2.5% Sodium Chloride 0.45% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4241000168107/glucose-2.5-sodium-chloride-0.45-baxter"
+    },
+    {
+      "text": "Glucose 3.3% Sodium Chloride 0.3% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2351000168105/glucose-3.3-sodium-chloride-0.3-baxter"
+    },
+    {
+      "text": "Glucose 3.75% Sodium Chloride 0.225% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,37191000168106/glucose-3.75-sodium-chloride-0.225-baxter"
+    },
+    {
+      "text": "Glucose 4% Sodium Chloride 0.18% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19981000168106/glucose-4-sodium-chloride-0.18-baxter"
+    },
+    {
+      "text": "Glucose 5% Sodium Chloride 0.45% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1079641000168101/glucose-5-sodium-chloride-0.45-baxter"
+    },
+    {
+      "text": "Glucose 5% Sodium Chloride 0.9% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4991000168105/glucose-5-sodium-chloride-0.9-baxter"
+    },
+    {
+      "text": "Glucose and Electrolytes (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1192481000168102/glucose-and-electrolytes-apohealth"
+    },
+    {
+      "text": "Glucovance 500/2.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62251000168102/glucovance-500-2.5"
+    },
+    {
+      "text": "Glucovance 500/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,46341000168101/glucovance-500-5"
+    },
+    {
+      "text": "GluteGuard",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,527973541000036106/gluteguard"
+    },
+    {
+      "text": "Glyade",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,12101000168106/glyade"
+    },
+    {
+      "text": "Glybosay",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,822321000168105/glybosay"
+    },
+    {
+      "text": "Glycerine (Sanofi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1158811000168104/glycerine-sanofi"
+    },
+    {
+      "text": "Glycerol (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920959011000036103/glycerol-gold-cross"
+    },
+    {
+      "text": "Glycerol for Adults (Petrus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35211000168104/glycerol-for-adults-petrus"
+    },
+    {
+      "text": "Glycerol for Children (Petrus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51631000168109/glycerol-for-children-petrus"
+    },
+    {
+      "text": "Glycerol for Infants (Petrus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42031000168108/glycerol-for-infants-petrus"
+    },
+    {
+      "text": "Glyceryl Trinitrate (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35986011000036105/glyceryl-trinitrate-dbl"
+    },
+    {
+      "text": "Glyceryl Trinitrate (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1712241000168101/glyceryl-trinitrate-medsurge"
+    },
+    {
+      "text": "Glyceryl Trinitrate (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650911000036105/glyceryl-trinitrate-phebra"
+    },
+    {
+      "text": "Glyceryl Trinitrate (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438661000168104/glyceryl-trinitrate-wockhardt"
+    },
+    {
+      "text": "Glyconeo 0.5/2.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1659251000168109/glyconeo-0.5-2.5"
+    },
+    {
+      "text": "Glycophos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1567171000168103/glycophos"
+    },
+    {
+      "text": "Glycoprep Orange",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571511000168102/glycoprep-orange"
+    },
+    {
+      "text": "Glycoprep-O Kit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1577841000168108/glycoprep-o-kit"
+    },
+    {
+      "text": "Glycopyrrolate (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,930711000168108/glycopyrrolate-accord"
+    },
+    {
+      "text": "Glycopyrronium (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933754631000036109/glycopyrronium-aft"
+    },
+    {
+      "text": "Glypressin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83971000036100/glypressin"
+    },
+    {
+      "text": "Go Kit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85247011000036107/go-kit"
+    },
+    {
+      "text": "Goanna Arthritis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65065011000036104/goanna-arthritis"
+    },
+    {
+      "text": "Goanna Chest Rub",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1390811000168102/goanna-chest-rub"
+    },
+    {
+      "text": "Goanna Heat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1275161000168104/goanna-heat"
+    },
+    {
+      "text": "Goanna Oil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1387011000168107/goanna-oil"
+    },
+    {
+      "text": "Golax (Priceline Pharmacy)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1126881000168108/golax-priceline-pharmacy"
+    },
+    {
+      "text": "Gonadron",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1763611000168107/gonadron"
+    },
+    {
+      "text": "Gonal-F",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1371000168105/gonal-f"
+    },
+    {
+      "text": "Gopten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4026011000036104/gopten"
+    },
+    {
+      "text": "Granisetron (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,134061000036107/granisetron-aft"
+    },
+    {
+      "text": "Granisetron (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,811311000168104/granisetron-apo"
+    },
+    {
+      "text": "Granisetron (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922951011000036109/granisetron-kabi"
+    },
+    {
+      "text": "Grazax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1120251000168103/grazax"
+    },
+    {
+      "text": "Grisovin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4329011000036109/grisovin"
+    },
+    {
+      "text": "Guanfacine (MHC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736921000036106/guanfacine-mhc"
+    },
+    {
+      "text": "Guanfacine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736201000036109/guanfacine-sandoz"
+    },
+    {
+      "text": "Guanfacine (Takeda)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1741981000168102/guanfacine-takeda"
+    },
+    {
+      "text": "Guanfacine (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736081000036106/guanfacine-viatris"
+    },
+    {
+      "text": "Guarana plus Ginseng (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1379701000168108/guarana-plus-ginseng-cenovis"
+    },
+    {
+      "text": "Gymiso",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,123981000036102/gymiso"
+    },
+    {
+      "text": "Gynotril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,172821000036100/gynotril"
+    },
+    {
+      "text": "Gabapentin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21352/gabapentin"
+    },
+    {
+      "text": "Gadobenic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20771/gadobenic-acid"
+    },
+    {
+      "text": "gadobutrol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21351/gadobutrol"
+    },
+    {
+      "text": "gadodiamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24363/gadodiamide"
+    },
+    {
+      "text": "Gadopentetic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22489/gadopentetic-acid"
+    },
+    {
+      "text": "Gadopiclenol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50556/gadopiclenol"
+    },
+    {
+      "text": "gadoteric acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21346/gadoteric-acid"
+    },
+    {
+      "text": "gadoteridol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21344/gadoteridol"
+    },
+    {
+      "text": "Gadoxetic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22491/gadoxetic-acid"
+    },
+    {
+      "text": "Galantamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21340/galantamine"
+    },
+    {
+      "text": "Galcanezumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24952/galcanezumab"
+    },
+    {
+      "text": "gallium (67Ga)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24334/gallium-67ga"
+    },
+    {
+      "text": "galsulfase",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21337/galsulfase"
+    },
+    {
+      "text": "ganciclovir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21326/ganciclovir"
+    },
+    {
+      "text": "Ganirelix",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21325/ganirelix"
+    },
+    {
+      "text": "Garadacimab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50673/garadacimab"
+    },
+    {
+      "text": "Garlic extract + horseradish extract + fenugreek seed extract + marshmallow root extract + ascorbic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50241/garlic-extract-+-horseradish-extract-+-fenugreek-seed-extract-+-marshmallow-root-extract-+-ascorbic-acid"
+    },
+    {
+      "text": "garlic oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24304/garlic-oil"
+    },
+    {
+      "text": "Gefitinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21320/gefitinib"
+    },
+    {
+      "text": "Gemcitabine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21316/gemcitabine"
+    },
+    {
+      "text": "Gemfibrozil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21313/gemfibrozil"
+    },
+    {
+      "text": "gemtuzumab ozogamicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26758/gemtuzumab-ozogamicin"
+    },
+    {
+      "text": "Gentamicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21312/gentamicin"
+    },
+    {
+      "text": "gestodene + ethinylestradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23292/gestodene-+-ethinylestradiol"
+    },
+    {
+      "text": "Gilteritinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26756/gilteritinib"
+    },
+    {
+      "text": "ginger extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26643/ginger-extract"
+    },
+    {
+      "text": "givosiran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27176/givosiran"
+    },
+    {
+      "text": "glatiramer acetate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21310/glatiramer-acetate"
+    },
+    {
+      "text": "glecaprevir + pibrentasvir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24236/glecaprevir-+-pibrentasvir"
+    },
+    {
+      "text": "glibenclamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21309/glibenclamide"
+    },
+    {
+      "text": "gliclazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21308/gliclazide"
+    },
+    {
+      "text": "glimepiride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21307/glimepiride"
+    },
+    {
+      "text": "glipizide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21306/glipizide"
+    },
+    {
+      "text": "Glofitamab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50497/glofitamab"
+    },
+    {
+      "text": "glucagon hydrochloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22498/glucagon-hydrochloride"
+    },
+    {
+      "text": "glucosamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21717/glucosamine"
+    },
+    {
+      "text": "glucosamine + chondroitin sulfate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24331/glucosamine-+-chondroitin-sulfate"
+    },
+    {
+      "text": "Glucosamine + chondroitin sulfate + ascorbic acid + zinc",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50516/glucosamine-+-chondroitin-sulfate-+-ascorbic-acid-+-zinc"
+    },
+    {
+      "text": "glucosamine + fish oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24878/glucosamine-+-fish-oil"
+    },
+    {
+      "text": "Glucosamine sulfate potassium chloride + dimethyl sulfone + chondroitin sulfate + zinc + manganese + boron + copper + selenium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50245/glucosamine-sulfate-potassium-chloride-+-dimethyl-sulfone-+-chondroitin-sulfate-+-zinc-+-manganese-+-boron-+-copper-+-selenium"
+    },
+    {
+      "text": "glucose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20628/glucose"
+    },
+    {
+      "text": "glucose + calcium chloride + magnesium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24905/glucose-+-calcium-chloride-+-magnesium-chloride"
+    },
+    {
+      "text": "glucose + sodium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23438/glucose-+-sodium-chloride"
+    },
+    {
+      "text": "Glucose + sodium chloride + sodium lactate + calcium chloride + magnesium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50246/glucose-+-sodium-chloride-+-sodium-lactate-+-calcium-chloride-+-magnesium-chloride"
+    },
+    {
+      "text": "glycerol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22506/glycerol"
+    },
+    {
+      "text": "glycerol + light liquid paraffin + white soft paraffin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23536/glycerol-+-light-liquid-paraffin-+-white-soft-paraffin"
+    },
+    {
+      "text": "glycerol + magnesium sulfate dried",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23366/glycerol-+-magnesium-sulfate-dried"
+    },
+    {
+      "text": "glycerol + white soft paraffin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23318/glycerol-+-white-soft-paraffin"
+    },
+    {
+      "text": "Glyceryl trinitrate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21304/glyceryl-trinitrate"
+    },
+    {
+      "text": "glycopyrronium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22508/glycopyrronium"
+    },
+    {
+      "text": "Glycopyrronium bromide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21267/glycopyrronium-bromide"
+    },
+    {
+      "text": "glycopyrronium bromide + neostigmine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26585/glycopyrronium-bromide-+-neostigmine"
+    },
+    {
+      "text": "Golimumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21302/golimumab"
+    },
+    {
+      "text": "Goserelin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21301/goserelin"
+    },
+    {
+      "text": "Granisetron",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21300/granisetron"
+    },
+    {
+      "text": "grape seed extract + ascorbic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24895/grape-seed-extract-+-ascorbic-acid"
+    },
+    {
+      "text": "Green lipped mussel oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24898/green-lipped-mussel-oil"
+    },
+    {
+      "text": "Griseofulvin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21299/griseofulvin"
+    },
+    {
+      "text": "Guaifenesin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22512/guaifenesin"
+    },
+    {
+      "text": "guaifenesin + dextromethorphan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23262/guaifenesin-+-dextromethorphan"
+    },
+    {
+      "text": "guaifenesin + glucose + treacle",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23535/guaifenesin-+-glucose-+-treacle"
+    },
+    {
+      "text": "Guaifenesin + phenylephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23319/guaifenesin-+-phenylephrine"
+    },
+    {
+      "text": "Guaifenesin + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23320/guaifenesin-+-pseudoephedrine"
+    },
+    {
+      "text": "Guanfacine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24171/guanfacine"
+    },
+    {
+      "text": "guarana extract + Korean ginseng extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24920/guarana-extract-+-korean-ginseng-extract"
+    },
+    {
+      "text": "guselkumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24459/guselkumab"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"G\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"G\"\n\n## Brand names\n\n- Gabaccord\n\n- Gabacor\n\n- Gabalep\n\n- Gabalex\n\n- Gabapen\n\n- Gabapentin (Apotex)\n\n- Gabapentin (APX)\n\n- Gabapentin (ARX)\n\n- Gabapentin (Aspen)\n\n- Gabapentin (Astron)\n\n- Gabapentin (B&B)\n\n- Gabapentin (Chemmart)\n\n- Gabapentin (Intas)\n\n- Gabapentin (Ipca)\n\n- Gabapentin (MLabs)\n\n- Gabapentin (MLPL)\n\n- Gabapentin (Noumed)\n\n- Gabapentin (Pharmacor)\n\n- Gabapentin (PIP)\n\n- Gabapentin (PTIN)\n\n- Gabapentin (Sandoz)\n\n- Gabapentin (SPR)\n\n- Gabapentin (STR)\n\n- Gabapentin (TIH)\n\n- Gabapentin (WGR)\n\n- Gabapentin (WP)\n\n- Gabaran\n\n- Gabatine\n\n- Gabitril\n\n- Gabrica\n\n- Gadovist-1.0\n\n- Galafold\n\n- Galantamine (SZ)\n\n- Galantamine MR (Apo)\n\n- Galantamine SR (SCP)\n\n- Galantyl\n\n- Gallium (Ga67) Citrate (Lantheus)\n\n- Galvumet 50/1000\n\n- Galvumet 50/500\n\n- Galvumet 50/850\n\n- Galvus\n\n- Gamine XR\n\n- Gamophen\n\n- Gamunex 10%\n\n- Ganciclovir (Agila)\n\n- Ganciclovir (Alphapharm)\n\n- Ganciclovir (HHH)\n\n- Ganciclovir (Lupin)\n\n- Ganciclovir (Mylan)\n\n- Ganciclovir (SXP)\n\n- Ganfort 0.3/5\n\n- Ganfort PF 0.3/5\n\n- Ganirelix (ARX)\n\n- Ganirelix (Gedeon Richter)\n\n- Ganirelix (GH)\n\n- Ganirelix (Juno)\n\n- Ganirelix (Lupin)\n\n- Ganirelix (Sun)\n\n- Ganirelix (Theramex)\n\n- Ganvado\n\n- Gapentin\n\n- Gardasil\n\n- Gardasil 9\n\n- Garlic (Cenovis)\n\n- Garlic and Horseradish plus C Complex (Cenovis)\n\n- Gasbusters\n\n- Gastenz\n\n- Gastrex\n\n- Gastro-Lieve\n\n- Gastro-Soothe\n\n- Gastro-Stop\n\n- Gastro-Stop Plus\n\n- Gastrogel Antacid\n\n- Gastrografin\n\n- Gaviscon\n\n- Gaviscon Double Strength\n\n- Gaviscon Dual Action\n\n- Gaviscon Extra Strength\n\n- Gaviscon Infant\n\n- Gazyva\n\n- Gefitinib (Apo)\n\n- Gefitinib (Apotex)\n\n- Gefitinib (Cipla)\n\n- Gel-Kam Sensitive\n\n- Gelofusine\n\n- Gemaccord\n\n- Gemcitabine (AN)\n\n- Gemcitabine (DBL)\n\n- Gemcitabine (Ebewe)\n\n- Gemcitabine (Eugia)\n\n- Gemcitabine (GxP)\n\n- Gemcitabine (Irem)\n\n- Gemcitabine (Sandoz)\n\n- Gemfibrozil (Pharmacor)\n\n- Genotropin\n\n- Genotropin GoQuick\n\n- Genotropin MiniQuick\n\n- Genox\n\n- Gentamicin (B Braun)\n\n- Gentamicin (DBL)\n\n- Gentamicin (Noridem)\n\n- Gentamicin (Pfizer (Perth))\n\n- Gentamicin (Pfizer)\n\n- Genvoya\n\n- Gesicomb\n\n- Getero\n\n- Gilenya\n\n- Gilmat\n\n- Ginseng 5500 (Caruso's)\n\n- Giotrif\n\n- Givlaari\n\n- Glamin\n\n- Glatira\n\n- Glatiramer Acetate (Teva)\n\n- Glaumox\n\n- Glenbex\n\n- Glenmect\n\n- Gliclazide (Apo)\n\n- Gliclazide (APX)\n\n- Gliclazide (GenRx)\n\n- Gliclazide (WGR)\n\n- Gliclazide MR (Apo)\n\n- Gliclazide MR (Ardix)\n\n- Gliclazide MR (Lupin)\n\n- Gliclazide MR (PCOR)\n\n- Gliclazide MR (Pharmacor)\n\n- Gliclazide MR (Sandoz)\n\n- Gliclazide MR (Viatris)\n\n- Glimepiride (Apotex)\n\n- Glimepiride (ARX)\n\n- Glimepiride (Sandoz)\n\n- Glimepiride (WGR)\n\n- Gliolan\n\n- Gliride\n\n- Glivec\n\n- Glixafor\n\n- Glucagen Hypokit\n\n- Glucobete\n\n- Glucohexal\n\n- Glucomet\n\n- Glucosamine (Faulding)\n\n- Glucosamine 1500 Complex Advanced (Nutra-Life)\n\n- Glucosamine HCl (Healthy Care)\n\n- Glucosamine plus Fish Oil (Blackmores)\n\n- Glucosamine plus Fish Oil (Nature's Way)\n\n- Glucosamine Sulfate (Nature's Own)\n\n- Glucosamine Sulfate and Chondroitin Advanced (Nature's Own)\n\n- Glucosamine Sulfate One-a-Day (Blackmores)\n\n- Glucosamine Sulfate with Chondroitin (Nature's Own)\n\n- Glucose (B Braun)\n\n- Glucose (Baxter)\n\n- Glucose (Fresenius Kabi)\n\n- Glucose (Phebra)\n\n- Glucose 10% Sodium Chloride 0.22% (Baxter)\n\n- Glucose 2.5% Sodium Chloride 0.45% (Baxter)\n\n- Glucose 3.3% Sodium Chloride 0.3% (Baxter)\n\n- Glucose 3.75% Sodium Chloride 0.225% (Baxter)\n\n- Glucose 4% Sodium Chloride 0.18% (Baxter)\n\n- Glucose 5% Sodium Chloride 0.45% (Baxter)\n\n- Glucose 5% Sodium Chloride 0.9% (Baxter)\n\n- Glucose and Electrolytes (Apohealth)\n\n- Glucovance 500/2.5\n\n- Glucovance 500/5\n\n- GluteGuard\n\n- Glyade\n\n- Glybosay\n\n- Glycerine (Sanofi)\n\n- Glycerol (Gold Cross)\n\n- Glycerol for Adults (Petrus)\n\n- Glycerol for Children (Petrus)\n\n- Glycerol for Infants (Petrus)\n\n- Glyceryl Trinitrate (DBL)\n\n- Glyceryl Trinitrate (Medsurge)\n\n- Glyceryl Trinitrate (Phebra)\n\n- Glyceryl Trinitrate (Wockhardt)\n\n- Glyconeo 0.5/2.5\n\n- Glycophos\n\n- Glycoprep Orange\n\n- Glycoprep-O Kit\n\n- Glycopyrrolate (Accord)\n\n- Glycopyrronium (AFT)\n\n- Glypressin\n\n- Go Kit\n\n- Goanna Arthritis\n\n- Goanna Chest Rub\n\n- Goanna Heat\n\n- Goanna Oil\n\n- Golax (Priceline Pharmacy)\n\n- Gonadron\n\n- Gonal-F\n\n- Gopten\n\n- Granisetron (AFT)\n\n- Granisetron (Apo)\n\n- Granisetron (Kabi)\n\n- Grazax\n\n- Grisovin\n\n- Guanfacine (MHC)\n\n- Guanfacine (Sandoz)\n\n- Guanfacine (Takeda)\n\n- Guanfacine (Viatris)\n\n- Guarana plus Ginseng (Cenovis)\n\n- Gymiso\n\n- Gynotril\n\nPREV 1 2 3 4 5 NEXT\n\n## Active ingredients\n\n- Gabapentin\n\n- Gadobenic acid\n\n- gadobutrol\n\n- gadodiamide\n\n- Gadopentetic acid\n\n- Gadopiclenol\n\n- gadoteric acid\n\n- gadoteridol\n\n- Gadoxetic acid\n\n- Galantamine\n\n- Galcanezumab\n\n- gallium (67Ga)\n\n- galsulfase\n\n- ganciclovir\n\n- Ganirelix\n\n- Garadacimab\n\n- Garlic extract +\n\n- horseradish extract +\n\n- fenugreek seed extract +\n\n- marshmallow root extract +\n\n- ascorbic acid\n\n- garlic oil\n\n- Gefitinib\n\n- Gemcitabine\n\n- Gemfibrozil\n\n- gemtuzumab ozogamicin\n\n- Gentamicin\n\n- gestodene +\n\n- ethinylestradiol\n\n- Gilteritinib\n\n- ginger extract\n\n- givosiran\n\n- glatiramer acetate\n\n- glecaprevir +\n\n- pibrentasvir\n\n- glibenclamide\n\n- gliclazide\n\n- glimepiride\n\n- glipizide\n\n- Glofitamab\n\n- glucagon hydrochloride\n\n- glucosamine\n\n- glucosamine +\n\n- chondroitin sulfate\n\n- chondroitin sulfate +\n\n- ascorbic acid +\n\n- zinc\n\n- fish oil\n\n- Glucosamine sulfate potassium chloride +\n\n- dimethyl sulfone +\n\n- zinc +\n\n- manganese +\n\n- boron +\n\n- copper +\n\n- selenium\n\n- glucose\n\n- glucose +\n\n- calcium chloride +\n\n- magnesium chloride\n\n- sodium chloride\n\n- sodium chloride +\n\n- sodium lactate +\n\n- glycerol\n\n- glycerol +\n\n- light liquid paraffin +\n\n- white soft paraffin\n\n- magnesium sulfate dried\n\n- Glyceryl trinitrate\n\n- glycopyrronium\n\n- Glycopyrronium bromide\n\n- glycopyrronium bromide +\n\n- neostigmine\n\n- Golimumab\n\n- Goserelin\n\n- Granisetron\n\n- grape seed extract +\n\n- Green lipped mussel oil\n\n- Griseofulvin\n\n- Guaifenesin\n\n- guaifenesin +\n\n- dextromethorphan\n\n- treacle\n\n- phenylephrine\n\n- pseudoephedrine\n\n- Guanfacine\n\n- guarana extract +\n\n- Korean ginseng extract\n\n- guselkumab\n\nPREV 1 2 3 4 5 6 7 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Gabaccord: https://www.healthdirect.gov.au/medicines/brand/amt,924406011000036102/gabaccord\n\n- Gabacor: https://www.healthdirect.gov.au/medicines/brand/amt,924388011000036109/gabacor\n\n- Gabalep: https://www.healthdirect.gov.au/medicines/brand/amt,1366421000168107/gabalep\n\n- Gabalex: https://www.healthdirect.gov.au/medicines/brand/amt,1407081000168108/gabalex\n\n- Gabapen: https://www.healthdirect.gov.au/medicines/brand/amt,853011000168106/gabapen\n\n- Gabapentin (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1245491000168103/gabapentin-apotex\n\n- Gabapentin (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1485141000168105/gabapentin-apx\n\n- Gabapentin (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1485991000168104/gabapentin-arx\n\n- Gabapentin (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,112611000036104/gabapentin-aspen\n\n- Gabapentin (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1253871000168104/gabapentin-astron\n\n- Gabapentin (B&B): https://www.healthdirect.gov.au/medicines/brand/amt,1356871000168103/gabapentin-b&b\n\n- Gabapentin (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,39677011000036105/gabapentin-chemmart\n\n- Gabapentin (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1253791000168108/gabapentin-intas\n\n- Gabapentin (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,1394071000168106/gabapentin-ipca\n\n- Gabapentin (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1281921000168104/gabapentin-mlabs\n\n- Gabapentin (MLPL): https://www.healthdirect.gov.au/medicines/brand/amt,1406981000168109/gabapentin-mlpl\n\n- Gabapentin (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1241101000168102/gabapentin-noumed\n\n- Gabapentin (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,4227011000036105/gabapentin-pharmacor\n\n- Gabapentin (PIP): https://www.healthdirect.gov.au/medicines/brand/amt,1399441000168105/gabapentin-pip\n\n- Gabapentin (PTIN): https://www.healthdirect.gov.au/medicines/brand/amt,1400821000168104/gabapentin-ptin\n\n- Gabapentin (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,85264011000036106/gabapentin-sandoz\n\n- Gabapentin (SPR): https://www.healthdirect.gov.au/medicines/brand/amt,1624121000168108/gabapentin-spr\n\n- Gabapentin (STR): https://www.healthdirect.gov.au/medicines/brand/amt,1487631000168102/gabapentin-str\n\n- Gabapentin (TIH): https://www.healthdirect.gov.au/medicines/brand/amt,1624571000168100/gabapentin-tih\n\n- Gabapentin (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1745421000168105/gabapentin-wgr\n\n- Gabapentin (WP): https://www.healthdirect.gov.au/medicines/brand/amt,1659831000168102/gabapentin-wp\n\n- Gabaran: https://www.healthdirect.gov.au/medicines/brand/amt,4184011000036106/gabaran\n\n- Gabatine: https://www.healthdirect.gov.au/medicines/brand/amt,39179011000036102/gabatine\n\n- Gabitril: https://www.healthdirect.gov.au/medicines/brand/amt,3197011000036101/gabitril\n\n- Gabrica: https://www.healthdirect.gov.au/medicines/brand/amt,1392341000168109/gabrica\n\n- Gadovist-1.0: https://www.healthdirect.gov.au/medicines/brand/amt,55781000168103/gadovist-1.0\n\n- Galafold: https://www.healthdirect.gov.au/medicines/brand/amt,1237371000168102/galafold\n\n- Galantamine (SZ): https://www.healthdirect.gov.au/medicines/brand/amt,933564151000036103/galantamine-sz\n\n- Galantamine MR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,2801000168100/galantamine-mr-apo\n\n- Galantamine SR (SCP): https://www.healthdirect.gov.au/medicines/brand/amt,933537441000036109/galantamine-sr-scp\n\n- Galantyl: https://www.healthdirect.gov.au/medicines/brand/amt,87281011000036107/galantyl\n\n- Gallium (Ga67) Citrate (Lantheus): https://www.healthdirect.gov.au/medicines/brand/amt,1208001000168102/gallium-ga67-citrate-lantheus\n\n- Galvumet 50/1000: https://www.healthdirect.gov.au/medicines/brand/amt,14481000168101/galvumet-50-1000\n\n- Galvumet 50/500: https://www.healthdirect.gov.au/medicines/brand/amt,32001000168102/galvumet-50-500\n\n- Galvumet 50/850: https://www.healthdirect.gov.au/medicines/brand/amt,9411000168105/galvumet-50-850\n\n- Galvus: https://www.healthdirect.gov.au/medicines/brand/amt,85259011000036102/galvus\n\n- Gamine XR: https://www.healthdirect.gov.au/medicines/brand/amt,12551000168101/gamine-xr\n\n- Gamophen: https://www.healthdirect.gov.au/medicines/brand/amt,925525011000036103/gamophen\n\n- Gamunex 10%: https://www.healthdirect.gov.au/medicines/brand/amt,966321000168105/gamunex-10\n\n- Ganciclovir (Agila): https://www.healthdirect.gov.au/medicines/brand/amt,933736881000036104/ganciclovir-agila\n\n- Ganciclovir (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,933736861000036109/ganciclovir-alphapharm\n\n- Ganciclovir (HHH): https://www.healthdirect.gov.au/medicines/brand/amt,933736891000036102/ganciclovir-hhh\n\n- Ganciclovir (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1763351000168100/ganciclovir-lupin\n\n- Ganciclovir (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,933736871000036101/ganciclovir-mylan\n\n- Ganciclovir (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1102051000168103/ganciclovir-sxp\n\n- Ganfort 0.3/5: https://www.healthdirect.gov.au/medicines/brand/amt,13531000168101/ganfort-0.3-5\n\n- Ganfort PF 0.3/5: https://www.healthdirect.gov.au/medicines/brand/amt,649691000168104/ganfort-pf-0.3-5\n\n- Ganirelix (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1793391000168107/ganirelix-arx\n\n- Ganirelix (Gedeon Richter): https://www.healthdirect.gov.au/medicines/brand/amt,188303041000036101/ganirelix-gedeon-richter\n\n- Ganirelix (GH): https://www.healthdirect.gov.au/medicines/brand/amt,822982011000036100/ganirelix-gh\n\n- Ganirelix (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,208300341000036100/ganirelix-juno\n\n- Ganirelix (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,601605961000036103/ganirelix-lupin\n\n- Ganirelix (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,1534351000168107/ganirelix-sun\n\n- Ganirelix (Theramex): https://www.healthdirect.gov.au/medicines/brand/amt,1656061000168105/ganirelix-theramex\n\n- Ganvado: https://www.healthdirect.gov.au/medicines/brand/amt,933536521000036103/ganvado\n\n- Gapentin: https://www.healthdirect.gov.au/medicines/brand/amt,842011000168102/gapentin\n\n- Gardasil: https://www.healthdirect.gov.au/medicines/brand/amt,73683011000036100/gardasil\n\n- Gardasil 9: https://www.healthdirect.gov.au/medicines/brand/amt,1122871000168109/gardasil-9\n\n- Garlic (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1177621000168106/garlic-cenovis\n\n- Garlic and Horseradish plus C Complex (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1349931000168100/garlic-and-horseradish-plus-c-complex-cenovis\n\n- Gasbusters: https://www.healthdirect.gov.au/medicines/brand/amt,65074011000036109/gasbusters\n\n- Gastenz: https://www.healthdirect.gov.au/medicines/brand/amt,929908011000036100/gastenz\n\n- Gastrex: https://www.healthdirect.gov.au/medicines/brand/amt,77901000036108/gastrex\n\n- Gastro-Lieve: https://www.healthdirect.gov.au/medicines/brand/amt,1742971000168106/gastro-lieve\n\n- Gastro-Soothe: https://www.healthdirect.gov.au/medicines/brand/amt,119121000036105/gastro-soothe\n\n- Gastro-Stop: https://www.healthdirect.gov.au/medicines/brand/amt,3292011000036101/gastro-stop\n\n- Gastro-Stop Plus: https://www.healthdirect.gov.au/medicines/brand/amt,1342061000168102/gastro-stop-plus\n\n- Gastrogel Antacid: https://www.healthdirect.gov.au/medicines/brand/amt,41521000168105/gastrogel-antacid\n\n- Gastrografin: https://www.healthdirect.gov.au/medicines/brand/amt,75940011000036109/gastrografin\n\n- Gaviscon: https://www.healthdirect.gov.au/medicines/brand/amt,5001000168104/gaviscon\n\n- Gaviscon Double Strength: https://www.healthdirect.gov.au/medicines/brand/amt,664481000168106/gaviscon-double-strength\n\n- Gaviscon Dual Action: https://www.healthdirect.gov.au/medicines/brand/amt,47081000168106/gaviscon-dual-action\n\n- Gaviscon Extra Strength: https://www.healthdirect.gov.au/medicines/brand/amt,1734721000168101/gaviscon-extra-strength\n\n- Gaviscon Infant: https://www.healthdirect.gov.au/medicines/brand/amt,665931000168104/gaviscon-infant\n\n- Gazyva: https://www.healthdirect.gov.au/medicines/brand/amt,654091000168105/gazyva\n\n- Gefitinib (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1271741000168102/gefitinib-apo\n\n- Gefitinib (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1271941000168104/gefitinib-apotex\n\n- Gefitinib (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1495741000168105/gefitinib-cipla\n\n- Gel-Kam Sensitive: https://www.healthdirect.gov.au/medicines/brand/amt,1173851000168109/gel-kam-sensitive\n\n- Gelofusine: https://www.healthdirect.gov.au/medicines/brand/amt,4101011000036109/gelofusine\n\n- Gemaccord: https://www.healthdirect.gov.au/medicines/brand/amt,19911000036107/gemaccord\n\n- Gemcitabine (AN): https://www.healthdirect.gov.au/medicines/brand/amt,1273431000168102/gemcitabine-an\n\n- Gemcitabine (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,72908011000036104/gemcitabine-dbl\n\n- Gemcitabine (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,65050011000036101/gemcitabine-ebewe\n\n- Gemcitabine (Eugia): https://www.healthdirect.gov.au/medicines/brand/amt,933703701000036100/gemcitabine-eugia\n\n- Gemcitabine (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,933703621000036103/gemcitabine-gxp\n\n- Gemcitabine (Irem): https://www.healthdirect.gov.au/medicines/brand/amt,933703381000036105/gemcitabine-irem\n\n- Gemcitabine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933193721000036103/gemcitabine-sandoz\n\n- Gemfibrozil (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,33930011000036105/gemfibrozil-pharmacor\n\n- Genotropin: https://www.healthdirect.gov.au/medicines/brand/amt,3050011000036100/genotropin\n\n- Genotropin GoQuick: https://www.healthdirect.gov.au/medicines/brand/amt,5561000168107/genotropin-goquick\n\n- Genotropin MiniQuick: https://www.healthdirect.gov.au/medicines/brand/amt,1393961000168102/genotropin-miniquick\n\n- Genox: https://www.healthdirect.gov.au/medicines/brand/amt,3564011000036100/genox\n\n- Gentamicin (B Braun): https://www.healthdirect.gov.au/medicines/brand/amt,1336871000168102/gentamicin-b-braun\n\n- Gentamicin (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,4253011000036100/gentamicin-dbl\n\n- Gentamicin (Noridem): https://www.healthdirect.gov.au/medicines/brand/amt,1716581000168105/gentamicin-noridem\n\n- Gentamicin (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,3722011000036102/gentamicin-pfizer-perth\n\n- Gentamicin (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1537821000168104/gentamicin-pfizer\n\n- Genvoya: https://www.healthdirect.gov.au/medicines/brand/amt,768631000168108/genvoya\n\n- Gesicomb: https://www.healthdirect.gov.au/medicines/brand/amt,1087751000168107/gesicomb\n\n- Getero: https://www.healthdirect.gov.au/medicines/brand/amt,933635661000036108/getero\n\n- Gilenya: https://www.healthdirect.gov.au/medicines/brand/amt,933218951000036102/gilenya\n\n- Gilmat: https://www.healthdirect.gov.au/medicines/brand/amt,1347241000168107/gilmat\n\n- Ginseng 5500 (Caruso's): https://www.healthdirect.gov.au/medicines/brand/amt,1382861000168101/ginseng-5500-caruso's\n\n- Giotrif: https://www.healthdirect.gov.au/medicines/brand/amt,157731000036105/giotrif\n\n- Givlaari: https://www.healthdirect.gov.au/medicines/brand/amt,1728981000168105/givlaari\n\n- Glamin: https://www.healthdirect.gov.au/medicines/brand/amt,85245011000036102/glamin\n\n- Glatira: https://www.healthdirect.gov.au/medicines/brand/amt,1547131000168106/glatira\n\n- Glatiramer Acetate (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,1186971000168106/glatiramer-acetate-teva\n\n- Glaumox: https://www.healthdirect.gov.au/medicines/brand/amt,81972011000036107/glaumox\n\n- Glenbex: https://www.healthdirect.gov.au/medicines/brand/amt,1724891000168106/glenbex\n\n- Glenmect: https://www.healthdirect.gov.au/medicines/brand/amt,933703411000036107/glenmect\n\n- Gliclazide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1189091000168100/gliclazide-apo\n\n- Gliclazide (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1552161000168103/gliclazide-apx\n\n- Gliclazide (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,4008011000036108/gliclazide-genrx\n\n- Gliclazide (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933703611000036105/gliclazide-wgr\n\n- Gliclazide MR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,24721000168102/gliclazide-mr-apo\n\n- Gliclazide MR (Ardix): https://www.healthdirect.gov.au/medicines/brand/amt,676731000168103/gliclazide-mr-ardix\n\n- Gliclazide MR (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1664431000168105/gliclazide-mr-lupin\n\n- Gliclazide MR (PCOR): https://www.healthdirect.gov.au/medicines/brand/amt,933536651000036108/gliclazide-mr-pcor\n\n- Gliclazide MR (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1473001000168102/gliclazide-mr-pharmacor\n\n- Gliclazide MR (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933635831000036101/gliclazide-mr-sandoz\n\n- Gliclazide MR (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1709301000168101/gliclazide-mr-viatris\n\n- Glimepiride (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1188841000168107/glimepiride-apotex\n\n- Glimepiride (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1684801000168102/glimepiride-arx\n\n- Glimepiride (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,3850011000036104/glimepiride-sandoz\n\n- Glimepiride (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1767591000168109/glimepiride-wgr\n\n- Gliolan: https://www.healthdirect.gov.au/medicines/brand/amt,696691000168104/gliolan\n\n- Gliride: https://www.healthdirect.gov.au/medicines/brand/amt,1698331000168106/gliride\n\n- Glivec: https://www.healthdirect.gov.au/medicines/brand/amt,3084011000036104/glivec\n\n- Glixafor: https://www.healthdirect.gov.au/medicines/brand/amt,933650551000036101/glixafor\n\n- Glucagen Hypokit: https://www.healthdirect.gov.au/medicines/brand/amt,36881000168102/glucagen-hypokit\n\n- Glucobete: https://www.healthdirect.gov.au/medicines/brand/amt,15181000036104/glucobete\n\n- Glucohexal: https://www.healthdirect.gov.au/medicines/brand/amt,3062011000036106/glucohexal\n\n- Glucomet: https://www.healthdirect.gov.au/medicines/brand/amt,4140011000036108/glucomet\n\n- Glucosamine (Faulding): https://www.healthdirect.gov.au/medicines/brand/amt,1464851000168103/glucosamine-faulding\n\n- Glucosamine 1500 Complex Advanced (Nutra-Life): https://www.healthdirect.gov.au/medicines/brand/amt,1449611000168105/glucosamine-1500-complex-advanced-nutra-life\n\n- Glucosamine HCl (Healthy Care): https://www.healthdirect.gov.au/medicines/brand/amt,1196671000168101/glucosamine-hcl-healthy-care\n\n- Glucosamine plus Fish Oil (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1347771000168107/glucosamine-plus-fish-oil-blackmores\n\n- Glucosamine plus Fish Oil (Nature's Way): https://www.healthdirect.gov.au/medicines/brand/amt,1783011000168101/glucosamine-plus-fish-oil-nature's-way\n\n- Glucosamine Sulfate (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,988128591000036101/glucosamine-sulfate-nature's-own\n\n- Glucosamine Sulfate and Chondroitin Advanced (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,140125971000036102/glucosamine-sulfate-and-chondroitin-advanced-nature's-own\n\n- Glucosamine Sulfate One-a-Day (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1280561000168109/glucosamine-sulfate-one-a-day-blackmores\n\n- Glucosamine Sulfate with Chondroitin (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1783391000168108/glucosamine-sulfate-with-chondroitin-nature's-own\n\n- Glucose (B Braun): https://www.healthdirect.gov.au/medicines/brand/amt,78600011000036108/glucose-b-braun\n\n- Glucose (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,3320011000036100/glucose-baxter\n\n- Glucose (Fresenius Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,13861000168106/glucose-fresenius-kabi\n\n- Glucose (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,65179011000036104/glucose-phebra\n\n- Glucose 10% Sodium Chloride 0.22% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,32401000168108/glucose-10-sodium-chloride-0.22-baxter\n\n- Glucose 2.5% Sodium Chloride 0.45% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,4241000168107/glucose-2.5-sodium-chloride-0.45-baxter\n\n- Glucose 3.3% Sodium Chloride 0.3% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,2351000168105/glucose-3.3-sodium-chloride-0.3-baxter\n\n- Glucose 3.75% Sodium Chloride 0.225% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,37191000168106/glucose-3.75-sodium-chloride-0.225-baxter\n\n- Glucose 4% Sodium Chloride 0.18% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,19981000168106/glucose-4-sodium-chloride-0.18-baxter\n\n- Glucose 5% Sodium Chloride 0.45% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1079641000168101/glucose-5-sodium-chloride-0.45-baxter\n\n- Glucose 5% Sodium Chloride 0.9% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,4991000168105/glucose-5-sodium-chloride-0.9-baxter\n\n- Glucose and Electrolytes (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1192481000168102/glucose-and-electrolytes-apohealth\n\n- Glucovance 500/2.5: https://www.healthdirect.gov.au/medicines/brand/amt,62251000168102/glucovance-500-2.5\n\n- Glucovance 500/5: https://www.healthdirect.gov.au/medicines/brand/amt,46341000168101/glucovance-500-5\n\n- GluteGuard: https://www.healthdirect.gov.au/medicines/brand/amt,527973541000036106/gluteguard\n\n- Glyade: https://www.healthdirect.gov.au/medicines/brand/amt,12101000168106/glyade\n\n- Glybosay: https://www.healthdirect.gov.au/medicines/brand/amt,822321000168105/glybosay\n\n- Glycerine (Sanofi): https://www.healthdirect.gov.au/medicines/brand/amt,1158811000168104/glycerine-sanofi\n\n- Glycerol (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,920959011000036103/glycerol-gold-cross\n\n- Glycerol for Adults (Petrus): https://www.healthdirect.gov.au/medicines/brand/amt,35211000168104/glycerol-for-adults-petrus\n\n- Glycerol for Children (Petrus): https://www.healthdirect.gov.au/medicines/brand/amt,51631000168109/glycerol-for-children-petrus\n\n- Glycerol for Infants (Petrus): https://www.healthdirect.gov.au/medicines/brand/amt,42031000168108/glycerol-for-infants-petrus\n\n- Glyceryl Trinitrate (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,35986011000036105/glyceryl-trinitrate-dbl\n\n- Glyceryl Trinitrate (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1712241000168101/glyceryl-trinitrate-medsurge\n\n- Glyceryl Trinitrate (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,933650911000036105/glyceryl-trinitrate-phebra\n\n- Glyceryl Trinitrate (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1438661000168104/glyceryl-trinitrate-wockhardt\n\n- Glyconeo 0.5/2.5: https://www.healthdirect.gov.au/medicines/brand/amt,1659251000168109/glyconeo-0.5-2.5\n\n- Glycophos: https://www.healthdirect.gov.au/medicines/brand/amt,1567171000168103/glycophos\n\n- Glycoprep Orange: https://www.healthdirect.gov.au/medicines/brand/amt,1571511000168102/glycoprep-orange\n\n- Glycoprep-O Kit: https://www.healthdirect.gov.au/medicines/brand/amt,1577841000168108/glycoprep-o-kit\n\n- Glycopyrrolate (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,930711000168108/glycopyrrolate-accord\n\n- Glycopyrronium (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,933754631000036109/glycopyrronium-aft\n\n- Glypressin: https://www.healthdirect.gov.au/medicines/brand/amt,83971000036100/glypressin\n\n- Go Kit: https://www.healthdirect.gov.au/medicines/brand/amt,85247011000036107/go-kit\n\n- Goanna Arthritis: https://www.healthdirect.gov.au/medicines/brand/amt,65065011000036104/goanna-arthritis\n\n- Goanna Chest Rub: https://www.healthdirect.gov.au/medicines/brand/amt,1390811000168102/goanna-chest-rub\n\n- Goanna Heat: https://www.healthdirect.gov.au/medicines/brand/amt,1275161000168104/goanna-heat\n\n- Goanna Oil: https://www.healthdirect.gov.au/medicines/brand/amt,1387011000168107/goanna-oil\n\n- Golax (Priceline Pharmacy): https://www.healthdirect.gov.au/medicines/brand/amt,1126881000168108/golax-priceline-pharmacy\n\n- Gonadron: https://www.healthdirect.gov.au/medicines/brand/amt,1763611000168107/gonadron\n\n- Gonal-F: https://www.healthdirect.gov.au/medicines/brand/amt,1371000168105/gonal-f\n\n- Gopten: https://www.healthdirect.gov.au/medicines/brand/amt,4026011000036104/gopten\n\n- Granisetron (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,134061000036107/granisetron-aft\n\n- Granisetron (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,811311000168104/granisetron-apo\n\n- Granisetron (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,922951011000036109/granisetron-kabi\n\n- Grazax: https://www.healthdirect.gov.au/medicines/brand/amt,1120251000168103/grazax\n\n- Grisovin: https://www.healthdirect.gov.au/medicines/brand/amt,4329011000036109/grisovin\n\n- Guanfacine (MHC): https://www.healthdirect.gov.au/medicines/brand/amt,933736921000036106/guanfacine-mhc\n\n- Guanfacine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933736201000036109/guanfacine-sandoz\n\n- Guanfacine (Takeda): https://www.healthdirect.gov.au/medicines/brand/amt,1741981000168102/guanfacine-takeda\n\n- Guanfacine (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933736081000036106/guanfacine-viatris\n\n- Guarana plus Ginseng (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1379701000168108/guarana-plus-ginseng-cenovis\n\n- Gymiso: https://www.healthdirect.gov.au/medicines/brand/amt,123981000036102/gymiso\n\n- Gynotril: https://www.healthdirect.gov.au/medicines/brand/amt,172821000036100/gynotril\n\n- Gabapentin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21352/gabapentin\n\n- Gadobenic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20771/gadobenic-acid\n\n- gadobutrol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21351/gadobutrol\n\n- gadodiamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24363/gadodiamide\n\n- Gadopentetic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22489/gadopentetic-acid\n\n- Gadopiclenol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50556/gadopiclenol\n\n- gadoteric acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21346/gadoteric-acid\n\n- gadoteridol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21344/gadoteridol\n\n- Gadoxetic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22491/gadoxetic-acid\n\n- Galantamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21340/galantamine\n\n- Galcanezumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24952/galcanezumab\n\n- gallium (67Ga): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24334/gallium-67ga\n\n- galsulfase: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21337/galsulfase\n\n- ganciclovir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21326/ganciclovir\n\n- Ganirelix: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21325/ganirelix\n\n- Garadacimab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50673/garadacimab\n\n- Garlic extract + horseradish extract + fenugreek seed extract + marshmallow root extract + ascorbic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50241/garlic-extract-+-horseradish-extract-+-fenugreek-seed-extract-+-marshmallow-root-extract-+-ascorbic-acid\n\n- garlic oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24304/garlic-oil\n\n- Gefitinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21320/gefitinib\n\n- Gemcitabine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21316/gemcitabine\n\n- Gemfibrozil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21313/gemfibrozil\n\n- gemtuzumab ozogamicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26758/gemtuzumab-ozogamicin\n\n- Gentamicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21312/gentamicin\n\n- gestodene + ethinylestradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23292/gestodene-+-ethinylestradiol\n\n- Gilteritinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26756/gilteritinib\n\n- ginger extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26643/ginger-extract\n\n- givosiran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27176/givosiran\n\n- glatiramer acetate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21310/glatiramer-acetate\n\n- glecaprevir + pibrentasvir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24236/glecaprevir-+-pibrentasvir\n\n- glibenclamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21309/glibenclamide\n\n- gliclazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21308/gliclazide\n\n- glimepiride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21307/glimepiride\n\n- glipizide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21306/glipizide\n\n- Glofitamab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50497/glofitamab\n\n- glucagon hydrochloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22498/glucagon-hydrochloride\n\n- glucosamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21717/glucosamine\n\n- glucosamine + chondroitin sulfate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24331/glucosamine-+-chondroitin-sulfate\n\n- Glucosamine + chondroitin sulfate + ascorbic acid + zinc: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50516/glucosamine-+-chondroitin-sulfate-+-ascorbic-acid-+-zinc\n\n- glucosamine + fish oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24878/glucosamine-+-fish-oil\n\n- Glucosamine sulfate potassium chloride + dimethyl sulfone + chondroitin sulfate + zinc + manganese + boron + copper + selenium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50245/glucosamine-sulfate-potassium-chloride-+-dimethyl-sulfone-+-chondroitin-sulfate-+-zinc-+-manganese-+-boron-+-copper-+-selenium\n\n- glucose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20628/glucose\n\n- glucose + calcium chloride + magnesium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24905/glucose-+-calcium-chloride-+-magnesium-chloride\n\n- glucose + sodium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23438/glucose-+-sodium-chloride\n\n- Glucose + sodium chloride + sodium lactate + calcium chloride + magnesium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50246/glucose-+-sodium-chloride-+-sodium-lactate-+-calcium-chloride-+-magnesium-chloride\n\n- glycerol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22506/glycerol\n\n- glycerol + light liquid paraffin + white soft paraffin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23536/glycerol-+-light-liquid-paraffin-+-white-soft-paraffin\n\n- glycerol + magnesium sulfate dried: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23366/glycerol-+-magnesium-sulfate-dried\n\n- glycerol + white soft paraffin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23318/glycerol-+-white-soft-paraffin\n\n- Glyceryl trinitrate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21304/glyceryl-trinitrate\n\n- glycopyrronium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22508/glycopyrronium\n\n- Glycopyrronium bromide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21267/glycopyrronium-bromide\n\n- glycopyrronium bromide + neostigmine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26585/glycopyrronium-bromide-+-neostigmine\n\n- Golimumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21302/golimumab\n\n- Goserelin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21301/goserelin\n\n- Granisetron: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21300/granisetron\n\n- grape seed extract + ascorbic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24895/grape-seed-extract-+-ascorbic-acid\n\n- Green lipped mussel oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24898/green-lipped-mussel-oil\n\n- Griseofulvin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21299/griseofulvin\n\n- Guaifenesin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22512/guaifenesin\n\n- guaifenesin + dextromethorphan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23262/guaifenesin-+-dextromethorphan\n\n- guaifenesin + glucose + treacle: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23535/guaifenesin-+-glucose-+-treacle\n\n- Guaifenesin + phenylephrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23319/guaifenesin-+-phenylephrine\n\n- Guaifenesin + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23320/guaifenesin-+-pseudoephedrine\n\n- Guanfacine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24171/guanfacine\n\n- guarana extract + Korean ginseng extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24920/guarana-extract-+-korean-ginseng-extract\n\n- guselkumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24459/guselkumab\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

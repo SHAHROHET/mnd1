@@ -1,0 +1,2059 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-e-excludenonartg",
+  "title": "Medicines starting with \"E\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 63584,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "E-Mycin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4167011000036102/e-mycin"
+    },
+    {
+      "text": "E45",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1432091000168100/e45"
+    },
+    {
+      "text": "Ear Care Antiseptic (Natural Look)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,60721000168104/ear-care-antiseptic-natural-look"
+    },
+    {
+      "text": "Ear Clear for Ear Ache",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53147011000036104/ear-clear-for-ear-ache"
+    },
+    {
+      "text": "Ear Clear for Ear Wax Removal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3581011000036100/ear-clear-for-ear-wax-removal"
+    },
+    {
+      "text": "Ear Clear for Swimmers",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65173011000036102/ear-clear-for-swimmers"
+    },
+    {
+      "text": "Early Bird",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,776361000168102/early-bird"
+    },
+    {
+      "text": "Ebglyss",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1757801000168105/ebglyss"
+    },
+    {
+      "text": "Ebixa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19751000168102/ebixa"
+    },
+    {
+      "text": "Echinacea, Garlic, Zinc and C (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1349481000168108/echinacea,-garlic,-zinc-and-c-cenovis"
+    },
+    {
+      "text": "EDP",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1235141000168101/edp"
+    },
+    {
+      "text": "Edronax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3605011000036109/edronax"
+    },
+    {
+      "text": "EDTA plus Sodium Ascorbate (Biological Therapies)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1084501000168105/edta-plus-sodium-ascorbate-biological-therapies"
+    },
+    {
+      "text": "Edurant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,621000036107/edurant"
+    },
+    {
+      "text": "Efavirenz (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586491000036106/efavirenz-alphapharm"
+    },
+    {
+      "text": "Eferas",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1559671000168108/eferas"
+    },
+    {
+      "text": "Efexor-XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45291000168107/efexor-xr"
+    },
+    {
+      "text": "Effervescent Electrolyte (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1423971000168107/effervescent-electrolyte-apohealth"
+    },
+    {
+      "text": "Efudix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3732011000036104/efudix"
+    },
+    {
+      "text": "Egocort",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3064011000036102/egocort"
+    },
+    {
+      "text": "Egoderm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4182011000036102/egoderm"
+    },
+    {
+      "text": "Egopsoryl TA",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48031000168106/egopsoryl-ta"
+    },
+    {
+      "text": "Egozite Baby",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80120011000036104/egozite-baby"
+    },
+    {
+      "text": "Egozite Cradle Cap",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65101011000036107/egozite-cradle-cap"
+    },
+    {
+      "text": "Eikance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1574941000168107/eikance"
+    },
+    {
+      "text": "Ekterly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933624721000036107/ekterly"
+    },
+    {
+      "text": "Eladynos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,100380301000036103/eladynos"
+    },
+    {
+      "text": "Elahere",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652471000036109/elahere"
+    },
+    {
+      "text": "Elapex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650631000036105/elapex"
+    },
+    {
+      "text": "Elaprase",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48301000036109/elaprase"
+    },
+    {
+      "text": "Elapril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39617011000036100/elapril"
+    },
+    {
+      "text": "Elaxine SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8331000168101/elaxine-sr"
+    },
+    {
+      "text": "Eldepryl",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4381011000036101/eldepryl"
+    },
+    {
+      "text": "Eldisine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,775181000168102/eldisine"
+    },
+    {
+      "text": "Eleanor 150/30 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,682301000168100/eleanor-150-30-ed"
+    },
+    {
+      "text": "Elelyso",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,737341000168101/elelyso"
+    },
+    {
+      "text": "Eletx",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,240957261000036105/eletx"
+    },
+    {
+      "text": "Eleuphrat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3233011000036101/eleuphrat"
+    },
+    {
+      "text": "Eleva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3268011000036101/eleva"
+    },
+    {
+      "text": "Elevit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61571000168101/elevit"
+    },
+    {
+      "text": "Elfabrio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506031000036103/elfabrio"
+    },
+    {
+      "text": "Elidel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4387011000036109/elidel"
+    },
+    {
+      "text": "Eligard 1 Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55961000168105/eligard-1-month"
+    },
+    {
+      "text": "Eligard 3 Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56351000168101/eligard-3-month"
+    },
+    {
+      "text": "Eligard 4 Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57451000168105/eligard-4-month"
+    },
+    {
+      "text": "Eligard 6 Month",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58341000168102/eligard-6-month"
+    },
+    {
+      "text": "Eliquis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933234191000036106/eliquis"
+    },
+    {
+      "text": "EllaOne",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,837981000168105/ellaone"
+    },
+    {
+      "text": "Elmiron",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39734011000036107/elmiron"
+    },
+    {
+      "text": "Elocon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4301011000036100/elocon"
+    },
+    {
+      "text": "Eloctate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,886371000168101/eloctate"
+    },
+    {
+      "text": "Elonva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924354011000036108/elonva"
+    },
+    {
+      "text": "Elovax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1463091000168102/elovax"
+    },
+    {
+      "text": "Elovax One Dose",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,773861000168102/elovax-one-dose"
+    },
+    {
+      "text": "Elrexfio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,815279021000036108/elrexfio"
+    },
+    {
+      "text": "Eltrombopag (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635891000036100/eltrombopag-dr.-reddy's"
+    },
+    {
+      "text": "Eltrombopag (RZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635901000036104/eltrombopag-rz"
+    },
+    {
+      "text": "Eltroxin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,739521000168108/eltroxin"
+    },
+    {
+      "text": "Elucirem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,505500581000036106/elucirem"
+    },
+    {
+      "text": "Emeprazol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1150081000168100/emeprazol"
+    },
+    {
+      "text": "Emexlon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,858031000168107/emexlon"
+    },
+    {
+      "text": "Emgality",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1395721000168106/emgality"
+    },
+    {
+      "text": "Emla 5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,9941000168103/emla-5"
+    },
+    {
+      "text": "Emla 5% with Occlusive Dressings",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1660711000168100/emla-5-with-occlusive-dressings"
+    },
+    {
+      "text": "Empaveli",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1634391000168109/empaveli"
+    },
+    {
+      "text": "Empliciti",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,917111000168103/empliciti"
+    },
+    {
+      "text": "Empovir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1218311000168100/empovir"
+    },
+    {
+      "text": "Enablex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39770011000036104/enablex"
+    },
+    {
+      "text": "Enahexal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4073011000036109/enahexal"
+    },
+    {
+      "text": "Enalapril (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1410001000168102/enalapril-noumed"
+    },
+    {
+      "text": "Enalapril (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1765181000168106/enalapril-wgr"
+    },
+    {
+      "text": "Enalapril Maleate (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,154461000036100/enalapril-maleate-apo"
+    },
+    {
+      "text": "Enalapril Maleate (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927800011000036101/enalapril-maleate-gh"
+    },
+    {
+      "text": "Enalapril Maleate (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920933011000036100/enalapril-maleate-sandoz"
+    },
+    {
+      "text": "Enalapril/HCT 20 mg/6 mg (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1408601000168109/enalapril-hct-20-mg-6-mg-noumed"
+    },
+    {
+      "text": "Enalapril/HCT 20 mg/6 mg (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,27071000168106/enalapril-hct-20-mg-6-mg-sandoz"
+    },
+    {
+      "text": "Enbrel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25701000168107/enbrel"
+    },
+    {
+      "text": "Enbrel Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54491000168107/enbrel-auto-injector"
+    },
+    {
+      "text": "Endep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4195011000036109/endep"
+    },
+    {
+      "text": "Endometrin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,137271000036101/endometrin"
+    },
+    {
+      "text": "Endone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3580011000036107/endone"
+    },
+    {
+      "text": "Endoxan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3255011000036101/endoxan"
+    },
+    {
+      "text": "Enerzair Breezhaler 114/46/136",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1534201000168101/enerzair-breezhaler-114-46-136"
+    },
+    {
+      "text": "Enerzair Breezhaler 114/46/68",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1533511000168103/enerzair-breezhaler-114-46-68"
+    },
+    {
+      "text": "Engerix-B Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33491000168108/engerix-b-adult"
+    },
+    {
+      "text": "Engerix-B Paediatric",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31101000168108/engerix-b-paediatric"
+    },
+    {
+      "text": "Enhertu",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1598581000168106/enhertu"
+    },
+    {
+      "text": "Enidin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3820011000036103/enidin"
+    },
+    {
+      "text": "Enlafax XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,43211000168104/enlafax-xr"
+    },
+    {
+      "text": "Enliva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1403981000168102/enliva"
+    },
+    {
+      "text": "Eno",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65094011000036101/eno"
+    },
+    {
+      "text": "Enoxaject",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,883394961000036101/enoxaject"
+    },
+    {
+      "text": "Enoxapo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703841000036105/enoxapo"
+    },
+    {
+      "text": "Enrylaze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,729001591000036102/enrylaze"
+    },
+    {
+      "text": "Enspryng",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1514541000168107/enspryng"
+    },
+    {
+      "text": "Enstilar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894651000168105/enstilar"
+    },
+    {
+      "text": "Entac",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894271000168103/entac"
+    },
+    {
+      "text": "Entecavir (Amneal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,851331000168104/entecavir-amneal"
+    },
+    {
+      "text": "Entecavir (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894481000168101/entecavir-gh"
+    },
+    {
+      "text": "Entecavir (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,851431000168105/entecavir-mylan"
+    },
+    {
+      "text": "Entecavir (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,848511000168108/entecavir-rbx"
+    },
+    {
+      "text": "Entecavir (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,851901000168105/entecavir-sandoz"
+    },
+    {
+      "text": "Entecavir (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600101000036104/entecavir-sun"
+    },
+    {
+      "text": "Entecavir (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1657971000168102/entecavir-viatris"
+    },
+    {
+      "text": "Entecavir (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1771931000168102/entecavir-wgr"
+    },
+    {
+      "text": "Entocort",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39744011000036108/entocort"
+    },
+    {
+      "text": "Entonox 50% / 50%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,23521000168107/entonox-50---50"
+    },
+    {
+      "text": "Entresto 24/26",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,810021000168101/entresto-24-26"
+    },
+    {
+      "text": "Entresto 49/51",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,809751000168104/entresto-49-51"
+    },
+    {
+      "text": "Entresto 97/103",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,805781000168109/entresto-97-103"
+    },
+    {
+      "text": "Entrip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,814951000168102/entrip"
+    },
+    {
+      "text": "Entyvio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,707781000168104/entyvio"
+    },
+    {
+      "text": "Enzacip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1753261000168104/enzacip"
+    },
+    {
+      "text": "Enzaline",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1753181000168101/enzaline"
+    },
+    {
+      "text": "Enzalutamide (Cip)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1753301000168107/enzalutamide-cip"
+    },
+    {
+      "text": "Ephedrine (Aguettant)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1252591000168105/ephedrine-aguettant"
+    },
+    {
+      "text": "Ephedrine (Hameln)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506931000036102/ephedrine-hameln"
+    },
+    {
+      "text": "Ephedrine (InterPharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753771000036104/ephedrine-interpharma"
+    },
+    {
+      "text": "Ephedrine (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650931000036101/ephedrine-lupin"
+    },
+    {
+      "text": "Ephedrine (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1175601000168105/ephedrine-wockhardt"
+    },
+    {
+      "text": "Ephedrine Hydrochloride (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1177191000168103/ephedrine-hydrochloride-sxp"
+    },
+    {
+      "text": "Ephedrine Sulfate (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35884011000036109/ephedrine-sulfate-dbl"
+    },
+    {
+      "text": "Epiduo 0.1% / 2.5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33721000168102/epiduo-0.1---2.5"
+    },
+    {
+      "text": "Epiduo Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1022681000168102/epiduo-forte"
+    },
+    {
+      "text": "Epidyolex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1502761000168109/epidyolex"
+    },
+    {
+      "text": "Epilim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,46431000168104/epilim"
+    },
+    {
+      "text": "Epilim EC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,43831000168105/epilim-ec"
+    },
+    {
+      "text": "Epilim IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61331000168109/epilim-iv"
+    },
+    {
+      "text": "Epilim Liquid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15891000168100/epilim-liquid"
+    },
+    {
+      "text": "Epilim Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,49761000168108/epilim-syrup"
+    },
+    {
+      "text": "Epipen Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59781000168101/epipen-auto-injector"
+    },
+    {
+      "text": "Epipen Jr Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56121000168107/epipen-jr-auto-injector"
+    },
+    {
+      "text": "Epiramax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,81973011000036100/epiramax"
+    },
+    {
+      "text": "Epirubicin (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,893661000168105/epirubicin-accord"
+    },
+    {
+      "text": "Epkinly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,531351141000036105/epkinly"
+    },
+    {
+      "text": "Eplerenone (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246791000168101/eplerenone-apo"
+    },
+    {
+      "text": "Eplerenone (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246751000168106/eplerenone-apotex"
+    },
+    {
+      "text": "Eprex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3309011000036103/eprex"
+    },
+    {
+      "text": "Eptifibatide (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933754601000036102/eptifibatide-medsurge"
+    },
+    {
+      "text": "Epyztek",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507321000036101/epyztek"
+    },
+    {
+      "text": "Eraxis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,82657011000036105/eraxis"
+    },
+    {
+      "text": "Erbitux",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4257011000036109/erbitux"
+    },
+    {
+      "text": "Erelzi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1055931000168100/erelzi"
+    },
+    {
+      "text": "Erelzi Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1055811000168104/erelzi-auto-injector"
+    },
+    {
+      "text": "Ergometrine Maleate (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39748011000036101/ergometrine-maleate-dbl"
+    },
+    {
+      "text": "Eribulin (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599471000036101/eribulin-dr.-reddy's"
+    },
+    {
+      "text": "Erivedge",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,143251000036102/erivedge"
+    },
+    {
+      "text": "Erlotinib (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1540391000168106/erlotinib-apotex"
+    },
+    {
+      "text": "Erlotinib (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1660771000168108/erlotinib-arx"
+    },
+    {
+      "text": "Erlotinib (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1572081000168108/erlotinib-cipla"
+    },
+    {
+      "text": "Erlotinib (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1533171000168102/erlotinib-sandoz"
+    },
+    {
+      "text": "Erlyand",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1316471000168109/erlyand"
+    },
+    {
+      "text": "Ertapenem (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438601000168100/ertapenem-juno"
+    },
+    {
+      "text": "Ertapenem (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1317211000168104/ertapenem-kabi"
+    },
+    {
+      "text": "Erythrocin IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39061000168106/erythrocin-iv"
+    },
+    {
+      "text": "Erythromycin (HHH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774781000036102/erythromycin-hhh"
+    },
+    {
+      "text": "Erythromycin (Mayne Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920073011000036106/erythromycin-mayne-pharma"
+    },
+    {
+      "text": "Erythromycin (Panpharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1248501000168103/erythromycin-panpharma"
+    },
+    {
+      "text": "Escicor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929378011000036103/escicor"
+    },
+    {
+      "text": "Escit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1407121000168105/escit"
+    },
+    {
+      "text": "Escitalopram (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35351000168108/escitalopram-apo"
+    },
+    {
+      "text": "Escitalopram (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651611000036109/escitalopram-arx"
+    },
+    {
+      "text": "Escitalopram (B&B)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1405541000168104/escitalopram-b&b"
+    },
+    {
+      "text": "Escitalopram (Blooms)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707201000168104/escitalopram-blooms"
+    },
+    {
+      "text": "Escitalopram (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1645191000168107/escitalopram-btc"
+    },
+    {
+      "text": "Escitalopram (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1175611000168108/escitalopram-gh"
+    },
+    {
+      "text": "Escitalopram (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651251000036106/escitalopram-ipca"
+    },
+    {
+      "text": "Escitalopram (LAPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32241000036102/escitalopram-lapl"
+    },
+    {
+      "text": "Escitalopram (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1165031000168104/escitalopram-noumed"
+    },
+    {
+      "text": "Escitalopram (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1044661000168104/escitalopram-sandoz"
+    },
+    {
+      "text": "Escitalopram (TIH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1786921000168103/escitalopram-tih"
+    },
+    {
+      "text": "Escitalopram (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507051000036109/escitalopram-wgr"
+    },
+    {
+      "text": "Esital",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698951000168101/esital"
+    },
+    {
+      "text": "Eskazole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3706011000036108/eskazole"
+    },
+    {
+      "text": "Esmep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1150521000168105/esmep"
+    },
+    {
+      "text": "Esmolol (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1653231000168100/esmolol-juno"
+    },
+    {
+      "text": "Esmolol (Noridem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1659331000168105/esmolol-noridem"
+    },
+    {
+      "text": "Esmolol Hydrochloride (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1696381000168108/esmolol-hydrochloride-medsurge"
+    },
+    {
+      "text": "Esomeprazole (Act)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,731001000168105/esomeprazole-act"
+    },
+    {
+      "text": "Esomeprazole (Actavis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,681201000168104/esomeprazole-actavis"
+    },
+    {
+      "text": "Esomeprazole (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704061000168101/esomeprazole-an"
+    },
+    {
+      "text": "Esomeprazole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,998431000168104/esomeprazole-apo"
+    },
+    {
+      "text": "Esomeprazole (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1305561000168105/esomeprazole-generic-health"
+    },
+    {
+      "text": "Esomeprazole (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,712381000168102/esomeprazole-gh"
+    },
+    {
+      "text": "Esomeprazole (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1521461000168104/esomeprazole-mylan"
+    },
+    {
+      "text": "Esomeprazole (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,652681000168108/esomeprazole-rbx"
+    },
+    {
+      "text": "Esomeprazole (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704101000168103/esomeprazole-sandoz"
+    },
+    {
+      "text": "Esomeprazole (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1304221000168104/esomeprazole-sun"
+    },
+    {
+      "text": "Esomeprazole (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1657661000168102/esomeprazole-viatris"
+    },
+    {
+      "text": "Esomeprazole (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1771721000168102/esomeprazole-wgr"
+    },
+    {
+      "text": "Esomeprazole Heartburn Relief (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1160351000168101/esomeprazole-heartburn-relief-apohealth"
+    },
+    {
+      "text": "Esomeprazole Heartburn Relief (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1216411000168105/esomeprazole-heartburn-relief-blooms-the-chemist"
+    },
+    {
+      "text": "Esomeprazole Hp7 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,769101000168100/esomeprazole-hp7-sandoz"
+    },
+    {
+      "text": "Esopran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1534411000168102/esopran"
+    },
+    {
+      "text": "Esopreze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1533901000168109/esopreze"
+    },
+    {
+      "text": "Espler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,815961000168104/espler"
+    },
+    {
+      "text": "Estalis Continuous 50/140",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54451000168102/estalis-continuous-50-140"
+    },
+    {
+      "text": "Estalis Continuous 50/250",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15311000168102/estalis-continuous-50-250"
+    },
+    {
+      "text": "Estelle-35 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700020231000036104/estelle-35-ed"
+    },
+    {
+      "text": "Estopram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1402971000168107/estopram"
+    },
+    {
+      "text": "Estraderm MX",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,9331000168106/estraderm-mx"
+    },
+    {
+      "text": "Estro-Pess",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1656291000168105/estro-pess"
+    },
+    {
+      "text": "Estrofem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39584011000036101/estrofem"
+    },
+    {
+      "text": "Estrogel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1322901000168100/estrogel"
+    },
+    {
+      "text": "Estrogel Pro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1551311000168105/estrogel-pro"
+    },
+    {
+      "text": "Ethambutol (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1637831000168105/ethambutol-lupin"
+    },
+    {
+      "text": "Etopophos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4332011000036101/etopophos"
+    },
+    {
+      "text": "Etoposide (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3594011000036103/etoposide-ebewe"
+    },
+    {
+      "text": "Eumovate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,782551000168104/eumovate"
+    },
+    {
+      "text": "Eurax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65121011000036102/eurax"
+    },
+    {
+      "text": "Eutroxsig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4066011000036108/eutroxsig"
+    },
+    {
+      "text": "Evelyn 150/30 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,662621000168104/evelyn-150-30-ed"
+    },
+    {
+      "text": "Evening Primrose Oil (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,503778781000036104/evening-primrose-oil-blackmores"
+    },
+    {
+      "text": "Evening Primrose Oil (Faulding)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1761231000168103/evening-primrose-oil-faulding"
+    },
+    {
+      "text": "Evening Primrose Oil (Henry Blooms)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1758681000168102/evening-primrose-oil-henry-blooms"
+    },
+    {
+      "text": "Evenity",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1431951000168104/evenity"
+    },
+    {
+      "text": "Everocan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1551781000168100/everocan"
+    },
+    {
+      "text": "Everolimus (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1592661000168104/everolimus-pharmacor"
+    },
+    {
+      "text": "Everolimus (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1405951000168108/everolimus-teva"
+    },
+    {
+      "text": "Everyday Face (Hamilton)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,869521851000036101/everyday-face-hamilton"
+    },
+    {
+      "text": "Evista",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3882011000036107/evista"
+    },
+    {
+      "text": "Evocair MDI 125/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1564521000168100/evocair-mdi-125-25"
+    },
+    {
+      "text": "Evocair MDI 250/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1564561000168105/evocair-mdi-250-25"
+    },
+    {
+      "text": "Evoltra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922920011000036101/evoltra"
+    },
+    {
+      "text": "Evotaz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,736651000168109/evotaz"
+    },
+    {
+      "text": "Evrysdi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1560221000168109/evrysdi"
+    },
+    {
+      "text": "Exarane",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682211000168105/exarane"
+    },
+    {
+      "text": "Exarane Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682281000168104/exarane-forte"
+    },
+    {
+      "text": "Exelon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4601000168108/exelon"
+    },
+    {
+      "text": "Exelon-10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56281000168104/exelon-10"
+    },
+    {
+      "text": "Exelon-15",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,731041000168107/exelon-15"
+    },
+    {
+      "text": "Exelon-5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53691000168107/exelon-5"
+    },
+    {
+      "text": "Exemestane (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,50811000168106/exemestane-apo"
+    },
+    {
+      "text": "Exemestane (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1015851000168108/exemestane-apotex"
+    },
+    {
+      "text": "Exemestane (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,180351000036105/exemestane-gh"
+    },
+    {
+      "text": "Exemestane (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1407411000168109/exemestane-intas"
+    },
+    {
+      "text": "Exemestane (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32281000036106/exemestane-pharmacor"
+    },
+    {
+      "text": "Exemestane (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933241011000036104/exemestane-sandoz"
+    },
+    {
+      "text": "Exemestane (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1773141000168108/exemestane-wgr"
+    },
+    {
+      "text": "Exforge 10/160",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22241000168106/exforge-10-160"
+    },
+    {
+      "text": "Exforge 10/320",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20141000168104/exforge-10-320"
+    },
+    {
+      "text": "Exforge 5/160",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8411000168102/exforge-5-160"
+    },
+    {
+      "text": "Exforge 5/320",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24141000168109/exforge-5-320"
+    },
+    {
+      "text": "Exforge 5/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29171000168101/exforge-5-80"
+    },
+    {
+      "text": "Exforge HCT 10/160/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25011000168107/exforge-hct-10-160-12.5"
+    },
+    {
+      "text": "Exforge HCT 10/160/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,7471000168106/exforge-hct-10-160-25"
+    },
+    {
+      "text": "Exforge HCT 10/320/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21211000168103/exforge-hct-10-320-25"
+    },
+    {
+      "text": "Exforge HCT 5/160/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14521000168101/exforge-hct-5-160-12.5"
+    },
+    {
+      "text": "Exforge HCT 5/160/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4531000168100/exforge-hct-5-160-25"
+    },
+    {
+      "text": "Extine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4015011000036100/extine"
+    },
+    {
+      "text": "Extraneal 7.5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36521000168104/extraneal-7.5"
+    },
+    {
+      "text": "Eydenzelt",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506981000036103/eydenzelt"
+    },
+    {
+      "text": "Eye Plus (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652121000036104/eye-plus-a-won"
+    },
+    {
+      "text": "Eyezep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925513011000036108/eyezep"
+    },
+    {
+      "text": "Eylea",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,77681000036109/eylea"
+    },
+    {
+      "text": "Ezalo Composite Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1147051000168108/ezalo-composite-pack"
+    },
+    {
+      "text": "Eze Allergy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1738731000168105/eze-allergy"
+    },
+    {
+      "text": "Ezemichol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1166791000168108/ezemichol"
+    },
+    {
+      "text": "Ezetast 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1552801000168107/ezetast-10-10"
+    },
+    {
+      "text": "Ezetast 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1553061000168105/ezetast-10-20"
+    },
+    {
+      "text": "Ezetast 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1552351000168102/ezetast-10-40"
+    },
+    {
+      "text": "Ezetast 10/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1553411000168100/ezetast-10-80"
+    },
+    {
+      "text": "Ezetimibe (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1405771000168101/ezetimibe-akm"
+    },
+    {
+      "text": "Ezetimibe (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1009201000168105/ezetimibe-apo"
+    },
+    {
+      "text": "Ezetimibe (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,555430841000036108/ezetimibe-arx"
+    },
+    {
+      "text": "Ezetimibe (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1169701000168107/ezetimibe-blooms-the-chemist"
+    },
+    {
+      "text": "Ezetimibe (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663921000168103/ezetimibe-btc"
+    },
+    {
+      "text": "Ezetimibe (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1167061000168102/ezetimibe-gh"
+    },
+    {
+      "text": "Ezetimibe (LAPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1270581000168109/ezetimibe-lapl"
+    },
+    {
+      "text": "Ezetimibe (MA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698651000168108/ezetimibe-ma"
+    },
+    {
+      "text": "Ezetimibe (MC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698881000168102/ezetimibe-mc"
+    },
+    {
+      "text": "Ezetimibe (ME)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698711000168100/ezetimibe-me"
+    },
+    {
+      "text": "Ezetimibe (MH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1698771000168108/ezetimibe-mh"
+    },
+    {
+      "text": "Ezetimibe (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537401000036106/ezetimibe-mylan"
+    },
+    {
+      "text": "Ezetimibe (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1157421000168105/ezetimibe-pharmacor"
+    },
+    {
+      "text": "Ezetimibe (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1166901000168104/ezetimibe-sandoz"
+    },
+    {
+      "text": "Ezetimibe (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600431000036101/ezetimibe-viatris"
+    },
+    {
+      "text": "Ezetimibe (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1776011000168102/ezetimibe-wgr"
+    },
+    {
+      "text": "Ezetimibe Rosuvastatin Composite Pack (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1669321000168101/ezetimibe-rosuvastatin-composite-pack-pharmacor"
+    },
+    {
+      "text": "Ezetimibe Rosuvastatin Composite Pack (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,960319941000036105/ezetimibe-rosuvastatin-composite-pack-sandoz"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/10 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1292211000168109/ezetimibe-simvastatin-10-10-akm"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/10 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1278891000168108/ezetimibe-simvastatin-10-10-pharmacor"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/20 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1292151000168103/ezetimibe-simvastatin-10-20-akm"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/20 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1279481000168104/ezetimibe-simvastatin-10-20-pharmacor"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/40 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1322071000168106/ezetimibe-simvastatin-10-40-akm"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/40 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1295151000168109/ezetimibe-simvastatin-10-40-pharmacor"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/80 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1321831000168106/ezetimibe-simvastatin-10-80-akm"
+    },
+    {
+      "text": "Ezetimibe Simvastatin 10/80 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1295111000168108/ezetimibe-simvastatin-10-80-pharmacor"
+    },
+    {
+      "text": "Ezetimibe-Simvastatin 10/10 (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,406905411000036108/ezetimibe-simvastatin-10-10-alphapharm"
+    },
+    {
+      "text": "Ezetimibe-Simvastatin 10/20 (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,545585611000036105/ezetimibe-simvastatin-10-20-alphapharm"
+    },
+    {
+      "text": "Ezetimibe-Simvastatin 10/40 (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,533523701000036101/ezetimibe-simvastatin-10-40-alphapharm"
+    },
+    {
+      "text": "Ezetimibe-Simvastatin 10/80 (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,871328071000036104/ezetimibe-simvastatin-10-80-alphapharm"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/10 (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1423841000168109/ezetimibe-atorvastatin-10-10-gh"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/10 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703441000036108/ezetimibe-atorvastatin-10-10-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/20 (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1421941000168104/ezetimibe-atorvastatin-10-20-gh"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/20 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703501000036109/ezetimibe-atorvastatin-10-20-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/40 (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1421831000168104/ezetimibe-atorvastatin-10-40-gh"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/40 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703491000036102/ezetimibe-atorvastatin-10-40-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/80 (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1422011000168107/ezetimibe-atorvastatin-10-80-gh"
+    },
+    {
+      "text": "Ezetimibe/Atorvastatin 10/80 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703481000036104/ezetimibe-atorvastatin-10-80-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/10 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1168991000168109/ezetimibe-simvastatin-10-10-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/10 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1755071000168104/ezetimibe-simvastatin-10-10-wgr"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/20 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1169071000168104/ezetimibe-simvastatin-10-20-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/20 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1754841000168102/ezetimibe-simvastatin-10-20-wgr"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/40 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1169151000168107/ezetimibe-simvastatin-10-40-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/40 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1754951000168108/ezetimibe-simvastatin-10-40-wgr"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/80 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1169231000168106/ezetimibe-simvastatin-10-80-sandoz"
+    },
+    {
+      "text": "Ezetimibe/Simvastatin 10/80 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1754761000168107/ezetimibe-simvastatin-10-80-wgr"
+    },
+    {
+      "text": "Ezetorin 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1435591000168102/ezetorin-10-10"
+    },
+    {
+      "text": "Ezetorin 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1434061000168101/ezetorin-10-20"
+    },
+    {
+      "text": "Ezetorin 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1436141000168108/ezetorin-10-40"
+    },
+    {
+      "text": "Ezetorin 10/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1434181000168106/ezetorin-10-80"
+    },
+    {
+      "text": "Ezetrol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3589011000036101/ezetrol"
+    },
+    {
+      "text": "Ezevyt 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1591621000168100/ezevyt-10-10"
+    },
+    {
+      "text": "Ezevyt 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590701000168105/ezevyt-10-20"
+    },
+    {
+      "text": "Ezevyt 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590411000168103/ezevyt-10-40"
+    },
+    {
+      "text": "Ezevyt 10/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1591781000168106/ezevyt-10-80"
+    },
+    {
+      "text": "Ezovir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85254011000036103/ezovir"
+    },
+    {
+      "text": "Ezovir Cold Sore Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,775141000168107/ezovir-cold-sore-relief"
+    },
+    {
+      "text": "Econazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22424/econazole"
+    },
+    {
+      "text": "Eculizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20869/eculizumab"
+    },
+    {
+      "text": "Edaravone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27132/edaravone"
+    },
+    {
+      "text": "Edetic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22426/edetic-acid"
+    },
+    {
+      "text": "Edetic acid + ascorbic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23281/edetic-acid-+-ascorbic-acid"
+    },
+    {
+      "text": "Efanesoctocog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50802/efanesoctocog-alfa"
+    },
+    {
+      "text": "Efavirenz",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20874/efavirenz"
+    },
+    {
+      "text": "Efgartigimod alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50506/efgartigimod-alfa"
+    },
+    {
+      "text": "Eflornithine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20875/eflornithine"
+    },
+    {
+      "text": "efmoroctocog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24036/efmoroctocog-alfa"
+    },
+    {
+      "text": "eftrenonacog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20878/eftrenonacog-alfa"
+    },
+    {
+      "text": "Elafibranor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50515/elafibranor"
+    },
+    {
+      "text": "Elasomeran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27021/elasomeran"
+    },
+    {
+      "text": "Elasomeran + davesomeran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27105/elasomeran-+-davesomeran"
+    },
+    {
+      "text": "Eletriptan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20881/eletriptan"
+    },
+    {
+      "text": "Elexacaftor + tezacaftor + ivacaftor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26698/elexacaftor-+-tezacaftor-+-ivacaftor"
+    },
+    {
+      "text": "Elinzanetant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50651/elinzanetant"
+    },
+    {
+      "text": "elosulfase alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23681/elosulfase-alfa"
+    },
+    {
+      "text": "elotuzumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24055/elotuzumab"
+    },
+    {
+      "text": "Elranatamab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50468/elranatamab"
+    },
+    {
+      "text": "eltrombopag",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20882/eltrombopag"
+    },
+    {
+      "text": "emicizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24238/emicizumab"
+    },
+    {
+      "text": "empagliflozin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22432/empagliflozin"
+    },
+    {
+      "text": "empagliflozin + metformin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23701/empagliflozin-+-metformin"
+    },
+    {
+      "text": "emtricitabine + rilpivirine + tenofovir alafenamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23992/emtricitabine-+-rilpivirine-+-tenofovir-alafenamide"
+    },
+    {
+      "text": "emtricitabine + tenofovir alafenamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23955/emtricitabine-+-tenofovir-alafenamide"
+    },
+    {
+      "text": "enalapril",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20885/enalapril"
+    },
+    {
+      "text": "enalapril + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23282/enalapril-+-hydrochlorothiazide"
+    },
+    {
+      "text": "encorafenib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24470/encorafenib"
+    },
+    {
+      "text": "enfortumab vedotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27133/enfortumab-vedotin"
+    },
+    {
+      "text": "enoxaparin sodium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22434/enoxaparin-sodium"
+    },
+    {
+      "text": "entacapone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20995/entacapone"
+    },
+    {
+      "text": "entecavir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20996/entecavir"
+    },
+    {
+      "text": "entrectinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26734/entrectinib"
+    },
+    {
+      "text": "Enzalutamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22436/enzalutamide"
+    },
+    {
+      "text": "Epcoritamab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50555/epcoritamab"
+    },
+    {
+      "text": "Ephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20997/ephedrine"
+    },
+    {
+      "text": "epirubicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20998/epirubicin"
+    },
+    {
+      "text": "eplerenone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20999/eplerenone"
+    },
+    {
+      "text": "epoetin alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22439/epoetin-alfa"
+    },
+    {
+      "text": "epoetin beta",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22440/epoetin-beta"
+    },
+    {
+      "text": "epoetin lambda",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22441/epoetin-lambda"
+    },
+    {
+      "text": "epoprostenol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21004/epoprostenol"
+    },
+    {
+      "text": "eprosartan + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23283/eprosartan-+-hydrochlorothiazide"
+    },
+    {
+      "text": "eptacog alfa (activated)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21009/eptacog-alfa-activated"
+    },
+    {
+      "text": "eptifibatide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21018/eptifibatide"
+    },
+    {
+      "text": "Eptinezumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26998/eptinezumab"
+    },
+    {
+      "text": "erenumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24442/erenumab"
+    },
+    {
+      "text": "ergometrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21028/ergometrine"
+    },
+    {
+      "text": "eribulin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21035/eribulin"
+    },
+    {
+      "text": "erlotinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21036/erlotinib"
+    },
+    {
+      "text": "ertapenem",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21044/ertapenem"
+    },
+    {
+      "text": "erythromycin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21026/erythromycin"
+    },
+    {
+      "text": "erythromycin ethylsuccinate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22447/erythromycin-ethylsuccinate"
+    },
+    {
+      "text": "escitalopram",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21046/escitalopram"
+    },
+    {
+      "text": "Esketamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26852/esketamine"
+    },
+    {
+      "text": "esmolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21049/esmolol"
+    },
+    {
+      "text": "esomeprazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21052/esomeprazole"
+    },
+    {
+      "text": "estetrol + drospirenone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27106/estetrol-+-drospirenone"
+    },
+    {
+      "text": "Estradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21032/estradiol"
+    },
+    {
+      "text": "Estradiol + dienogest",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23270/estradiol-+-dienogest"
+    },
+    {
+      "text": "Estradiol + drospirenone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23385/estradiol-+-drospirenone"
+    },
+    {
+      "text": "Estradiol + dydrogesterone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23386/estradiol-+-dydrogesterone"
+    },
+    {
+      "text": "Estradiol + norethisterone acetate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23382/estradiol-+-norethisterone-acetate"
+    },
+    {
+      "text": "Estradiol + progesterone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27142/estradiol-+-progesterone"
+    },
+    {
+      "text": "Estriol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21031/estriol"
+    },
+    {
+      "text": "etanercept",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22450/etanercept"
+    },
+    {
+      "text": "ethambutol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21057/ethambutol"
+    },
+    {
+      "text": "ethanol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22452/ethanol"
+    },
+    {
+      "text": "Ethanol + glycerol + lidocaine + menthol + salicylic acid + tannic acid + thymol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50234/ethanol-+-glycerol-+-lidocaine-+-menthol-+-salicylic-acid-+-tannic-acid-+-thymol"
+    },
+    {
+      "text": "Ethanol + lidocaine + salicylic acid + tannic acid + rheum palmatum",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50235/ethanol-+-lidocaine-+-salicylic-acid-+-tannic-acid-+-rheum-palmatum"
+    },
+    {
+      "text": "ethanol + phenol + benzocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23477/ethanol-+-phenol-+-benzocaine"
+    },
+    {
+      "text": "ethanol + propan-1-ol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24371/ethanol-+-propan-1-ol"
+    },
+    {
+      "text": "Ethosuximide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21063/ethosuximide"
+    },
+    {
+      "text": "etonogestrel + ethinylestradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23291/etonogestrel-+-ethinylestradiol"
+    },
+    {
+      "text": "etoposide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21081/etoposide"
+    },
+    {
+      "text": "etoricoxib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21084/etoricoxib"
+    },
+    {
+      "text": "Etrasimod",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50058/etrasimod"
+    },
+    {
+      "text": "etravirine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21086/etravirine"
+    },
+    {
+      "text": "eucalyptus oil + lemon tea tree oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23295/eucalyptus-oil-+-lemon-tea-tree-oil"
+    },
+    {
+      "text": "eucalyptus oil + peppermint oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24832/eucalyptus-oil-+-peppermint-oil"
+    },
+    {
+      "text": "European house dust mite extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24266/european-house-dust-mite-extract"
+    },
+    {
+      "text": "evening primrose oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24977/evening-primrose-oil"
+    },
+    {
+      "text": "everolimus",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21088/everolimus"
+    },
+    {
+      "text": "evolocumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23857/evolocumab"
+    },
+    {
+      "text": "exametazime",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21090/exametazime"
+    },
+    {
+      "text": "exemestane",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21092/exemestane"
+    },
+    {
+      "text": "ezetimibe",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21094/ezetimibe"
+    },
+    {
+      "text": "Ezetimibe + atorvastatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23602/ezetimibe-+-atorvastatin"
+    },
+    {
+      "text": "ezetimibe + simvastatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23297/ezetimibe-+-simvastatin"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"E\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"E\"\n\n## Brand names\n\n- E-Mycin\n\n- E45\n\n- Ear Care Antiseptic (Natural Look)\n\n- Ear Clear for Ear Ache\n\n- Ear Clear for Ear Wax Removal\n\n- Ear Clear for Swimmers\n\n- Early Bird\n\n- Ebglyss\n\n- Ebixa\n\n- Echinacea, Garlic, Zinc and C (Cenovis)\n\n- EDP\n\n- Edronax\n\n- EDTA plus Sodium Ascorbate (Biological Therapies)\n\n- Edurant\n\n- Efavirenz (Alphapharm)\n\n- Eferas\n\n- Efexor-XR\n\n- Effervescent Electrolyte (Apohealth)\n\n- Efudix\n\n- Egocort\n\n- Egoderm\n\n- Egopsoryl TA\n\n- Egozite Baby\n\n- Egozite Cradle Cap\n\n- Eikance\n\n- Ekterly\n\n- Eladynos\n\n- Elahere\n\n- Elapex\n\n- Elaprase\n\n- Elapril\n\n- Elaxine SR\n\n- Eldepryl\n\n- Eldisine\n\n- Eleanor 150/30 ED\n\n- Elelyso\n\n- Eletx\n\n- Eleuphrat\n\n- Eleva\n\n- Elevit\n\n- Elfabrio\n\n- Elidel\n\n- Eligard 1 Month\n\n- Eligard 3 Month\n\n- Eligard 4 Month\n\n- Eligard 6 Month\n\n- Eliquis\n\n- EllaOne\n\n- Elmiron\n\n- Elocon\n\n- Eloctate\n\n- Elonva\n\n- Elovax\n\n- Elovax One Dose\n\n- Elrexfio\n\n- Eltrombopag (Dr. Reddy's)\n\n- Eltrombopag (RZ)\n\n- Eltroxin\n\n- Elucirem\n\n- Emeprazol\n\n- Emexlon\n\n- Emgality\n\n- Emla 5%\n\n- Emla 5% with Occlusive Dressings\n\n- Empaveli\n\n- Empliciti\n\n- Empovir\n\n- Enablex\n\n- Enahexal\n\n- Enalapril (Noumed)\n\n- Enalapril (WGR)\n\n- Enalapril Maleate (Apo)\n\n- Enalapril Maleate (GH)\n\n- Enalapril Maleate (Sandoz)\n\n- Enalapril/HCT 20 mg/6 mg (Noumed)\n\n- Enalapril/HCT 20 mg/6 mg (Sandoz)\n\n- Enbrel\n\n- Enbrel Auto-Injector\n\n- Endep\n\n- Endometrin\n\n- Endone\n\n- Endoxan\n\n- Enerzair Breezhaler 114/46/136\n\n- Enerzair Breezhaler 114/46/68\n\n- Engerix-B Adult\n\n- Engerix-B Paediatric\n\n- Enhertu\n\n- Enidin\n\n- Enlafax XR\n\n- Enliva\n\n- Eno\n\n- Enoxaject\n\n- Enoxapo\n\n- Enrylaze\n\n- Enspryng\n\n- Enstilar\n\n- Entac\n\n- Entecavir (Amneal)\n\n- Entecavir (GH)\n\n- Entecavir (Mylan)\n\n- Entecavir (RBX)\n\n- Entecavir (Sandoz)\n\n- Entecavir (Sun)\n\n- Entecavir (Viatris)\n\n- Entecavir (WGR)\n\n- Entocort\n\n- Entonox 50% / 50%\n\n- Entresto 24/26\n\n- Entresto 49/51\n\n- Entresto 97/103\n\n- Entrip\n\n- Entyvio\n\n- Enzacip\n\n- Enzaline\n\n- Enzalutamide (Cip)\n\n- Ephedrine (Aguettant)\n\n- Ephedrine (Hameln)\n\n- Ephedrine (InterPharma)\n\n- Ephedrine (Lupin)\n\n- Ephedrine (Wockhardt)\n\n- Ephedrine Hydrochloride (SXP)\n\n- Ephedrine Sulfate (DBL)\n\n- Epiduo 0.1% / 2.5%\n\n- Epiduo Forte\n\n- Epidyolex\n\n- Epilim\n\n- Epilim EC\n\n- Epilim IV\n\n- Epilim Liquid\n\n- Epilim Syrup\n\n- Epipen Auto-Injector\n\n- Epipen Jr Auto-Injector\n\n- Epiramax\n\n- Epirubicin (Accord)\n\n- Epkinly\n\n- Eplerenone (Apo)\n\n- Eplerenone (Apotex)\n\n- Eprex\n\n- Eptifibatide (Medsurge)\n\n- Epyztek\n\n- Eraxis\n\n- Erbitux\n\n- Erelzi\n\n- Erelzi Auto-Injector\n\n- Ergometrine Maleate (DBL)\n\n- Eribulin (Dr. Reddy's)\n\n- Erivedge\n\n- Erlotinib (Apotex)\n\n- Erlotinib (ARX)\n\n- Erlotinib (Cipla)\n\n- Erlotinib (Sandoz)\n\n- Erlyand\n\n- Ertapenem (Juno)\n\n- Ertapenem (Kabi)\n\n- Erythrocin IV\n\n- Erythromycin (HHH)\n\n- Erythromycin (Mayne Pharma)\n\n- Erythromycin (Panpharma)\n\n- Escicor\n\n- Escit\n\n- Escitalopram (Apo)\n\n- Escitalopram (ARX)\n\n- Escitalopram (B&B)\n\n- Escitalopram (Blooms)\n\n- Escitalopram (BTC)\n\n- Escitalopram (GH)\n\n- Escitalopram (Ipca)\n\n- Escitalopram (LAPL)\n\n- Escitalopram (Noumed)\n\n- Escitalopram (Sandoz)\n\n- Escitalopram (TIH)\n\n- Escitalopram (WGR)\n\n- Esital\n\n- Eskazole\n\n- Esmep\n\n- Esmolol (Juno)\n\n- Esmolol (Noridem)\n\n- Esmolol Hydrochloride (Medsurge)\n\n- Esomeprazole (Act)\n\n- Esomeprazole (Actavis)\n\n- Esomeprazole (AN)\n\n- Esomeprazole (Apo)\n\n- Esomeprazole (Generic Health)\n\n- Esomeprazole (GH)\n\n- Esomeprazole (Mylan)\n\n- Esomeprazole (RBX)\n\n- Esomeprazole (Sandoz)\n\n- Esomeprazole (Sun)\n\n- Esomeprazole (Viatris)\n\n- Esomeprazole (WGR)\n\n- Esomeprazole Heartburn Relief (Apohealth)\n\n- Esomeprazole Heartburn Relief (Blooms The Chemist)\n\n- Esomeprazole Hp7 (Sandoz)\n\n- Esopran\n\n- Esopreze\n\n- Espler\n\n- Estalis Continuous 50/140\n\n- Estalis Continuous 50/250\n\n- Estelle-35 ED\n\n- Estopram\n\n- Estraderm MX\n\n- Estro-Pess\n\n- Estrofem\n\n- Estrogel\n\n- Estrogel Pro\n\n- Ethambutol (Lupin)\n\n- Etopophos\n\n- Etoposide (Ebewe)\n\n- Eumovate\n\n- Eurax\n\n- Eutroxsig\n\n- Evelyn 150/30 ED\n\n- Evening Primrose Oil (Blackmores)\n\n- Evening Primrose Oil (Faulding)\n\n- Evening Primrose Oil (Henry Blooms)\n\n- Evenity\n\n- Everocan\n\n- Everolimus (Pharmacor)\n\n- Everolimus (Teva)\n\n- Everyday Face (Hamilton)\n\n- Evista\n\n- Evocair MDI 125/25\n\n- Evocair MDI 250/25\n\n- Evoltra\n\n- Evotaz\n\n- Evrysdi\n\n- Exarane\n\n- Exarane Forte\n\n- Exelon\n\n- Exelon-10\n\n- Exelon-15\n\n- Exelon-5\n\n- Exemestane (Apo)\n\n- Exemestane (Apotex)\n\n- Exemestane (GH)\n\n- Exemestane (Intas)\n\n- Exemestane (Pharmacor)\n\n- Exemestane (Sandoz)\n\n- Exemestane (WGR)\n\n- Exforge 10/160\n\n- Exforge 10/320\n\n- Exforge 5/160\n\n- Exforge 5/320\n\n- Exforge 5/80\n\n- Exforge HCT 10/160/12.5\n\n- Exforge HCT 10/160/25\n\n- Exforge HCT 10/320/25\n\n- Exforge HCT 5/160/12.5\n\n- Exforge HCT 5/160/25\n\n- Extine\n\n- Extraneal 7.5%\n\n- Eydenzelt\n\n- Eye Plus (A-Won)\n\n- Eyezep\n\n- Eylea\n\n- Ezalo Composite Pack\n\n- Eze Allergy\n\n- Ezemichol\n\n- Ezetast 10/10\n\n- Ezetast 10/20\n\n- Ezetast 10/40\n\n- Ezetast 10/80\n\n- Ezetimibe (AKM)\n\n- Ezetimibe (Apo)\n\n- Ezetimibe (ARX)\n\n- Ezetimibe (Blooms The Chemist)\n\n- Ezetimibe (BTC)\n\n- Ezetimibe (GH)\n\n- Ezetimibe (LAPL)\n\n- Ezetimibe (MA)\n\n- Ezetimibe (MC)\n\n- Ezetimibe (ME)\n\n- Ezetimibe (MH)\n\n- Ezetimibe (Mylan)\n\n- Ezetimibe (Pharmacor)\n\n- Ezetimibe (Sandoz)\n\n- Ezetimibe (Viatris)\n\n- Ezetimibe (WGR)\n\n- Ezetimibe Rosuvastatin Composite Pack (Pharmacor)\n\n- Ezetimibe Rosuvastatin Composite Pack (Sandoz)\n\n- Ezetimibe Simvastatin 10/10 (AKM)\n\n- Ezetimibe Simvastatin 10/10 (Pharmacor)\n\n- Ezetimibe Simvastatin 10/20 (AKM)\n\n- Ezetimibe Simvastatin 10/20 (Pharmacor)\n\n- Ezetimibe Simvastatin 10/40 (AKM)\n\n- Ezetimibe Simvastatin 10/40 (Pharmacor)\n\n- Ezetimibe Simvastatin 10/80 (AKM)\n\n- Ezetimibe Simvastatin 10/80 (Pharmacor)\n\n- Ezetimibe-Simvastatin 10/10 (Alphapharm)\n\n- Ezetimibe-Simvastatin 10/20 (Alphapharm)\n\n- Ezetimibe-Simvastatin 10/40 (Alphapharm)\n\n- Ezetimibe-Simvastatin 10/80 (Alphapharm)\n\n- Ezetimibe/Atorvastatin 10/10 (GH)\n\n- Ezetimibe/Atorvastatin 10/10 (Sandoz)\n\n- Ezetimibe/Atorvastatin 10/20 (GH)\n\n- Ezetimibe/Atorvastatin 10/20 (Sandoz)\n\n- Ezetimibe/Atorvastatin 10/40 (GH)\n\n- Ezetimibe/Atorvastatin 10/40 (Sandoz)\n\n- Ezetimibe/Atorvastatin 10/80 (GH)\n\n- Ezetimibe/Atorvastatin 10/80 (Sandoz)\n\n- Ezetimibe/Simvastatin 10/10 (Sandoz)\n\n- Ezetimibe/Simvastatin 10/10 (WGR)\n\n- Ezetimibe/Simvastatin 10/20 (Sandoz)\n\n- Ezetimibe/Simvastatin 10/20 (WGR)\n\n- Ezetimibe/Simvastatin 10/40 (Sandoz)\n\n- Ezetimibe/Simvastatin 10/40 (WGR)\n\n- Ezetimibe/Simvastatin 10/80 (Sandoz)\n\n- Ezetimibe/Simvastatin 10/80 (WGR)\n\n- Ezetorin 10/10\n\n- Ezetorin 10/20\n\n- Ezetorin 10/40\n\n- Ezetorin 10/80\n\n- Ezetrol\n\n- Ezevyt 10/10\n\n- Ezevyt 10/20\n\n- Ezevyt 10/40\n\n- Ezevyt 10/80\n\n- Ezovir\n\n- Ezovir Cold Sore Relief\n\nPREV 1 2 3 4 5 6 7 NEXT\n\n## Active ingredients\n\n- Econazole\n\n- Eculizumab\n\n- Edaravone\n\n- Edetic acid\n\n- Edetic acid +\n\n- ascorbic acid\n\n- Efanesoctocog alfa\n\n- Efavirenz\n\n- Efgartigimod alfa\n\n- Eflornithine\n\n- efmoroctocog alfa\n\n- eftrenonacog alfa\n\n- Elafibranor\n\n- Elasomeran\n\n- Elasomeran +\n\n- davesomeran\n\n- Eletriptan\n\n- Elexacaftor +\n\n- tezacaftor +\n\n- ivacaftor\n\n- Elinzanetant\n\n- elosulfase alfa\n\n- elotuzumab\n\n- Elranatamab\n\n- eltrombopag\n\n- emicizumab\n\n- empagliflozin\n\n- empagliflozin +\n\n- metformin\n\n- emtricitabine +\n\n- rilpivirine +\n\n- tenofovir alafenamide\n\n- enalapril\n\n- enalapril +\n\n- hydrochlorothiazide\n\n- encorafenib\n\n- enfortumab vedotin\n\n- enoxaparin sodium\n\n- entacapone\n\n- entecavir\n\n- entrectinib\n\n- Enzalutamide\n\n- Epcoritamab\n\n- Ephedrine\n\n- epirubicin\n\n- eplerenone\n\n- epoetin alfa\n\n- epoetin beta\n\n- epoetin lambda\n\n- epoprostenol\n\n- eprosartan +\n\n- eptacog alfa (activated)\n\n- eptifibatide\n\n- Eptinezumab\n\n- erenumab\n\n- ergometrine\n\n- eribulin\n\n- erlotinib\n\n- ertapenem\n\n- erythromycin\n\n- erythromycin ethylsuccinate\n\n- escitalopram\n\n- Esketamine\n\n- esmolol\n\n- esomeprazole\n\n- estetrol +\n\n- drospirenone\n\n- Estradiol\n\n- Estradiol +\n\n- dienogest\n\n- dydrogesterone\n\n- norethisterone acetate\n\n- progesterone\n\n- Estriol\n\n- etanercept\n\n- ethambutol\n\n- ethanol\n\n- Ethanol +\n\n- glycerol +\n\n- lidocaine +\n\n- menthol +\n\n- salicylic acid +\n\n- tannic acid +\n\n- thymol\n\n- rheum palmatum\n\n- phenol +\n\n- benzocaine\n\n- propan-1-ol\n\n- Ethosuximide\n\n- etonogestrel +\n\n- ethinylestradiol\n\n- etoposide\n\n- etoricoxib\n\n- Etrasimod\n\n- etravirine\n\n- eucalyptus oil +\n\n- lemon tea tree oil\n\n- peppermint oil\n\n- European house dust mite extract\n\n- evening primrose oil\n\n- everolimus\n\n- evolocumab\n\n- exametazime\n\n- exemestane\n\n- ezetimibe\n\n- Ezetimibe +\n\n- atorvastatin\n\n- simvastatin\n\nPREV 1 2 3 4 5 6 7 8 9 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- E-Mycin: https://www.healthdirect.gov.au/medicines/brand/amt,4167011000036102/e-mycin\n\n- E45: https://www.healthdirect.gov.au/medicines/brand/amt,1432091000168100/e45\n\n- Ear Care Antiseptic (Natural Look): https://www.healthdirect.gov.au/medicines/brand/amt,60721000168104/ear-care-antiseptic-natural-look\n\n- Ear Clear for Ear Ache: https://www.healthdirect.gov.au/medicines/brand/amt,53147011000036104/ear-clear-for-ear-ache\n\n- Ear Clear for Ear Wax Removal: https://www.healthdirect.gov.au/medicines/brand/amt,3581011000036100/ear-clear-for-ear-wax-removal\n\n- Ear Clear for Swimmers: https://www.healthdirect.gov.au/medicines/brand/amt,65173011000036102/ear-clear-for-swimmers\n\n- Early Bird: https://www.healthdirect.gov.au/medicines/brand/amt,776361000168102/early-bird\n\n- Ebglyss: https://www.healthdirect.gov.au/medicines/brand/amt,1757801000168105/ebglyss\n\n- Ebixa: https://www.healthdirect.gov.au/medicines/brand/amt,19751000168102/ebixa\n\n- Echinacea, Garlic, Zinc and C (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1349481000168108/echinacea,-garlic,-zinc-and-c-cenovis\n\n- EDP: https://www.healthdirect.gov.au/medicines/brand/amt,1235141000168101/edp\n\n- Edronax: https://www.healthdirect.gov.au/medicines/brand/amt,3605011000036109/edronax\n\n- EDTA plus Sodium Ascorbate (Biological Therapies): https://www.healthdirect.gov.au/medicines/brand/amt,1084501000168105/edta-plus-sodium-ascorbate-biological-therapies\n\n- Edurant: https://www.healthdirect.gov.au/medicines/brand/amt,621000036107/edurant\n\n- Efavirenz (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,933586491000036106/efavirenz-alphapharm\n\n- Eferas: https://www.healthdirect.gov.au/medicines/brand/amt,1559671000168108/eferas\n\n- Efexor-XR: https://www.healthdirect.gov.au/medicines/brand/amt,45291000168107/efexor-xr\n\n- Effervescent Electrolyte (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1423971000168107/effervescent-electrolyte-apohealth\n\n- Efudix: https://www.healthdirect.gov.au/medicines/brand/amt,3732011000036104/efudix\n\n- Egocort: https://www.healthdirect.gov.au/medicines/brand/amt,3064011000036102/egocort\n\n- Egoderm: https://www.healthdirect.gov.au/medicines/brand/amt,4182011000036102/egoderm\n\n- Egopsoryl TA: https://www.healthdirect.gov.au/medicines/brand/amt,48031000168106/egopsoryl-ta\n\n- Egozite Baby: https://www.healthdirect.gov.au/medicines/brand/amt,80120011000036104/egozite-baby\n\n- Egozite Cradle Cap: https://www.healthdirect.gov.au/medicines/brand/amt,65101011000036107/egozite-cradle-cap\n\n- Eikance: https://www.healthdirect.gov.au/medicines/brand/amt,1574941000168107/eikance\n\n- Ekterly: https://www.healthdirect.gov.au/medicines/brand/amt,933624721000036107/ekterly\n\n- Eladynos: https://www.healthdirect.gov.au/medicines/brand/amt,100380301000036103/eladynos\n\n- Elahere: https://www.healthdirect.gov.au/medicines/brand/amt,933652471000036109/elahere\n\n- Elapex: https://www.healthdirect.gov.au/medicines/brand/amt,933650631000036105/elapex\n\n- Elaprase: https://www.healthdirect.gov.au/medicines/brand/amt,48301000036109/elaprase\n\n- Elapril: https://www.healthdirect.gov.au/medicines/brand/amt,39617011000036100/elapril\n\n- Elaxine SR: https://www.healthdirect.gov.au/medicines/brand/amt,8331000168101/elaxine-sr\n\n- Eldepryl: https://www.healthdirect.gov.au/medicines/brand/amt,4381011000036101/eldepryl\n\n- Eldisine: https://www.healthdirect.gov.au/medicines/brand/amt,775181000168102/eldisine\n\n- Eleanor 150/30 ED: https://www.healthdirect.gov.au/medicines/brand/amt,682301000168100/eleanor-150-30-ed\n\n- Elelyso: https://www.healthdirect.gov.au/medicines/brand/amt,737341000168101/elelyso\n\n- Eletx: https://www.healthdirect.gov.au/medicines/brand/amt,240957261000036105/eletx\n\n- Eleuphrat: https://www.healthdirect.gov.au/medicines/brand/amt,3233011000036101/eleuphrat\n\n- Eleva: https://www.healthdirect.gov.au/medicines/brand/amt,3268011000036101/eleva\n\n- Elevit: https://www.healthdirect.gov.au/medicines/brand/amt,61571000168101/elevit\n\n- Elfabrio: https://www.healthdirect.gov.au/medicines/brand/amt,933506031000036103/elfabrio\n\n- Elidel: https://www.healthdirect.gov.au/medicines/brand/amt,4387011000036109/elidel\n\n- Eligard 1 Month: https://www.healthdirect.gov.au/medicines/brand/amt,55961000168105/eligard-1-month\n\n- Eligard 3 Month: https://www.healthdirect.gov.au/medicines/brand/amt,56351000168101/eligard-3-month\n\n- Eligard 4 Month: https://www.healthdirect.gov.au/medicines/brand/amt,57451000168105/eligard-4-month\n\n- Eligard 6 Month: https://www.healthdirect.gov.au/medicines/brand/amt,58341000168102/eligard-6-month\n\n- Eliquis: https://www.healthdirect.gov.au/medicines/brand/amt,933234191000036106/eliquis\n\n- EllaOne: https://www.healthdirect.gov.au/medicines/brand/amt,837981000168105/ellaone\n\n- Elmiron: https://www.healthdirect.gov.au/medicines/brand/amt,39734011000036107/elmiron\n\n- Elocon: https://www.healthdirect.gov.au/medicines/brand/amt,4301011000036100/elocon\n\n- Eloctate: https://www.healthdirect.gov.au/medicines/brand/amt,886371000168101/eloctate\n\n- Elonva: https://www.healthdirect.gov.au/medicines/brand/amt,924354011000036108/elonva\n\n- Elovax: https://www.healthdirect.gov.au/medicines/brand/amt,1463091000168102/elovax\n\n- Elovax One Dose: https://www.healthdirect.gov.au/medicines/brand/amt,773861000168102/elovax-one-dose\n\n- Elrexfio: https://www.healthdirect.gov.au/medicines/brand/amt,815279021000036108/elrexfio\n\n- Eltrombopag (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,933635891000036100/eltrombopag-dr.-reddy's\n\n- Eltrombopag (RZ): https://www.healthdirect.gov.au/medicines/brand/amt,933635901000036104/eltrombopag-rz\n\n- Eltroxin: https://www.healthdirect.gov.au/medicines/brand/amt,739521000168108/eltroxin\n\n- Elucirem: https://www.healthdirect.gov.au/medicines/brand/amt,505500581000036106/elucirem\n\n- Emeprazol: https://www.healthdirect.gov.au/medicines/brand/amt,1150081000168100/emeprazol\n\n- Emexlon: https://www.healthdirect.gov.au/medicines/brand/amt,858031000168107/emexlon\n\n- Emgality: https://www.healthdirect.gov.au/medicines/brand/amt,1395721000168106/emgality\n\n- Emla 5%: https://www.healthdirect.gov.au/medicines/brand/amt,9941000168103/emla-5\n\n- Emla 5% with Occlusive Dressings: https://www.healthdirect.gov.au/medicines/brand/amt,1660711000168100/emla-5-with-occlusive-dressings\n\n- Empaveli: https://www.healthdirect.gov.au/medicines/brand/amt,1634391000168109/empaveli\n\n- Empliciti: https://www.healthdirect.gov.au/medicines/brand/amt,917111000168103/empliciti\n\n- Empovir: https://www.healthdirect.gov.au/medicines/brand/amt,1218311000168100/empovir\n\n- Enablex: https://www.healthdirect.gov.au/medicines/brand/amt,39770011000036104/enablex\n\n- Enahexal: https://www.healthdirect.gov.au/medicines/brand/amt,4073011000036109/enahexal\n\n- Enalapril (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1410001000168102/enalapril-noumed\n\n- Enalapril (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1765181000168106/enalapril-wgr\n\n- Enalapril Maleate (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,154461000036100/enalapril-maleate-apo\n\n- Enalapril Maleate (GH): https://www.healthdirect.gov.au/medicines/brand/amt,927800011000036101/enalapril-maleate-gh\n\n- Enalapril Maleate (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,920933011000036100/enalapril-maleate-sandoz\n\n- Enalapril/HCT 20 mg/6 mg (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1408601000168109/enalapril-hct-20-mg-6-mg-noumed\n\n- Enalapril/HCT 20 mg/6 mg (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,27071000168106/enalapril-hct-20-mg-6-mg-sandoz\n\n- Enbrel: https://www.healthdirect.gov.au/medicines/brand/amt,25701000168107/enbrel\n\n- Enbrel Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,54491000168107/enbrel-auto-injector\n\n- Endep: https://www.healthdirect.gov.au/medicines/brand/amt,4195011000036109/endep\n\n- Endometrin: https://www.healthdirect.gov.au/medicines/brand/amt,137271000036101/endometrin\n\n- Endone: https://www.healthdirect.gov.au/medicines/brand/amt,3580011000036107/endone\n\n- Endoxan: https://www.healthdirect.gov.au/medicines/brand/amt,3255011000036101/endoxan\n\n- Enerzair Breezhaler 114/46/136: https://www.healthdirect.gov.au/medicines/brand/amt,1534201000168101/enerzair-breezhaler-114-46-136\n\n- Enerzair Breezhaler 114/46/68: https://www.healthdirect.gov.au/medicines/brand/amt,1533511000168103/enerzair-breezhaler-114-46-68\n\n- Engerix-B Adult: https://www.healthdirect.gov.au/medicines/brand/amt,33491000168108/engerix-b-adult\n\n- Engerix-B Paediatric: https://www.healthdirect.gov.au/medicines/brand/amt,31101000168108/engerix-b-paediatric\n\n- Enhertu: https://www.healthdirect.gov.au/medicines/brand/amt,1598581000168106/enhertu\n\n- Enidin: https://www.healthdirect.gov.au/medicines/brand/amt,3820011000036103/enidin\n\n- Enlafax XR: https://www.healthdirect.gov.au/medicines/brand/amt,43211000168104/enlafax-xr\n\n- Enliva: https://www.healthdirect.gov.au/medicines/brand/amt,1403981000168102/enliva\n\n- Eno: https://www.healthdirect.gov.au/medicines/brand/amt,65094011000036101/eno\n\n- Enoxaject: https://www.healthdirect.gov.au/medicines/brand/amt,883394961000036101/enoxaject\n\n- Enoxapo: https://www.healthdirect.gov.au/medicines/brand/amt,933703841000036105/enoxapo\n\n- Enrylaze: https://www.healthdirect.gov.au/medicines/brand/amt,729001591000036102/enrylaze\n\n- Enspryng: https://www.healthdirect.gov.au/medicines/brand/amt,1514541000168107/enspryng\n\n- Enstilar: https://www.healthdirect.gov.au/medicines/brand/amt,894651000168105/enstilar\n\n- Entac: https://www.healthdirect.gov.au/medicines/brand/amt,894271000168103/entac\n\n- Entecavir (Amneal): https://www.healthdirect.gov.au/medicines/brand/amt,851331000168104/entecavir-amneal\n\n- Entecavir (GH): https://www.healthdirect.gov.au/medicines/brand/amt,894481000168101/entecavir-gh\n\n- Entecavir (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,851431000168105/entecavir-mylan\n\n- Entecavir (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,848511000168108/entecavir-rbx\n\n- Entecavir (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,851901000168105/entecavir-sandoz\n\n- Entecavir (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,933600101000036104/entecavir-sun\n\n- Entecavir (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1657971000168102/entecavir-viatris\n\n- Entecavir (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1771931000168102/entecavir-wgr\n\n- Entocort: https://www.healthdirect.gov.au/medicines/brand/amt,39744011000036108/entocort\n\n- Entonox 50% / 50%: https://www.healthdirect.gov.au/medicines/brand/amt,23521000168107/entonox-50---50\n\n- Entresto 24/26: https://www.healthdirect.gov.au/medicines/brand/amt,810021000168101/entresto-24-26\n\n- Entresto 49/51: https://www.healthdirect.gov.au/medicines/brand/amt,809751000168104/entresto-49-51\n\n- Entresto 97/103: https://www.healthdirect.gov.au/medicines/brand/amt,805781000168109/entresto-97-103\n\n- Entrip: https://www.healthdirect.gov.au/medicines/brand/amt,814951000168102/entrip\n\n- Entyvio: https://www.healthdirect.gov.au/medicines/brand/amt,707781000168104/entyvio\n\n- Enzacip: https://www.healthdirect.gov.au/medicines/brand/amt,1753261000168104/enzacip\n\n- Enzaline: https://www.healthdirect.gov.au/medicines/brand/amt,1753181000168101/enzaline\n\n- Enzalutamide (Cip): https://www.healthdirect.gov.au/medicines/brand/amt,1753301000168107/enzalutamide-cip\n\n- Ephedrine (Aguettant): https://www.healthdirect.gov.au/medicines/brand/amt,1252591000168105/ephedrine-aguettant\n\n- Ephedrine (Hameln): https://www.healthdirect.gov.au/medicines/brand/amt,933506931000036102/ephedrine-hameln\n\n- Ephedrine (InterPharma): https://www.healthdirect.gov.au/medicines/brand/amt,933753771000036104/ephedrine-interpharma\n\n- Ephedrine (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,933650931000036101/ephedrine-lupin\n\n- Ephedrine (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1175601000168105/ephedrine-wockhardt\n\n- Ephedrine Hydrochloride (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1177191000168103/ephedrine-hydrochloride-sxp\n\n- Ephedrine Sulfate (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,35884011000036109/ephedrine-sulfate-dbl\n\n- Epiduo 0.1% / 2.5%: https://www.healthdirect.gov.au/medicines/brand/amt,33721000168102/epiduo-0.1---2.5\n\n- Epiduo Forte: https://www.healthdirect.gov.au/medicines/brand/amt,1022681000168102/epiduo-forte\n\n- Epidyolex: https://www.healthdirect.gov.au/medicines/brand/amt,1502761000168109/epidyolex\n\n- Epilim: https://www.healthdirect.gov.au/medicines/brand/amt,46431000168104/epilim\n\n- Epilim EC: https://www.healthdirect.gov.au/medicines/brand/amt,43831000168105/epilim-ec\n\n- Epilim IV: https://www.healthdirect.gov.au/medicines/brand/amt,61331000168109/epilim-iv\n\n- Epilim Liquid: https://www.healthdirect.gov.au/medicines/brand/amt,15891000168100/epilim-liquid\n\n- Epilim Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,49761000168108/epilim-syrup\n\n- Epipen Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,59781000168101/epipen-auto-injector\n\n- Epipen Jr Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,56121000168107/epipen-jr-auto-injector\n\n- Epiramax: https://www.healthdirect.gov.au/medicines/brand/amt,81973011000036100/epiramax\n\n- Epirubicin (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,893661000168105/epirubicin-accord\n\n- Epkinly: https://www.healthdirect.gov.au/medicines/brand/amt,531351141000036105/epkinly\n\n- Eplerenone (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1246791000168101/eplerenone-apo\n\n- Eplerenone (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1246751000168106/eplerenone-apotex\n\n- Eprex: https://www.healthdirect.gov.au/medicines/brand/amt,3309011000036103/eprex\n\n- Eptifibatide (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933754601000036102/eptifibatide-medsurge\n\n- Epyztek: https://www.healthdirect.gov.au/medicines/brand/amt,933507321000036101/epyztek\n\n- Eraxis: https://www.healthdirect.gov.au/medicines/brand/amt,82657011000036105/eraxis\n\n- Erbitux: https://www.healthdirect.gov.au/medicines/brand/amt,4257011000036109/erbitux\n\n- Erelzi: https://www.healthdirect.gov.au/medicines/brand/amt,1055931000168100/erelzi\n\n- Erelzi Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,1055811000168104/erelzi-auto-injector\n\n- Ergometrine Maleate (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,39748011000036101/ergometrine-maleate-dbl\n\n- Eribulin (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,933599471000036101/eribulin-dr.-reddy's\n\n- Erivedge: https://www.healthdirect.gov.au/medicines/brand/amt,143251000036102/erivedge\n\n- Erlotinib (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1540391000168106/erlotinib-apotex\n\n- Erlotinib (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1660771000168108/erlotinib-arx\n\n- Erlotinib (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1572081000168108/erlotinib-cipla\n\n- Erlotinib (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1533171000168102/erlotinib-sandoz\n\n- Erlyand: https://www.healthdirect.gov.au/medicines/brand/amt,1316471000168109/erlyand\n\n- Ertapenem (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1438601000168100/ertapenem-juno\n\n- Ertapenem (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1317211000168104/ertapenem-kabi\n\n- Erythrocin IV: https://www.healthdirect.gov.au/medicines/brand/amt,39061000168106/erythrocin-iv\n\n- Erythromycin (HHH): https://www.healthdirect.gov.au/medicines/brand/amt,933774781000036102/erythromycin-hhh\n\n- Erythromycin (Mayne Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,920073011000036106/erythromycin-mayne-pharma\n\n- Erythromycin (Panpharma): https://www.healthdirect.gov.au/medicines/brand/amt,1248501000168103/erythromycin-panpharma\n\n- Escicor: https://www.healthdirect.gov.au/medicines/brand/amt,929378011000036103/escicor\n\n- Escit: https://www.healthdirect.gov.au/medicines/brand/amt,1407121000168105/escit\n\n- Escitalopram (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,35351000168108/escitalopram-apo\n\n- Escitalopram (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933651611000036109/escitalopram-arx\n\n- Escitalopram (B&B): https://www.healthdirect.gov.au/medicines/brand/amt,1405541000168104/escitalopram-b&b\n\n- Escitalopram (Blooms): https://www.healthdirect.gov.au/medicines/brand/amt,1707201000168104/escitalopram-blooms\n\n- Escitalopram (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,1645191000168107/escitalopram-btc\n\n- Escitalopram (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1175611000168108/escitalopram-gh\n\n- Escitalopram (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,933651251000036106/escitalopram-ipca\n\n- Escitalopram (LAPL): https://www.healthdirect.gov.au/medicines/brand/amt,32241000036102/escitalopram-lapl\n\n- Escitalopram (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1165031000168104/escitalopram-noumed\n\n- Escitalopram (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1044661000168104/escitalopram-sandoz\n\n- Escitalopram (TIH): https://www.healthdirect.gov.au/medicines/brand/amt,1786921000168103/escitalopram-tih\n\n- Escitalopram (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933507051000036109/escitalopram-wgr\n\n- Esital: https://www.healthdirect.gov.au/medicines/brand/amt,1698951000168101/esital\n\n- Eskazole: https://www.healthdirect.gov.au/medicines/brand/amt,3706011000036108/eskazole\n\n- Esmep: https://www.healthdirect.gov.au/medicines/brand/amt,1150521000168105/esmep\n\n- Esmolol (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1653231000168100/esmolol-juno\n\n- Esmolol (Noridem): https://www.healthdirect.gov.au/medicines/brand/amt,1659331000168105/esmolol-noridem\n\n- Esmolol Hydrochloride (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1696381000168108/esmolol-hydrochloride-medsurge\n\n- Esomeprazole (Act): https://www.healthdirect.gov.au/medicines/brand/amt,731001000168105/esomeprazole-act\n\n- Esomeprazole (Actavis): https://www.healthdirect.gov.au/medicines/brand/amt,681201000168104/esomeprazole-actavis\n\n- Esomeprazole (AN): https://www.healthdirect.gov.au/medicines/brand/amt,704061000168101/esomeprazole-an\n\n- Esomeprazole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,998431000168104/esomeprazole-apo\n\n- Esomeprazole (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,1305561000168105/esomeprazole-generic-health\n\n- Esomeprazole (GH): https://www.healthdirect.gov.au/medicines/brand/amt,712381000168102/esomeprazole-gh\n\n- Esomeprazole (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1521461000168104/esomeprazole-mylan\n\n- Esomeprazole (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,652681000168108/esomeprazole-rbx\n\n- Esomeprazole (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,704101000168103/esomeprazole-sandoz\n\n- Esomeprazole (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,1304221000168104/esomeprazole-sun\n\n- Esomeprazole (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1657661000168102/esomeprazole-viatris\n\n- Esomeprazole (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1771721000168102/esomeprazole-wgr\n\n- Esomeprazole Heartburn Relief (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1160351000168101/esomeprazole-heartburn-relief-apohealth\n\n- Esomeprazole Heartburn Relief (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,1216411000168105/esomeprazole-heartburn-relief-blooms-the-chemist\n\n- Esomeprazole Hp7 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,769101000168100/esomeprazole-hp7-sandoz\n\n- Esopran: https://www.healthdirect.gov.au/medicines/brand/amt,1534411000168102/esopran\n\n- Esopreze: https://www.healthdirect.gov.au/medicines/brand/amt,1533901000168109/esopreze\n\n- Espler: https://www.healthdirect.gov.au/medicines/brand/amt,815961000168104/espler\n\n- Estalis Continuous 50/140: https://www.healthdirect.gov.au/medicines/brand/amt,54451000168102/estalis-continuous-50-140\n\n- Estalis Continuous 50/250: https://www.healthdirect.gov.au/medicines/brand/amt,15311000168102/estalis-continuous-50-250\n\n- Estelle-35 ED: https://www.healthdirect.gov.au/medicines/brand/amt,700020231000036104/estelle-35-ed\n\n- Estopram: https://www.healthdirect.gov.au/medicines/brand/amt,1402971000168107/estopram\n\n- Estraderm MX: https://www.healthdirect.gov.au/medicines/brand/amt,9331000168106/estraderm-mx\n\n- Estro-Pess: https://www.healthdirect.gov.au/medicines/brand/amt,1656291000168105/estro-pess\n\n- Estrofem: https://www.healthdirect.gov.au/medicines/brand/amt,39584011000036101/estrofem\n\n- Estrogel: https://www.healthdirect.gov.au/medicines/brand/amt,1322901000168100/estrogel\n\n- Estrogel Pro: https://www.healthdirect.gov.au/medicines/brand/amt,1551311000168105/estrogel-pro\n\n- Ethambutol (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1637831000168105/ethambutol-lupin\n\n- Etopophos: https://www.healthdirect.gov.au/medicines/brand/amt,4332011000036101/etopophos\n\n- Etoposide (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,3594011000036103/etoposide-ebewe\n\n- Eumovate: https://www.healthdirect.gov.au/medicines/brand/amt,782551000168104/eumovate\n\n- Eurax: https://www.healthdirect.gov.au/medicines/brand/amt,65121011000036102/eurax\n\n- Eutroxsig: https://www.healthdirect.gov.au/medicines/brand/amt,4066011000036108/eutroxsig\n\n- Evelyn 150/30 ED: https://www.healthdirect.gov.au/medicines/brand/amt,662621000168104/evelyn-150-30-ed\n\n- Evening Primrose Oil (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,503778781000036104/evening-primrose-oil-blackmores\n\n- Evening Primrose Oil (Faulding): https://www.healthdirect.gov.au/medicines/brand/amt,1761231000168103/evening-primrose-oil-faulding\n\n- Evening Primrose Oil (Henry Blooms): https://www.healthdirect.gov.au/medicines/brand/amt,1758681000168102/evening-primrose-oil-henry-blooms\n\n- Evenity: https://www.healthdirect.gov.au/medicines/brand/amt,1431951000168104/evenity\n\n- Everocan: https://www.healthdirect.gov.au/medicines/brand/amt,1551781000168100/everocan\n\n- Everolimus (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1592661000168104/everolimus-pharmacor\n\n- Everolimus (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,1405951000168108/everolimus-teva\n\n- Everyday Face (Hamilton): https://www.healthdirect.gov.au/medicines/brand/amt,869521851000036101/everyday-face-hamilton\n\n- Evista: https://www.healthdirect.gov.au/medicines/brand/amt,3882011000036107/evista\n\n- Evocair MDI 125/25: https://www.healthdirect.gov.au/medicines/brand/amt,1564521000168100/evocair-mdi-125-25\n\n- Evocair MDI 250/25: https://www.healthdirect.gov.au/medicines/brand/amt,1564561000168105/evocair-mdi-250-25\n\n- Evoltra: https://www.healthdirect.gov.au/medicines/brand/amt,922920011000036101/evoltra\n\n- Evotaz: https://www.healthdirect.gov.au/medicines/brand/amt,736651000168109/evotaz\n\n- Evrysdi: https://www.healthdirect.gov.au/medicines/brand/amt,1560221000168109/evrysdi\n\n- Exarane: https://www.healthdirect.gov.au/medicines/brand/amt,1682211000168105/exarane\n\n- Exarane Forte: https://www.healthdirect.gov.au/medicines/brand/amt,1682281000168104/exarane-forte\n\n- Exelon: https://www.healthdirect.gov.au/medicines/brand/amt,4601000168108/exelon\n\n- Exelon-10: https://www.healthdirect.gov.au/medicines/brand/amt,56281000168104/exelon-10\n\n- Exelon-15: https://www.healthdirect.gov.au/medicines/brand/amt,731041000168107/exelon-15\n\n- Exelon-5: https://www.healthdirect.gov.au/medicines/brand/amt,53691000168107/exelon-5\n\n- Exemestane (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,50811000168106/exemestane-apo\n\n- Exemestane (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1015851000168108/exemestane-apotex\n\n- Exemestane (GH): https://www.healthdirect.gov.au/medicines/brand/amt,180351000036105/exemestane-gh\n\n- Exemestane (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1407411000168109/exemestane-intas\n\n- Exemestane (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,32281000036106/exemestane-pharmacor\n\n- Exemestane (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933241011000036104/exemestane-sandoz\n\n- Exemestane (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1773141000168108/exemestane-wgr\n\n- Exforge 10/160: https://www.healthdirect.gov.au/medicines/brand/amt,22241000168106/exforge-10-160\n\n- Exforge 10/320: https://www.healthdirect.gov.au/medicines/brand/amt,20141000168104/exforge-10-320\n\n- Exforge 5/160: https://www.healthdirect.gov.au/medicines/brand/amt,8411000168102/exforge-5-160\n\n- Exforge 5/320: https://www.healthdirect.gov.au/medicines/brand/amt,24141000168109/exforge-5-320\n\n- Exforge 5/80: https://www.healthdirect.gov.au/medicines/brand/amt,29171000168101/exforge-5-80\n\n- Exforge HCT 10/160/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,25011000168107/exforge-hct-10-160-12.5\n\n- Exforge HCT 10/160/25: https://www.healthdirect.gov.au/medicines/brand/amt,7471000168106/exforge-hct-10-160-25\n\n- Exforge HCT 10/320/25: https://www.healthdirect.gov.au/medicines/brand/amt,21211000168103/exforge-hct-10-320-25\n\n- Exforge HCT 5/160/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,14521000168101/exforge-hct-5-160-12.5\n\n- Exforge HCT 5/160/25: https://www.healthdirect.gov.au/medicines/brand/amt,4531000168100/exforge-hct-5-160-25\n\n- Extine: https://www.healthdirect.gov.au/medicines/brand/amt,4015011000036100/extine\n\n- Extraneal 7.5%: https://www.healthdirect.gov.au/medicines/brand/amt,36521000168104/extraneal-7.5\n\n- Eydenzelt: https://www.healthdirect.gov.au/medicines/brand/amt,933506981000036103/eydenzelt\n\n- Eye Plus (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652121000036104/eye-plus-a-won\n\n- Eyezep: https://www.healthdirect.gov.au/medicines/brand/amt,925513011000036108/eyezep\n\n- Eylea: https://www.healthdirect.gov.au/medicines/brand/amt,77681000036109/eylea\n\n- Ezalo Composite Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1147051000168108/ezalo-composite-pack\n\n- Eze Allergy: https://www.healthdirect.gov.au/medicines/brand/amt,1738731000168105/eze-allergy\n\n- Ezemichol: https://www.healthdirect.gov.au/medicines/brand/amt,1166791000168108/ezemichol\n\n- Ezetast 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,1552801000168107/ezetast-10-10\n\n- Ezetast 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,1553061000168105/ezetast-10-20\n\n- Ezetast 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,1552351000168102/ezetast-10-40\n\n- Ezetast 10/80: https://www.healthdirect.gov.au/medicines/brand/amt,1553411000168100/ezetast-10-80\n\n- Ezetimibe (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1405771000168101/ezetimibe-akm\n\n- Ezetimibe (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1009201000168105/ezetimibe-apo\n\n- Ezetimibe (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,555430841000036108/ezetimibe-arx\n\n- Ezetimibe (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,1169701000168107/ezetimibe-blooms-the-chemist\n\n- Ezetimibe (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,1663921000168103/ezetimibe-btc\n\n- Ezetimibe (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1167061000168102/ezetimibe-gh\n\n- Ezetimibe (LAPL): https://www.healthdirect.gov.au/medicines/brand/amt,1270581000168109/ezetimibe-lapl\n\n- Ezetimibe (MA): https://www.healthdirect.gov.au/medicines/brand/amt,1698651000168108/ezetimibe-ma\n\n- Ezetimibe (MC): https://www.healthdirect.gov.au/medicines/brand/amt,1698881000168102/ezetimibe-mc\n\n- Ezetimibe (ME): https://www.healthdirect.gov.au/medicines/brand/amt,1698711000168100/ezetimibe-me\n\n- Ezetimibe (MH): https://www.healthdirect.gov.au/medicines/brand/amt,1698771000168108/ezetimibe-mh\n\n- Ezetimibe (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,933537401000036106/ezetimibe-mylan\n\n- Ezetimibe (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1157421000168105/ezetimibe-pharmacor\n\n- Ezetimibe (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1166901000168104/ezetimibe-sandoz\n\n- Ezetimibe (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933600431000036101/ezetimibe-viatris\n\n- Ezetimibe (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1776011000168102/ezetimibe-wgr\n\n- Ezetimibe Rosuvastatin Composite Pack (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1669321000168101/ezetimibe-rosuvastatin-composite-pack-pharmacor\n\n- Ezetimibe Rosuvastatin Composite Pack (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,960319941000036105/ezetimibe-rosuvastatin-composite-pack-sandoz\n\n- Ezetimibe Simvastatin 10/10 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1292211000168109/ezetimibe-simvastatin-10-10-akm\n\n- Ezetimibe Simvastatin 10/10 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1278891000168108/ezetimibe-simvastatin-10-10-pharmacor\n\n- Ezetimibe Simvastatin 10/20 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1292151000168103/ezetimibe-simvastatin-10-20-akm\n\n- Ezetimibe Simvastatin 10/20 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1279481000168104/ezetimibe-simvastatin-10-20-pharmacor\n\n- Ezetimibe Simvastatin 10/40 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1322071000168106/ezetimibe-simvastatin-10-40-akm\n\n- Ezetimibe Simvastatin 10/40 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1295151000168109/ezetimibe-simvastatin-10-40-pharmacor\n\n- Ezetimibe Simvastatin 10/80 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1321831000168106/ezetimibe-simvastatin-10-80-akm\n\n- Ezetimibe Simvastatin 10/80 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1295111000168108/ezetimibe-simvastatin-10-80-pharmacor\n\n- Ezetimibe-Simvastatin 10/10 (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,406905411000036108/ezetimibe-simvastatin-10-10-alphapharm\n\n- Ezetimibe-Simvastatin 10/20 (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,545585611000036105/ezetimibe-simvastatin-10-20-alphapharm\n\n- Ezetimibe-Simvastatin 10/40 (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,533523701000036101/ezetimibe-simvastatin-10-40-alphapharm\n\n- Ezetimibe-Simvastatin 10/80 (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,871328071000036104/ezetimibe-simvastatin-10-80-alphapharm\n\n- Ezetimibe/Atorvastatin 10/10 (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1423841000168109/ezetimibe-atorvastatin-10-10-gh\n\n- Ezetimibe/Atorvastatin 10/10 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933703441000036108/ezetimibe-atorvastatin-10-10-sandoz\n\n- Ezetimibe/Atorvastatin 10/20 (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1421941000168104/ezetimibe-atorvastatin-10-20-gh\n\n- Ezetimibe/Atorvastatin 10/20 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933703501000036109/ezetimibe-atorvastatin-10-20-sandoz\n\n- Ezetimibe/Atorvastatin 10/40 (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1421831000168104/ezetimibe-atorvastatin-10-40-gh\n\n- Ezetimibe/Atorvastatin 10/40 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933703491000036102/ezetimibe-atorvastatin-10-40-sandoz\n\n- Ezetimibe/Atorvastatin 10/80 (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1422011000168107/ezetimibe-atorvastatin-10-80-gh\n\n- Ezetimibe/Atorvastatin 10/80 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933703481000036104/ezetimibe-atorvastatin-10-80-sandoz\n\n- Ezetimibe/Simvastatin 10/10 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1168991000168109/ezetimibe-simvastatin-10-10-sandoz\n\n- Ezetimibe/Simvastatin 10/10 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1755071000168104/ezetimibe-simvastatin-10-10-wgr\n\n- Ezetimibe/Simvastatin 10/20 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1169071000168104/ezetimibe-simvastatin-10-20-sandoz\n\n- Ezetimibe/Simvastatin 10/20 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1754841000168102/ezetimibe-simvastatin-10-20-wgr\n\n- Ezetimibe/Simvastatin 10/40 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1169151000168107/ezetimibe-simvastatin-10-40-sandoz\n\n- Ezetimibe/Simvastatin 10/40 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1754951000168108/ezetimibe-simvastatin-10-40-wgr\n\n- Ezetimibe/Simvastatin 10/80 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1169231000168106/ezetimibe-simvastatin-10-80-sandoz\n\n- Ezetimibe/Simvastatin 10/80 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1754761000168107/ezetimibe-simvastatin-10-80-wgr\n\n- Ezetorin 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,1435591000168102/ezetorin-10-10\n\n- Ezetorin 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,1434061000168101/ezetorin-10-20\n\n- Ezetorin 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,1436141000168108/ezetorin-10-40\n\n- Ezetorin 10/80: https://www.healthdirect.gov.au/medicines/brand/amt,1434181000168106/ezetorin-10-80\n\n- Ezetrol: https://www.healthdirect.gov.au/medicines/brand/amt,3589011000036101/ezetrol\n\n- Ezevyt 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,1591621000168100/ezevyt-10-10\n\n- Ezevyt 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,1590701000168105/ezevyt-10-20\n\n- Ezevyt 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,1590411000168103/ezevyt-10-40\n\n- Ezevyt 10/80: https://www.healthdirect.gov.au/medicines/brand/amt,1591781000168106/ezevyt-10-80\n\n- Ezovir: https://www.healthdirect.gov.au/medicines/brand/amt,85254011000036103/ezovir\n\n- Ezovir Cold Sore Relief: https://www.healthdirect.gov.au/medicines/brand/amt,775141000168107/ezovir-cold-sore-relief\n\n- Econazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22424/econazole\n\n- Eculizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20869/eculizumab\n\n- Edaravone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27132/edaravone\n\n- Edetic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22426/edetic-acid\n\n- Edetic acid + ascorbic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23281/edetic-acid-+-ascorbic-acid\n\n- Efanesoctocog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50802/efanesoctocog-alfa\n\n- Efavirenz: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20874/efavirenz\n\n- Efgartigimod alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50506/efgartigimod-alfa\n\n- Eflornithine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20875/eflornithine\n\n- efmoroctocog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24036/efmoroctocog-alfa\n\n- eftrenonacog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20878/eftrenonacog-alfa\n\n- Elafibranor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50515/elafibranor\n\n- Elasomeran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27021/elasomeran\n\n- Elasomeran + davesomeran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27105/elasomeran-+-davesomeran\n\n- Eletriptan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20881/eletriptan\n\n- Elexacaftor + tezacaftor + ivacaftor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26698/elexacaftor-+-tezacaftor-+-ivacaftor\n\n- Elinzanetant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50651/elinzanetant\n\n- elosulfase alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23681/elosulfase-alfa\n\n- elotuzumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24055/elotuzumab\n\n- Elranatamab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50468/elranatamab\n\n- eltrombopag: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20882/eltrombopag\n\n- emicizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24238/emicizumab\n\n- empagliflozin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22432/empagliflozin\n\n- empagliflozin + metformin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23701/empagliflozin-+-metformin\n\n- emtricitabine + rilpivirine + tenofovir alafenamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23992/emtricitabine-+-rilpivirine-+-tenofovir-alafenamide\n\n- emtricitabine + tenofovir alafenamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23955/emtricitabine-+-tenofovir-alafenamide\n\n- enalapril: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20885/enalapril\n\n- enalapril + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23282/enalapril-+-hydrochlorothiazide\n\n- encorafenib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24470/encorafenib\n\n- enfortumab vedotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27133/enfortumab-vedotin\n\n- enoxaparin sodium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22434/enoxaparin-sodium\n\n- entacapone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20995/entacapone\n\n- entecavir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20996/entecavir\n\n- entrectinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26734/entrectinib\n\n- Enzalutamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22436/enzalutamide\n\n- Epcoritamab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50555/epcoritamab\n\n- Ephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20997/ephedrine\n\n- epirubicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20998/epirubicin\n\n- eplerenone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20999/eplerenone\n\n- epoetin alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22439/epoetin-alfa\n\n- epoetin beta: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22440/epoetin-beta\n\n- epoetin lambda: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22441/epoetin-lambda\n\n- epoprostenol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21004/epoprostenol\n\n- eprosartan + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23283/eprosartan-+-hydrochlorothiazide\n\n- eptacog alfa (activated): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21009/eptacog-alfa-activated\n\n- eptifibatide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21018/eptifibatide\n\n- Eptinezumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26998/eptinezumab\n\n- erenumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24442/erenumab\n\n- ergometrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21028/ergometrine\n\n- eribulin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21035/eribulin\n\n- erlotinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21036/erlotinib\n\n- ertapenem: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21044/ertapenem\n\n- erythromycin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21026/erythromycin\n\n- erythromycin ethylsuccinate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22447/erythromycin-ethylsuccinate\n\n- escitalopram: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21046/escitalopram\n\n- Esketamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26852/esketamine\n\n- esmolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21049/esmolol\n\n- esomeprazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21052/esomeprazole\n\n- estetrol + drospirenone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27106/estetrol-+-drospirenone\n\n- Estradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21032/estradiol\n\n- Estradiol + dienogest: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23270/estradiol-+-dienogest\n\n- Estradiol + drospirenone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23385/estradiol-+-drospirenone\n\n- Estradiol + dydrogesterone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23386/estradiol-+-dydrogesterone\n\n- Estradiol + norethisterone acetate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23382/estradiol-+-norethisterone-acetate\n\n- Estradiol + progesterone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27142/estradiol-+-progesterone\n\n- Estriol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21031/estriol\n\n- etanercept: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22450/etanercept\n\n- ethambutol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21057/ethambutol\n\n- ethanol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22452/ethanol\n\n- Ethanol + glycerol + lidocaine + menthol + salicylic acid + tannic acid + thymol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50234/ethanol-+-glycerol-+-lidocaine-+-menthol-+-salicylic-acid-+-tannic-acid-+-thymol\n\n- Ethanol + lidocaine + salicylic acid + tannic acid + rheum palmatum: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50235/ethanol-+-lidocaine-+-salicylic-acid-+-tannic-acid-+-rheum-palmatum\n\n- ethanol + phenol + benzocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23477/ethanol-+-phenol-+-benzocaine\n\n- ethanol + propan-1-ol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24371/ethanol-+-propan-1-ol\n\n- Ethosuximide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21063/ethosuximide\n\n- etonogestrel + ethinylestradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23291/etonogestrel-+-ethinylestradiol\n\n- etoposide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21081/etoposide\n\n- etoricoxib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21084/etoricoxib\n\n- Etrasimod: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50058/etrasimod\n\n- etravirine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21086/etravirine\n\n- eucalyptus oil + lemon tea tree oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23295/eucalyptus-oil-+-lemon-tea-tree-oil\n\n- eucalyptus oil + peppermint oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24832/eucalyptus-oil-+-peppermint-oil\n\n- European house dust mite extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24266/european-house-dust-mite-extract\n\n- evening primrose oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24977/evening-primrose-oil\n\n- everolimus: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21088/everolimus\n\n- evolocumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23857/evolocumab\n\n- exametazime: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21090/exametazime\n\n- exemestane: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21092/exemestane\n\n- ezetimibe: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21094/ezetimibe\n\n- Ezetimibe + atorvastatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23602/ezetimibe-+-atorvastatin\n\n- ezetimibe + simvastatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23297/ezetimibe-+-simvastatin\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

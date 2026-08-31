@@ -1,0 +1,675 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-x-excludenonartg",
+  "title": "Medicines starting with \"X\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 18717,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Xadago",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246361000168107/xadago"
+    },
+    {
+      "text": "Xafimed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599501000036109/xafimed"
+    },
+    {
+      "text": "Xalacom",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25951000168109/xalacom"
+    },
+    {
+      "text": "Xalamol 50/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,687621000168103/xalamol-50-5"
+    },
+    {
+      "text": "Xalaprost",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,686441000168109/xalaprost"
+    },
+    {
+      "text": "Xalatan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3128011000036105/xalatan"
+    },
+    {
+      "text": "Xalkori",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,688241000168107/xalkori"
+    },
+    {
+      "text": "Xarelto",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78591011000036107/xarelto"
+    },
+    {
+      "text": "Xaremed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650561000036103/xaremed"
+    },
+    {
+      "text": "Xatral SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33861000168103/xatral-sr"
+    },
+    {
+      "text": "Xelabine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,667481000168100/xelabine"
+    },
+    {
+      "text": "Xelevia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625411000168106/xelevia"
+    },
+    {
+      "text": "Xeljanz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,718521000168107/xeljanz"
+    },
+    {
+      "text": "Xeljanz XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1670591000168109/xeljanz-xr"
+    },
+    {
+      "text": "Xembify",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1639351000168100/xembify"
+    },
+    {
+      "text": "Xenical",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4256011000036106/xenical"
+    },
+    {
+      "text": "Xenpozyme",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1706501000168100/xenpozyme"
+    },
+    {
+      "text": "Xeomin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,172671000036102/xeomin"
+    },
+    {
+      "text": "Xergic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4325011000036107/xergic"
+    },
+    {
+      "text": "Xermelo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1234931000168109/xermelo"
+    },
+    {
+      "text": "Xerol DR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1319741000168101/xerol-dr"
+    },
+    {
+      "text": "Xgeva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933219061000036105/xgeva"
+    },
+    {
+      "text": "Xifaxan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,93311000036109/xifaxan"
+    },
+    {
+      "text": "Xigduo XR 10/1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,680961000168101/xigduo-xr-10-1000"
+    },
+    {
+      "text": "Xigduo XR 10/500",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,680891000168101/xigduo-xr-10-500"
+    },
+    {
+      "text": "Xigduo XR 5/1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,681021000168100/xigduo-xr-5-1000"
+    },
+    {
+      "text": "Xiidra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1430871000168106/xiidra"
+    },
+    {
+      "text": "Xobet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1761961000168103/xobet"
+    },
+    {
+      "text": "Xofluza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491421000168105/xofluza"
+    },
+    {
+      "text": "Xogel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1136781000168101/xogel"
+    },
+    {
+      "text": "Xolair",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39611011000036108/xolair"
+    },
+    {
+      "text": "Xorox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1543931000168101/xorox"
+    },
+    {
+      "text": "Xospata",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1492191000168107/xospata"
+    },
+    {
+      "text": "Xpovio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1627331000168100/xpovio"
+    },
+    {
+      "text": "Xtandi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,678051000168107/xtandi"
+    },
+    {
+      "text": "Xuan Fu Dai Zhe Shi Tang (KPC Herbs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1380291000168106/xuan-fu-dai-zhe-shi-tang-kpc-herbs"
+    },
+    {
+      "text": "Xultophy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1530561000168106/xultophy"
+    },
+    {
+      "text": "Xycilan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,713931000168108/xycilan"
+    },
+    {
+      "text": "Xylocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2651000168102/xylocaine"
+    },
+    {
+      "text": "Xylocaine 0.5% with Adrenaline 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52971000168107/xylocaine-0.5-with-adrenaline-1-in-200-000"
+    },
+    {
+      "text": "Xylocaine 1.5% with Adrenaline 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5021000168108/xylocaine-1.5-with-adrenaline-1-in-200-000"
+    },
+    {
+      "text": "Xylocaine 1% with Adrenaline 1 in 100 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13741000168101/xylocaine-1-with-adrenaline-1-in-100-000"
+    },
+    {
+      "text": "Xylocaine 1% with Adrenaline 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26691000168100/xylocaine-1-with-adrenaline-1-in-200-000"
+    },
+    {
+      "text": "Xylocaine 2% with Adrenaline 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54131000168104/xylocaine-2-with-adrenaline-1-in-200-000"
+    },
+    {
+      "text": "Xylocaine 2% with Adrenaline 1 in 80 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35311000168107/xylocaine-2-with-adrenaline-1-in-80-000"
+    },
+    {
+      "text": "Xylocaine 2% with Adrenaline 1 in 80 000 Dental",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55511000168103/xylocaine-2-with-adrenaline-1-in-80-000-dental"
+    },
+    {
+      "text": "Xylocaine Jelly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18711000168105/xylocaine-jelly"
+    },
+    {
+      "text": "Xylocaine Pump Spray",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52831000168100/xylocaine-pump-spray"
+    },
+    {
+      "text": "Xylocaine Special Adhesive",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24361000168106/xylocaine-special-adhesive"
+    },
+    {
+      "text": "Xylocaine Topical",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59741000168106/xylocaine-topical"
+    },
+    {
+      "text": "Xylocaine Viscous",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13281000168103/xylocaine-viscous"
+    },
+    {
+      "text": "Xylocard",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4153011000036102/xylocard"
+    },
+    {
+      "text": "Xylocard-1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,936071000168104/xylocard-1000"
+    },
+    {
+      "text": "Xylonor Pellets",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1172161000168107/xylonor-pellets"
+    },
+    {
+      "text": "Xyloproct 5% / 0.25%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32471000168103/xyloproct-5---0.25"
+    },
+    {
+      "text": "Xyntha",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83556011000036108/xyntha"
+    },
+    {
+      "text": "Xyntha 1000 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1691000168104/xyntha-1000-iu"
+    },
+    {
+      "text": "Xyntha 2000 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54911000168106/xyntha-2000-iu"
+    },
+    {
+      "text": "Xyntha 250 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47431000168102/xyntha-250-iu"
+    },
+    {
+      "text": "Xyntha 500 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,9291000168100/xyntha-500-iu"
+    },
+    {
+      "text": "Xyvion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72915011000036107/xyvion"
+    },
+    {
+      "text": "Xyzal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53093011000036108/xyzal"
+    },
+    {
+      "text": "Xylometazoline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21627/xylometazoline"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"X\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"X\"\n\n## Brand names\n\n- Xadago\n\n- Xafimed\n\n- Xalacom\n\n- Xalamol 50/5\n\n- Xalaprost\n\n- Xalatan\n\n- Xalkori\n\n- Xarelto\n\n- Xaremed\n\n- Xatral SR\n\n- Xelabine\n\n- Xelevia\n\n- Xeljanz\n\n- Xeljanz XR\n\n- Xembify\n\n- Xenical\n\n- Xenpozyme\n\n- Xeomin\n\n- Xergic\n\n- Xermelo\n\n- Xerol DR\n\n- Xgeva\n\n- Xifaxan\n\n- Xigduo XR 10/1000\n\n- Xigduo XR 10/500\n\n- Xigduo XR 5/1000\n\n- Xiidra\n\n- Xobet\n\n- Xofluza\n\n- Xogel\n\n- Xolair\n\n- Xorox\n\n- Xospata\n\n- Xpovio\n\n- Xtandi\n\n- Xuan Fu Dai Zhe Shi Tang (KPC Herbs)\n\n- Xultophy\n\n- Xycilan\n\n- Xylocaine\n\n- Xylocaine 0.5% with Adrenaline 1 in 200 000\n\n- Xylocaine 1.5% with Adrenaline 1 in 200 000\n\n- Xylocaine 1% with Adrenaline 1 in 100 000\n\n- Xylocaine 1% with Adrenaline 1 in 200 000\n\n- Xylocaine 2% with Adrenaline 1 in 200 000\n\n- Xylocaine 2% with Adrenaline 1 in 80 000\n\n- Xylocaine 2% with Adrenaline 1 in 80 000 Dental\n\n- Xylocaine Jelly\n\n- Xylocaine Pump Spray\n\n- Xylocaine Special Adhesive\n\n- Xylocaine Topical\n\n- Xylocaine Viscous\n\n- Xylocard\n\n- Xylocard-1000\n\n- Xylonor Pellets\n\n- Xyloproct 5% / 0.25%\n\n- Xyntha\n\n- Xyntha 1000 IU\n\n- Xyntha 2000 IU\n\n- Xyntha 250 IU\n\n- Xyntha 500 IU\n\n- Xyvion\n\n- Xyzal\n\nPREV 1 2 NEXT\n\n## Active ingredients\n\n- Xylometazoline\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Xadago: https://www.healthdirect.gov.au/medicines/brand/amt,1246361000168107/xadago\n\n- Xafimed: https://www.healthdirect.gov.au/medicines/brand/amt,933599501000036109/xafimed\n\n- Xalacom: https://www.healthdirect.gov.au/medicines/brand/amt,25951000168109/xalacom\n\n- Xalamol 50/5: https://www.healthdirect.gov.au/medicines/brand/amt,687621000168103/xalamol-50-5\n\n- Xalaprost: https://www.healthdirect.gov.au/medicines/brand/amt,686441000168109/xalaprost\n\n- Xalatan: https://www.healthdirect.gov.au/medicines/brand/amt,3128011000036105/xalatan\n\n- Xalkori: https://www.healthdirect.gov.au/medicines/brand/amt,688241000168107/xalkori\n\n- Xarelto: https://www.healthdirect.gov.au/medicines/brand/amt,78591011000036107/xarelto\n\n- Xaremed: https://www.healthdirect.gov.au/medicines/brand/amt,933650561000036103/xaremed\n\n- Xatral SR: https://www.healthdirect.gov.au/medicines/brand/amt,33861000168103/xatral-sr\n\n- Xelabine: https://www.healthdirect.gov.au/medicines/brand/amt,667481000168100/xelabine\n\n- Xelevia: https://www.healthdirect.gov.au/medicines/brand/amt,1625411000168106/xelevia\n\n- Xeljanz: https://www.healthdirect.gov.au/medicines/brand/amt,718521000168107/xeljanz\n\n- Xeljanz XR: https://www.healthdirect.gov.au/medicines/brand/amt,1670591000168109/xeljanz-xr\n\n- Xembify: https://www.healthdirect.gov.au/medicines/brand/amt,1639351000168100/xembify\n\n- Xenical: https://www.healthdirect.gov.au/medicines/brand/amt,4256011000036106/xenical\n\n- Xenpozyme: https://www.healthdirect.gov.au/medicines/brand/amt,1706501000168100/xenpozyme\n\n- Xeomin: https://www.healthdirect.gov.au/medicines/brand/amt,172671000036102/xeomin\n\n- Xergic: https://www.healthdirect.gov.au/medicines/brand/amt,4325011000036107/xergic\n\n- Xermelo: https://www.healthdirect.gov.au/medicines/brand/amt,1234931000168109/xermelo\n\n- Xerol DR: https://www.healthdirect.gov.au/medicines/brand/amt,1319741000168101/xerol-dr\n\n- Xgeva: https://www.healthdirect.gov.au/medicines/brand/amt,933219061000036105/xgeva\n\n- Xifaxan: https://www.healthdirect.gov.au/medicines/brand/amt,93311000036109/xifaxan\n\n- Xigduo XR 10/1000: https://www.healthdirect.gov.au/medicines/brand/amt,680961000168101/xigduo-xr-10-1000\n\n- Xigduo XR 10/500: https://www.healthdirect.gov.au/medicines/brand/amt,680891000168101/xigduo-xr-10-500\n\n- Xigduo XR 5/1000: https://www.healthdirect.gov.au/medicines/brand/amt,681021000168100/xigduo-xr-5-1000\n\n- Xiidra: https://www.healthdirect.gov.au/medicines/brand/amt,1430871000168106/xiidra\n\n- Xobet: https://www.healthdirect.gov.au/medicines/brand/amt,1761961000168103/xobet\n\n- Xofluza: https://www.healthdirect.gov.au/medicines/brand/amt,1491421000168105/xofluza\n\n- Xogel: https://www.healthdirect.gov.au/medicines/brand/amt,1136781000168101/xogel\n\n- Xolair: https://www.healthdirect.gov.au/medicines/brand/amt,39611011000036108/xolair\n\n- Xorox: https://www.healthdirect.gov.au/medicines/brand/amt,1543931000168101/xorox\n\n- Xospata: https://www.healthdirect.gov.au/medicines/brand/amt,1492191000168107/xospata\n\n- Xpovio: https://www.healthdirect.gov.au/medicines/brand/amt,1627331000168100/xpovio\n\n- Xtandi: https://www.healthdirect.gov.au/medicines/brand/amt,678051000168107/xtandi\n\n- Xuan Fu Dai Zhe Shi Tang (KPC Herbs): https://www.healthdirect.gov.au/medicines/brand/amt,1380291000168106/xuan-fu-dai-zhe-shi-tang-kpc-herbs\n\n- Xultophy: https://www.healthdirect.gov.au/medicines/brand/amt,1530561000168106/xultophy\n\n- Xycilan: https://www.healthdirect.gov.au/medicines/brand/amt,713931000168108/xycilan\n\n- Xylocaine: https://www.healthdirect.gov.au/medicines/brand/amt,2651000168102/xylocaine\n\n- Xylocaine 0.5% with Adrenaline 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,52971000168107/xylocaine-0.5-with-adrenaline-1-in-200-000\n\n- Xylocaine 1.5% with Adrenaline 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,5021000168108/xylocaine-1.5-with-adrenaline-1-in-200-000\n\n- Xylocaine 1% with Adrenaline 1 in 100 000: https://www.healthdirect.gov.au/medicines/brand/amt,13741000168101/xylocaine-1-with-adrenaline-1-in-100-000\n\n- Xylocaine 1% with Adrenaline 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,26691000168100/xylocaine-1-with-adrenaline-1-in-200-000\n\n- Xylocaine 2% with Adrenaline 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,54131000168104/xylocaine-2-with-adrenaline-1-in-200-000\n\n- Xylocaine 2% with Adrenaline 1 in 80 000: https://www.healthdirect.gov.au/medicines/brand/amt,35311000168107/xylocaine-2-with-adrenaline-1-in-80-000\n\n- Xylocaine 2% with Adrenaline 1 in 80 000 Dental: https://www.healthdirect.gov.au/medicines/brand/amt,55511000168103/xylocaine-2-with-adrenaline-1-in-80-000-dental\n\n- Xylocaine Jelly: https://www.healthdirect.gov.au/medicines/brand/amt,18711000168105/xylocaine-jelly\n\n- Xylocaine Pump Spray: https://www.healthdirect.gov.au/medicines/brand/amt,52831000168100/xylocaine-pump-spray\n\n- Xylocaine Special Adhesive: https://www.healthdirect.gov.au/medicines/brand/amt,24361000168106/xylocaine-special-adhesive\n\n- Xylocaine Topical: https://www.healthdirect.gov.au/medicines/brand/amt,59741000168106/xylocaine-topical\n\n- Xylocaine Viscous: https://www.healthdirect.gov.au/medicines/brand/amt,13281000168103/xylocaine-viscous\n\n- Xylocard: https://www.healthdirect.gov.au/medicines/brand/amt,4153011000036102/xylocard\n\n- Xylocard-1000: https://www.healthdirect.gov.au/medicines/brand/amt,936071000168104/xylocard-1000\n\n- Xylonor Pellets: https://www.healthdirect.gov.au/medicines/brand/amt,1172161000168107/xylonor-pellets\n\n- Xyloproct 5% / 0.25%: https://www.healthdirect.gov.au/medicines/brand/amt,32471000168103/xyloproct-5---0.25\n\n- Xyntha: https://www.healthdirect.gov.au/medicines/brand/amt,83556011000036108/xyntha\n\n- Xyntha 1000 IU: https://www.healthdirect.gov.au/medicines/brand/amt,1691000168104/xyntha-1000-iu\n\n- Xyntha 2000 IU: https://www.healthdirect.gov.au/medicines/brand/amt,54911000168106/xyntha-2000-iu\n\n- Xyntha 250 IU: https://www.healthdirect.gov.au/medicines/brand/amt,47431000168102/xyntha-250-iu\n\n- Xyntha 500 IU: https://www.healthdirect.gov.au/medicines/brand/amt,9291000168100/xyntha-500-iu\n\n- Xyvion: https://www.healthdirect.gov.au/medicines/brand/amt,72915011000036107/xyvion\n\n- Xyzal: https://www.healthdirect.gov.au/medicines/brand/amt,53093011000036108/xyzal\n\n- Xylometazoline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21627/xylometazoline\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

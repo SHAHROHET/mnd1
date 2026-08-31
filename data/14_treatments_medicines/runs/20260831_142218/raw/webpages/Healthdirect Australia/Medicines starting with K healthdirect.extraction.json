@@ -1,0 +1,811 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-k-excludenonartg",
+  "title": "Medicines starting with \"K\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 22580,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "K2 (Bioceuticals)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1451651000168105/k2-bioceuticals"
+    },
+    {
+      "text": "Kadcyla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,157721000036108/kadcyla"
+    },
+    {
+      "text": "Kaletra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,689441000168102/kaletra"
+    },
+    {
+      "text": "Kaletra 200/50",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40271000168102/kaletra-200-50"
+    },
+    {
+      "text": "Kalixocin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3861011000036104/kalixocin"
+    },
+    {
+      "text": "Kalma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3585011000036103/kalma"
+    },
+    {
+      "text": "Kaloba (Schwabe Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1149261000168109/kaloba-schwabe-pharma"
+    },
+    {
+      "text": "Kalydeco",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,154531000036107/kalydeco"
+    },
+    {
+      "text": "Kamrab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1596071000168104/kamrab"
+    },
+    {
+      "text": "Kanjinti",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1417821000168103/kanjinti"
+    },
+    {
+      "text": "Kanuma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,987271000168103/kanuma"
+    },
+    {
+      "text": "Kapanol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3981011000036107/kapanol"
+    },
+    {
+      "text": "Karbesat HCT 150/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,23271000168105/karbesat-hct-150-12.5"
+    },
+    {
+      "text": "Karbesat HCT 300/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63831000168102/karbesat-hct-300-12.5"
+    },
+    {
+      "text": "Karbesat HCT 300/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,49151000168107/karbesat-hct-300-25"
+    },
+    {
+      "text": "Karvea",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3970011000036106/karvea"
+    },
+    {
+      "text": "Karvezide 150/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20981000168107/karvezide-150-12.5"
+    },
+    {
+      "text": "Karvezide 300/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16991000168103/karvezide-300-12.5"
+    },
+    {
+      "text": "Karvezide 300/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38921000168108/karvezide-300-25"
+    },
+    {
+      "text": "Kavigale",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507461000036101/kavigale"
+    },
+    {
+      "text": "KeenMind",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1340411000168108/keenmind"
+    },
+    {
+      "text": "Keflex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3358011000036104/keflex"
+    },
+    {
+      "text": "Keflin Neutral",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51901000168106/keflin-neutral"
+    },
+    {
+      "text": "Keflor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52641000168108/keflor"
+    },
+    {
+      "text": "Keflor CD",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35541000168103/keflor-cd"
+    },
+    {
+      "text": "Kefzol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4076011000036103/kefzol"
+    },
+    {
+      "text": "Kemadrin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,926501000168100/kemadrin"
+    },
+    {
+      "text": "Kenacomb",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3273011000036104/kenacomb"
+    },
+    {
+      "text": "Kenacomb Otic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47581000168102/kenacomb-otic"
+    },
+    {
+      "text": "Kenacort-A10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21381000168100/kenacort-a10"
+    },
+    {
+      "text": "Kenacort-A40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57491000168100/kenacort-a40"
+    },
+    {
+      "text": "Kenalog in Orabase",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26541000168107/kenalog-in-orabase"
+    },
+    {
+      "text": "Keppra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3677011000036106/keppra"
+    },
+    {
+      "text": "Kerendia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1588701000168109/kerendia"
+    },
+    {
+      "text": "Kerron",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29611000168101/kerron"
+    },
+    {
+      "text": "Kesimpta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1539181000168101/kesimpta"
+    },
+    {
+      "text": "Ketalar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33939011000036104/ketalar"
+    },
+    {
+      "text": "Ketamine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,879841000168101/ketamine-apo"
+    },
+    {
+      "text": "Ketamine (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1244691000168101/ketamine-baxter"
+    },
+    {
+      "text": "Ketamine (Biomed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1480081000168108/ketamine-biomed"
+    },
+    {
+      "text": "Ketamine (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,748581000168104/ketamine-claris"
+    },
+    {
+      "text": "Ketamine (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,784841000168107/ketamine-genrx"
+    },
+    {
+      "text": "Ketamine (InterPharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1442171000168101/ketamine-interpharma"
+    },
+    {
+      "text": "Ketobrel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682591000168103/ketobrel"
+    },
+    {
+      "text": "Ketomed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682651000168109/ketomed"
+    },
+    {
+      "text": "Ketomol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1713021000168106/ketomol"
+    },
+    {
+      "text": "Ketorolac (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,815801000168105/ketorolac-apo"
+    },
+    {
+      "text": "Ketorolac (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1455971000168109/ketorolac-baxter"
+    },
+    {
+      "text": "Ketorolac (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1323631000168106/ketorolac-claris"
+    },
+    {
+      "text": "Ketorolac (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,733781000168104/ketorolac-juno"
+    },
+    {
+      "text": "Ketorolac (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1628971000168100/ketorolac-kabi"
+    },
+    {
+      "text": "Ketorolac (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1715191000168105/ketorolac-medicianz"
+    },
+    {
+      "text": "Ketorolac (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641451000168108/ketorolac-medsurge"
+    },
+    {
+      "text": "Ketorolac (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1715131000168106/ketorolac-mlabs"
+    },
+    {
+      "text": "Ketovinz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1696251000168106/ketovinz"
+    },
+    {
+      "text": "Ketraccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1315791000168107/ketraccord"
+    },
+    {
+      "text": "Keytruda",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,706011000168105/keytruda"
+    },
+    {
+      "text": "Kimmtrak",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641381000168109/kimmtrak"
+    },
+    {
+      "text": "Kineret",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3381011000036103/kineret"
+    },
+    {
+      "text": "Kinson",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4166011000036100/kinson"
+    },
+    {
+      "text": "Kiovig 10%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17421000168108/kiovig-10"
+    },
+    {
+      "text": "Kisqali",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1157601000168104/kisqali"
+    },
+    {
+      "text": "Kisunla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507431000036107/kisunla"
+    },
+    {
+      "text": "Kivexa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3852011000036100/kivexa"
+    },
+    {
+      "text": "Klacid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3147011000036106/klacid"
+    },
+    {
+      "text": "Klarvanta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1771681000168108/klarvanta"
+    },
+    {
+      "text": "Kliogest",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3777011000036104/kliogest"
+    },
+    {
+      "text": "Kliovance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4118011000036102/kliovance"
+    },
+    {
+      "text": "Kloxalin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682141000168101/kloxalin"
+    },
+    {
+      "text": "Kloxema",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1215111000168109/kloxema"
+    },
+    {
+      "text": "Kodatef",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1234821000168103/kodatef"
+    },
+    {
+      "text": "Kombiglyze XR 2.5/1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,43031000168100/kombiglyze-xr-2.5-1000"
+    },
+    {
+      "text": "Kombiglyze XR 5/1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8301000168108/kombiglyze-xr-5-1000"
+    },
+    {
+      "text": "Kombiglyze XR 5/500",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5121000168109/kombiglyze-xr-5-500"
+    },
+    {
+      "text": "Konakion MM Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31291000168105/konakion-mm-adult"
+    },
+    {
+      "text": "Konakion MM Paediatric",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63681000168100/konakion-mm-paediatric"
+    },
+    {
+      "text": "Korean Ginseng Super Strength (Australian NaturalCare)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1391791000168106/korean-ginseng-super-strength-australian-naturalcare"
+    },
+    {
+      "text": "Korsuva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1676491000168107/korsuva"
+    },
+    {
+      "text": "Koselugo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1650141000168108/koselugo"
+    },
+    {
+      "text": "Kovaltry",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884791000168107/kovaltry"
+    },
+    {
+      "text": "Kozenis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1236611000168102/kozenis"
+    },
+    {
+      "text": "Kuvan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929907011000036101/kuvan"
+    },
+    {
+      "text": "Kwan Loong",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,972532701000036101/kwan-loong"
+    },
+    {
+      "text": "Kwells",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53261011000036100/kwells"
+    },
+    {
+      "text": "Kwells Kids",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1439521000168101/kwells-kids"
+    },
+    {
+      "text": "Kyleena",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1220271000168109/kyleena"
+    },
+    {
+      "text": "Kyprolis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,904391000168100/kyprolis"
+    },
+    {
+      "text": "Kytril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3372011000036100/kytril"
+    },
+    {
+      "text": "ketamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21234/ketamine"
+    },
+    {
+      "text": "ketoconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22590/ketoconazole"
+    },
+    {
+      "text": "Ketorolac",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21232/ketorolac"
+    },
+    {
+      "text": "ketotifen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22592/ketotifen"
+    },
+    {
+      "text": "king brown snake antivenom",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22593/king-brown-snake-antivenom"
+    },
+    {
+      "text": "Korean ginseng extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24922/korean-ginseng-extract"
+    },
+    {
+      "text": "Korean ginseng extract + American ginseng extract + Siberian ginseng extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24929/korean-ginseng-extract-+-american-ginseng-extract-+-siberian-ginseng-extract"
+    },
+    {
+      "text": "Korean ginseng extract + mondo grass extract + Schisandra extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24926/korean-ginseng-extract-+-mondo-grass-extract-+-schisandra-extract"
+    },
+    {
+      "text": "krill oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22594/krill-oil"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"K\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"K\"\n\n## Brand names\n\n- K2 (Bioceuticals)\n\n- Kadcyla\n\n- Kaletra\n\n- Kaletra 200/50\n\n- Kalixocin\n\n- Kalma\n\n- Kaloba (Schwabe Pharma)\n\n- Kalydeco\n\n- Kamrab\n\n- Kanjinti\n\n- Kanuma\n\n- Kapanol\n\n- Karbesat HCT 150/12.5\n\n- Karbesat HCT 300/12.5\n\n- Karbesat HCT 300/25\n\n- Karvea\n\n- Karvezide 150/12.5\n\n- Karvezide 300/12.5\n\n- Karvezide 300/25\n\n- Kavigale\n\n- KeenMind\n\n- Keflex\n\n- Keflin Neutral\n\n- Keflor\n\n- Keflor CD\n\n- Kefzol\n\n- Kemadrin\n\n- Kenacomb\n\n- Kenacomb Otic\n\n- Kenacort-A10\n\n- Kenacort-A40\n\n- Kenalog in Orabase\n\n- Keppra\n\n- Kerendia\n\n- Kerron\n\n- Kesimpta\n\n- Ketalar\n\n- Ketamine (Apo)\n\n- Ketamine (Baxter)\n\n- Ketamine (Biomed)\n\n- Ketamine (Claris)\n\n- Ketamine (GenRx)\n\n- Ketamine (InterPharma)\n\n- Ketobrel\n\n- Ketomed\n\n- Ketomol\n\n- Ketorolac (Apo)\n\n- Ketorolac (Baxter)\n\n- Ketorolac (Claris)\n\n- Ketorolac (Juno)\n\n- Ketorolac (Kabi)\n\n- Ketorolac (Medicianz)\n\n- Ketorolac (Medsurge)\n\n- Ketorolac (MLabs)\n\n- Ketovinz\n\n- Ketraccord\n\n- Keytruda\n\n- Kimmtrak\n\n- Kineret\n\n- Kinson\n\n- Kiovig 10%\n\n- Kisqali\n\n- Kisunla\n\n- Kivexa\n\n- Klacid\n\n- Klarvanta\n\n- Kliogest\n\n- Kliovance\n\n- Kloxalin\n\n- Kloxema\n\n- Kodatef\n\n- Kombiglyze XR 2.5/1000\n\n- Kombiglyze XR 5/1000\n\n- Kombiglyze XR 5/500\n\n- Konakion MM Adult\n\n- Konakion MM Paediatric\n\n- Korean Ginseng Super Strength (Australian NaturalCare)\n\n- Korsuva\n\n- Koselugo\n\n- Kovaltry\n\n- Kozenis\n\n- Kuvan\n\n- Kwan Loong\n\n- Kwells\n\n- Kwells Kids\n\n- Kyleena\n\n- Kyprolis\n\n- Kytril\n\nPREV 1 2 NEXT\n\n## Active ingredients\n\n- ketamine\n\n- ketoconazole\n\n- Ketorolac\n\n- ketotifen\n\n- king brown snake antivenom\n\n- Korean ginseng extract\n\n- Korean ginseng extract +\n\n- American ginseng extract +\n\n- Siberian ginseng extract\n\n- mondo grass extract +\n\n- Schisandra extract\n\n- krill oil\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- K2 (Bioceuticals): https://www.healthdirect.gov.au/medicines/brand/amt,1451651000168105/k2-bioceuticals\n\n- Kadcyla: https://www.healthdirect.gov.au/medicines/brand/amt,157721000036108/kadcyla\n\n- Kaletra: https://www.healthdirect.gov.au/medicines/brand/amt,689441000168102/kaletra\n\n- Kaletra 200/50: https://www.healthdirect.gov.au/medicines/brand/amt,40271000168102/kaletra-200-50\n\n- Kalixocin: https://www.healthdirect.gov.au/medicines/brand/amt,3861011000036104/kalixocin\n\n- Kalma: https://www.healthdirect.gov.au/medicines/brand/amt,3585011000036103/kalma\n\n- Kaloba (Schwabe Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,1149261000168109/kaloba-schwabe-pharma\n\n- Kalydeco: https://www.healthdirect.gov.au/medicines/brand/amt,154531000036107/kalydeco\n\n- Kamrab: https://www.healthdirect.gov.au/medicines/brand/amt,1596071000168104/kamrab\n\n- Kanjinti: https://www.healthdirect.gov.au/medicines/brand/amt,1417821000168103/kanjinti\n\n- Kanuma: https://www.healthdirect.gov.au/medicines/brand/amt,987271000168103/kanuma\n\n- Kapanol: https://www.healthdirect.gov.au/medicines/brand/amt,3981011000036107/kapanol\n\n- Karbesat HCT 150/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,23271000168105/karbesat-hct-150-12.5\n\n- Karbesat HCT 300/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,63831000168102/karbesat-hct-300-12.5\n\n- Karbesat HCT 300/25: https://www.healthdirect.gov.au/medicines/brand/amt,49151000168107/karbesat-hct-300-25\n\n- Karvea: https://www.healthdirect.gov.au/medicines/brand/amt,3970011000036106/karvea\n\n- Karvezide 150/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,20981000168107/karvezide-150-12.5\n\n- Karvezide 300/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,16991000168103/karvezide-300-12.5\n\n- Karvezide 300/25: https://www.healthdirect.gov.au/medicines/brand/amt,38921000168108/karvezide-300-25\n\n- Kavigale: https://www.healthdirect.gov.au/medicines/brand/amt,933507461000036101/kavigale\n\n- KeenMind: https://www.healthdirect.gov.au/medicines/brand/amt,1340411000168108/keenmind\n\n- Keflex: https://www.healthdirect.gov.au/medicines/brand/amt,3358011000036104/keflex\n\n- Keflin Neutral: https://www.healthdirect.gov.au/medicines/brand/amt,51901000168106/keflin-neutral\n\n- Keflor: https://www.healthdirect.gov.au/medicines/brand/amt,52641000168108/keflor\n\n- Keflor CD: https://www.healthdirect.gov.au/medicines/brand/amt,35541000168103/keflor-cd\n\n- Kefzol: https://www.healthdirect.gov.au/medicines/brand/amt,4076011000036103/kefzol\n\n- Kemadrin: https://www.healthdirect.gov.au/medicines/brand/amt,926501000168100/kemadrin\n\n- Kenacomb: https://www.healthdirect.gov.au/medicines/brand/amt,3273011000036104/kenacomb\n\n- Kenacomb Otic: https://www.healthdirect.gov.au/medicines/brand/amt,47581000168102/kenacomb-otic\n\n- Kenacort-A10: https://www.healthdirect.gov.au/medicines/brand/amt,21381000168100/kenacort-a10\n\n- Kenacort-A40: https://www.healthdirect.gov.au/medicines/brand/amt,57491000168100/kenacort-a40\n\n- Kenalog in Orabase: https://www.healthdirect.gov.au/medicines/brand/amt,26541000168107/kenalog-in-orabase\n\n- Keppra: https://www.healthdirect.gov.au/medicines/brand/amt,3677011000036106/keppra\n\n- Kerendia: https://www.healthdirect.gov.au/medicines/brand/amt,1588701000168109/kerendia\n\n- Kerron: https://www.healthdirect.gov.au/medicines/brand/amt,29611000168101/kerron\n\n- Kesimpta: https://www.healthdirect.gov.au/medicines/brand/amt,1539181000168101/kesimpta\n\n- Ketalar: https://www.healthdirect.gov.au/medicines/brand/amt,33939011000036104/ketalar\n\n- Ketamine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,879841000168101/ketamine-apo\n\n- Ketamine (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1244691000168101/ketamine-baxter\n\n- Ketamine (Biomed): https://www.healthdirect.gov.au/medicines/brand/amt,1480081000168108/ketamine-biomed\n\n- Ketamine (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,748581000168104/ketamine-claris\n\n- Ketamine (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,784841000168107/ketamine-genrx\n\n- Ketamine (InterPharma): https://www.healthdirect.gov.au/medicines/brand/amt,1442171000168101/ketamine-interpharma\n\n- Ketobrel: https://www.healthdirect.gov.au/medicines/brand/amt,1682591000168103/ketobrel\n\n- Ketomed: https://www.healthdirect.gov.au/medicines/brand/amt,1682651000168109/ketomed\n\n- Ketomol: https://www.healthdirect.gov.au/medicines/brand/amt,1713021000168106/ketomol\n\n- Ketorolac (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,815801000168105/ketorolac-apo\n\n- Ketorolac (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1455971000168109/ketorolac-baxter\n\n- Ketorolac (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,1323631000168106/ketorolac-claris\n\n- Ketorolac (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,733781000168104/ketorolac-juno\n\n- Ketorolac (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1628971000168100/ketorolac-kabi\n\n- Ketorolac (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1715191000168105/ketorolac-medicianz\n\n- Ketorolac (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1641451000168108/ketorolac-medsurge\n\n- Ketorolac (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1715131000168106/ketorolac-mlabs\n\n- Ketovinz: https://www.healthdirect.gov.au/medicines/brand/amt,1696251000168106/ketovinz\n\n- Ketraccord: https://www.healthdirect.gov.au/medicines/brand/amt,1315791000168107/ketraccord\n\n- Keytruda: https://www.healthdirect.gov.au/medicines/brand/amt,706011000168105/keytruda\n\n- Kimmtrak: https://www.healthdirect.gov.au/medicines/brand/amt,1641381000168109/kimmtrak\n\n- Kineret: https://www.healthdirect.gov.au/medicines/brand/amt,3381011000036103/kineret\n\n- Kinson: https://www.healthdirect.gov.au/medicines/brand/amt,4166011000036100/kinson\n\n- Kiovig 10%: https://www.healthdirect.gov.au/medicines/brand/amt,17421000168108/kiovig-10\n\n- Kisqali: https://www.healthdirect.gov.au/medicines/brand/amt,1157601000168104/kisqali\n\n- Kisunla: https://www.healthdirect.gov.au/medicines/brand/amt,933507431000036107/kisunla\n\n- Kivexa: https://www.healthdirect.gov.au/medicines/brand/amt,3852011000036100/kivexa\n\n- Klacid: https://www.healthdirect.gov.au/medicines/brand/amt,3147011000036106/klacid\n\n- Klarvanta: https://www.healthdirect.gov.au/medicines/brand/amt,1771681000168108/klarvanta\n\n- Kliogest: https://www.healthdirect.gov.au/medicines/brand/amt,3777011000036104/kliogest\n\n- Kliovance: https://www.healthdirect.gov.au/medicines/brand/amt,4118011000036102/kliovance\n\n- Kloxalin: https://www.healthdirect.gov.au/medicines/brand/amt,1682141000168101/kloxalin\n\n- Kloxema: https://www.healthdirect.gov.au/medicines/brand/amt,1215111000168109/kloxema\n\n- Kodatef: https://www.healthdirect.gov.au/medicines/brand/amt,1234821000168103/kodatef\n\n- Kombiglyze XR 2.5/1000: https://www.healthdirect.gov.au/medicines/brand/amt,43031000168100/kombiglyze-xr-2.5-1000\n\n- Kombiglyze XR 5/1000: https://www.healthdirect.gov.au/medicines/brand/amt,8301000168108/kombiglyze-xr-5-1000\n\n- Kombiglyze XR 5/500: https://www.healthdirect.gov.au/medicines/brand/amt,5121000168109/kombiglyze-xr-5-500\n\n- Konakion MM Adult: https://www.healthdirect.gov.au/medicines/brand/amt,31291000168105/konakion-mm-adult\n\n- Konakion MM Paediatric: https://www.healthdirect.gov.au/medicines/brand/amt,63681000168100/konakion-mm-paediatric\n\n- Korean Ginseng Super Strength (Australian NaturalCare): https://www.healthdirect.gov.au/medicines/brand/amt,1391791000168106/korean-ginseng-super-strength-australian-naturalcare\n\n- Korsuva: https://www.healthdirect.gov.au/medicines/brand/amt,1676491000168107/korsuva\n\n- Koselugo: https://www.healthdirect.gov.au/medicines/brand/amt,1650141000168108/koselugo\n\n- Kovaltry: https://www.healthdirect.gov.au/medicines/brand/amt,884791000168107/kovaltry\n\n- Kozenis: https://www.healthdirect.gov.au/medicines/brand/amt,1236611000168102/kozenis\n\n- Kuvan: https://www.healthdirect.gov.au/medicines/brand/amt,929907011000036101/kuvan\n\n- Kwan Loong: https://www.healthdirect.gov.au/medicines/brand/amt,972532701000036101/kwan-loong\n\n- Kwells: https://www.healthdirect.gov.au/medicines/brand/amt,53261011000036100/kwells\n\n- Kwells Kids: https://www.healthdirect.gov.au/medicines/brand/amt,1439521000168101/kwells-kids\n\n- Kyleena: https://www.healthdirect.gov.au/medicines/brand/amt,1220271000168109/kyleena\n\n- Kyprolis: https://www.healthdirect.gov.au/medicines/brand/amt,904391000168100/kyprolis\n\n- Kytril: https://www.healthdirect.gov.au/medicines/brand/amt,3372011000036100/kytril\n\n- ketamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21234/ketamine\n\n- ketoconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22590/ketoconazole\n\n- Ketorolac: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21232/ketorolac\n\n- ketotifen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22592/ketotifen\n\n- king brown snake antivenom: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22593/king-brown-snake-antivenom\n\n- Korean ginseng extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24922/korean-ginseng-extract\n\n- Korean ginseng extract + American ginseng extract + Siberian ginseng extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24929/korean-ginseng-extract-+-american-ginseng-extract-+-siberian-ginseng-extract\n\n- Korean ginseng extract + mondo grass extract + Schisandra extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24926/korean-ginseng-extract-+-mondo-grass-extract-+-schisandra-extract\n\n- krill oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22594/krill-oil\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

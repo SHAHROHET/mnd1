@@ -22,6 +22,12 @@ STATE_SYNONYMS = {
     "NT":  ["NT", "NORTHERN TERRITORY", "NSW/ACT/NT"],
 }
 
+ENTITY_QUERY_STOPWORDS = {
+    "a", "about", "and", "are", "can", "do", "for", "gday", "hello", "help",
+    "hey", "hi", "how", "mate", "please", "sup", "thanks", "the", "there",
+    "up", "what", "whats", "you", "your",
+}
+
 def is_state_match(target_state, item_state):
     if not target_state or target_state.upper() in ["NATIONAL", "ALL", "AUSTRALIA"]:
         return True
@@ -40,14 +46,28 @@ class MNDIndexer:
         self.entities = []
         self.vectorizer = None
         self.tfidf_matrix = None
+
+    def _metadata_files(self):
+        return sorted(glob.glob(os.path.join(METADATA_DIR, "*.jsonl")))
+
+    def _metadata_signature(self):
+        signature = []
+        for path in self._metadata_files():
+            try:
+                stat = os.stat(path)
+            except OSError:
+                continue
+            signature.append((os.path.basename(path), stat.st_size, int(stat.st_mtime)))
+        return signature
         
     def build_index(self):
         print("Starting indexing of MND dataset...", flush=True)
         doc_files = sorted(glob.glob(os.path.join(METADATA_DIR, "*_documents.jsonl")))
         rec_files = sorted([
-            f for f in glob.glob(os.path.join(METADATA_DIR, "*.jsonl"))
+            f for f in self._metadata_files()
             if not f.endswith("_sources.jsonl") and not f.endswith("_documents.jsonl")
         ])
+        metadata_signature = self._metadata_signature()
         
         # 1. Load document chunks
         self.documents = []
@@ -102,7 +122,8 @@ class MNDIndexer:
                 "documents": self.documents,
                 "entities": self.entities,
                 "vectorizer": self.vectorizer,
-                "tfidf_matrix": self.tfidf_matrix
+                "tfidf_matrix": self.tfidf_matrix,
+                "metadata_signature": metadata_signature,
             }, f)
         print(f"Saved index cache to {CACHE_FILE}", flush=True)
 
@@ -111,6 +132,11 @@ class MNDIndexer:
             print(f"Loading index from cache: {CACHE_FILE}", flush=True)
             with open(CACHE_FILE, "rb") as f:
                 data = pickle.load(f)
+            if data.get("metadata_signature") != self._metadata_signature():
+                print("Index cache is stale; rebuilding from metadata.", flush=True)
+                self.build_index()
+                return
+            else:
                 self.documents = data["documents"]
                 self.entities = data["entities"]
                 self.vectorizer = data["vectorizer"]
@@ -121,7 +147,12 @@ class MNDIndexer:
 
     def search_entities(self, query, state=None, top_k=4):
         """Search structured entity records (equipment, services, NDIS funding, etc.)"""
-        query_words = set(re.findall(r'\w+', query.lower()))
+        query_words = {
+            w for w in re.findall(r'\w+', query.lower())
+            if len(w) > 2 and w not in ENTITY_QUERY_STOPWORDS
+        }
+        if not query_words:
+            return []
         matched = []
         
         for ent in self.entities:
@@ -133,7 +164,6 @@ class MNDIndexer:
             
             # Keyword matching
             for w in query_words:
-                if len(w) <= 2: continue
                 if w in name: score += 3.0
                 if w in cat: score += 2.0
                 if w in desc: score += 1.0

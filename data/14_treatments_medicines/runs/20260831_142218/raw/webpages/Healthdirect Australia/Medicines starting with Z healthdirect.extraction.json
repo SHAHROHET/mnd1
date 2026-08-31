@@ -1,0 +1,1167 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-z-excludenonartg",
+  "title": "Medicines starting with \"Z\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 33571,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Z.S.C. (Arrow)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1301231000168103/z.s.c.-arrow"
+    },
+    {
+      "text": "Z.S.C. (Sigma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30566011000036106/z.s.c.-sigma"
+    },
+    {
+      "text": "Zabep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700921000168102/zabep"
+    },
+    {
+      "text": "Zactin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2952011000036104/zactin"
+    },
+    {
+      "text": "Zaditen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53472011000036103/zaditen"
+    },
+    {
+      "text": "Zaldiar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1027811000168106/zaldiar"
+    },
+    {
+      "text": "Zamic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,815761000168102/zamic"
+    },
+    {
+      "text": "Zan-Extra 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61151000168101/zan-extra-10-10"
+    },
+    {
+      "text": "Zan-Extra 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30331000168108/zan-extra-10-20"
+    },
+    {
+      "text": "Zanidip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4164011000036108/zanidip"
+    },
+    {
+      "text": "Zantac",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3563011000036102/zantac"
+    },
+    {
+      "text": "Zantac Double Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,696410601000036106/zantac-double-strength"
+    },
+    {
+      "text": "Zantac Relief Extra Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13051000168102/zantac-relief-extra-strength"
+    },
+    {
+      "text": "Zanzole 24HR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1396191000168104/zanzole-24hr"
+    },
+    {
+      "text": "Zarontin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15991000168107/zarontin"
+    },
+    {
+      "text": "Zarontin Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45101000168105/zarontin-syrup"
+    },
+    {
+      "text": "Zarzio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,134181000036103/zarzio"
+    },
+    {
+      "text": "Zatamil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16071000168103/zatamil"
+    },
+    {
+      "text": "Zatamil Hydrogel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40831000168104/zatamil-hydrogel"
+    },
+    {
+      "text": "Zavedos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4217011000036101/zavedos"
+    },
+    {
+      "text": "Zavesca",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193401000036103/zavesca"
+    },
+    {
+      "text": "Zavicefta 2000/500",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1322641000168106/zavicefta-2000-500"
+    },
+    {
+      "text": "Zedace",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,82655011000036100/zedace"
+    },
+    {
+      "text": "Zeffix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3071011000036105/zeffix"
+    },
+    {
+      "text": "Zejula",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1432011000168109/zejula"
+    },
+    {
+      "text": "Zelboraf",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40071000036100/zelboraf"
+    },
+    {
+      "text": "Zeldox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2171000168103/zeldox"
+    },
+    {
+      "text": "Zeldox IM",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16471000168107/zeldox-im"
+    },
+    {
+      "text": "Zelitrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925537011000036106/zelitrex"
+    },
+    {
+      "text": "Zemaira",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,961152411000036100/zemaira"
+    },
+    {
+      "text": "Zempreon Inhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1480801000168109/zempreon-inhaler"
+    },
+    {
+      "text": "Zentel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4225011000036100/zentel"
+    },
+    {
+      "text": "Zeposia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1499541000168104/zeposia"
+    },
+    {
+      "text": "Zeposia Initiation Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1499531000168108/zeposia-initiation-pack"
+    },
+    {
+      "text": "Zepzelca",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1692041000168101/zepzelca"
+    },
+    {
+      "text": "Zerbaxa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,745141000168108/zerbaxa"
+    },
+    {
+      "text": "Zertine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1081361000168102/zertine"
+    },
+    {
+      "text": "Zestril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4230011000036107/zestril"
+    },
+    {
+      "text": "Zetaf",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507581000036107/zetaf"
+    },
+    {
+      "text": "Zetin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1007831000168109/zetin"
+    },
+    {
+      "text": "Zetlam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58041000036106/zetlam"
+    },
+    {
+      "text": "Ziagen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3344011000036108/ziagen"
+    },
+    {
+      "text": "Zidoval",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925517011000036104/zidoval"
+    },
+    {
+      "text": "Zient",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1145151000168103/zient"
+    },
+    {
+      "text": "Ziextenzo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1445861000168107/ziextenzo"
+    },
+    {
+      "text": "Zilbrysq",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,568295731000036103/zilbrysq"
+    },
+    {
+      "text": "Zilfojim ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,697891000168103/zilfojim-odt"
+    },
+    {
+      "text": "Zimbus Breezhaler 114/46/136",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,697900891000036102/zimbus-breezhaler-114-46-136"
+    },
+    {
+      "text": "Zimbus Breezhaler 114/46/68",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,571336611000036103/zimbus-breezhaler-114-46-68"
+    },
+    {
+      "text": "Zimstat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3436011000036108/zimstat"
+    },
+    {
+      "text": "Zimybe 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1693561000168101/zimybe-10-10"
+    },
+    {
+      "text": "Zimybe 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1693671000168106/zimybe-10-20"
+    },
+    {
+      "text": "Zimybe 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1693781000168104/zimybe-10-40"
+    },
+    {
+      "text": "Zimybe 10/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1694621000168108/zimybe-10-80"
+    },
+    {
+      "text": "Zinc and Castor Oil (David Craig)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80140011000036102/zinc-and-castor-oil-david-craig"
+    },
+    {
+      "text": "Zinc and Castor Oil (Skin Basics)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1447341000168109/zinc-and-castor-oil-skin-basics"
+    },
+    {
+      "text": "Zinc Chloride (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65067011000036109/zinc-chloride-dbl"
+    },
+    {
+      "text": "Zinc Chloride (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925532011000036109/zinc-chloride-phebra"
+    },
+    {
+      "text": "Zinc Complex (Amplio+ )",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1586021000168101/zinc-complex-amplio+"
+    },
+    {
+      "text": "Zinc Max (Henry Blooms)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705861000036105/zinc-max-henry-blooms"
+    },
+    {
+      "text": "Zinc Plus (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1218141000168104/zinc-plus-cenovis"
+    },
+    {
+      "text": "Zinc plus C (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1171531000168100/zinc-plus-c-nature's-own"
+    },
+    {
+      "text": "Zinc Sulphate (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35880011000036104/zinc-sulphate-phebra"
+    },
+    {
+      "text": "Zincaps",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75967011000036103/zincaps"
+    },
+    {
+      "text": "Zinforo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,119141000036102/zinforo"
+    },
+    {
+      "text": "Zinnat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4288011000036102/zinnat"
+    },
+    {
+      "text": "Zinopril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,69281000036107/zinopril"
+    },
+    {
+      "text": "Zinvit C 250",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,64051000168103/zinvit-c-250"
+    },
+    {
+      "text": "Ziprasidone (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,147971000036107/ziprasidone-apo"
+    },
+    {
+      "text": "Ziprasidone (Genpar)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600261000036108/ziprasidone-genpar"
+    },
+    {
+      "text": "Ziprasidone (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1303501000168108/ziprasidone-gh"
+    },
+    {
+      "text": "Ziprasidone (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705441000036107/ziprasidone-wgr"
+    },
+    {
+      "text": "Ziprasidone Titration Pack (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1028641000168105/ziprasidone-titration-pack-apo"
+    },
+    {
+      "text": "Ziprox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1044151000168106/ziprox"
+    },
+    {
+      "text": "Zirabev",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1463021000168104/zirabev"
+    },
+    {
+      "text": "Zircol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927766011000036101/zircol"
+    },
+    {
+      "text": "Zirdawny",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774921000036100/zirdawny"
+    },
+    {
+      "text": "Zithro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1115071000168100/zithro"
+    },
+    {
+      "text": "Zithromax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3528011000036100/zithromax"
+    },
+    {
+      "text": "Zithromax IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30141000168102/zithromax-iv"
+    },
+    {
+      "text": "Zo-Rub HP Topical Analgesic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1313191000168105/zo-rub-hp-topical-analgesic"
+    },
+    {
+      "text": "Zo-Rub OA Topical Analgesic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1313121000168108/zo-rub-oa-topical-analgesic"
+    },
+    {
+      "text": "Zocor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3904011000036106/zocor"
+    },
+    {
+      "text": "Zoely",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,112561000036101/zoely"
+    },
+    {
+      "text": "Zofran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2471000168108/zofran"
+    },
+    {
+      "text": "Zofran Zydis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21371000168103/zofran-zydis"
+    },
+    {
+      "text": "Zolaccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,747471000168100/zolaccord"
+    },
+    {
+      "text": "Zolacos CP",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19541000168108/zolacos-cp"
+    },
+    {
+      "text": "Zoladex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3435011000036101/zoladex"
+    },
+    {
+      "text": "Zolaten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75937011000036106/zolaten"
+    },
+    {
+      "text": "Zoledronate (DRLA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641241000168105/zoledronate-drla"
+    },
+    {
+      "text": "Zoledronate (RDY)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648521000168109/zoledronate-rdy"
+    },
+    {
+      "text": "Zoledronic Acid (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1640211000168101/zoledronic-acid-accord"
+    },
+    {
+      "text": "Zoledronic Acid (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,731221000168109/zoledronic-acid-apo"
+    },
+    {
+      "text": "Zoledronic Acid (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1018811000168100/zoledronic-acid-apotex"
+    },
+    {
+      "text": "Zoledronic Acid (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1126741000168109/zoledronic-acid-chemmart"
+    },
+    {
+      "text": "Zolfend",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1308561000168101/zolfend"
+    },
+    {
+      "text": "Zolgensma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1539501000168103/zolgensma"
+    },
+    {
+      "text": "Zolgensma Combination Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1540921000168105/zolgensma-combination-pack"
+    },
+    {
+      "text": "Zolinza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922915011000036104/zolinza"
+    },
+    {
+      "text": "Zolmitriptan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,671081000168107/zolmitriptan-apo"
+    },
+    {
+      "text": "Zoloft",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3559011000036109/zoloft"
+    },
+    {
+      "text": "Zolpibell",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72921011000036103/zolpibell"
+    },
+    {
+      "text": "Zolpidem (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698821000168101/zolpidem-an"
+    },
+    {
+      "text": "Zolpidem (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,734961000168109/zolpidem-apo"
+    },
+    {
+      "text": "Zolpidem (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,923301000168103/zolpidem-chemmart"
+    },
+    {
+      "text": "Zolpidem (Hexal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,956531000168108/zolpidem-hexal"
+    },
+    {
+      "text": "Zolpidem (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48261011000036105/zolpidem-pharmacor"
+    },
+    {
+      "text": "Zolpidem (Sandoz Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1456991000168101/zolpidem-sandoz-pharma"
+    },
+    {
+      "text": "Zolpidem (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1748361000168102/zolpidem-wgr"
+    },
+    {
+      "text": "Zolpidem Tartrate (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48281000036108/zolpidem-tartrate-lupin"
+    },
+    {
+      "text": "Zoltrip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,137211000036107/zoltrip"
+    },
+    {
+      "text": "Zometa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3922011000036109/zometa"
+    },
+    {
+      "text": "Zomig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3430011000036105/zomig"
+    },
+    {
+      "text": "Zonegran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65180011000036104/zonegran"
+    },
+    {
+      "text": "Zopheos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933563961000036104/zopheos"
+    },
+    {
+      "text": "Zopiclone (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,689941000168108/zopiclone-apo"
+    },
+    {
+      "text": "Zopiclone (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1119221000168107/zopiclone-apotex"
+    },
+    {
+      "text": "Zopiclone (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1121671000168104/zopiclone-genrx"
+    },
+    {
+      "text": "Zopiclone (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,938001000168105/zopiclone-gh"
+    },
+    {
+      "text": "Zopiclone (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1125681000168103/zopiclone-ipca"
+    },
+    {
+      "text": "Zopiclone (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1372081000168105/zopiclone-pharmacor"
+    },
+    {
+      "text": "Zopiclone (Pharmacy Clinice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1124111000168102/zopiclone-pharmacy-clinice"
+    },
+    {
+      "text": "Zopiclone (PIP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1124151000168101/zopiclone-pip"
+    },
+    {
+      "text": "Zopiclone (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1764451000168108/zopiclone-sandoz"
+    },
+    {
+      "text": "Zopiclone (TN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1124361000168101/zopiclone-tn"
+    },
+    {
+      "text": "Zopral",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51411000168101/zopral"
+    },
+    {
+      "text": "Zopral ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14811000168105/zopral-odt"
+    },
+    {
+      "text": "Zoptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1379481000168107/zoptic"
+    },
+    {
+      "text": "Zoster Immunoglobulin-VF (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51831000168108/zoster-immunoglobulin-vf-csl"
+    },
+    {
+      "text": "Zostrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57621000168104/zostrix"
+    },
+    {
+      "text": "Zostrix HP",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56461000168109/zostrix-hp"
+    },
+    {
+      "text": "Zoton Fastab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15461000168109/zoton-fastab"
+    },
+    {
+      "text": "Zotren",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1187851000168108/zotren"
+    },
+    {
+      "text": "Zotren ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186731000168106/zotren-odt"
+    },
+    {
+      "text": "Zovirax Cold Sore",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34331000168101/zovirax-cold-sore"
+    },
+    {
+      "text": "Zovirax Duo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1086141000168109/zovirax-duo"
+    },
+    {
+      "text": "Zstar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1114711000168105/zstar"
+    },
+    {
+      "text": "Ztab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1121751000168104/ztab"
+    },
+    {
+      "text": "Zumenon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3030011000036101/zumenon"
+    },
+    {
+      "text": "Zyamis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1618671000168100/zyamis"
+    },
+    {
+      "text": "Zyban SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58481000168104/zyban-sr"
+    },
+    {
+      "text": "Zydelig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,714681000168104/zydelig"
+    },
+    {
+      "text": "Zydol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4113011000036107/zydol"
+    },
+    {
+      "text": "Zydol SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14791000168106/zydol-sr"
+    },
+    {
+      "text": "Zyduco",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536981000036108/zyduco"
+    },
+    {
+      "text": "Zykadia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,814261000168108/zykadia"
+    },
+    {
+      "text": "Zylapine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1185261000168102/zylapine"
+    },
+    {
+      "text": "Zylapine ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186981000168109/zylapine-odt"
+    },
+    {
+      "text": "Zyloprim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4205011000036109/zyloprim"
+    },
+    {
+      "text": "Zypine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2721000168103/zypine"
+    },
+    {
+      "text": "Zypine ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14381000168109/zypine-odt"
+    },
+    {
+      "text": "Zyprexa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20561000168108/zyprexa"
+    },
+    {
+      "text": "Zyprexa IM",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48951000168104/zyprexa-im"
+    },
+    {
+      "text": "Zyprexa Relprevv",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10631000168105/zyprexa-relprevv"
+    },
+    {
+      "text": "Zyprexa Zydis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15881000168103/zyprexa-zydis"
+    },
+    {
+      "text": "Zyron",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506421000036107/zyron"
+    },
+    {
+      "text": "Zyrtec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3383011000036102/zyrtec"
+    },
+    {
+      "text": "Zytiga",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87561000036106/zytiga"
+    },
+    {
+      "text": "Zytorvi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,501069111000036102/zytorvi"
+    },
+    {
+      "text": "Zyvox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39746011000036100/zyvox"
+    },
+    {
+      "text": "Zanamivir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20187/zanamivir"
+    },
+    {
+      "text": "Zanubrutinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27047/zanubrutinib"
+    },
+    {
+      "text": "Zidovudine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20185/zidovudine"
+    },
+    {
+      "text": "Zilucoplan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50496/zilucoplan"
+    },
+    {
+      "text": "Zinc",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,13166/zinc"
+    },
+    {
+      "text": "Zinc + ascorbic acid + vitamin A + pyridoxine + magnesium + manganese",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50457/zinc-+-ascorbic-acid-+-vitamin-a-+-pyridoxine-+-magnesium-+-manganese"
+    },
+    {
+      "text": "zinc + magnesium + ascorbic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24450/zinc-+-magnesium-+-ascorbic-acid"
+    },
+    {
+      "text": "Zinc + magnesium + manganese + retinol acetate + pyridoxine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50458/zinc-+-magnesium-+-manganese-+-retinol-acetate-+-pyridoxine"
+    },
+    {
+      "text": "Zinc + manganese + pyridoxine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24414/zinc-+-manganese-+-pyridoxine"
+    },
+    {
+      "text": "Zinc chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20184/zinc-chloride"
+    },
+    {
+      "text": "Zinc oxide + castor oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23224/zinc-oxide-+-castor-oil"
+    },
+    {
+      "text": "zinc oxide + dimeticone-350 + light liquid paraffin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23524/zinc-oxide-+-dimeticone-350-+-light-liquid-paraffin-"
+    },
+    {
+      "text": "Zinc oxide + maize starch + purified talc + chlorphenesin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23879/zinc-oxide-+-maize-starch-+-purified-talc-+-chlorphenesin"
+    },
+    {
+      "text": "Zinc oxide + octyl methoxycinnamate + octocrilene + diethylamino hydroxybenzoyl hexyl benzoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50792/zinc-oxide-+-octyl-methoxycinnamate-+-octocrilene-+-diethylamino-hydroxybenzoyl-hexyl-benzoate"
+    },
+    {
+      "text": "Zinc oxide + peru balsam + benzyl benzoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23571/zinc-oxide-+-peru-balsam-+-benzyl-benzoate"
+    },
+    {
+      "text": "Ziprasidone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20182/ziprasidone"
+    },
+    {
+      "text": "Zolbetuximab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50527/zolbetuximab"
+    },
+    {
+      "text": "Zoledronic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20181/zoledronic-acid"
+    },
+    {
+      "text": "Zolmitriptan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20180/zolmitriptan"
+    },
+    {
+      "text": "Zolpidem",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20179/zolpidem"
+    },
+    {
+      "text": "Zonisamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20178/zonisamide"
+    },
+    {
+      "text": "Zopiclone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20176/zopiclone"
+    },
+    {
+      "text": "Zuclopenthixol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20174/zuclopenthixol"
+    },
+    {
+      "text": "Zuclopenthixol acetate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23098/zuclopenthixol-acetate"
+    },
+    {
+      "text": "Zuclopenthixol decanoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23099/zuclopenthixol-decanoate"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"Z\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"Z\"\n\n## Brand names\n\n- Z.S.C. (Arrow)\n\n- Z.S.C. (Sigma)\n\n- Zabep\n\n- Zactin\n\n- Zaditen\n\n- Zaldiar\n\n- Zamic\n\n- Zan-Extra 10/10\n\n- Zan-Extra 10/20\n\n- Zanidip\n\n- Zantac\n\n- Zantac Double Strength\n\n- Zantac Relief Extra Strength\n\n- Zanzole 24HR\n\n- Zarontin\n\n- Zarontin Syrup\n\n- Zarzio\n\n- Zatamil\n\n- Zatamil Hydrogel\n\n- Zavedos\n\n- Zavesca\n\n- Zavicefta 2000/500\n\n- Zedace\n\n- Zeffix\n\n- Zejula\n\n- Zelboraf\n\n- Zeldox\n\n- Zeldox IM\n\n- Zelitrex\n\n- Zemaira\n\n- Zempreon Inhaler\n\n- Zentel\n\n- Zeposia\n\n- Zeposia Initiation Pack\n\n- Zepzelca\n\n- Zerbaxa\n\n- Zertine\n\n- Zestril\n\n- Zetaf\n\n- Zetin\n\n- Zetlam\n\n- Ziagen\n\n- Zidoval\n\n- Zient\n\n- Ziextenzo\n\n- Zilbrysq\n\n- Zilfojim ODT\n\n- Zimbus Breezhaler 114/46/136\n\n- Zimbus Breezhaler 114/46/68\n\n- Zimstat\n\n- Zimybe 10/10\n\n- Zimybe 10/20\n\n- Zimybe 10/40\n\n- Zimybe 10/80\n\n- Zinc and Castor Oil (David Craig)\n\n- Zinc and Castor Oil (Skin Basics)\n\n- Zinc Chloride (DBL)\n\n- Zinc Chloride (Phebra)\n\n- Zinc Complex (Amplio+\n\n- )\n\n- Zinc Max (Henry Blooms)\n\n- Zinc Plus (Cenovis)\n\n- Zinc plus C (Nature's Own)\n\n- Zinc Sulphate (Phebra)\n\n- Zincaps\n\n- Zinforo\n\n- Zinnat\n\n- Zinopril\n\n- Zinvit C 250\n\n- Ziprasidone (Apo)\n\n- Ziprasidone (Genpar)\n\n- Ziprasidone (GH)\n\n- Ziprasidone (WGR)\n\n- Ziprasidone Titration Pack (Apo)\n\n- Ziprox\n\n- Zirabev\n\n- Zircol\n\n- Zirdawny\n\n- Zithro\n\n- Zithromax\n\n- Zithromax IV\n\n- Zo-Rub HP Topical Analgesic\n\n- Zo-Rub OA Topical Analgesic\n\n- Zocor\n\n- Zoely\n\n- Zofran\n\n- Zofran Zydis\n\n- Zolaccord\n\n- Zolacos CP\n\n- Zoladex\n\n- Zolaten\n\n- Zoledronate (DRLA)\n\n- Zoledronate (RDY)\n\n- Zoledronic Acid (Accord)\n\n- Zoledronic Acid (Apo)\n\n- Zoledronic Acid (Apotex)\n\n- Zoledronic Acid (Chemmart)\n\n- Zolfend\n\n- Zolgensma\n\n- Zolgensma Combination Pack\n\n- Zolinza\n\n- Zolmitriptan (Apo)\n\n- Zoloft\n\n- Zolpibell\n\n- Zolpidem (AN)\n\n- Zolpidem (Apo)\n\n- Zolpidem (Chemmart)\n\n- Zolpidem (Hexal)\n\n- Zolpidem (Pharmacor)\n\n- Zolpidem (Sandoz Pharma)\n\n- Zolpidem (WGR)\n\n- Zolpidem Tartrate (Lupin)\n\n- Zoltrip\n\n- Zometa\n\n- Zomig\n\n- Zonegran\n\n- Zopheos\n\n- Zopiclone (Apo)\n\n- Zopiclone (Apotex)\n\n- Zopiclone (GenRx)\n\n- Zopiclone (GH)\n\n- Zopiclone (Ipca)\n\n- Zopiclone (Pharmacor)\n\n- Zopiclone (Pharmacy Clinice)\n\n- Zopiclone (PIP)\n\n- Zopiclone (Sandoz)\n\n- Zopiclone (TN)\n\n- Zopral\n\n- Zopral ODT\n\n- Zoptic\n\n- Zoster Immunoglobulin-VF (CSL)\n\n- Zostrix\n\n- Zostrix HP\n\n- Zoton Fastab\n\n- Zotren\n\n- Zotren ODT\n\n- Zovirax Cold Sore\n\n- Zovirax Duo\n\n- Zstar\n\n- Ztab\n\n- Zumenon\n\n- Zyamis\n\n- Zyban SR\n\n- Zydelig\n\n- Zydol\n\n- Zydol SR\n\n- Zyduco\n\n- Zykadia\n\n- Zylapine\n\n- Zylapine ODT\n\n- Zyloprim\n\n- Zypine\n\n- Zypine ODT\n\n- Zyprexa\n\n- Zyprexa IM\n\n- Zyprexa Relprevv\n\n- Zyprexa Zydis\n\n- Zyron\n\n- Zyrtec\n\n- Zytiga\n\n- Zytorvi\n\n- Zyvox\n\nPREV 1 2 3 4 NEXT\n\n## Active ingredients\n\n- Zanamivir\n\n- Zanubrutinib\n\n- Zidovudine\n\n- Zilucoplan\n\n- Zinc\n\n- Zinc +\n\n- ascorbic acid +\n\n- vitamin A +\n\n- pyridoxine +\n\n- magnesium +\n\n- manganese\n\n- ascorbic acid\n\n- manganese +\n\n- retinol acetate +\n\n- pyridoxine\n\n- Zinc chloride\n\n- Zinc oxide +\n\n- castor oil\n\n- dimeticone-350 +\n\n- light liquid paraffin\n\n- maize starch +\n\n- purified talc +\n\n- chlorphenesin\n\n- octyl methoxycinnamate +\n\n- octocrilene +\n\n- diethylamino hydroxybenzoyl hexyl benzoate\n\n- peru balsam +\n\n- benzyl benzoate\n\n- Ziprasidone\n\n- Zolbetuximab\n\n- Zoledronic acid\n\n- Zolmitriptan\n\n- Zolpidem\n\n- Zonisamide\n\n- Zopiclone\n\n- Zuclopenthixol\n\n- Zuclopenthixol acetate\n\n- Zuclopenthixol decanoate\n\nPREV 1 2 3 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Z.S.C. (Arrow): https://www.healthdirect.gov.au/medicines/brand/amt,1301231000168103/z.s.c.-arrow\n\n- Z.S.C. (Sigma): https://www.healthdirect.gov.au/medicines/brand/amt,30566011000036106/z.s.c.-sigma\n\n- Zabep: https://www.healthdirect.gov.au/medicines/brand/amt,700921000168102/zabep\n\n- Zactin: https://www.healthdirect.gov.au/medicines/brand/amt,2952011000036104/zactin\n\n- Zaditen: https://www.healthdirect.gov.au/medicines/brand/amt,53472011000036103/zaditen\n\n- Zaldiar: https://www.healthdirect.gov.au/medicines/brand/amt,1027811000168106/zaldiar\n\n- Zamic: https://www.healthdirect.gov.au/medicines/brand/amt,815761000168102/zamic\n\n- Zan-Extra 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,61151000168101/zan-extra-10-10\n\n- Zan-Extra 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,30331000168108/zan-extra-10-20\n\n- Zanidip: https://www.healthdirect.gov.au/medicines/brand/amt,4164011000036108/zanidip\n\n- Zantac: https://www.healthdirect.gov.au/medicines/brand/amt,3563011000036102/zantac\n\n- Zantac Double Strength: https://www.healthdirect.gov.au/medicines/brand/amt,696410601000036106/zantac-double-strength\n\n- Zantac Relief Extra Strength: https://www.healthdirect.gov.au/medicines/brand/amt,13051000168102/zantac-relief-extra-strength\n\n- Zanzole 24HR: https://www.healthdirect.gov.au/medicines/brand/amt,1396191000168104/zanzole-24hr\n\n- Zarontin: https://www.healthdirect.gov.au/medicines/brand/amt,15991000168107/zarontin\n\n- Zarontin Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,45101000168105/zarontin-syrup\n\n- Zarzio: https://www.healthdirect.gov.au/medicines/brand/amt,134181000036103/zarzio\n\n- Zatamil: https://www.healthdirect.gov.au/medicines/brand/amt,16071000168103/zatamil\n\n- Zatamil Hydrogel: https://www.healthdirect.gov.au/medicines/brand/amt,40831000168104/zatamil-hydrogel\n\n- Zavedos: https://www.healthdirect.gov.au/medicines/brand/amt,4217011000036101/zavedos\n\n- Zavesca: https://www.healthdirect.gov.au/medicines/brand/amt,933193401000036103/zavesca\n\n- Zavicefta 2000/500: https://www.healthdirect.gov.au/medicines/brand/amt,1322641000168106/zavicefta-2000-500\n\n- Zedace: https://www.healthdirect.gov.au/medicines/brand/amt,82655011000036100/zedace\n\n- Zeffix: https://www.healthdirect.gov.au/medicines/brand/amt,3071011000036105/zeffix\n\n- Zejula: https://www.healthdirect.gov.au/medicines/brand/amt,1432011000168109/zejula\n\n- Zelboraf: https://www.healthdirect.gov.au/medicines/brand/amt,40071000036100/zelboraf\n\n- Zeldox: https://www.healthdirect.gov.au/medicines/brand/amt,2171000168103/zeldox\n\n- Zeldox IM: https://www.healthdirect.gov.au/medicines/brand/amt,16471000168107/zeldox-im\n\n- Zelitrex: https://www.healthdirect.gov.au/medicines/brand/amt,925537011000036106/zelitrex\n\n- Zemaira: https://www.healthdirect.gov.au/medicines/brand/amt,961152411000036100/zemaira\n\n- Zempreon Inhaler: https://www.healthdirect.gov.au/medicines/brand/amt,1480801000168109/zempreon-inhaler\n\n- Zentel: https://www.healthdirect.gov.au/medicines/brand/amt,4225011000036100/zentel\n\n- Zeposia: https://www.healthdirect.gov.au/medicines/brand/amt,1499541000168104/zeposia\n\n- Zeposia Initiation Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1499531000168108/zeposia-initiation-pack\n\n- Zepzelca: https://www.healthdirect.gov.au/medicines/brand/amt,1692041000168101/zepzelca\n\n- Zerbaxa: https://www.healthdirect.gov.au/medicines/brand/amt,745141000168108/zerbaxa\n\n- Zertine: https://www.healthdirect.gov.au/medicines/brand/amt,1081361000168102/zertine\n\n- Zestril: https://www.healthdirect.gov.au/medicines/brand/amt,4230011000036107/zestril\n\n- Zetaf: https://www.healthdirect.gov.au/medicines/brand/amt,933507581000036107/zetaf\n\n- Zetin: https://www.healthdirect.gov.au/medicines/brand/amt,1007831000168109/zetin\n\n- Zetlam: https://www.healthdirect.gov.au/medicines/brand/amt,58041000036106/zetlam\n\n- Ziagen: https://www.healthdirect.gov.au/medicines/brand/amt,3344011000036108/ziagen\n\n- Zidoval: https://www.healthdirect.gov.au/medicines/brand/amt,925517011000036104/zidoval\n\n- Zient: https://www.healthdirect.gov.au/medicines/brand/amt,1145151000168103/zient\n\n- Ziextenzo: https://www.healthdirect.gov.au/medicines/brand/amt,1445861000168107/ziextenzo\n\n- Zilbrysq: https://www.healthdirect.gov.au/medicines/brand/amt,568295731000036103/zilbrysq\n\n- Zilfojim ODT: https://www.healthdirect.gov.au/medicines/brand/amt,697891000168103/zilfojim-odt\n\n- Zimbus Breezhaler 114/46/136: https://www.healthdirect.gov.au/medicines/brand/amt,697900891000036102/zimbus-breezhaler-114-46-136\n\n- Zimbus Breezhaler 114/46/68: https://www.healthdirect.gov.au/medicines/brand/amt,571336611000036103/zimbus-breezhaler-114-46-68\n\n- Zimstat: https://www.healthdirect.gov.au/medicines/brand/amt,3436011000036108/zimstat\n\n- Zimybe 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,1693561000168101/zimybe-10-10\n\n- Zimybe 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,1693671000168106/zimybe-10-20\n\n- Zimybe 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,1693781000168104/zimybe-10-40\n\n- Zimybe 10/80: https://www.healthdirect.gov.au/medicines/brand/amt,1694621000168108/zimybe-10-80\n\n- Zinc and Castor Oil (David Craig): https://www.healthdirect.gov.au/medicines/brand/amt,80140011000036102/zinc-and-castor-oil-david-craig\n\n- Zinc and Castor Oil (Skin Basics): https://www.healthdirect.gov.au/medicines/brand/amt,1447341000168109/zinc-and-castor-oil-skin-basics\n\n- Zinc Chloride (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,65067011000036109/zinc-chloride-dbl\n\n- Zinc Chloride (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,925532011000036109/zinc-chloride-phebra\n\n- Zinc Complex (Amplio+ ): https://www.healthdirect.gov.au/medicines/brand/amt,1586021000168101/zinc-complex-amplio+\n\n- Zinc Max (Henry Blooms): https://www.healthdirect.gov.au/medicines/brand/amt,933705861000036105/zinc-max-henry-blooms\n\n- Zinc Plus (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1218141000168104/zinc-plus-cenovis\n\n- Zinc plus C (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1171531000168100/zinc-plus-c-nature's-own\n\n- Zinc Sulphate (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,35880011000036104/zinc-sulphate-phebra\n\n- Zincaps: https://www.healthdirect.gov.au/medicines/brand/amt,75967011000036103/zincaps\n\n- Zinforo: https://www.healthdirect.gov.au/medicines/brand/amt,119141000036102/zinforo\n\n- Zinnat: https://www.healthdirect.gov.au/medicines/brand/amt,4288011000036102/zinnat\n\n- Zinopril: https://www.healthdirect.gov.au/medicines/brand/amt,69281000036107/zinopril\n\n- Zinvit C 250: https://www.healthdirect.gov.au/medicines/brand/amt,64051000168103/zinvit-c-250\n\n- Ziprasidone (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,147971000036107/ziprasidone-apo\n\n- Ziprasidone (Genpar): https://www.healthdirect.gov.au/medicines/brand/amt,933600261000036108/ziprasidone-genpar\n\n- Ziprasidone (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1303501000168108/ziprasidone-gh\n\n- Ziprasidone (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933705441000036107/ziprasidone-wgr\n\n- Ziprasidone Titration Pack (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1028641000168105/ziprasidone-titration-pack-apo\n\n- Ziprox: https://www.healthdirect.gov.au/medicines/brand/amt,1044151000168106/ziprox\n\n- Zirabev: https://www.healthdirect.gov.au/medicines/brand/amt,1463021000168104/zirabev\n\n- Zircol: https://www.healthdirect.gov.au/medicines/brand/amt,927766011000036101/zircol\n\n- Zirdawny: https://www.healthdirect.gov.au/medicines/brand/amt,933774921000036100/zirdawny\n\n- Zithro: https://www.healthdirect.gov.au/medicines/brand/amt,1115071000168100/zithro\n\n- Zithromax: https://www.healthdirect.gov.au/medicines/brand/amt,3528011000036100/zithromax\n\n- Zithromax IV: https://www.healthdirect.gov.au/medicines/brand/amt,30141000168102/zithromax-iv\n\n- Zo-Rub HP Topical Analgesic: https://www.healthdirect.gov.au/medicines/brand/amt,1313191000168105/zo-rub-hp-topical-analgesic\n\n- Zo-Rub OA Topical Analgesic: https://www.healthdirect.gov.au/medicines/brand/amt,1313121000168108/zo-rub-oa-topical-analgesic\n\n- Zocor: https://www.healthdirect.gov.au/medicines/brand/amt,3904011000036106/zocor\n\n- Zoely: https://www.healthdirect.gov.au/medicines/brand/amt,112561000036101/zoely\n\n- Zofran: https://www.healthdirect.gov.au/medicines/brand/amt,2471000168108/zofran\n\n- Zofran Zydis: https://www.healthdirect.gov.au/medicines/brand/amt,21371000168103/zofran-zydis\n\n- Zolaccord: https://www.healthdirect.gov.au/medicines/brand/amt,747471000168100/zolaccord\n\n- Zolacos CP: https://www.healthdirect.gov.au/medicines/brand/amt,19541000168108/zolacos-cp\n\n- Zoladex: https://www.healthdirect.gov.au/medicines/brand/amt,3435011000036101/zoladex\n\n- Zolaten: https://www.healthdirect.gov.au/medicines/brand/amt,75937011000036106/zolaten\n\n- Zoledronate (DRLA): https://www.healthdirect.gov.au/medicines/brand/amt,1641241000168105/zoledronate-drla\n\n- Zoledronate (RDY): https://www.healthdirect.gov.au/medicines/brand/amt,1648521000168109/zoledronate-rdy\n\n- Zoledronic Acid (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1640211000168101/zoledronic-acid-accord\n\n- Zoledronic Acid (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,731221000168109/zoledronic-acid-apo\n\n- Zoledronic Acid (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1018811000168100/zoledronic-acid-apotex\n\n- Zoledronic Acid (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,1126741000168109/zoledronic-acid-chemmart\n\n- Zolfend: https://www.healthdirect.gov.au/medicines/brand/amt,1308561000168101/zolfend\n\n- Zolgensma: https://www.healthdirect.gov.au/medicines/brand/amt,1539501000168103/zolgensma\n\n- Zolgensma Combination Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1540921000168105/zolgensma-combination-pack\n\n- Zolinza: https://www.healthdirect.gov.au/medicines/brand/amt,922915011000036104/zolinza\n\n- Zolmitriptan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,671081000168107/zolmitriptan-apo\n\n- Zoloft: https://www.healthdirect.gov.au/medicines/brand/amt,3559011000036109/zoloft\n\n- Zolpibell: https://www.healthdirect.gov.au/medicines/brand/amt,72921011000036103/zolpibell\n\n- Zolpidem (AN): https://www.healthdirect.gov.au/medicines/brand/amt,698821000168101/zolpidem-an\n\n- Zolpidem (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,734961000168109/zolpidem-apo\n\n- Zolpidem (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,923301000168103/zolpidem-chemmart\n\n- Zolpidem (Hexal): https://www.healthdirect.gov.au/medicines/brand/amt,956531000168108/zolpidem-hexal\n\n- Zolpidem (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,48261011000036105/zolpidem-pharmacor\n\n- Zolpidem (Sandoz Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,1456991000168101/zolpidem-sandoz-pharma\n\n- Zolpidem (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1748361000168102/zolpidem-wgr\n\n- Zolpidem Tartrate (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,48281000036108/zolpidem-tartrate-lupin\n\n- Zoltrip: https://www.healthdirect.gov.au/medicines/brand/amt,137211000036107/zoltrip\n\n- Zometa: https://www.healthdirect.gov.au/medicines/brand/amt,3922011000036109/zometa\n\n- Zomig: https://www.healthdirect.gov.au/medicines/brand/amt,3430011000036105/zomig\n\n- Zonegran: https://www.healthdirect.gov.au/medicines/brand/amt,65180011000036104/zonegran\n\n- Zopheos: https://www.healthdirect.gov.au/medicines/brand/amt,933563961000036104/zopheos\n\n- Zopiclone (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,689941000168108/zopiclone-apo\n\n- Zopiclone (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1119221000168107/zopiclone-apotex\n\n- Zopiclone (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,1121671000168104/zopiclone-genrx\n\n- Zopiclone (GH): https://www.healthdirect.gov.au/medicines/brand/amt,938001000168105/zopiclone-gh\n\n- Zopiclone (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,1125681000168103/zopiclone-ipca\n\n- Zopiclone (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1372081000168105/zopiclone-pharmacor\n\n- Zopiclone (Pharmacy Clinice): https://www.healthdirect.gov.au/medicines/brand/amt,1124111000168102/zopiclone-pharmacy-clinice\n\n- Zopiclone (PIP): https://www.healthdirect.gov.au/medicines/brand/amt,1124151000168101/zopiclone-pip\n\n- Zopiclone (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1764451000168108/zopiclone-sandoz\n\n- Zopiclone (TN): https://www.healthdirect.gov.au/medicines/brand/amt,1124361000168101/zopiclone-tn\n\n- Zopral: https://www.healthdirect.gov.au/medicines/brand/amt,51411000168101/zopral\n\n- Zopral ODT: https://www.healthdirect.gov.au/medicines/brand/amt,14811000168105/zopral-odt\n\n- Zoptic: https://www.healthdirect.gov.au/medicines/brand/amt,1379481000168107/zoptic\n\n- Zoster Immunoglobulin-VF (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,51831000168108/zoster-immunoglobulin-vf-csl\n\n- Zostrix: https://www.healthdirect.gov.au/medicines/brand/amt,57621000168104/zostrix\n\n- Zostrix HP: https://www.healthdirect.gov.au/medicines/brand/amt,56461000168109/zostrix-hp\n\n- Zoton Fastab: https://www.healthdirect.gov.au/medicines/brand/amt,15461000168109/zoton-fastab\n\n- Zotren: https://www.healthdirect.gov.au/medicines/brand/amt,1187851000168108/zotren\n\n- Zotren ODT: https://www.healthdirect.gov.au/medicines/brand/amt,1186731000168106/zotren-odt\n\n- Zovirax Cold Sore: https://www.healthdirect.gov.au/medicines/brand/amt,34331000168101/zovirax-cold-sore\n\n- Zovirax Duo: https://www.healthdirect.gov.au/medicines/brand/amt,1086141000168109/zovirax-duo\n\n- Zstar: https://www.healthdirect.gov.au/medicines/brand/amt,1114711000168105/zstar\n\n- Ztab: https://www.healthdirect.gov.au/medicines/brand/amt,1121751000168104/ztab\n\n- Zumenon: https://www.healthdirect.gov.au/medicines/brand/amt,3030011000036101/zumenon\n\n- Zyamis: https://www.healthdirect.gov.au/medicines/brand/amt,1618671000168100/zyamis\n\n- Zyban SR: https://www.healthdirect.gov.au/medicines/brand/amt,58481000168104/zyban-sr\n\n- Zydelig: https://www.healthdirect.gov.au/medicines/brand/amt,714681000168104/zydelig\n\n- Zydol: https://www.healthdirect.gov.au/medicines/brand/amt,4113011000036107/zydol\n\n- Zydol SR: https://www.healthdirect.gov.au/medicines/brand/amt,14791000168106/zydol-sr\n\n- Zyduco: https://www.healthdirect.gov.au/medicines/brand/amt,933536981000036108/zyduco\n\n- Zykadia: https://www.healthdirect.gov.au/medicines/brand/amt,814261000168108/zykadia\n\n- Zylapine: https://www.healthdirect.gov.au/medicines/brand/amt,1185261000168102/zylapine\n\n- Zylapine ODT: https://www.healthdirect.gov.au/medicines/brand/amt,1186981000168109/zylapine-odt\n\n- Zyloprim: https://www.healthdirect.gov.au/medicines/brand/amt,4205011000036109/zyloprim\n\n- Zypine: https://www.healthdirect.gov.au/medicines/brand/amt,2721000168103/zypine\n\n- Zypine ODT: https://www.healthdirect.gov.au/medicines/brand/amt,14381000168109/zypine-odt\n\n- Zyprexa: https://www.healthdirect.gov.au/medicines/brand/amt,20561000168108/zyprexa\n\n- Zyprexa IM: https://www.healthdirect.gov.au/medicines/brand/amt,48951000168104/zyprexa-im\n\n- Zyprexa Relprevv: https://www.healthdirect.gov.au/medicines/brand/amt,10631000168105/zyprexa-relprevv\n\n- Zyprexa Zydis: https://www.healthdirect.gov.au/medicines/brand/amt,15881000168103/zyprexa-zydis\n\n- Zyron: https://www.healthdirect.gov.au/medicines/brand/amt,933506421000036107/zyron\n\n- Zyrtec: https://www.healthdirect.gov.au/medicines/brand/amt,3383011000036102/zyrtec\n\n- Zytiga: https://www.healthdirect.gov.au/medicines/brand/amt,87561000036106/zytiga\n\n- Zytorvi: https://www.healthdirect.gov.au/medicines/brand/amt,501069111000036102/zytorvi\n\n- Zyvox: https://www.healthdirect.gov.au/medicines/brand/amt,39746011000036100/zyvox\n\n- Zanamivir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20187/zanamivir\n\n- Zanubrutinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27047/zanubrutinib\n\n- Zidovudine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20185/zidovudine\n\n- Zilucoplan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50496/zilucoplan\n\n- Zinc: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,13166/zinc\n\n- Zinc + ascorbic acid + vitamin A + pyridoxine + magnesium + manganese: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50457/zinc-+-ascorbic-acid-+-vitamin-a-+-pyridoxine-+-magnesium-+-manganese\n\n- zinc + magnesium + ascorbic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24450/zinc-+-magnesium-+-ascorbic-acid\n\n- Zinc + magnesium + manganese + retinol acetate + pyridoxine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50458/zinc-+-magnesium-+-manganese-+-retinol-acetate-+-pyridoxine\n\n- Zinc + manganese + pyridoxine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24414/zinc-+-manganese-+-pyridoxine\n\n- Zinc chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20184/zinc-chloride\n\n- Zinc oxide + castor oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23224/zinc-oxide-+-castor-oil\n\n- zinc oxide + dimeticone-350 + light liquid paraffin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23524/zinc-oxide-+-dimeticone-350-+-light-liquid-paraffin-\n\n- Zinc oxide + maize starch + purified talc + chlorphenesin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23879/zinc-oxide-+-maize-starch-+-purified-talc-+-chlorphenesin\n\n- Zinc oxide + octyl methoxycinnamate + octocrilene + diethylamino hydroxybenzoyl hexyl benzoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50792/zinc-oxide-+-octyl-methoxycinnamate-+-octocrilene-+-diethylamino-hydroxybenzoyl-hexyl-benzoate\n\n- Zinc oxide + peru balsam + benzyl benzoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23571/zinc-oxide-+-peru-balsam-+-benzyl-benzoate\n\n- Ziprasidone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20182/ziprasidone\n\n- Zolbetuximab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50527/zolbetuximab\n\n- Zoledronic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20181/zoledronic-acid\n\n- Zolmitriptan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20180/zolmitriptan\n\n- Zolpidem: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20179/zolpidem\n\n- Zonisamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20178/zonisamide\n\n- Zopiclone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20176/zopiclone\n\n- Zuclopenthixol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20174/zuclopenthixol\n\n- Zuclopenthixol acetate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23098/zuclopenthixol-acetate\n\n- Zuclopenthixol decanoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23099/zuclopenthixol-decanoate\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

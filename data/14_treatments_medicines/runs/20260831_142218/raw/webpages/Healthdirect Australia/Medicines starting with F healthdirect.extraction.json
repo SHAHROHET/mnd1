@@ -1,0 +1,2087 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-f-excludenonartg",
+  "title": "Medicines starting with \"F\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 67130,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Fab Iron plus Vitamin B Complex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1213071000168103/fab-iron-plus-vitamin-b-complex"
+    },
+    {
+      "text": "Fab Iron plus Vitamin B Complex and Zinc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1212841000168108/fab-iron-plus-vitamin-b-complex-and-zinc"
+    },
+    {
+      "text": "Fabhalta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933280101000036100/fabhalta"
+    },
+    {
+      "text": "Fabrazyme",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39652011000036106/fabrazyme"
+    },
+    {
+      "text": "Famciclovir (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2791000168101/famciclovir-apo"
+    },
+    {
+      "text": "Famciclovir (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,991801000168100/famciclovir-apotex"
+    },
+    {
+      "text": "Famciclovir (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1545951000168106/famciclovir-mylan"
+    },
+    {
+      "text": "Famciclovir (RJIC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650211000036103/famciclovir-rjic"
+    },
+    {
+      "text": "Famciclovir (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85265011000036105/famciclovir-sandoz"
+    },
+    {
+      "text": "Famciclovir (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770681000168102/famciclovir-wgr"
+    },
+    {
+      "text": "Famciclovir Once (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,736001000168102/famciclovir-once-apohealth"
+    },
+    {
+      "text": "Famotidine (TIH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537361000036101/famotidine-tih"
+    },
+    {
+      "text": "Fampyra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32161000036109/fampyra"
+    },
+    {
+      "text": "Famvic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933704611000036108/famvic"
+    },
+    {
+      "text": "Famvir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14551000168109/famvir"
+    },
+    {
+      "text": "Fasenra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1231111000168103/fasenra"
+    },
+    {
+      "text": "Fasturtec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39660011000036100/fasturtec"
+    },
+    {
+      "text": "Faverin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3891011000036102/faverin"
+    },
+    {
+      "text": "Favic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,86581011000036100/favic"
+    },
+    {
+      "text": "Favic for Cold Sores (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1601221000168107/favic-for-cold-sores-chemists'-own"
+    },
+    {
+      "text": "Febexic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703401000036105/febexic"
+    },
+    {
+      "text": "Febridol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,37281000168101/febridol"
+    },
+    {
+      "text": "Febridol Co",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4251000168109/febridol-co"
+    },
+    {
+      "text": "Febridol Infant Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56301000168100/febridol-infant-drops"
+    },
+    {
+      "text": "Fefol Spansule",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10751000168108/fefol-spansule"
+    },
+    {
+      "text": "Feiba-NF 1000 U",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58141000168100/feiba-nf-1000-u"
+    },
+    {
+      "text": "Feiba-NF 2500 U",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58561000168109/feiba-nf-2500-u"
+    },
+    {
+      "text": "Feiba-NF 500 U",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42991000168106/feiba-nf-500-u"
+    },
+    {
+      "text": "Feldene-D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1671000168100/feldene-d"
+    },
+    {
+      "text": "Felodil XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,43531000168107/felodil-xr"
+    },
+    {
+      "text": "Felodipine (RJIC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650481000036107/felodipine-rjic"
+    },
+    {
+      "text": "Felodipine ER (AZN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1683261000168102/felodipine-er-azn"
+    },
+    {
+      "text": "Felodur ER",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,12641000168102/felodur-er"
+    },
+    {
+      "text": "Fem V (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1133361000168101/fem-v-amcal"
+    },
+    {
+      "text": "Fem V 6 Day (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1080411000168102/fem-v-6-day-amcal"
+    },
+    {
+      "text": "Femara",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2979011000036107/femara"
+    },
+    {
+      "text": "Femazole Duo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26061000036109/femazole-duo"
+    },
+    {
+      "text": "Femazole Duo (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1544341000168109/femazole-duo-chemists'-own"
+    },
+    {
+      "text": "Femazole One (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15841000168108/femazole-one-chemists'-own"
+    },
+    {
+      "text": "Femcream",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87851000036106/femcream"
+    },
+    {
+      "text": "Femcream 3 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1428351000168107/femcream-3-day"
+    },
+    {
+      "text": "Femin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1319411000168105/femin"
+    },
+    {
+      "text": "Femme-Tab 20/100",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507601000036102/femme-tab-20-100"
+    },
+    {
+      "text": "Femme-Tab 30/150",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507611000036100/femme-tab-30-150"
+    },
+    {
+      "text": "Femme-Tab ED 20/100",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700015531000036100/femme-tab-ed-20-100"
+    },
+    {
+      "text": "Femme-Tab ED 30/150",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700015541000036105/femme-tab-ed-30-150"
+    },
+    {
+      "text": "Femolet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,541000036103/femolet"
+    },
+    {
+      "text": "Femoston 1/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1681000168102/femoston-1-10"
+    },
+    {
+      "text": "Femoston 2/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30741000168103/femoston-2-10"
+    },
+    {
+      "text": "Femoston-Conti",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25041000168106/femoston-conti"
+    },
+    {
+      "text": "Femrelief Duo (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1143031000168107/femrelief-duo-pharmacy-action"
+    },
+    {
+      "text": "Femrelief One (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38271000168100/femrelief-one-pharmacy-action"
+    },
+    {
+      "text": "Femzole One",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2761000168108/femzole-one"
+    },
+    {
+      "text": "Fenac EC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1712711000168109/fenac-ec"
+    },
+    {
+      "text": "Fenmol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1305501000168109/fenmol"
+    },
+    {
+      "text": "Fenocol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1347341000168101/fenocol"
+    },
+    {
+      "text": "Fenofibrate (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1417421000168100/fenofibrate-apo"
+    },
+    {
+      "text": "Fenofibrate (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650231000036107/fenofibrate-arx"
+    },
+    {
+      "text": "Fenofibrate (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1681871000168105/fenofibrate-btc"
+    },
+    {
+      "text": "Fenofibrate (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1347451000168105/fenofibrate-cipla"
+    },
+    {
+      "text": "Fenofibrate (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1645231000168103/fenofibrate-lupin"
+    },
+    {
+      "text": "Fenofibrate (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,839201000168104/fenofibrate-mylan"
+    },
+    {
+      "text": "Fenofibrate (Ran)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,770521061000036100/fenofibrate-ran"
+    },
+    {
+      "text": "Fenofibrate (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,763691000168103/fenofibrate-rbx"
+    },
+    {
+      "text": "Fenofibrate (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1435721000168107/fenofibrate-sandoz"
+    },
+    {
+      "text": "Fenofibrate (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1587081000168104/fenofibrate-viatris"
+    },
+    {
+      "text": "Fenofibrate (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772271000168101/fenofibrate-wgr"
+    },
+    {
+      "text": "Fenpaed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53172011000036102/fenpaed"
+    },
+    {
+      "text": "Fenpaed Double Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1141491000168104/fenpaed-double-strength"
+    },
+    {
+      "text": "Fentanyl (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,778891000168102/fentanyl-apo"
+    },
+    {
+      "text": "Fentanyl (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,123941000036106/fentanyl-aspen"
+    },
+    {
+      "text": "Fentanyl (B Braun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,752351000168103/fentanyl-b-braun"
+    },
+    {
+      "text": "Fentanyl (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39741011000036105/fentanyl-dbl"
+    },
+    {
+      "text": "Fentanyl (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701591000168100/fentanyl-gh"
+    },
+    {
+      "text": "Fentanyl (Hameln)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,898441881000036102/fentanyl-hameln"
+    },
+    {
+      "text": "Fentanyl (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1640671000168106/fentanyl-juno"
+    },
+    {
+      "text": "Fentanyl (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1702701000168109/fentanyl-medicianz"
+    },
+    {
+      "text": "Fentanyl (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1702901000168107/fentanyl-medsurge"
+    },
+    {
+      "text": "Fentanyl (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933234321000036106/fentanyl-sandoz"
+    },
+    {
+      "text": "Fentora",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,740631000168104/fentora"
+    },
+    {
+      "text": "Ferinject",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48071000036102/ferinject"
+    },
+    {
+      "text": "Ferivo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703591000036101/ferivo"
+    },
+    {
+      "text": "Ferric Carboxymaltose (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564121000036109/ferric-carboxymaltose-sandoz"
+    },
+    {
+      "text": "Ferric Carboxymaltose (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600731000036105/ferric-carboxymaltose-teva"
+    },
+    {
+      "text": "Ferricarbo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736581000036101/ferricarbo"
+    },
+    {
+      "text": "Ferriprox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2968011000036107/ferriprox"
+    },
+    {
+      "text": "Ferrive",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651331000036105/ferrive"
+    },
+    {
+      "text": "Ferro plus Vit C (TerryWhite Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,226287381000036106/ferro-plus-vit-c-terrywhite-chemmart"
+    },
+    {
+      "text": "Ferro-f",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30567011000036109/ferro-f"
+    },
+    {
+      "text": "Ferro-grad",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1336421000168100/ferro-grad"
+    },
+    {
+      "text": "Ferro-Grad C",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53373011000036103/ferro-grad-c"
+    },
+    {
+      "text": "Ferro-Grad F",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1293471000168106/ferro-grad-f"
+    },
+    {
+      "text": "Ferro-Gradumet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53178011000036104/ferro-gradumet"
+    },
+    {
+      "text": "Ferro-Liquid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933218881000036101/ferro-liquid"
+    },
+    {
+      "text": "Ferro-Max C",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1542551000168107/ferro-max-c"
+    },
+    {
+      "text": "Ferro-Tab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933218891000036104/ferro-tab"
+    },
+    {
+      "text": "Ferrogen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1469151000168108/ferrogen"
+    },
+    {
+      "text": "Ferrogen Iron plus Vitamin C",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1468501000168107/ferrogen-iron-plus-vitamin-c"
+    },
+    {
+      "text": "Ferrosig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4064011000036100/ferrosig"
+    },
+    {
+      "text": "Ferrous Fumarate (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1087911000168109/ferrous-fumarate-gppl"
+    },
+    {
+      "text": "Fess",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5581000168103/fess"
+    },
+    {
+      "text": "Fexit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1466301000168104/fexit"
+    },
+    {
+      "text": "Fexo (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53326011000036108/fexo-amcal"
+    },
+    {
+      "text": "Fexo (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53270011000036103/fexo-chemists'-own"
+    },
+    {
+      "text": "Fexofenadine (Medreich)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1128201000168100/fexofenadine-medreich"
+    },
+    {
+      "text": "Fexofenadine Hayfever Allergy Relief (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1127341000168105/fexofenadine-hayfever-allergy-relief-apo"
+    },
+    {
+      "text": "Fexofenadine Hayfever and Allergy Relief (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1095471000168102/fexofenadine-hayfever-and-allergy-relief-apohealth"
+    },
+    {
+      "text": "Fexofenadine Hayfever and Allergy Relief (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,988671000168102/fexofenadine-hayfever-and-allergy-relief-blooms-the-chemist"
+    },
+    {
+      "text": "Fexorelief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,123861000036100/fexorelief"
+    },
+    {
+      "text": "FGF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53418011000036107/fgf"
+    },
+    {
+      "text": "Fibro-Vein",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35954011000036108/fibro-vein"
+    },
+    {
+      "text": "Fibsol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4290011000036103/fibsol"
+    },
+    {
+      "text": "Filosir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1429811000168108/filosir"
+    },
+    {
+      "text": "Finacea",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53281011000036102/finacea"
+    },
+    {
+      "text": "Finapen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,685131000168104/finapen"
+    },
+    {
+      "text": "Finasta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52392011000036108/finasta"
+    },
+    {
+      "text": "Finasteride (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,106641000036104/finasteride-apo"
+    },
+    {
+      "text": "Finasteride (Aurobindo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1073461000168102/finasteride-aurobindo"
+    },
+    {
+      "text": "Finasteride (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506701000036107/finasteride-cipla"
+    },
+    {
+      "text": "Finasteride (GA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26131000036104/finasteride-ga"
+    },
+    {
+      "text": "Finasteride (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,678371000168100/finasteride-gh"
+    },
+    {
+      "text": "Finasteride (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1519781000168109/finasteride-mylan"
+    },
+    {
+      "text": "Finasteride (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,106471000036109/finasteride-pharmacor"
+    },
+    {
+      "text": "Finasteride (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1739131000168103/finasteride-viatris"
+    },
+    {
+      "text": "Finasteride (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,167447151000036103/finasteride-wgr"
+    },
+    {
+      "text": "Fingolimod (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1556031000168109/fingolimod-akm"
+    },
+    {
+      "text": "Fingolimod (Devatis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507331000036104/fingolimod-devatis"
+    },
+    {
+      "text": "Fingolimod (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,277948001000036102/fingolimod-dr.-reddy's"
+    },
+    {
+      "text": "Fingolimod (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,967808381000036102/fingolimod-intas"
+    },
+    {
+      "text": "Fingolimod (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1637711000168108/fingolimod-pharmacor"
+    },
+    {
+      "text": "Fingolimod (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1185691000168106/fingolimod-sandoz"
+    },
+    {
+      "text": "Fingolimod (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1656431000168105/fingolimod-sun"
+    },
+    {
+      "text": "Fingolimod (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663731000168102/fingolimod-teva"
+    },
+    {
+      "text": "Fingolis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1671741000168104/fingolis"
+    },
+    {
+      "text": "Finnacar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,79339011000036102/finnacar"
+    },
+    {
+      "text": "Finomel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1450411000168100/finomel"
+    },
+    {
+      "text": "Fintab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,739321000168104/fintab"
+    },
+    {
+      "text": "Fintepla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,509934001000036106/fintepla"
+    },
+    {
+      "text": "Firazyr",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927779011000036102/firazyr"
+    },
+    {
+      "text": "Firmagon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922953011000036105/firmagon"
+    },
+    {
+      "text": "Fisamox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39663011000036108/fisamox"
+    },
+    {
+      "text": "Fish Oil (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1449861000168109/fish-oil-blackmores"
+    },
+    {
+      "text": "Fish Oil (Faulding)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1464891000168108/fish-oil-faulding"
+    },
+    {
+      "text": "Fish Oil (Wagner)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1448031000168102/fish-oil-wagner"
+    },
+    {
+      "text": "Fish Oil Omega 3 (Healthy Care)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1193901000168106/fish-oil-omega-3-healthy-care"
+    },
+    {
+      "text": "Fisiocrem Solugel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600491000036100/fisiocrem-solugel"
+    },
+    {
+      "text": "Fixta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,723901000168107/fixta"
+    },
+    {
+      "text": "Flagyl",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6921000168102/flagyl"
+    },
+    {
+      "text": "Flagyl S",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33631000168107/flagyl-s"
+    },
+    {
+      "text": "Flebogamma 10% DIF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,771351000168109/flebogamma-10-dif"
+    },
+    {
+      "text": "Flebogamma 5% DIF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,11731000168109/flebogamma-5-dif"
+    },
+    {
+      "text": "Flec-EM",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1645271000168100/flec-em"
+    },
+    {
+      "text": "Flecacor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1000611000168101/flecacor"
+    },
+    {
+      "text": "Flecain",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1290151000168104/flecain"
+    },
+    {
+      "text": "Flecainide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1277981000168100/flecainide-apo"
+    },
+    {
+      "text": "Flecainide (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1291541000168104/flecainide-mlabs"
+    },
+    {
+      "text": "Flecainide (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,792851000168101/flecainide-sandoz"
+    },
+    {
+      "text": "Flecar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1290761000168103/flecar"
+    },
+    {
+      "text": "Flecatab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3116011000036103/flecatab"
+    },
+    {
+      "text": "Fleet Ready-to-Use",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85249011000036100/fleet-ready-to-use"
+    },
+    {
+      "text": "Flixonase Allergy and Hayfever 24 Hour",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,683281000168106/flixonase-allergy-and-hayfever-24-hour"
+    },
+    {
+      "text": "Flixotide",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29811000168100/flixotide"
+    },
+    {
+      "text": "Flixotide Accuhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10121000168101/flixotide-accuhaler"
+    },
+    {
+      "text": "Flixotide Junior Accuhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40261000168108/flixotide-junior-accuhaler"
+    },
+    {
+      "text": "Flixotide Junior Inhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,441000168109/flixotide-junior-inhaler"
+    },
+    {
+      "text": "Flo Nozoil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75956011000036109/flo-nozoil"
+    },
+    {
+      "text": "Flo Rapid Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506061000036109/flo-rapid-relief"
+    },
+    {
+      "text": "Flo Xylo-Pos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73727011000036107/flo-xylo-pos"
+    },
+    {
+      "text": "Flomaxtra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32992011000036109/flomaxtra"
+    },
+    {
+      "text": "Flopen Viatris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1655801000168107/flopen-viatris"
+    },
+    {
+      "text": "Florinef",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3760011000036109/florinef"
+    },
+    {
+      "text": "Flosix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1544031000168103/flosix"
+    },
+    {
+      "text": "Flovir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,685301000168109/flovir"
+    },
+    {
+      "text": "Fluad 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703291000036103/fluad-2026"
+    },
+    {
+      "text": "Fluad Quad 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,681657601000036100/fluad-quad-2025"
+    },
+    {
+      "text": "Fluair Inhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1245131000168106/fluair-inhaler"
+    },
+    {
+      "text": "Fluanxol Concentrated Depot",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56691000168104/fluanxol-concentrated-depot"
+    },
+    {
+      "text": "Fluanxol Depot",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38591000168101/fluanxol-depot"
+    },
+    {
+      "text": "Flubiclox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3773011000036108/flubiclox"
+    },
+    {
+      "text": "Flucelvax 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652151000036105/flucelvax-2026"
+    },
+    {
+      "text": "Flucelvax Quad 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,216142621000036106/flucelvax-quad-2025"
+    },
+    {
+      "text": "Flucil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33956011000036109/flucil"
+    },
+    {
+      "text": "Flucloxacillin (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933754621000036107/flucloxacillin-baxter"
+    },
+    {
+      "text": "Flucloxacillin (Demogen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705431000036102/flucloxacillin-demogen"
+    },
+    {
+      "text": "Flucloxacillin (EPSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,147766111000036108/flucloxacillin-epsl"
+    },
+    {
+      "text": "Flucloxacillin (EUG)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506711000036109/flucloxacillin-eug"
+    },
+    {
+      "text": "Flucloxacillin (Eugia)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933505931000036105/flucloxacillin-eugia"
+    },
+    {
+      "text": "Flucloxacillin (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1231051000168101/flucloxacillin-gh"
+    },
+    {
+      "text": "Flucloxacillin (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1619601000168104/flucloxacillin-kabi"
+    },
+    {
+      "text": "Fluconazole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59141000168107/fluconazole-apo"
+    },
+    {
+      "text": "Fluconazole (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1167821000168103/fluconazole-apotex"
+    },
+    {
+      "text": "Fluconazole (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506671000036108/fluconazole-apx"
+    },
+    {
+      "text": "Fluconazole (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39689011000036109/fluconazole-aspen"
+    },
+    {
+      "text": "Fluconazole (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3609011000036106/fluconazole-baxter"
+    },
+    {
+      "text": "Fluconazole (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72918011000036101/fluconazole-claris"
+    },
+    {
+      "text": "Fluconazole (Hexal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3059011000036106/fluconazole-hexal"
+    },
+    {
+      "text": "Fluconazole (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920081011000036102/fluconazole-sandoz"
+    },
+    {
+      "text": "Fluconazole (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1792371000168101/fluconazole-wgr"
+    },
+    {
+      "text": "Fluconazole One (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55731000168104/fluconazole-one-apo"
+    },
+    {
+      "text": "Fludara",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39183011000036105/fludara"
+    },
+    {
+      "text": "Fludarabine (Amneal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1102011000168104/fludarabine-amneal"
+    },
+    {
+      "text": "Fludarabine (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564101000036104/fludarabine-an"
+    },
+    {
+      "text": "Fludarabine (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337461000168108/fludarabine-juno"
+    },
+    {
+      "text": "Fludarabine Phosphate (Act)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,658081000168102/fludarabine-phosphate-act"
+    },
+    {
+      "text": "Fludarabine Phosphate (Actavis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,79338011000036105/fludarabine-phosphate-actavis"
+    },
+    {
+      "text": "Fludarabine Phosphate (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48324011000036105/fludarabine-phosphate-ebewe"
+    },
+    {
+      "text": "Fludol Day and Night",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1178871000168105/fludol-day-and-night"
+    },
+    {
+      "text": "Fludrocortisone (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1592331000168103/fludrocortisone-medsurge"
+    },
+    {
+      "text": "Flufeme (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53447011000036100/flufeme-sandoz"
+    },
+    {
+      "text": "Flumazenil (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1457811000168101/flumazenil-baxter"
+    },
+    {
+      "text": "Flumazenil (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196301000168101/flumazenil-claris"
+    },
+    {
+      "text": "Flumazenil (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1174861000168108/flumazenil-kabi"
+    },
+    {
+      "text": "Flumist 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703301000036104/flumist-2026"
+    },
+    {
+      "text": "Fluohexal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3553011000036106/fluohexal"
+    },
+    {
+      "text": "Fluorescein (Serb)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,733461000168102/fluorescein-serb"
+    },
+    {
+      "text": "Fluorescein Sodium (Novartis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39678011000036106/fluorescein-sodium-novartis"
+    },
+    {
+      "text": "Fluorescein Sodium Minims (Bausch & Lomb)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53601000168101/fluorescein-sodium-minims-bausch-&-lomb"
+    },
+    {
+      "text": "Fluorescite 10%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39629011000036102/fluorescite-10"
+    },
+    {
+      "text": "Fluorocare-200",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39261000168104/fluorocare-200"
+    },
+    {
+      "text": "Fluorouracil (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1188501000168108/fluorouracil-accord"
+    },
+    {
+      "text": "Fluorouracil (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3626011000036107/fluorouracil-dbl"
+    },
+    {
+      "text": "Fluorouracil (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,932710011000036102/fluorouracil-ebewe"
+    },
+    {
+      "text": "Fluorouracil (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703641000036106/fluorouracil-mylan"
+    },
+    {
+      "text": "Fluorouracil (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1671251000168108/fluorouracil-viatris"
+    },
+    {
+      "text": "Fluotex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,821821000168105/fluotex"
+    },
+    {
+      "text": "Fluoxetine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,919771000168104/fluoxetine-apo"
+    },
+    {
+      "text": "Fluoxetine (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1457761000168107/fluoxetine-apotex"
+    },
+    {
+      "text": "Fluoxetine (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,843001000168106/fluoxetine-blooms-the-chemist"
+    },
+    {
+      "text": "Fluoxetine (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1407221000168101/fluoxetine-btc"
+    },
+    {
+      "text": "Fluoxetine (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,76009011000036101/fluoxetine-generic-health"
+    },
+    {
+      "text": "Fluoxetine (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1406851000168105/fluoxetine-mlabs"
+    },
+    {
+      "text": "Fluoxetine (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1240821000168107/fluoxetine-noumed"
+    },
+    {
+      "text": "Fluoxetine (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3424011000036102/fluoxetine-pharmacor"
+    },
+    {
+      "text": "Fluoxetine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933234311000036104/fluoxetine-sandoz"
+    },
+    {
+      "text": "Fluoxetine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,225308951000036108/fluoxetine-wgr"
+    },
+    {
+      "text": "Fluquadri 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884862121000036103/fluquadri-2025"
+    },
+    {
+      "text": "Flutamin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3543011000036108/flutamin"
+    },
+    {
+      "text": "Fluticasone (ADVZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652671000036106/fluticasone-advz"
+    },
+    {
+      "text": "Fluticasone (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651421000036104/fluticasone-arx"
+    },
+    {
+      "text": "Fluticasone Furoate (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650961000036107/fluticasone-furoate-viatris"
+    },
+    {
+      "text": "Fluticasone Inhaler (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,913971000168100/fluticasone-inhaler-cipla"
+    },
+    {
+      "text": "Fluticasone plus Salmeterol 125/25 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,917231000168103/fluticasone-plus-salmeterol-125-25-cipla"
+    },
+    {
+      "text": "Fluticasone plus Salmeterol 250/25 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,917271000168100/fluticasone-plus-salmeterol-250-25-cipla"
+    },
+    {
+      "text": "Fluticasone Salmeterol Ciphaler 250/50 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571241000168100/fluticasone-salmeterol-ciphaler-250-50-cipla"
+    },
+    {
+      "text": "Fluticasone Salmeterol Ciphaler 500/50 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1664891000168106/fluticasone-salmeterol-ciphaler-500-50-cipla"
+    },
+    {
+      "text": "Fluticasone Salmeterol Multihaler 500/50 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1665201000168100/fluticasone-salmeterol-multihaler-500-50-cipla"
+    },
+    {
+      "text": "Flutiform 125 microgram/5 microgram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,43751000168109/flutiform-125-microgram-5-microgram"
+    },
+    {
+      "text": "Flutiform 250 microgram/10 microgram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57901000168104/flutiform-250-microgram-10-microgram"
+    },
+    {
+      "text": "Flutiform 50 microgram/5 microgram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3711000168102/flutiform-50-microgram-5-microgram"
+    },
+    {
+      "text": "Fluvoxamine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1750201000168105/fluvoxamine-wgr"
+    },
+    {
+      "text": "Fluvoxamine Maleate (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45821000168106/fluvoxamine-maleate-apo"
+    },
+    {
+      "text": "Fluzole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57311000168100/fluzole"
+    },
+    {
+      "text": "Fluzole One",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51071000168100/fluzole-one"
+    },
+    {
+      "text": "Fluzone 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652061000036107/fluzone-2026"
+    },
+    {
+      "text": "Fluzone High-Dose 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,839612841000036102/fluzone-high-dose-2025"
+    },
+    {
+      "text": "Fluzone High-Dose 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652071000036104/fluzone-high-dose-2026"
+    },
+    {
+      "text": "FML",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3805011000036103/fml"
+    },
+    {
+      "text": "Folate (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1752801000168108/folate-blackmores"
+    },
+    {
+      "text": "Folic Acid (Biological Therapies)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1204201000168103/folic-acid-biological-therapies"
+    },
+    {
+      "text": "Folic Acid (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53328011000036107/folic-acid-phebra"
+    },
+    {
+      "text": "Folinic Acid (Bioceuticals)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1753071000168100/folinic-acid-bioceuticals"
+    },
+    {
+      "text": "Folotyn",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,805071000168109/folotyn"
+    },
+    {
+      "text": "Fonat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87541000036105/fonat"
+    },
+    {
+      "text": "Foradile",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3058011000036103/foradile"
+    },
+    {
+      "text": "Formet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36111000168104/formet"
+    },
+    {
+      "text": "Fortum",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36003011000036105/fortum"
+    },
+    {
+      "text": "Forxiga",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87591000036104/forxiga"
+    },
+    {
+      "text": "Fosamax Plus Once Weekly 70 mg/140 microgram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41041000168105/fosamax-plus-once-weekly-70-mg-140-microgram"
+    },
+    {
+      "text": "Fosamax Plus Once Weekly 70 mg/70 microgram",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32901000168101/fosamax-plus-once-weekly-70-mg-70-microgram"
+    },
+    {
+      "text": "Fosaprepitant (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1647961000168105/fosaprepitant-aft"
+    },
+    {
+      "text": "Fosaprepitant (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,665010191000036100/fosaprepitant-juno"
+    },
+    {
+      "text": "Fosaprepitant (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894752081000036109/fosaprepitant-medicianz"
+    },
+    {
+      "text": "Fosaprepitant (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1733291000168105/fosaprepitant-medsurge"
+    },
+    {
+      "text": "Fosaprepitant (MSN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1680551000168109/fosaprepitant-msn"
+    },
+    {
+      "text": "Fosatil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652681000036108/fosatil"
+    },
+    {
+      "text": "Foscavir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3469011000036105/foscavir"
+    },
+    {
+      "text": "Fosfomycin (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753971000036101/fosfomycin-cipla"
+    },
+    {
+      "text": "Fosinopril (DP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,964981000168101/fosinopril-dp"
+    },
+    {
+      "text": "Fosinopril HCTZ 10/12.5 (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1277511000168102/fosinopril-hctz-10-12.5-an"
+    },
+    {
+      "text": "Fosinopril HCTZ 20/12.5 (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1277691000168105/fosinopril-hctz-20-12.5-an"
+    },
+    {
+      "text": "Fosinopril Sodium (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,154501000036100/fosinopril-sodium-apo"
+    },
+    {
+      "text": "Fosinopril Sodium HCTZ 10/12.5 mg (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58931000168107/fosinopril-sodium-hctz-10-12.5-mg-chemmart"
+    },
+    {
+      "text": "Fosinopril Sodium HCTZ 20/12.5 mg (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48131000168107/fosinopril-sodium-hctz-20-12.5-mg-chemmart"
+    },
+    {
+      "text": "Fosipril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4037011000036103/fosipril"
+    },
+    {
+      "text": "Fosrenol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39719011000036101/fosrenol"
+    },
+    {
+      "text": "Fostair 100/6",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1510701000168109/fostair-100-6"
+    },
+    {
+      "text": "Fostair 200/6",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1630681000168108/fostair-200-6"
+    },
+    {
+      "text": "Fragmin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3790011000036107/fragmin"
+    },
+    {
+      "text": "Fraxiparine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,765031000168109/fraxiparine"
+    },
+    {
+      "text": "Fraxiparine Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,766171000168102/fraxiparine-forte"
+    },
+    {
+      "text": "Freeway Anti-Inflammatory Throat Spray",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1092141000168107/freeway-anti-inflammatory-throat-spray"
+    },
+    {
+      "text": "Freeway Forte Double Strength Anti-Inflammatory Throat Spray",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1096291000168108/freeway-forte-double-strength-anti-inflammatory-throat-spray"
+    },
+    {
+      "text": "Fresofol 1% MCT/LCT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16441000168100/fresofol-1-mct-lct"
+    },
+    {
+      "text": "Frisium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35956011000036100/frisium"
+    },
+    {
+      "text": "Frusax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1201000036100/frusax"
+    },
+    {
+      "text": "Frusemide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,69451000036101/frusemide-apo"
+    },
+    {
+      "text": "Frusemide (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3810011000036105/frusemide-chemmart"
+    },
+    {
+      "text": "Frusemide (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80114011000036101/frusemide-claris"
+    },
+    {
+      "text": "Frusemide (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933624871000036100/frusemide-ipca"
+    },
+    {
+      "text": "Frusemix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1500971000168100/frusemix"
+    },
+    {
+      "text": "Frusemix-M",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1501111000168101/frusemix-m"
+    },
+    {
+      "text": "Fruzaqla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933704351000036101/fruzaqla"
+    },
+    {
+      "text": "Fucidin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20071000168105/fucidin"
+    },
+    {
+      "text": "Fulphila",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1364081000168107/fulphila"
+    },
+    {
+      "text": "Fulvestrant (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1580851000168100/fulvestrant-accord"
+    },
+    {
+      "text": "Fulvestrant (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1725691000168108/fulvestrant-aft"
+    },
+    {
+      "text": "Fulvestrant (Ever Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1589821000168101/fulvestrant-ever-pharma"
+    },
+    {
+      "text": "Fulvestrant (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1533101000168107/fulvestrant-sandoz"
+    },
+    {
+      "text": "Fulvestrant (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,670288941000036109/fulvestrant-sxp"
+    },
+    {
+      "text": "Fungilin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3952011000036108/fungilin"
+    },
+    {
+      "text": "Fungistop Antifungal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1780781000168104/fungistop-antifungal"
+    },
+    {
+      "text": "Funnel Web Spider Antivenom (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73771011000036100/funnel-web-spider-antivenom-csl"
+    },
+    {
+      "text": "Funnel Web Spider Antivenom (Seqirus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1572451000168105/funnel-web-spider-antivenom-seqirus"
+    },
+    {
+      "text": "Furatec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1587801000168103/furatec"
+    },
+    {
+      "text": "Furo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705761000036100/furo"
+    },
+    {
+      "text": "Furosemide (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1637931000168101/furosemide-aft"
+    },
+    {
+      "text": "Furosemide (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1408641000168106/furosemide-baxter"
+    },
+    {
+      "text": "Furosemide (IP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,985087601000036101/furosemide-ip"
+    },
+    {
+      "text": "Furosemide (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1159771000168108/furosemide-noumed"
+    },
+    {
+      "text": "Furosemide (Reach)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,669890311000036104/furosemide-reach"
+    },
+    {
+      "text": "Furosemide (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772691000168103/furosemide-wgr"
+    },
+    {
+      "text": "Fycompa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,672551000168100/fycompa"
+    },
+    {
+      "text": "Fynefta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1429741000168101/fynefta"
+    },
+    {
+      "text": "Fynod",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1644241000168108/fynod"
+    },
+    {
+      "text": "Fyzant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1627691000168108/fyzant"
+    },
+    {
+      "text": "factor II + factor IX + factor X",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23532/factor-ii-+-factor-ix-+-factor-x"
+    },
+    {
+      "text": "Factor II + factor VII + factor IX + factor X + protein C + protein S",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50237/factor-ii-+-factor-vii-+-factor-ix-+-factor-x-+-protein-c-+-protein-s"
+    },
+    {
+      "text": "factor IX",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21097/factor-ix"
+    },
+    {
+      "text": "factor VIII + von Willebrand factor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23298/factor-viii-+-von-willebrand-factor"
+    },
+    {
+      "text": "factor VIII inhibitor bypassing fraction",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21101/factor-viii-inhibitor-bypassing-fraction"
+    },
+    {
+      "text": "famciclovir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21112/famciclovir"
+    },
+    {
+      "text": "famotidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21114/famotidine"
+    },
+    {
+      "text": "fampridine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21117/fampridine"
+    },
+    {
+      "text": "faricimab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27092/faricimab"
+    },
+    {
+      "text": "Febuxostat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23677/febuxostat"
+    },
+    {
+      "text": "Felodipine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20034/felodipine"
+    },
+    {
+      "text": "Fenfluramine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50538/fenfluramine"
+    },
+    {
+      "text": "Fenofibrate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21119/fenofibrate"
+    },
+    {
+      "text": "Fentanyl",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21121/fentanyl"
+    },
+    {
+      "text": "ferric carboxymaltose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21127/ferric-carboxymaltose"
+    },
+    {
+      "text": "ferric derisomaltose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24229/ferric-derisomaltose"
+    },
+    {
+      "text": "ferrous bisglycinate + ascorbic acid + citrus bioflavonoids extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25028/ferrous-bisglycinate-+-ascorbic-acid-+-citrus-bioflavonoids-extract"
+    },
+    {
+      "text": "Ferrous bisglycinate + ascorbic acid + pyridoxine + levomefolic acid + folinic acid + mecobalamin + cyanocobalamin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50238/ferrous-bisglycinate-+-ascorbic-acid-+-pyridoxine-+-levomefolic-acid-+-folinic-acid-+-mecobalamin-+-cyanocobalamin"
+    },
+    {
+      "text": "ferrous fumarate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22461/ferrous-fumarate"
+    },
+    {
+      "text": "ferrous fumarate + folic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23300/ferrous-fumarate-+-folic-acid"
+    },
+    {
+      "text": "ferrous sulfate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22464/ferrous-sulfate"
+    },
+    {
+      "text": "ferrous sulfate + ascorbic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23302/ferrous-sulfate-+-ascorbic-acid"
+    },
+    {
+      "text": "ferrous sulfate + folic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23303/ferrous-sulfate-+-folic-acid"
+    },
+    {
+      "text": "fexofenadine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21379/fexofenadine"
+    },
+    {
+      "text": "fexofenadine + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23304/fexofenadine-+-pseudoephedrine"
+    },
+    {
+      "text": "Fezolinetant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50067/fezolinetant"
+    },
+    {
+      "text": "fibrinogen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21109/fibrinogen"
+    },
+    {
+      "text": "Fibrinogen + human thrombin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24891/fibrinogen-+-human-thrombin"
+    },
+    {
+      "text": "fidaxomicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21130/fidaxomicin"
+    },
+    {
+      "text": "filgrastim",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21133/filgrastim"
+    },
+    {
+      "text": "Finasteride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21135/finasteride"
+    },
+    {
+      "text": "finerenone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27039/finerenone"
+    },
+    {
+      "text": "fingolimod",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21142/fingolimod"
+    },
+    {
+      "text": "fish oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22259/fish-oil"
+    },
+    {
+      "text": "fish oil + linseed oil + starflower oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24880/fish-oil-+-linseed-oil-+-starflower-oil"
+    },
+    {
+      "text": "Fish oil + nicotinamide + ascorbic acid + calcium + biotin + ferrous bisglycinate + zinc + magnesium + selenium + chromium + thiamine + riboflavin + pantothenic acid + pyridoxine + cyanocobalamin + colecalciferol + folic acid + d-alpha-tocopherol + iodine + betacarotene",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50239/fish-oil-+-nicotinamide-+-ascorbic-acid-+-calcium-+-biotin-+-ferrous-bisglycinate-+-zinc-+-magnesium-+-selenium-+-chromium-+-thiamine-+-riboflavin-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-colecalciferol-+-folic-acid-+-d-alpha-tocopherol-+-iodine-+-betacarotene"
+    },
+    {
+      "text": "flecainide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21143/flecainide"
+    },
+    {
+      "text": "flucloxacillin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21144/flucloxacillin"
+    },
+    {
+      "text": "fluconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21149/fluconazole"
+    },
+    {
+      "text": "fludarabine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21155/fludarabine"
+    },
+    {
+      "text": "fludrocortisone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27040/fludrocortisone"
+    },
+    {
+      "text": "Flumazenil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21157/flumazenil"
+    },
+    {
+      "text": "Flumetasone pivalate + clioquinol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23305/flumetasone-pivalate-+-clioquinol"
+    },
+    {
+      "text": "Flunitrazepam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21159/flunitrazepam"
+    },
+    {
+      "text": "fluocinolone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24933/fluocinolone"
+    },
+    {
+      "text": "fluorescein",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21212/fluorescein"
+    },
+    {
+      "text": "Fluoride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11125/fluoride"
+    },
+    {
+      "text": "fluoride + potassium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23926/fluoride-+-potassium"
+    },
+    {
+      "text": "fluorometholone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21317/fluorometholone"
+    },
+    {
+      "text": "fluorouracil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21319/fluorouracil"
+    },
+    {
+      "text": "Fluorouracil + salicylic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27018/fluorouracil-+-salicylic-acid"
+    },
+    {
+      "text": "fluoxetine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20562/fluoxetine"
+    },
+    {
+      "text": "Flupentixol decanoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22474/flupentixol-decanoate"
+    },
+    {
+      "text": "flurbiprofen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21324/flurbiprofen"
+    },
+    {
+      "text": "flutamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21331/flutamide"
+    },
+    {
+      "text": "fluticasone furoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21332/fluticasone-furoate"
+    },
+    {
+      "text": "fluticasone furoate + umeclidinium + vilanterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24267/fluticasone-furoate-+-umeclidinium-+-vilanterol"
+    },
+    {
+      "text": "fluticasone furoate + vilanterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23988/fluticasone-furoate-+-vilanterol"
+    },
+    {
+      "text": "fluticasone propionate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21333/fluticasone-propionate"
+    },
+    {
+      "text": "fluticasone propionate + formoterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23989/fluticasone-propionate-+-formoterol"
+    },
+    {
+      "text": "fluticasone propionate + salmeterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23991/fluticasone-propionate-+-salmeterol"
+    },
+    {
+      "text": "fluvastatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21335/fluvastatin"
+    },
+    {
+      "text": "fluvoxamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21336/fluvoxamine"
+    },
+    {
+      "text": "Folic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11132/folic-acid"
+    },
+    {
+      "text": "folic acid + iodine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26642/folic-acid-+-iodine"
+    },
+    {
+      "text": "Folic acid + iron + iodine + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + colecalciferol + dl-alpha-tocopherol + biotin + calcium + magnesium + copper + manganese + zinc + selenium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50240/folic-acid-+-iron-+-iodine-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-colecalciferol-+-dl-alpha-tocopherol-+-biotin-+-calcium-+-magnesium-+-copper-+-manganese-+-zinc-+-selenium"
+    },
+    {
+      "text": "folinic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20410/folinic-acid"
+    },
+    {
+      "text": "follitropin alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D015292/follitropin-alfa"
+    },
+    {
+      "text": "follitropin alfa + lutropin alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23604/follitropin-alfa-+-lutropin-alfa"
+    },
+    {
+      "text": "follitropin beta",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D037201/follitropin-beta"
+    },
+    {
+      "text": "follitropin delta",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24240/follitropin-delta"
+    },
+    {
+      "text": "fomepizole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24076/fomepizole"
+    },
+    {
+      "text": "fondaparinux",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21341/fondaparinux"
+    },
+    {
+      "text": "Formoterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20876/formoterol"
+    },
+    {
+      "text": "fosaprepitant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21345/fosaprepitant"
+    },
+    {
+      "text": "foscarnet",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21350/foscarnet"
+    },
+    {
+      "text": "fosfomycin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24212/fosfomycin"
+    },
+    {
+      "text": "fosinopril",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21294/fosinopril"
+    },
+    {
+      "text": "fosinopril + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23312/fosinopril-+-hydrochlorothiazide"
+    },
+    {
+      "text": "Foslevodopa + foscarbidopa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50469/foslevodopa-+-foscarbidopa"
+    },
+    {
+      "text": "fosnetupitant + palonosetron",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26658/fosnetupitant-+-palonosetron"
+    },
+    {
+      "text": "fostemsavir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27020/fostemsavir"
+    },
+    {
+      "text": "framycetin sulfate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22483/framycetin-sulfate"
+    },
+    {
+      "text": "framycetin sulfate + gramicidin + dexamethasone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23533/framycetin-sulfate-+-gramicidin-+-dexamethasone"
+    },
+    {
+      "text": "fremanezumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24974/fremanezumab"
+    },
+    {
+      "text": "Fruquintinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50757/fruquintinib"
+    },
+    {
+      "text": "Fulvestrant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21355/fulvestrant"
+    },
+    {
+      "text": "Funnel web spider antivenom",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21356/funnel-web-spider-antivenom"
+    },
+    {
+      "text": "Furosemide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21354/furosemide"
+    },
+    {
+      "text": "fusidate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23587/fusidate"
+    },
+    {
+      "text": "Futibatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50637/futibatinib"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"F\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"F\"\n\n## Brand names\n\n- Fab Iron plus Vitamin B Complex\n\n- Fab Iron plus Vitamin B Complex and Zinc\n\n- Fabhalta\n\n- Fabrazyme\n\n- Famciclovir (Apo)\n\n- Famciclovir (Apotex)\n\n- Famciclovir (Mylan)\n\n- Famciclovir (RJIC)\n\n- Famciclovir (Sandoz)\n\n- Famciclovir (WGR)\n\n- Famciclovir Once (Apohealth)\n\n- Famotidine (TIH)\n\n- Fampyra\n\n- Famvic\n\n- Famvir\n\n- Fasenra\n\n- Fasturtec\n\n- Faverin\n\n- Favic\n\n- Favic for Cold Sores (Chemists' Own)\n\n- Febexic\n\n- Febridol\n\n- Febridol Co\n\n- Febridol Infant Drops\n\n- Fefol Spansule\n\n- Feiba-NF 1000 U\n\n- Feiba-NF 2500 U\n\n- Feiba-NF 500 U\n\n- Feldene-D\n\n- Felodil XR\n\n- Felodipine (RJIC)\n\n- Felodipine ER (AZN)\n\n- Felodur ER\n\n- Fem V (Amcal)\n\n- Fem V 6 Day (Amcal)\n\n- Femara\n\n- Femazole Duo\n\n- Femazole Duo (Chemists' Own)\n\n- Femazole One (Chemists' Own)\n\n- Femcream\n\n- Femcream 3 Day\n\n- Femin\n\n- Femme-Tab 20/100\n\n- Femme-Tab 30/150\n\n- Femme-Tab ED 20/100\n\n- Femme-Tab ED 30/150\n\n- Femolet\n\n- Femoston 1/10\n\n- Femoston 2/10\n\n- Femoston-Conti\n\n- Femrelief Duo (Pharmacy Action)\n\n- Femrelief One (Pharmacy Action)\n\n- Femzole One\n\n- Fenac EC\n\n- Fenmol\n\n- Fenocol\n\n- Fenofibrate (Apo)\n\n- Fenofibrate (ARX)\n\n- Fenofibrate (BTC)\n\n- Fenofibrate (Cipla)\n\n- Fenofibrate (Lupin)\n\n- Fenofibrate (Mylan)\n\n- Fenofibrate (Ran)\n\n- Fenofibrate (RBX)\n\n- Fenofibrate (Sandoz)\n\n- Fenofibrate (Viatris)\n\n- Fenofibrate (WGR)\n\n- Fenpaed\n\n- Fenpaed Double Strength\n\n- Fentanyl (Apo)\n\n- Fentanyl (Aspen)\n\n- Fentanyl (B Braun)\n\n- Fentanyl (DBL)\n\n- Fentanyl (GH)\n\n- Fentanyl (Hameln)\n\n- Fentanyl (Juno)\n\n- Fentanyl (Medicianz)\n\n- Fentanyl (Medsurge)\n\n- Fentanyl (Sandoz)\n\n- Fentora\n\n- Ferinject\n\n- Ferivo\n\n- Ferric Carboxymaltose (Sandoz)\n\n- Ferric Carboxymaltose (Teva)\n\n- Ferricarbo\n\n- Ferriprox\n\n- Ferrive\n\n- Ferro plus Vit C (TerryWhite Chemmart)\n\n- Ferro-f\n\n- Ferro-grad\n\n- Ferro-Grad C\n\n- Ferro-Grad F\n\n- Ferro-Gradumet\n\n- Ferro-Liquid\n\n- Ferro-Max C\n\n- Ferro-Tab\n\n- Ferrogen\n\n- Ferrogen Iron plus Vitamin C\n\n- Ferrosig\n\n- Ferrous Fumarate (GPPL)\n\n- Fess\n\n- Fexit\n\n- Fexo (Amcal)\n\n- Fexo (Chemists' Own)\n\n- Fexofenadine (Medreich)\n\n- Fexofenadine Hayfever Allergy Relief (Apo)\n\n- Fexofenadine Hayfever and Allergy Relief (Apohealth)\n\n- Fexofenadine Hayfever and Allergy Relief (Blooms The Chemist)\n\n- Fexorelief\n\n- FGF\n\n- Fibro-Vein\n\n- Fibsol\n\n- Filosir\n\n- Finacea\n\n- Finapen\n\n- Finasta\n\n- Finasteride (Apo)\n\n- Finasteride (Aurobindo)\n\n- Finasteride (Cipla)\n\n- Finasteride (GA)\n\n- Finasteride (GH)\n\n- Finasteride (Mylan)\n\n- Finasteride (Pharmacor)\n\n- Finasteride (Viatris)\n\n- Finasteride (WGR)\n\n- Fingolimod (AKM)\n\n- Fingolimod (Devatis)\n\n- Fingolimod (Dr. Reddy's)\n\n- Fingolimod (Intas)\n\n- Fingolimod (Pharmacor)\n\n- Fingolimod (Sandoz)\n\n- Fingolimod (Sun)\n\n- Fingolimod (Teva)\n\n- Fingolis\n\n- Finnacar\n\n- Finomel\n\n- Fintab\n\n- Fintepla\n\n- Firazyr\n\n- Firmagon\n\n- Fisamox\n\n- Fish Oil (Blackmores)\n\n- Fish Oil (Faulding)\n\n- Fish Oil (Wagner)\n\n- Fish Oil Omega 3 (Healthy Care)\n\n- Fisiocrem Solugel\n\n- Fixta\n\n- Flagyl\n\n- Flagyl S\n\n- Flebogamma 10% DIF\n\n- Flebogamma 5% DIF\n\n- Flec-EM\n\n- Flecacor\n\n- Flecain\n\n- Flecainide (Apo)\n\n- Flecainide (MLabs)\n\n- Flecainide (Sandoz)\n\n- Flecar\n\n- Flecatab\n\n- Fleet Ready-to-Use\n\n- Flixonase Allergy and Hayfever 24 Hour\n\n- Flixotide\n\n- Flixotide Accuhaler\n\n- Flixotide Junior Accuhaler\n\n- Flixotide Junior Inhaler\n\n- Flo Nozoil\n\n- Flo Rapid Relief\n\n- Flo Xylo-Pos\n\n- Flomaxtra\n\n- Flopen Viatris\n\n- Florinef\n\n- Flosix\n\n- Flovir\n\n- Fluad 2026\n\n- Fluad Quad 2025\n\n- Fluair Inhaler\n\n- Fluanxol Concentrated Depot\n\n- Fluanxol Depot\n\n- Flubiclox\n\n- Flucelvax 2026\n\n- Flucelvax Quad 2025\n\n- Flucil\n\n- Flucloxacillin (Baxter)\n\n- Flucloxacillin (Demogen)\n\n- Flucloxacillin (EPSL)\n\n- Flucloxacillin (EUG)\n\n- Flucloxacillin (Eugia)\n\n- Flucloxacillin (GH)\n\n- Flucloxacillin (Kabi)\n\n- Fluconazole (Apo)\n\n- Fluconazole (Apotex)\n\n- Fluconazole (APX)\n\n- Fluconazole (Aspen)\n\n- Fluconazole (Baxter)\n\n- Fluconazole (Claris)\n\n- Fluconazole (Hexal)\n\n- Fluconazole (Sandoz)\n\n- Fluconazole (WGR)\n\n- Fluconazole One (Apo)\n\n- Fludara\n\n- Fludarabine (Amneal)\n\n- Fludarabine (AN)\n\n- Fludarabine (Juno)\n\n- Fludarabine Phosphate (Act)\n\n- Fludarabine Phosphate (Actavis)\n\n- Fludarabine Phosphate (Ebewe)\n\n- Fludol Day and Night\n\n- Fludrocortisone (Medsurge)\n\n- Flufeme (Sandoz)\n\n- Flumazenil (Baxter)\n\n- Flumazenil (Claris)\n\n- Flumazenil (Kabi)\n\n- Flumist 2026\n\n- Fluohexal\n\n- Fluorescein (Serb)\n\n- Fluorescein Sodium (Novartis)\n\n- Fluorescein Sodium Minims (Bausch & Lomb)\n\n- Fluorescite 10%\n\n- Fluorocare-200\n\n- Fluorouracil (Accord)\n\n- Fluorouracil (DBL)\n\n- Fluorouracil (Ebewe)\n\n- Fluorouracil (Mylan)\n\n- Fluorouracil (Viatris)\n\n- Fluotex\n\n- Fluoxetine (Apo)\n\n- Fluoxetine (Apotex)\n\n- Fluoxetine (Blooms The Chemist)\n\n- Fluoxetine (BTC)\n\n- Fluoxetine (Generic Health)\n\n- Fluoxetine (MLabs)\n\n- Fluoxetine (Noumed)\n\n- Fluoxetine (Pharmacor)\n\n- Fluoxetine (Sandoz)\n\n- Fluoxetine (WGR)\n\n- Fluquadri 2025\n\n- Flutamin\n\n- Fluticasone (ADVZ)\n\n- Fluticasone (ARX)\n\n- Fluticasone Furoate (Viatris)\n\n- Fluticasone Inhaler (Cipla)\n\n- Fluticasone plus Salmeterol 125/25 (Cipla)\n\n- Fluticasone plus Salmeterol 250/25 (Cipla)\n\n- Fluticasone Salmeterol Ciphaler 250/50 (Cipla)\n\n- Fluticasone Salmeterol Ciphaler 500/50 (Cipla)\n\n- Fluticasone Salmeterol Multihaler 500/50 (Cipla)\n\n- Flutiform 125 microgram/5 microgram\n\n- Flutiform 250 microgram/10 microgram\n\n- Flutiform 50 microgram/5 microgram\n\n- Fluvoxamine (WGR)\n\n- Fluvoxamine Maleate (Apo)\n\n- Fluzole\n\n- Fluzole One\n\n- Fluzone 2026\n\n- Fluzone High-Dose 2025\n\n- Fluzone High-Dose 2026\n\n- FML\n\n- Folate (Blackmores)\n\n- Folic Acid (Biological Therapies)\n\n- Folic Acid (Phebra)\n\n- Folinic Acid (Bioceuticals)\n\n- Folotyn\n\n- Fonat\n\n- Foradile\n\n- Formet\n\n- Fortum\n\n- Forxiga\n\n- Fosamax Plus Once Weekly 70 mg/140 microgram\n\n- Fosamax Plus Once Weekly 70 mg/70 microgram\n\n- Fosaprepitant (AFT)\n\n- Fosaprepitant (Juno)\n\n- Fosaprepitant (Medicianz)\n\n- Fosaprepitant (Medsurge)\n\n- Fosaprepitant (MSN)\n\n- Fosatil\n\n- Foscavir\n\n- Fosfomycin (Cipla)\n\n- Fosinopril (DP)\n\n- Fosinopril HCTZ 10/12.5 (AN)\n\n- Fosinopril HCTZ 20/12.5 (AN)\n\n- Fosinopril Sodium (Apo)\n\n- Fosinopril Sodium HCTZ 10/12.5 mg (Chemmart)\n\n- Fosinopril Sodium HCTZ 20/12.5 mg (Chemmart)\n\n- Fosipril\n\n- Fosrenol\n\n- Fostair 100/6\n\n- Fostair 200/6\n\n- Fragmin\n\n- Fraxiparine\n\n- Fraxiparine Forte\n\n- Freeway Anti-Inflammatory Throat Spray\n\n- Freeway Forte Double Strength Anti-Inflammatory Throat Spray\n\n- Fresofol 1% MCT/LCT\n\n- Frisium\n\n- Frusax\n\n- Frusemide (Apo)\n\n- Frusemide (Chemmart)\n\n- Frusemide (Claris)\n\n- Frusemide (Ipca)\n\n- Frusemix\n\n- Frusemix-M\n\n- Fruzaqla\n\n- Fucidin\n\n- Fulphila\n\n- Fulvestrant (Accord)\n\n- Fulvestrant (AFT)\n\n- Fulvestrant (Ever Pharma)\n\n- Fulvestrant (Sandoz)\n\n- Fulvestrant (SXP)\n\n- Fungilin\n\n- Fungistop Antifungal\n\n- Funnel Web Spider Antivenom (CSL)\n\n- Funnel Web Spider Antivenom (Seqirus)\n\n- Furatec\n\n- Furo\n\n- Furosemide (AFT)\n\n- Furosemide (Baxter)\n\n- Furosemide (IP)\n\n- Furosemide (Noumed)\n\n- Furosemide (Reach)\n\n- Furosemide (WGR)\n\n- Fycompa\n\n- Fynefta\n\n- Fynod\n\n- Fyzant\n\nPREV 1 2 3 4 5 6 7 NEXT\n\n## Active ingredients\n\n- factor II +\n\n- factor IX +\n\n- factor X\n\n- factor VII +\n\n- factor X +\n\n- protein C +\n\n- protein S\n\n- factor IX\n\n- factor VIII +\n\n- von Willebrand factor\n\n- factor VIII inhibitor bypassing fraction\n\n- famciclovir\n\n- famotidine\n\n- fampridine\n\n- faricimab\n\n- Febuxostat\n\n- Felodipine\n\n- Fenfluramine\n\n- Fenofibrate\n\n- Fentanyl\n\n- ferric carboxymaltose\n\n- ferric derisomaltose\n\n- ferrous bisglycinate +\n\n- ascorbic acid +\n\n- citrus bioflavonoids extract\n\n- pyridoxine +\n\n- levomefolic acid +\n\n- folinic acid +\n\n- mecobalamin +\n\n- cyanocobalamin\n\n- ferrous fumarate\n\n- ferrous fumarate +\n\n- folic acid\n\n- ferrous sulfate\n\n- ferrous sulfate +\n\n- ascorbic acid\n\n- fexofenadine\n\n- fexofenadine +\n\n- pseudoephedrine\n\n- Fezolinetant\n\n- fibrinogen\n\n- Fibrinogen +\n\n- human thrombin\n\n- fidaxomicin\n\n- filgrastim\n\n- Finasteride\n\n- finerenone\n\n- fingolimod\n\n- fish oil\n\n- fish oil +\n\n- linseed oil +\n\n- starflower oil\n\n- nicotinamide +\n\n- calcium +\n\n- biotin +\n\n- zinc +\n\n- magnesium +\n\n- selenium +\n\n- chromium +\n\n- thiamine +\n\n- riboflavin +\n\n- pantothenic acid +\n\n- cyanocobalamin +\n\n- colecalciferol +\n\n- folic acid +\n\n- d-alpha-tocopherol +\n\n- iodine +\n\n- betacarotene\n\n- flecainide\n\n- flucloxacillin\n\n- fluconazole\n\n- fludarabine\n\n- fludrocortisone\n\n- Flumazenil\n\n- Flumetasone pivalate +\n\n- clioquinol\n\n- Flunitrazepam\n\n- fluocinolone\n\n- fluorescein\n\n- Fluoride\n\n- fluoride +\n\n- potassium\n\n- fluorometholone\n\n- fluorouracil\n\n- Fluorouracil +\n\n- salicylic acid\n\n- fluoxetine\n\n- Flupentixol decanoate\n\n- flurbiprofen\n\n- flutamide\n\n- fluticasone furoate\n\n- fluticasone furoate +\n\n- umeclidinium +\n\n- vilanterol\n\n- fluticasone propionate\n\n- fluticasone propionate +\n\n- formoterol\n\n- salmeterol\n\n- fluvastatin\n\n- fluvoxamine\n\n- iodine\n\n- iron +\n\n- dl-alpha-tocopherol +\n\n- copper +\n\n- manganese +\n\n- selenium\n\n- folinic acid\n\n- follitropin alfa\n\n- follitropin alfa +\n\n- lutropin alfa\n\n- follitropin beta\n\n- follitropin delta\n\n- fomepizole\n\n- fondaparinux\n\n- fosaprepitant\n\n- foscarnet\n\n- fosfomycin\n\n- fosinopril\n\n- fosinopril +\n\n- hydrochlorothiazide\n\n- Foslevodopa +\n\n- foscarbidopa\n\n- fosnetupitant +\n\n- palonosetron\n\n- fostemsavir\n\n- framycetin sulfate\n\n- framycetin sulfate +\n\n- gramicidin +\n\n- dexamethasone\n\n- fremanezumab\n\n- Fruquintinib\n\n- Fulvestrant\n\n- Funnel web spider antivenom\n\n- Furosemide\n\n- fusidate\n\n- Futibatinib\n\nPREV 1 2 3 4 5 6 7 8 9 10 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Fab Iron plus Vitamin B Complex: https://www.healthdirect.gov.au/medicines/brand/amt,1213071000168103/fab-iron-plus-vitamin-b-complex\n\n- Fab Iron plus Vitamin B Complex and Zinc: https://www.healthdirect.gov.au/medicines/brand/amt,1212841000168108/fab-iron-plus-vitamin-b-complex-and-zinc\n\n- Fabhalta: https://www.healthdirect.gov.au/medicines/brand/amt,933280101000036100/fabhalta\n\n- Fabrazyme: https://www.healthdirect.gov.au/medicines/brand/amt,39652011000036106/fabrazyme\n\n- Famciclovir (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,2791000168101/famciclovir-apo\n\n- Famciclovir (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,991801000168100/famciclovir-apotex\n\n- Famciclovir (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1545951000168106/famciclovir-mylan\n\n- Famciclovir (RJIC): https://www.healthdirect.gov.au/medicines/brand/amt,933650211000036103/famciclovir-rjic\n\n- Famciclovir (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,85265011000036105/famciclovir-sandoz\n\n- Famciclovir (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770681000168102/famciclovir-wgr\n\n- Famciclovir Once (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,736001000168102/famciclovir-once-apohealth\n\n- Famotidine (TIH): https://www.healthdirect.gov.au/medicines/brand/amt,933537361000036101/famotidine-tih\n\n- Fampyra: https://www.healthdirect.gov.au/medicines/brand/amt,32161000036109/fampyra\n\n- Famvic: https://www.healthdirect.gov.au/medicines/brand/amt,933704611000036108/famvic\n\n- Famvir: https://www.healthdirect.gov.au/medicines/brand/amt,14551000168109/famvir\n\n- Fasenra: https://www.healthdirect.gov.au/medicines/brand/amt,1231111000168103/fasenra\n\n- Fasturtec: https://www.healthdirect.gov.au/medicines/brand/amt,39660011000036100/fasturtec\n\n- Faverin: https://www.healthdirect.gov.au/medicines/brand/amt,3891011000036102/faverin\n\n- Favic: https://www.healthdirect.gov.au/medicines/brand/amt,86581011000036100/favic\n\n- Favic for Cold Sores (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1601221000168107/favic-for-cold-sores-chemists'-own\n\n- Febexic: https://www.healthdirect.gov.au/medicines/brand/amt,933703401000036105/febexic\n\n- Febridol: https://www.healthdirect.gov.au/medicines/brand/amt,37281000168101/febridol\n\n- Febridol Co: https://www.healthdirect.gov.au/medicines/brand/amt,4251000168109/febridol-co\n\n- Febridol Infant Drops: https://www.healthdirect.gov.au/medicines/brand/amt,56301000168100/febridol-infant-drops\n\n- Fefol Spansule: https://www.healthdirect.gov.au/medicines/brand/amt,10751000168108/fefol-spansule\n\n- Feiba-NF 1000 U: https://www.healthdirect.gov.au/medicines/brand/amt,58141000168100/feiba-nf-1000-u\n\n- Feiba-NF 2500 U: https://www.healthdirect.gov.au/medicines/brand/amt,58561000168109/feiba-nf-2500-u\n\n- Feiba-NF 500 U: https://www.healthdirect.gov.au/medicines/brand/amt,42991000168106/feiba-nf-500-u\n\n- Feldene-D: https://www.healthdirect.gov.au/medicines/brand/amt,1671000168100/feldene-d\n\n- Felodil XR: https://www.healthdirect.gov.au/medicines/brand/amt,43531000168107/felodil-xr\n\n- Felodipine (RJIC): https://www.healthdirect.gov.au/medicines/brand/amt,933650481000036107/felodipine-rjic\n\n- Felodipine ER (AZN): https://www.healthdirect.gov.au/medicines/brand/amt,1683261000168102/felodipine-er-azn\n\n- Felodur ER: https://www.healthdirect.gov.au/medicines/brand/amt,12641000168102/felodur-er\n\n- Fem V (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,1133361000168101/fem-v-amcal\n\n- Fem V 6 Day (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,1080411000168102/fem-v-6-day-amcal\n\n- Femara: https://www.healthdirect.gov.au/medicines/brand/amt,2979011000036107/femara\n\n- Femazole Duo: https://www.healthdirect.gov.au/medicines/brand/amt,26061000036109/femazole-duo\n\n- Femazole Duo (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1544341000168109/femazole-duo-chemists'-own\n\n- Femazole One (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,15841000168108/femazole-one-chemists'-own\n\n- Femcream: https://www.healthdirect.gov.au/medicines/brand/amt,87851000036106/femcream\n\n- Femcream 3 Day: https://www.healthdirect.gov.au/medicines/brand/amt,1428351000168107/femcream-3-day\n\n- Femin: https://www.healthdirect.gov.au/medicines/brand/amt,1319411000168105/femin\n\n- Femme-Tab 20/100: https://www.healthdirect.gov.au/medicines/brand/amt,933507601000036102/femme-tab-20-100\n\n- Femme-Tab 30/150: https://www.healthdirect.gov.au/medicines/brand/amt,933507611000036100/femme-tab-30-150\n\n- Femme-Tab ED 20/100: https://www.healthdirect.gov.au/medicines/brand/amt,700015531000036100/femme-tab-ed-20-100\n\n- Femme-Tab ED 30/150: https://www.healthdirect.gov.au/medicines/brand/amt,700015541000036105/femme-tab-ed-30-150\n\n- Femolet: https://www.healthdirect.gov.au/medicines/brand/amt,541000036103/femolet\n\n- Femoston 1/10: https://www.healthdirect.gov.au/medicines/brand/amt,1681000168102/femoston-1-10\n\n- Femoston 2/10: https://www.healthdirect.gov.au/medicines/brand/amt,30741000168103/femoston-2-10\n\n- Femoston-Conti: https://www.healthdirect.gov.au/medicines/brand/amt,25041000168106/femoston-conti\n\n- Femrelief Duo (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,1143031000168107/femrelief-duo-pharmacy-action\n\n- Femrelief One (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,38271000168100/femrelief-one-pharmacy-action\n\n- Femzole One: https://www.healthdirect.gov.au/medicines/brand/amt,2761000168108/femzole-one\n\n- Fenac EC: https://www.healthdirect.gov.au/medicines/brand/amt,1712711000168109/fenac-ec\n\n- Fenmol: https://www.healthdirect.gov.au/medicines/brand/amt,1305501000168109/fenmol\n\n- Fenocol: https://www.healthdirect.gov.au/medicines/brand/amt,1347341000168101/fenocol\n\n- Fenofibrate (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1417421000168100/fenofibrate-apo\n\n- Fenofibrate (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933650231000036107/fenofibrate-arx\n\n- Fenofibrate (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,1681871000168105/fenofibrate-btc\n\n- Fenofibrate (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1347451000168105/fenofibrate-cipla\n\n- Fenofibrate (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1645231000168103/fenofibrate-lupin\n\n- Fenofibrate (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,839201000168104/fenofibrate-mylan\n\n- Fenofibrate (Ran): https://www.healthdirect.gov.au/medicines/brand/amt,770521061000036100/fenofibrate-ran\n\n- Fenofibrate (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,763691000168103/fenofibrate-rbx\n\n- Fenofibrate (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1435721000168107/fenofibrate-sandoz\n\n- Fenofibrate (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1587081000168104/fenofibrate-viatris\n\n- Fenofibrate (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772271000168101/fenofibrate-wgr\n\n- Fenpaed: https://www.healthdirect.gov.au/medicines/brand/amt,53172011000036102/fenpaed\n\n- Fenpaed Double Strength: https://www.healthdirect.gov.au/medicines/brand/amt,1141491000168104/fenpaed-double-strength\n\n- Fentanyl (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,778891000168102/fentanyl-apo\n\n- Fentanyl (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,123941000036106/fentanyl-aspen\n\n- Fentanyl (B Braun): https://www.healthdirect.gov.au/medicines/brand/amt,752351000168103/fentanyl-b-braun\n\n- Fentanyl (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,39741011000036105/fentanyl-dbl\n\n- Fentanyl (GH): https://www.healthdirect.gov.au/medicines/brand/amt,701591000168100/fentanyl-gh\n\n- Fentanyl (Hameln): https://www.healthdirect.gov.au/medicines/brand/amt,898441881000036102/fentanyl-hameln\n\n- Fentanyl (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1640671000168106/fentanyl-juno\n\n- Fentanyl (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1702701000168109/fentanyl-medicianz\n\n- Fentanyl (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1702901000168107/fentanyl-medsurge\n\n- Fentanyl (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933234321000036106/fentanyl-sandoz\n\n- Fentora: https://www.healthdirect.gov.au/medicines/brand/amt,740631000168104/fentora\n\n- Ferinject: https://www.healthdirect.gov.au/medicines/brand/amt,48071000036102/ferinject\n\n- Ferivo: https://www.healthdirect.gov.au/medicines/brand/amt,933703591000036101/ferivo\n\n- Ferric Carboxymaltose (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933564121000036109/ferric-carboxymaltose-sandoz\n\n- Ferric Carboxymaltose (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,933600731000036105/ferric-carboxymaltose-teva\n\n- Ferricarbo: https://www.healthdirect.gov.au/medicines/brand/amt,933736581000036101/ferricarbo\n\n- Ferriprox: https://www.healthdirect.gov.au/medicines/brand/amt,2968011000036107/ferriprox\n\n- Ferrive: https://www.healthdirect.gov.au/medicines/brand/amt,933651331000036105/ferrive\n\n- Ferro plus Vit C (TerryWhite Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,226287381000036106/ferro-plus-vit-c-terrywhite-chemmart\n\n- Ferro-f: https://www.healthdirect.gov.au/medicines/brand/amt,30567011000036109/ferro-f\n\n- Ferro-grad: https://www.healthdirect.gov.au/medicines/brand/amt,1336421000168100/ferro-grad\n\n- Ferro-Grad C: https://www.healthdirect.gov.au/medicines/brand/amt,53373011000036103/ferro-grad-c\n\n- Ferro-Grad F: https://www.healthdirect.gov.au/medicines/brand/amt,1293471000168106/ferro-grad-f\n\n- Ferro-Gradumet: https://www.healthdirect.gov.au/medicines/brand/amt,53178011000036104/ferro-gradumet\n\n- Ferro-Liquid: https://www.healthdirect.gov.au/medicines/brand/amt,933218881000036101/ferro-liquid\n\n- Ferro-Max C: https://www.healthdirect.gov.au/medicines/brand/amt,1542551000168107/ferro-max-c\n\n- Ferro-Tab: https://www.healthdirect.gov.au/medicines/brand/amt,933218891000036104/ferro-tab\n\n- Ferrogen: https://www.healthdirect.gov.au/medicines/brand/amt,1469151000168108/ferrogen\n\n- Ferrogen Iron plus Vitamin C: https://www.healthdirect.gov.au/medicines/brand/amt,1468501000168107/ferrogen-iron-plus-vitamin-c\n\n- Ferrosig: https://www.healthdirect.gov.au/medicines/brand/amt,4064011000036100/ferrosig\n\n- Ferrous Fumarate (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1087911000168109/ferrous-fumarate-gppl\n\n- Fess: https://www.healthdirect.gov.au/medicines/brand/amt,5581000168103/fess\n\n- Fexit: https://www.healthdirect.gov.au/medicines/brand/amt,1466301000168104/fexit\n\n- Fexo (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,53326011000036108/fexo-amcal\n\n- Fexo (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,53270011000036103/fexo-chemists'-own\n\n- Fexofenadine (Medreich): https://www.healthdirect.gov.au/medicines/brand/amt,1128201000168100/fexofenadine-medreich\n\n- Fexofenadine Hayfever Allergy Relief (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1127341000168105/fexofenadine-hayfever-allergy-relief-apo\n\n- Fexofenadine Hayfever and Allergy Relief (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1095471000168102/fexofenadine-hayfever-and-allergy-relief-apohealth\n\n- Fexofenadine Hayfever and Allergy Relief (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,988671000168102/fexofenadine-hayfever-and-allergy-relief-blooms-the-chemist\n\n- Fexorelief: https://www.healthdirect.gov.au/medicines/brand/amt,123861000036100/fexorelief\n\n- FGF: https://www.healthdirect.gov.au/medicines/brand/amt,53418011000036107/fgf\n\n- Fibro-Vein: https://www.healthdirect.gov.au/medicines/brand/amt,35954011000036108/fibro-vein\n\n- Fibsol: https://www.healthdirect.gov.au/medicines/brand/amt,4290011000036103/fibsol\n\n- Filosir: https://www.healthdirect.gov.au/medicines/brand/amt,1429811000168108/filosir\n\n- Finacea: https://www.healthdirect.gov.au/medicines/brand/amt,53281011000036102/finacea\n\n- Finapen: https://www.healthdirect.gov.au/medicines/brand/amt,685131000168104/finapen\n\n- Finasta: https://www.healthdirect.gov.au/medicines/brand/amt,52392011000036108/finasta\n\n- Finasteride (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,106641000036104/finasteride-apo\n\n- Finasteride (Aurobindo): https://www.healthdirect.gov.au/medicines/brand/amt,1073461000168102/finasteride-aurobindo\n\n- Finasteride (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933506701000036107/finasteride-cipla\n\n- Finasteride (GA): https://www.healthdirect.gov.au/medicines/brand/amt,26131000036104/finasteride-ga\n\n- Finasteride (GH): https://www.healthdirect.gov.au/medicines/brand/amt,678371000168100/finasteride-gh\n\n- Finasteride (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1519781000168109/finasteride-mylan\n\n- Finasteride (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,106471000036109/finasteride-pharmacor\n\n- Finasteride (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1739131000168103/finasteride-viatris\n\n- Finasteride (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,167447151000036103/finasteride-wgr\n\n- Fingolimod (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1556031000168109/fingolimod-akm\n\n- Fingolimod (Devatis): https://www.healthdirect.gov.au/medicines/brand/amt,933507331000036104/fingolimod-devatis\n\n- Fingolimod (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,277948001000036102/fingolimod-dr.-reddy's\n\n- Fingolimod (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,967808381000036102/fingolimod-intas\n\n- Fingolimod (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1637711000168108/fingolimod-pharmacor\n\n- Fingolimod (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1185691000168106/fingolimod-sandoz\n\n- Fingolimod (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,1656431000168105/fingolimod-sun\n\n- Fingolimod (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,1663731000168102/fingolimod-teva\n\n- Fingolis: https://www.healthdirect.gov.au/medicines/brand/amt,1671741000168104/fingolis\n\n- Finnacar: https://www.healthdirect.gov.au/medicines/brand/amt,79339011000036102/finnacar\n\n- Finomel: https://www.healthdirect.gov.au/medicines/brand/amt,1450411000168100/finomel\n\n- Fintab: https://www.healthdirect.gov.au/medicines/brand/amt,739321000168104/fintab\n\n- Fintepla: https://www.healthdirect.gov.au/medicines/brand/amt,509934001000036106/fintepla\n\n- Firazyr: https://www.healthdirect.gov.au/medicines/brand/amt,927779011000036102/firazyr\n\n- Firmagon: https://www.healthdirect.gov.au/medicines/brand/amt,922953011000036105/firmagon\n\n- Fisamox: https://www.healthdirect.gov.au/medicines/brand/amt,39663011000036108/fisamox\n\n- Fish Oil (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1449861000168109/fish-oil-blackmores\n\n- Fish Oil (Faulding): https://www.healthdirect.gov.au/medicines/brand/amt,1464891000168108/fish-oil-faulding\n\n- Fish Oil (Wagner): https://www.healthdirect.gov.au/medicines/brand/amt,1448031000168102/fish-oil-wagner\n\n- Fish Oil Omega 3 (Healthy Care): https://www.healthdirect.gov.au/medicines/brand/amt,1193901000168106/fish-oil-omega-3-healthy-care\n\n- Fisiocrem Solugel: https://www.healthdirect.gov.au/medicines/brand/amt,933600491000036100/fisiocrem-solugel\n\n- Fixta: https://www.healthdirect.gov.au/medicines/brand/amt,723901000168107/fixta\n\n- Flagyl: https://www.healthdirect.gov.au/medicines/brand/amt,6921000168102/flagyl\n\n- Flagyl S: https://www.healthdirect.gov.au/medicines/brand/amt,33631000168107/flagyl-s\n\n- Flebogamma 10% DIF: https://www.healthdirect.gov.au/medicines/brand/amt,771351000168109/flebogamma-10-dif\n\n- Flebogamma 5% DIF: https://www.healthdirect.gov.au/medicines/brand/amt,11731000168109/flebogamma-5-dif\n\n- Flec-EM: https://www.healthdirect.gov.au/medicines/brand/amt,1645271000168100/flec-em\n\n- Flecacor: https://www.healthdirect.gov.au/medicines/brand/amt,1000611000168101/flecacor\n\n- Flecain: https://www.healthdirect.gov.au/medicines/brand/amt,1290151000168104/flecain\n\n- Flecainide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1277981000168100/flecainide-apo\n\n- Flecainide (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1291541000168104/flecainide-mlabs\n\n- Flecainide (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,792851000168101/flecainide-sandoz\n\n- Flecar: https://www.healthdirect.gov.au/medicines/brand/amt,1290761000168103/flecar\n\n- Flecatab: https://www.healthdirect.gov.au/medicines/brand/amt,3116011000036103/flecatab\n\n- Fleet Ready-to-Use: https://www.healthdirect.gov.au/medicines/brand/amt,85249011000036100/fleet-ready-to-use\n\n- Flixonase Allergy and Hayfever 24 Hour: https://www.healthdirect.gov.au/medicines/brand/amt,683281000168106/flixonase-allergy-and-hayfever-24-hour\n\n- Flixotide: https://www.healthdirect.gov.au/medicines/brand/amt,29811000168100/flixotide\n\n- Flixotide Accuhaler: https://www.healthdirect.gov.au/medicines/brand/amt,10121000168101/flixotide-accuhaler\n\n- Flixotide Junior Accuhaler: https://www.healthdirect.gov.au/medicines/brand/amt,40261000168108/flixotide-junior-accuhaler\n\n- Flixotide Junior Inhaler: https://www.healthdirect.gov.au/medicines/brand/amt,441000168109/flixotide-junior-inhaler\n\n- Flo Nozoil: https://www.healthdirect.gov.au/medicines/brand/amt,75956011000036109/flo-nozoil\n\n- Flo Rapid Relief: https://www.healthdirect.gov.au/medicines/brand/amt,933506061000036109/flo-rapid-relief\n\n- Flo Xylo-Pos: https://www.healthdirect.gov.au/medicines/brand/amt,73727011000036107/flo-xylo-pos\n\n- Flomaxtra: https://www.healthdirect.gov.au/medicines/brand/amt,32992011000036109/flomaxtra\n\n- Flopen Viatris: https://www.healthdirect.gov.au/medicines/brand/amt,1655801000168107/flopen-viatris\n\n- Florinef: https://www.healthdirect.gov.au/medicines/brand/amt,3760011000036109/florinef\n\n- Flosix: https://www.healthdirect.gov.au/medicines/brand/amt,1544031000168103/flosix\n\n- Flovir: https://www.healthdirect.gov.au/medicines/brand/amt,685301000168109/flovir\n\n- Fluad 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933703291000036103/fluad-2026\n\n- Fluad Quad 2025: https://www.healthdirect.gov.au/medicines/brand/amt,681657601000036100/fluad-quad-2025\n\n- Fluair Inhaler: https://www.healthdirect.gov.au/medicines/brand/amt,1245131000168106/fluair-inhaler\n\n- Fluanxol Concentrated Depot: https://www.healthdirect.gov.au/medicines/brand/amt,56691000168104/fluanxol-concentrated-depot\n\n- Fluanxol Depot: https://www.healthdirect.gov.au/medicines/brand/amt,38591000168101/fluanxol-depot\n\n- Flubiclox: https://www.healthdirect.gov.au/medicines/brand/amt,3773011000036108/flubiclox\n\n- Flucelvax 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933652151000036105/flucelvax-2026\n\n- Flucelvax Quad 2025: https://www.healthdirect.gov.au/medicines/brand/amt,216142621000036106/flucelvax-quad-2025\n\n- Flucil: https://www.healthdirect.gov.au/medicines/brand/amt,33956011000036109/flucil\n\n- Flucloxacillin (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,933754621000036107/flucloxacillin-baxter\n\n- Flucloxacillin (Demogen): https://www.healthdirect.gov.au/medicines/brand/amt,933705431000036102/flucloxacillin-demogen\n\n- Flucloxacillin (EPSL): https://www.healthdirect.gov.au/medicines/brand/amt,147766111000036108/flucloxacillin-epsl\n\n- Flucloxacillin (EUG): https://www.healthdirect.gov.au/medicines/brand/amt,933506711000036109/flucloxacillin-eug\n\n- Flucloxacillin (Eugia): https://www.healthdirect.gov.au/medicines/brand/amt,933505931000036105/flucloxacillin-eugia\n\n- Flucloxacillin (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1231051000168101/flucloxacillin-gh\n\n- Flucloxacillin (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1619601000168104/flucloxacillin-kabi\n\n- Fluconazole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,59141000168107/fluconazole-apo\n\n- Fluconazole (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1167821000168103/fluconazole-apotex\n\n- Fluconazole (APX): https://www.healthdirect.gov.au/medicines/brand/amt,933506671000036108/fluconazole-apx\n\n- Fluconazole (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,39689011000036109/fluconazole-aspen\n\n- Fluconazole (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,3609011000036106/fluconazole-baxter\n\n- Fluconazole (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,72918011000036101/fluconazole-claris\n\n- Fluconazole (Hexal): https://www.healthdirect.gov.au/medicines/brand/amt,3059011000036106/fluconazole-hexal\n\n- Fluconazole (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,920081011000036102/fluconazole-sandoz\n\n- Fluconazole (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1792371000168101/fluconazole-wgr\n\n- Fluconazole One (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,55731000168104/fluconazole-one-apo\n\n- Fludara: https://www.healthdirect.gov.au/medicines/brand/amt,39183011000036105/fludara\n\n- Fludarabine (Amneal): https://www.healthdirect.gov.au/medicines/brand/amt,1102011000168104/fludarabine-amneal\n\n- Fludarabine (AN): https://www.healthdirect.gov.au/medicines/brand/amt,933564101000036104/fludarabine-an\n\n- Fludarabine (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1337461000168108/fludarabine-juno\n\n- Fludarabine Phosphate (Act): https://www.healthdirect.gov.au/medicines/brand/amt,658081000168102/fludarabine-phosphate-act\n\n- Fludarabine Phosphate (Actavis): https://www.healthdirect.gov.au/medicines/brand/amt,79338011000036105/fludarabine-phosphate-actavis\n\n- Fludarabine Phosphate (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,48324011000036105/fludarabine-phosphate-ebewe\n\n- Fludol Day and Night: https://www.healthdirect.gov.au/medicines/brand/amt,1178871000168105/fludol-day-and-night\n\n- Fludrocortisone (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1592331000168103/fludrocortisone-medsurge\n\n- Flufeme (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,53447011000036100/flufeme-sandoz\n\n- Flumazenil (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1457811000168101/flumazenil-baxter\n\n- Flumazenil (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,1196301000168101/flumazenil-claris\n\n- Flumazenil (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1174861000168108/flumazenil-kabi\n\n- Flumist 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933703301000036104/flumist-2026\n\n- Fluohexal: https://www.healthdirect.gov.au/medicines/brand/amt,3553011000036106/fluohexal\n\n- Fluorescein (Serb): https://www.healthdirect.gov.au/medicines/brand/amt,733461000168102/fluorescein-serb\n\n- Fluorescein Sodium (Novartis): https://www.healthdirect.gov.au/medicines/brand/amt,39678011000036106/fluorescein-sodium-novartis\n\n- Fluorescein Sodium Minims (Bausch & Lomb): https://www.healthdirect.gov.au/medicines/brand/amt,53601000168101/fluorescein-sodium-minims-bausch-&-lomb\n\n- Fluorescite 10%: https://www.healthdirect.gov.au/medicines/brand/amt,39629011000036102/fluorescite-10\n\n- Fluorocare-200: https://www.healthdirect.gov.au/medicines/brand/amt,39261000168104/fluorocare-200\n\n- Fluorouracil (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1188501000168108/fluorouracil-accord\n\n- Fluorouracil (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,3626011000036107/fluorouracil-dbl\n\n- Fluorouracil (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,932710011000036102/fluorouracil-ebewe\n\n- Fluorouracil (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,933703641000036106/fluorouracil-mylan\n\n- Fluorouracil (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1671251000168108/fluorouracil-viatris\n\n- Fluotex: https://www.healthdirect.gov.au/medicines/brand/amt,821821000168105/fluotex\n\n- Fluoxetine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,919771000168104/fluoxetine-apo\n\n- Fluoxetine (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1457761000168107/fluoxetine-apotex\n\n- Fluoxetine (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,843001000168106/fluoxetine-blooms-the-chemist\n\n- Fluoxetine (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,1407221000168101/fluoxetine-btc\n\n- Fluoxetine (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,76009011000036101/fluoxetine-generic-health\n\n- Fluoxetine (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1406851000168105/fluoxetine-mlabs\n\n- Fluoxetine (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1240821000168107/fluoxetine-noumed\n\n- Fluoxetine (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,3424011000036102/fluoxetine-pharmacor\n\n- Fluoxetine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933234311000036104/fluoxetine-sandoz\n\n- Fluoxetine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,225308951000036108/fluoxetine-wgr\n\n- Fluquadri 2025: https://www.healthdirect.gov.au/medicines/brand/amt,884862121000036103/fluquadri-2025\n\n- Flutamin: https://www.healthdirect.gov.au/medicines/brand/amt,3543011000036108/flutamin\n\n- Fluticasone (ADVZ): https://www.healthdirect.gov.au/medicines/brand/amt,933652671000036106/fluticasone-advz\n\n- Fluticasone (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933651421000036104/fluticasone-arx\n\n- Fluticasone Furoate (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933650961000036107/fluticasone-furoate-viatris\n\n- Fluticasone Inhaler (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,913971000168100/fluticasone-inhaler-cipla\n\n- Fluticasone plus Salmeterol 125/25 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,917231000168103/fluticasone-plus-salmeterol-125-25-cipla\n\n- Fluticasone plus Salmeterol 250/25 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,917271000168100/fluticasone-plus-salmeterol-250-25-cipla\n\n- Fluticasone Salmeterol Ciphaler 250/50 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1571241000168100/fluticasone-salmeterol-ciphaler-250-50-cipla\n\n- Fluticasone Salmeterol Ciphaler 500/50 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1664891000168106/fluticasone-salmeterol-ciphaler-500-50-cipla\n\n- Fluticasone Salmeterol Multihaler 500/50 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1665201000168100/fluticasone-salmeterol-multihaler-500-50-cipla\n\n- Flutiform 125 microgram/5 microgram: https://www.healthdirect.gov.au/medicines/brand/amt,43751000168109/flutiform-125-microgram-5-microgram\n\n- Flutiform 250 microgram/10 microgram: https://www.healthdirect.gov.au/medicines/brand/amt,57901000168104/flutiform-250-microgram-10-microgram\n\n- Flutiform 50 microgram/5 microgram: https://www.healthdirect.gov.au/medicines/brand/amt,3711000168102/flutiform-50-microgram-5-microgram\n\n- Fluvoxamine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1750201000168105/fluvoxamine-wgr\n\n- Fluvoxamine Maleate (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,45821000168106/fluvoxamine-maleate-apo\n\n- Fluzole: https://www.healthdirect.gov.au/medicines/brand/amt,57311000168100/fluzole\n\n- Fluzole One: https://www.healthdirect.gov.au/medicines/brand/amt,51071000168100/fluzole-one\n\n- Fluzone 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933652061000036107/fluzone-2026\n\n- Fluzone High-Dose 2025: https://www.healthdirect.gov.au/medicines/brand/amt,839612841000036102/fluzone-high-dose-2025\n\n- Fluzone High-Dose 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933652071000036104/fluzone-high-dose-2026\n\n- FML: https://www.healthdirect.gov.au/medicines/brand/amt,3805011000036103/fml\n\n- Folate (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1752801000168108/folate-blackmores\n\n- Folic Acid (Biological Therapies): https://www.healthdirect.gov.au/medicines/brand/amt,1204201000168103/folic-acid-biological-therapies\n\n- Folic Acid (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,53328011000036107/folic-acid-phebra\n\n- Folinic Acid (Bioceuticals): https://www.healthdirect.gov.au/medicines/brand/amt,1753071000168100/folinic-acid-bioceuticals\n\n- Folotyn: https://www.healthdirect.gov.au/medicines/brand/amt,805071000168109/folotyn\n\n- Fonat: https://www.healthdirect.gov.au/medicines/brand/amt,87541000036105/fonat\n\n- Foradile: https://www.healthdirect.gov.au/medicines/brand/amt,3058011000036103/foradile\n\n- Formet: https://www.healthdirect.gov.au/medicines/brand/amt,36111000168104/formet\n\n- Fortum: https://www.healthdirect.gov.au/medicines/brand/amt,36003011000036105/fortum\n\n- Forxiga: https://www.healthdirect.gov.au/medicines/brand/amt,87591000036104/forxiga\n\n- Fosamax Plus Once Weekly 70 mg/140 microgram: https://www.healthdirect.gov.au/medicines/brand/amt,41041000168105/fosamax-plus-once-weekly-70-mg-140-microgram\n\n- Fosamax Plus Once Weekly 70 mg/70 microgram: https://www.healthdirect.gov.au/medicines/brand/amt,32901000168101/fosamax-plus-once-weekly-70-mg-70-microgram\n\n- Fosaprepitant (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1647961000168105/fosaprepitant-aft\n\n- Fosaprepitant (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,665010191000036100/fosaprepitant-juno\n\n- Fosaprepitant (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,894752081000036109/fosaprepitant-medicianz\n\n- Fosaprepitant (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1733291000168105/fosaprepitant-medsurge\n\n- Fosaprepitant (MSN): https://www.healthdirect.gov.au/medicines/brand/amt,1680551000168109/fosaprepitant-msn\n\n- Fosatil: https://www.healthdirect.gov.au/medicines/brand/amt,933652681000036108/fosatil\n\n- Foscavir: https://www.healthdirect.gov.au/medicines/brand/amt,3469011000036105/foscavir\n\n- Fosfomycin (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933753971000036101/fosfomycin-cipla\n\n- Fosinopril (DP): https://www.healthdirect.gov.au/medicines/brand/amt,964981000168101/fosinopril-dp\n\n- Fosinopril HCTZ 10/12.5 (AN): https://www.healthdirect.gov.au/medicines/brand/amt,1277511000168102/fosinopril-hctz-10-12.5-an\n\n- Fosinopril HCTZ 20/12.5 (AN): https://www.healthdirect.gov.au/medicines/brand/amt,1277691000168105/fosinopril-hctz-20-12.5-an\n\n- Fosinopril Sodium (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,154501000036100/fosinopril-sodium-apo\n\n- Fosinopril Sodium HCTZ 10/12.5 mg (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,58931000168107/fosinopril-sodium-hctz-10-12.5-mg-chemmart\n\n- Fosinopril Sodium HCTZ 20/12.5 mg (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,48131000168107/fosinopril-sodium-hctz-20-12.5-mg-chemmart\n\n- Fosipril: https://www.healthdirect.gov.au/medicines/brand/amt,4037011000036103/fosipril\n\n- Fosrenol: https://www.healthdirect.gov.au/medicines/brand/amt,39719011000036101/fosrenol\n\n- Fostair 100/6: https://www.healthdirect.gov.au/medicines/brand/amt,1510701000168109/fostair-100-6\n\n- Fostair 200/6: https://www.healthdirect.gov.au/medicines/brand/amt,1630681000168108/fostair-200-6\n\n- Fragmin: https://www.healthdirect.gov.au/medicines/brand/amt,3790011000036107/fragmin\n\n- Fraxiparine: https://www.healthdirect.gov.au/medicines/brand/amt,765031000168109/fraxiparine\n\n- Fraxiparine Forte: https://www.healthdirect.gov.au/medicines/brand/amt,766171000168102/fraxiparine-forte\n\n- Freeway Anti-Inflammatory Throat Spray: https://www.healthdirect.gov.au/medicines/brand/amt,1092141000168107/freeway-anti-inflammatory-throat-spray\n\n- Freeway Forte Double Strength Anti-Inflammatory Throat Spray: https://www.healthdirect.gov.au/medicines/brand/amt,1096291000168108/freeway-forte-double-strength-anti-inflammatory-throat-spray\n\n- Fresofol 1% MCT/LCT: https://www.healthdirect.gov.au/medicines/brand/amt,16441000168100/fresofol-1-mct-lct\n\n- Frisium: https://www.healthdirect.gov.au/medicines/brand/amt,35956011000036100/frisium\n\n- Frusax: https://www.healthdirect.gov.au/medicines/brand/amt,1201000036100/frusax\n\n- Frusemide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,69451000036101/frusemide-apo\n\n- Frusemide (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,3810011000036105/frusemide-chemmart\n\n- Frusemide (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,80114011000036101/frusemide-claris\n\n- Frusemide (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,933624871000036100/frusemide-ipca\n\n- Frusemix: https://www.healthdirect.gov.au/medicines/brand/amt,1500971000168100/frusemix\n\n- Frusemix-M: https://www.healthdirect.gov.au/medicines/brand/amt,1501111000168101/frusemix-m\n\n- Fruzaqla: https://www.healthdirect.gov.au/medicines/brand/amt,933704351000036101/fruzaqla\n\n- Fucidin: https://www.healthdirect.gov.au/medicines/brand/amt,20071000168105/fucidin\n\n- Fulphila: https://www.healthdirect.gov.au/medicines/brand/amt,1364081000168107/fulphila\n\n- Fulvestrant (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1580851000168100/fulvestrant-accord\n\n- Fulvestrant (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1725691000168108/fulvestrant-aft\n\n- Fulvestrant (Ever Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,1589821000168101/fulvestrant-ever-pharma\n\n- Fulvestrant (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1533101000168107/fulvestrant-sandoz\n\n- Fulvestrant (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,670288941000036109/fulvestrant-sxp\n\n- Fungilin: https://www.healthdirect.gov.au/medicines/brand/amt,3952011000036108/fungilin\n\n- Fungistop Antifungal: https://www.healthdirect.gov.au/medicines/brand/amt,1780781000168104/fungistop-antifungal\n\n- Funnel Web Spider Antivenom (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,73771011000036100/funnel-web-spider-antivenom-csl\n\n- Funnel Web Spider Antivenom (Seqirus): https://www.healthdirect.gov.au/medicines/brand/amt,1572451000168105/funnel-web-spider-antivenom-seqirus\n\n- Furatec: https://www.healthdirect.gov.au/medicines/brand/amt,1587801000168103/furatec\n\n- Furo: https://www.healthdirect.gov.au/medicines/brand/amt,933705761000036100/furo\n\n- Furosemide (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1637931000168101/furosemide-aft\n\n- Furosemide (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1408641000168106/furosemide-baxter\n\n- Furosemide (IP): https://www.healthdirect.gov.au/medicines/brand/amt,985087601000036101/furosemide-ip\n\n- Furosemide (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1159771000168108/furosemide-noumed\n\n- Furosemide (Reach): https://www.healthdirect.gov.au/medicines/brand/amt,669890311000036104/furosemide-reach\n\n- Furosemide (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772691000168103/furosemide-wgr\n\n- Fycompa: https://www.healthdirect.gov.au/medicines/brand/amt,672551000168100/fycompa\n\n- Fynefta: https://www.healthdirect.gov.au/medicines/brand/amt,1429741000168101/fynefta\n\n- Fynod: https://www.healthdirect.gov.au/medicines/brand/amt,1644241000168108/fynod\n\n- Fyzant: https://www.healthdirect.gov.au/medicines/brand/amt,1627691000168108/fyzant\n\n- factor II + factor IX + factor X: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23532/factor-ii-+-factor-ix-+-factor-x\n\n- Factor II + factor VII + factor IX + factor X + protein C + protein S: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50237/factor-ii-+-factor-vii-+-factor-ix-+-factor-x-+-protein-c-+-protein-s\n\n- factor IX: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21097/factor-ix\n\n- factor VIII + von Willebrand factor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23298/factor-viii-+-von-willebrand-factor\n\n- factor VIII inhibitor bypassing fraction: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21101/factor-viii-inhibitor-bypassing-fraction\n\n- famciclovir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21112/famciclovir\n\n- famotidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21114/famotidine\n\n- fampridine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21117/fampridine\n\n- faricimab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27092/faricimab\n\n- Febuxostat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23677/febuxostat\n\n- Felodipine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20034/felodipine\n\n- Fenfluramine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50538/fenfluramine\n\n- Fenofibrate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21119/fenofibrate\n\n- Fentanyl: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21121/fentanyl\n\n- ferric carboxymaltose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21127/ferric-carboxymaltose\n\n- ferric derisomaltose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24229/ferric-derisomaltose\n\n- ferrous bisglycinate + ascorbic acid + citrus bioflavonoids extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25028/ferrous-bisglycinate-+-ascorbic-acid-+-citrus-bioflavonoids-extract\n\n- Ferrous bisglycinate + ascorbic acid + pyridoxine + levomefolic acid + folinic acid + mecobalamin + cyanocobalamin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50238/ferrous-bisglycinate-+-ascorbic-acid-+-pyridoxine-+-levomefolic-acid-+-folinic-acid-+-mecobalamin-+-cyanocobalamin\n\n- ferrous fumarate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22461/ferrous-fumarate\n\n- ferrous fumarate + folic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23300/ferrous-fumarate-+-folic-acid\n\n- ferrous sulfate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22464/ferrous-sulfate\n\n- ferrous sulfate + ascorbic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23302/ferrous-sulfate-+-ascorbic-acid\n\n- ferrous sulfate + folic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23303/ferrous-sulfate-+-folic-acid\n\n- fexofenadine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21379/fexofenadine\n\n- fexofenadine + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23304/fexofenadine-+-pseudoephedrine\n\n- Fezolinetant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50067/fezolinetant\n\n- fibrinogen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21109/fibrinogen\n\n- Fibrinogen + human thrombin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24891/fibrinogen-+-human-thrombin\n\n- fidaxomicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21130/fidaxomicin\n\n- filgrastim: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21133/filgrastim\n\n- Finasteride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21135/finasteride\n\n- finerenone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27039/finerenone\n\n- fingolimod: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21142/fingolimod\n\n- fish oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22259/fish-oil\n\n- fish oil + linseed oil + starflower oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24880/fish-oil-+-linseed-oil-+-starflower-oil\n\n- Fish oil + nicotinamide + ascorbic acid + calcium + biotin + ferrous bisglycinate + zinc + magnesium + selenium + chromium + thiamine + riboflavin + pantothenic acid + pyridoxine + cyanocobalamin + colecalciferol + folic acid + d-alpha-tocopherol + iodine + betacarotene: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50239/fish-oil-+-nicotinamide-+-ascorbic-acid-+-calcium-+-biotin-+-ferrous-bisglycinate-+-zinc-+-magnesium-+-selenium-+-chromium-+-thiamine-+-riboflavin-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-colecalciferol-+-folic-acid-+-d-alpha-tocopherol-+-iodine-+-betacarotene\n\n- flecainide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21143/flecainide\n\n- flucloxacillin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21144/flucloxacillin\n\n- fluconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21149/fluconazole\n\n- fludarabine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21155/fludarabine\n\n- fludrocortisone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27040/fludrocortisone\n\n- Flumazenil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21157/flumazenil\n\n- Flumetasone pivalate + clioquinol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23305/flumetasone-pivalate-+-clioquinol\n\n- Flunitrazepam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21159/flunitrazepam\n\n- fluocinolone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24933/fluocinolone\n\n- fluorescein: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21212/fluorescein\n\n- Fluoride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11125/fluoride\n\n- fluoride + potassium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23926/fluoride-+-potassium\n\n- fluorometholone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21317/fluorometholone\n\n- fluorouracil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21319/fluorouracil\n\n- Fluorouracil + salicylic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27018/fluorouracil-+-salicylic-acid\n\n- fluoxetine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20562/fluoxetine\n\n- Flupentixol decanoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22474/flupentixol-decanoate\n\n- flurbiprofen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21324/flurbiprofen\n\n- flutamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21331/flutamide\n\n- fluticasone furoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21332/fluticasone-furoate\n\n- fluticasone furoate + umeclidinium + vilanterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24267/fluticasone-furoate-+-umeclidinium-+-vilanterol\n\n- fluticasone furoate + vilanterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23988/fluticasone-furoate-+-vilanterol\n\n- fluticasone propionate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21333/fluticasone-propionate\n\n- fluticasone propionate + formoterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23989/fluticasone-propionate-+-formoterol\n\n- fluticasone propionate + salmeterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23991/fluticasone-propionate-+-salmeterol\n\n- fluvastatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21335/fluvastatin\n\n- fluvoxamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21336/fluvoxamine\n\n- Folic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11132/folic-acid\n\n- folic acid + iodine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26642/folic-acid-+-iodine\n\n- Folic acid + iron + iodine + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + colecalciferol + dl-alpha-tocopherol + biotin + calcium + magnesium + copper + manganese + zinc + selenium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50240/folic-acid-+-iron-+-iodine-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-colecalciferol-+-dl-alpha-tocopherol-+-biotin-+-calcium-+-magnesium-+-copper-+-manganese-+-zinc-+-selenium\n\n- folinic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20410/folinic-acid\n\n- follitropin alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D015292/follitropin-alfa\n\n- follitropin alfa + lutropin alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23604/follitropin-alfa-+-lutropin-alfa\n\n- follitropin beta: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D037201/follitropin-beta\n\n- follitropin delta: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24240/follitropin-delta\n\n- fomepizole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24076/fomepizole\n\n- fondaparinux: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21341/fondaparinux\n\n- Formoterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20876/formoterol\n\n- fosaprepitant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21345/fosaprepitant\n\n- foscarnet: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21350/foscarnet\n\n- fosfomycin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24212/fosfomycin\n\n- fosinopril: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21294/fosinopril\n\n- fosinopril + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23312/fosinopril-+-hydrochlorothiazide\n\n- Foslevodopa + foscarbidopa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50469/foslevodopa-+-foscarbidopa\n\n- fosnetupitant + palonosetron: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26658/fosnetupitant-+-palonosetron\n\n- fostemsavir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27020/fostemsavir\n\n- framycetin sulfate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22483/framycetin-sulfate\n\n- framycetin sulfate + gramicidin + dexamethasone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23533/framycetin-sulfate-+-gramicidin-+-dexamethasone\n\n- fremanezumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24974/fremanezumab\n\n- Fruquintinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50757/fruquintinib\n\n- Fulvestrant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21355/fulvestrant\n\n- Funnel web spider antivenom: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21356/funnel-web-spider-antivenom\n\n- Furosemide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21354/furosemide\n\n- fusidate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23587/fusidate\n\n- Futibatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50637/futibatinib\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -138,7 +138,7 @@ GREETING_PATTERNS = re.compile(
     r'hi there|hello there|hey there|'
     r'good morning|good afternoon|good evening|good night|'
     r'how are you|how are you doing|how are you going|'
-    r'how r u|hru|whats up|what\'s up|wassup|'
+    r'how r u|hru|whats up(?: mate)?|what\'s up(?: mate)?|wassup(?: mate)?|'
     r'how do you do|nice to meet you|'
     r'thanks|thank you|cheers|ta)$'
 )
@@ -207,7 +207,7 @@ You MUST explicitly tailor your answer, equipment pathways, funding schemes, and
 - If {selected_state} is QLD: Highlight **MASS** (Medical Aids Subsidy Scheme) and MND Queensland!
 - If {selected_state} is WA: Highlight MND Western Australia advisors and local WA Health pathways!
 - If {selected_state} is SA: Highlight MND South Australia advisors and SA health pathways!
-- In your opening line, greet the user warmly and state: *"G'day! Here is your custom guide tailored specifically for **{selected_state}**:"*
+- Do not use a fixed template opening; start naturally and weave state-specific details into the answer where relevant.
 
 Relevant Retrieved Context from Australian MND Knowledge Base:
 {context_block}
@@ -307,7 +307,7 @@ async def chat_endpoint(request: Request):
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
 
     # Fast-path for casual greetings — skip RAG + LLM entirely to save API tokens
-    clean_msg = re.sub(r'[^a-z\'\s]', '', message.lower()).strip()
+    clean_msg = re.sub(r'[^a-z\'\s]', '', message.lower()).strip(" '")
     if GREETING_PATTERNS.match(clean_msg):
         async def greeting_stream():
             greeting_text = random.choice(GREETING_RESPONSES)
@@ -443,9 +443,7 @@ async def chat_endpoint(request: Request):
             yield f"data: {json.dumps({'content': intro})}\n\n"
 
             # Build intelligent local synthesis response from top entities & docs
-            response_text = f"### G'day! ✨ Here is what we found for: \"{message}\"\n\n"
-            if state and state != "National":
-                response_text += f"🌟 *Tailored specifically for our friends in **{state}**!*\n\n"
+            response_text = f"### G'day! ✨\n\n"
             if profile_prompt:
                 response_text += f"**Profile context used:** {profile_prompt}\n\n"
 

@@ -1,0 +1,1847 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-i-excludenonartg",
+  "title": "Medicines starting with \"I\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 59845,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "I-Folic (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1449791000168107/i-folic-blackmores"
+    },
+    {
+      "text": "Ibavyr",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,755451000168104/ibavyr"
+    },
+    {
+      "text": "Iberogast",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1293991000168102/iberogast"
+    },
+    {
+      "text": "Ibiamox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39666011000036102/ibiamox"
+    },
+    {
+      "text": "Ibilex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3667011000036100/ibilex"
+    },
+    {
+      "text": "Ibimicyn",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3348011000036101/ibimicyn"
+    },
+    {
+      "text": "Ibrance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,982621000168100/ibrance"
+    },
+    {
+      "text": "Ibuprofen (A)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1022971000168106/ibuprofen-a"
+    },
+    {
+      "text": "Ibuprofen (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006661000168100/ibuprofen-apo"
+    },
+    {
+      "text": "Ibuprofen (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1099761000168104/ibuprofen-apohealth"
+    },
+    {
+      "text": "Ibuprofen (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,810831000168108/ibuprofen-blooms-the-chemist"
+    },
+    {
+      "text": "Ibuprofen (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53581011000036105/ibuprofen-chemists'-own"
+    },
+    {
+      "text": "Ibuprofen (Coles)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924365011000036101/ibuprofen-coles"
+    },
+    {
+      "text": "Ibuprofen (Genpar)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1094721000168108/ibuprofen-genpar"
+    },
+    {
+      "text": "Ibuprofen (Herron Blue)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1721000168108/ibuprofen-herron-blue"
+    },
+    {
+      "text": "Ibuprofen (Medi Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1306031000168101/ibuprofen-medi-choice"
+    },
+    {
+      "text": "Ibuprofen (Medichoice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1302641000168102/ibuprofen-medichoice"
+    },
+    {
+      "text": "Ibuprofen (Medix)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1092521000168108/ibuprofen-medix"
+    },
+    {
+      "text": "Ibuprofen (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,143441000036101/ibuprofen-pharmacy-action"
+    },
+    {
+      "text": "Ibuprofen (Soul Pattinson)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53225011000036108/ibuprofen-soul-pattinson"
+    },
+    {
+      "text": "Ibuprofen (Trust)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438951000168108/ibuprofen-trust"
+    },
+    {
+      "text": "Ibuprofen (Value Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1430381000168104/ibuprofen-value-choice"
+    },
+    {
+      "text": "Ibuprofen (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933279811000036108/ibuprofen-wgr"
+    },
+    {
+      "text": "Ibuprofen and Codeine Phosphate (Medreich)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1067521000168109/ibuprofen-and-codeine-phosphate-medreich"
+    },
+    {
+      "text": "Ibuprofen Children's 5 to 12 Years (Pharmacy Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933505981000036109/ibuprofen-children's-5-to-12-years-pharmacy-choice"
+    },
+    {
+      "text": "Ibuprofen Children's 6 Months to 12 Years (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1423191000168105/ibuprofen-children's-6-months-to-12-years-apohealth"
+    },
+    {
+      "text": "Ibuprofen Children's Infant Drops (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1423401000168109/ibuprofen-children's-infant-drops-apohealth"
+    },
+    {
+      "text": "Ibuprofen Codeine (RJIC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1710661000168103/ibuprofen-codeine-rjic"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774841000036103/ibuprofen-double-strength-apohealth"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1212421000168104/ibuprofen-double-strength-chemists'-own"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Medreich)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1096981000168100/ibuprofen-double-strength-medreich"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Neo Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1087361000168108/ibuprofen-double-strength-neo-health"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Pharmacy Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1711461000168108/ibuprofen-double-strength-pharmacy-choice"
+    },
+    {
+      "text": "Ibuprofen Double Strength (Trust)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,862331000168100/ibuprofen-double-strength-trust"
+    },
+    {
+      "text": "Ibuprofen Liquid Capsules (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1093031000168107/ibuprofen-liquid-capsules-chemists'-own"
+    },
+    {
+      "text": "Ibuprofen Liquid Capsules (Neo Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1203321000168103/ibuprofen-liquid-capsules-neo-health"
+    },
+    {
+      "text": "Ibuprofen Melts (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,503409611000036109/ibuprofen-melts-chemists'-own"
+    },
+    {
+      "text": "Ibuprofen Pain and Fever 6 Months to 12 Years (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30691000168100/ibuprofen-pain-and-fever-6-months-to-12-years-chemists'-own"
+    },
+    {
+      "text": "Ibuprofen plus Codeine (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80134011000036106/ibuprofen-plus-codeine-amcal"
+    },
+    {
+      "text": "Ibuprofen plus Codeine (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,734591000168106/ibuprofen-plus-codeine-apohealth"
+    },
+    {
+      "text": "Ibuprofen plus Codeine (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,792421000168107/ibuprofen-plus-codeine-pharmacy-action"
+    },
+    {
+      "text": "Ibuprofen plus Codeine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1069561000168109/ibuprofen-plus-codeine-sandoz"
+    },
+    {
+      "text": "Ibuprofen plus Codeine (Trust)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1067731000168103/ibuprofen-plus-codeine-trust"
+    },
+    {
+      "text": "Ibuprofen plus Paracetamol (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1113151000168109/ibuprofen-plus-paracetamol-apohealth"
+    },
+    {
+      "text": "Ibuprofen plus Paracetamol (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1083331000168106/ibuprofen-plus-paracetamol-blooms-the-chemist"
+    },
+    {
+      "text": "Ibuprofen Tabsules (Herron Blue)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8771000168104/ibuprofen-tabsules-herron-blue"
+    },
+    {
+      "text": "Ibuprofen/Codeine 200/12.8 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1764511000168108/ibuprofen-codeine-200-12.8-wgr"
+    },
+    {
+      "text": "Icatibant (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1493321000168104/icatibant-cipla"
+    },
+    {
+      "text": "Icatibant (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,328090431000036102/icatibant-gh"
+    },
+    {
+      "text": "Icatibant (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1637791000168104/icatibant-lupin"
+    },
+    {
+      "text": "Icatibant (WKT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,921094511000036104/icatibant-wkt"
+    },
+    {
+      "text": "Icatibant (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,655085281000036102/icatibant-wockhardt"
+    },
+    {
+      "text": "Icaticip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1493361000168109/icaticip"
+    },
+    {
+      "text": "Icazyr",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1493401000168100/icazyr"
+    },
+    {
+      "text": "Ice",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65034011000036107/ice"
+    },
+    {
+      "text": "Ichthammol (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,86598011000036105/ichthammol-gold-cross"
+    },
+    {
+      "text": "Ichthammol (Toppin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927783011000036105/ichthammol-toppin"
+    },
+    {
+      "text": "Iclusig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,699941000168109/iclusig"
+    },
+    {
+      "text": "Idaprex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933218941000036100/idaprex"
+    },
+    {
+      "text": "Idarubicin (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927760011000036104/idarubicin-ebewe"
+    },
+    {
+      "text": "Idelvion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,887771000168104/idelvion"
+    },
+    {
+      "text": "Ifinwil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,958576241000036100/ifinwil"
+    },
+    {
+      "text": "Ikervis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1528421000168104/ikervis"
+    },
+    {
+      "text": "Ikotab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,691461000168103/ikotab"
+    },
+    {
+      "text": "Ilaris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929824011000036109/ilaris"
+    },
+    {
+      "text": "Ilumya",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1235201000168107/ilumya"
+    },
+    {
+      "text": "Iluvien",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1376351000168100/iluvien"
+    },
+    {
+      "text": "Imanib",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1791841000168108/imanib"
+    },
+    {
+      "text": "Imatab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1599721000168106/imatab"
+    },
+    {
+      "text": "Imatero",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,780861671000036109/imatero"
+    },
+    {
+      "text": "Imatinib (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,848961000168101/imatinib-apotex"
+    },
+    {
+      "text": "Imatinib (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1673001000168100/imatinib-arx"
+    },
+    {
+      "text": "Imatinib (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1249591000168101/imatinib-cipla"
+    },
+    {
+      "text": "Imatinib (CPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1250301000168107/imatinib-cpl"
+    },
+    {
+      "text": "Imatinib (DRLA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,830751000168100/imatinib-drla"
+    },
+    {
+      "text": "Imatinib (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,896031000168101/imatinib-gh"
+    },
+    {
+      "text": "Imatinib (JN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,152932331000036106/imatinib-jn"
+    },
+    {
+      "text": "Imatinib (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,828961000168104/imatinib-rbx"
+    },
+    {
+      "text": "Imatinib (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1733131000168101/imatinib-sandoz"
+    },
+    {
+      "text": "Imatinib (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,829091000168100/imatinib-teva"
+    },
+    {
+      "text": "Imbruvica",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,717911000168105/imbruvica"
+    },
+    {
+      "text": "Imdelltra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933585931000036106/imdelltra"
+    },
+    {
+      "text": "Imdur",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1623171000168107/imdur"
+    },
+    {
+      "text": "Imdur Durules",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55051000168107/imdur-durules"
+    },
+    {
+      "text": "Imfinzi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1275511000168109/imfinzi"
+    },
+    {
+      "text": "Imigran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30771000168105/imigran"
+    },
+    {
+      "text": "Imigran FDT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33531000168108/imigran-fdt"
+    },
+    {
+      "text": "Imigran Migraine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1745611000168101/imigran-migraine"
+    },
+    {
+      "text": "Imigran Mk II",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57551000168106/imigran-mk-ii"
+    },
+    {
+      "text": "Imigran Mk II with Autoinjector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41151000168106/imigran-mk-ii-with-autoinjector"
+    },
+    {
+      "text": "Imigran S",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18041000168106/imigran-s"
+    },
+    {
+      "text": "Imiquad",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929828011000036102/imiquad"
+    },
+    {
+      "text": "Imjudo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1676601000168104/imjudo"
+    },
+    {
+      "text": "Immela",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,970210391000036101/immela"
+    },
+    {
+      "text": "Immune Defence (Amplio+ )",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1580471000168107/immune-defence-amplio+"
+    },
+    {
+      "text": "Imoclone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1120361000168105/imoclone"
+    },
+    {
+      "text": "Imodium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3950011000036109/imodium"
+    },
+    {
+      "text": "Imodium Advanced",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53369011000036108/imodium-advanced"
+    },
+    {
+      "text": "Imodium Melt",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,7341000168106/imodium-melt"
+    },
+    {
+      "text": "Imodium Zapid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,734891000168109/imodium-zapid"
+    },
+    {
+      "text": "Imojev",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,134091000036100/imojev"
+    },
+    {
+      "text": "Imovane",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3857011000036103/imovane"
+    },
+    {
+      "text": "Imrest",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4237011000036108/imrest"
+    },
+    {
+      "text": "Imukin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3786011000036109/imukin"
+    },
+    {
+      "text": "Imulate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,801000036103/imulate"
+    },
+    {
+      "text": "Imuran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3070011000036103/imuran"
+    },
+    {
+      "text": "Imutrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1725381000168104/imutrex"
+    },
+    {
+      "text": "Increlex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1498851000168106/increlex"
+    },
+    {
+      "text": "Incremin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920910011000036103/incremin"
+    },
+    {
+      "text": "Incruse Ellipta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,673171000168106/incruse-ellipta"
+    },
+    {
+      "text": "Indapamide Hemihydrate (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,661931000168101/indapamide-hemihydrate-an"
+    },
+    {
+      "text": "Indapamide Hemihydrate (PS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40431000036108/indapamide-hemihydrate-ps"
+    },
+    {
+      "text": "Indapamide Hemihydrate SR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,672311000168106/indapamide-hemihydrate-sr-apo"
+    },
+    {
+      "text": "Indapamol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536921000036107/indapamol"
+    },
+    {
+      "text": "Inderal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2946011000036102/inderal"
+    },
+    {
+      "text": "Indigo Carmine (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,762601000168104/indigo-carmine-dbl"
+    },
+    {
+      "text": "Indigo Carmine (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75964011000036109/indigo-carmine-phebra"
+    },
+    {
+      "text": "Indocid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3869011000036100/indocid"
+    },
+    {
+      "text": "Indopril",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35995011000036104/indopril"
+    },
+    {
+      "text": "Indopril Combi 4/1.25 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30161000168103/indopril-combi-4-1.25-mg"
+    },
+    {
+      "text": "Infanrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,842341000168101/infanrix"
+    },
+    {
+      "text": "Infanrix Hexa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,12341000168106/infanrix-hexa"
+    },
+    {
+      "text": "Infanrix Penta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73711011000036106/infanrix-penta"
+    },
+    {
+      "text": "Infanrix-IPV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73704011000036107/infanrix-ipv"
+    },
+    {
+      "text": "Inflectra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,730931000168105/inflectra"
+    },
+    {
+      "text": "Infloran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1441381000168106/infloran"
+    },
+    {
+      "text": "Influvac 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651931000036109/influvac-2026"
+    },
+    {
+      "text": "Influvac Tetra 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,426314771000036103/influvac-tetra-2025"
+    },
+    {
+      "text": "Inhaler (Coles)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1097651000168102/inhaler-coles"
+    },
+    {
+      "text": "Inhaler (Woolworths Select)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1126041000168106/inhaler-woolworths-select"
+    },
+    {
+      "text": "Inlyta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,154521000036105/inlyta"
+    },
+    {
+      "text": "Inner Health Advanced",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,775500081000036100/inner-health-advanced"
+    },
+    {
+      "text": "Inner Health Advanced Spectrum Probiotic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736011000036103/inner-health-advanced-spectrum-probiotic"
+    },
+    {
+      "text": "Inner Health Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1182831000168100/inner-health-plus"
+    },
+    {
+      "text": "Inomax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21991000168101/inomax"
+    },
+    {
+      "text": "Inovelon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1215441000168104/inovelon"
+    },
+    {
+      "text": "Inovemed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651091000036109/inovemed"
+    },
+    {
+      "text": "Inpler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,790401000168102/inpler"
+    },
+    {
+      "text": "Inqovi 35/100",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1507261000168102/inqovi-35-100"
+    },
+    {
+      "text": "Insig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4269011000036107/insig"
+    },
+    {
+      "text": "Insolar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337781000168106/insolar"
+    },
+    {
+      "text": "Inspra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3018011000036108/inspra"
+    },
+    {
+      "text": "Instillagel Lido",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650371000036103/instillagel-lido"
+    },
+    {
+      "text": "Intelence",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75936011000036108/intelence"
+    },
+    {
+      "text": "Intragam P",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,46781000168105/intragam-p"
+    },
+    {
+      "text": "Intragam-10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1195451000168104/intragam-10"
+    },
+    {
+      "text": "Intralipid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65008011000036106/intralipid"
+    },
+    {
+      "text": "Intrarosa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1677941000168107/intrarosa"
+    },
+    {
+      "text": "Intratect",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48311000036106/intratect"
+    },
+    {
+      "text": "Intuniv",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1037851000168105/intuniv"
+    },
+    {
+      "text": "Invanz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39779011000036105/invanz"
+    },
+    {
+      "text": "Invega",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2081000168101/invega"
+    },
+    {
+      "text": "Invega Hafyera",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625181000168106/invega-hafyera"
+    },
+    {
+      "text": "Invega Sustenna",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26461000168105/invega-sustenna"
+    },
+    {
+      "text": "Invega Trinza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,857421000168101/invega-trinza"
+    },
+    {
+      "text": "Invite E High Potency Vitamin E",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,76013011000036102/invite-e-high-potency-vitamin-e"
+    },
+    {
+      "text": "Inza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3504011000036101/inza"
+    },
+    {
+      "text": "Iodine 0.5% in Alcohol 70% (Orion)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33751000168105/iodine-0.5-in-alcohol-70-orion"
+    },
+    {
+      "text": "Iodine 1% in Alcohol 70% (Orion)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56911000168103/iodine-1-in-alcohol-70-orion"
+    },
+    {
+      "text": "Iodine Weak (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41141000168109/iodine-weak-gold-cross"
+    },
+    {
+      "text": "Iomeron-300",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5101000168100/iomeron-300"
+    },
+    {
+      "text": "Iomeron-350",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8561000168103/iomeron-350"
+    },
+    {
+      "text": "Ionil T Scalp Cleanser",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1569301000168101/ionil-t-scalp-cleanser"
+    },
+    {
+      "text": "Ionolyte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196961000168101/ionolyte"
+    },
+    {
+      "text": "Iopidine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3165011000036109/iopidine"
+    },
+    {
+      "text": "Ioscan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,925572011000036107/ioscan"
+    },
+    {
+      "text": "Ipclone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1124231000168102/ipclone"
+    },
+    {
+      "text": "Ipol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73777011000036108/ipol"
+    },
+    {
+      "text": "Ipratropium (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933585081000036109/ipratropium-cipla"
+    },
+    {
+      "text": "Ipratropium Bromide (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3090011000036105/ipratropium-bromide-genrx"
+    },
+    {
+      "text": "Iptam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,690681000168104/iptam"
+    },
+    {
+      "text": "Iptramol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1048221000168103/iptramol"
+    },
+    {
+      "text": "Iqirvo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,440323601000036100/iqirvo"
+    },
+    {
+      "text": "Irbesartan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,97951000036104/irbesartan-apo"
+    },
+    {
+      "text": "Irbesartan (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1011831000168100/irbesartan-apotex"
+    },
+    {
+      "text": "Irbesartan (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1699351000168107/irbesartan-apx"
+    },
+    {
+      "text": "Irbesartan (Blooms)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1697991000168105/irbesartan-blooms"
+    },
+    {
+      "text": "Irbesartan (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1699231000168108/irbesartan-btc"
+    },
+    {
+      "text": "Irbesartan (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1161441000168100/irbesartan-noumed"
+    },
+    {
+      "text": "Irbesartan (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,98031000036105/irbesartan-sandoz"
+    },
+    {
+      "text": "Irbesartan (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772041000168104/irbesartan-wgr"
+    },
+    {
+      "text": "Irbesartan HCT 150/12.5 (Sigma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53221000168108/irbesartan-hct-150-12.5-sigma"
+    },
+    {
+      "text": "Irbesartan HCT 300/12.5 (Sigma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22421000168101/irbesartan-hct-300-12.5-sigma"
+    },
+    {
+      "text": "Irbesartan HCT 300/25 (Sigma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62111000168108/irbesartan-hct-300-25-sigma"
+    },
+    {
+      "text": "Irbesartan HCTZ 150 mg/12.5 mg (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1019291000168101/irbesartan-hctz-150-mg-12.5-mg-apotex"
+    },
+    {
+      "text": "Irbesartan HCTZ 150/12.5 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1273131000168106/irbesartan-hctz-150-12.5-alembic"
+    },
+    {
+      "text": "Irbesartan HCTZ 150/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33111000168105/irbesartan-hctz-150-12.5-apo"
+    },
+    {
+      "text": "Irbesartan HCTZ 150/12.5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1773291000168108/irbesartan-hctz-150-12.5-wgr"
+    },
+    {
+      "text": "Irbesartan HCTZ 300 mg/12.5 mg (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1019521000168100/irbesartan-hctz-300-mg-12.5-mg-apotex"
+    },
+    {
+      "text": "Irbesartan HCTZ 300 mg/25 mg (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1019751000168100/irbesartan-hctz-300-mg-25-mg-apotex"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/12.5 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1273211000168106/irbesartan-hctz-300-12.5-alembic"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6731000168101/irbesartan-hctz-300-12.5-apo"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/12.5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1773831000168105/irbesartan-hctz-300-12.5-wgr"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/25 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1273171000168109/irbesartan-hctz-300-25-alembic"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45281000168109/irbesartan-hctz-300-25-apo"
+    },
+    {
+      "text": "Irbesartan HCTZ 300/25 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1774171000168104/irbesartan-hctz-300-25-wgr"
+    },
+    {
+      "text": "Irbesartan/HCT 150/12.5 (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1154981000168107/irbesartan-hct-150-12.5-noumed"
+    },
+    {
+      "text": "Irbesartan/HCT 150/12.5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17731000168101/irbesartan-hct-150-12.5-sandoz"
+    },
+    {
+      "text": "Irbesartan/HCT 300/12.5 (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1155021000168108/irbesartan-hct-300-12.5-noumed"
+    },
+    {
+      "text": "Irbesartan/HCT 300/12.5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52801000168107/irbesartan-hct-300-12.5-sandoz"
+    },
+    {
+      "text": "Irbesartan/HCT 300/25 (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1155391000168108/irbesartan-hct-300-25-noumed"
+    },
+    {
+      "text": "Irbesartan/HCT 300/25 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18011000168107/irbesartan-hct-300-25-sandoz"
+    },
+    {
+      "text": "Irbesatzide 150/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62731000168102/irbesatzide-150-12.5"
+    },
+    {
+      "text": "Irbesatzide 300/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45261000168100/irbesatzide-300-12.5"
+    },
+    {
+      "text": "Irbesatzide 300/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42361000168103/irbesatzide-300-25"
+    },
+    {
+      "text": "Iressa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4123011000036103/iressa"
+    },
+    {
+      "text": "Irinotecan (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1179311000168104/irinotecan-accord"
+    },
+    {
+      "text": "Irinotecan (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1695051000168107/irinotecan-baxter"
+    },
+    {
+      "text": "Irinotecan (Eugia)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,203088021000036108/irinotecan-eugia"
+    },
+    {
+      "text": "Irinotecan (Irem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736071000036109/irinotecan-irem"
+    },
+    {
+      "text": "Irinotecan (Meditab)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,766881000168107/irinotecan-meditab"
+    },
+    {
+      "text": "Irinotecan (WKT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1414271000168105/irinotecan-wkt"
+    },
+    {
+      "text": "Irinotecan (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1362991000168103/irinotecan-wockhardt"
+    },
+    {
+      "text": "Irinotecan Hydrochloride Trihydrate (Meditab)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,77961000036107/irinotecan-hydrochloride-trihydrate-meditab"
+    },
+    {
+      "text": "Irinotecan Hydrochloride Trihydrate (MYX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,683661000168104/irinotecan-hydrochloride-trihydrate-myx"
+    },
+    {
+      "text": "Irish Moss Syrup (Bonnington's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1367011000168109/irish-moss-syrup-bonnington's"
+    },
+    {
+      "text": "Iron (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1096061000168108/iron-apohealth"
+    },
+    {
+      "text": "Iron Sustain (Bioceuticals)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1353511000168101/iron-sustain-bioceuticals"
+    },
+    {
+      "text": "Iron with Folic Acid (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1421491000168102/iron-with-folic-acid-apohealth"
+    },
+    {
+      "text": "Isabelle",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,771061000168109/isabelle"
+    },
+    {
+      "text": "Isavuconazole (ADVZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650221000036105/isavuconazole-advz"
+    },
+    {
+      "text": "Iscover",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3653011000036100/iscover"
+    },
+    {
+      "text": "Isentress",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35892011000036104/isentress"
+    },
+    {
+      "text": "Isentress HD",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1071351000168106/isentress-hd"
+    },
+    {
+      "text": "Isobide MR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1298091000168105/isobide-mr"
+    },
+    {
+      "text": "Isoniazid (Arrotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1700631000168109/isoniazid-arrotex"
+    },
+    {
+      "text": "Isoniazid (Arrow)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,786221000168105/isoniazid-arrow"
+    },
+    {
+      "text": "Isoniazid (Fawns & McAllan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3746011000036101/isoniazid-fawns-&-mcallan"
+    },
+    {
+      "text": "Isoprenaline (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1628031000168102/isoprenaline-cipla"
+    },
+    {
+      "text": "Isoprenaline (Macure)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1632761000168108/isoprenaline-macure"
+    },
+    {
+      "text": "Isoprenaline Hydrochloride (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1624801000168107/isoprenaline-hydrochloride-medsurge"
+    },
+    {
+      "text": "Isoptin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4411000168109/isoptin"
+    },
+    {
+      "text": "Isoptin SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31671000168106/isoptin-sr"
+    },
+    {
+      "text": "Isopto Carpine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4348011000036104/isopto-carpine"
+    },
+    {
+      "text": "Isordil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4049011000036106/isordil"
+    },
+    {
+      "text": "Isosorbide Mononitrate (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,661971000168103/isosorbide-mononitrate-an"
+    },
+    {
+      "text": "Isosorbide Mononitrate (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1300741000168106/isosorbide-mononitrate-apo"
+    },
+    {
+      "text": "Isosorbide Mononitrate (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3451011000036104/isosorbide-mononitrate-genrx"
+    },
+    {
+      "text": "Isosorbide Mononitrate (PS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58161000036108/isosorbide-mononitrate-ps"
+    },
+    {
+      "text": "Isosorbide MR (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770451000168107/isosorbide-mr-wgr"
+    },
+    {
+      "text": "Isotretinoin (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32171000168108/isotretinoin-apo"
+    },
+    {
+      "text": "Isotretinoin (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506221000036106/isotretinoin-dr.-reddy's"
+    },
+    {
+      "text": "Isotretinoin (GA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1323221000168106/isotretinoin-ga"
+    },
+    {
+      "text": "Isotretinoin (Gx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1522661000168108/isotretinoin-gx"
+    },
+    {
+      "text": "Isotretinoin (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1467431000168103/isotretinoin-lupin"
+    },
+    {
+      "text": "Isotretinoin (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772201000168106/isotretinoin-wgr"
+    },
+    {
+      "text": "Isovue-300",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5231000168102/isovue-300"
+    },
+    {
+      "text": "Isovue-370",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35921000168104/isovue-370"
+    },
+    {
+      "text": "Istodax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,154601000036101/istodax"
+    },
+    {
+      "text": "Isturisa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1630031000168101/isturisa"
+    },
+    {
+      "text": "Itovebi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,113801931000036101/itovebi"
+    },
+    {
+      "text": "Itracap",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,849011000168106/itracap"
+    },
+    {
+      "text": "Itranox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,849661000168104/itranox"
+    },
+    {
+      "text": "Ivabradine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1198651000168109/ivabradine-apo"
+    },
+    {
+      "text": "Ivabradine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1773411000168103/ivabradine-wgr"
+    },
+    {
+      "text": "Ixarola",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1793021000168107/ixarola"
+    },
+    {
+      "text": "Ixifi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933585771000036105/ixifi"
+    },
+    {
+      "text": "Izervay",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650431000036108/izervay"
+    },
+    {
+      "text": "Ibandronate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21287/ibandronate"
+    },
+    {
+      "text": "Ibrutinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21804/ibrutinib"
+    },
+    {
+      "text": "Ibuprofen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21286/ibuprofen"
+    },
+    {
+      "text": "Ibuprofen + codeine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23251/ibuprofen-+-codeine"
+    },
+    {
+      "text": "ibuprofen + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23334/ibuprofen-+-pseudoephedrine"
+    },
+    {
+      "text": "Icatibant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21284/icatibant"
+    },
+    {
+      "text": "ichthammol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21550/ichthammol"
+    },
+    {
+      "text": "ichthammol + zinc oxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23335/ichthammol-+-zinc-oxide"
+    },
+    {
+      "text": "Icodextrin + sodium chloride + sodium lactate + calcium chloride + magnesium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50259/icodextrin-+-sodium-chloride-+-sodium-lactate-+-calcium-chloride-+-magnesium-chloride"
+    },
+    {
+      "text": "Icosapent ethyl",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50260/icosapent-ethyl"
+    },
+    {
+      "text": "idarubicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21282/idarubicin"
+    },
+    {
+      "text": "idarucizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24047/idarucizumab"
+    },
+    {
+      "text": "idelalisib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21632/idelalisib"
+    },
+    {
+      "text": "idoxuridine + lidocaine + benzalkonium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23546/idoxuridine-+-lidocaine-+-benzalkonium-chloride"
+    },
+    {
+      "text": "idursulfase",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21281/idursulfase"
+    },
+    {
+      "text": "ifosfamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21275/ifosfamide"
+    },
+    {
+      "text": "Iloprost",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21274/iloprost"
+    },
+    {
+      "text": "Imatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21273/imatinib"
+    },
+    {
+      "text": "imiglucerase",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21271/imiglucerase"
+    },
+    {
+      "text": "Imipramine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21270/imipramine"
+    },
+    {
+      "text": "imiquimod",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21269/imiquimod"
+    },
+    {
+      "text": "Inavolisib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50557/inavolisib"
+    },
+    {
+      "text": "Inclisiran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27033/inclisiran"
+    },
+    {
+      "text": "incobotulinumtoxinA",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22552/incobotulinumtoxina"
+    },
+    {
+      "text": "indacaterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21266/indacaterol"
+    },
+    {
+      "text": "indacaterol + glycopyrronium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23337/indacaterol-+-glycopyrronium"
+    },
+    {
+      "text": "indacaterol + glycopyrronium + mometasone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26845/indacaterol-+-glycopyrronium-+-mometasone"
+    },
+    {
+      "text": "indacaterol + mometasone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26764/indacaterol-+-mometasone"
+    },
+    {
+      "text": "indapamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20926/indapamide"
+    },
+    {
+      "text": "indigo carmine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22554/indigo-carmine"
+    },
+    {
+      "text": "Indocyanine green",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50540/indocyanine-green"
+    },
+    {
+      "text": "Indometacin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21263/indometacin"
+    },
+    {
+      "text": "infliximab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21262/infliximab"
+    },
+    {
+      "text": "Influenza quadrivalent adjuvanted vaccine 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50508/influenza-quadrivalent-adjuvanted-vaccine-2025"
+    },
+    {
+      "text": "Influenza quadrivalent cell based vaccine 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50509/influenza-quadrivalent-cell-based-vaccine-2025"
+    },
+    {
+      "text": "Influenza quadrivalent vaccine 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50510/influenza-quadrivalent-vaccine-2025"
+    },
+    {
+      "text": "Influenza trivalent adjuvanted vaccine 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50751/influenza-trivalent-adjuvanted-vaccine-2026"
+    },
+    {
+      "text": "Influenza trivalent cell based vaccine 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50750/influenza-trivalent-cell-based-vaccine-2026"
+    },
+    {
+      "text": "Influenza trivalent vaccine 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50749/influenza-trivalent-vaccine-2026"
+    },
+    {
+      "text": "inotuzumab ozogamicin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24444/inotuzumab-ozogamicin"
+    },
+    {
+      "text": "insulin aspart",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D061267/insulin-aspart"
+    },
+    {
+      "text": "insulin aspart + insulin aspart protamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23338/insulin-aspart-+-insulin-aspart-protamine"
+    },
+    {
+      "text": "Insulin degludec",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26573/insulin-degludec"
+    },
+    {
+      "text": "insulin degludec + insulin aspart",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24286/insulin-degludec-+-insulin-aspart"
+    },
+    {
+      "text": "insulin degludec + liraglutide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26853/insulin-degludec-+-liraglutide"
+    },
+    {
+      "text": "insulin detemir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22558/insulin-detemir"
+    },
+    {
+      "text": "insulin glargine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22559/insulin-glargine"
+    },
+    {
+      "text": "insulin glulisine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22560/insulin-glulisine"
+    },
+    {
+      "text": "Insulin icodec",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50488/insulin-icodec"
+    },
+    {
+      "text": "insulin isophane human",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22562/insulin-isophane-human"
+    },
+    {
+      "text": "insulin lispro",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D061268/insulin-lispro"
+    },
+    {
+      "text": "insulin lispro + insulin lispro protamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23340/insulin-lispro-+-insulin-lispro-protamine"
+    },
+    {
+      "text": "insulin neutral human",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22566/insulin-neutral-human"
+    },
+    {
+      "text": "insulin neutral human + insulin isophane human",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23339/insulin-neutral-human-+-insulin-isophane-human"
+    },
+    {
+      "text": "interferon beta-1a",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22569/interferon-beta-1a"
+    },
+    {
+      "text": "interferon beta-1b",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22570/interferon-beta-1b"
+    },
+    {
+      "text": "interferon gamma-1b",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21257/interferon-gamma-1b"
+    },
+    {
+      "text": "iodine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11622/iodine"
+    },
+    {
+      "text": "iodine + ethanol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23341/iodine-+-ethanol"
+    },
+    {
+      "text": "iodised oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22572/iodised-oil"
+    },
+    {
+      "text": "iodixanol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21256/iodixanol"
+    },
+    {
+      "text": "iohexol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21255/iohexol"
+    },
+    {
+      "text": "iomeprol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21254/iomeprol"
+    },
+    {
+      "text": "iopamidol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21253/iopamidol"
+    },
+    {
+      "text": "iopromide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21251/iopromide"
+    },
+    {
+      "text": "iotroxic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22575/iotroxic-acid"
+    },
+    {
+      "text": "ioversol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21250/ioversol"
+    },
+    {
+      "text": "Ipilimumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21249/ipilimumab"
+    },
+    {
+      "text": "Ipratropium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21248/ipratropium"
+    },
+    {
+      "text": "Ipratropium + xylometazoline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23343/ipratropium-+-xylometazoline"
+    },
+    {
+      "text": "Iptacopan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50470/iptacopan"
+    },
+    {
+      "text": "irbesartan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21247/irbesartan"
+    },
+    {
+      "text": "Irbesartan + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23344/irbesartan-+-hydrochlorothiazide"
+    },
+    {
+      "text": "irinotecan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21246/irinotecan"
+    },
+    {
+      "text": "Irinotecan liposome",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27170/irinotecan-liposome"
+    },
+    {
+      "text": "Irish moss + camphor + menthol + prepared ipecacuanha",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50263/irish-moss-+-camphor-+-menthol-+-prepared-ipecacuanha"
+    },
+    {
+      "text": "Iron + ascorbic acid + pyridoxine + mecobalamin + levomefolic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50264/iron-+-ascorbic-acid-+-pyridoxine-+-mecobalamin-+-levomefolic-acid"
+    },
+    {
+      "text": "Iron + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + biotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50267/iron-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-biotin"
+    },
+    {
+      "text": "Iron + zinc + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + biotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50268/iron-+-zinc-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-biotin"
+    },
+    {
+      "text": "iron polymaltose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21245/iron-polymaltose"
+    },
+    {
+      "text": "iron sucrose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21244/iron-sucrose"
+    },
+    {
+      "text": "isatuximab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26754/isatuximab"
+    },
+    {
+      "text": "isavuconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26576/isavuconazole"
+    },
+    {
+      "text": "isoflurane",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21243/isoflurane"
+    },
+    {
+      "text": "Isoleucine + leucine + valine + phenylalanine + methionine + lysine + threonine + tryptophan + cysteine + histidine + tyrosine + alanine + arginine + aspartic acid + glutamic acid + glycine + proline + serine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50269/isoleucine-+-leucine-+-valine-+-phenylalanine-+-methionine-+-lysine-+-threonine-+-tryptophan-+-cysteine-+-histidine-+-tyrosine-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-proline-+-serine"
+    },
+    {
+      "text": "isoniazid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21242/isoniazid"
+    },
+    {
+      "text": "isoprenaline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21241/isoprenaline"
+    },
+    {
+      "text": "isopropyl alcohol + benzalkonium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23177/isopropyl-alcohol-+-benzalkonium-chloride"
+    },
+    {
+      "text": "isosorbide dinitrate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22585/isosorbide-dinitrate"
+    },
+    {
+      "text": "isosorbide mononitrate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22586/isosorbide-mononitrate"
+    },
+    {
+      "text": "isotretinoin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21239/isotretinoin"
+    },
+    {
+      "text": "itraconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21238/itraconazole"
+    },
+    {
+      "text": "ivabradine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21237/ivabradine"
+    },
+    {
+      "text": "ivacaftor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21236/ivacaftor"
+    },
+    {
+      "text": "ivermectin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21235/ivermectin"
+    },
+    {
+      "text": "Ivosidenib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27134/ivosidenib"
+    },
+    {
+      "text": "ixazomib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24049/ixazomib"
+    },
+    {
+      "text": "ixekizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24010/ixekizumab"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"I\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"I\"\n\n## Brand names\n\n- I-Folic (Blackmores)\n\n- Ibavyr\n\n- Iberogast\n\n- Ibiamox\n\n- Ibilex\n\n- Ibimicyn\n\n- Ibrance\n\n- Ibuprofen (A)\n\n- Ibuprofen (Apo)\n\n- Ibuprofen (Apohealth)\n\n- Ibuprofen (Blooms The Chemist)\n\n- Ibuprofen (Chemists' Own)\n\n- Ibuprofen (Coles)\n\n- Ibuprofen (Genpar)\n\n- Ibuprofen (Herron Blue)\n\n- Ibuprofen (Medi Choice)\n\n- Ibuprofen (Medichoice)\n\n- Ibuprofen (Medix)\n\n- Ibuprofen (Pharmacy Action)\n\n- Ibuprofen (Soul Pattinson)\n\n- Ibuprofen (Trust)\n\n- Ibuprofen (Value Choice)\n\n- Ibuprofen (WGR)\n\n- Ibuprofen and Codeine Phosphate (Medreich)\n\n- Ibuprofen Children's 5 to 12 Years (Pharmacy Choice)\n\n- Ibuprofen Children's 6 Months to 12 Years (Apohealth)\n\n- Ibuprofen Children's Infant Drops (Apohealth)\n\n- Ibuprofen Codeine (RJIC)\n\n- Ibuprofen Double Strength (Apohealth)\n\n- Ibuprofen Double Strength (Chemists' Own)\n\n- Ibuprofen Double Strength (Medreich)\n\n- Ibuprofen Double Strength (Neo Health)\n\n- Ibuprofen Double Strength (Pharmacy Choice)\n\n- Ibuprofen Double Strength (Trust)\n\n- Ibuprofen Liquid Capsules (Chemists' Own)\n\n- Ibuprofen Liquid Capsules (Neo Health)\n\n- Ibuprofen Melts (Chemists' Own)\n\n- Ibuprofen Pain and Fever 6 Months to 12 Years (Chemists' Own)\n\n- Ibuprofen plus Codeine (Amcal)\n\n- Ibuprofen plus Codeine (Apohealth)\n\n- Ibuprofen plus Codeine (Pharmacy Action)\n\n- Ibuprofen plus Codeine (Sandoz)\n\n- Ibuprofen plus Codeine (Trust)\n\n- Ibuprofen plus Paracetamol (Apohealth)\n\n- Ibuprofen plus Paracetamol (Blooms The Chemist)\n\n- Ibuprofen Tabsules (Herron Blue)\n\n- Ibuprofen/Codeine 200/12.8 (WGR)\n\n- Icatibant (Cipla)\n\n- Icatibant (GH)\n\n- Icatibant (Lupin)\n\n- Icatibant (WKT)\n\n- Icatibant (Wockhardt)\n\n- Icaticip\n\n- Icazyr\n\n- Ice\n\n- Ichthammol (Gold Cross)\n\n- Ichthammol (Toppin)\n\n- Iclusig\n\n- Idaprex\n\n- Idarubicin (Ebewe)\n\n- Idelvion\n\n- Ifinwil\n\n- Ikervis\n\n- Ikotab\n\n- Ilaris\n\n- Ilumya\n\n- Iluvien\n\n- Imanib\n\n- Imatab\n\n- Imatero\n\n- Imatinib (Apotex)\n\n- Imatinib (ARX)\n\n- Imatinib (Cipla)\n\n- Imatinib (CPL)\n\n- Imatinib (DRLA)\n\n- Imatinib (GH)\n\n- Imatinib (JN)\n\n- Imatinib (RBX)\n\n- Imatinib (Sandoz)\n\n- Imatinib (Teva)\n\n- Imbruvica\n\n- Imdelltra\n\n- Imdur\n\n- Imdur Durules\n\n- Imfinzi\n\n- Imigran\n\n- Imigran FDT\n\n- Imigran Migraine\n\n- Imigran Mk II\n\n- Imigran Mk II with Autoinjector\n\n- Imigran S\n\n- Imiquad\n\n- Imjudo\n\n- Immela\n\n- Immune Defence (Amplio+\n\n- )\n\n- Imoclone\n\n- Imodium\n\n- Imodium Advanced\n\n- Imodium Melt\n\n- Imodium Zapid\n\n- Imojev\n\n- Imovane\n\n- Imrest\n\n- Imukin\n\n- Imulate\n\n- Imuran\n\n- Imutrex\n\n- Increlex\n\n- Incremin\n\n- Incruse Ellipta\n\n- Indapamide Hemihydrate (AN)\n\n- Indapamide Hemihydrate (PS)\n\n- Indapamide Hemihydrate SR (Apo)\n\n- Indapamol\n\n- Inderal\n\n- Indigo Carmine (DBL)\n\n- Indigo Carmine (Phebra)\n\n- Indocid\n\n- Indopril\n\n- Indopril Combi 4/1.25 mg\n\n- Infanrix\n\n- Infanrix Hexa\n\n- Infanrix Penta\n\n- Infanrix-IPV\n\n- Inflectra\n\n- Infloran\n\n- Influvac 2026\n\n- Influvac Tetra 2025\n\n- Inhaler (Coles)\n\n- Inhaler (Woolworths Select)\n\n- Inlyta\n\n- Inner Health Advanced\n\n- Inner Health Advanced Spectrum Probiotic\n\n- Inner Health Plus\n\n- Inomax\n\n- Inovelon\n\n- Inovemed\n\n- Inpler\n\n- Inqovi 35/100\n\n- Insig\n\n- Insolar\n\n- Inspra\n\n- Instillagel Lido\n\n- Intelence\n\n- Intragam P\n\n- Intragam-10\n\n- Intralipid\n\n- Intrarosa\n\n- Intratect\n\n- Intuniv\n\n- Invanz\n\n- Invega\n\n- Invega Hafyera\n\n- Invega Sustenna\n\n- Invega Trinza\n\n- Invite E High Potency Vitamin E\n\n- Inza\n\n- Iodine 0.5% in Alcohol 70% (Orion)\n\n- Iodine 1% in Alcohol 70% (Orion)\n\n- Iodine Weak (Gold Cross)\n\n- Iomeron-300\n\n- Iomeron-350\n\n- Ionil T Scalp Cleanser\n\n- Ionolyte\n\n- Iopidine\n\n- Ioscan\n\n- Ipclone\n\n- Ipol\n\n- Ipratropium (Cipla)\n\n- Ipratropium Bromide (GenRx)\n\n- Iptam\n\n- Iptramol\n\n- Iqirvo\n\n- Irbesartan (Apo)\n\n- Irbesartan (Apotex)\n\n- Irbesartan (APX)\n\n- Irbesartan (Blooms)\n\n- Irbesartan (BTC)\n\n- Irbesartan (Noumed)\n\n- Irbesartan (Sandoz)\n\n- Irbesartan (WGR)\n\n- Irbesartan HCT 150/12.5 (Sigma)\n\n- Irbesartan HCT 300/12.5 (Sigma)\n\n- Irbesartan HCT 300/25 (Sigma)\n\n- Irbesartan HCTZ 150 mg/12.5 mg (Apotex)\n\n- Irbesartan HCTZ 150/12.5 (Alembic)\n\n- Irbesartan HCTZ 150/12.5 (Apo)\n\n- Irbesartan HCTZ 150/12.5 (WGR)\n\n- Irbesartan HCTZ 300 mg/12.5 mg (Apotex)\n\n- Irbesartan HCTZ 300 mg/25 mg (Apotex)\n\n- Irbesartan HCTZ 300/12.5 (Alembic)\n\n- Irbesartan HCTZ 300/12.5 (Apo)\n\n- Irbesartan HCTZ 300/12.5 (WGR)\n\n- Irbesartan HCTZ 300/25 (Alembic)\n\n- Irbesartan HCTZ 300/25 (Apo)\n\n- Irbesartan HCTZ 300/25 (WGR)\n\n- Irbesartan/HCT 150/12.5 (Noumed)\n\n- Irbesartan/HCT 150/12.5 (Sandoz)\n\n- Irbesartan/HCT 300/12.5 (Noumed)\n\n- Irbesartan/HCT 300/12.5 (Sandoz)\n\n- Irbesartan/HCT 300/25 (Noumed)\n\n- Irbesartan/HCT 300/25 (Sandoz)\n\n- Irbesatzide 150/12.5\n\n- Irbesatzide 300/12.5\n\n- Irbesatzide 300/25\n\n- Iressa\n\n- Irinotecan (Accord)\n\n- Irinotecan (Baxter)\n\n- Irinotecan (Eugia)\n\n- Irinotecan (Irem)\n\n- Irinotecan (Meditab)\n\n- Irinotecan (WKT)\n\n- Irinotecan (Wockhardt)\n\n- Irinotecan Hydrochloride Trihydrate (Meditab)\n\n- Irinotecan Hydrochloride Trihydrate (MYX)\n\n- Irish Moss Syrup (Bonnington's)\n\n- Iron (Apohealth)\n\n- Iron Sustain (Bioceuticals)\n\n- Iron with Folic Acid (Apohealth)\n\n- Isabelle\n\n- Isavuconazole (ADVZ)\n\n- Iscover\n\n- Isentress\n\n- Isentress HD\n\n- Isobide MR\n\n- Isoniazid (Arrotex)\n\n- Isoniazid (Arrow)\n\n- Isoniazid (Fawns & McAllan)\n\n- Isoprenaline (Cipla)\n\n- Isoprenaline (Macure)\n\n- Isoprenaline Hydrochloride (Medsurge)\n\n- Isoptin\n\n- Isoptin SR\n\n- Isopto Carpine\n\n- Isordil\n\n- Isosorbide Mononitrate (AN)\n\n- Isosorbide Mononitrate (Apo)\n\n- Isosorbide Mononitrate (GenRx)\n\n- Isosorbide Mononitrate (PS)\n\n- Isosorbide MR (WGR)\n\n- Isotretinoin (Apo)\n\n- Isotretinoin (Dr. Reddy's)\n\n- Isotretinoin (GA)\n\n- Isotretinoin (Gx)\n\n- Isotretinoin (Lupin)\n\n- Isotretinoin (WGR)\n\n- Isovue-300\n\n- Isovue-370\n\n- Istodax\n\n- Isturisa\n\n- Itovebi\n\n- Itracap\n\n- Itranox\n\n- Ivabradine (Apo)\n\n- Ivabradine (WGR)\n\n- Ixarola\n\n- Ixifi\n\n- Izervay\n\nPREV 1 2 3 4 5 6 NEXT\n\n## Active ingredients\n\n- Ibandronate\n\n- Ibrutinib\n\n- Ibuprofen\n\n- Ibuprofen +\n\n- codeine\n\n- pseudoephedrine\n\n- Icatibant\n\n- ichthammol\n\n- ichthammol +\n\n- zinc oxide\n\n- Icodextrin +\n\n- sodium chloride +\n\n- sodium lactate +\n\n- calcium chloride +\n\n- magnesium chloride\n\n- Icosapent ethyl\n\n- idarubicin\n\n- idarucizumab\n\n- idelalisib\n\n- idoxuridine +\n\n- lidocaine +\n\n- benzalkonium chloride\n\n- idursulfase\n\n- ifosfamide\n\n- Iloprost\n\n- Imatinib\n\n- imiglucerase\n\n- Imipramine\n\n- imiquimod\n\n- Inavolisib\n\n- Inclisiran\n\n- incobotulinumtoxinA\n\n- indacaterol\n\n- indacaterol +\n\n- glycopyrronium\n\n- glycopyrronium +\n\n- mometasone\n\n- indapamide\n\n- indigo carmine\n\n- Indocyanine green\n\n- Indometacin\n\n- infliximab\n\n- Influenza quadrivalent adjuvanted vaccine 2025\n\n- Influenza quadrivalent cell based vaccine 2025\n\n- Influenza quadrivalent vaccine 2025\n\n- Influenza trivalent adjuvanted vaccine 2026\n\n- Influenza trivalent cell based vaccine 2026\n\n- Influenza trivalent vaccine 2026\n\n- inotuzumab ozogamicin\n\n- insulin aspart\n\n- insulin aspart +\n\n- insulin aspart protamine\n\n- Insulin degludec\n\n- insulin degludec +\n\n- liraglutide\n\n- insulin detemir\n\n- insulin glargine\n\n- insulin glulisine\n\n- Insulin icodec\n\n- insulin isophane human\n\n- insulin lispro\n\n- insulin lispro +\n\n- insulin lispro protamine\n\n- insulin neutral human\n\n- insulin neutral human +\n\n- interferon beta-1a\n\n- interferon beta-1b\n\n- interferon gamma-1b\n\n- iodine\n\n- iodine +\n\n- ethanol\n\n- iodised oil\n\n- iodixanol\n\n- iohexol\n\n- iomeprol\n\n- iopamidol\n\n- iopromide\n\n- iotroxic acid\n\n- ioversol\n\n- Ipilimumab\n\n- Ipratropium\n\n- Ipratropium +\n\n- xylometazoline\n\n- Iptacopan\n\n- irbesartan\n\n- Irbesartan +\n\n- hydrochlorothiazide\n\n- irinotecan\n\n- Irinotecan liposome\n\n- Irish moss +\n\n- camphor +\n\n- menthol +\n\n- prepared ipecacuanha\n\n- Iron +\n\n- ascorbic acid +\n\n- pyridoxine +\n\n- mecobalamin +\n\n- levomefolic acid\n\n- thiamine +\n\n- riboflavin +\n\n- nicotinamide +\n\n- pantothenic acid +\n\n- cyanocobalamin +\n\n- biotin\n\n- zinc +\n\n- iron polymaltose\n\n- iron sucrose\n\n- isatuximab\n\n- isavuconazole\n\n- isoflurane\n\n- Isoleucine +\n\n- leucine +\n\n- valine +\n\n- phenylalanine +\n\n- methionine +\n\n- lysine +\n\n- threonine +\n\n- tryptophan +\n\n- cysteine +\n\n- histidine +\n\n- tyrosine +\n\n- alanine +\n\n- arginine +\n\n- aspartic acid +\n\n- glutamic acid +\n\n- glycine +\n\n- proline +\n\n- serine\n\n- isoniazid\n\n- isoprenaline\n\n- isopropyl alcohol +\n\n- isosorbide dinitrate\n\n- isosorbide mononitrate\n\n- isotretinoin\n\n- itraconazole\n\n- ivabradine\n\n- ivacaftor\n\n- ivermectin\n\n- Ivosidenib\n\n- ixazomib\n\n- ixekizumab\n\nPREV 1 2 3 4 5 6 7 8 9 10 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- I-Folic (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1449791000168107/i-folic-blackmores\n\n- Ibavyr: https://www.healthdirect.gov.au/medicines/brand/amt,755451000168104/ibavyr\n\n- Iberogast: https://www.healthdirect.gov.au/medicines/brand/amt,1293991000168102/iberogast\n\n- Ibiamox: https://www.healthdirect.gov.au/medicines/brand/amt,39666011000036102/ibiamox\n\n- Ibilex: https://www.healthdirect.gov.au/medicines/brand/amt,3667011000036100/ibilex\n\n- Ibimicyn: https://www.healthdirect.gov.au/medicines/brand/amt,3348011000036101/ibimicyn\n\n- Ibrance: https://www.healthdirect.gov.au/medicines/brand/amt,982621000168100/ibrance\n\n- Ibuprofen (A): https://www.healthdirect.gov.au/medicines/brand/amt,1022971000168106/ibuprofen-a\n\n- Ibuprofen (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1006661000168100/ibuprofen-apo\n\n- Ibuprofen (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1099761000168104/ibuprofen-apohealth\n\n- Ibuprofen (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,810831000168108/ibuprofen-blooms-the-chemist\n\n- Ibuprofen (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,53581011000036105/ibuprofen-chemists'-own\n\n- Ibuprofen (Coles): https://www.healthdirect.gov.au/medicines/brand/amt,924365011000036101/ibuprofen-coles\n\n- Ibuprofen (Genpar): https://www.healthdirect.gov.au/medicines/brand/amt,1094721000168108/ibuprofen-genpar\n\n- Ibuprofen (Herron Blue): https://www.healthdirect.gov.au/medicines/brand/amt,1721000168108/ibuprofen-herron-blue\n\n- Ibuprofen (Medi Choice): https://www.healthdirect.gov.au/medicines/brand/amt,1306031000168101/ibuprofen-medi-choice\n\n- Ibuprofen (Medichoice): https://www.healthdirect.gov.au/medicines/brand/amt,1302641000168102/ibuprofen-medichoice\n\n- Ibuprofen (Medix): https://www.healthdirect.gov.au/medicines/brand/amt,1092521000168108/ibuprofen-medix\n\n- Ibuprofen (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,143441000036101/ibuprofen-pharmacy-action\n\n- Ibuprofen (Soul Pattinson): https://www.healthdirect.gov.au/medicines/brand/amt,53225011000036108/ibuprofen-soul-pattinson\n\n- Ibuprofen (Trust): https://www.healthdirect.gov.au/medicines/brand/amt,1438951000168108/ibuprofen-trust\n\n- Ibuprofen (Value Choice): https://www.healthdirect.gov.au/medicines/brand/amt,1430381000168104/ibuprofen-value-choice\n\n- Ibuprofen (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933279811000036108/ibuprofen-wgr\n\n- Ibuprofen and Codeine Phosphate (Medreich): https://www.healthdirect.gov.au/medicines/brand/amt,1067521000168109/ibuprofen-and-codeine-phosphate-medreich\n\n- Ibuprofen Children's 5 to 12 Years (Pharmacy Choice): https://www.healthdirect.gov.au/medicines/brand/amt,933505981000036109/ibuprofen-children's-5-to-12-years-pharmacy-choice\n\n- Ibuprofen Children's 6 Months to 12 Years (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1423191000168105/ibuprofen-children's-6-months-to-12-years-apohealth\n\n- Ibuprofen Children's Infant Drops (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1423401000168109/ibuprofen-children's-infant-drops-apohealth\n\n- Ibuprofen Codeine (RJIC): https://www.healthdirect.gov.au/medicines/brand/amt,1710661000168103/ibuprofen-codeine-rjic\n\n- Ibuprofen Double Strength (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,933774841000036103/ibuprofen-double-strength-apohealth\n\n- Ibuprofen Double Strength (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1212421000168104/ibuprofen-double-strength-chemists'-own\n\n- Ibuprofen Double Strength (Medreich): https://www.healthdirect.gov.au/medicines/brand/amt,1096981000168100/ibuprofen-double-strength-medreich\n\n- Ibuprofen Double Strength (Neo Health): https://www.healthdirect.gov.au/medicines/brand/amt,1087361000168108/ibuprofen-double-strength-neo-health\n\n- Ibuprofen Double Strength (Pharmacy Choice): https://www.healthdirect.gov.au/medicines/brand/amt,1711461000168108/ibuprofen-double-strength-pharmacy-choice\n\n- Ibuprofen Double Strength (Trust): https://www.healthdirect.gov.au/medicines/brand/amt,862331000168100/ibuprofen-double-strength-trust\n\n- Ibuprofen Liquid Capsules (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1093031000168107/ibuprofen-liquid-capsules-chemists'-own\n\n- Ibuprofen Liquid Capsules (Neo Health): https://www.healthdirect.gov.au/medicines/brand/amt,1203321000168103/ibuprofen-liquid-capsules-neo-health\n\n- Ibuprofen Melts (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,503409611000036109/ibuprofen-melts-chemists'-own\n\n- Ibuprofen Pain and Fever 6 Months to 12 Years (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,30691000168100/ibuprofen-pain-and-fever-6-months-to-12-years-chemists'-own\n\n- Ibuprofen plus Codeine (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,80134011000036106/ibuprofen-plus-codeine-amcal\n\n- Ibuprofen plus Codeine (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,734591000168106/ibuprofen-plus-codeine-apohealth\n\n- Ibuprofen plus Codeine (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,792421000168107/ibuprofen-plus-codeine-pharmacy-action\n\n- Ibuprofen plus Codeine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1069561000168109/ibuprofen-plus-codeine-sandoz\n\n- Ibuprofen plus Codeine (Trust): https://www.healthdirect.gov.au/medicines/brand/amt,1067731000168103/ibuprofen-plus-codeine-trust\n\n- Ibuprofen plus Paracetamol (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1113151000168109/ibuprofen-plus-paracetamol-apohealth\n\n- Ibuprofen plus Paracetamol (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,1083331000168106/ibuprofen-plus-paracetamol-blooms-the-chemist\n\n- Ibuprofen Tabsules (Herron Blue): https://www.healthdirect.gov.au/medicines/brand/amt,8771000168104/ibuprofen-tabsules-herron-blue\n\n- Ibuprofen/Codeine 200/12.8 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1764511000168108/ibuprofen-codeine-200-12.8-wgr\n\n- Icatibant (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1493321000168104/icatibant-cipla\n\n- Icatibant (GH): https://www.healthdirect.gov.au/medicines/brand/amt,328090431000036102/icatibant-gh\n\n- Icatibant (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1637791000168104/icatibant-lupin\n\n- Icatibant (WKT): https://www.healthdirect.gov.au/medicines/brand/amt,921094511000036104/icatibant-wkt\n\n- Icatibant (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,655085281000036102/icatibant-wockhardt\n\n- Icaticip: https://www.healthdirect.gov.au/medicines/brand/amt,1493361000168109/icaticip\n\n- Icazyr: https://www.healthdirect.gov.au/medicines/brand/amt,1493401000168100/icazyr\n\n- Ice: https://www.healthdirect.gov.au/medicines/brand/amt,65034011000036107/ice\n\n- Ichthammol (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,86598011000036105/ichthammol-gold-cross\n\n- Ichthammol (Toppin): https://www.healthdirect.gov.au/medicines/brand/amt,927783011000036105/ichthammol-toppin\n\n- Iclusig: https://www.healthdirect.gov.au/medicines/brand/amt,699941000168109/iclusig\n\n- Idaprex: https://www.healthdirect.gov.au/medicines/brand/amt,933218941000036100/idaprex\n\n- Idarubicin (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,927760011000036104/idarubicin-ebewe\n\n- Idelvion: https://www.healthdirect.gov.au/medicines/brand/amt,887771000168104/idelvion\n\n- Ifinwil: https://www.healthdirect.gov.au/medicines/brand/amt,958576241000036100/ifinwil\n\n- Ikervis: https://www.healthdirect.gov.au/medicines/brand/amt,1528421000168104/ikervis\n\n- Ikotab: https://www.healthdirect.gov.au/medicines/brand/amt,691461000168103/ikotab\n\n- Ilaris: https://www.healthdirect.gov.au/medicines/brand/amt,929824011000036109/ilaris\n\n- Ilumya: https://www.healthdirect.gov.au/medicines/brand/amt,1235201000168107/ilumya\n\n- Iluvien: https://www.healthdirect.gov.au/medicines/brand/amt,1376351000168100/iluvien\n\n- Imanib: https://www.healthdirect.gov.au/medicines/brand/amt,1791841000168108/imanib\n\n- Imatab: https://www.healthdirect.gov.au/medicines/brand/amt,1599721000168106/imatab\n\n- Imatero: https://www.healthdirect.gov.au/medicines/brand/amt,780861671000036109/imatero\n\n- Imatinib (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,848961000168101/imatinib-apotex\n\n- Imatinib (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1673001000168100/imatinib-arx\n\n- Imatinib (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1249591000168101/imatinib-cipla\n\n- Imatinib (CPL): https://www.healthdirect.gov.au/medicines/brand/amt,1250301000168107/imatinib-cpl\n\n- Imatinib (DRLA): https://www.healthdirect.gov.au/medicines/brand/amt,830751000168100/imatinib-drla\n\n- Imatinib (GH): https://www.healthdirect.gov.au/medicines/brand/amt,896031000168101/imatinib-gh\n\n- Imatinib (JN): https://www.healthdirect.gov.au/medicines/brand/amt,152932331000036106/imatinib-jn\n\n- Imatinib (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,828961000168104/imatinib-rbx\n\n- Imatinib (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1733131000168101/imatinib-sandoz\n\n- Imatinib (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,829091000168100/imatinib-teva\n\n- Imbruvica: https://www.healthdirect.gov.au/medicines/brand/amt,717911000168105/imbruvica\n\n- Imdelltra: https://www.healthdirect.gov.au/medicines/brand/amt,933585931000036106/imdelltra\n\n- Imdur: https://www.healthdirect.gov.au/medicines/brand/amt,1623171000168107/imdur\n\n- Imdur Durules: https://www.healthdirect.gov.au/medicines/brand/amt,55051000168107/imdur-durules\n\n- Imfinzi: https://www.healthdirect.gov.au/medicines/brand/amt,1275511000168109/imfinzi\n\n- Imigran: https://www.healthdirect.gov.au/medicines/brand/amt,30771000168105/imigran\n\n- Imigran FDT: https://www.healthdirect.gov.au/medicines/brand/amt,33531000168108/imigran-fdt\n\n- Imigran Migraine: https://www.healthdirect.gov.au/medicines/brand/amt,1745611000168101/imigran-migraine\n\n- Imigran Mk II: https://www.healthdirect.gov.au/medicines/brand/amt,57551000168106/imigran-mk-ii\n\n- Imigran Mk II with Autoinjector: https://www.healthdirect.gov.au/medicines/brand/amt,41151000168106/imigran-mk-ii-with-autoinjector\n\n- Imigran S: https://www.healthdirect.gov.au/medicines/brand/amt,18041000168106/imigran-s\n\n- Imiquad: https://www.healthdirect.gov.au/medicines/brand/amt,929828011000036102/imiquad\n\n- Imjudo: https://www.healthdirect.gov.au/medicines/brand/amt,1676601000168104/imjudo\n\n- Immela: https://www.healthdirect.gov.au/medicines/brand/amt,970210391000036101/immela\n\n- Immune Defence (Amplio+ ): https://www.healthdirect.gov.au/medicines/brand/amt,1580471000168107/immune-defence-amplio+\n\n- Imoclone: https://www.healthdirect.gov.au/medicines/brand/amt,1120361000168105/imoclone\n\n- Imodium: https://www.healthdirect.gov.au/medicines/brand/amt,3950011000036109/imodium\n\n- Imodium Advanced: https://www.healthdirect.gov.au/medicines/brand/amt,53369011000036108/imodium-advanced\n\n- Imodium Melt: https://www.healthdirect.gov.au/medicines/brand/amt,7341000168106/imodium-melt\n\n- Imodium Zapid: https://www.healthdirect.gov.au/medicines/brand/amt,734891000168109/imodium-zapid\n\n- Imojev: https://www.healthdirect.gov.au/medicines/brand/amt,134091000036100/imojev\n\n- Imovane: https://www.healthdirect.gov.au/medicines/brand/amt,3857011000036103/imovane\n\n- Imrest: https://www.healthdirect.gov.au/medicines/brand/amt,4237011000036108/imrest\n\n- Imukin: https://www.healthdirect.gov.au/medicines/brand/amt,3786011000036109/imukin\n\n- Imulate: https://www.healthdirect.gov.au/medicines/brand/amt,801000036103/imulate\n\n- Imuran: https://www.healthdirect.gov.au/medicines/brand/amt,3070011000036103/imuran\n\n- Imutrex: https://www.healthdirect.gov.au/medicines/brand/amt,1725381000168104/imutrex\n\n- Increlex: https://www.healthdirect.gov.au/medicines/brand/amt,1498851000168106/increlex\n\n- Incremin: https://www.healthdirect.gov.au/medicines/brand/amt,920910011000036103/incremin\n\n- Incruse Ellipta: https://www.healthdirect.gov.au/medicines/brand/amt,673171000168106/incruse-ellipta\n\n- Indapamide Hemihydrate (AN): https://www.healthdirect.gov.au/medicines/brand/amt,661931000168101/indapamide-hemihydrate-an\n\n- Indapamide Hemihydrate (PS): https://www.healthdirect.gov.au/medicines/brand/amt,40431000036108/indapamide-hemihydrate-ps\n\n- Indapamide Hemihydrate SR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,672311000168106/indapamide-hemihydrate-sr-apo\n\n- Indapamol: https://www.healthdirect.gov.au/medicines/brand/amt,933536921000036107/indapamol\n\n- Inderal: https://www.healthdirect.gov.au/medicines/brand/amt,2946011000036102/inderal\n\n- Indigo Carmine (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,762601000168104/indigo-carmine-dbl\n\n- Indigo Carmine (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,75964011000036109/indigo-carmine-phebra\n\n- Indocid: https://www.healthdirect.gov.au/medicines/brand/amt,3869011000036100/indocid\n\n- Indopril: https://www.healthdirect.gov.au/medicines/brand/amt,35995011000036104/indopril\n\n- Indopril Combi 4/1.25 mg: https://www.healthdirect.gov.au/medicines/brand/amt,30161000168103/indopril-combi-4-1.25-mg\n\n- Infanrix: https://www.healthdirect.gov.au/medicines/brand/amt,842341000168101/infanrix\n\n- Infanrix Hexa: https://www.healthdirect.gov.au/medicines/brand/amt,12341000168106/infanrix-hexa\n\n- Infanrix Penta: https://www.healthdirect.gov.au/medicines/brand/amt,73711011000036106/infanrix-penta\n\n- Infanrix-IPV: https://www.healthdirect.gov.au/medicines/brand/amt,73704011000036107/infanrix-ipv\n\n- Inflectra: https://www.healthdirect.gov.au/medicines/brand/amt,730931000168105/inflectra\n\n- Infloran: https://www.healthdirect.gov.au/medicines/brand/amt,1441381000168106/infloran\n\n- Influvac 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933651931000036109/influvac-2026\n\n- Influvac Tetra 2025: https://www.healthdirect.gov.au/medicines/brand/amt,426314771000036103/influvac-tetra-2025\n\n- Inhaler (Coles): https://www.healthdirect.gov.au/medicines/brand/amt,1097651000168102/inhaler-coles\n\n- Inhaler (Woolworths Select): https://www.healthdirect.gov.au/medicines/brand/amt,1126041000168106/inhaler-woolworths-select\n\n- Inlyta: https://www.healthdirect.gov.au/medicines/brand/amt,154521000036105/inlyta\n\n- Inner Health Advanced: https://www.healthdirect.gov.au/medicines/brand/amt,775500081000036100/inner-health-advanced\n\n- Inner Health Advanced Spectrum Probiotic: https://www.healthdirect.gov.au/medicines/brand/amt,933736011000036103/inner-health-advanced-spectrum-probiotic\n\n- Inner Health Plus: https://www.healthdirect.gov.au/medicines/brand/amt,1182831000168100/inner-health-plus\n\n- Inomax: https://www.healthdirect.gov.au/medicines/brand/amt,21991000168101/inomax\n\n- Inovelon: https://www.healthdirect.gov.au/medicines/brand/amt,1215441000168104/inovelon\n\n- Inovemed: https://www.healthdirect.gov.au/medicines/brand/amt,933651091000036109/inovemed\n\n- Inpler: https://www.healthdirect.gov.au/medicines/brand/amt,790401000168102/inpler\n\n- Inqovi 35/100: https://www.healthdirect.gov.au/medicines/brand/amt,1507261000168102/inqovi-35-100\n\n- Insig: https://www.healthdirect.gov.au/medicines/brand/amt,4269011000036107/insig\n\n- Insolar: https://www.healthdirect.gov.au/medicines/brand/amt,1337781000168106/insolar\n\n- Inspra: https://www.healthdirect.gov.au/medicines/brand/amt,3018011000036108/inspra\n\n- Instillagel Lido: https://www.healthdirect.gov.au/medicines/brand/amt,933650371000036103/instillagel-lido\n\n- Intelence: https://www.healthdirect.gov.au/medicines/brand/amt,75936011000036108/intelence\n\n- Intragam P: https://www.healthdirect.gov.au/medicines/brand/amt,46781000168105/intragam-p\n\n- Intragam-10: https://www.healthdirect.gov.au/medicines/brand/amt,1195451000168104/intragam-10\n\n- Intralipid: https://www.healthdirect.gov.au/medicines/brand/amt,65008011000036106/intralipid\n\n- Intrarosa: https://www.healthdirect.gov.au/medicines/brand/amt,1677941000168107/intrarosa\n\n- Intratect: https://www.healthdirect.gov.au/medicines/brand/amt,48311000036106/intratect\n\n- Intuniv: https://www.healthdirect.gov.au/medicines/brand/amt,1037851000168105/intuniv\n\n- Invanz: https://www.healthdirect.gov.au/medicines/brand/amt,39779011000036105/invanz\n\n- Invega: https://www.healthdirect.gov.au/medicines/brand/amt,2081000168101/invega\n\n- Invega Hafyera: https://www.healthdirect.gov.au/medicines/brand/amt,1625181000168106/invega-hafyera\n\n- Invega Sustenna: https://www.healthdirect.gov.au/medicines/brand/amt,26461000168105/invega-sustenna\n\n- Invega Trinza: https://www.healthdirect.gov.au/medicines/brand/amt,857421000168101/invega-trinza\n\n- Invite E High Potency Vitamin E: https://www.healthdirect.gov.au/medicines/brand/amt,76013011000036102/invite-e-high-potency-vitamin-e\n\n- Inza: https://www.healthdirect.gov.au/medicines/brand/amt,3504011000036101/inza\n\n- Iodine 0.5% in Alcohol 70% (Orion): https://www.healthdirect.gov.au/medicines/brand/amt,33751000168105/iodine-0.5-in-alcohol-70-orion\n\n- Iodine 1% in Alcohol 70% (Orion): https://www.healthdirect.gov.au/medicines/brand/amt,56911000168103/iodine-1-in-alcohol-70-orion\n\n- Iodine Weak (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,41141000168109/iodine-weak-gold-cross\n\n- Iomeron-300: https://www.healthdirect.gov.au/medicines/brand/amt,5101000168100/iomeron-300\n\n- Iomeron-350: https://www.healthdirect.gov.au/medicines/brand/amt,8561000168103/iomeron-350\n\n- Ionil T Scalp Cleanser: https://www.healthdirect.gov.au/medicines/brand/amt,1569301000168101/ionil-t-scalp-cleanser\n\n- Ionolyte: https://www.healthdirect.gov.au/medicines/brand/amt,1196961000168101/ionolyte\n\n- Iopidine: https://www.healthdirect.gov.au/medicines/brand/amt,3165011000036109/iopidine\n\n- Ioscan: https://www.healthdirect.gov.au/medicines/brand/amt,925572011000036107/ioscan\n\n- Ipclone: https://www.healthdirect.gov.au/medicines/brand/amt,1124231000168102/ipclone\n\n- Ipol: https://www.healthdirect.gov.au/medicines/brand/amt,73777011000036108/ipol\n\n- Ipratropium (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933585081000036109/ipratropium-cipla\n\n- Ipratropium Bromide (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,3090011000036105/ipratropium-bromide-genrx\n\n- Iptam: https://www.healthdirect.gov.au/medicines/brand/amt,690681000168104/iptam\n\n- Iptramol: https://www.healthdirect.gov.au/medicines/brand/amt,1048221000168103/iptramol\n\n- Iqirvo: https://www.healthdirect.gov.au/medicines/brand/amt,440323601000036100/iqirvo\n\n- Irbesartan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,97951000036104/irbesartan-apo\n\n- Irbesartan (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1011831000168100/irbesartan-apotex\n\n- Irbesartan (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1699351000168107/irbesartan-apx\n\n- Irbesartan (Blooms): https://www.healthdirect.gov.au/medicines/brand/amt,1697991000168105/irbesartan-blooms\n\n- Irbesartan (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,1699231000168108/irbesartan-btc\n\n- Irbesartan (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1161441000168100/irbesartan-noumed\n\n- Irbesartan (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,98031000036105/irbesartan-sandoz\n\n- Irbesartan (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772041000168104/irbesartan-wgr\n\n- Irbesartan HCT 150/12.5 (Sigma): https://www.healthdirect.gov.au/medicines/brand/amt,53221000168108/irbesartan-hct-150-12.5-sigma\n\n- Irbesartan HCT 300/12.5 (Sigma): https://www.healthdirect.gov.au/medicines/brand/amt,22421000168101/irbesartan-hct-300-12.5-sigma\n\n- Irbesartan HCT 300/25 (Sigma): https://www.healthdirect.gov.au/medicines/brand/amt,62111000168108/irbesartan-hct-300-25-sigma\n\n- Irbesartan HCTZ 150 mg/12.5 mg (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1019291000168101/irbesartan-hctz-150-mg-12.5-mg-apotex\n\n- Irbesartan HCTZ 150/12.5 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,1273131000168106/irbesartan-hctz-150-12.5-alembic\n\n- Irbesartan HCTZ 150/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,33111000168105/irbesartan-hctz-150-12.5-apo\n\n- Irbesartan HCTZ 150/12.5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1773291000168108/irbesartan-hctz-150-12.5-wgr\n\n- Irbesartan HCTZ 300 mg/12.5 mg (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1019521000168100/irbesartan-hctz-300-mg-12.5-mg-apotex\n\n- Irbesartan HCTZ 300 mg/25 mg (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1019751000168100/irbesartan-hctz-300-mg-25-mg-apotex\n\n- Irbesartan HCTZ 300/12.5 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,1273211000168106/irbesartan-hctz-300-12.5-alembic\n\n- Irbesartan HCTZ 300/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,6731000168101/irbesartan-hctz-300-12.5-apo\n\n- Irbesartan HCTZ 300/12.5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1773831000168105/irbesartan-hctz-300-12.5-wgr\n\n- Irbesartan HCTZ 300/25 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,1273171000168109/irbesartan-hctz-300-25-alembic\n\n- Irbesartan HCTZ 300/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,45281000168109/irbesartan-hctz-300-25-apo\n\n- Irbesartan HCTZ 300/25 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1774171000168104/irbesartan-hctz-300-25-wgr\n\n- Irbesartan/HCT 150/12.5 (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1154981000168107/irbesartan-hct-150-12.5-noumed\n\n- Irbesartan/HCT 150/12.5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,17731000168101/irbesartan-hct-150-12.5-sandoz\n\n- Irbesartan/HCT 300/12.5 (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1155021000168108/irbesartan-hct-300-12.5-noumed\n\n- Irbesartan/HCT 300/12.5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,52801000168107/irbesartan-hct-300-12.5-sandoz\n\n- Irbesartan/HCT 300/25 (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1155391000168108/irbesartan-hct-300-25-noumed\n\n- Irbesartan/HCT 300/25 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,18011000168107/irbesartan-hct-300-25-sandoz\n\n- Irbesatzide 150/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,62731000168102/irbesatzide-150-12.5\n\n- Irbesatzide 300/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,45261000168100/irbesatzide-300-12.5\n\n- Irbesatzide 300/25: https://www.healthdirect.gov.au/medicines/brand/amt,42361000168103/irbesatzide-300-25\n\n- Iressa: https://www.healthdirect.gov.au/medicines/brand/amt,4123011000036103/iressa\n\n- Irinotecan (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1179311000168104/irinotecan-accord\n\n- Irinotecan (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1695051000168107/irinotecan-baxter\n\n- Irinotecan (Eugia): https://www.healthdirect.gov.au/medicines/brand/amt,203088021000036108/irinotecan-eugia\n\n- Irinotecan (Irem): https://www.healthdirect.gov.au/medicines/brand/amt,933736071000036109/irinotecan-irem\n\n- Irinotecan (Meditab): https://www.healthdirect.gov.au/medicines/brand/amt,766881000168107/irinotecan-meditab\n\n- Irinotecan (WKT): https://www.healthdirect.gov.au/medicines/brand/amt,1414271000168105/irinotecan-wkt\n\n- Irinotecan (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1362991000168103/irinotecan-wockhardt\n\n- Irinotecan Hydrochloride Trihydrate (Meditab): https://www.healthdirect.gov.au/medicines/brand/amt,77961000036107/irinotecan-hydrochloride-trihydrate-meditab\n\n- Irinotecan Hydrochloride Trihydrate (MYX): https://www.healthdirect.gov.au/medicines/brand/amt,683661000168104/irinotecan-hydrochloride-trihydrate-myx\n\n- Irish Moss Syrup (Bonnington's): https://www.healthdirect.gov.au/medicines/brand/amt,1367011000168109/irish-moss-syrup-bonnington's\n\n- Iron (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1096061000168108/iron-apohealth\n\n- Iron Sustain (Bioceuticals): https://www.healthdirect.gov.au/medicines/brand/amt,1353511000168101/iron-sustain-bioceuticals\n\n- Iron with Folic Acid (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1421491000168102/iron-with-folic-acid-apohealth\n\n- Isabelle: https://www.healthdirect.gov.au/medicines/brand/amt,771061000168109/isabelle\n\n- Isavuconazole (ADVZ): https://www.healthdirect.gov.au/medicines/brand/amt,933650221000036105/isavuconazole-advz\n\n- Iscover: https://www.healthdirect.gov.au/medicines/brand/amt,3653011000036100/iscover\n\n- Isentress: https://www.healthdirect.gov.au/medicines/brand/amt,35892011000036104/isentress\n\n- Isentress HD: https://www.healthdirect.gov.au/medicines/brand/amt,1071351000168106/isentress-hd\n\n- Isobide MR: https://www.healthdirect.gov.au/medicines/brand/amt,1298091000168105/isobide-mr\n\n- Isoniazid (Arrotex): https://www.healthdirect.gov.au/medicines/brand/amt,1700631000168109/isoniazid-arrotex\n\n- Isoniazid (Arrow): https://www.healthdirect.gov.au/medicines/brand/amt,786221000168105/isoniazid-arrow\n\n- Isoniazid (Fawns & McAllan): https://www.healthdirect.gov.au/medicines/brand/amt,3746011000036101/isoniazid-fawns-&-mcallan\n\n- Isoprenaline (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1628031000168102/isoprenaline-cipla\n\n- Isoprenaline (Macure): https://www.healthdirect.gov.au/medicines/brand/amt,1632761000168108/isoprenaline-macure\n\n- Isoprenaline Hydrochloride (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1624801000168107/isoprenaline-hydrochloride-medsurge\n\n- Isoptin: https://www.healthdirect.gov.au/medicines/brand/amt,4411000168109/isoptin\n\n- Isoptin SR: https://www.healthdirect.gov.au/medicines/brand/amt,31671000168106/isoptin-sr\n\n- Isopto Carpine: https://www.healthdirect.gov.au/medicines/brand/amt,4348011000036104/isopto-carpine\n\n- Isordil: https://www.healthdirect.gov.au/medicines/brand/amt,4049011000036106/isordil\n\n- Isosorbide Mononitrate (AN): https://www.healthdirect.gov.au/medicines/brand/amt,661971000168103/isosorbide-mononitrate-an\n\n- Isosorbide Mononitrate (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1300741000168106/isosorbide-mononitrate-apo\n\n- Isosorbide Mononitrate (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,3451011000036104/isosorbide-mononitrate-genrx\n\n- Isosorbide Mononitrate (PS): https://www.healthdirect.gov.au/medicines/brand/amt,58161000036108/isosorbide-mononitrate-ps\n\n- Isosorbide MR (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770451000168107/isosorbide-mr-wgr\n\n- Isotretinoin (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,32171000168108/isotretinoin-apo\n\n- Isotretinoin (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,933506221000036106/isotretinoin-dr.-reddy's\n\n- Isotretinoin (GA): https://www.healthdirect.gov.au/medicines/brand/amt,1323221000168106/isotretinoin-ga\n\n- Isotretinoin (Gx): https://www.healthdirect.gov.au/medicines/brand/amt,1522661000168108/isotretinoin-gx\n\n- Isotretinoin (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1467431000168103/isotretinoin-lupin\n\n- Isotretinoin (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772201000168106/isotretinoin-wgr\n\n- Isovue-300: https://www.healthdirect.gov.au/medicines/brand/amt,5231000168102/isovue-300\n\n- Isovue-370: https://www.healthdirect.gov.au/medicines/brand/amt,35921000168104/isovue-370\n\n- Istodax: https://www.healthdirect.gov.au/medicines/brand/amt,154601000036101/istodax\n\n- Isturisa: https://www.healthdirect.gov.au/medicines/brand/amt,1630031000168101/isturisa\n\n- Itovebi: https://www.healthdirect.gov.au/medicines/brand/amt,113801931000036101/itovebi\n\n- Itracap: https://www.healthdirect.gov.au/medicines/brand/amt,849011000168106/itracap\n\n- Itranox: https://www.healthdirect.gov.au/medicines/brand/amt,849661000168104/itranox\n\n- Ivabradine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1198651000168109/ivabradine-apo\n\n- Ivabradine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1773411000168103/ivabradine-wgr\n\n- Ixarola: https://www.healthdirect.gov.au/medicines/brand/amt,1793021000168107/ixarola\n\n- Ixifi: https://www.healthdirect.gov.au/medicines/brand/amt,933585771000036105/ixifi\n\n- Izervay: https://www.healthdirect.gov.au/medicines/brand/amt,933650431000036108/izervay\n\n- Ibandronate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21287/ibandronate\n\n- Ibrutinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21804/ibrutinib\n\n- Ibuprofen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21286/ibuprofen\n\n- Ibuprofen + codeine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23251/ibuprofen-+-codeine\n\n- ibuprofen + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23334/ibuprofen-+-pseudoephedrine\n\n- Icatibant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21284/icatibant\n\n- ichthammol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21550/ichthammol\n\n- ichthammol + zinc oxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23335/ichthammol-+-zinc-oxide\n\n- Icodextrin + sodium chloride + sodium lactate + calcium chloride + magnesium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50259/icodextrin-+-sodium-chloride-+-sodium-lactate-+-calcium-chloride-+-magnesium-chloride\n\n- Icosapent ethyl: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50260/icosapent-ethyl\n\n- idarubicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21282/idarubicin\n\n- idarucizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24047/idarucizumab\n\n- idelalisib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21632/idelalisib\n\n- idoxuridine + lidocaine + benzalkonium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23546/idoxuridine-+-lidocaine-+-benzalkonium-chloride\n\n- idursulfase: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21281/idursulfase\n\n- ifosfamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21275/ifosfamide\n\n- Iloprost: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21274/iloprost\n\n- Imatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21273/imatinib\n\n- imiglucerase: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21271/imiglucerase\n\n- Imipramine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21270/imipramine\n\n- imiquimod: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21269/imiquimod\n\n- Inavolisib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50557/inavolisib\n\n- Inclisiran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27033/inclisiran\n\n- incobotulinumtoxinA: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22552/incobotulinumtoxina\n\n- indacaterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21266/indacaterol\n\n- indacaterol + glycopyrronium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23337/indacaterol-+-glycopyrronium\n\n- indacaterol + glycopyrronium + mometasone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26845/indacaterol-+-glycopyrronium-+-mometasone\n\n- indacaterol + mometasone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26764/indacaterol-+-mometasone\n\n- indapamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20926/indapamide\n\n- indigo carmine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22554/indigo-carmine\n\n- Indocyanine green: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50540/indocyanine-green\n\n- Indometacin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21263/indometacin\n\n- infliximab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21262/infliximab\n\n- Influenza quadrivalent adjuvanted vaccine 2025: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50508/influenza-quadrivalent-adjuvanted-vaccine-2025\n\n- Influenza quadrivalent cell based vaccine 2025: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50509/influenza-quadrivalent-cell-based-vaccine-2025\n\n- Influenza quadrivalent vaccine 2025: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50510/influenza-quadrivalent-vaccine-2025\n\n- Influenza trivalent adjuvanted vaccine 2026: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50751/influenza-trivalent-adjuvanted-vaccine-2026\n\n- Influenza trivalent cell based vaccine 2026: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50750/influenza-trivalent-cell-based-vaccine-2026\n\n- Influenza trivalent vaccine 2026: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50749/influenza-trivalent-vaccine-2026\n\n- inotuzumab ozogamicin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24444/inotuzumab-ozogamicin\n\n- insulin aspart: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D061267/insulin-aspart\n\n- insulin aspart + insulin aspart protamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23338/insulin-aspart-+-insulin-aspart-protamine\n\n- Insulin degludec: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26573/insulin-degludec\n\n- insulin degludec + insulin aspart: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24286/insulin-degludec-+-insulin-aspart\n\n- insulin degludec + liraglutide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26853/insulin-degludec-+-liraglutide\n\n- insulin detemir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22558/insulin-detemir\n\n- insulin glargine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22559/insulin-glargine\n\n- insulin glulisine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22560/insulin-glulisine\n\n- Insulin icodec: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50488/insulin-icodec\n\n- insulin isophane human: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22562/insulin-isophane-human\n\n- insulin lispro: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D061268/insulin-lispro\n\n- insulin lispro + insulin lispro protamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23340/insulin-lispro-+-insulin-lispro-protamine\n\n- insulin neutral human: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22566/insulin-neutral-human\n\n- insulin neutral human + insulin isophane human: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23339/insulin-neutral-human-+-insulin-isophane-human\n\n- interferon beta-1a: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22569/interferon-beta-1a\n\n- interferon beta-1b: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22570/interferon-beta-1b\n\n- interferon gamma-1b: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21257/interferon-gamma-1b\n\n- iodine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11622/iodine\n\n- iodine + ethanol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23341/iodine-+-ethanol\n\n- iodised oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22572/iodised-oil\n\n- iodixanol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21256/iodixanol\n\n- iohexol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21255/iohexol\n\n- iomeprol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21254/iomeprol\n\n- iopamidol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21253/iopamidol\n\n- iopromide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21251/iopromide\n\n- iotroxic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22575/iotroxic-acid\n\n- ioversol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21250/ioversol\n\n- Ipilimumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21249/ipilimumab\n\n- Ipratropium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21248/ipratropium\n\n- Ipratropium + xylometazoline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23343/ipratropium-+-xylometazoline\n\n- Iptacopan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50470/iptacopan\n\n- irbesartan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21247/irbesartan\n\n- Irbesartan + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23344/irbesartan-+-hydrochlorothiazide\n\n- irinotecan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21246/irinotecan\n\n- Irinotecan liposome: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27170/irinotecan-liposome\n\n- Irish moss + camphor + menthol + prepared ipecacuanha: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50263/irish-moss-+-camphor-+-menthol-+-prepared-ipecacuanha\n\n- Iron + ascorbic acid + pyridoxine + mecobalamin + levomefolic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50264/iron-+-ascorbic-acid-+-pyridoxine-+-mecobalamin-+-levomefolic-acid\n\n- Iron + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + biotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50267/iron-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-biotin\n\n- Iron + zinc + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + biotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50268/iron-+-zinc-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-biotin\n\n- iron polymaltose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21245/iron-polymaltose\n\n- iron sucrose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21244/iron-sucrose\n\n- isatuximab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26754/isatuximab\n\n- isavuconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26576/isavuconazole\n\n- isoflurane: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21243/isoflurane\n\n- Isoleucine + leucine + valine + phenylalanine + methionine + lysine + threonine + tryptophan + cysteine + histidine + tyrosine + alanine + arginine + aspartic acid + glutamic acid + glycine + proline + serine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50269/isoleucine-+-leucine-+-valine-+-phenylalanine-+-methionine-+-lysine-+-threonine-+-tryptophan-+-cysteine-+-histidine-+-tyrosine-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-proline-+-serine\n\n- isoniazid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21242/isoniazid\n\n- isoprenaline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21241/isoprenaline\n\n- isopropyl alcohol + benzalkonium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23177/isopropyl-alcohol-+-benzalkonium-chloride\n\n- isosorbide dinitrate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22585/isosorbide-dinitrate\n\n- isosorbide mononitrate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22586/isosorbide-mononitrate\n\n- isotretinoin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21239/isotretinoin\n\n- itraconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21238/itraconazole\n\n- ivabradine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21237/ivabradine\n\n- ivacaftor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21236/ivacaftor\n\n- ivermectin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21235/ivermectin\n\n- Ivosidenib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27134/ivosidenib\n\n- ixazomib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24049/ixazomib\n\n- ixekizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24010/ixekizumab\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

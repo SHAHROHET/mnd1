@@ -1,0 +1,2399 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-o-excludenonartg",
+  "title": "Medicines starting with \"O\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 80399,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "O.R.S. (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32189011000036100/o.r.s.-aspen"
+    },
+    {
+      "text": "Obizur",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,932401000168102/obizur"
+    },
+    {
+      "text": "Obstetric Care (Orion)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65151011000036101/obstetric-care-orion"
+    },
+    {
+      "text": "Ocaliva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1243381000168108/ocaliva"
+    },
+    {
+      "text": "Ocrevus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1071511000168100/ocrevus"
+    },
+    {
+      "text": "Ocrevus SC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600571000036103/ocrevus-sc"
+    },
+    {
+      "text": "Octagam 10%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17661000168101/octagam-10"
+    },
+    {
+      "text": "Octagam 5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14211000168106/octagam-5"
+    },
+    {
+      "text": "Octostim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39644011000036100/octostim"
+    },
+    {
+      "text": "Octreotide (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337041000168104/octreotide-gh"
+    },
+    {
+      "text": "Octreotide (MaxRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83565011000036107/octreotide-maxrx"
+    },
+    {
+      "text": "Octreotide (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78111000036108/octreotide-sun"
+    },
+    {
+      "text": "Octreotide Depot (Teva)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1552841000168109/octreotide-depot-teva"
+    },
+    {
+      "text": "Ocuflox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3783011000036103/ocuflox"
+    },
+    {
+      "text": "Ocutrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1164751000168107/ocutrex"
+    },
+    {
+      "text": "Ocuzo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1726551000168105/ocuzo"
+    },
+    {
+      "text": "Odaplix SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,683771000168101/odaplix-sr"
+    },
+    {
+      "text": "Odefsey",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,859281000168108/odefsey"
+    },
+    {
+      "text": "Odomzo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,965691000168107/odomzo"
+    },
+    {
+      "text": "Odourless Fish Oil (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652401000036100/odourless-fish-oil-a-won"
+    },
+    {
+      "text": "Odourless Fish Oil (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1173021000168105/odourless-fish-oil-blackmores"
+    },
+    {
+      "text": "Odourless Fish Oil (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1191721000168100/odourless-fish-oil-nature's-own"
+    },
+    {
+      "text": "Odourless Fish Oil (Quality Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1404931000168101/odourless-fish-oil-quality-health"
+    },
+    {
+      "text": "Odourless Fish Oil 1500 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1351751000168109/odourless-fish-oil-1500-nature's-own"
+    },
+    {
+      "text": "Ofev",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,726971000168108/ofev"
+    },
+    {
+      "text": "Ogivri",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1265391000168104/ogivri"
+    },
+    {
+      "text": "Oil Of Cloves (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1441981000168107/oil-of-cloves-gold-cross"
+    },
+    {
+      "text": "Okedi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1752301000168102/okedi"
+    },
+    {
+      "text": "Olamlo 20/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586461000036104/olamlo-20-5"
+    },
+    {
+      "text": "Olamlo 40/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586471000036107/olamlo-40-10"
+    },
+    {
+      "text": "Olamlo HCT 20/5/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648801000168103/olamlo-hct-20-5-12.5"
+    },
+    {
+      "text": "Olamlo HCT 40/10/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648621000168108/olamlo-hct-40-10-12.5"
+    },
+    {
+      "text": "Olamlo HCT 40/10/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648741000168107/olamlo-hct-40-10-25"
+    },
+    {
+      "text": "Olamlo HCT 40/5/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648561000168104/olamlo-hct-40-5-12.5"
+    },
+    {
+      "text": "Olamlo HCT 40/5/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1648681000168107/olamlo-hct-40-5-25"
+    },
+    {
+      "text": "Olancor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1607121000168108/olancor"
+    },
+    {
+      "text": "Olanza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1609661000168100/olanza"
+    },
+    {
+      "text": "Olanzacor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,756671000168101/olanzacor"
+    },
+    {
+      "text": "Olanzapine (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,659161000168100/olanzapine-an"
+    },
+    {
+      "text": "Olanzapine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3511000168108/olanzapine-apo"
+    },
+    {
+      "text": "Olanzapine (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1000751000168109/olanzapine-apotex"
+    },
+    {
+      "text": "Olanzapine (ARW)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1536151000168103/olanzapine-arw"
+    },
+    {
+      "text": "Olanzapine (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,713791000168105/olanzapine-auro"
+    },
+    {
+      "text": "Olanzapine (CH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1609101000168108/olanzapine-ch"
+    },
+    {
+      "text": "Olanzapine (NNA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1685391000168103/olanzapine-nna"
+    },
+    {
+      "text": "Olanzapine (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1606561000168108/olanzapine-noumed"
+    },
+    {
+      "text": "Olanzapine (Pharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1611631000168105/olanzapine-pharm"
+    },
+    {
+      "text": "Olanzapine (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26111000036108/olanzapine-pharmacor"
+    },
+    {
+      "text": "Olanzapine (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1591000168103/olanzapine-rbx"
+    },
+    {
+      "text": "Olanzapine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1151000036106/olanzapine-sandoz"
+    },
+    {
+      "text": "Olanzapine (TIH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1684401000168100/olanzapine-tih"
+    },
+    {
+      "text": "Olanzapine IM (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652171000036100/olanzapine-im-gh"
+    },
+    {
+      "text": "Olanzapine IM (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652181000036103/olanzapine-im-lupin"
+    },
+    {
+      "text": "Olanzapine ODT (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14491000168103/olanzapine-odt-apo"
+    },
+    {
+      "text": "Olanzapine ODT (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1060981000168101/olanzapine-odt-auro"
+    },
+    {
+      "text": "Olanzapine ODT (CH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1609791000168101/olanzapine-odt-ch"
+    },
+    {
+      "text": "Olanzapine ODT (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31501000168102/olanzapine-odt-sandoz"
+    },
+    {
+      "text": "Oliclinomel N4-550 E",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1256211000168104/oliclinomel-n4-550-e"
+    },
+    {
+      "text": "Olimel N7-960E",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1226631000168105/olimel-n7-960e"
+    },
+    {
+      "text": "Olimel N9-840",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1206321000168105/olimel-n9-840"
+    },
+    {
+      "text": "Olimel N9-840E",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1224761000168102/olimel-n9-840e"
+    },
+    {
+      "text": "Olmekar 20/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1368681000168105/olmekar-20-5"
+    },
+    {
+      "text": "Olmekar 40/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1368831000168108/olmekar-40-10"
+    },
+    {
+      "text": "Olmekar 40/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1368771000168103/olmekar-40-5"
+    },
+    {
+      "text": "Olmertan Combi 20/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894961000168101/olmertan-combi-20-12.5"
+    },
+    {
+      "text": "Olmertan Combi 40/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,895121000168107/olmertan-combi-40-25"
+    },
+    {
+      "text": "Olmes",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1202591000168100/olmes"
+    },
+    {
+      "text": "Olmesart",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1200971000168109/olmesart"
+    },
+    {
+      "text": "Olmesart HCT 20/12.5 (Generic Partners)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1204671000168105/olmesart-hct-20-12.5-generic-partners"
+    },
+    {
+      "text": "Olmesart HCT 20/12.5 (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186481000168100/olmesart-hct-20-12.5-gxp"
+    },
+    {
+      "text": "Olmesart HCT 20/25 (Generic Partners)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1204581000168109/olmesart-hct-20-25-generic-partners"
+    },
+    {
+      "text": "Olmesart HCT 20/25 (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1214821000168106/olmesart-hct-20-25-gxp"
+    },
+    {
+      "text": "Olmesart HCT 40/12.5 (Generic Partners)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1202981000168106/olmesart-hct-40-12.5-generic-partners"
+    },
+    {
+      "text": "Olmesart HCT 40/12.5 (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186361000168104/olmesart-hct-40-12.5-gxp"
+    },
+    {
+      "text": "Olmesart HCT 40/25 (Generic Partners)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1203841000168104/olmesart-hct-40-25-generic-partners"
+    },
+    {
+      "text": "Olmesart HCT 40/25 (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186421000168104/olmesart-hct-40-25-gxp"
+    },
+    {
+      "text": "Olmesartan (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,873701000168108/olmesartan-akm"
+    },
+    {
+      "text": "Olmesartan (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,845241000168103/olmesartan-alembic"
+    },
+    {
+      "text": "Olmesartan (Alkem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1601151000168106/olmesartan-alkem"
+    },
+    {
+      "text": "Olmesartan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1004241000168106/olmesartan-apo"
+    },
+    {
+      "text": "Olmesartan (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,895371000168105/olmesartan-apotex"
+    },
+    {
+      "text": "Olmesartan (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1703311000168100/olmesartan-blooms-the-chemist"
+    },
+    {
+      "text": "Olmesartan (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650351000036108/olmesartan-chemmart"
+    },
+    {
+      "text": "Olmesartan (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1185301000168105/olmesartan-gppl"
+    },
+    {
+      "text": "Olmesartan (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186181000168106/olmesartan-gxp"
+    },
+    {
+      "text": "Olmesartan (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,849221000168107/olmesartan-myl"
+    },
+    {
+      "text": "Olmesartan (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,893431000168100/olmesartan-pharmacor"
+    },
+    {
+      "text": "Olmesartan (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,893471000168102/olmesartan-sandoz"
+    },
+    {
+      "text": "Olmesartan (Terry White Chemists)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933624881000036103/olmesartan-terry-white-chemists"
+    },
+    {
+      "text": "Olmesartan (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1765811000168109/olmesartan-wgr"
+    },
+    {
+      "text": "Olmesartan Amlodipine 20/10 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1505191000168107/olmesartan-amlodipine-20-10-akm"
+    },
+    {
+      "text": "Olmesartan Amlodipine 20/10 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1505261000168106/olmesartan-amlodipine-20-10-pharmacor"
+    },
+    {
+      "text": "Olmesartan Amlodipine 20/5 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1516821000168108/olmesartan-amlodipine-20-5-akm"
+    },
+    {
+      "text": "Olmesartan Amlodipine 20/5 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1462751000168100/olmesartan-amlodipine-20-5-pharmacor"
+    },
+    {
+      "text": "Olmesartan Amlodipine 20/5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772631000168102/olmesartan-amlodipine-20-5-wgr"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/10 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1519021000168108/olmesartan-amlodipine-40-10-akm"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/10 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1462521000168100/olmesartan-amlodipine-40-10-pharmacor"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/10 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772731000168105/olmesartan-amlodipine-40-10-wgr"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/5 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1519651000168106/olmesartan-amlodipine-40-5-akm"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/5 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1462291000168101/olmesartan-amlodipine-40-5-pharmacor"
+    },
+    {
+      "text": "Olmesartan Amlodipine 40/5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772571000168103/olmesartan-amlodipine-40-5-wgr"
+    },
+    {
+      "text": "Olmesartan HCT 20/12.5 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,846531000168104/olmesartan-hct-20-12.5-alembic"
+    },
+    {
+      "text": "Olmesartan HCT 20/12.5 (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708331000168103/olmesartan-hct-20-12.5-astron"
+    },
+    {
+      "text": "Olmesartan HCT 20/12.5 (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186671000168100/olmesartan-hct-20-12.5-gppl"
+    },
+    {
+      "text": "Olmesartan HCT 20/12.5 (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1712931000168102/olmesartan-hct-20-12.5-intas"
+    },
+    {
+      "text": "Olmesartan HCT 20/12.5 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,851971000168100/olmesartan-hct-20-12.5-myl"
+    },
+    {
+      "text": "Olmesartan HCT 20/25 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,846881000168100/olmesartan-hct-20-25-alembic"
+    },
+    {
+      "text": "Olmesartan HCT 20/25 (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1712891000168105/olmesartan-hct-20-25-astron"
+    },
+    {
+      "text": "Olmesartan HCT 20/25 (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1185891000168105/olmesartan-hct-20-25-gppl"
+    },
+    {
+      "text": "Olmesartan HCT 20/25 (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708211000168100/olmesartan-hct-20-25-intas"
+    },
+    {
+      "text": "Olmesartan HCT 40/12.5 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,846941000168101/olmesartan-hct-40-12.5-alembic"
+    },
+    {
+      "text": "Olmesartan HCT 40/12.5 (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708921000168100/olmesartan-hct-40-12.5-astron"
+    },
+    {
+      "text": "Olmesartan HCT 40/12.5 (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1188381000168107/olmesartan-hct-40-12.5-gppl"
+    },
+    {
+      "text": "Olmesartan HCT 40/12.5 (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708061000168109/olmesartan-hct-40-12.5-intas"
+    },
+    {
+      "text": "Olmesartan HCT 40/12.5 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,852101000168103/olmesartan-hct-40-12.5-myl"
+    },
+    {
+      "text": "Olmesartan HCT 40/25 (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,846841000168105/olmesartan-hct-40-25-alembic"
+    },
+    {
+      "text": "Olmesartan HCT 40/25 (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708371000168100/olmesartan-hct-40-25-astron"
+    },
+    {
+      "text": "Olmesartan HCT 40/25 (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1188441000168109/olmesartan-hct-40-25-gppl"
+    },
+    {
+      "text": "Olmesartan HCT 40/25 (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1708561000168100/olmesartan-hct-40-25-intas"
+    },
+    {
+      "text": "Olmesartan HCT 40/25 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,852041000168100/olmesartan-hct-40-25-myl"
+    },
+    {
+      "text": "Olmesartan HCT Zoltab 20/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1709161000168103/olmesartan-hct-zoltab-20-12.5"
+    },
+    {
+      "text": "Olmesartan HCT Zoltab 20/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1709081000168106/olmesartan-hct-zoltab-20-25"
+    },
+    {
+      "text": "Olmesartan HCT Zoltab 40/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1709121000168108/olmesartan-hct-zoltab-40-12.5"
+    },
+    {
+      "text": "Olmesartan HCT Zoltab 40/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1709201000168108/olmesartan-hct-zoltab-40-25"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1369201000168105/olmesartan-hctz-20-12.5-akm"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (Alkem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1182111000168101/olmesartan-hctz-20-12.5-alkem"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006251000168100/olmesartan-hctz-20-12.5-apo"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,896751000168105/olmesartan-hctz-20-12.5-apotex"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1102101000168103/olmesartan-hctz-20-12.5-pharmacor"
+    },
+    {
+      "text": "Olmesartan HCTZ 20/12.5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1766391000168104/olmesartan-hctz-20-12.5-wgr"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1369371000168108/olmesartan-hctz-40-12.5-akm"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (Alkem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1180561000168107/olmesartan-hctz-40-12.5-alkem"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006291000168105/olmesartan-hctz-40-12.5-apo"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,896891000168105/olmesartan-hctz-40-12.5-apotex"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1101971000168100/olmesartan-hctz-40-12.5-pharmacor"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/12.5 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1766991000168103/olmesartan-hctz-40-12.5-wgr"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (AKM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1180601000168107/olmesartan-hctz-40-25-akm"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (Alkem)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1180641000168109/olmesartan-hctz-40-25-alkem"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006331000168104/olmesartan-hctz-40-25-apo"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,896851000168100/olmesartan-hctz-40-25-apotex"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1102201000168107/olmesartan-hctz-40-25-pharmacor"
+    },
+    {
+      "text": "Olmesartan HCTZ 40/25 (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1767121000168100/olmesartan-hctz-40-25-wgr"
+    },
+    {
+      "text": "Olmesartan Medoxomil HCTZ 20/12.5 (GP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186241000168109/olmesartan-medoxomil-hctz-20-12.5-gp"
+    },
+    {
+      "text": "Olmesartan Medoxomil HCTZ 20/25 (GP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186301000168100/olmesartan-medoxomil-hctz-20-25-gp"
+    },
+    {
+      "text": "Olmesartan Medoxomil HCTZ 40/12.5 (GP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186541000168106/olmesartan-medoxomil-hctz-40-12.5-gp"
+    },
+    {
+      "text": "Olmesartan Medoxomil HCTZ 40/25 (GP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1186601000168105/olmesartan-medoxomil-hctz-40-25-gp"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/10 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1409131000168103/olmesartan-amlodipine-20-10-apotex"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,753471000168109/olmesartan-amlodipine-20-5-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,761011000168102/olmesartan-amlodipine-20-5-apotex"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/5 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,852171000168108/olmesartan-amlodipine-20-5-myl"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1704431000168101/olmesartan-amlodipine-20-5-sandoz"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 20/5 (SPR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1755221000168108/olmesartan-amlodipine-20-5-spr"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/10 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,753631000168109/olmesartan-amlodipine-40-10-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/10 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,761061000168104/olmesartan-amlodipine-40-10-apotex"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/10 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,852231000168100/olmesartan-amlodipine-40-10-myl"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/10 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1704791000168105/olmesartan-amlodipine-40-10-sandoz"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/10 (SPR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1755011000168107/olmesartan-amlodipine-40-10-spr"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,753551000168104/olmesartan-amlodipine-40-5-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,760971000168102/olmesartan-amlodipine-40-5-apotex"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/5 (Myl)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,852291000168101/olmesartan-amlodipine-40-5-myl"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1704581000168101/olmesartan-amlodipine-40-5-sandoz"
+    },
+    {
+      "text": "Olmesartan/Amlodipine 40/5 (SPR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1755321000168102/olmesartan-amlodipine-40-5-spr"
+    },
+    {
+      "text": "Olmesartan/Amlodipine/HCTZ 20/5/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454061000168100/olmesartan-amlodipine-hctz-20-5-12.5-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine/HCTZ 40/10/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454501000168108/olmesartan-amlodipine-hctz-40-10-12.5-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine/HCTZ 40/10/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454121000168106/olmesartan-amlodipine-hctz-40-10-25-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine/HCTZ 40/5/12.5 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454951000168101/olmesartan-amlodipine-hctz-40-5-12.5-apo"
+    },
+    {
+      "text": "Olmesartan/Amlodipine/HCTZ 40/5/25 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1454761000168102/olmesartan-amlodipine-hctz-40-5-25-apo"
+    },
+    {
+      "text": "Olmesartan/HCT 20/12.5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894121000168108/olmesartan-hct-20-12.5-sandoz"
+    },
+    {
+      "text": "Olmesartan/HCT 40/12.5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,895251000168106/olmesartan-hct-40-12.5-sandoz"
+    },
+    {
+      "text": "Olmesartan/HCT 40/25 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,894691000168100/olmesartan-hct-40-25-sandoz"
+    },
+    {
+      "text": "Olmetec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3066011000036105/olmetec"
+    },
+    {
+      "text": "Olmetec Plus 20/12.5 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42591000168102/olmetec-plus-20-12.5-mg"
+    },
+    {
+      "text": "Olmetec Plus 20/25 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,965391000168100/olmetec-plus-20-25-mg"
+    },
+    {
+      "text": "Olmetec Plus 40/12.5 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42781000168106/olmetec-plus-40-12.5-mg"
+    },
+    {
+      "text": "Olmetec Plus 40/25 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58251000168105/olmetec-plus-40-25-mg"
+    },
+    {
+      "text": "Olopatadine (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,350616891000036100/olopatadine-apotex"
+    },
+    {
+      "text": "Olopatadine (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,301392811000036101/olopatadine-genrx"
+    },
+    {
+      "text": "Olsetan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1664821000168109/olsetan"
+    },
+    {
+      "text": "Olsetan HCT 20/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707141000168105/olsetan-hct-20-12.5"
+    },
+    {
+      "text": "Olsetan HCT 20/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707101000168108/olsetan-hct-20-25"
+    },
+    {
+      "text": "Olsetan HCT 40/12.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707061000168105/olsetan-hct-40-12.5"
+    },
+    {
+      "text": "Olsetan HCT 40/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707021000168100/olsetan-hct-40-25"
+    },
+    {
+      "text": "Olumiant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1107071000168109/olumiant"
+    },
+    {
+      "text": "Omacor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929850011000036100/omacor"
+    },
+    {
+      "text": "Omepral",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3379011000036105/omepral"
+    },
+    {
+      "text": "Omeprazole (ADVZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1706381000168101/omeprazole-advz"
+    },
+    {
+      "text": "Omeprazole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5851000168107/omeprazole-apo"
+    },
+    {
+      "text": "Omeprazole (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920101011000036106/omeprazole-generic-health"
+    },
+    {
+      "text": "Omeprazole (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1160011000168104/omeprazole-noumed"
+    },
+    {
+      "text": "Omeprazole (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922926011000036103/omeprazole-pharmacor"
+    },
+    {
+      "text": "Omeprazole (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72916011000036100/omeprazole-sandoz"
+    },
+    {
+      "text": "Omeprazole (SPR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1735421000168106/omeprazole-spr"
+    },
+    {
+      "text": "Omeprazole (TIH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1735811000168101/omeprazole-tih"
+    },
+    {
+      "text": "Omeprazole (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,242613061000036106/omeprazole-wgr"
+    },
+    {
+      "text": "Omeprazole Caps (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1792571000168107/omeprazole-caps-wgr"
+    },
+    {
+      "text": "Omeprazole IV (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5211000168107/omeprazole-iv-sandoz"
+    },
+    {
+      "text": "Omepro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924374011000036106/omepro"
+    },
+    {
+      "text": "Omjjara",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,234588291000036101/omjjara"
+    },
+    {
+      "text": "Omlyclo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,948660951000036104/omlyclo"
+    },
+    {
+      "text": "Omnaris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,686981000168108/omnaris"
+    },
+    {
+      "text": "Omnipaque-180",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35991000168102/omnipaque-180"
+    },
+    {
+      "text": "Omnipaque-240",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33651000168101/omnipaque-240"
+    },
+    {
+      "text": "Omnipaque-300",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21931000168100/omnipaque-300"
+    },
+    {
+      "text": "Omnipaque-350",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6061000168106/omnipaque-350"
+    },
+    {
+      "text": "Omniscan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1210501000168105/omniscan"
+    },
+    {
+      "text": "Omnitrope",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3586011000036105/omnitrope"
+    },
+    {
+      "text": "Omtralo 24/26",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,689536871000036109/omtralo-24-26"
+    },
+    {
+      "text": "Omtralo 49/51",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,507954661000036105/omtralo-49-51"
+    },
+    {
+      "text": "Omtralo 97/103",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,903315181000036106/omtralo-97-103"
+    },
+    {
+      "text": "Omvoh",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1706081000168104/omvoh"
+    },
+    {
+      "text": "Onbevzi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586311000036106/onbevzi"
+    },
+    {
+      "text": "Onbrez Breezhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18301000168106/onbrez-breezhaler"
+    },
+    {
+      "text": "Oncaspar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1176181000168104/oncaspar"
+    },
+    {
+      "text": "Oncotice BCG",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59411000168102/oncotice-bcg"
+    },
+    {
+      "text": "Ondansetron (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,797971000168103/ondansetron-accord"
+    },
+    {
+      "text": "Ondansetron (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1375461000168100/ondansetron-aft"
+    },
+    {
+      "text": "Ondansetron (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929370011000036100/ondansetron-alphapharm"
+    },
+    {
+      "text": "Ondansetron (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1555371000168100/ondansetron-apx"
+    },
+    {
+      "text": "Ondansetron (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1058441000168107/ondansetron-auro"
+    },
+    {
+      "text": "Ondansetron (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1456321000168104/ondansetron-baxter"
+    },
+    {
+      "text": "Ondansetron (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922929011000036107/ondansetron-claris"
+    },
+    {
+      "text": "Ondansetron (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1200671000168103/ondansetron-dr.-reddy's"
+    },
+    {
+      "text": "Ondansetron (DRLA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20111000168103/ondansetron-drla"
+    },
+    {
+      "text": "Ondansetron (GTA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1268541000168105/ondansetron-gta"
+    },
+    {
+      "text": "Ondansetron (Ipca)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1266171000168108/ondansetron-ipca"
+    },
+    {
+      "text": "Ondansetron (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,97751000036101/ondansetron-kabi"
+    },
+    {
+      "text": "Ondansetron (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,945401000168105/ondansetron-mylan"
+    },
+    {
+      "text": "Ondansetron (MYX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,694901000168108/ondansetron-myx"
+    },
+    {
+      "text": "Ondansetron (PIP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1262171000168109/ondansetron-pip"
+    },
+    {
+      "text": "Ondansetron (PTIN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1262021000168107/ondansetron-ptin"
+    },
+    {
+      "text": "Ondansetron (Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1200821000168100/ondansetron-reddy's"
+    },
+    {
+      "text": "Ondansetron (SZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,740221000168104/ondansetron-sz"
+    },
+    {
+      "text": "Ondansetron (TN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1263961000168106/ondansetron-tn"
+    },
+    {
+      "text": "Ondansetron (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1657021000168102/ondansetron-viatris"
+    },
+    {
+      "text": "Ondansetron (VTRS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600201000036109/ondansetron-vtrs"
+    },
+    {
+      "text": "Ondansetron (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1776311000168100/ondansetron-wgr"
+    },
+    {
+      "text": "Ondansetron ODT (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1501281000168100/ondansetron-odt-apx"
+    },
+    {
+      "text": "Ondansetron ODT (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1056641000168105/ondansetron-odt-auro"
+    },
+    {
+      "text": "Ondansetron ODT (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1171961000168103/ondansetron-odt-dr.-reddy's"
+    },
+    {
+      "text": "Ondansetron ODT (DRLA)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47061000168102/ondansetron-odt-drla"
+    },
+    {
+      "text": "Ondansetron ODT (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1587471000168106/ondansetron-odt-lupin"
+    },
+    {
+      "text": "Ondansetron ODT (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1156491000168105/ondansetron-odt-mylan"
+    },
+    {
+      "text": "Ondansetron ODT (Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1172501000168100/ondansetron-odt-reddy's"
+    },
+    {
+      "text": "Ondansetron ODT (SZ)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,740371000168106/ondansetron-odt-sz"
+    },
+    {
+      "text": "Ondansetron ODT (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663241000168104/ondansetron-odt-viatris"
+    },
+    {
+      "text": "Ondansetron ODT (VTRS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651181000036106/ondansetron-odt-vtrs"
+    },
+    {
+      "text": "Ondansetron ODT (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1776521000168103/ondansetron-odt-wgr"
+    },
+    {
+      "text": "Ondron",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40221000168103/ondron"
+    },
+    {
+      "text": "Ondron ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10891000168108/ondron-odt"
+    },
+    {
+      "text": "Ongentys",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1502511000168100/ongentys"
+    },
+    {
+      "text": "Onglyza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929821011000036106/onglyza"
+    },
+    {
+      "text": "Onivyde",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,953471000168102/onivyde"
+    },
+    {
+      "text": "Onkotrone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3966011000036104/onkotrone"
+    },
+    {
+      "text": "Onpattro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1666491000168104/onpattro"
+    },
+    {
+      "text": "Ontruzant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1252911000168105/ontruzant"
+    },
+    {
+      "text": "Onureg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1631521000168100/onureg"
+    },
+    {
+      "text": "Opdivo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,759511000168102/opdivo"
+    },
+    {
+      "text": "Opdivo SC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650941000036106/opdivo-sc"
+    },
+    {
+      "text": "Opdualag",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1675541000168105/opdualag"
+    },
+    {
+      "text": "Opfolda",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,278805201000036108/opfolda"
+    },
+    {
+      "text": "Opod-D Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1587411000168103/opod-d-syrup"
+    },
+    {
+      "text": "Opod-P Liquid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1664931000168103/opod-p-liquid"
+    },
+    {
+      "text": "Oprexa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1610061000168104/oprexa"
+    },
+    {
+      "text": "Opsumit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,654891000168102/opsumit"
+    },
+    {
+      "text": "Opsynvi 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,243627861000036107/opsynvi-10-40"
+    },
+    {
+      "text": "Optiray-320",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28191000168109/optiray-320"
+    },
+    {
+      "text": "Optiray-320 Ultraject",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19551000168105/optiray-320-ultraject"
+    },
+    {
+      "text": "Optiray-350",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14501000168105/optiray-350"
+    },
+    {
+      "text": "Optiray-350 Ultraject",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31781000168104/optiray-350-ultraject"
+    },
+    {
+      "text": "Optisulin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1427281000168105/optisulin"
+    },
+    {
+      "text": "Optisulin Solostar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1427001000168107/optisulin-solostar"
+    },
+    {
+      "text": "Ora-Sed Jel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44881000168109/ora-sed-jel"
+    },
+    {
+      "text": "Oral Rehydration (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,917306131000036105/oral-rehydration-chemists'-own"
+    },
+    {
+      "text": "Oral Rehydration (Priceline Pharmacy)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1132201000168100/oral-rehydration-priceline-pharmacy"
+    },
+    {
+      "text": "Oral Rehydration Salts (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1286971000168108/oral-rehydration-salts-cipla"
+    },
+    {
+      "text": "Oral-Eze",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,60131000036109/oral-eze"
+    },
+    {
+      "text": "Oralair Continuation Treatment 300 IR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,769411000168108/oralair-continuation-treatment-300-ir"
+    },
+    {
+      "text": "Oralair Initiation Treatment",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,770141000168101/oralair-initiation-treatment"
+    },
+    {
+      "text": "Oraqix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929830011000036101/oraqix"
+    },
+    {
+      "text": "Oratane",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3045011000036106/oratane"
+    },
+    {
+      "text": "Ordine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2912011000036108/ordine"
+    },
+    {
+      "text": "Orencia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32969011000036101/orencia"
+    },
+    {
+      "text": "Orencia Clickject Autoinjector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,899571000168101/orencia-clickject-autoinjector"
+    },
+    {
+      "text": "Orfadin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193831000036108/orfadin"
+    },
+    {
+      "text": "Orgalutran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39579011000036106/orgalutran"
+    },
+    {
+      "text": "Orgaran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39612011000036102/orgaran"
+    },
+    {
+      "text": "Oridopa 100/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,958852701000036107/oridopa-100-25"
+    },
+    {
+      "text": "Oripro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,124041000036109/oripro"
+    },
+    {
+      "text": "Orkambi 100/125",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1198761000168103/orkambi-100-125"
+    },
+    {
+      "text": "Orkambi 150/188",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1389871000168102/orkambi-150-188"
+    },
+    {
+      "text": "Orkambi 200/125",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,805531000168104/orkambi-200-125"
+    },
+    {
+      "text": "Orkambi 75/94",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1710211000168104/orkambi-75-94"
+    },
+    {
+      "text": "Orlistat (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651981000036108/orlistat-viatris"
+    },
+    {
+      "text": "Oroxine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3485011000036106/oroxine"
+    },
+    {
+      "text": "Oseltamivir (Alembic)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1700041000168107/oseltamivir-alembic"
+    },
+    {
+      "text": "Oseltamivir (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1531801000168100/oseltamivir-lupin"
+    },
+    {
+      "text": "Oseltamivir (STR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1650451000168102/oseltamivir-str"
+    },
+    {
+      "text": "Oseltamivir (Strides)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1650661000168103/oseltamivir-strides"
+    },
+    {
+      "text": "Osenvelt",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,277485101000036104/osenvelt"
+    },
+    {
+      "text": "Osmitrol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65181011000036106/osmitrol"
+    },
+    {
+      "text": "Osmivir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1650621000168108/osmivir"
+    },
+    {
+      "text": "Osmolax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,87285011000036109/osmolax"
+    },
+    {
+      "text": "Osmolax Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1198061000168101/osmolax-relief"
+    },
+    {
+      "text": "Osmolax Relief Children's Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1199581000168108/osmolax-relief-children's-pack"
+    },
+    {
+      "text": "Ospolot",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4335011000036109/ospolot"
+    },
+    {
+      "text": "Ostelin Specialist Range Vitamin D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1083441000168109/ostelin-specialist-range-vitamin-d"
+    },
+    {
+      "text": "Ostelin Vitamin D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53321000168102/ostelin-vitamin-d"
+    },
+    {
+      "text": "Ostelin Vitamin D and Calcium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920102011000036100/ostelin-vitamin-d-and-calcium"
+    },
+    {
+      "text": "Ostelin Vitamin D3",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933754391000036103/ostelin-vitamin-d3"
+    },
+    {
+      "text": "Ostelin Vitamin D3 and K2",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774691000036108/ostelin-vitamin-d3-and-k2"
+    },
+    {
+      "text": "Ostelin Vitamin D3 Infant Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,679718181000036109/ostelin-vitamin-d3-infant-drops"
+    },
+    {
+      "text": "Ostelin Vitamin D3 Kids",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1424571000168102/ostelin-vitamin-d3-kids"
+    },
+    {
+      "text": "Osteo D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1439851000168106/osteo-d"
+    },
+    {
+      "text": "Osteo Paracetamol (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,677891000168106/osteo-paracetamol-apo"
+    },
+    {
+      "text": "Osteo Relief Paracetamol (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006851000168101/osteo-relief-paracetamol-apohealth"
+    },
+    {
+      "text": "Osteo Relief Paracetamol (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571051000168106/osteo-relief-paracetamol-chemists'-own"
+    },
+    {
+      "text": "Osteomol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,677761000168108/osteomol"
+    },
+    {
+      "text": "Osteovan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,731541000168101/osteovan"
+    },
+    {
+      "text": "Ostevit-D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41951000168108/ostevit-d"
+    },
+    {
+      "text": "Ostevit-D Children's Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,54271000168107/ostevit-d-children's-drops"
+    },
+    {
+      "text": "Ostevit-D One-a-Day Vitamin D3",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1752891000168102/ostevit-d-one-a-day-vitamin-d3"
+    },
+    {
+      "text": "Ostevit-D One-a-Day Vitamin D3 and Calcium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438471000168107/ostevit-d-one-a-day-vitamin-d3-and-calcium"
+    },
+    {
+      "text": "Ostevit-D One-a-Week",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1300241000168104/ostevit-d-one-a-week"
+    },
+    {
+      "text": "Ostevit-D Vitamin D3 Kids Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,942024541000036107/ostevit-d-vitamin-d3-kids-drops"
+    },
+    {
+      "text": "Otezla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,804611000168106/otezla"
+    },
+    {
+      "text": "Otezla Titration Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,831611000168102/otezla-titration-pack"
+    },
+    {
+      "text": "Otocomb Otic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32951000168102/otocomb-otic"
+    },
+    {
+      "text": "Otodex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3634011000036102/otodex"
+    },
+    {
+      "text": "Otrivin Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41971000168104/otrivin-adult"
+    },
+    {
+      "text": "Otrivin Junior",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34841000168100/otrivin-junior"
+    },
+    {
+      "text": "Otrivin Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26211000036104/otrivin-plus"
+    },
+    {
+      "text": "Ovaleap",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1544131000168102/ovaleap"
+    },
+    {
+      "text": "Ovestin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45321000168104/ovestin"
+    },
+    {
+      "text": "Ovestin Ovula",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21411000168102/ovestin-ovula"
+    },
+    {
+      "text": "Ovidrel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4186011000036103/ovidrel"
+    },
+    {
+      "text": "Oxaliplatin (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,937281000168109/oxaliplatin-accord"
+    },
+    {
+      "text": "Oxaliplatin (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537431000036104/oxaliplatin-an"
+    },
+    {
+      "text": "Oxaliplatin (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1009251000168109/oxaliplatin-apo"
+    },
+    {
+      "text": "Oxaliplatin (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922922011000036102/oxaliplatin-baxter"
+    },
+    {
+      "text": "Oxaliplatin (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3002011000036107/oxaliplatin-dbl"
+    },
+    {
+      "text": "Oxaliplatin (WKT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1376191000168108/oxaliplatin-wkt"
+    },
+    {
+      "text": "Oxaliplatin (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1363251000168106/oxaliplatin-wockhardt"
+    },
+    {
+      "text": "Oxargin Naloxone XR 10/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779341000168108/oxargin-naloxone-xr-10-5"
+    },
+    {
+      "text": "Oxargin Naloxone XR 20/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1778421000168101/oxargin-naloxone-xr-20-10"
+    },
+    {
+      "text": "Oxargin Naloxone XR 30/15",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779481000168106/oxargin-naloxone-xr-30-15"
+    },
+    {
+      "text": "Oxargin Naloxone XR 40/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779581000168105/oxargin-naloxone-xr-40-20"
+    },
+    {
+      "text": "Oxargin Naloxone XR 5/2.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779241000168102/oxargin-naloxone-xr-5-2.5"
+    },
+    {
+      "text": "Oxazepam (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61491000168104/oxazepam-apo"
+    },
+    {
+      "text": "Oxazepam (DWRN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1717501000168104/oxazepam-dwrn"
+    },
+    {
+      "text": "Oxazepam (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1575821000168105/oxazepam-mylan"
+    },
+    {
+      "text": "Oxazepam (RJIC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1717541000168102/oxazepam-rjic"
+    },
+    {
+      "text": "Oxazepam (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1749211000168102/oxazepam-wgr"
+    },
+    {
+      "text": "Oxervate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1503871000168103/oxervate"
+    },
+    {
+      "text": "Oxetine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3108011000036102/oxetine"
+    },
+    {
+      "text": "Oxis Turbuhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29271000168107/oxis-turbuhaler"
+    },
+    {
+      "text": "Oxlumo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,820854801000036108/oxlumo"
+    },
+    {
+      "text": "Oxonal 10/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1741511000168104/oxonal-10-5"
+    },
+    {
+      "text": "Oxonal 20/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1741471000168108/oxonal-20-10"
+    },
+    {
+      "text": "Oxonal 40/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1741431000168105/oxonal-40-20"
+    },
+    {
+      "text": "Oxonal 5/2.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1628931000168103/oxonal-5-2.5"
+    },
+    {
+      "text": "Oxy 10 Vanishing",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18971000168100/oxy-10-vanishing"
+    },
+    {
+      "text": "Oxy 5 Skin Toned",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25551000168103/oxy-5-skin-toned"
+    },
+    {
+      "text": "Oxy 5 Vanishing",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51871000168106/oxy-5-vanishing"
+    },
+    {
+      "text": "Oxybuprocaine Hydrochloride Minims (Bausch & Lomb)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59941000168109/oxybuprocaine-hydrochloride-minims-bausch-&-lomb"
+    },
+    {
+      "text": "Oxycodone (AB)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1338071000168107/oxycodone-ab"
+    },
+    {
+      "text": "Oxycodone (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,708971000168104/oxycodone-aspen"
+    },
+    {
+      "text": "Oxycodone (BNM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1312701000168107/oxycodone-bnm"
+    },
+    {
+      "text": "Oxycodone (CP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1336511000168108/oxycodone-cp"
+    },
+    {
+      "text": "Oxycodone (Genpar)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337351000168100/oxycodone-genpar"
+    },
+    {
+      "text": "Oxycodone (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1334611000168102/oxycodone-gppl"
+    },
+    {
+      "text": "Oxycodone (GX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,753001000168105/oxycodone-gx"
+    },
+    {
+      "text": "Oxycodone (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1334231000168105/oxycodone-gxp"
+    },
+    {
+      "text": "Oxycodone (Hameln)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1576681000168104/oxycodone-hameln"
+    },
+    {
+      "text": "Oxycodone (JL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1334761000168107/oxycodone-jl"
+    },
+    {
+      "text": "Oxycodone (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1049121000168102/oxycodone-juno"
+    },
+    {
+      "text": "Oxycodone (MLP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1334421000168106/oxycodone-mlp"
+    },
+    {
+      "text": "Oxycodone (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1486671000168101/oxycodone-mylan"
+    },
+    {
+      "text": "Oxycodone (Neo Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337391000168105/oxycodone-neo-health"
+    },
+    {
+      "text": "Oxycodone (NH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1336611000168109/oxycodone-nh"
+    },
+    {
+      "text": "Oxycodone (NHPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1343231000168106/oxycodone-nhpl"
+    },
+    {
+      "text": "Oxycodone (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,676271000168107/oxycodone-sandoz"
+    },
+    {
+      "text": "Oxycodone (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1620931000168100/oxycodone-viatris"
+    },
+    {
+      "text": "Oxycodone (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,716913611000036106/oxycodone-wgr"
+    },
+    {
+      "text": "Oxycodone (WKT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1048891000168100/oxycodone-wkt"
+    },
+    {
+      "text": "Oxycodone (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1050121000168107/oxycodone-wockhardt"
+    },
+    {
+      "text": "Oxycodone HCl (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1489371000168104/oxycodone-hcl-medicianz"
+    },
+    {
+      "text": "Oxycodone HCl (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1489691000168105/oxycodone-hcl-medsurge"
+    },
+    {
+      "text": "Oxycodone IR (Mayne Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,718441000168102/oxycodone-ir-mayne-pharma"
+    },
+    {
+      "text": "Oxycodone MR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,777911000168104/oxycodone-mr-apo"
+    },
+    {
+      "text": "Oxycodone MR (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,778521000168102/oxycodone-mr-apotex"
+    },
+    {
+      "text": "Oxycodone MR (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,762721000168101/oxycodone-mr-chemmart"
+    },
+    {
+      "text": "Oxycodone MR (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,779621000168105/oxycodone-mr-genrx"
+    },
+    {
+      "text": "Oxycodone MR (Terry White Chemists)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,764121000168108/oxycodone-mr-terry-white-chemists"
+    },
+    {
+      "text": "Oxycodone Naloxone 10/5 (Maple)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600371000036106/oxycodone-naloxone-10-5-maple"
+    },
+    {
+      "text": "Oxycodone Naloxone 20/10 (Maple)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600391000036105/oxycodone-naloxone-20-10-maple"
+    },
+    {
+      "text": "Oxycodone Naloxone 30/15 (Maple)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600401000036108/oxycodone-naloxone-30-15-maple"
+    },
+    {
+      "text": "Oxycodone Naloxone 40/20 (Maple)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600411000036105/oxycodone-naloxone-40-20-maple"
+    },
+    {
+      "text": "Oxycodone Naloxone 5/2.5 (Maple)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600381000036108/oxycodone-naloxone-5-2.5-maple"
+    },
+    {
+      "text": "Oxycodone/Naloxone 10/5 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654291000168103/oxycodone-naloxone-10-5-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 10/5 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,339245581000036105/oxycodone-naloxone-10-5-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 15/7.5 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654371000168107/oxycodone-naloxone-15-7.5-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 15/7.5 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,784369191000036104/oxycodone-naloxone-15-7.5-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 2.5/1.25 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654451000168109/oxycodone-naloxone-2.5-1.25-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 2.5/1.25 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698090721000036107/oxycodone-naloxone-2.5-1.25-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 20/10 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654881000168100/oxycodone-naloxone-20-10-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 20/10 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,485872121000036105/oxycodone-naloxone-20-10-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 30/15 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654961000168102/oxycodone-naloxone-30-15-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 30/15 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,664720291000036106/oxycodone-naloxone-30-15-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 40/20 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654611000168105/oxycodone-naloxone-40-20-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 40/20 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,343877911000036108/oxycodone-naloxone-40-20-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 5/2.5 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1654531000168104/oxycodone-naloxone-5-2.5-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 5/2.5 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,198008701000036105/oxycodone-naloxone-5-2.5-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 60/30 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1656631000168108/oxycodone-naloxone-60-30-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 60/30 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,384028821000036100/oxycodone-naloxone-60-30-mg-arx"
+    },
+    {
+      "text": "Oxycodone/Naloxone 80/40 (MPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1655461000168105/oxycodone-naloxone-80-40-mpl"
+    },
+    {
+      "text": "Oxycodone/Naloxone 80/40 mg (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,438914851000036104/oxycodone-naloxone-80-40-mg-arx"
+    },
+    {
+      "text": "Oxycodor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1334551000168102/oxycodor"
+    },
+    {
+      "text": "Oxycone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1049161000168107/oxycone"
+    },
+    {
+      "text": "Oxycontin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3702011000036109/oxycontin"
+    },
+    {
+      "text": "Oxylenus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1337311000168101/oxylenus"
+    },
+    {
+      "text": "Oxyndone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1338141000168101/oxyndone"
+    },
+    {
+      "text": "Oxynorm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4209011000036106/oxynorm"
+    },
+    {
+      "text": "Oxytocin (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,965461000168102/oxytocin-apo"
+    },
+    {
+      "text": "Oxytocin (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196231000168101/oxytocin-apotex"
+    },
+    {
+      "text": "Oxytocin (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1555161000168108/oxytocin-apx"
+    },
+    {
+      "text": "Oxytocin (Aspen)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48221000036107/oxytocin-aspen"
+    },
+    {
+      "text": "Oxytocin (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,712101000168107/oxytocin-gh"
+    },
+    {
+      "text": "Oxytrol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39669011000036106/oxytrol"
+    },
+    {
+      "text": "Oyone 10/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600321000036107/oyone-10-5"
+    },
+    {
+      "text": "Oyone 20/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600341000036104/oyone-20-10"
+    },
+    {
+      "text": "Oyone 30/15",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600331000036109/oyone-30-15"
+    },
+    {
+      "text": "Oyone 40/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600351000036101/oyone-40-20"
+    },
+    {
+      "text": "Oyone 5/2.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600361000036103/oyone-5-2.5"
+    },
+    {
+      "text": "Ozapace",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75927011000036108/ozapace"
+    },
+    {
+      "text": "Ozcef",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3555011000036107/ozcef"
+    },
+    {
+      "text": "Ozempic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1401991000168100/ozempic"
+    },
+    {
+      "text": "Ozeprem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650201000036100/ozeprem"
+    },
+    {
+      "text": "Ozidal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75932011000036109/ozidal"
+    },
+    {
+      "text": "Ozin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1071000036100/ozin"
+    },
+    {
+      "text": "Ozmep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,79903011000036101/ozmep"
+    },
+    {
+      "text": "Ozole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3098011000036107/ozole"
+    },
+    {
+      "text": "Ozpan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83553011000036102/ozpan"
+    },
+    {
+      "text": "Ozten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507131000036102/ozten"
+    },
+    {
+      "text": "Ozurdex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,730271000168104/ozurdex"
+    },
+    {
+      "text": "Ozvir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3956011000036107/ozvir"
+    },
+    {
+      "text": "Obeticholic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24457/obeticholic-acid"
+    },
+    {
+      "text": "Obinutuzumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21042/obinutuzumab"
+    },
+    {
+      "text": "Ocrelizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24214/ocrelizumab"
+    },
+    {
+      "text": "octocog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20563/octocog-alfa"
+    },
+    {
+      "text": "Octreotide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21040/octreotide"
+    },
+    {
+      "text": "Odevixibat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50547/odevixibat"
+    },
+    {
+      "text": "Ofatumumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21030/ofatumumab"
+    },
+    {
+      "text": "Ofloxacin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21029/ofloxacin"
+    },
+    {
+      "text": "Olanzapine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21025/olanzapine"
+    },
+    {
+      "text": "Olanzapine pamoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26860/olanzapine-pamoate"
+    },
+    {
+      "text": "Olaparib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23860/olaparib"
+    },
+    {
+      "text": "Olea europaea pollen extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24257/olea-europaea-pollen-extract"
+    },
+    {
+      "text": "olipudase alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27168/olipudase-alfa"
+    },
+    {
+      "text": "olive oil + soya oil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23388/olive-oil-+-soya-oil"
+    },
+    {
+      "text": "Olive oil + soya oil + alanine + arginine + aspartic acid + glutamic acid + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + glucose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50332/olive-oil-+-soya-oil-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-glucose"
+    },
+    {
+      "text": "Olive oil + soya oil + alanine + arginine + aspartic acid + glutamic acid + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + sodium acetate + glycerophosphoric acid + potassium chloride + magnesium chloride + calcium chloride + glucose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50333/olive-oil-+-soya-oil-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-sodium-acetate-+-glycerophosphoric-acid-+-potassium-chloride-+-magnesium-chloride-+-calcium-chloride-+-glucose"
+    },
+    {
+      "text": "Olive oil + soya oil + alanine + arginine + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + sodium acetate + glycerophosphoric acid + potassium chloride + magnesium chloride + glucose + calcium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50334/olive-oil-+-soya-oil-+-alanine-+-arginine-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-sodium-acetate-+-glycerophosphoric-acid-+-potassium-chloride-+-magnesium-chloride-+-glucose-+-calcium-chloride"
+    },
+    {
+      "text": "Olmesartan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21023/olmesartan"
+    },
+    {
+      "text": "olmesartan + amlodipine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23389/olmesartan-+-amlodipine"
+    },
+    {
+      "text": "olmesartan + amlodipine + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23553/olmesartan-+-amlodipine-+-hydrochlorothiazide"
+    },
+    {
+      "text": "olmesartan + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23390/olmesartan-+-hydrochlorothiazide"
+    },
+    {
+      "text": "Olopatadine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21020/olopatadine"
+    },
+    {
+      "text": "Olopatadine + mometasone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26809/olopatadine-+-mometasone"
+    },
+    {
+      "text": "olsalazine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21017/olsalazine"
+    },
+    {
+      "text": "Omalizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21015/omalizumab"
+    },
+    {
+      "text": "Omaveloxolone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50609/omaveloxolone"
+    },
+    {
+      "text": "omega-3-acid ethyl esters-90",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23882/omega-3-acid-ethyl-esters-90"
+    },
+    {
+      "text": "omeprazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21011/omeprazole"
+    },
+    {
+      "text": "onasemnogene abeparvovec",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26854/onasemnogene-abeparvovec"
+    },
+    {
+      "text": "ondansetron",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21010/ondansetron"
+    },
+    {
+      "text": "Opicapone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26815/opicapone"
+    },
+    {
+      "text": "Orlistat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22743/orlistat"
+    },
+    {
+      "text": "Orphenadrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21006/orphenadrine"
+    },
+    {
+      "text": "orphenadrine citrate + paracetamol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23391/orphenadrine-citrate-+-paracetamol"
+    },
+    {
+      "text": "oseltamivir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21005/oseltamivir"
+    },
+    {
+      "text": "Osilodrostat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27075/osilodrostat"
+    },
+    {
+      "text": "Osimertinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24039/osimertinib"
+    },
+    {
+      "text": "oxaliplatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20991/oxaliplatin"
+    },
+    {
+      "text": "Oxazepam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20990/oxazepam"
+    },
+    {
+      "text": "Oxcarbazepine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20989/oxcarbazepine"
+    },
+    {
+      "text": "Oxerutins",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22541/oxerutins"
+    },
+    {
+      "text": "oxybuprocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20971/oxybuprocaine"
+    },
+    {
+      "text": "Oxybutynin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20966/oxybutynin"
+    },
+    {
+      "text": "Oxycodone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20964/oxycodone"
+    },
+    {
+      "text": "Oxycodone + naloxone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23393/oxycodone-+-naloxone"
+    },
+    {
+      "text": "Oxymetazoline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21603/oxymetazoline"
+    },
+    {
+      "text": "oxytocin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20963/oxytocin"
+    },
+    {
+      "text": "oxytocin + ergometrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23284/oxytocin-+-ergometrine"
+    },
+    {
+      "text": "Ozanimod",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26765/ozanimod"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"O\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"O\"\n\n## Brand names\n\n- O.R.S. (Aspen)\n\n- Obizur\n\n- Obstetric Care (Orion)\n\n- Ocaliva\n\n- Ocrevus\n\n- Ocrevus SC\n\n- Octagam 10%\n\n- Octagam 5%\n\n- Octostim\n\n- Octreotide (GH)\n\n- Octreotide (MaxRx)\n\n- Octreotide (Sun)\n\n- Octreotide Depot (Teva)\n\n- Ocuflox\n\n- Ocutrex\n\n- Ocuzo\n\n- Odaplix SR\n\n- Odefsey\n\n- Odomzo\n\n- Odourless Fish Oil (A-Won)\n\n- Odourless Fish Oil (Blackmores)\n\n- Odourless Fish Oil (Nature's Own)\n\n- Odourless Fish Oil (Quality Health)\n\n- Odourless Fish Oil 1500 (Nature's Own)\n\n- Ofev\n\n- Ogivri\n\n- Oil Of Cloves (Gold Cross)\n\n- Okedi\n\n- Olamlo 20/5\n\n- Olamlo 40/10\n\n- Olamlo HCT 20/5/12.5\n\n- Olamlo HCT 40/10/12.5\n\n- Olamlo HCT 40/10/25\n\n- Olamlo HCT 40/5/12.5\n\n- Olamlo HCT 40/5/25\n\n- Olancor\n\n- Olanza\n\n- Olanzacor\n\n- Olanzapine (AN)\n\n- Olanzapine (Apo)\n\n- Olanzapine (Apotex)\n\n- Olanzapine (ARW)\n\n- Olanzapine (Auro)\n\n- Olanzapine (CH)\n\n- Olanzapine (NNA)\n\n- Olanzapine (Noumed)\n\n- Olanzapine (Pharm)\n\n- Olanzapine (Pharmacor)\n\n- Olanzapine (RBX)\n\n- Olanzapine (Sandoz)\n\n- Olanzapine (TIH)\n\n- Olanzapine IM (GH)\n\n- Olanzapine IM (Lupin)\n\n- Olanzapine ODT (Apo)\n\n- Olanzapine ODT (Auro)\n\n- Olanzapine ODT (CH)\n\n- Olanzapine ODT (Sandoz)\n\n- Oliclinomel N4-550 E\n\n- Olimel N7-960E\n\n- Olimel N9-840\n\n- Olimel N9-840E\n\n- Olmekar 20/5\n\n- Olmekar 40/10\n\n- Olmekar 40/5\n\n- Olmertan Combi 20/12.5\n\n- Olmertan Combi 40/25\n\n- Olmes\n\n- Olmesart\n\n- Olmesart HCT 20/12.5 (Generic Partners)\n\n- Olmesart HCT 20/12.5 (GxP)\n\n- Olmesart HCT 20/25 (Generic Partners)\n\n- Olmesart HCT 20/25 (GxP)\n\n- Olmesart HCT 40/12.5 (Generic Partners)\n\n- Olmesart HCT 40/12.5 (GxP)\n\n- Olmesart HCT 40/25 (Generic Partners)\n\n- Olmesart HCT 40/25 (GxP)\n\n- Olmesartan (AKM)\n\n- Olmesartan (Alembic)\n\n- Olmesartan (Alkem)\n\n- Olmesartan (Apo)\n\n- Olmesartan (Apotex)\n\n- Olmesartan (Blooms The Chemist)\n\n- Olmesartan (Chemmart)\n\n- Olmesartan (GPPL)\n\n- Olmesartan (GxP)\n\n- Olmesartan (Myl)\n\n- Olmesartan (Pharmacor)\n\n- Olmesartan (Sandoz)\n\n- Olmesartan (Terry White Chemists)\n\n- Olmesartan (WGR)\n\n- Olmesartan Amlodipine 20/10 (AKM)\n\n- Olmesartan Amlodipine 20/10 (Pharmacor)\n\n- Olmesartan Amlodipine 20/5 (AKM)\n\n- Olmesartan Amlodipine 20/5 (Pharmacor)\n\n- Olmesartan Amlodipine 20/5 (WGR)\n\n- Olmesartan Amlodipine 40/10 (AKM)\n\n- Olmesartan Amlodipine 40/10 (Pharmacor)\n\n- Olmesartan Amlodipine 40/10 (WGR)\n\n- Olmesartan Amlodipine 40/5 (AKM)\n\n- Olmesartan Amlodipine 40/5 (Pharmacor)\n\n- Olmesartan Amlodipine 40/5 (WGR)\n\n- Olmesartan HCT 20/12.5 (Alembic)\n\n- Olmesartan HCT 20/12.5 (Astron)\n\n- Olmesartan HCT 20/12.5 (GPPL)\n\n- Olmesartan HCT 20/12.5 (Intas)\n\n- Olmesartan HCT 20/12.5 (Myl)\n\n- Olmesartan HCT 20/25 (Alembic)\n\n- Olmesartan HCT 20/25 (Astron)\n\n- Olmesartan HCT 20/25 (GPPL)\n\n- Olmesartan HCT 20/25 (Intas)\n\n- Olmesartan HCT 40/12.5 (Alembic)\n\n- Olmesartan HCT 40/12.5 (Astron)\n\n- Olmesartan HCT 40/12.5 (GPPL)\n\n- Olmesartan HCT 40/12.5 (Intas)\n\n- Olmesartan HCT 40/12.5 (Myl)\n\n- Olmesartan HCT 40/25 (Alembic)\n\n- Olmesartan HCT 40/25 (Astron)\n\n- Olmesartan HCT 40/25 (GPPL)\n\n- Olmesartan HCT 40/25 (Intas)\n\n- Olmesartan HCT 40/25 (Myl)\n\n- Olmesartan HCT Zoltab 20/12.5\n\n- Olmesartan HCT Zoltab 20/25\n\n- Olmesartan HCT Zoltab 40/12.5\n\n- Olmesartan HCT Zoltab 40/25\n\n- Olmesartan HCTZ 20/12.5 (AKM)\n\n- Olmesartan HCTZ 20/12.5 (Alkem)\n\n- Olmesartan HCTZ 20/12.5 (Apo)\n\n- Olmesartan HCTZ 20/12.5 (Apotex)\n\n- Olmesartan HCTZ 20/12.5 (Pharmacor)\n\n- Olmesartan HCTZ 20/12.5 (WGR)\n\n- Olmesartan HCTZ 40/12.5 (AKM)\n\n- Olmesartan HCTZ 40/12.5 (Alkem)\n\n- Olmesartan HCTZ 40/12.5 (Apo)\n\n- Olmesartan HCTZ 40/12.5 (Apotex)\n\n- Olmesartan HCTZ 40/12.5 (Pharmacor)\n\n- Olmesartan HCTZ 40/12.5 (WGR)\n\n- Olmesartan HCTZ 40/25 (AKM)\n\n- Olmesartan HCTZ 40/25 (Alkem)\n\n- Olmesartan HCTZ 40/25 (Apo)\n\n- Olmesartan HCTZ 40/25 (Apotex)\n\n- Olmesartan HCTZ 40/25 (Pharmacor)\n\n- Olmesartan HCTZ 40/25 (WGR)\n\n- Olmesartan Medoxomil HCTZ 20/12.5 (GP)\n\n- Olmesartan Medoxomil HCTZ 20/25 (GP)\n\n- Olmesartan Medoxomil HCTZ 40/12.5 (GP)\n\n- Olmesartan Medoxomil HCTZ 40/25 (GP)\n\n- Olmesartan/Amlodipine 20/10 (Apotex)\n\n- Olmesartan/Amlodipine 20/5 (Apo)\n\n- Olmesartan/Amlodipine 20/5 (Apotex)\n\n- Olmesartan/Amlodipine 20/5 (Myl)\n\n- Olmesartan/Amlodipine 20/5 (Sandoz)\n\n- Olmesartan/Amlodipine 20/5 (SPR)\n\n- Olmesartan/Amlodipine 40/10 (Apo)\n\n- Olmesartan/Amlodipine 40/10 (Apotex)\n\n- Olmesartan/Amlodipine 40/10 (Myl)\n\n- Olmesartan/Amlodipine 40/10 (Sandoz)\n\n- Olmesartan/Amlodipine 40/10 (SPR)\n\n- Olmesartan/Amlodipine 40/5 (Apo)\n\n- Olmesartan/Amlodipine 40/5 (Apotex)\n\n- Olmesartan/Amlodipine 40/5 (Myl)\n\n- Olmesartan/Amlodipine 40/5 (Sandoz)\n\n- Olmesartan/Amlodipine 40/5 (SPR)\n\n- Olmesartan/Amlodipine/HCTZ 20/5/12.5 (Apo)\n\n- Olmesartan/Amlodipine/HCTZ 40/10/12.5 (Apo)\n\n- Olmesartan/Amlodipine/HCTZ 40/10/25 (Apo)\n\n- Olmesartan/Amlodipine/HCTZ 40/5/12.5 (Apo)\n\n- Olmesartan/Amlodipine/HCTZ 40/5/25 (Apo)\n\n- Olmesartan/HCT 20/12.5 (Sandoz)\n\n- Olmesartan/HCT 40/12.5 (Sandoz)\n\n- Olmesartan/HCT 40/25 (Sandoz)\n\n- Olmetec\n\n- Olmetec Plus 20/12.5 mg\n\n- Olmetec Plus 20/25 mg\n\n- Olmetec Plus 40/12.5 mg\n\n- Olmetec Plus 40/25 mg\n\n- Olopatadine (Apotex)\n\n- Olopatadine (GenRx)\n\n- Olsetan\n\n- Olsetan HCT 20/12.5\n\n- Olsetan HCT 20/25\n\n- Olsetan HCT 40/12.5\n\n- Olsetan HCT 40/25\n\n- Olumiant\n\n- Omacor\n\n- Omepral\n\n- Omeprazole (ADVZ)\n\n- Omeprazole (Apo)\n\n- Omeprazole (Generic Health)\n\n- Omeprazole (Noumed)\n\n- Omeprazole (Pharmacor)\n\n- Omeprazole (Sandoz)\n\n- Omeprazole (SPR)\n\n- Omeprazole (TIH)\n\n- Omeprazole (WGR)\n\n- Omeprazole Caps (WGR)\n\n- Omeprazole IV (Sandoz)\n\n- Omepro\n\n- Omjjara\n\n- Omlyclo\n\n- Omnaris\n\n- Omnipaque-180\n\n- Omnipaque-240\n\n- Omnipaque-300\n\n- Omnipaque-350\n\n- Omniscan\n\n- Omnitrope\n\n- Omtralo 24/26\n\n- Omtralo 49/51\n\n- Omtralo 97/103\n\n- Omvoh\n\n- Onbevzi\n\n- Onbrez Breezhaler\n\n- Oncaspar\n\n- Oncotice BCG\n\n- Ondansetron (Accord)\n\n- Ondansetron (AFT)\n\n- Ondansetron (Alphapharm)\n\n- Ondansetron (APX)\n\n- Ondansetron (Auro)\n\n- Ondansetron (Baxter)\n\n- Ondansetron (Claris)\n\n- Ondansetron (Dr. Reddy's)\n\n- Ondansetron (DRLA)\n\n- Ondansetron (GTA)\n\n- Ondansetron (Ipca)\n\n- Ondansetron (Kabi)\n\n- Ondansetron (Mylan)\n\n- Ondansetron (MYX)\n\n- Ondansetron (PIP)\n\n- Ondansetron (PTIN)\n\n- Ondansetron (Reddy's)\n\n- Ondansetron (SZ)\n\n- Ondansetron (TN)\n\n- Ondansetron (Viatris)\n\n- Ondansetron (VTRS)\n\n- Ondansetron (WGR)\n\n- Ondansetron ODT (APX)\n\n- Ondansetron ODT (Auro)\n\n- Ondansetron ODT (Dr. Reddy's)\n\n- Ondansetron ODT (DRLA)\n\n- Ondansetron ODT (Lupin)\n\n- Ondansetron ODT (Mylan)\n\n- Ondansetron ODT (Reddy's)\n\n- Ondansetron ODT (SZ)\n\n- Ondansetron ODT (Viatris)\n\n- Ondansetron ODT (VTRS)\n\n- Ondansetron ODT (WGR)\n\n- Ondron\n\n- Ondron ODT\n\n- Ongentys\n\n- Onglyza\n\n- Onivyde\n\n- Onkotrone\n\n- Onpattro\n\n- Ontruzant\n\n- Onureg\n\n- Opdivo\n\n- Opdivo SC\n\n- Opdualag\n\n- Opfolda\n\n- Opod-D Syrup\n\n- Opod-P Liquid\n\n- Oprexa\n\n- Opsumit\n\n- Opsynvi 10/40\n\n- Optiray-320\n\n- Optiray-320 Ultraject\n\n- Optiray-350\n\n- Optiray-350 Ultraject\n\n- Optisulin\n\n- Optisulin Solostar\n\n- Ora-Sed Jel\n\n- Oral Rehydration (Chemists' Own)\n\n- Oral Rehydration (Priceline Pharmacy)\n\n- Oral Rehydration Salts (Cipla)\n\n- Oral-Eze\n\n- Oralair Continuation Treatment 300 IR\n\n- Oralair Initiation Treatment\n\n- Oraqix\n\n- Oratane\n\n- Ordine\n\n- Orencia\n\n- Orencia Clickject Autoinjector\n\n- Orfadin\n\n- Orgalutran\n\n- Orgaran\n\n- Oridopa 100/25\n\n- Oripro\n\n- Orkambi 100/125\n\n- Orkambi 150/188\n\n- Orkambi 200/125\n\n- Orkambi 75/94\n\n- Orlistat (Viatris)\n\n- Oroxine\n\n- Oseltamivir (Alembic)\n\n- Oseltamivir (Lupin)\n\n- Oseltamivir (STR)\n\n- Oseltamivir (Strides)\n\n- Osenvelt\n\n- Osmitrol\n\n- Osmivir\n\n- Osmolax\n\n- Osmolax Relief\n\n- Osmolax Relief Children's Pack\n\n- Ospolot\n\n- Ostelin Specialist Range Vitamin D\n\n- Ostelin Vitamin D\n\n- Ostelin Vitamin D and Calcium\n\n- Ostelin Vitamin D3\n\n- Ostelin Vitamin D3 and K2\n\n- Ostelin Vitamin D3 Infant Drops\n\n- Ostelin Vitamin D3 Kids\n\n- Osteo D\n\n- Osteo Paracetamol (Apo)\n\n- Osteo Relief Paracetamol (Apohealth)\n\n- Osteo Relief Paracetamol (Chemists' Own)\n\n- Osteomol\n\n- Osteovan\n\n- Ostevit-D\n\n- Ostevit-D Children's Drops\n\n- Ostevit-D One-a-Day Vitamin D3\n\n- Ostevit-D One-a-Day Vitamin D3 and Calcium\n\n- Ostevit-D One-a-Week\n\n- Ostevit-D Vitamin D3 Kids Drops\n\n- Otezla\n\n- Otezla Titration Pack\n\n- Otocomb Otic\n\n- Otodex\n\n- Otrivin Adult\n\n- Otrivin Junior\n\n- Otrivin Plus\n\n- Ovaleap\n\n- Ovestin\n\n- Ovestin Ovula\n\n- Ovidrel\n\n- Oxaliplatin (Accord)\n\n- Oxaliplatin (AN)\n\n- Oxaliplatin (Apo)\n\n- Oxaliplatin (Baxter)\n\n- Oxaliplatin (DBL)\n\n- Oxaliplatin (WKT)\n\n- Oxaliplatin (Wockhardt)\n\n- Oxargin Naloxone XR 10/5\n\n- Oxargin Naloxone XR 20/10\n\n- Oxargin Naloxone XR 30/15\n\n- Oxargin Naloxone XR 40/20\n\n- Oxargin Naloxone XR 5/2.5\n\n- Oxazepam (Apo)\n\n- Oxazepam (DWRN)\n\n- Oxazepam (Mylan)\n\n- Oxazepam (RJIC)\n\n- Oxazepam (WGR)\n\n- Oxervate\n\n- Oxetine\n\n- Oxis Turbuhaler\n\n- Oxlumo\n\n- Oxonal 10/5\n\n- Oxonal 20/10\n\n- Oxonal 40/20\n\n- Oxonal 5/2.5\n\n- Oxy 10 Vanishing\n\n- Oxy 5 Skin Toned\n\n- Oxy 5 Vanishing\n\n- Oxybuprocaine Hydrochloride Minims (Bausch & Lomb)\n\n- Oxycodone (AB)\n\n- Oxycodone (Aspen)\n\n- Oxycodone (BNM)\n\n- Oxycodone (CP)\n\n- Oxycodone (Genpar)\n\n- Oxycodone (GPPL)\n\n- Oxycodone (GX)\n\n- Oxycodone (GxP)\n\n- Oxycodone (Hameln)\n\n- Oxycodone (JL)\n\n- Oxycodone (Juno)\n\n- Oxycodone (MLP)\n\n- Oxycodone (Mylan)\n\n- Oxycodone (Neo Health)\n\n- Oxycodone (NH)\n\n- Oxycodone (NHPL)\n\n- Oxycodone (Sandoz)\n\n- Oxycodone (Viatris)\n\n- Oxycodone (WGR)\n\n- Oxycodone (WKT)\n\n- Oxycodone (Wockhardt)\n\n- Oxycodone HCl (Medicianz)\n\n- Oxycodone HCl (Medsurge)\n\n- Oxycodone IR (Mayne Pharma)\n\n- Oxycodone MR (Apo)\n\n- Oxycodone MR (Apotex)\n\n- Oxycodone MR (Chemmart)\n\n- Oxycodone MR (GenRx)\n\n- Oxycodone MR (Terry White Chemists)\n\n- Oxycodone Naloxone 10/5 (Maple)\n\n- Oxycodone Naloxone 20/10 (Maple)\n\n- Oxycodone Naloxone 30/15 (Maple)\n\n- Oxycodone Naloxone 40/20 (Maple)\n\n- Oxycodone Naloxone 5/2.5 (Maple)\n\n- Oxycodone/Naloxone 10/5 (MPL)\n\n- Oxycodone/Naloxone 10/5 mg (ARX)\n\n- Oxycodone/Naloxone 15/7.5 (MPL)\n\n- Oxycodone/Naloxone 15/7.5 mg (ARX)\n\n- Oxycodone/Naloxone 2.5/1.25 (MPL)\n\n- Oxycodone/Naloxone 2.5/1.25 mg (ARX)\n\n- Oxycodone/Naloxone 20/10 (MPL)\n\n- Oxycodone/Naloxone 20/10 mg (ARX)\n\n- Oxycodone/Naloxone 30/15 (MPL)\n\n- Oxycodone/Naloxone 30/15 mg (ARX)\n\n- Oxycodone/Naloxone 40/20 (MPL)\n\n- Oxycodone/Naloxone 40/20 mg (ARX)\n\n- Oxycodone/Naloxone 5/2.5 (MPL)\n\n- Oxycodone/Naloxone 5/2.5 mg (ARX)\n\n- Oxycodone/Naloxone 60/30 (MPL)\n\n- Oxycodone/Naloxone 60/30 mg (ARX)\n\n- Oxycodone/Naloxone 80/40 (MPL)\n\n- Oxycodone/Naloxone 80/40 mg (ARX)\n\n- Oxycodor\n\n- Oxycone\n\n- Oxycontin\n\n- Oxylenus\n\n- Oxyndone\n\n- Oxynorm\n\n- Oxytocin (Apo)\n\n- Oxytocin (Apotex)\n\n- Oxytocin (APX)\n\n- Oxytocin (Aspen)\n\n- Oxytocin (GH)\n\n- Oxytrol\n\n- Oyone 10/5\n\n- Oyone 20/10\n\n- Oyone 30/15\n\n- Oyone 40/20\n\n- Oyone 5/2.5\n\n- Ozapace\n\n- Ozcef\n\n- Ozempic\n\n- Ozeprem\n\n- Ozidal\n\n- Ozin\n\n- Ozmep\n\n- Ozole\n\n- Ozpan\n\n- Ozten\n\n- Ozurdex\n\n- Ozvir\n\nPREV 1 2 3 4 5 6 7 8 9 NEXT\n\n## Active ingredients\n\n- Obeticholic acid\n\n- Obinutuzumab\n\n- Ocrelizumab\n\n- octocog alfa\n\n- Octreotide\n\n- Odevixibat\n\n- Ofatumumab\n\n- Ofloxacin\n\n- Olanzapine\n\n- Olanzapine pamoate\n\n- Olaparib\n\n- Olea europaea pollen extract\n\n- olipudase alfa\n\n- olive oil +\n\n- soya oil\n\n- soya oil +\n\n- alanine +\n\n- arginine +\n\n- aspartic acid +\n\n- glutamic acid +\n\n- glycine +\n\n- histidine +\n\n- isoleucine +\n\n- leucine +\n\n- lysine +\n\n- methionine +\n\n- phenylalanine +\n\n- proline +\n\n- serine +\n\n- threonine +\n\n- tryptophan +\n\n- tyrosine +\n\n- valine +\n\n- glucose\n\n- sodium acetate +\n\n- glycerophosphoric acid +\n\n- potassium chloride +\n\n- magnesium chloride +\n\n- calcium chloride +\n\n- glucose +\n\n- calcium chloride\n\n- Olmesartan\n\n- olmesartan +\n\n- amlodipine\n\n- amlodipine +\n\n- hydrochlorothiazide\n\n- Olopatadine\n\n- Olopatadine +\n\n- mometasone\n\n- olsalazine\n\n- Omalizumab\n\n- Omaveloxolone\n\n- omega-3-acid ethyl esters-90\n\n- omeprazole\n\n- onasemnogene abeparvovec\n\n- ondansetron\n\n- Opicapone\n\n- Orlistat\n\n- Orphenadrine\n\n- orphenadrine citrate +\n\n- paracetamol\n\n- oseltamivir\n\n- Osilodrostat\n\n- Osimertinib\n\n- oxaliplatin\n\n- Oxazepam\n\n- Oxcarbazepine\n\n- Oxerutins\n\n- oxybuprocaine\n\n- Oxybutynin\n\n- Oxycodone\n\n- Oxycodone +\n\n- naloxone\n\n- Oxymetazoline\n\n- oxytocin\n\n- oxytocin +\n\n- ergometrine\n\n- Ozanimod\n\nPREV 1 2 3 4 5 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- O.R.S. (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,32189011000036100/o.r.s.-aspen\n\n- Obizur: https://www.healthdirect.gov.au/medicines/brand/amt,932401000168102/obizur\n\n- Obstetric Care (Orion): https://www.healthdirect.gov.au/medicines/brand/amt,65151011000036101/obstetric-care-orion\n\n- Ocaliva: https://www.healthdirect.gov.au/medicines/brand/amt,1243381000168108/ocaliva\n\n- Ocrevus: https://www.healthdirect.gov.au/medicines/brand/amt,1071511000168100/ocrevus\n\n- Ocrevus SC: https://www.healthdirect.gov.au/medicines/brand/amt,933600571000036103/ocrevus-sc\n\n- Octagam 10%: https://www.healthdirect.gov.au/medicines/brand/amt,17661000168101/octagam-10\n\n- Octagam 5%: https://www.healthdirect.gov.au/medicines/brand/amt,14211000168106/octagam-5\n\n- Octostim: https://www.healthdirect.gov.au/medicines/brand/amt,39644011000036100/octostim\n\n- Octreotide (GH): https://www.healthdirect.gov.au/medicines/brand/amt,1337041000168104/octreotide-gh\n\n- Octreotide (MaxRx): https://www.healthdirect.gov.au/medicines/brand/amt,83565011000036107/octreotide-maxrx\n\n- Octreotide (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,78111000036108/octreotide-sun\n\n- Octreotide Depot (Teva): https://www.healthdirect.gov.au/medicines/brand/amt,1552841000168109/octreotide-depot-teva\n\n- Ocuflox: https://www.healthdirect.gov.au/medicines/brand/amt,3783011000036103/ocuflox\n\n- Ocutrex: https://www.healthdirect.gov.au/medicines/brand/amt,1164751000168107/ocutrex\n\n- Ocuzo: https://www.healthdirect.gov.au/medicines/brand/amt,1726551000168105/ocuzo\n\n- Odaplix SR: https://www.healthdirect.gov.au/medicines/brand/amt,683771000168101/odaplix-sr\n\n- Odefsey: https://www.healthdirect.gov.au/medicines/brand/amt,859281000168108/odefsey\n\n- Odomzo: https://www.healthdirect.gov.au/medicines/brand/amt,965691000168107/odomzo\n\n- Odourless Fish Oil (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652401000036100/odourless-fish-oil-a-won\n\n- Odourless Fish Oil (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1173021000168105/odourless-fish-oil-blackmores\n\n- Odourless Fish Oil (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1191721000168100/odourless-fish-oil-nature's-own\n\n- Odourless Fish Oil (Quality Health): https://www.healthdirect.gov.au/medicines/brand/amt,1404931000168101/odourless-fish-oil-quality-health\n\n- Odourless Fish Oil 1500 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1351751000168109/odourless-fish-oil-1500-nature's-own\n\n- Ofev: https://www.healthdirect.gov.au/medicines/brand/amt,726971000168108/ofev\n\n- Ogivri: https://www.healthdirect.gov.au/medicines/brand/amt,1265391000168104/ogivri\n\n- Oil Of Cloves (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,1441981000168107/oil-of-cloves-gold-cross\n\n- Okedi: https://www.healthdirect.gov.au/medicines/brand/amt,1752301000168102/okedi\n\n- Olamlo 20/5: https://www.healthdirect.gov.au/medicines/brand/amt,933586461000036104/olamlo-20-5\n\n- Olamlo 40/10: https://www.healthdirect.gov.au/medicines/brand/amt,933586471000036107/olamlo-40-10\n\n- Olamlo HCT 20/5/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1648801000168103/olamlo-hct-20-5-12.5\n\n- Olamlo HCT 40/10/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1648621000168108/olamlo-hct-40-10-12.5\n\n- Olamlo HCT 40/10/25: https://www.healthdirect.gov.au/medicines/brand/amt,1648741000168107/olamlo-hct-40-10-25\n\n- Olamlo HCT 40/5/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1648561000168104/olamlo-hct-40-5-12.5\n\n- Olamlo HCT 40/5/25: https://www.healthdirect.gov.au/medicines/brand/amt,1648681000168107/olamlo-hct-40-5-25\n\n- Olancor: https://www.healthdirect.gov.au/medicines/brand/amt,1607121000168108/olancor\n\n- Olanza: https://www.healthdirect.gov.au/medicines/brand/amt,1609661000168100/olanza\n\n- Olanzacor: https://www.healthdirect.gov.au/medicines/brand/amt,756671000168101/olanzacor\n\n- Olanzapine (AN): https://www.healthdirect.gov.au/medicines/brand/amt,659161000168100/olanzapine-an\n\n- Olanzapine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,3511000168108/olanzapine-apo\n\n- Olanzapine (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1000751000168109/olanzapine-apotex\n\n- Olanzapine (ARW): https://www.healthdirect.gov.au/medicines/brand/amt,1536151000168103/olanzapine-arw\n\n- Olanzapine (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,713791000168105/olanzapine-auro\n\n- Olanzapine (CH): https://www.healthdirect.gov.au/medicines/brand/amt,1609101000168108/olanzapine-ch\n\n- Olanzapine (NNA): https://www.healthdirect.gov.au/medicines/brand/amt,1685391000168103/olanzapine-nna\n\n- Olanzapine (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1606561000168108/olanzapine-noumed\n\n- Olanzapine (Pharm): https://www.healthdirect.gov.au/medicines/brand/amt,1611631000168105/olanzapine-pharm\n\n- Olanzapine (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,26111000036108/olanzapine-pharmacor\n\n- Olanzapine (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,1591000168103/olanzapine-rbx\n\n- Olanzapine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1151000036106/olanzapine-sandoz\n\n- Olanzapine (TIH): https://www.healthdirect.gov.au/medicines/brand/amt,1684401000168100/olanzapine-tih\n\n- Olanzapine IM (GH): https://www.healthdirect.gov.au/medicines/brand/amt,933652171000036100/olanzapine-im-gh\n\n- Olanzapine IM (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,933652181000036103/olanzapine-im-lupin\n\n- Olanzapine ODT (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,14491000168103/olanzapine-odt-apo\n\n- Olanzapine ODT (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,1060981000168101/olanzapine-odt-auro\n\n- Olanzapine ODT (CH): https://www.healthdirect.gov.au/medicines/brand/amt,1609791000168101/olanzapine-odt-ch\n\n- Olanzapine ODT (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,31501000168102/olanzapine-odt-sandoz\n\n- Oliclinomel N4-550 E: https://www.healthdirect.gov.au/medicines/brand/amt,1256211000168104/oliclinomel-n4-550-e\n\n- Olimel N7-960E: https://www.healthdirect.gov.au/medicines/brand/amt,1226631000168105/olimel-n7-960e\n\n- Olimel N9-840: https://www.healthdirect.gov.au/medicines/brand/amt,1206321000168105/olimel-n9-840\n\n- Olimel N9-840E: https://www.healthdirect.gov.au/medicines/brand/amt,1224761000168102/olimel-n9-840e\n\n- Olmekar 20/5: https://www.healthdirect.gov.au/medicines/brand/amt,1368681000168105/olmekar-20-5\n\n- Olmekar 40/10: https://www.healthdirect.gov.au/medicines/brand/amt,1368831000168108/olmekar-40-10\n\n- Olmekar 40/5: https://www.healthdirect.gov.au/medicines/brand/amt,1368771000168103/olmekar-40-5\n\n- Olmertan Combi 20/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,894961000168101/olmertan-combi-20-12.5\n\n- Olmertan Combi 40/25: https://www.healthdirect.gov.au/medicines/brand/amt,895121000168107/olmertan-combi-40-25\n\n- Olmes: https://www.healthdirect.gov.au/medicines/brand/amt,1202591000168100/olmes\n\n- Olmesart: https://www.healthdirect.gov.au/medicines/brand/amt,1200971000168109/olmesart\n\n- Olmesart HCT 20/12.5 (Generic Partners): https://www.healthdirect.gov.au/medicines/brand/amt,1204671000168105/olmesart-hct-20-12.5-generic-partners\n\n- Olmesart HCT 20/12.5 (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1186481000168100/olmesart-hct-20-12.5-gxp\n\n- Olmesart HCT 20/25 (Generic Partners): https://www.healthdirect.gov.au/medicines/brand/amt,1204581000168109/olmesart-hct-20-25-generic-partners\n\n- Olmesart HCT 20/25 (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1214821000168106/olmesart-hct-20-25-gxp\n\n- Olmesart HCT 40/12.5 (Generic Partners): https://www.healthdirect.gov.au/medicines/brand/amt,1202981000168106/olmesart-hct-40-12.5-generic-partners\n\n- Olmesart HCT 40/12.5 (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1186361000168104/olmesart-hct-40-12.5-gxp\n\n- Olmesart HCT 40/25 (Generic Partners): https://www.healthdirect.gov.au/medicines/brand/amt,1203841000168104/olmesart-hct-40-25-generic-partners\n\n- Olmesart HCT 40/25 (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1186421000168104/olmesart-hct-40-25-gxp\n\n- Olmesartan (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,873701000168108/olmesartan-akm\n\n- Olmesartan (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,845241000168103/olmesartan-alembic\n\n- Olmesartan (Alkem): https://www.healthdirect.gov.au/medicines/brand/amt,1601151000168106/olmesartan-alkem\n\n- Olmesartan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1004241000168106/olmesartan-apo\n\n- Olmesartan (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,895371000168105/olmesartan-apotex\n\n- Olmesartan (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,1703311000168100/olmesartan-blooms-the-chemist\n\n- Olmesartan (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,933650351000036108/olmesartan-chemmart\n\n- Olmesartan (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1185301000168105/olmesartan-gppl\n\n- Olmesartan (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1186181000168106/olmesartan-gxp\n\n- Olmesartan (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,849221000168107/olmesartan-myl\n\n- Olmesartan (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,893431000168100/olmesartan-pharmacor\n\n- Olmesartan (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,893471000168102/olmesartan-sandoz\n\n- Olmesartan (Terry White Chemists): https://www.healthdirect.gov.au/medicines/brand/amt,933624881000036103/olmesartan-terry-white-chemists\n\n- Olmesartan (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1765811000168109/olmesartan-wgr\n\n- Olmesartan Amlodipine 20/10 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1505191000168107/olmesartan-amlodipine-20-10-akm\n\n- Olmesartan Amlodipine 20/10 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1505261000168106/olmesartan-amlodipine-20-10-pharmacor\n\n- Olmesartan Amlodipine 20/5 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1516821000168108/olmesartan-amlodipine-20-5-akm\n\n- Olmesartan Amlodipine 20/5 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1462751000168100/olmesartan-amlodipine-20-5-pharmacor\n\n- Olmesartan Amlodipine 20/5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772631000168102/olmesartan-amlodipine-20-5-wgr\n\n- Olmesartan Amlodipine 40/10 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1519021000168108/olmesartan-amlodipine-40-10-akm\n\n- Olmesartan Amlodipine 40/10 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1462521000168100/olmesartan-amlodipine-40-10-pharmacor\n\n- Olmesartan Amlodipine 40/10 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772731000168105/olmesartan-amlodipine-40-10-wgr\n\n- Olmesartan Amlodipine 40/5 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1519651000168106/olmesartan-amlodipine-40-5-akm\n\n- Olmesartan Amlodipine 40/5 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1462291000168101/olmesartan-amlodipine-40-5-pharmacor\n\n- Olmesartan Amlodipine 40/5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772571000168103/olmesartan-amlodipine-40-5-wgr\n\n- Olmesartan HCT 20/12.5 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,846531000168104/olmesartan-hct-20-12.5-alembic\n\n- Olmesartan HCT 20/12.5 (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1708331000168103/olmesartan-hct-20-12.5-astron\n\n- Olmesartan HCT 20/12.5 (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1186671000168100/olmesartan-hct-20-12.5-gppl\n\n- Olmesartan HCT 20/12.5 (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1712931000168102/olmesartan-hct-20-12.5-intas\n\n- Olmesartan HCT 20/12.5 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,851971000168100/olmesartan-hct-20-12.5-myl\n\n- Olmesartan HCT 20/25 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,846881000168100/olmesartan-hct-20-25-alembic\n\n- Olmesartan HCT 20/25 (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1712891000168105/olmesartan-hct-20-25-astron\n\n- Olmesartan HCT 20/25 (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1185891000168105/olmesartan-hct-20-25-gppl\n\n- Olmesartan HCT 20/25 (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1708211000168100/olmesartan-hct-20-25-intas\n\n- Olmesartan HCT 40/12.5 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,846941000168101/olmesartan-hct-40-12.5-alembic\n\n- Olmesartan HCT 40/12.5 (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1708921000168100/olmesartan-hct-40-12.5-astron\n\n- Olmesartan HCT 40/12.5 (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1188381000168107/olmesartan-hct-40-12.5-gppl\n\n- Olmesartan HCT 40/12.5 (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1708061000168109/olmesartan-hct-40-12.5-intas\n\n- Olmesartan HCT 40/12.5 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,852101000168103/olmesartan-hct-40-12.5-myl\n\n- Olmesartan HCT 40/25 (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,846841000168105/olmesartan-hct-40-25-alembic\n\n- Olmesartan HCT 40/25 (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1708371000168100/olmesartan-hct-40-25-astron\n\n- Olmesartan HCT 40/25 (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1188441000168109/olmesartan-hct-40-25-gppl\n\n- Olmesartan HCT 40/25 (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1708561000168100/olmesartan-hct-40-25-intas\n\n- Olmesartan HCT 40/25 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,852041000168100/olmesartan-hct-40-25-myl\n\n- Olmesartan HCT Zoltab 20/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1709161000168103/olmesartan-hct-zoltab-20-12.5\n\n- Olmesartan HCT Zoltab 20/25: https://www.healthdirect.gov.au/medicines/brand/amt,1709081000168106/olmesartan-hct-zoltab-20-25\n\n- Olmesartan HCT Zoltab 40/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1709121000168108/olmesartan-hct-zoltab-40-12.5\n\n- Olmesartan HCT Zoltab 40/25: https://www.healthdirect.gov.au/medicines/brand/amt,1709201000168108/olmesartan-hct-zoltab-40-25\n\n- Olmesartan HCTZ 20/12.5 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1369201000168105/olmesartan-hctz-20-12.5-akm\n\n- Olmesartan HCTZ 20/12.5 (Alkem): https://www.healthdirect.gov.au/medicines/brand/amt,1182111000168101/olmesartan-hctz-20-12.5-alkem\n\n- Olmesartan HCTZ 20/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1006251000168100/olmesartan-hctz-20-12.5-apo\n\n- Olmesartan HCTZ 20/12.5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,896751000168105/olmesartan-hctz-20-12.5-apotex\n\n- Olmesartan HCTZ 20/12.5 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1102101000168103/olmesartan-hctz-20-12.5-pharmacor\n\n- Olmesartan HCTZ 20/12.5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1766391000168104/olmesartan-hctz-20-12.5-wgr\n\n- Olmesartan HCTZ 40/12.5 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1369371000168108/olmesartan-hctz-40-12.5-akm\n\n- Olmesartan HCTZ 40/12.5 (Alkem): https://www.healthdirect.gov.au/medicines/brand/amt,1180561000168107/olmesartan-hctz-40-12.5-alkem\n\n- Olmesartan HCTZ 40/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1006291000168105/olmesartan-hctz-40-12.5-apo\n\n- Olmesartan HCTZ 40/12.5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,896891000168105/olmesartan-hctz-40-12.5-apotex\n\n- Olmesartan HCTZ 40/12.5 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1101971000168100/olmesartan-hctz-40-12.5-pharmacor\n\n- Olmesartan HCTZ 40/12.5 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1766991000168103/olmesartan-hctz-40-12.5-wgr\n\n- Olmesartan HCTZ 40/25 (AKM): https://www.healthdirect.gov.au/medicines/brand/amt,1180601000168107/olmesartan-hctz-40-25-akm\n\n- Olmesartan HCTZ 40/25 (Alkem): https://www.healthdirect.gov.au/medicines/brand/amt,1180641000168109/olmesartan-hctz-40-25-alkem\n\n- Olmesartan HCTZ 40/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1006331000168104/olmesartan-hctz-40-25-apo\n\n- Olmesartan HCTZ 40/25 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,896851000168100/olmesartan-hctz-40-25-apotex\n\n- Olmesartan HCTZ 40/25 (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1102201000168107/olmesartan-hctz-40-25-pharmacor\n\n- Olmesartan HCTZ 40/25 (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1767121000168100/olmesartan-hctz-40-25-wgr\n\n- Olmesartan Medoxomil HCTZ 20/12.5 (GP): https://www.healthdirect.gov.au/medicines/brand/amt,1186241000168109/olmesartan-medoxomil-hctz-20-12.5-gp\n\n- Olmesartan Medoxomil HCTZ 20/25 (GP): https://www.healthdirect.gov.au/medicines/brand/amt,1186301000168100/olmesartan-medoxomil-hctz-20-25-gp\n\n- Olmesartan Medoxomil HCTZ 40/12.5 (GP): https://www.healthdirect.gov.au/medicines/brand/amt,1186541000168106/olmesartan-medoxomil-hctz-40-12.5-gp\n\n- Olmesartan Medoxomil HCTZ 40/25 (GP): https://www.healthdirect.gov.au/medicines/brand/amt,1186601000168105/olmesartan-medoxomil-hctz-40-25-gp\n\n- Olmesartan/Amlodipine 20/10 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1409131000168103/olmesartan-amlodipine-20-10-apotex\n\n- Olmesartan/Amlodipine 20/5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,753471000168109/olmesartan-amlodipine-20-5-apo\n\n- Olmesartan/Amlodipine 20/5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,761011000168102/olmesartan-amlodipine-20-5-apotex\n\n- Olmesartan/Amlodipine 20/5 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,852171000168108/olmesartan-amlodipine-20-5-myl\n\n- Olmesartan/Amlodipine 20/5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1704431000168101/olmesartan-amlodipine-20-5-sandoz\n\n- Olmesartan/Amlodipine 20/5 (SPR): https://www.healthdirect.gov.au/medicines/brand/amt,1755221000168108/olmesartan-amlodipine-20-5-spr\n\n- Olmesartan/Amlodipine 40/10 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,753631000168109/olmesartan-amlodipine-40-10-apo\n\n- Olmesartan/Amlodipine 40/10 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,761061000168104/olmesartan-amlodipine-40-10-apotex\n\n- Olmesartan/Amlodipine 40/10 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,852231000168100/olmesartan-amlodipine-40-10-myl\n\n- Olmesartan/Amlodipine 40/10 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1704791000168105/olmesartan-amlodipine-40-10-sandoz\n\n- Olmesartan/Amlodipine 40/10 (SPR): https://www.healthdirect.gov.au/medicines/brand/amt,1755011000168107/olmesartan-amlodipine-40-10-spr\n\n- Olmesartan/Amlodipine 40/5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,753551000168104/olmesartan-amlodipine-40-5-apo\n\n- Olmesartan/Amlodipine 40/5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,760971000168102/olmesartan-amlodipine-40-5-apotex\n\n- Olmesartan/Amlodipine 40/5 (Myl): https://www.healthdirect.gov.au/medicines/brand/amt,852291000168101/olmesartan-amlodipine-40-5-myl\n\n- Olmesartan/Amlodipine 40/5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1704581000168101/olmesartan-amlodipine-40-5-sandoz\n\n- Olmesartan/Amlodipine 40/5 (SPR): https://www.healthdirect.gov.au/medicines/brand/amt,1755321000168102/olmesartan-amlodipine-40-5-spr\n\n- Olmesartan/Amlodipine/HCTZ 20/5/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454061000168100/olmesartan-amlodipine-hctz-20-5-12.5-apo\n\n- Olmesartan/Amlodipine/HCTZ 40/10/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454501000168108/olmesartan-amlodipine-hctz-40-10-12.5-apo\n\n- Olmesartan/Amlodipine/HCTZ 40/10/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454121000168106/olmesartan-amlodipine-hctz-40-10-25-apo\n\n- Olmesartan/Amlodipine/HCTZ 40/5/12.5 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454951000168101/olmesartan-amlodipine-hctz-40-5-12.5-apo\n\n- Olmesartan/Amlodipine/HCTZ 40/5/25 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1454761000168102/olmesartan-amlodipine-hctz-40-5-25-apo\n\n- Olmesartan/HCT 20/12.5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,894121000168108/olmesartan-hct-20-12.5-sandoz\n\n- Olmesartan/HCT 40/12.5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,895251000168106/olmesartan-hct-40-12.5-sandoz\n\n- Olmesartan/HCT 40/25 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,894691000168100/olmesartan-hct-40-25-sandoz\n\n- Olmetec: https://www.healthdirect.gov.au/medicines/brand/amt,3066011000036105/olmetec\n\n- Olmetec Plus 20/12.5 mg: https://www.healthdirect.gov.au/medicines/brand/amt,42591000168102/olmetec-plus-20-12.5-mg\n\n- Olmetec Plus 20/25 mg: https://www.healthdirect.gov.au/medicines/brand/amt,965391000168100/olmetec-plus-20-25-mg\n\n- Olmetec Plus 40/12.5 mg: https://www.healthdirect.gov.au/medicines/brand/amt,42781000168106/olmetec-plus-40-12.5-mg\n\n- Olmetec Plus 40/25 mg: https://www.healthdirect.gov.au/medicines/brand/amt,58251000168105/olmetec-plus-40-25-mg\n\n- Olopatadine (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,350616891000036100/olopatadine-apotex\n\n- Olopatadine (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,301392811000036101/olopatadine-genrx\n\n- Olsetan: https://www.healthdirect.gov.au/medicines/brand/amt,1664821000168109/olsetan\n\n- Olsetan HCT 20/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1707141000168105/olsetan-hct-20-12.5\n\n- Olsetan HCT 20/25: https://www.healthdirect.gov.au/medicines/brand/amt,1707101000168108/olsetan-hct-20-25\n\n- Olsetan HCT 40/12.5: https://www.healthdirect.gov.au/medicines/brand/amt,1707061000168105/olsetan-hct-40-12.5\n\n- Olsetan HCT 40/25: https://www.healthdirect.gov.au/medicines/brand/amt,1707021000168100/olsetan-hct-40-25\n\n- Olumiant: https://www.healthdirect.gov.au/medicines/brand/amt,1107071000168109/olumiant\n\n- Omacor: https://www.healthdirect.gov.au/medicines/brand/amt,929850011000036100/omacor\n\n- Omepral: https://www.healthdirect.gov.au/medicines/brand/amt,3379011000036105/omepral\n\n- Omeprazole (ADVZ): https://www.healthdirect.gov.au/medicines/brand/amt,1706381000168101/omeprazole-advz\n\n- Omeprazole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,5851000168107/omeprazole-apo\n\n- Omeprazole (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,920101011000036106/omeprazole-generic-health\n\n- Omeprazole (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1160011000168104/omeprazole-noumed\n\n- Omeprazole (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,922926011000036103/omeprazole-pharmacor\n\n- Omeprazole (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,72916011000036100/omeprazole-sandoz\n\n- Omeprazole (SPR): https://www.healthdirect.gov.au/medicines/brand/amt,1735421000168106/omeprazole-spr\n\n- Omeprazole (TIH): https://www.healthdirect.gov.au/medicines/brand/amt,1735811000168101/omeprazole-tih\n\n- Omeprazole (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,242613061000036106/omeprazole-wgr\n\n- Omeprazole Caps (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1792571000168107/omeprazole-caps-wgr\n\n- Omeprazole IV (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,5211000168107/omeprazole-iv-sandoz\n\n- Omepro: https://www.healthdirect.gov.au/medicines/brand/amt,924374011000036106/omepro\n\n- Omjjara: https://www.healthdirect.gov.au/medicines/brand/amt,234588291000036101/omjjara\n\n- Omlyclo: https://www.healthdirect.gov.au/medicines/brand/amt,948660951000036104/omlyclo\n\n- Omnaris: https://www.healthdirect.gov.au/medicines/brand/amt,686981000168108/omnaris\n\n- Omnipaque-180: https://www.healthdirect.gov.au/medicines/brand/amt,35991000168102/omnipaque-180\n\n- Omnipaque-240: https://www.healthdirect.gov.au/medicines/brand/amt,33651000168101/omnipaque-240\n\n- Omnipaque-300: https://www.healthdirect.gov.au/medicines/brand/amt,21931000168100/omnipaque-300\n\n- Omnipaque-350: https://www.healthdirect.gov.au/medicines/brand/amt,6061000168106/omnipaque-350\n\n- Omniscan: https://www.healthdirect.gov.au/medicines/brand/amt,1210501000168105/omniscan\n\n- Omnitrope: https://www.healthdirect.gov.au/medicines/brand/amt,3586011000036105/omnitrope\n\n- Omtralo 24/26: https://www.healthdirect.gov.au/medicines/brand/amt,689536871000036109/omtralo-24-26\n\n- Omtralo 49/51: https://www.healthdirect.gov.au/medicines/brand/amt,507954661000036105/omtralo-49-51\n\n- Omtralo 97/103: https://www.healthdirect.gov.au/medicines/brand/amt,903315181000036106/omtralo-97-103\n\n- Omvoh: https://www.healthdirect.gov.au/medicines/brand/amt,1706081000168104/omvoh\n\n- Onbevzi: https://www.healthdirect.gov.au/medicines/brand/amt,933586311000036106/onbevzi\n\n- Onbrez Breezhaler: https://www.healthdirect.gov.au/medicines/brand/amt,18301000168106/onbrez-breezhaler\n\n- Oncaspar: https://www.healthdirect.gov.au/medicines/brand/amt,1176181000168104/oncaspar\n\n- Oncotice BCG: https://www.healthdirect.gov.au/medicines/brand/amt,59411000168102/oncotice-bcg\n\n- Ondansetron (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,797971000168103/ondansetron-accord\n\n- Ondansetron (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1375461000168100/ondansetron-aft\n\n- Ondansetron (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,929370011000036100/ondansetron-alphapharm\n\n- Ondansetron (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1555371000168100/ondansetron-apx\n\n- Ondansetron (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,1058441000168107/ondansetron-auro\n\n- Ondansetron (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1456321000168104/ondansetron-baxter\n\n- Ondansetron (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,922929011000036107/ondansetron-claris\n\n- Ondansetron (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1200671000168103/ondansetron-dr.-reddy's\n\n- Ondansetron (DRLA): https://www.healthdirect.gov.au/medicines/brand/amt,20111000168103/ondansetron-drla\n\n- Ondansetron (GTA): https://www.healthdirect.gov.au/medicines/brand/amt,1268541000168105/ondansetron-gta\n\n- Ondansetron (Ipca): https://www.healthdirect.gov.au/medicines/brand/amt,1266171000168108/ondansetron-ipca\n\n- Ondansetron (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,97751000036101/ondansetron-kabi\n\n- Ondansetron (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,945401000168105/ondansetron-mylan\n\n- Ondansetron (MYX): https://www.healthdirect.gov.au/medicines/brand/amt,694901000168108/ondansetron-myx\n\n- Ondansetron (PIP): https://www.healthdirect.gov.au/medicines/brand/amt,1262171000168109/ondansetron-pip\n\n- Ondansetron (PTIN): https://www.healthdirect.gov.au/medicines/brand/amt,1262021000168107/ondansetron-ptin\n\n- Ondansetron (Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1200821000168100/ondansetron-reddy's\n\n- Ondansetron (SZ): https://www.healthdirect.gov.au/medicines/brand/amt,740221000168104/ondansetron-sz\n\n- Ondansetron (TN): https://www.healthdirect.gov.au/medicines/brand/amt,1263961000168106/ondansetron-tn\n\n- Ondansetron (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1657021000168102/ondansetron-viatris\n\n- Ondansetron (VTRS): https://www.healthdirect.gov.au/medicines/brand/amt,933600201000036109/ondansetron-vtrs\n\n- Ondansetron (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1776311000168100/ondansetron-wgr\n\n- Ondansetron ODT (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1501281000168100/ondansetron-odt-apx\n\n- Ondansetron ODT (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,1056641000168105/ondansetron-odt-auro\n\n- Ondansetron ODT (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1171961000168103/ondansetron-odt-dr.-reddy's\n\n- Ondansetron ODT (DRLA): https://www.healthdirect.gov.au/medicines/brand/amt,47061000168102/ondansetron-odt-drla\n\n- Ondansetron ODT (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1587471000168106/ondansetron-odt-lupin\n\n- Ondansetron ODT (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1156491000168105/ondansetron-odt-mylan\n\n- Ondansetron ODT (Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1172501000168100/ondansetron-odt-reddy's\n\n- Ondansetron ODT (SZ): https://www.healthdirect.gov.au/medicines/brand/amt,740371000168106/ondansetron-odt-sz\n\n- Ondansetron ODT (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1663241000168104/ondansetron-odt-viatris\n\n- Ondansetron ODT (VTRS): https://www.healthdirect.gov.au/medicines/brand/amt,933651181000036106/ondansetron-odt-vtrs\n\n- Ondansetron ODT (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1776521000168103/ondansetron-odt-wgr\n\n- Ondron: https://www.healthdirect.gov.au/medicines/brand/amt,40221000168103/ondron\n\n- Ondron ODT: https://www.healthdirect.gov.au/medicines/brand/amt,10891000168108/ondron-odt\n\n- Ongentys: https://www.healthdirect.gov.au/medicines/brand/amt,1502511000168100/ongentys\n\n- Onglyza: https://www.healthdirect.gov.au/medicines/brand/amt,929821011000036106/onglyza\n\n- Onivyde: https://www.healthdirect.gov.au/medicines/brand/amt,953471000168102/onivyde\n\n- Onkotrone: https://www.healthdirect.gov.au/medicines/brand/amt,3966011000036104/onkotrone\n\n- Onpattro: https://www.healthdirect.gov.au/medicines/brand/amt,1666491000168104/onpattro\n\n- Ontruzant: https://www.healthdirect.gov.au/medicines/brand/amt,1252911000168105/ontruzant\n\n- Onureg: https://www.healthdirect.gov.au/medicines/brand/amt,1631521000168100/onureg\n\n- Opdivo: https://www.healthdirect.gov.au/medicines/brand/amt,759511000168102/opdivo\n\n- Opdivo SC: https://www.healthdirect.gov.au/medicines/brand/amt,933650941000036106/opdivo-sc\n\n- Opdualag: https://www.healthdirect.gov.au/medicines/brand/amt,1675541000168105/opdualag\n\n- Opfolda: https://www.healthdirect.gov.au/medicines/brand/amt,278805201000036108/opfolda\n\n- Opod-D Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,1587411000168103/opod-d-syrup\n\n- Opod-P Liquid: https://www.healthdirect.gov.au/medicines/brand/amt,1664931000168103/opod-p-liquid\n\n- Oprexa: https://www.healthdirect.gov.au/medicines/brand/amt,1610061000168104/oprexa\n\n- Opsumit: https://www.healthdirect.gov.au/medicines/brand/amt,654891000168102/opsumit\n\n- Opsynvi 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,243627861000036107/opsynvi-10-40\n\n- Optiray-320: https://www.healthdirect.gov.au/medicines/brand/amt,28191000168109/optiray-320\n\n- Optiray-320 Ultraject: https://www.healthdirect.gov.au/medicines/brand/amt,19551000168105/optiray-320-ultraject\n\n- Optiray-350: https://www.healthdirect.gov.au/medicines/brand/amt,14501000168105/optiray-350\n\n- Optiray-350 Ultraject: https://www.healthdirect.gov.au/medicines/brand/amt,31781000168104/optiray-350-ultraject\n\n- Optisulin: https://www.healthdirect.gov.au/medicines/brand/amt,1427281000168105/optisulin\n\n- Optisulin Solostar: https://www.healthdirect.gov.au/medicines/brand/amt,1427001000168107/optisulin-solostar\n\n- Ora-Sed Jel: https://www.healthdirect.gov.au/medicines/brand/amt,44881000168109/ora-sed-jel\n\n- Oral Rehydration (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,917306131000036105/oral-rehydration-chemists'-own\n\n- Oral Rehydration (Priceline Pharmacy): https://www.healthdirect.gov.au/medicines/brand/amt,1132201000168100/oral-rehydration-priceline-pharmacy\n\n- Oral Rehydration Salts (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1286971000168108/oral-rehydration-salts-cipla\n\n- Oral-Eze: https://www.healthdirect.gov.au/medicines/brand/amt,60131000036109/oral-eze\n\n- Oralair Continuation Treatment 300 IR: https://www.healthdirect.gov.au/medicines/brand/amt,769411000168108/oralair-continuation-treatment-300-ir\n\n- Oralair Initiation Treatment: https://www.healthdirect.gov.au/medicines/brand/amt,770141000168101/oralair-initiation-treatment\n\n- Oraqix: https://www.healthdirect.gov.au/medicines/brand/amt,929830011000036101/oraqix\n\n- Oratane: https://www.healthdirect.gov.au/medicines/brand/amt,3045011000036106/oratane\n\n- Ordine: https://www.healthdirect.gov.au/medicines/brand/amt,2912011000036108/ordine\n\n- Orencia: https://www.healthdirect.gov.au/medicines/brand/amt,32969011000036101/orencia\n\n- Orencia Clickject Autoinjector: https://www.healthdirect.gov.au/medicines/brand/amt,899571000168101/orencia-clickject-autoinjector\n\n- Orfadin: https://www.healthdirect.gov.au/medicines/brand/amt,933193831000036108/orfadin\n\n- Orgalutran: https://www.healthdirect.gov.au/medicines/brand/amt,39579011000036106/orgalutran\n\n- Orgaran: https://www.healthdirect.gov.au/medicines/brand/amt,39612011000036102/orgaran\n\n- Oridopa 100/25: https://www.healthdirect.gov.au/medicines/brand/amt,958852701000036107/oridopa-100-25\n\n- Oripro: https://www.healthdirect.gov.au/medicines/brand/amt,124041000036109/oripro\n\n- Orkambi 100/125: https://www.healthdirect.gov.au/medicines/brand/amt,1198761000168103/orkambi-100-125\n\n- Orkambi 150/188: https://www.healthdirect.gov.au/medicines/brand/amt,1389871000168102/orkambi-150-188\n\n- Orkambi 200/125: https://www.healthdirect.gov.au/medicines/brand/amt,805531000168104/orkambi-200-125\n\n- Orkambi 75/94: https://www.healthdirect.gov.au/medicines/brand/amt,1710211000168104/orkambi-75-94\n\n- Orlistat (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933651981000036108/orlistat-viatris\n\n- Oroxine: https://www.healthdirect.gov.au/medicines/brand/amt,3485011000036106/oroxine\n\n- Oseltamivir (Alembic): https://www.healthdirect.gov.au/medicines/brand/amt,1700041000168107/oseltamivir-alembic\n\n- Oseltamivir (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1531801000168100/oseltamivir-lupin\n\n- Oseltamivir (STR): https://www.healthdirect.gov.au/medicines/brand/amt,1650451000168102/oseltamivir-str\n\n- Oseltamivir (Strides): https://www.healthdirect.gov.au/medicines/brand/amt,1650661000168103/oseltamivir-strides\n\n- Osenvelt: https://www.healthdirect.gov.au/medicines/brand/amt,277485101000036104/osenvelt\n\n- Osmitrol: https://www.healthdirect.gov.au/medicines/brand/amt,65181011000036106/osmitrol\n\n- Osmivir: https://www.healthdirect.gov.au/medicines/brand/amt,1650621000168108/osmivir\n\n- Osmolax: https://www.healthdirect.gov.au/medicines/brand/amt,87285011000036109/osmolax\n\n- Osmolax Relief: https://www.healthdirect.gov.au/medicines/brand/amt,1198061000168101/osmolax-relief\n\n- Osmolax Relief Children's Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1199581000168108/osmolax-relief-children's-pack\n\n- Ospolot: https://www.healthdirect.gov.au/medicines/brand/amt,4335011000036109/ospolot\n\n- Ostelin Specialist Range Vitamin D: https://www.healthdirect.gov.au/medicines/brand/amt,1083441000168109/ostelin-specialist-range-vitamin-d\n\n- Ostelin Vitamin D: https://www.healthdirect.gov.au/medicines/brand/amt,53321000168102/ostelin-vitamin-d\n\n- Ostelin Vitamin D and Calcium: https://www.healthdirect.gov.au/medicines/brand/amt,920102011000036100/ostelin-vitamin-d-and-calcium\n\n- Ostelin Vitamin D3: https://www.healthdirect.gov.au/medicines/brand/amt,933754391000036103/ostelin-vitamin-d3\n\n- Ostelin Vitamin D3 and K2: https://www.healthdirect.gov.au/medicines/brand/amt,933774691000036108/ostelin-vitamin-d3-and-k2\n\n- Ostelin Vitamin D3 Infant Drops: https://www.healthdirect.gov.au/medicines/brand/amt,679718181000036109/ostelin-vitamin-d3-infant-drops\n\n- Ostelin Vitamin D3 Kids: https://www.healthdirect.gov.au/medicines/brand/amt,1424571000168102/ostelin-vitamin-d3-kids\n\n- Osteo D: https://www.healthdirect.gov.au/medicines/brand/amt,1439851000168106/osteo-d\n\n- Osteo Paracetamol (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,677891000168106/osteo-paracetamol-apo\n\n- Osteo Relief Paracetamol (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1006851000168101/osteo-relief-paracetamol-apohealth\n\n- Osteo Relief Paracetamol (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1571051000168106/osteo-relief-paracetamol-chemists'-own\n\n- Osteomol: https://www.healthdirect.gov.au/medicines/brand/amt,677761000168108/osteomol\n\n- Osteovan: https://www.healthdirect.gov.au/medicines/brand/amt,731541000168101/osteovan\n\n- Ostevit-D: https://www.healthdirect.gov.au/medicines/brand/amt,41951000168108/ostevit-d\n\n- Ostevit-D Children's Drops: https://www.healthdirect.gov.au/medicines/brand/amt,54271000168107/ostevit-d-children's-drops\n\n- Ostevit-D One-a-Day Vitamin D3: https://www.healthdirect.gov.au/medicines/brand/amt,1752891000168102/ostevit-d-one-a-day-vitamin-d3\n\n- Ostevit-D One-a-Day Vitamin D3 and Calcium: https://www.healthdirect.gov.au/medicines/brand/amt,1438471000168107/ostevit-d-one-a-day-vitamin-d3-and-calcium\n\n- Ostevit-D One-a-Week: https://www.healthdirect.gov.au/medicines/brand/amt,1300241000168104/ostevit-d-one-a-week\n\n- Ostevit-D Vitamin D3 Kids Drops: https://www.healthdirect.gov.au/medicines/brand/amt,942024541000036107/ostevit-d-vitamin-d3-kids-drops\n\n- Otezla: https://www.healthdirect.gov.au/medicines/brand/amt,804611000168106/otezla\n\n- Otezla Titration Pack: https://www.healthdirect.gov.au/medicines/brand/amt,831611000168102/otezla-titration-pack\n\n- Otocomb Otic: https://www.healthdirect.gov.au/medicines/brand/amt,32951000168102/otocomb-otic\n\n- Otodex: https://www.healthdirect.gov.au/medicines/brand/amt,3634011000036102/otodex\n\n- Otrivin Adult: https://www.healthdirect.gov.au/medicines/brand/amt,41971000168104/otrivin-adult\n\n- Otrivin Junior: https://www.healthdirect.gov.au/medicines/brand/amt,34841000168100/otrivin-junior\n\n- Otrivin Plus: https://www.healthdirect.gov.au/medicines/brand/amt,26211000036104/otrivin-plus\n\n- Ovaleap: https://www.healthdirect.gov.au/medicines/brand/amt,1544131000168102/ovaleap\n\n- Ovestin: https://www.healthdirect.gov.au/medicines/brand/amt,45321000168104/ovestin\n\n- Ovestin Ovula: https://www.healthdirect.gov.au/medicines/brand/amt,21411000168102/ovestin-ovula\n\n- Ovidrel: https://www.healthdirect.gov.au/medicines/brand/amt,4186011000036103/ovidrel\n\n- Oxaliplatin (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,937281000168109/oxaliplatin-accord\n\n- Oxaliplatin (AN): https://www.healthdirect.gov.au/medicines/brand/amt,933537431000036104/oxaliplatin-an\n\n- Oxaliplatin (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1009251000168109/oxaliplatin-apo\n\n- Oxaliplatin (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,922922011000036102/oxaliplatin-baxter\n\n- Oxaliplatin (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,3002011000036107/oxaliplatin-dbl\n\n- Oxaliplatin (WKT): https://www.healthdirect.gov.au/medicines/brand/amt,1376191000168108/oxaliplatin-wkt\n\n- Oxaliplatin (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1363251000168106/oxaliplatin-wockhardt\n\n- Oxargin Naloxone XR 10/5: https://www.healthdirect.gov.au/medicines/brand/amt,1779341000168108/oxargin-naloxone-xr-10-5\n\n- Oxargin Naloxone XR 20/10: https://www.healthdirect.gov.au/medicines/brand/amt,1778421000168101/oxargin-naloxone-xr-20-10\n\n- Oxargin Naloxone XR 30/15: https://www.healthdirect.gov.au/medicines/brand/amt,1779481000168106/oxargin-naloxone-xr-30-15\n\n- Oxargin Naloxone XR 40/20: https://www.healthdirect.gov.au/medicines/brand/amt,1779581000168105/oxargin-naloxone-xr-40-20\n\n- Oxargin Naloxone XR 5/2.5: https://www.healthdirect.gov.au/medicines/brand/amt,1779241000168102/oxargin-naloxone-xr-5-2.5\n\n- Oxazepam (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,61491000168104/oxazepam-apo\n\n- Oxazepam (DWRN): https://www.healthdirect.gov.au/medicines/brand/amt,1717501000168104/oxazepam-dwrn\n\n- Oxazepam (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1575821000168105/oxazepam-mylan\n\n- Oxazepam (RJIC): https://www.healthdirect.gov.au/medicines/brand/amt,1717541000168102/oxazepam-rjic\n\n- Oxazepam (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1749211000168102/oxazepam-wgr\n\n- Oxervate: https://www.healthdirect.gov.au/medicines/brand/amt,1503871000168103/oxervate\n\n- Oxetine: https://www.healthdirect.gov.au/medicines/brand/amt,3108011000036102/oxetine\n\n- Oxis Turbuhaler: https://www.healthdirect.gov.au/medicines/brand/amt,29271000168107/oxis-turbuhaler\n\n- Oxlumo: https://www.healthdirect.gov.au/medicines/brand/amt,820854801000036108/oxlumo\n\n- Oxonal 10/5: https://www.healthdirect.gov.au/medicines/brand/amt,1741511000168104/oxonal-10-5\n\n- Oxonal 20/10: https://www.healthdirect.gov.au/medicines/brand/amt,1741471000168108/oxonal-20-10\n\n- Oxonal 40/20: https://www.healthdirect.gov.au/medicines/brand/amt,1741431000168105/oxonal-40-20\n\n- Oxonal 5/2.5: https://www.healthdirect.gov.au/medicines/brand/amt,1628931000168103/oxonal-5-2.5\n\n- Oxy 10 Vanishing: https://www.healthdirect.gov.au/medicines/brand/amt,18971000168100/oxy-10-vanishing\n\n- Oxy 5 Skin Toned: https://www.healthdirect.gov.au/medicines/brand/amt,25551000168103/oxy-5-skin-toned\n\n- Oxy 5 Vanishing: https://www.healthdirect.gov.au/medicines/brand/amt,51871000168106/oxy-5-vanishing\n\n- Oxybuprocaine Hydrochloride Minims (Bausch & Lomb): https://www.healthdirect.gov.au/medicines/brand/amt,59941000168109/oxybuprocaine-hydrochloride-minims-bausch-&-lomb\n\n- Oxycodone (AB): https://www.healthdirect.gov.au/medicines/brand/amt,1338071000168107/oxycodone-ab\n\n- Oxycodone (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,708971000168104/oxycodone-aspen\n\n- Oxycodone (BNM): https://www.healthdirect.gov.au/medicines/brand/amt,1312701000168107/oxycodone-bnm\n\n- Oxycodone (CP): https://www.healthdirect.gov.au/medicines/brand/amt,1336511000168108/oxycodone-cp\n\n- Oxycodone (Genpar): https://www.healthdirect.gov.au/medicines/brand/amt,1337351000168100/oxycodone-genpar\n\n- Oxycodone (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,1334611000168102/oxycodone-gppl\n\n- Oxycodone (GX): https://www.healthdirect.gov.au/medicines/brand/amt,753001000168105/oxycodone-gx\n\n- Oxycodone (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,1334231000168105/oxycodone-gxp\n\n- Oxycodone (Hameln): https://www.healthdirect.gov.au/medicines/brand/amt,1576681000168104/oxycodone-hameln\n\n- Oxycodone (JL): https://www.healthdirect.gov.au/medicines/brand/amt,1334761000168107/oxycodone-jl\n\n- Oxycodone (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1049121000168102/oxycodone-juno\n\n- Oxycodone (MLP): https://www.healthdirect.gov.au/medicines/brand/amt,1334421000168106/oxycodone-mlp\n\n- Oxycodone (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1486671000168101/oxycodone-mylan\n\n- Oxycodone (Neo Health): https://www.healthdirect.gov.au/medicines/brand/amt,1337391000168105/oxycodone-neo-health\n\n- Oxycodone (NH): https://www.healthdirect.gov.au/medicines/brand/amt,1336611000168109/oxycodone-nh\n\n- Oxycodone (NHPL): https://www.healthdirect.gov.au/medicines/brand/amt,1343231000168106/oxycodone-nhpl\n\n- Oxycodone (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,676271000168107/oxycodone-sandoz\n\n- Oxycodone (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1620931000168100/oxycodone-viatris\n\n- Oxycodone (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,716913611000036106/oxycodone-wgr\n\n- Oxycodone (WKT): https://www.healthdirect.gov.au/medicines/brand/amt,1048891000168100/oxycodone-wkt\n\n- Oxycodone (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1050121000168107/oxycodone-wockhardt\n\n- Oxycodone HCl (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1489371000168104/oxycodone-hcl-medicianz\n\n- Oxycodone HCl (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1489691000168105/oxycodone-hcl-medsurge\n\n- Oxycodone IR (Mayne Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,718441000168102/oxycodone-ir-mayne-pharma\n\n- Oxycodone MR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,777911000168104/oxycodone-mr-apo\n\n- Oxycodone MR (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,778521000168102/oxycodone-mr-apotex\n\n- Oxycodone MR (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,762721000168101/oxycodone-mr-chemmart\n\n- Oxycodone MR (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,779621000168105/oxycodone-mr-genrx\n\n- Oxycodone MR (Terry White Chemists): https://www.healthdirect.gov.au/medicines/brand/amt,764121000168108/oxycodone-mr-terry-white-chemists\n\n- Oxycodone Naloxone 10/5 (Maple): https://www.healthdirect.gov.au/medicines/brand/amt,933600371000036106/oxycodone-naloxone-10-5-maple\n\n- Oxycodone Naloxone 20/10 (Maple): https://www.healthdirect.gov.au/medicines/brand/amt,933600391000036105/oxycodone-naloxone-20-10-maple\n\n- Oxycodone Naloxone 30/15 (Maple): https://www.healthdirect.gov.au/medicines/brand/amt,933600401000036108/oxycodone-naloxone-30-15-maple\n\n- Oxycodone Naloxone 40/20 (Maple): https://www.healthdirect.gov.au/medicines/brand/amt,933600411000036105/oxycodone-naloxone-40-20-maple\n\n- Oxycodone Naloxone 5/2.5 (Maple): https://www.healthdirect.gov.au/medicines/brand/amt,933600381000036108/oxycodone-naloxone-5-2.5-maple\n\n- Oxycodone/Naloxone 10/5 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654291000168103/oxycodone-naloxone-10-5-mpl\n\n- Oxycodone/Naloxone 10/5 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,339245581000036105/oxycodone-naloxone-10-5-mg-arx\n\n- Oxycodone/Naloxone 15/7.5 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654371000168107/oxycodone-naloxone-15-7.5-mpl\n\n- Oxycodone/Naloxone 15/7.5 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,784369191000036104/oxycodone-naloxone-15-7.5-mg-arx\n\n- Oxycodone/Naloxone 2.5/1.25 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654451000168109/oxycodone-naloxone-2.5-1.25-mpl\n\n- Oxycodone/Naloxone 2.5/1.25 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,698090721000036107/oxycodone-naloxone-2.5-1.25-mg-arx\n\n- Oxycodone/Naloxone 20/10 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654881000168100/oxycodone-naloxone-20-10-mpl\n\n- Oxycodone/Naloxone 20/10 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,485872121000036105/oxycodone-naloxone-20-10-mg-arx\n\n- Oxycodone/Naloxone 30/15 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654961000168102/oxycodone-naloxone-30-15-mpl\n\n- Oxycodone/Naloxone 30/15 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,664720291000036106/oxycodone-naloxone-30-15-mg-arx\n\n- Oxycodone/Naloxone 40/20 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654611000168105/oxycodone-naloxone-40-20-mpl\n\n- Oxycodone/Naloxone 40/20 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,343877911000036108/oxycodone-naloxone-40-20-mg-arx\n\n- Oxycodone/Naloxone 5/2.5 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1654531000168104/oxycodone-naloxone-5-2.5-mpl\n\n- Oxycodone/Naloxone 5/2.5 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,198008701000036105/oxycodone-naloxone-5-2.5-mg-arx\n\n- Oxycodone/Naloxone 60/30 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1656631000168108/oxycodone-naloxone-60-30-mpl\n\n- Oxycodone/Naloxone 60/30 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,384028821000036100/oxycodone-naloxone-60-30-mg-arx\n\n- Oxycodone/Naloxone 80/40 (MPL): https://www.healthdirect.gov.au/medicines/brand/amt,1655461000168105/oxycodone-naloxone-80-40-mpl\n\n- Oxycodone/Naloxone 80/40 mg (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,438914851000036104/oxycodone-naloxone-80-40-mg-arx\n\n- Oxycodor: https://www.healthdirect.gov.au/medicines/brand/amt,1334551000168102/oxycodor\n\n- Oxycone: https://www.healthdirect.gov.au/medicines/brand/amt,1049161000168107/oxycone\n\n- Oxycontin: https://www.healthdirect.gov.au/medicines/brand/amt,3702011000036109/oxycontin\n\n- Oxylenus: https://www.healthdirect.gov.au/medicines/brand/amt,1337311000168101/oxylenus\n\n- Oxyndone: https://www.healthdirect.gov.au/medicines/brand/amt,1338141000168101/oxyndone\n\n- Oxynorm: https://www.healthdirect.gov.au/medicines/brand/amt,4209011000036106/oxynorm\n\n- Oxytocin (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,965461000168102/oxytocin-apo\n\n- Oxytocin (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1196231000168101/oxytocin-apotex\n\n- Oxytocin (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1555161000168108/oxytocin-apx\n\n- Oxytocin (Aspen): https://www.healthdirect.gov.au/medicines/brand/amt,48221000036107/oxytocin-aspen\n\n- Oxytocin (GH): https://www.healthdirect.gov.au/medicines/brand/amt,712101000168107/oxytocin-gh\n\n- Oxytrol: https://www.healthdirect.gov.au/medicines/brand/amt,39669011000036106/oxytrol\n\n- Oyone 10/5: https://www.healthdirect.gov.au/medicines/brand/amt,933600321000036107/oyone-10-5\n\n- Oyone 20/10: https://www.healthdirect.gov.au/medicines/brand/amt,933600341000036104/oyone-20-10\n\n- Oyone 30/15: https://www.healthdirect.gov.au/medicines/brand/amt,933600331000036109/oyone-30-15\n\n- Oyone 40/20: https://www.healthdirect.gov.au/medicines/brand/amt,933600351000036101/oyone-40-20\n\n- Oyone 5/2.5: https://www.healthdirect.gov.au/medicines/brand/amt,933600361000036103/oyone-5-2.5\n\n- Ozapace: https://www.healthdirect.gov.au/medicines/brand/amt,75927011000036108/ozapace\n\n- Ozcef: https://www.healthdirect.gov.au/medicines/brand/amt,3555011000036107/ozcef\n\n- Ozempic: https://www.healthdirect.gov.au/medicines/brand/amt,1401991000168100/ozempic\n\n- Ozeprem: https://www.healthdirect.gov.au/medicines/brand/amt,933650201000036100/ozeprem\n\n- Ozidal: https://www.healthdirect.gov.au/medicines/brand/amt,75932011000036109/ozidal\n\n- Ozin: https://www.healthdirect.gov.au/medicines/brand/amt,1071000036100/ozin\n\n- Ozmep: https://www.healthdirect.gov.au/medicines/brand/amt,79903011000036101/ozmep\n\n- Ozole: https://www.healthdirect.gov.au/medicines/brand/amt,3098011000036107/ozole\n\n- Ozpan: https://www.healthdirect.gov.au/medicines/brand/amt,83553011000036102/ozpan\n\n- Ozten: https://www.healthdirect.gov.au/medicines/brand/amt,933507131000036102/ozten\n\n- Ozurdex: https://www.healthdirect.gov.au/medicines/brand/amt,730271000168104/ozurdex\n\n- Ozvir: https://www.healthdirect.gov.au/medicines/brand/amt,3956011000036107/ozvir\n\n- Obeticholic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24457/obeticholic-acid\n\n- Obinutuzumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21042/obinutuzumab\n\n- Ocrelizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24214/ocrelizumab\n\n- octocog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20563/octocog-alfa\n\n- Octreotide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21040/octreotide\n\n- Odevixibat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50547/odevixibat\n\n- Ofatumumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21030/ofatumumab\n\n- Ofloxacin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21029/ofloxacin\n\n- Olanzapine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21025/olanzapine\n\n- Olanzapine pamoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26860/olanzapine-pamoate\n\n- Olaparib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23860/olaparib\n\n- Olea europaea pollen extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24257/olea-europaea-pollen-extract\n\n- olipudase alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27168/olipudase-alfa\n\n- olive oil + soya oil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23388/olive-oil-+-soya-oil\n\n- Olive oil + soya oil + alanine + arginine + aspartic acid + glutamic acid + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + glucose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50332/olive-oil-+-soya-oil-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-glucose\n\n- Olive oil + soya oil + alanine + arginine + aspartic acid + glutamic acid + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + sodium acetate + glycerophosphoric acid + potassium chloride + magnesium chloride + calcium chloride + glucose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50333/olive-oil-+-soya-oil-+-alanine-+-arginine-+-aspartic-acid-+-glutamic-acid-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-sodium-acetate-+-glycerophosphoric-acid-+-potassium-chloride-+-magnesium-chloride-+-calcium-chloride-+-glucose\n\n- Olive oil + soya oil + alanine + arginine + glycine + histidine + isoleucine + leucine + lysine + methionine + phenylalanine + proline + serine + threonine + tryptophan + tyrosine + valine + sodium acetate + glycerophosphoric acid + potassium chloride + magnesium chloride + glucose + calcium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50334/olive-oil-+-soya-oil-+-alanine-+-arginine-+-glycine-+-histidine-+-isoleucine-+-leucine-+-lysine-+-methionine-+-phenylalanine-+-proline-+-serine-+-threonine-+-tryptophan-+-tyrosine-+-valine-+-sodium-acetate-+-glycerophosphoric-acid-+-potassium-chloride-+-magnesium-chloride-+-glucose-+-calcium-chloride\n\n- Olmesartan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21023/olmesartan\n\n- olmesartan + amlodipine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23389/olmesartan-+-amlodipine\n\n- olmesartan + amlodipine + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23553/olmesartan-+-amlodipine-+-hydrochlorothiazide\n\n- olmesartan + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23390/olmesartan-+-hydrochlorothiazide\n\n- Olopatadine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21020/olopatadine\n\n- Olopatadine + mometasone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26809/olopatadine-+-mometasone\n\n- olsalazine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21017/olsalazine\n\n- Omalizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21015/omalizumab\n\n- Omaveloxolone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50609/omaveloxolone\n\n- omega-3-acid ethyl esters-90: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23882/omega-3-acid-ethyl-esters-90\n\n- omeprazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21011/omeprazole\n\n- onasemnogene abeparvovec: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26854/onasemnogene-abeparvovec\n\n- ondansetron: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21010/ondansetron\n\n- Opicapone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26815/opicapone\n\n- Orlistat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22743/orlistat\n\n- Orphenadrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21006/orphenadrine\n\n- orphenadrine citrate + paracetamol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23391/orphenadrine-citrate-+-paracetamol\n\n- oseltamivir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21005/oseltamivir\n\n- Osilodrostat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27075/osilodrostat\n\n- Osimertinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24039/osimertinib\n\n- oxaliplatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20991/oxaliplatin\n\n- Oxazepam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20990/oxazepam\n\n- Oxcarbazepine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20989/oxcarbazepine\n\n- Oxerutins: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22541/oxerutins\n\n- oxybuprocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20971/oxybuprocaine\n\n- Oxybutynin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20966/oxybutynin\n\n- Oxycodone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20964/oxycodone\n\n- Oxycodone + naloxone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23393/oxycodone-+-naloxone\n\n- Oxymetazoline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21603/oxymetazoline\n\n- oxytocin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20963/oxytocin\n\n- oxytocin + ergometrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23284/oxytocin-+-ergometrine\n\n- Ozanimod: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26765/ozanimod\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

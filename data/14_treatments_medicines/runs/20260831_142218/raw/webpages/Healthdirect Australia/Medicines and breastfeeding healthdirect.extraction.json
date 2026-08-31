@@ -1,0 +1,823 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-and-breastfeeding",
+  "title": "Medicines and breastfeeding | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 37986,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-breastfeeding"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-breastfeeding"
+    },
+    {
+      "text": "Can I take medicines while breastfeeding?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#take"
+    },
+    {
+      "text": "Can medicines affect my breastfed baby?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#affect"
+    },
+    {
+      "text": "What medicines can I take while breastfeeding?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#which"
+    },
+    {
+      "text": "How can I minimise the risk to my baby?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#risk"
+    },
+    {
+      "text": "What medicines are dangerous to take when breastfeeding?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#dangerous"
+    },
+    {
+      "text": "Can I use complementary medicines while breastfeeding?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#complementary"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#searchGeneralResults"
+    },
+    {
+      "text": "breastfeeding",
+      "url": "https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea-in-children"
+    },
+    {
+      "text": "antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "antibiotics",
+      "url": "https://www.healthdirect.gov.au/antibiotics"
+    },
+    {
+      "text": "bacterial infections",
+      "url": "https://www.healthdirect.gov.au/bacterial-infections"
+    },
+    {
+      "text": "doxycycline",
+      "url": "https://www.healthdirect.gov.au/doxycycline"
+    },
+    {
+      "text": "Metronidazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21161/metronidazole"
+    },
+    {
+      "text": "antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "preventers and relievers",
+      "url": "https://www.healthdirect.gov.au/medicines-for-asthma"
+    },
+    {
+      "text": "prednisolone",
+      "url": "https://www.healthdirect.gov.au/prednisolone"
+    },
+    {
+      "text": "pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21382/pseudoephedrine"
+    },
+    {
+      "text": "codeine",
+      "url": "https://www.healthdirect.gov.au/codeine"
+    },
+    {
+      "text": "progesterone-only mini pill",
+      "url": "https://www.healthdirect.gov.au/mini-pill-progestogen-only-pill"
+    },
+    {
+      "text": "The pill (combined oral contraceptive pill)",
+      "url": "https://www.healthdirect.gov.au/the-pill-combined-oral-contraceptive-pill"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.healthdirect.gov.au/paracetamol"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "aspirin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin"
+    },
+    {
+      "text": "worm treatments",
+      "url": "https://www.healthdirect.gov.au/worms-in-humans"
+    },
+    {
+      "text": "povidone-iodine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D011206/povidone-iodine"
+    },
+    {
+      "text": "vaccinations",
+      "url": "https://www.healthdirect.gov.au/immunisation-and-vaccinations"
+    },
+    {
+      "text": "flu (influenza) vaccine.",
+      "url": "https://www.healthdirect.gov.au/flu-vaccine-faqs"
+    },
+    {
+      "text": "Yellow fever",
+      "url": "https://www.healthdirect.gov.au/yellow-fever"
+    },
+    {
+      "text": "vomiting",
+      "url": "https://www.healthdirect.gov.au/vomiting-in-children"
+    },
+    {
+      "text": "allergic reactions",
+      "url": "https://www.healthdirect.gov.au/allergies-and-hypersensitivities"
+    },
+    {
+      "text": "lithium",
+      "url": "https://www.healthdirect.gov.au/lithium"
+    },
+    {
+      "text": "Complementary medicines",
+      "url": "https://www.pregnancybirthbaby.org.au/complementary-therapy-during-pregnancy"
+    },
+    {
+      "text": "vitamin and mineral",
+      "url": "https://www.healthdirect.gov.au/vitamins-and-minerals"
+    },
+    {
+      "text": "daily iodine supplement",
+      "url": "https://www.healthdirect.gov.au/iodine"
+    },
+    {
+      "text": "calcium",
+      "url": "https://www.healthdirect.gov.au/calcium"
+    },
+    {
+      "text": "vitamin B12",
+      "url": "https://www.healthdirect.gov.au/vitamin-b-and-your-health"
+    },
+    {
+      "text": "Poisons Information Centre",
+      "url": "https://www.poisonsinfo.nsw.gov.au/"
+    },
+    {
+      "text": "1300 MEDICINE",
+      "url": "https://1300medicine.com.au/"
+    },
+    {
+      "text": "midwife",
+      "url": "https://www.pregnancybirthbaby.org.au/the-role-of-your-midwife"
+    },
+    {
+      "text": "child health nurse",
+      "url": "https://www.pregnancybirthbaby.org.au/the-role-of-a-child-health-nurse"
+    },
+    {
+      "text": "Australian Breastfeeding Association Breastfeeding Helpline",
+      "url": "https://www.breastfeeding.asn.au/breastfeeding-helpline"
+    },
+    {
+      "text": "Breastfeeding Confidence",
+      "url": "https://www.breastfeeding.asn.au/resources/breastfeeding-confidence-booklet"
+    },
+    {
+      "text": "How Breastfeeding Works",
+      "url": "https://www.breastfeeding.asn.au/resources/breastfeeding-basics-video"
+    },
+    {
+      "text": "booklet about breastfeeding",
+      "url": "https://www.health.gov.au/sites/default/files/documents/2021/05/breastfeeding-strong-mums-strong-babies.pdf"
+    },
+    {
+      "text": "Breastfeeding: good for Baby, good for Mum",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0020/161039/good_for_baby_mum.pdf"
+    },
+    {
+      "text": "resource page on breastfeeding",
+      "url": "https://www.breastfeeding.asn.au/resources/breastfeeding-resources-aboriginal-and-torres-strait-islander-families"
+    },
+    {
+      "text": "(Breastfeeding: evidence based guidelines for the use of medicines)",
+      "url": "https://www.racgp.org.au/getattachment/28bd8ca1-0e31-4428-ab55-ca5ad8095325/Breastfeeding.aspx"
+    },
+    {
+      "text": "(Infant Feeding Guidelines)",
+      "url": "https://www.eatforhealth.gov.au/sites/default/files/files/the_guidelines/n56_infant_feeding_guidelines.pdf"
+    },
+    {
+      "text": "(Tetracycline)",
+      "url": "https://amhonline.amh.net.au/chapters/anti-infectives/antibacterials/tetracyclines/tetracycline"
+    },
+    {
+      "text": "(Paracetamol)",
+      "url": "https://amhonline.amh.net.au/chapters/analgesics/drugs-pain-relief/non-opioid-analgesics/paracetamol?menu=hints"
+    },
+    {
+      "text": "(Ibuprofen)",
+      "url": "https://amhonline.amh.net.au/chapters/immunomodulators-anti-inflammatories/nsaids/ibuprofen"
+    },
+    {
+      "text": "(Aspirin (analgesic))",
+      "url": "https://amhonline.amh.net.au/chapters/analgesics/drugs-pain-relief/non-opioid-analgesics/aspirin-analgesic#aspirin-analgesic-precautions"
+    },
+    {
+      "text": "(Medication Safety in Breastfeeding)",
+      "url": "https://www.aafp.org/pubs/afp/issues/2022/1200/medication-safety-breastfeeding.html"
+    },
+    {
+      "text": "(Managing asthma in breastfeeding women)",
+      "url": "https://www.asthmahandbook.org.au/populations/pregnant-women/breastfeeding"
+    },
+    {
+      "text": "(Vaccination for women who are planning pregnancy, pregnant or breastfeeding)",
+      "url": "https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding#women-who-are-breastfeeding"
+    },
+    {
+      "text": "(Vitamin and mineral supplementation and pregnancy)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Vitamin-Mineral-Supplementation-Pregnancy.pdf"
+    },
+    {
+      "text": "(Metronidazole)",
+      "url": "https://amhonline.amh.net.au/chapters/anti-infectives/antibacterials/other-antibacterials/metronidazole"
+    },
+    {
+      "text": "(Pseudoephedrine)",
+      "url": "https://amhonline.amh.net.au/chapters/ear-nose-throat-drugs/drugs-rhinitis-sinusitis/oral-decongestants/pseudoephedrine"
+    },
+    {
+      "text": "(Progesterone)",
+      "url": "https://amhonline.amh.net.au/chapters/obstetric-gynaecological-drugs/drugs-contraception/progestogens/progesterone"
+    },
+    {
+      "text": "(Yellow Fever)",
+      "url": "https://amhonline.amh.net.au/chapters/vaccines-chap/vaccines/yellow-fever-vaccine"
+    },
+    {
+      "text": "(Mebendazole)",
+      "url": "https://amhonline-amh-net-au.eu1.proxy.openathens.net/chapters/anti-infectives/anthelmintics/benzimidazoles/mebendazole"
+    },
+    {
+      "text": "(Aspirin (antiplatelet))",
+      "url": "https://amhonline.amh.net.au/chapters/blood-electrolytes/antiplatelet-drugs/other-antiplatelet-drugs/aspirin-antiplatelet"
+    },
+    {
+      "text": "(Povidone-Iodine)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501354/"
+    },
+    {
+      "text": "(Combined Hormonal Contraception during Breastfeeding—A Survey of Physician's Recommendations (Segev L et al))",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10671995/"
+    },
+    {
+      "text": "(Protecting, promoting and supporting breastfeeding (Pairman S, Tracey S, Dahlen H, Dixon L))",
+      "url": "https://bookshelf.vitalsource.com/reader/books/9780729597869/epubcfi/6/124[%3Bvnd.vst.idref%3DCHP0032_757-794_B9780729543811000411_0]!/4/2[c0032]/18/22/6/6[p0745]/5:121[stf%2Ceed]"
+    },
+    {
+      "text": "(Respiratory Drugs During Breastfeeding (Anderson P))",
+      "url": "https://www.liebertpub.com/doi/10.1089/bfm.2019.0194?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed"
+    },
+    {
+      "text": "(Chapter 32: Cough (Murtagh J))",
+      "url": "https://murtagh.mhmedical.com/content.aspx?sectionid=262295151&bookid=3133#262295269"
+    },
+    {
+      "text": "(The effectiveness of various gargle formulations and salt water against SARS-CoV-2 (Tiong V et al))",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8519917/"
+    },
+    {
+      "text": "(Drugs affecting milk supply during lactation (McGuire T))",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5828930/"
+    },
+    {
+      "text": "(Adverse Drug Reactions in Breastfed Infants: A Cross-Sectional Study of Lactating Mothers (Ahmadzai H, Tee L, Crowe A))",
+      "url": "https://www.liebertpub.com/doi/pdf/10.1089/bfm.2022.0143?casa_token=QoaYar2ojE8AAAAA:TAD7uXNajkB9KY0-wxFxkqsKnKwcjrVTYb8GHzs_195CAVnomxDdbL7F7beRnoMziNnASrb89Zfwgg"
+    },
+    {
+      "text": "(Cetirizine)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK501509/"
+    },
+    {
+      "text": "(AMA position statement - complementary medicine)",
+      "url": "https://www.ama.com.au/position-statement/ama-position-statement-complementary-medicine-2018"
+    },
+    {
+      "text": "(Breastfeeding and the Pharmacist's Role in Maternal Medication Management: Identifying Barriers and the Need for Continuing Education (Byerley E et al))",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8837210/"
+    },
+    {
+      "text": "(FDA Drug Safety Communication: FDA restricts use of prescription codeine pain and cough medicines and tramadol pain medicines in children; recommends against use in breastfeeding women)",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-restricts-use-prescription-codeine-pain-and-cough-medicines-and"
+    },
+    {
+      "text": "(Evaluating Medication Use in Pregnancy and Lactation: What Every Pharmacist Should Know (Burkey BW, Holmes AP))",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3775560/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding#backToTop"
+    },
+    {
+      "text": "Breast engorgement",
+      "url": "https://www.healthdirect.gov.au/breast-engorgement"
+    },
+    {
+      "text": "Breastfeeding your baby",
+      "url": "https://www.healthdirect.gov.au/breastfeeding-your-baby"
+    },
+    {
+      "text": "Feeding your newborn baby",
+      "url": "https://www.healthdirect.gov.au/feeding-your-baby-what-are-the-options"
+    },
+    {
+      "text": "Periods while breastfeeding",
+      "url": "https://www.healthdirect.gov.au/periods-while-breastfeeding"
+    },
+    {
+      "text": "Quality Use of Medicines",
+      "url": "https://www.healthdirect.gov.au/search-results/Quality Use of Medicines"
+    },
+    {
+      "text": "Mastitis",
+      "url": "https://www.healthdirect.gov.au/search-results/Mastitis"
+    },
+    {
+      "text": "Babies",
+      "url": "https://www.healthdirect.gov.au/search-results/Babies"
+    },
+    {
+      "text": "Breast Milk",
+      "url": "https://www.healthdirect.gov.au/search-results/Breast Milk"
+    },
+    {
+      "text": "Nipple",
+      "url": "https://www.healthdirect.gov.au/search-results/Nipple"
+    },
+    {
+      "text": "Breast Milk Expression",
+      "url": "https://www.healthdirect.gov.au/search-results/Breast Milk Expression"
+    },
+    {
+      "text": "Medicines and breastfeeding While most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-and-breastfeeding"
+    },
+    {
+      "text": "Breastfeeding Newborn Tips | Positions & Feeds | Tresillian Free newborn breastfeeding tips from Tresillian. Including advice on positioning, latching, feeding times and understanding hunger cues. Read more on Tresillian website",
+      "url": "https://www.tresillian.org.au/newborn/breastfeeding/"
+    },
+    {
+      "text": "Breastfeeding Your Baby | Karitane Support & Advice Get expert breastfeeding support from Karitane. Learn about milk supply, feeding cues, latching techniques, and tips for successful breastfeeding. Read more on Karitane website",
+      "url": "https://karitane.com.au/baby/breastfeeding/"
+    },
+    {
+      "text": "Breastfeeding challenges – Ngala Many new mothers experience breastfeeding challenges. There are steps you can take to overcome them. Read more on Ngala website",
+      "url": "https://www.ngala.com.au/resources/breastfeeding-challenges/"
+    },
+    {
+      "text": "Breastfeeding tips – Ngala There are many things you can do to support breastfeeding as your baby grows and develops. 3 to 6 months From three to four months of age, babies become more aware... Read more on Ngala website",
+      "url": "https://www.ngala.com.au/resources/breastfeeding-tips/"
+    },
+    {
+      "text": "Breastfeeding – what to expect – Ngala Breastfeeding can be a richly rewarding experience for you and your baby, but it can sometimes be a challenge. Read more on Ngala website",
+      "url": "https://www.ngala.com.au/resources/breastfeeding/"
+    },
+    {
+      "text": "Breastfeeding in Ramadan - Rahma Health Breastfeeding in Ramadan Read more on Rahma Health website",
+      "url": "https://rahma.health/pregnancy-care/breastfeeding-in-ramadan/"
+    },
+    {
+      "text": "Breastfeeding services | NT.GOV.AU Breastfeeding support groups in the NT. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/pregnancy-birthing-and-child-health/breastfeeding-services"
+    },
+    {
+      "text": "Breastfeeding and your diet | Better Health Channel Breastfeeding women need to eat regularly and include a wide variety of healthy foods in their diet. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/breastfeeding-and-your-diet"
+    },
+    {
+      "text": "Breastfeeding - expressing breastmilk | Better Health Channel Expressing breast milk by hand is a cheap and convenient method. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/breastfeeding-expressing-breastmilk"
+    },
+    {
+      "text": "Supporting Breastfeeding Support needs to be offered for the whole journey from pregnancy to new parenthood, not just for the first few days postnatally. Sensitive conversations during pregnancy, skilled help after birth, ongoing guidance and social support are all needed. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/supporting-the-breastfeeding-mother"
+    },
+    {
+      "text": "Breastfeeding After Breast Reduction or Augmentation Surgery People who have undergone breast surgery are naturally concerned about how the procedure might impact their ability to breastfeed. The support and attitude of the maternity team can significantly impact a person’s ability to breastfeed successfully after surgery. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/breastfeeding-after-surgery"
+    },
+    {
+      "text": "Treatment for breast engorgement (overfull, hard, painful breasts) in breastfeeding women | Cochrane Read more on Cochrane Australia website",
+      "url": "https://www.cochrane.org/CD006946/PREG_treatment-breast-engorgement-overfull-hard-painful-breasts-breastfeeding-women"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines and breastfeeding | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Medicines and breastfeeding\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Many medicines are safe to use while breastfeeding.\n\n- Always check with your doctor or pharmacist before taking a new medicine, as some medicines may affect your baby or your milk supply.\n\n- Avoid using medicines and complementary medicines that aren't necessary.\n\n- If you are prescribed medicine, try feeding your baby just before you take a dose.\n\n- Always monitor your baby for medicine side effects such as sleepiness or diarrhoea.\n\n## On this page\n\n- Can I take medicines while breastfeeding?\n\n- Can medicines affect my breastfed baby?\n\n- What medicines can I take while breastfeeding?\n\n- How can I minimise the risk to my baby?\n\n- What medicines are dangerous to take when breastfeeding?\n\n- Can I use complementary medicines while breastfeeding?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Can I take medicines while breastfeeding?\n\nMany medicines are safe to take while breastfeeding — only a very small amount of these medicines passes into your breast milk, and is rarely harmful to your baby.\n\nAlways check with your doctor or pharmacist to see if your medicines are safe to use while breastfeeding, or if you are thinking of making any changes to them. This includes both prescription and over-the-counter medicines.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## Can medicines affect my breastfed baby?\n\nSome medicines can cause your baby to have diarrhoea or make them sleepy or irritable. Other medicines can change your breast milk supply.\n\nThe amount of medicine that enters your breast milk and the effect on your baby depends on:\n\n- the type of medicine\n\n- the dose you take\n\n- when you take it\n\n## What medicines can I take while breastfeeding?\n\nAllergy and hay fever medicines : antihistamines that do not make you sleepy are considered safe while breastfeeding. Nasal sprays and eye drops are safe. Antihistamines that make you sleepy are not recommended because they may make your baby sleepy.\n\nAntibiotics : most antibiotics used to treat bacterial infections are safe, but always follow your doctor's advice. Tetracyclines (such as doxycycline ) may be used short term. Metronidazole can make your breast milk taste bitter.\n\nAntidepressants : most antidepressants are safe while breastfeeding. Talk with your doctor.\n\nAsthma medicines : most preventers and relievers are safe. It's very important that you do not stop your asthma medicines while you are breastfeeding. If you are taking high doses of steroids (such as prednisolone ) or using them for long periods of time, speak with your doctor — it is recommended to wait 4 hours after a dose before breastfeeding.\n\nCold and flu medicine : it's best to use saline nasal sprays and decongestant nasal sprays. Medicines containing pseudoephedrine may reduce milk supply.\n\nCough medicines : Some cough medicines contain codeine . Codeine should not be used while breastfeeding. Ask your pharmacist to suggest a suitable cough syrup.\n\nOral contraceptives (the pill) : the progesterone-only mini pill is best while breastfeeding. The pill (combined oral contraceptive pill) should not be taken.\n\nPain relievers : paracetamol and ibuprofen are safe to take at the recommended dose while breastfeeding. Avoid taking aspirin for pain relief, but your doctor may prescribe it for another health condition.\n\nWorm treatments : most worm treatments are safe to take when breastfeeding.\n\nSore throat medicines : A saltwater gargle or drinking lemon and honey may also ease a sore throat.\n\nAvoid gargles containing povidone-iodine .\n\n### What if I need a vaccination?\n\nMost vaccinations are safe and effective while you are breastfeeding.\n\nYou can continue to breastfeed after you get the flu (influenza) vaccine.\n\nYellow fever vaccination should only be given if needed.\n\nAlways tell your doctor if you are pregnant, plan on becoming pregnant or breastfeeding before receiving a vaccine.\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n## How can I minimise the risk to my baby?\n\nAsk your doctor about ways to reduce the amount of medicine that goes into your breast milk.\n\nIt may be possible to:\n\n- take a lower dose of your medicine\n\n- take it for a shorter time\n\n- take a quicker acting form of medicine\n\nThe amount of medicine in your body is lowest just before you take your next dose. This is a good time to feed your baby.\n\nFor most medicines, there is no need to express and throw away your milk (sometimes known as 'pump and dump').\n\nWhen taking any medicine, watch for signs of possible side effects in your baby. These may include:\n\n- being more sleepy or irritable than usual\n\n- feeding problems\n\n- diarrhoea\n\n- vomiting\n\n- allergic reactions\n\nIf your baby is under 2 months of age, they may have a higher chance of side effects from your medicines. Make sure to watch them carefully.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## What medicines are dangerous to take when breastfeeding?\n\nRarely, you may be advised to stop breastfeeding while you are taking some medicines, in case they harm your baby.\n\nExamples of medicines that are not suitable while you are breastfeeding are:\n\n- some anti-cancer drugs\n\n- lithium for some mental health problems\n\n- injectable medicines used during some scans\n\nIn these cases, you can express and throw away your milk, to keep up your milk supply until it is safe to breastfeed again. Speak to your doctor or pharmacist for specific advice on when it is safe to breastfeed your baby.\n\n## Can I use complementary medicines while breastfeeding?\n\nComplementary medicines , including vitamin and mineral supplements, herbal preparations and natural medicines, may also have risks for your baby.\n\nSome vitamins and minerals are recommended for all people who are breastfeeding. This includes a daily iodine supplement . Supplements such as calcium and vitamin B12 can be taken if you do not have enough in your regular diet.\n\nYou should talk to your doctor or midwife before taking herbal medicine or tea.\n\nLike other medicines, complementary medicines can:\n\n- have side effects\n\n- cause allergic reactions\n\n- interact with your prescription medicines\n\nWith most herbal and traditional medicines, there is not enough research to check their safety when breastfeeding. It's always best to ask your health professional for advice.\n\n## Resources and support\n\nTo check the safety of your medicines you can talk with:\n\n- your doctor or pharmacist\n\n- the Poisons Information Centre — phone the Poison Information Hotline on 13 11 26\n\n- a pharmacist at 1300 MEDICINE — phone 1300 633 424\n\nFor help and advice with breastfeeding you can talk with:\n\n- your midwife or child health nurse\n\n- the Australian Breastfeeding Association Breastfeeding Helpline on 1800 686 268 (1800 mum 2 mum)\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n### Languages other than English\n\nThe Australian Breastfeeding Association has booklets on Breastfeeding Confidence available in many community languages.\n\nThey also have a video on How Breastfeeding Works available in Arabic and Chinese (simplified).\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\nThe Australian Government has a booklet about breastfeeding for Aboriginal and Torres Strait Islander peoples.\n\nThe Queensland Government has a booklet available — Breastfeeding: good for Baby, good for Mum .\n\nThe Australian Breastfeeding Association has a resource page on breastfeeding for First Nations people.\n\n#### Source s :\n\nAustralian Family Physician (Breastfeeding: evidence based guidelines for the use of medicines) , National Health and Medical Research Council (Infant Feeding Guidelines) , Australian Medicines Handbook (Tetracycline) , Australian Medicines Handbook (Paracetamol) , Australian Medicines Handbook (Ibuprofen) , Australian Medicines Handbook (Aspirin (analgesic)) , American family physician (Medication Safety in Breastfeeding) , National Asthma Council (Managing asthma in breastfeeding women) , Australian Immunisation Handbook (Vaccination for women who are planning pregnancy, pregnant or breastfeeding) , Royal Australian and New Zealand College of Obstetricians and Gynaecologists (Vitamin and mineral supplementation and pregnancy) , Australian Medicines Handbook (Metronidazole) , Australian Medicines Handbook (Pseudoephedrine) , Australian Medicines Handbook (Progesterone) , Australian Medicines Handbook (Yellow Fever) , Australian Medicines Handbook (Mebendazole) , Australian Medicines Handbook (Aspirin (antiplatelet)) , Drugs and Lactation Database (Povidone-Iodine) , Journal of Clinical Medicine (Combined Hormonal Contraception during Breastfeeding—A Survey of Physician's Recommendations (Segev L et al)) , Midwifery Preparation for Practice (Protecting, promoting and supporting breastfeeding (Pairman S, Tracey S, Dahlen H, Dixon L)) , Breastfeeding Medicine (Respiratory Drugs During Breastfeeding (Anderson P)) , McGraw Hill (Chapter 32: Cough (Murtagh J)) , Nature (The effectiveness of various gargle formulations and salt water against SARS-CoV-2 (Tiong V et al)) , Australian Prescriber (Drugs affecting milk supply during lactation (McGuire T)) , Breastfeeding Medicine (Adverse Drug Reactions in Breastfed Infants: A Cross-Sectional Study of Lactating Mothers (Ahmadzai H, Tee L, Crowe A)) , Drugs and Lactation Database (Cetirizine) , Australian Medical Association (AMA position statement - complementary medicine) , Journal of Pediatric Pharmacology and Therapeutics (Breastfeeding and the Pharmacist's Role in Maternal Medication Management: Identifying Barriers and the Need for Continuing Education (Byerley E et al)) , FDA (FDA Drug Safety Communication: FDA restricts use of prescription codeine pain and cough medicines and tramadol pain medicines in children; recommends against use in breastfeeding women) , Journal of Pediatric Pharmacology and Therapeutics (Evaluating Medication Use in Pregnancy and Lactation: What Every Pharmacist Should Know (Burkey BW, Holmes AP))\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2025\n\nBack To Top\n\n## Related pages\n\n- Breast engorgement\n\n- Breastfeeding your baby\n\n- Feeding your newborn baby\n\n- Periods while breastfeeding\n\n## Search our site for\n\n- Quality Use of Medicines\n\n- Mastitis\n\n- Babies\n\n- Breast Milk\n\n- Nipple\n\n- Breast Milk Expression\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Medicines and breastfeeding\n\nWhile most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here.\n\nRead more on Pregnancy,Birth & Baby website\n\n### Breastfeeding Newborn Tips | Positions & Feeds | Tresillian\n\nFree newborn breastfeeding tips from Tresillian. Including advice on positioning, latching, feeding times and understanding hunger cues.\n\nRead more on Tresillian website\n\n### Breastfeeding Your Baby | Karitane Support & Advice\n\nGet expert breastfeeding support from Karitane. Learn about milk supply, feeding cues, latching techniques, and tips for successful breastfeeding.\n\nRead more on Karitane website\n\n### Breastfeeding challenges – Ngala\n\nMany new mothers experience breastfeeding challenges. There are steps you can take to overcome them.\n\nRead more on Ngala website\n\n### Breastfeeding tips – Ngala\n\nThere are many things you can do to support breastfeeding as your baby grows and develops. 3 to 6 months From three to four months of age, babies become more aware...\n\n### Breastfeeding – what to expect – Ngala\n\nBreastfeeding can be a richly rewarding experience for you and your baby, but it can sometimes be a challenge.\n\n### Breastfeeding in Ramadan - Rahma Health\n\nBreastfeeding in Ramadan\n\nRead more on Rahma Health website\n\n### Breastfeeding services | NT.GOV.AU\n\nBreastfeeding support groups in the NT.\n\nRead more on NT Health website\n\n### Breastfeeding and your diet | Better Health Channel\n\nBreastfeeding women need to eat regularly and include a wide variety of healthy foods in their diet.\n\nRead more on Better Health Channel website\n\n### Breastfeeding - expressing breastmilk | Better Health Channel\n\nExpressing breast milk by hand is a cheap and convenient method.\n\nShow more\n\n### Supporting Breastfeeding\n\nSupport needs to be offered for the whole journey from pregnancy to new parenthood, not just for the first few days postnatally. Sensitive conversations during pregnancy, skilled help after birth, ongoing guidance and social support are all needed.\n\nRead more on Ausmed Education website\n\n### Breastfeeding After Breast Reduction or Augmentation Surgery\n\nPeople who have undergone breast surgery are naturally concerned about how the procedure might impact their ability to breastfeed. The support and attitude of the maternity team can significantly impact a person’s ability to breastfeed successfully after surgery.\n\n### Treatment for breast engorgement (overfull, hard, painful breasts) in breastfeeding women | Cochrane\n\nRead more on Cochrane Australia website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-and-breastfeeding\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-breastfeeding\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-and-breastfeeding#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-and-breastfeeding#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-breastfeeding\n\n- Can I take medicines while breastfeeding?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#take\n\n- Can medicines affect my breastfed baby?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#affect\n\n- What medicines can I take while breastfeeding?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#which\n\n- How can I minimise the risk to my baby?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#risk\n\n- What medicines are dangerous to take when breastfeeding?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#dangerous\n\n- Can I use complementary medicines while breastfeeding?: https://www.healthdirect.gov.au/medicines-and-breastfeeding#complementary\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-and-breastfeeding#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-and-breastfeeding#searchGeneralResults\n\n- breastfeeding: https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- diarrhoea: https://www.healthdirect.gov.au/diarrhoea-in-children\n\n- antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- antibiotics: https://www.healthdirect.gov.au/antibiotics\n\n- bacterial infections: https://www.healthdirect.gov.au/bacterial-infections\n\n- doxycycline: https://www.healthdirect.gov.au/doxycycline\n\n- Metronidazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21161/metronidazole\n\n- antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- preventers and relievers: https://www.healthdirect.gov.au/medicines-for-asthma\n\n- prednisolone: https://www.healthdirect.gov.au/prednisolone\n\n- pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21382/pseudoephedrine\n\n- codeine: https://www.healthdirect.gov.au/codeine\n\n- progesterone-only mini pill: https://www.healthdirect.gov.au/mini-pill-progestogen-only-pill\n\n- The pill (combined oral contraceptive pill): https://www.healthdirect.gov.au/the-pill-combined-oral-contraceptive-pill\n\n- paracetamol: https://www.healthdirect.gov.au/paracetamol\n\n- ibuprofen: https://www.healthdirect.gov.au/ibuprofen\n\n- aspirin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin\n\n- worm treatments: https://www.healthdirect.gov.au/worms-in-humans\n\n- povidone-iodine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D011206/povidone-iodine\n\n- vaccinations: https://www.healthdirect.gov.au/immunisation-and-vaccinations\n\n- flu (influenza) vaccine.: https://www.healthdirect.gov.au/flu-vaccine-faqs\n\n- Yellow fever: https://www.healthdirect.gov.au/yellow-fever\n\n- vomiting: https://www.healthdirect.gov.au/vomiting-in-children\n\n- allergic reactions: https://www.healthdirect.gov.au/allergies-and-hypersensitivities\n\n- lithium: https://www.healthdirect.gov.au/lithium\n\n- Complementary medicines: https://www.pregnancybirthbaby.org.au/complementary-therapy-during-pregnancy\n\n- vitamin and mineral: https://www.healthdirect.gov.au/vitamins-and-minerals\n\n- daily iodine supplement: https://www.healthdirect.gov.au/iodine\n\n- calcium: https://www.healthdirect.gov.au/calcium\n\n- vitamin B12: https://www.healthdirect.gov.au/vitamin-b-and-your-health\n\n- Poisons Information Centre: https://www.poisonsinfo.nsw.gov.au/\n\n- 1300 MEDICINE: https://1300medicine.com.au/\n\n- midwife: https://www.pregnancybirthbaby.org.au/the-role-of-your-midwife\n\n- child health nurse: https://www.pregnancybirthbaby.org.au/the-role-of-a-child-health-nurse\n\n- Australian Breastfeeding Association Breastfeeding Helpline: https://www.breastfeeding.asn.au/breastfeeding-helpline\n\n- Breastfeeding Confidence: https://www.breastfeeding.asn.au/resources/breastfeeding-confidence-booklet\n\n- How Breastfeeding Works: https://www.breastfeeding.asn.au/resources/breastfeeding-basics-video\n\n- booklet about breastfeeding: https://www.health.gov.au/sites/default/files/documents/2021/05/breastfeeding-strong-mums-strong-babies.pdf\n\n- Breastfeeding: good for Baby, good for Mum: https://www.health.qld.gov.au/__data/assets/pdf_file/0020/161039/good_for_baby_mum.pdf\n\n- resource page on breastfeeding: https://www.breastfeeding.asn.au/resources/breastfeeding-resources-aboriginal-and-torres-strait-islander-families\n\n- (Breastfeeding: evidence based guidelines for the use of medicines): https://www.racgp.org.au/getattachment/28bd8ca1-0e31-4428-ab55-ca5ad8095325/Breastfeeding.aspx\n\n- (Infant Feeding Guidelines): https://www.eatforhealth.gov.au/sites/default/files/files/the_guidelines/n56_infant_feeding_guidelines.pdf\n\n- (Tetracycline): https://amhonline.amh.net.au/chapters/anti-infectives/antibacterials/tetracyclines/tetracycline\n\n- (Paracetamol): https://amhonline.amh.net.au/chapters/analgesics/drugs-pain-relief/non-opioid-analgesics/paracetamol?menu=hints\n\n- (Ibuprofen): https://amhonline.amh.net.au/chapters/immunomodulators-anti-inflammatories/nsaids/ibuprofen\n\n- (Aspirin (analgesic)): https://amhonline.amh.net.au/chapters/analgesics/drugs-pain-relief/non-opioid-analgesics/aspirin-analgesic#aspirin-analgesic-precautions\n\n- (Medication Safety in Breastfeeding): https://www.aafp.org/pubs/afp/issues/2022/1200/medication-safety-breastfeeding.html\n\n- (Managing asthma in breastfeeding women): https://www.asthmahandbook.org.au/populations/pregnant-women/breastfeeding\n\n- (Vaccination for women who are planning pregnancy, pregnant or breastfeeding): https://immunisationhandbook.health.gov.au/contents/vaccination-for-special-risk-groups/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding#women-who-are-breastfeeding\n\n- (Vitamin and mineral supplementation and pregnancy): https://ranzcog.edu.au/wp-content/uploads/Vitamin-Mineral-Supplementation-Pregnancy.pdf\n\n- (Metronidazole): https://amhonline.amh.net.au/chapters/anti-infectives/antibacterials/other-antibacterials/metronidazole\n\n- (Pseudoephedrine): https://amhonline.amh.net.au/chapters/ear-nose-throat-drugs/drugs-rhinitis-sinusitis/oral-decongestants/pseudoephedrine\n\n- (Progesterone): https://amhonline.amh.net.au/chapters/obstetric-gynaecological-drugs/drugs-contraception/progestogens/progesterone\n\n- (Yellow Fever): https://amhonline.amh.net.au/chapters/vaccines-chap/vaccines/yellow-fever-vaccine\n\n- (Mebendazole): https://amhonline-amh-net-au.eu1.proxy.openathens.net/chapters/anti-infectives/anthelmintics/benzimidazoles/mebendazole\n\n- (Aspirin (antiplatelet)): https://amhonline.amh.net.au/chapters/blood-electrolytes/antiplatelet-drugs/other-antiplatelet-drugs/aspirin-antiplatelet\n\n- (Povidone-Iodine): https://www.ncbi.nlm.nih.gov/books/NBK501354/\n\n- (Combined Hormonal Contraception during Breastfeeding—A Survey of Physician's Recommendations (Segev L et al)): https://pmc.ncbi.nlm.nih.gov/articles/PMC10671995/\n\n- (Protecting, promoting and supporting breastfeeding (Pairman S, Tracey S, Dahlen H, Dixon L)): https://bookshelf.vitalsource.com/reader/books/9780729597869/epubcfi/6/124[%3Bvnd.vst.idref%3DCHP0032_757-794_B9780729543811000411_0]!/4/2[c0032]/18/22/6/6[p0745]/5:121[stf%2Ceed]\n\n- (Respiratory Drugs During Breastfeeding (Anderson P)): https://www.liebertpub.com/doi/10.1089/bfm.2019.0194?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed\n\n- (Chapter 32: Cough (Murtagh J)): https://murtagh.mhmedical.com/content.aspx?sectionid=262295151&bookid=3133#262295269\n\n- (The effectiveness of various gargle formulations and salt water against SARS-CoV-2 (Tiong V et al)): https://pmc.ncbi.nlm.nih.gov/articles/PMC8519917/\n\n- (Drugs affecting milk supply during lactation (McGuire T)): https://pmc.ncbi.nlm.nih.gov/articles/PMC5828930/\n\n- (Adverse Drug Reactions in Breastfed Infants: A Cross-Sectional Study of Lactating Mothers (Ahmadzai H, Tee L, Crowe A)): https://www.liebertpub.com/doi/pdf/10.1089/bfm.2022.0143?casa_token=QoaYar2ojE8AAAAA:TAD7uXNajkB9KY0-wxFxkqsKnKwcjrVTYb8GHzs_195CAVnomxDdbL7F7beRnoMziNnASrb89Zfwgg\n\n- (Cetirizine): https://www.ncbi.nlm.nih.gov/books/NBK501509/\n\n- (AMA position statement - complementary medicine): https://www.ama.com.au/position-statement/ama-position-statement-complementary-medicine-2018\n\n- (Breastfeeding and the Pharmacist's Role in Maternal Medication Management: Identifying Barriers and the Need for Continuing Education (Byerley E et al)): https://pmc.ncbi.nlm.nih.gov/articles/PMC8837210/\n\n- (FDA Drug Safety Communication: FDA restricts use of prescription codeine pain and cough medicines and tramadol pain medicines in children; recommends against use in breastfeeding women): https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-fda-restricts-use-prescription-codeine-pain-and-cough-medicines-and\n\n- (Evaluating Medication Use in Pregnancy and Lactation: What Every Pharmacist Should Know (Burkey BW, Holmes AP)): https://pmc.ncbi.nlm.nih.gov/articles/PMC3775560/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-and-breastfeeding#backToTop\n\n- Breast engorgement: https://www.healthdirect.gov.au/breast-engorgement\n\n- Breastfeeding your baby: https://www.healthdirect.gov.au/breastfeeding-your-baby\n\n- Feeding your newborn baby: https://www.healthdirect.gov.au/feeding-your-baby-what-are-the-options\n\n- Periods while breastfeeding: https://www.healthdirect.gov.au/periods-while-breastfeeding\n\n- Quality Use of Medicines: https://www.healthdirect.gov.au/search-results/Quality Use of Medicines\n\n- Mastitis: https://www.healthdirect.gov.au/search-results/Mastitis\n\n- Babies: https://www.healthdirect.gov.au/search-results/Babies\n\n- Breast Milk: https://www.healthdirect.gov.au/search-results/Breast Milk\n\n- Nipple: https://www.healthdirect.gov.au/search-results/Nipple\n\n- Breast Milk Expression: https://www.healthdirect.gov.au/search-results/Breast Milk Expression\n\n- Medicines and breastfeeding While most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/medicines-and-breastfeeding\n\n- Breastfeeding Newborn Tips | Positions & Feeds | Tresillian Free newborn breastfeeding tips from Tresillian. Including advice on positioning, latching, feeding times and understanding hunger cues. Read more on Tresillian website: https://www.tresillian.org.au/newborn/breastfeeding/\n\n- Breastfeeding Your Baby | Karitane Support & Advice Get expert breastfeeding support from Karitane. Learn about milk supply, feeding cues, latching techniques, and tips for successful breastfeeding. Read more on Karitane website: https://karitane.com.au/baby/breastfeeding/\n\n- Breastfeeding challenges – Ngala Many new mothers experience breastfeeding challenges. There are steps you can take to overcome them. Read more on Ngala website: https://www.ngala.com.au/resources/breastfeeding-challenges/\n\n- Breastfeeding tips – Ngala There are many things you can do to support breastfeeding as your baby grows and develops. 3 to 6 months From three to four months of age, babies become more aware... Read more on Ngala website: https://www.ngala.com.au/resources/breastfeeding-tips/\n\n- Breastfeeding – what to expect – Ngala Breastfeeding can be a richly rewarding experience for you and your baby, but it can sometimes be a challenge. Read more on Ngala website: https://www.ngala.com.au/resources/breastfeeding/\n\n- Breastfeeding in Ramadan - Rahma Health Breastfeeding in Ramadan Read more on Rahma Health website: https://rahma.health/pregnancy-care/breastfeeding-in-ramadan/\n\n- Breastfeeding services | NT.GOV.AU Breastfeeding support groups in the NT. Read more on NT Health website: https://nt.gov.au/wellbeing/pregnancy-birthing-and-child-health/breastfeeding-services\n\n- Breastfeeding and your diet | Better Health Channel Breastfeeding women need to eat regularly and include a wide variety of healthy foods in their diet. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/healthyliving/breastfeeding-and-your-diet\n\n- Breastfeeding - expressing breastmilk | Better Health Channel Expressing breast milk by hand is a cheap and convenient method. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/healthyliving/breastfeeding-expressing-breastmilk\n\n- Supporting Breastfeeding Support needs to be offered for the whole journey from pregnancy to new parenthood, not just for the first few days postnatally. Sensitive conversations during pregnancy, skilled help after birth, ongoing guidance and social support are all needed. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/supporting-the-breastfeeding-mother\n\n- Breastfeeding After Breast Reduction or Augmentation Surgery People who have undergone breast surgery are naturally concerned about how the procedure might impact their ability to breastfeed. The support and attitude of the maternity team can significantly impact a person’s ability to breastfeed successfully after surgery. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/breastfeeding-after-surgery\n\n- Treatment for breast engorgement (overfull, hard, painful breasts) in breastfeeding women | Cochrane Read more on Cochrane Australia website: https://www.cochrane.org/CD006946/PREG_treatment-breast-engorgement-overfull-hard-painful-breasts-breastfeeding-women\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -1,0 +1,635 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-safety-for-older-people",
+  "title": "Medicines safety for older people | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 27506,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Why am I more likely to have problems with my medicines as I get older?",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#why"
+    },
+    {
+      "text": "Side effects and risk of falls",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#falls"
+    },
+    {
+      "text": "How can I use my medicines safely?",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#how"
+    },
+    {
+      "text": "How can I organise my medicines?",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#organise"
+    },
+    {
+      "text": "Advice for carers",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#advice"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#searchGeneralResults"
+    },
+    {
+      "text": "side effects",
+      "url": "https://www.healthdirect.gov.au/medicine-and-side-effects"
+    },
+    {
+      "text": "arthritis",
+      "url": "https://www.healthdirect.gov.au/arthritis"
+    },
+    {
+      "text": "memory loss",
+      "url": "https://www.healthdirect.gov.au/cognitive-impairment"
+    },
+    {
+      "text": "fall",
+      "url": "https://www.healthdirect.gov.au/falls"
+    },
+    {
+      "text": "constipation",
+      "url": "https://www.healthdirect.gov.au/constipation"
+    },
+    {
+      "text": "confusion",
+      "url": "https://www.healthdirect.gov.au/confusion"
+    },
+    {
+      "text": "dizzy",
+      "url": "https://www.healthdirect.gov.au/dizziness"
+    },
+    {
+      "text": "antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "antipsychotic",
+      "url": "https://www.healthdirect.gov.au/antipsychotic-medicines"
+    },
+    {
+      "text": "antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "Parkinson's disease",
+      "url": "https://www.healthdirect.gov.au/parkinsons-disease"
+    },
+    {
+      "text": "delirium",
+      "url": "https://www.healthdirect.gov.au/delirium"
+    },
+    {
+      "text": "sleeping pills",
+      "url": "https://www.healthdirect.gov.au/safe-use-of-sleeping-pills"
+    },
+    {
+      "text": "vitamins",
+      "url": "https://www.healthdirect.gov.au/vitamins-and-minerals"
+    },
+    {
+      "text": "complementary medicines",
+      "url": "https://www.healthdirect.gov.au/complementary-therapy"
+    },
+    {
+      "text": "blood tests",
+      "url": "https://www.healthdirect.gov.au/blood-testing"
+    },
+    {
+      "text": "talk to your doctor",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-your-doctor"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Home Medicines Review",
+      "url": "https://www.healthdirect.gov.au/home-medicines-review"
+    },
+    {
+      "text": "Dose Administration Aid",
+      "url": "https://www.dva.gov.au/get-support/providers/gps-other-primary-care-providers/medicines/help-clients-access-our-medicine-organiser-service"
+    },
+    {
+      "text": "Consumer Medicine Information (CMI)",
+      "url": "https://www.healthdirect.gov.au/how-to-read-cmis"
+    },
+    {
+      "text": "1300 MEDICINE",
+      "url": "https://1300medicine.com.au/"
+    },
+    {
+      "text": "medicine lists",
+      "url": "https://www.nps.org.au/consumers/keeping-a-medicines-list"
+    },
+    {
+      "text": "factsheets",
+      "url": "https://www.nps.org.au/professionals/anticholinergic-burden/consumers/resources-in-community-languages#how-a-medicines-review-in-your-home-can-help-you-get-the-most-from-your-medicines"
+    },
+    {
+      "text": "(Medicines use in older people)",
+      "url": "https://www.safetyandquality.gov.au/sites/default/files/2021-04/fourth_atlas_2021_-_chapter_6._medicines_use_in_older_people_0.pdf"
+    },
+    {
+      "text": "(Assessment of falls in the elderly)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/880/pdf/880/Assessment of falls in the elderly.pdf"
+    },
+    {
+      "text": "(Frailty)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/3000323/pdf/3000323/Frailty.pdf"
+    },
+    {
+      "text": "(5 questions to ask your doctor or other healthcare provider before you get any test, treatment, or procedure)",
+      "url": "https://www.choosingwisely.org.au/resources/consumers-and-carers/5questions"
+    },
+    {
+      "text": "(What is a medicines review?)",
+      "url": "https://www.choosingwisely.org.au/resources/consumers-and-carers/what-is-a-medicines-review"
+    },
+    {
+      "text": "(Dose Administration Aid Service in Community Pharmacies: Characterization and Impact Assessment)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8628955/"
+    },
+    {
+      "text": "(How a medicines review in your home can help you get the most from your medicines)",
+      "url": "https://www.nps.org.au/assets/NPS/pdf/NPSMW2390_Anticholinergics_HMR_Factsheet.pdf"
+    },
+    {
+      "text": "(Dose Administration Aids)",
+      "url": "https://www.ppaonline.com.au/programs/medication-adherence-programs-2/dose-administration-aids"
+    },
+    {
+      "text": "(Medication and ageing)",
+      "url": "https://www.health.vic.gov.au/older-people-in-hospital/medication-0"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people#backToTop"
+    },
+    {
+      "text": "Medicines and alcohol",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "Medicines and driving",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Medicines during pregnancy",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Medicines for babies and children",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Out-of-date medicines",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Questions to ask before taking a medicine",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reporting a problem with a medicine",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Prescriptions",
+      "url": "https://www.healthdirect.gov.au/search-results/Prescriptions"
+    },
+    {
+      "text": "Polypharmacy",
+      "url": "https://www.healthdirect.gov.au/search-results/Polypharmacy"
+    },
+    {
+      "text": "Medicine regulation",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine regulation"
+    },
+    {
+      "text": "Medicine scheduling",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine scheduling"
+    },
+    {
+      "text": "Managing your medicines in an emergency | Therapeutic Goods Administration (TGA) In a bushfire or other natural disaster you might need emergency access to an important medicine. Here are some tips on how to plan ahead. Read more on TGA website",
+      "url": "https://www.tga.gov.au/news/blog/managing-your-medicines-emergency"
+    },
+    {
+      "text": "Potentially inappropriate medicines for older people: consensus-based lists - Australian Prescriber Consensus-based lists of potentially inappropriate medicines outline medicines for which potential risks may outweigh the clinical benefits. Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/potentially-inappropriate-medicines-for-older-people-consensus-based-lists.html"
+    },
+    {
+      "text": "RACGP - Polypharmacy Polypharmacy is usually defined as the use of five or more drugs, including prescription, over-the-counter and complementary medicines Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/polypharmacy"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines safety for older people | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Medicines safety for older people\n\n9-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Older people are more likely to have medicine-related problems.\n\n- Polypharmacy is when you take 5 or more medicines.\n\n- It is helpful to keep a current list of your medicines to share with your healthcare providers.\n\n- Talk to your doctor or pharmacist if you have questions about your medicines.\n\n## On this page\n\n- Why am I more likely to have problems with my medicines as I get older?\n\n- Side effects and risk of falls\n\n- How can I use my medicines safely?\n\n- How can I organise my medicines?\n\n- Advice for carers\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Why am I more likely to have problems with my medicines as I get older?\n\nYour chance of problems with medicines increases as you age for two main reasons:\n\n- your body changes with age\n\n- you are more likely to be taking multiple medicines as you get older\n\n### Changes in your body\n\nYour body changes in several ways as you age. For example, the amount of water, fat and muscle you have changes.\n\nBecause of these changes, you may:\n\n- become more sensitive to your medicines\n\n- not be able to process your medicines properly\n\n- have difficulty getting rid of medicines from your body\n\nYou may also become more likely to get side effects and have interactions between your medicines.\n\nSome health conditions that affect older people can make it more difficult to take your medicines. These include:\n\n- poor eyesight which may make it hard to read the instructions on your medicine\n\n- arthritis , which may make it hard for you to open your medicine packs\n\n- memory loss , which may make it hard for you to remember to take your medicine.\n\n- conditions that make it harder to swallow your medicines.\n\n### Polypharmacy (multiple medicines)\n\nIf you have a few chronic (ongoing) conditions you might be prescribed multiple medicines. When you take 5 or more medicines this is called polypharmacy.\n\nIf you take 5 or more medicines daily, you are:\n\n- more likely to be taking medicines that can interact with each other\n\n- more likely to take two medicines with overlapping or additive effects\n\n- more likely to make a mistake with your medicines\n\n## Side effects and risk of falls\n\nMedicines can have side effects that might make you more likely to fall . Anticholinergic side effects are due to the unwanted effects of your medicine on the balance of chemicals in your body.\n\nSymptoms you may notice include:\n\n- changes to your balance and coordination\n\n- dry eyes, mouth and skin\n\n- constipation\n\n- forgetfulness or confusion\n\n- feeling unsteady or dizzy\n\nThese medicines include:\n\n- antidepressants\n\n- antipsychotic medicines\n\n- anticonvulsants\n\n- antihistamines\n\n- medicines used for Parkinson's disease\n\nSome medicines can increase your chance of delirium , which is a sudden change in your thinking or behaviour.\n\n- sleeping pills\n\n- medicines for pain relief\n\n- antidepressants or mood stabilisers\n\n- anticholinergics (such as some antihistamines and medicines used for bladder control)\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n## How can I use my medicines safely?\n\nThere are some things you can do to make sure that you use your medicines safely. These are:\n\n- keep a current medicines list including vitamins and other complementary medicines\n\n- ask your doctor questions about your medicines\n\n- ask for a medicine review\n\n### Keep a medicines list\n\nYou can use a medicines list to keep track of:\n\n- what each medicine (prescription and non-prescription) is for\n\n- the dose (how much) of each medicine you take\n\n- when to take each medicine\n\n- how to take each medicine, for example some medicines you need to take with food\n\nYou can keep a medicine list by:\n\n- writing down the names and amounts of each medicine you take on a piece of paper\n\n- downloading and using a medicines list app on your smart phone\n\n- asking your doctor or pharmacist for a medicine list at your next visit\n\nMedicine lists help to make sure that everyone involved in your healthcare knows what you are taking.\n\n### Ask your doctor questions about your medicines\n\nWhen getting a new medicine, you should ask your doctor or pharmacist these questions.\n\n- Why do I need to take this medicine?\n\n- Are there side effects?\n\n- What should I do if I notice any side effects?\n\n- What should I do if I don't feel like my medicine is working?\n\n- Are there any things I need to do when taking this medicine, such as not driving?\n\n- Does this medicine affect my other medicines? What about non-prescription medicines?\n\n- Do I need to have blood tests to check how well the medicine is working?\n\n- Is there a way to lower the number of medicines I'm taking?\n\nYour doctor will consider your age when deciding if a medicine is right for you.\n\nYou can also talk to your doctor about other concerns you may have with your medicines. They may:\n\n- change your dose\n\n- change your medicine\n\nNEVER stop taking your medicine without talking to your doctor.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n### Ask for a medicine review\n\nIf you take multiple medicines, ask your doctor or pharmacist for a regular medicine review.\n\nIdeally, your medicines should be checked every 6 to 12 months. But you can ask for a medicine review at any time. You may want to ask for a review when you:\n\n- start a new medicine\n\n- stop a medicine\n\nHaving an up-to-date medicine list helps to make sure all your medicines are reviewed.\n\nYou may be able to have a Home Medicines Review (HMR). This is where a pharmacist visits you in your home. The review gives you the opportunity to ask the pharmacist about your medicines and how to manage them well.\n\nYour doctor will use the results of your review to create a medication management plan with you. You will need a referral from a doctor to have a Home Medicines Review. This service is free of charge.\n\n## How can I organise my medicines?\n\nYou can try using a weekly dosing aid. This is a container that you can fill with your tablets each week.\n\nIf you're having trouble remembering which medicines to take when, talk to your pharmacist. They might be able to make you a pharmacy pack (also called a blister pack or a Webster pack). These help you take the right medicines at the right time.\n\nYour pharmacist can also help answer any questions that you may have about your medicines.\n\n### Veterans\n\nIf you are a veteran you may be eligible for the Dose Administration Aid service. This service provides you with a medicine organiser pack. The pack will make it easier to take the right dose of medicine at the right time.\n\n## Advice for carers\n\nIf you care for an older person you may notice they have problems such as:\n\n- forgetfulness,\n\n- confusion or they are\n\n- feeling dizzy or unsteady.\n\nThese could be because of side effects from their medicines.\n\nTalk to a doctor or pharmacist to see if any medicines might be causing problems.\n\nAlways talk to a doctor or pharmacist before stopping or changing any medicines.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## Resources and support\n\n- You can find out more about your medicines by reading the Consumer Medicine Information (CMI) .\n\n- Call 1300 MEDICINE on 1300 633 424 to speak with a pharmacist who can answer your questions about medicines.\n\n- If you are a veteran, find out if you are eligible for the Dose Administration Aid service.\n\n- NPS Medicinewise has information about medicine lists to help you keep track of the medicines you are taking.\n\n### Languages other than English\n\n- NPS Medicinewise has factsheets with questions to ask your doctor about side effects from your medicines. These factsheets are available in languages other than English.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nAustralian Commission on Safety and Quality in Health Care (The Fourth Australian Atlas of Healthcare Variation) (Medicines use in older people) , BMJ Best Practice (Assessment of falls in the elderly) , BMJ Best Practice (Frailty) , Choosing Wisely Australia (5 questions to ask your doctor or other healthcare provider before you get any test, treatment, or procedure) , Choosing Wisely Australia (What is a medicines review?) , Pharmacy (Basel). 2021 Nov - Vicente A, et al (Dose Administration Aid Service in Community Pharmacies: Characterization and Impact Assessment) , NPS MedicineWise (How a medicines review in your home can help you get the most from your medicines) , Pharmacy Programs Administrator (Dose Administration Aids) , Victoria Department of Health (Medication and ageing)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: December 2024\n\nBack To Top\n\n## Related pages\n\n- Medicines and alcohol\n\n- Medicines and driving\n\n- Medicines during pregnancy\n\n- Medicines for babies and children\n\n- Out-of-date medicines\n\n- Questions to ask before taking a medicine\n\n- Reporting a problem with a medicine\n\n## Search our site for\n\n- Prescriptions\n\n- Polypharmacy\n\n- Medicine regulation\n\n- Medicine scheduling\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Managing your medicines in an emergency | Therapeutic Goods Administration (TGA)\n\nIn a bushfire or other natural disaster you might need emergency access to an important medicine. Here are some tips on how to plan ahead.\n\nRead more on TGA website\n\nShow more\n\n### Potentially inappropriate medicines for older people: consensus-based lists - Australian Prescriber\n\nConsensus-based lists of potentially inappropriate medicines outline medicines for which potential risks may outweigh the clinical benefits.\n\nRead more on Australian Prescriber website\n\n### RACGP - Polypharmacy\n\nPolypharmacy is usually defined as the use of five or more drugs, including prescription, over-the-counter and complementary medicines\n\nRead more on RACGP website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-safety-for-older-people#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-safety-for-older-people#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Why am I more likely to have problems with my medicines as I get older?: https://www.healthdirect.gov.au/medicines-safety-for-older-people#why\n\n- Side effects and risk of falls: https://www.healthdirect.gov.au/medicines-safety-for-older-people#falls\n\n- How can I use my medicines safely?: https://www.healthdirect.gov.au/medicines-safety-for-older-people#how\n\n- How can I organise my medicines?: https://www.healthdirect.gov.au/medicines-safety-for-older-people#organise\n\n- Advice for carers: https://www.healthdirect.gov.au/medicines-safety-for-older-people#advice\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-safety-for-older-people#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-safety-for-older-people#searchGeneralResults\n\n- side effects: https://www.healthdirect.gov.au/medicine-and-side-effects\n\n- arthritis: https://www.healthdirect.gov.au/arthritis\n\n- memory loss: https://www.healthdirect.gov.au/cognitive-impairment\n\n- fall: https://www.healthdirect.gov.au/falls\n\n- constipation: https://www.healthdirect.gov.au/constipation\n\n- confusion: https://www.healthdirect.gov.au/confusion\n\n- dizzy: https://www.healthdirect.gov.au/dizziness\n\n- antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- antipsychotic: https://www.healthdirect.gov.au/antipsychotic-medicines\n\n- antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- Parkinson's disease: https://www.healthdirect.gov.au/parkinsons-disease\n\n- delirium: https://www.healthdirect.gov.au/delirium\n\n- sleeping pills: https://www.healthdirect.gov.au/safe-use-of-sleeping-pills\n\n- vitamins: https://www.healthdirect.gov.au/vitamins-and-minerals\n\n- complementary medicines: https://www.healthdirect.gov.au/complementary-therapy\n\n- blood tests: https://www.healthdirect.gov.au/blood-testing\n\n- talk to your doctor: https://www.healthdirect.gov.au/questions-to-ask-your-doctor\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- Home Medicines Review: https://www.healthdirect.gov.au/home-medicines-review\n\n- Dose Administration Aid: https://www.dva.gov.au/get-support/providers/gps-other-primary-care-providers/medicines/help-clients-access-our-medicine-organiser-service\n\n- Consumer Medicine Information (CMI): https://www.healthdirect.gov.au/how-to-read-cmis\n\n- 1300 MEDICINE: https://1300medicine.com.au/\n\n- medicine lists: https://www.nps.org.au/consumers/keeping-a-medicines-list\n\n- factsheets: https://www.nps.org.au/professionals/anticholinergic-burden/consumers/resources-in-community-languages#how-a-medicines-review-in-your-home-can-help-you-get-the-most-from-your-medicines\n\n- (Medicines use in older people): https://www.safetyandquality.gov.au/sites/default/files/2021-04/fourth_atlas_2021_-_chapter_6._medicines_use_in_older_people_0.pdf\n\n- (Assessment of falls in the elderly): https://bestpractice.bmj.com/topics/en-gb/880/pdf/880/Assessment of falls in the elderly.pdf\n\n- (Frailty): https://bestpractice.bmj.com/topics/en-gb/3000323/pdf/3000323/Frailty.pdf\n\n- (5 questions to ask your doctor or other healthcare provider before you get any test, treatment, or procedure): https://www.choosingwisely.org.au/resources/consumers-and-carers/5questions\n\n- (What is a medicines review?): https://www.choosingwisely.org.au/resources/consumers-and-carers/what-is-a-medicines-review\n\n- (Dose Administration Aid Service in Community Pharmacies: Characterization and Impact Assessment): https://pmc.ncbi.nlm.nih.gov/articles/PMC8628955/\n\n- (How a medicines review in your home can help you get the most from your medicines): https://www.nps.org.au/assets/NPS/pdf/NPSMW2390_Anticholinergics_HMR_Factsheet.pdf\n\n- (Dose Administration Aids): https://www.ppaonline.com.au/programs/medication-adherence-programs-2/dose-administration-aids\n\n- (Medication and ageing): https://www.health.vic.gov.au/older-people-in-hospital/medication-0\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-safety-for-older-people#backToTop\n\n- Medicines and alcohol: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- Medicines and driving: https://www.healthdirect.gov.au/medicines-and-driving\n\n- Medicines during pregnancy: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Medicines for babies and children: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Out-of-date medicines: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Questions to ask before taking a medicine: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reporting a problem with a medicine: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Prescriptions: https://www.healthdirect.gov.au/search-results/Prescriptions\n\n- Polypharmacy: https://www.healthdirect.gov.au/search-results/Polypharmacy\n\n- Medicine regulation: https://www.healthdirect.gov.au/search-results/Medicine regulation\n\n- Medicine scheduling: https://www.healthdirect.gov.au/search-results/Medicine scheduling\n\n- Managing your medicines in an emergency | Therapeutic Goods Administration (TGA) In a bushfire or other natural disaster you might need emergency access to an important medicine. Here are some tips on how to plan ahead. Read more on TGA website: https://www.tga.gov.au/news/blog/managing-your-medicines-emergency\n\n- Potentially inappropriate medicines for older people: consensus-based lists - Australian Prescriber Consensus-based lists of potentially inappropriate medicines outline medicines for which potential risks may outweigh the clinical benefits. Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/potentially-inappropriate-medicines-for-older-people-consensus-based-lists.html\n\n- RACGP - Polypharmacy Polypharmacy is usually defined as the use of five or more drugs, including prescription, over-the-counter and complementary medicines Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/polypharmacy\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

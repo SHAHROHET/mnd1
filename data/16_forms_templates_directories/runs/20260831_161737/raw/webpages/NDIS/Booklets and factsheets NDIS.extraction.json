@@ -1,0 +1,799 @@
+{
+  "source_id": "ndis:booklets-and-factsheets",
+  "title": "Booklets and factsheets | NDIS",
+  "publisher": "NDIS",
+  "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets",
+  "retrieved_at": "2026-08-31",
+  "topic": "Forms Templates And Directories",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 27474,
+  "crawl_depth": 0,
+  "seed_url": "https://www.ndis.gov.au/publications/booklets-and-factsheets",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#main-content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#block-mainnavigation"
+    },
+    {
+      "text": "new NDIS legislation",
+      "url": "https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "Participant portal (External website)",
+      "url": "https://myndisportal.ndis.gov.au/services/auth/sso/CIAM"
+    },
+    {
+      "text": "Provider portals (External website)",
+      "url": "https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/"
+    },
+    {
+      "text": "Understanding the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis"
+    },
+    {
+      "text": "About the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis"
+    },
+    {
+      "text": "Where to begin",
+      "url": "https://www.ndis.gov.au/understanding-ndis/where-begin"
+    },
+    {
+      "text": "People that help you",
+      "url": "https://www.ndis.gov.au/understanding-ndis/people-help-you"
+    },
+    {
+      "text": "Applying",
+      "url": "https://www.ndis.gov.au/applying"
+    },
+    {
+      "text": "Eligibility requirements",
+      "url": "https://www.ndis.gov.au/applying/eligibility-requirements"
+    },
+    {
+      "text": "Gathering evidence",
+      "url": "https://www.ndis.gov.au/applying/gathering-evidence"
+    },
+    {
+      "text": "Application process",
+      "url": "https://www.ndis.gov.au/applying/application-process"
+    },
+    {
+      "text": "Types of assessments",
+      "url": "https://www.ndis.gov.au/applying/types-assessments"
+    },
+    {
+      "text": "Eligibility reassessments",
+      "url": "https://www.ndis.gov.au/applying/eligibility-reassessments"
+    },
+    {
+      "text": "For children",
+      "url": "https://www.ndis.gov.au/applying/children"
+    },
+    {
+      "text": "For participants",
+      "url": "https://www.ndis.gov.au/participants"
+    },
+    {
+      "text": "Creating a plan",
+      "url": "https://www.ndis.gov.au/participants/creating-plan"
+    },
+    {
+      "text": "Working with providers",
+      "url": "https://www.ndis.gov.au/participants/working-providers"
+    },
+    {
+      "text": "Using your funding",
+      "url": "https://www.ndis.gov.au/participants/using-your-funding"
+    },
+    {
+      "text": "Changing your plan",
+      "url": "https://www.ndis.gov.au/participants/changing-your-plan"
+    },
+    {
+      "text": "Home and living",
+      "url": "https://www.ndis.gov.au/participants/home-and-living"
+    },
+    {
+      "text": "Assistive technology",
+      "url": "https://www.ndis.gov.au/participants/assistive-technology"
+    },
+    {
+      "text": "Life transitions",
+      "url": "https://www.ndis.gov.au/participants/life-transitions"
+    },
+    {
+      "text": "For providers",
+      "url": "https://www.ndis.gov.au/providers"
+    },
+    {
+      "text": "Pricing and payments",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments"
+    },
+    {
+      "text": "Working as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider"
+    },
+    {
+      "text": "Working with participants",
+      "url": "https://www.ndis.gov.au/providers/working-participants"
+    },
+    {
+      "text": "Home and living providers",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers"
+    },
+    {
+      "text": "News and events",
+      "url": "https://www.ndis.gov.au/news"
+    },
+    {
+      "text": "Latest events",
+      "url": "https://www.ndis.gov.au/news/events"
+    },
+    {
+      "text": "Latest news",
+      "url": "https://www.ndis.gov.au/news/latest"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.ndis.gov.au/news/media-releases"
+    },
+    {
+      "text": "Stories and videos",
+      "url": "https://www.ndis.gov.au/news/stories"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.ndis.gov.au/news/media"
+    },
+    {
+      "text": "Engage",
+      "url": "https://www.ndis.gov.au/engage"
+    },
+    {
+      "text": "About",
+      "url": "https://www.ndis.gov.au/about-us"
+    },
+    {
+      "text": "About the NDIA",
+      "url": "https://www.ndis.gov.au/about-us/about-ndia"
+    },
+    {
+      "text": "Careers at NDIA",
+      "url": "https://www.ndis.gov.au/about-us/careers-ndia"
+    },
+    {
+      "text": "Changes to the NDIS",
+      "url": "https://www.ndis.gov.au/changes-ndis"
+    },
+    {
+      "text": "Service charter",
+      "url": "https://www.ndis.gov.au/about-us/service-charter"
+    },
+    {
+      "text": "Sharing information",
+      "url": "https://www.ndis.gov.au/about-us/sharing-information"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.ndis.gov.au/contact"
+    },
+    {
+      "text": "Find us",
+      "url": "https://www.ndis.gov.au/contact/find-us"
+    },
+    {
+      "text": "Office locations",
+      "url": "https://www.ndis.gov.au/contact/locations"
+    },
+    {
+      "text": "Feedback and enquiries",
+      "url": "https://www.ndis.gov.au/contact/feedback-and-enquiries"
+    },
+    {
+      "text": "Reporting fraud",
+      "url": "https://www.ndis.gov.au/contact/reporting-fraud"
+    },
+    {
+      "text": "Other support",
+      "url": "https://www.ndis.gov.au/contact/other-support"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ndis.gov.au/publications"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fpublications%2Fbooklets-and-factsheets"
+    },
+    {
+      "text": "Save page as PDF",
+      "url": "https://www.ndis.gov.au/print/pdf/node/149"
+    },
+    {
+      "text": "Making connections",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#making-connections"
+    },
+    {
+      "text": "Applying to the NDIS",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#applying-to-the-ndis"
+    },
+    {
+      "text": "Creating your NDIS plan",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#creating-your-ndis-plan"
+    },
+    {
+      "text": "Using your NDIS plan",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#using-your-ndis-plan"
+    },
+    {
+      "text": "Changing your plan",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#changing-your-plan"
+    },
+    {
+      "text": "More NDIS information",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets#more-ndis-information"
+    },
+    {
+      "text": "Languages section",
+      "url": "https://www.ndis.gov.au/languages"
+    },
+    {
+      "text": "Factsheet: How the NDIS can help",
+      "url": "https://www.ndis.gov.au/media/6388/download?attachment"
+    },
+    {
+      "text": "Easy Read: How the NDIS can help",
+      "url": "https://www.ndis.gov.au/media/6563/download?attachment"
+    },
+    {
+      "text": "Easy Read: How the NDIS can help",
+      "url": "https://www.ndis.gov.au/media/6562/download?attachment"
+    },
+    {
+      "text": "Braille: How the NDIS can help",
+      "url": "https://www.ndis.gov.au/media/6588/download?attachment"
+    },
+    {
+      "text": "Factsheet: Community connections",
+      "url": "https://www.ndis.gov.au/media/6385/download?attachment"
+    },
+    {
+      "text": "Easy Read: Community Connections",
+      "url": "https://www.ndis.gov.au/media/6565/download?attachment"
+    },
+    {
+      "text": "Easy Read: Community Connections",
+      "url": "https://www.ndis.gov.au/media/6564/download?attachment"
+    },
+    {
+      "text": "Braille: Community Connections",
+      "url": "https://www.ndis.gov.au/media/6584/download?attachment"
+    },
+    {
+      "text": "Factsheet: Early connections",
+      "url": "https://www.ndis.gov.au/media/6401/download?attachment"
+    },
+    {
+      "text": "Factsheet: Early connections",
+      "url": "https://www.ndis.gov.au/media/6387/download?attachment"
+    },
+    {
+      "text": "Factsheet: Applying to the NDIS",
+      "url": "https://www.ndis.gov.au/media/7366/download?attachment"
+    },
+    {
+      "text": "Factsheet: Applying to the NDIS",
+      "url": "https://www.ndis.gov.au/media/8810/download?attachment"
+    },
+    {
+      "text": "Factsheet: Confirming your identity",
+      "url": "https://www.ndis.gov.au/media/6474/download?attachment"
+    },
+    {
+      "text": "Factsheet: Confirming your identity",
+      "url": "https://www.ndis.gov.au/media/6383/download?attachment"
+    },
+    {
+      "text": "Easy Read: Confirming your identity",
+      "url": "https://www.ndis.gov.au/media/6537/download?attachment"
+    },
+    {
+      "text": "Easy Read: Confirming your identity",
+      "url": "https://www.ndis.gov.au/media/6538/download?attachment"
+    },
+    {
+      "text": "Braille: Confirming your identity",
+      "url": "https://www.ndis.gov.au/media/6585/download?attachment"
+    },
+    {
+      "text": "Factsheet: Understanding consent",
+      "url": "https://www.ndis.gov.au/media/6405/download?attachment"
+    },
+    {
+      "text": "Factsheet: Understanding consent",
+      "url": "https://www.ndis.gov.au/media/6391/download?attachment"
+    },
+    {
+      "text": "Easy Read: Understanding consent",
+      "url": "https://www.ndis.gov.au/media/6561/download?attachment"
+    },
+    {
+      "text": "Easy Read: Understanding consent",
+      "url": "https://www.ndis.gov.au/media/6560/download?attachment"
+    },
+    {
+      "text": "Braille: Understanding consent",
+      "url": "https://www.ndis.gov.au/media/6592/download?attachment"
+    },
+    {
+      "text": "Factsheet: Nominees",
+      "url": "https://www.ndis.gov.au/media/6404/download?attachment"
+    },
+    {
+      "text": "Factsheet: Nominees",
+      "url": "https://www.ndis.gov.au/media/6390/download?attachment"
+    },
+    {
+      "text": "Easy Read: Nominees",
+      "url": "https://www.ndis.gov.au/media/6539/download?attachment"
+    },
+    {
+      "text": "Easy Read: Nominees",
+      "url": "https://www.ndis.gov.au/media/6540/download?attachment"
+    },
+    {
+      "text": "Braille: Nominees",
+      "url": "https://www.ndis.gov.au/media/6590/download?attachment"
+    },
+    {
+      "text": "Factsheet: Child representatives",
+      "url": "https://www.ndis.gov.au/media/6398/download?attachment"
+    },
+    {
+      "text": "Factsheet: Child representatives",
+      "url": "https://www.ndis.gov.au/media/6384/download?attachment"
+    },
+    {
+      "text": "Easy Read: Child representatives",
+      "url": "https://www.ndis.gov.au/media/6541/download?attachment"
+    },
+    {
+      "text": "Easy Read: Child representatives",
+      "url": "https://www.ndis.gov.au/media/6542/download?attachment"
+    },
+    {
+      "text": "Braille: Child representatives",
+      "url": "https://www.ndis.gov.au/media/6583/download?attachment"
+    },
+    {
+      "text": "Factsheet: Creating your plan",
+      "url": "https://www.ndis.gov.au/media/6400/download?attachment"
+    },
+    {
+      "text": "Factsheet: Creating your plan",
+      "url": "https://www.ndis.gov.au/media/6386/download?attachment"
+    },
+    {
+      "text": "Factsheet: Your plan meeting",
+      "url": "https://www.ndis.gov.au/media/6438/download?attachment"
+    },
+    {
+      "text": "Factsheet: Support categories",
+      "url": "https://www.ndis.gov.au/media/6418/download?attachment"
+    },
+    {
+      "text": "Easy Read: Support categories",
+      "url": "https://www.ndis.gov.au/media/6579/download?attachment"
+    },
+    {
+      "text": "Factsheet: Recording my providers",
+      "url": "https://www.ndis.gov.au/media/7297/download?attachment"
+    },
+    {
+      "text": "Easy Read: Recording my providers",
+      "url": "https://www.ndis.gov.au/media/6676/download?attachment"
+    },
+    {
+      "text": "Easy Read: Recording my providers",
+      "url": "https://www.ndis.gov.au/media/6677/download?attachment"
+    },
+    {
+      "text": "Factsheet: Using your NDIS plan",
+      "url": "https://www.ndis.gov.au/media/7426/download?attachment"
+    },
+    {
+      "text": "Factsheet: Using your NDIS plan",
+      "url": "https://www.ndis.gov.au/media/7294/download?attachment"
+    },
+    {
+      "text": "Easy Read: Using your NDIS plan",
+      "url": "https://www.ndis.gov.au/media/6577/download?attachment"
+    },
+    {
+      "text": "Factsheet: Managing your funding",
+      "url": "https://www.ndis.gov.au/media/6403/download?attachment"
+    },
+    {
+      "text": "Factsheet: Managing your funding",
+      "url": "https://www.ndis.gov.au/media/6389/download?attachment"
+    },
+    {
+      "text": "Easy Read: Managing your funding",
+      "url": "https://www.ndis.gov.au/media/6573/download?attachment"
+    },
+    {
+      "text": "Easy Read: Managing your funding",
+      "url": "https://www.ndis.gov.au/media/6572/download?attachment"
+    },
+    {
+      "text": "Braille: Managing your funding",
+      "url": "https://www.ndis.gov.au/media/6589/download?attachment"
+    },
+    {
+      "text": "Factsheet: Working with providers",
+      "url": "https://www.ndis.gov.au/media/6575/download?attachment"
+    },
+    {
+      "text": "Factsheet: Working with providers",
+      "url": "https://www.ndis.gov.au/media/6393/download?attachment"
+    },
+    {
+      "text": "Easy Read: Working with providers",
+      "url": "https://www.ndis.gov.au/media/6407/download?attachment"
+    },
+    {
+      "text": "Easy Read: Working with providers",
+      "url": "https://www.ndis.gov.au/media/6574/download?attachment"
+    },
+    {
+      "text": "Factsheet: Changing your plan",
+      "url": "https://www.ndis.gov.au/media/6396/download?attachment"
+    },
+    {
+      "text": "Factsheet: Changing your plan",
+      "url": "https://www.ndis.gov.au/media/7292/download?attachment"
+    },
+    {
+      "text": "Factsheet: Check-ins",
+      "url": "https://www.ndis.gov.au/media/7291/download?attachment"
+    },
+    {
+      "text": "Easy Read: Check-ins",
+      "url": "https://www.ndis.gov.au/media/6596/download?attachment"
+    },
+    {
+      "text": "Let’s talk about work",
+      "url": "https://www.ndis.gov.au/oldlets-talk-about-work"
+    },
+    {
+      "text": "Let's talk about work booklet",
+      "url": "https://www.ndis.gov.au/media/1230/download?attachment"
+    },
+    {
+      "text": "Let's talk about work booklet",
+      "url": "https://www.ndis.gov.au/media/1232/download?attachment"
+    },
+    {
+      "text": "Easy Read: Let's talk about work booklet",
+      "url": "https://www.ndis.gov.au/media/1231/download?attachment"
+    },
+    {
+      "text": "Easy Read: Let's talk about work booklet",
+      "url": "https://www.ndis.gov.au/media/2514/download?attachment"
+    },
+    {
+      "text": "Factsheet: Eligibility reassessments",
+      "url": "https://www.ndis.gov.au/media/7629/download?attachment"
+    },
+    {
+      "text": "Factsheet: Eligibility reassessments",
+      "url": "https://www.ndis.gov.au/media/7628/download?attachment"
+    },
+    {
+      "text": "self-management",
+      "url": "https://www.ndis.gov.au/participants/using-your-funding/self-managed-funding/how-self-manage-your-funding"
+    },
+    {
+      "text": "Guide to self-management",
+      "url": "https://www.ndis.gov.au/media/7609/download?attachment"
+    },
+    {
+      "text": "Guide to self-management",
+      "url": "https://www.ndis.gov.au/media/7608/download?attachment"
+    },
+    {
+      "text": "Participant journey",
+      "url": "https://www.ndis.gov.au/media/8040/download?attachment"
+    },
+    {
+      "text": "Participant journey",
+      "url": "https://www.ndis.gov.au/media/8039/download?attachment"
+    },
+    {
+      "text": "Easy Read: Participant journey",
+      "url": "https://www.ndis.gov.au/media/8043/download?attachment"
+    },
+    {
+      "text": "Easy Read: Participant journey",
+      "url": "https://www.ndis.gov.au/media/8044/download?attachment"
+    },
+    {
+      "text": "Participant journey for NDIS providers",
+      "url": "https://www.ndis.gov.au/media/8041/download?attachment"
+    },
+    {
+      "text": "Participant journey for NDIS providers",
+      "url": "https://www.ndis.gov.au/media/8042/download?attachment"
+    },
+    {
+      "text": "Getting started with the NDIS",
+      "url": "https://www.ndis.gov.au/media/2804/download?attachment"
+    },
+    {
+      "text": "Getting started with the NDIS",
+      "url": "https://www.ndis.gov.au/media/2803/download?attachment"
+    },
+    {
+      "text": "Easy Read: Getting started with the NDIS",
+      "url": "https://www.ndis.gov.au/media/2805/download?attachment"
+    },
+    {
+      "text": "Easy Read : Getting started with the NDIS",
+      "url": "https://www.ndis.gov.au/media/2806/download?attachment"
+    },
+    {
+      "text": "Factsheet: Evidence of identity",
+      "url": "https://www.ndis.gov.au/media/6016/download?attachment"
+    },
+    {
+      "text": "Factsheet: Evidence of identity",
+      "url": "https://www.ndis.gov.au/media/6021/download?attachment"
+    },
+    {
+      "text": "Evidence we need to include NDIS supports in your plan",
+      "url": "https://www.ndis.gov.au/media/7367/download?attachment"
+    },
+    {
+      "text": "Evidence we need to include NDIS supports in your plan",
+      "url": "https://www.ndis.gov.au/media/6504/download?attachment"
+    },
+    {
+      "text": "Annual Report",
+      "url": "https://www.ndis.gov.au/publications/annual-report"
+    },
+    {
+      "text": "Annual Report 2023-24",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2023-24"
+    },
+    {
+      "text": "Annual Report 2022-23",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2022-23"
+    },
+    {
+      "text": "Annual Report 2021-22",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2021-22"
+    },
+    {
+      "text": "Annual Report 2020-21",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2020-21"
+    },
+    {
+      "text": "Annual Report 2019-20",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2019-20"
+    },
+    {
+      "text": "Annual Report 2018-19",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2018-19"
+    },
+    {
+      "text": "Annual Report 2017-18",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2017-18"
+    },
+    {
+      "text": "Annual Report 2016-17",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2016-17"
+    },
+    {
+      "text": "Annual Report 2015-16",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2015-16"
+    },
+    {
+      "text": "Annual Report 2014-15",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2014-15"
+    },
+    {
+      "text": "Annual Report 2013-14",
+      "url": "https://www.ndis.gov.au/publications/annual-report/annual-report-2013-14"
+    },
+    {
+      "text": "Quarterly Reports",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports"
+    },
+    {
+      "text": "Archived quarterly reports 2025-26",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2025-26"
+    },
+    {
+      "text": "Archived quarterly reports 2024-25",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2024-25"
+    },
+    {
+      "text": "Archived quarterly reports 2023-24",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2023-24"
+    },
+    {
+      "text": "Archived quarterly reports 2022-23",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2022-23"
+    },
+    {
+      "text": "Archived quarterly reports 2021-22",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2021-22"
+    },
+    {
+      "text": "Archived quarterly reports 2020-21",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2020-21"
+    },
+    {
+      "text": "Archived quarterly reports 2019-20",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2019-20"
+    },
+    {
+      "text": "Archived quarterly reports 2018-19",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2018-19"
+    },
+    {
+      "text": "Archived quarterly reports 2017-18",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2017-18"
+    },
+    {
+      "text": "Archived quarterly reports 2016-17",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2016-17"
+    },
+    {
+      "text": "Archived quarterly reports 2015-16",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2015-16"
+    },
+    {
+      "text": "Archived quarterly reports 2013-15",
+      "url": "https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2013-15"
+    },
+    {
+      "text": "Monthly summary",
+      "url": "https://www.ndis.gov.au/publications/monthly-summary"
+    },
+    {
+      "text": "Corporate plan",
+      "url": "https://www.ndis.gov.au/publications/corporate-plan"
+    },
+    {
+      "text": "APS Census",
+      "url": "https://www.ndis.gov.au/publications/aps-census"
+    },
+    {
+      "text": "Annual Financial Sustainability Reports",
+      "url": "https://www.ndis.gov.au/publications/annual-financial-sustainability-reports"
+    },
+    {
+      "text": "Booklets and Factsheets",
+      "url": "https://www.ndis.gov.au/publications/booklets-and-factsheets"
+    },
+    {
+      "text": "language interpreting services",
+      "url": "https://www.ndis.gov.au/contact/feedback-and-enquiries/language-interpreting-services"
+    },
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "family violence and mental health",
+      "url": "https://www.ndis.gov.au/contact/other-support/family-violence-and-mental-health"
+    },
+    {
+      "text": "Facebook (External website)",
+      "url": "https://www.facebook.com/NDISAus"
+    },
+    {
+      "text": "Instagram (External website)",
+      "url": "https://www.instagram.com/ndis_australia/"
+    },
+    {
+      "text": "LinkedIn (External website)",
+      "url": "https://www.linkedin.com/company/national-disability-insurance-agency"
+    },
+    {
+      "text": "Twitter (External website)",
+      "url": "https://twitter.com/NDIS"
+    },
+    {
+      "text": "YouTube (External website)",
+      "url": "https://www.youtube.com/user/DisabilityCare"
+    },
+    {
+      "text": "Recent website updates",
+      "url": "https://www.ndis.gov.au/recent-content"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.ndis.gov.au/sitemap"
+    },
+    {
+      "text": "eNewsletter sign up (External website)",
+      "url": "https://cloud.email.ndis.gov.au/newsletter-signup"
+    },
+    {
+      "text": "NDIS laws",
+      "url": "https://www.ndis.gov.au/ndis-laws"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.ndis.gov.au/governance"
+    },
+    {
+      "text": "Policies, rules and legal",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal"
+    },
+    {
+      "text": "Strategies",
+      "url": "https://www.ndis.gov.au/about-us/strategies"
+    },
+    {
+      "text": "Reference groups",
+      "url": "https://www.ndis.gov.au/reference-groups"
+    },
+    {
+      "text": "Grants and projects",
+      "url": "https://www.ndis.gov.au/grants-and-projects"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright"
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://www.ndis.gov.au/about-us/access-information"
+    },
+    {
+      "text": "Data and research (External website)",
+      "url": "https://dataresearch.ndis.gov.au/"
+    },
+    {
+      "text": "Engage (External website)",
+      "url": "https://engage.ndis.gov.au"
+    },
+    {
+      "text": "Freedom of information",
+      "url": "https://www.ndis.gov.au/about-us/policies/freedom-information"
+    },
+    {
+      "text": "Our guidelines",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines"
+    },
+    {
+      "text": "Social media",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+    }
+  ],
+  "text": "Booklets and factsheets | NDIS Skip to main content Skip to main navigation\n\nBooklets and factsheets 31/08/2026, 08:44\n\nNotice\n\nWe are updating information on this website to reflect new NDIS legislation . Information on some pages may change.\n\nNDIS 1800 800 110 Webchat\n\n## Site search\n\nSearch\n\n## Portal sign in menu\n\n- Portal sign in Expand Portal sign in sub menu\n\n- Participant portal (External website)\n\n- Provider portals (External website)\n\nMobile Menu\n\n## Main navigation\n\n- Home\n\n- Understanding the NDIS Expand Understanding the NDIS sub menu\n\n- About the NDIS\n\n- Where to begin\n\n- People that help you\n\n- Applying Expand Applying sub menu\n\n- Eligibility requirements\n\n- Gathering evidence\n\n- Application process\n\n- Types of assessments\n\n- Eligibility reassessments\n\n- For children\n\n- For participants Expand For participants sub menu\n\n- Creating a plan\n\n- Working with providers\n\n- Using your funding\n\n- Changing your plan\n\n- Home and living\n\n- Assistive technology\n\n- Life transitions\n\n- For providers Expand For providers sub menu\n\n- Pricing and payments\n\n- Working as a provider\n\n- Working with participants\n\n- Home and living providers\n\n- News and events Expand News and events sub menu\n\n- Latest events\n\n- Latest news\n\n- Media releases\n\n- Stories and videos\n\n- Media\n\n- Engage\n\n- About Expand About sub menu\n\n- About the NDIA\n\n- Careers at NDIA\n\n- Changes to the NDIS\n\n- Service charter\n\n- Sharing information\n\n- Contact Expand Contact sub menu\n\n- Find us\n\n- Office locations\n\n- Feedback and enquiries\n\n- Reporting fraud\n\n- Other support\n\n- Publications\n\n# Booklets and factsheets\n\nListen\n\nPrint this page Save page as PDF\n\n### On this page:\n\n- Making connections\n\n- Applying to the NDIS\n\n- Creating your NDIS plan\n\n- Using your NDIS plan\n\n- More NDIS information\n\nOn this page: 1 - Making connections 2 - Applying to the NDIS 3 - Creating your NDIS plan 4 - Using your NDIS plan 5 - Changing your plan 6 - More NDIS information\n\nThese resources have been developed as part of the improvements to our computer system and ways of working.\n\nYou can order printed copies of some resources by calling 1800 800 110, sending an enquiry through the contact page or using webchat on the NDIS website.\n\nYou can also ask for a printed copy of some resources at any NDIS office.\n\nTo view information in languages other than English (including Auslan), go to the Languages section of the NDIS website.\n\n## Making connections\n\n### How the NDIS can help\n\n- Factsheet: How the NDIS can help (DOCX 287KB)\n\n- Easy Read: How the NDIS can help (PDF 5MB)\n\n- Easy Read: How the NDIS can help (DOCX 65KB)\n\n- Braille: How the NDIS can help (ZIP 3KB)\n\n### Community connections\n\n- Factsheet: Community connections (DOCX 293KB)\n\n- Easy Read: Community Connections (PDF 7MB)\n\n- Easy Read: Community Connections (DOCX 60KB)\n\n- Braille: Community Connections (ZIP 3KB)\n\n### Early connections\n\n- Factsheet: Early connections (PDF 201KB)\n\n- Factsheet: Early connections (DOCX 291KB)\n\n## Applying to the NDIS\n\n### Applying to the NDIS\n\n- Factsheet: Applying to the NDIS (DOCX 294KB)\n\n- Factsheet: Applying to the NDIS (PDF 220KB)\n\n### Confirming your identity\n\n- Factsheet: Confirming your identity (PDF 116KB)\n\n- Factsheet: Confirming your identity (DOCX 292KB)\n\n- Easy Read: Confirming your identity (PDF 6MB)\n\n- Easy Read: Confirming your identity (DOCX 65KB)\n\n- Braille: Confirming your identity (ZIP 3KB)\n\n### Understanding consent\n\n- Factsheet: Understanding consent (PDF 115KB)\n\n- Factsheet: Understanding consent (DOCX 290KB)\n\n- Easy Read: Understanding consent (PDF 5MB)\n\n- Easy Read: Understanding consent (DOCX 67KB)\n\n- Braille: Understanding consent (ZIP 3KB)\n\n### Nominees\n\n- Factsheet: Nominees (PDF 121KB)\n\n- Factsheet: Nominees (DOCX 296KB)\n\n- Easy Read: Nominees (PDF 6MB)\n\n- Easy Read: Nominees (DOCX 68KB)\n\n- Braille: Nominees (ZIP 3KB)\n\n### Child representatives\n\n- Factsheet: Child representatives (PDF 120KB)\n\n- Factsheet: Child representatives (DOCX 291KB)\n\n- Easy Read: Child representatives (PDF 7MB)\n\n- Easy Read: Child representatives (DOCX 68KB)\n\n- Braille: Child representatives (ZIP 3KB)\n\n## Creating your NDIS plan\n\n### Creating your plan\n\n- Factsheet: Creating your plan (PDF 185KB)\n\n- Factsheet: Creating your plan (DOCX 327KB)\n\n### Your plan meeting\n\n- Factsheet: Your plan meeting (PDF 179KB)\n\n- Factsheet: Your plan meeting (DOCX 284KB)\n\n### Support categories\n\n- Factsheet: Support categories (DOCX 287KB)\n\n- Easy Read: Support categories (PDF 3MB)\n\n### Recording my providers\n\n- Factsheet: Recording my providers (DOCX 292KB)\n\n- Easy Read: Recording my providers (PDF 6MB)\n\n- Easy Read: Recording my providers (DOCX 52KB)\n\n## Using your NDIS plan\n\n### Using your NDIS plan\n\n- Factsheet: Using your NDIS plan (PDF 216KB)\n\n- Factsheet: Using your NDIS plan (DOCX 293KB)\n\n- Easy Read: Using your NDIS plan (PDF 4MB)\n\n### Managing your funding\n\n- Factsheet: Managing your funding (PDF 217KB)\n\n- Factsheet: Managing your funding (DOCX 287KB)\n\n- Easy Read: Managing your funding (PDF 7MB)\n\n- Easy Read: Managing your funding (DOCX 67KB)\n\n- Braille: Managing your funding (ZIP 3KB)\n\n### Working with providers\n\n- Factsheet: Working with providers (PDF 246KB)\n\n- Factsheet: Working with providers (DOCX 292KB)\n\n- Easy Read: Working with providers (PDF 8MB)\n\n- Easy Read: Working with providers (DOCX 58KB)\n\n## Changing your plan\n\n### Changing your plan\n\n- Factsheet: Changing your plan (PDF 200KB)\n\n- Factsheet: Changing your plan (DOCX 285KB)\n\n### Check-ins\n\n- Factsheet: Check-ins (DOCX 326KB)\n\n- Easy Read: Check-ins (PDF 3MB)\n\n## More NDIS information\n\n### Children younger than 9\n\nWe are updating this factsheet in line with the new legislation.\n\n### Employment\n\nTo view the Let’s talk about work booklet, see the Let’s talk about work page.\n\n- Let's talk about work booklet (PDF 2MB)\n\n- Let's talk about work booklet (DOCX 46KB)\n\n- Easy Read: Let's talk about work booklet (PDF 8MB)\n\n- Easy Read: Let's talk about work booklet (DOCX 60KB)\n\n### Eligibility reassessments\n\n- Factsheet: Eligibility reassessments (PDF 300KB)\n\n- Factsheet: Eligibility reassessments (DOCX 206KB)\n\n### Guide to self-management\n\nFor more information, see the self-management page.\n\n- Guide to self-management (PDF 346KB)\n\n- Guide to self-management (DOCX 214KB)\n\n### Participant journey booklet\n\nDownload the participant journey map:\n\n- Participant journey (PDF 376KB)\n\n- Participant journey (DOCX 293KB)\n\nDownload the participant journey Easy read:\n\n- Easy Read: Participant journey (PDF 10MB)\n\n- Easy Read: Participant journey (DOCX 67MB)\n\nDownload the participant journey for NDIS providers:\n\n- Participant journey for NDIS providers (PDF 336KB)\n\n- Participant journey for NDIS providers (DOCX 291KB)\n\n### Information for Aboriginal and Torres Strait Islander participants\n\n- Getting started with the NDIS (PDF 7MB)\n\n- Getting started with the NDIS (DOCX 1MB)\n\n- Easy Read: Getting started with the NDIS (PDF 7MB)\n\n- Easy Read : Getting started with the NDIS (DOCX 1MB)\n\n### Evidence of identity\n\n- Factsheet: Evidence of identity (PDF 228KB)\n\n- Factsheet: Evidence of identity (DOCX 298KB)\n\n### Evidence we need to include NDIS supports in your plan\n\n- Evidence we need to include NDIS supports in your plan (PDF 452KB)\n\n- Evidence we need to include NDIS supports in your plan (DOCX 352KB)\n\n## Main navigation sidebar\n\n### Publications\n\n- Annual Report Expand or collapse sub-menu for Annual Report\n\n- Annual Report 2023-24\n\n- Annual Report 2022-23\n\n- Annual Report 2021-22\n\n- Annual Report 2020-21\n\n- Annual Report 2019-20\n\n- Annual Report 2018-19\n\n- Annual Report 2017-18\n\n- Annual Report 2016-17\n\n- Annual Report 2015-16\n\n- Annual Report 2014-15\n\n- Annual Report 2013-14\n\n- Quarterly Reports Expand or collapse sub-menu for Quarterly Reports\n\n- Archived quarterly reports 2025-26\n\n- Archived quarterly reports 2024-25\n\n- Archived quarterly reports 2023-24\n\n- Archived quarterly reports 2022-23\n\n- Archived quarterly reports 2021-22\n\n- Archived quarterly reports 2020-21\n\n- Archived quarterly reports 2019-20\n\n- Archived quarterly reports 2018-19\n\n- Archived quarterly reports 2017-18\n\n- Archived quarterly reports 2016-17\n\n- Archived quarterly reports 2015-16\n\n- Archived quarterly reports 2013-15\n\n- Monthly summary\n\n- Corporate plan\n\n- APS Census\n\n- Annual Financial Sustainability Reports\n\n- Booklets and Factsheets\n\n## Contact supports and services\n\n### Translating and interpreting\n\nFind out about language interpreting services or phone 131 450 .\n\n### National relay service\n\nVisit the National Relay Service website.\n\n### Family violence support\n\nFind family violence and mental health services.\n\nThis page current as of\n\n27 August 2026\n\nIndicates required field\n\nWas this page useful? *\n\nNo\n\nYes\n\nWhy?\n\nIt was easy to understand\n\nThe layout or style made it easy to read\n\nThe information was easy to find\n\nWhy not?\n\nIt was too hard to understand\n\nI couldn’t find the information\n\nThe layout or style made it hard to read\n\nThe information wasn’t what I was looking for\n\nTell us more (optional)\n\nSubmit\n\nLeave this field blank\n\n## Social Menu\n\n- Facebook (External website)\n\n- Instagram (External website)\n\n- LinkedIn (External website)\n\n- Twitter (External website)\n\n- YouTube (External website)\n\n## Footer Menu\n\n- Recent website updates\n\n- Sitemap\n\n- eNewsletter sign up (External website)\n\n- NDIS laws\n\n- Careers\n\n- Governance\n\n- Policies, rules and legal\n\n- Strategies\n\n- Reference groups\n\n- Grants and projects\n\n## Copyright Menu\n\n- Privacy\n\n- Accessibility\n\n- Copyright\n\n- Disclaimers\n\n- Access to information\n\n- Data and research (External website)\n\n- Engage (External website)\n\n- Freedom of information\n\n- Our guidelines\n\n- Social media\n\nThe National Disability Insurance Agency acknowledges the Traditional Owners and Custodians of Country throughout Australia and acknowledges their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the Elders past, present and emerging.\n\nAboriginal and Torres Strait Islander readers are advised that this website may contain images, voices and videos of deceased persons.\n\nDeveloped by the National Disability Insurance Agency\n\nhttps://www.ndis.gov.au/publications/booklets-and-factsheets\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.ndis.gov.au/publications/booklets-and-factsheets#main-content\n\n- Skip to main navigation: https://www.ndis.gov.au/publications/booklets-and-factsheets#block-mainnavigation\n\n- new NDIS legislation: https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations\n\n- NDIS: https://www.ndis.gov.au/\n\n- Participant portal (External website): https://myndisportal.ndis.gov.au/services/auth/sso/CIAM\n\n- Provider portals (External website): https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/\n\n- Understanding the NDIS: https://www.ndis.gov.au/understanding-ndis\n\n- About the NDIS: https://www.ndis.gov.au/understanding-ndis/about-ndis\n\n- Where to begin: https://www.ndis.gov.au/understanding-ndis/where-begin\n\n- People that help you: https://www.ndis.gov.au/understanding-ndis/people-help-you\n\n- Applying: https://www.ndis.gov.au/applying\n\n- Eligibility requirements: https://www.ndis.gov.au/applying/eligibility-requirements\n\n- Gathering evidence: https://www.ndis.gov.au/applying/gathering-evidence\n\n- Application process: https://www.ndis.gov.au/applying/application-process\n\n- Types of assessments: https://www.ndis.gov.au/applying/types-assessments\n\n- Eligibility reassessments: https://www.ndis.gov.au/applying/eligibility-reassessments\n\n- For children: https://www.ndis.gov.au/applying/children\n\n- For participants: https://www.ndis.gov.au/participants\n\n- Creating a plan: https://www.ndis.gov.au/participants/creating-plan\n\n- Working with providers: https://www.ndis.gov.au/participants/working-providers\n\n- Using your funding: https://www.ndis.gov.au/participants/using-your-funding\n\n- Changing your plan: https://www.ndis.gov.au/participants/changing-your-plan\n\n- Home and living: https://www.ndis.gov.au/participants/home-and-living\n\n- Assistive technology: https://www.ndis.gov.au/participants/assistive-technology\n\n- Life transitions: https://www.ndis.gov.au/participants/life-transitions\n\n- For providers: https://www.ndis.gov.au/providers\n\n- Pricing and payments: https://www.ndis.gov.au/providers/pricing-and-payments\n\n- Working as a provider: https://www.ndis.gov.au/providers/working-provider\n\n- Working with participants: https://www.ndis.gov.au/providers/working-participants\n\n- Home and living providers: https://www.ndis.gov.au/providers/home-and-living-providers\n\n- News and events: https://www.ndis.gov.au/news\n\n- Latest events: https://www.ndis.gov.au/news/events\n\n- Latest news: https://www.ndis.gov.au/news/latest\n\n- Media releases: https://www.ndis.gov.au/news/media-releases\n\n- Stories and videos: https://www.ndis.gov.au/news/stories\n\n- Media: https://www.ndis.gov.au/news/media\n\n- Engage: https://www.ndis.gov.au/engage\n\n- About: https://www.ndis.gov.au/about-us\n\n- About the NDIA: https://www.ndis.gov.au/about-us/about-ndia\n\n- Careers at NDIA: https://www.ndis.gov.au/about-us/careers-ndia\n\n- Changes to the NDIS: https://www.ndis.gov.au/changes-ndis\n\n- Service charter: https://www.ndis.gov.au/about-us/service-charter\n\n- Sharing information: https://www.ndis.gov.au/about-us/sharing-information\n\n- Contact: https://www.ndis.gov.au/contact\n\n- Find us: https://www.ndis.gov.au/contact/find-us\n\n- Office locations: https://www.ndis.gov.au/contact/locations\n\n- Feedback and enquiries: https://www.ndis.gov.au/contact/feedback-and-enquiries\n\n- Reporting fraud: https://www.ndis.gov.au/contact/reporting-fraud\n\n- Other support: https://www.ndis.gov.au/contact/other-support\n\n- Publications: https://www.ndis.gov.au/publications\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fpublications%2Fbooklets-and-factsheets\n\n- Save page as PDF: https://www.ndis.gov.au/print/pdf/node/149\n\n- Making connections: https://www.ndis.gov.au/publications/booklets-and-factsheets#making-connections\n\n- Applying to the NDIS: https://www.ndis.gov.au/publications/booklets-and-factsheets#applying-to-the-ndis\n\n- Creating your NDIS plan: https://www.ndis.gov.au/publications/booklets-and-factsheets#creating-your-ndis-plan\n\n- Using your NDIS plan: https://www.ndis.gov.au/publications/booklets-and-factsheets#using-your-ndis-plan\n\n- Changing your plan: https://www.ndis.gov.au/publications/booklets-and-factsheets#changing-your-plan\n\n- More NDIS information: https://www.ndis.gov.au/publications/booklets-and-factsheets#more-ndis-information\n\n- Languages section: https://www.ndis.gov.au/languages\n\n- Factsheet: How the NDIS can help: https://www.ndis.gov.au/media/6388/download?attachment\n\n- Easy Read: How the NDIS can help: https://www.ndis.gov.au/media/6563/download?attachment\n\n- Easy Read: How the NDIS can help: https://www.ndis.gov.au/media/6562/download?attachment\n\n- Braille: How the NDIS can help: https://www.ndis.gov.au/media/6588/download?attachment\n\n- Factsheet: Community connections: https://www.ndis.gov.au/media/6385/download?attachment\n\n- Easy Read: Community Connections: https://www.ndis.gov.au/media/6565/download?attachment\n\n- Easy Read: Community Connections: https://www.ndis.gov.au/media/6564/download?attachment\n\n- Braille: Community Connections: https://www.ndis.gov.au/media/6584/download?attachment\n\n- Factsheet: Early connections: https://www.ndis.gov.au/media/6401/download?attachment\n\n- Factsheet: Early connections: https://www.ndis.gov.au/media/6387/download?attachment\n\n- Factsheet: Applying to the NDIS: https://www.ndis.gov.au/media/7366/download?attachment\n\n- Factsheet: Applying to the NDIS: https://www.ndis.gov.au/media/8810/download?attachment\n\n- Factsheet: Confirming your identity: https://www.ndis.gov.au/media/6474/download?attachment\n\n- Factsheet: Confirming your identity: https://www.ndis.gov.au/media/6383/download?attachment\n\n- Easy Read: Confirming your identity: https://www.ndis.gov.au/media/6537/download?attachment\n\n- Easy Read: Confirming your identity: https://www.ndis.gov.au/media/6538/download?attachment\n\n- Braille: Confirming your identity: https://www.ndis.gov.au/media/6585/download?attachment\n\n- Factsheet: Understanding consent: https://www.ndis.gov.au/media/6405/download?attachment\n\n- Factsheet: Understanding consent: https://www.ndis.gov.au/media/6391/download?attachment\n\n- Easy Read: Understanding consent: https://www.ndis.gov.au/media/6561/download?attachment\n\n- Easy Read: Understanding consent: https://www.ndis.gov.au/media/6560/download?attachment\n\n- Braille: Understanding consent: https://www.ndis.gov.au/media/6592/download?attachment\n\n- Factsheet: Nominees: https://www.ndis.gov.au/media/6404/download?attachment\n\n- Factsheet: Nominees: https://www.ndis.gov.au/media/6390/download?attachment\n\n- Easy Read: Nominees: https://www.ndis.gov.au/media/6539/download?attachment\n\n- Easy Read: Nominees: https://www.ndis.gov.au/media/6540/download?attachment\n\n- Braille: Nominees: https://www.ndis.gov.au/media/6590/download?attachment\n\n- Factsheet: Child representatives: https://www.ndis.gov.au/media/6398/download?attachment\n\n- Factsheet: Child representatives: https://www.ndis.gov.au/media/6384/download?attachment\n\n- Easy Read: Child representatives: https://www.ndis.gov.au/media/6541/download?attachment\n\n- Easy Read: Child representatives: https://www.ndis.gov.au/media/6542/download?attachment\n\n- Braille: Child representatives: https://www.ndis.gov.au/media/6583/download?attachment\n\n- Factsheet: Creating your plan: https://www.ndis.gov.au/media/6400/download?attachment\n\n- Factsheet: Creating your plan: https://www.ndis.gov.au/media/6386/download?attachment\n\n- Factsheet: Your plan meeting: https://www.ndis.gov.au/media/6438/download?attachment\n\n- Factsheet: Support categories: https://www.ndis.gov.au/media/6418/download?attachment\n\n- Easy Read: Support categories: https://www.ndis.gov.au/media/6579/download?attachment\n\n- Factsheet: Recording my providers: https://www.ndis.gov.au/media/7297/download?attachment\n\n- Easy Read: Recording my providers: https://www.ndis.gov.au/media/6676/download?attachment\n\n- Easy Read: Recording my providers: https://www.ndis.gov.au/media/6677/download?attachment\n\n- Factsheet: Using your NDIS plan: https://www.ndis.gov.au/media/7426/download?attachment\n\n- Factsheet: Using your NDIS plan: https://www.ndis.gov.au/media/7294/download?attachment\n\n- Easy Read: Using your NDIS plan: https://www.ndis.gov.au/media/6577/download?attachment\n\n- Factsheet: Managing your funding: https://www.ndis.gov.au/media/6403/download?attachment\n\n- Factsheet: Managing your funding: https://www.ndis.gov.au/media/6389/download?attachment\n\n- Easy Read: Managing your funding: https://www.ndis.gov.au/media/6573/download?attachment\n\n- Easy Read: Managing your funding: https://www.ndis.gov.au/media/6572/download?attachment\n\n- Braille: Managing your funding: https://www.ndis.gov.au/media/6589/download?attachment\n\n- Factsheet: Working with providers: https://www.ndis.gov.au/media/6575/download?attachment\n\n- Factsheet: Working with providers: https://www.ndis.gov.au/media/6393/download?attachment\n\n- Easy Read: Working with providers: https://www.ndis.gov.au/media/6407/download?attachment\n\n- Easy Read: Working with providers: https://www.ndis.gov.au/media/6574/download?attachment\n\n- Factsheet: Changing your plan: https://www.ndis.gov.au/media/6396/download?attachment\n\n- Factsheet: Changing your plan: https://www.ndis.gov.au/media/7292/download?attachment\n\n- Factsheet: Check-ins: https://www.ndis.gov.au/media/7291/download?attachment\n\n- Easy Read: Check-ins: https://www.ndis.gov.au/media/6596/download?attachment\n\n- Let’s talk about work: https://www.ndis.gov.au/oldlets-talk-about-work\n\n- Let's talk about work booklet: https://www.ndis.gov.au/media/1230/download?attachment\n\n- Let's talk about work booklet: https://www.ndis.gov.au/media/1232/download?attachment\n\n- Easy Read: Let's talk about work booklet: https://www.ndis.gov.au/media/1231/download?attachment\n\n- Easy Read: Let's talk about work booklet: https://www.ndis.gov.au/media/2514/download?attachment\n\n- Factsheet: Eligibility reassessments: https://www.ndis.gov.au/media/7629/download?attachment\n\n- Factsheet: Eligibility reassessments: https://www.ndis.gov.au/media/7628/download?attachment\n\n- self-management: https://www.ndis.gov.au/participants/using-your-funding/self-managed-funding/how-self-manage-your-funding\n\n- Guide to self-management: https://www.ndis.gov.au/media/7609/download?attachment\n\n- Guide to self-management: https://www.ndis.gov.au/media/7608/download?attachment\n\n- Participant journey: https://www.ndis.gov.au/media/8040/download?attachment\n\n- Participant journey: https://www.ndis.gov.au/media/8039/download?attachment\n\n- Easy Read: Participant journey: https://www.ndis.gov.au/media/8043/download?attachment\n\n- Easy Read: Participant journey: https://www.ndis.gov.au/media/8044/download?attachment\n\n- Participant journey for NDIS providers: https://www.ndis.gov.au/media/8041/download?attachment\n\n- Participant journey for NDIS providers: https://www.ndis.gov.au/media/8042/download?attachment\n\n- Getting started with the NDIS: https://www.ndis.gov.au/media/2804/download?attachment\n\n- Getting started with the NDIS: https://www.ndis.gov.au/media/2803/download?attachment\n\n- Easy Read: Getting started with the NDIS: https://www.ndis.gov.au/media/2805/download?attachment\n\n- Easy Read : Getting started with the NDIS: https://www.ndis.gov.au/media/2806/download?attachment\n\n- Factsheet: Evidence of identity: https://www.ndis.gov.au/media/6016/download?attachment\n\n- Factsheet: Evidence of identity: https://www.ndis.gov.au/media/6021/download?attachment\n\n- Evidence we need to include NDIS supports in your plan: https://www.ndis.gov.au/media/7367/download?attachment\n\n- Evidence we need to include NDIS supports in your plan: https://www.ndis.gov.au/media/6504/download?attachment\n\n- Annual Report: https://www.ndis.gov.au/publications/annual-report\n\n- Annual Report 2023-24: https://www.ndis.gov.au/publications/annual-report/annual-report-2023-24\n\n- Annual Report 2022-23: https://www.ndis.gov.au/publications/annual-report/annual-report-2022-23\n\n- Annual Report 2021-22: https://www.ndis.gov.au/publications/annual-report/annual-report-2021-22\n\n- Annual Report 2020-21: https://www.ndis.gov.au/publications/annual-report/annual-report-2020-21\n\n- Annual Report 2019-20: https://www.ndis.gov.au/publications/annual-report/annual-report-2019-20\n\n- Annual Report 2018-19: https://www.ndis.gov.au/publications/annual-report/annual-report-2018-19\n\n- Annual Report 2017-18: https://www.ndis.gov.au/publications/annual-report/annual-report-2017-18\n\n- Annual Report 2016-17: https://www.ndis.gov.au/publications/annual-report/annual-report-2016-17\n\n- Annual Report 2015-16: https://www.ndis.gov.au/publications/annual-report/annual-report-2015-16\n\n- Annual Report 2014-15: https://www.ndis.gov.au/publications/annual-report/annual-report-2014-15\n\n- Annual Report 2013-14: https://www.ndis.gov.au/publications/annual-report/annual-report-2013-14\n\n- Quarterly Reports: https://www.ndis.gov.au/publications/quarterly-reports\n\n- Archived quarterly reports 2025-26: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2025-26\n\n- Archived quarterly reports 2024-25: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2024-25\n\n- Archived quarterly reports 2023-24: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2023-24\n\n- Archived quarterly reports 2022-23: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2022-23\n\n- Archived quarterly reports 2021-22: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2021-22\n\n- Archived quarterly reports 2020-21: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2020-21\n\n- Archived quarterly reports 2019-20: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2019-20\n\n- Archived quarterly reports 2018-19: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2018-19\n\n- Archived quarterly reports 2017-18: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2017-18\n\n- Archived quarterly reports 2016-17: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2016-17\n\n- Archived quarterly reports 2015-16: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2015-16\n\n- Archived quarterly reports 2013-15: https://www.ndis.gov.au/publications/quarterly-reports/archived-quarterly-reports-2013-15\n\n- Monthly summary: https://www.ndis.gov.au/publications/monthly-summary\n\n- Corporate plan: https://www.ndis.gov.au/publications/corporate-plan\n\n- APS Census: https://www.ndis.gov.au/publications/aps-census\n\n- Annual Financial Sustainability Reports: https://www.ndis.gov.au/publications/annual-financial-sustainability-reports\n\n- Booklets and Factsheets: https://www.ndis.gov.au/publications/booklets-and-factsheets\n\n- language interpreting services: https://www.ndis.gov.au/contact/feedback-and-enquiries/language-interpreting-services\n\n- National Relay Service: https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links\n\n- family violence and mental health: https://www.ndis.gov.au/contact/other-support/family-violence-and-mental-health\n\n- Facebook (External website): https://www.facebook.com/NDISAus\n\n- Instagram (External website): https://www.instagram.com/ndis_australia/\n\n- LinkedIn (External website): https://www.linkedin.com/company/national-disability-insurance-agency\n\n- Twitter (External website): https://twitter.com/NDIS\n\n- YouTube (External website): https://www.youtube.com/user/DisabilityCare\n\n- Recent website updates: https://www.ndis.gov.au/recent-content\n\n- Sitemap: https://www.ndis.gov.au/sitemap\n\n- eNewsletter sign up (External website): https://cloud.email.ndis.gov.au/newsletter-signup\n\n- NDIS laws: https://www.ndis.gov.au/ndis-laws\n\n- Governance: https://www.ndis.gov.au/governance\n\n- Policies, rules and legal: https://www.ndis.gov.au/policies-rules-and-legal\n\n- Strategies: https://www.ndis.gov.au/about-us/strategies\n\n- Reference groups: https://www.ndis.gov.au/reference-groups\n\n- Grants and projects: https://www.ndis.gov.au/grants-and-projects\n\n- Privacy: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy\n\n- Accessibility: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility\n\n- Copyright: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright\n\n- Disclaimers: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers\n\n- Access to information: https://www.ndis.gov.au/about-us/access-information\n\n- Data and research (External website): https://dataresearch.ndis.gov.au/\n\n- Engage (External website): https://engage.ndis.gov.au\n\n- Freedom of information: https://www.ndis.gov.au/about-us/policies/freedom-information\n\n- Our guidelines: https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines\n\n- Social media: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+}

@@ -1,0 +1,2616 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<title>Speech &amp; Communication with MND</title>
+		<meta name="description" content="MND can cause weakness in the tongue, lips, vocal cords and breathing muscles which can result in changes in the ability to speak. Learn about strategies to manage communication with MND." />
+		<meta name="keywords" content="" />
+		<link rel="canonical" href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication" />
+
+		<meta property="og:url" content="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication" />
+		<meta property="og:title" content="Speech &amp; Communication with MND" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="MND can cause weakness in the tongue, lips, vocal cords and breathing muscles which can result in changes in the ability to speak. Learn about strategies to manage communication with MND." />
+		<meta property="og:image" content="" />
+		<meta property="og:locale" content="en_AU" />
+		<meta property="og:site_name" content="Speech &amp; Communication with MND" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:image" content="" />
+		<meta name="twitter:description" content="MND can cause weakness in the tongue, lips, vocal cords and breathing muscles which can result in changes in the ability to speak. Learn about strategies to manage communication with MND." />
+		<meta name="twitter:title" content="Speech &amp; Communication with MND" />
+		<meta name="twitter:site" content="@mnd" />
+		<meta name="twitter:creator" content="@mnd" />
+
+		<link rel="icon" href="/dist/img/favicon.ico?v=1.0.036">
+		<link rel="apple-touch-icon" href="/dist/img/apple-touch-icon.png?v=1.0.036">
+
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Shippori+Mincho:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+
+		<link rel="stylesheet" href="/dist/styles/main.css?v=1.0.036">
+
+			<link rel="preconnect" href="https://challenges.cloudflare.com" />
+
+
+		<!-- Hotjar Tracking Code for Site 6443782 (name missing) -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:6443782,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X6XEN019KX"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
+	gtag("config", "G-X6XEN019KX");
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != "dataLayer" ? "&l=" + l : "";
+		j.async = true;
+		j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, "script", "dataLayer", "GTM-T3M6F85");
+</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+	(function () {
+		// =========================================================
+		// MAIN LOGIC
+		// =========================================================
+		function wrapWords() {
+			// 1. Fetch words from the body attribute
+			const wordsAttr = document.body.getAttribute("data-reciteme-ignored-words");
+
+			// Safety check: if attribute is missing or empty, stop.
+			if (!wordsAttr) return;
+
+			// 2. Process the string into an array
+			// We split by comma, trim whitespace (e.g., " word " -> "word"),
+			// and filter out empty entries.
+			const wordsToWrap = wordsAttr
+				.split(",")
+				.map((w) => w.trim())
+				.filter((w) => w.length > 0);
+
+			if (wordsToWrap.length === 0) return;
+
+			// 3. Prepare Regex
+			// Escape special regex characters
+			const escapedWords = wordsToWrap.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+
+			// Create Regex with word boundaries (\b)
+			// CHANGED: Removed 'i' flag. Used 'g' only to make it CASE SENSITIVE.
+			const regex = new RegExp(`\\b(${escapedWords.join("|")})\\b`, "g");
+
+			// 4. TreeWalker to find text nodes
+			const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+
+			const textNodes = [];
+			let node;
+
+			// Collect valid text nodes
+			while ((node = walker.nextNode())) {
+				const parentTag = node.parentNode.tagName.toUpperCase();
+				// Skip scripts, styles, textareas, and already wrapped elements
+				if (parentTag !== "SCRIPT" && parentTag !== "STYLE" && parentTag !== "TEXTAREA" && node.parentNode.getAttribute("data-recite-translate-skip") !== "true") {
+					textNodes.push(node);
+				}
+			}
+
+			// 5. Apply the wrapping
+			textNodes.forEach((textNode) => {
+				const text = textNode.nodeValue;
+
+				if (regex.test(text)) {
+					const fragment = document.createDocumentFragment();
+					let lastIndex = 0;
+					regex.lastIndex = 0;
+					let match;
+
+					while ((match = regex.exec(text)) !== null) {
+						const before = text.slice(lastIndex, match.index);
+						if (before) fragment.appendChild(document.createTextNode(before));
+
+						// Create the wrapper span
+						const span = document.createElement("span");
+						span.setAttribute("data-recite-translate-skip", "true");
+						span.textContent = match[0];
+						fragment.appendChild(span);
+
+						lastIndex = regex.lastIndex;
+					}
+
+					const remaining = text.slice(lastIndex);
+					if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+					textNode.parentNode.replaceChild(fragment, textNode);
+				}
+			});
+		}
+
+		// =========================================================
+		// EXECUTION
+		// =========================================================
+		if (document.readyState === "complete" || document.readyState === "interactive") {
+			wrapWords();
+		} else {
+			window.addEventListener("DOMContentLoaded", wrapWords);
+		}
+	})();
+</script>
+
+<script>
+	var serviceUrl = "//uswestapi.reciteme.com/asset/js?key=";
+	var serviceKey = "c9229e6aa634865dcc54bd17b62f554a5d2e5293";
+	var options = {
+		Dom: {
+			word_filters: {
+				mnd: "m.n.d",
+			},
+		},
+	}; // Options can be added as needed
+	var autoLoad = false;
+	var enableFragment = "#reciteEnable";
+	var loaded = [],
+		frag = !1;
+	window.location.hash === enableFragment && (frag = !0);
+	function loadScript(c, b) {
+		var a = document.createElement("script");
+		a.type = "text/javascript";
+		a.readyState
+			? (a.onreadystatechange = function () {
+					if ("loaded" == a.readyState || "complete" == a.readyState) ((a.onreadystatechange = null), void 0 != b && b());
+				})
+			: void 0 != b &&
+				(a.onload = function () {
+					b();
+				});
+		a.src = c;
+		document.getElementsByTagName("head")[0].appendChild(a);
+	}
+	function _rc(c) {
+		c += "=";
+		for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) {
+			for (var d = b[a]; " " == d.charAt(0); ) d = d.substring(1, d.length);
+			if (0 == d.indexOf(c)) return d.substring(c.length, d.length);
+		}
+		return null;
+	}
+	function loadService(c) {
+		for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++) if (loaded[a] == b) return;
+		loaded.push(b);
+		loadScript(serviceUrl + serviceKey, function () {
+			"function" === typeof _reciteLoaded && _reciteLoaded();
+			"function" == typeof c && c();
+			Recite.load(options);
+			Recite.Event.subscribe("Recite:load", function () {
+				Recite.enable();
+			});
+		});
+	}
+	"true" == _rc("Recite.Persist") && loadService();
+	if ((autoLoad && "false" != _rc("Recite.Persist")) || frag)
+		document.addEventListener
+			? document.addEventListener("DOMContentLoaded", function (c) {
+					loadService();
+				})
+			: loadService();
+	function _reciteLoaded() {
+		Recite.Event.subscribe("Controls:loaded", function () {
+			Recite.Dom.setOptions({ word_filters: { mnd: "m.n.d" } });
+		});
+		document.querySelectorAll('[href^="tel:"], .phone').forEach(function (e) {
+			e.setAttribute("data-recite-translate-skip", true);
+		});
+
+		Recite.Event.subscribe("Translate:complete", function () {
+			document.querySelectorAll('.ktc-checkbox, [href^="tel:"]').forEach(function (e) {
+				e.setAttribute("dir", "ltr");
+			});
+		});
+	}
+</script>
+
+<script>
+	(function () {
+		var STORAGE_KEY = "reciteAccessibilityIntroAt";
+		var ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+		function shouldRedirectToAccessibility() {
+			try {
+				var stored = localStorage.getItem(STORAGE_KEY);
+				if (!stored) return true;
+				var elapsed = Date.now() - parseInt(stored, 10);
+				return isNaN(elapsed) || elapsed >= ONE_WEEK_MS;
+			} catch (e) {
+				return true;
+			}
+		}
+
+		function markAccessibilityIntroSeen() {
+			try {
+				localStorage.setItem(STORAGE_KEY, String(Date.now()));
+			} catch (e) {}
+		}
+
+		function enableReciteOnCurrentPage() {
+			if (typeof loadService === "function") {
+				loadService();
+			}
+		}
+
+		function redirectToAccessibility() {
+			markAccessibilityIntroSeen();
+			if (window.location.pathname === "/accessibility") {
+				window.location.href = "/accessibility?t=" + Date.now() + "#reciteEnable";
+			} else {
+				window.location.href = "/accessibility#reciteEnable";
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", function () {
+			document.querySelectorAll(".enableRecite").forEach(function (element) {
+				element.addEventListener("click", function (event) {
+					if (event.preventDefault) event.preventDefault();
+					if (shouldRedirectToAccessibility()) {
+						redirectToAccessibility();
+					} else {
+						enableReciteOnCurrentPage();
+					}
+				});
+			});
+		});
+
+		if (window.location.pathname === "/accessibility" && window.location.hash === "#reciteEnable") {
+			document.addEventListener("DOMContentLoaded", function () {
+				markAccessibilityIntroSeen();
+				loadService();
+				if (typeof Recite !== "undefined") {
+					Recite.Event.subscribe("Recite:load", function () {
+						window.history.replaceState(null, null, window.location.pathname);
+					});
+				} else {
+					setTimeout(function () {
+						if (window.location.hash === "#reciteEnable") {
+							window.history.replaceState(null, null, window.location.pathname);
+						}
+					}, 1000);
+				}
+			});
+		}
+	})();
+</script>
+
+<style>
+@media print {
+.page-banner {
+margin-bottom: 0!important;
+}
+
+#recite-header {
+display: none;
+}
+
+body, header {
+top: 0 !important;
+}
+
+div.h-100 {
+height: auto !important;
+}
+
+.page-sidebar, .mobile-sidebar-dropdown, .page-sidebar-rating {
+display: none !important;
+}
+}
+
+.enableRecite {
+display: flex;
+align-items: center;
+}
+
+.accordion-button--link{
+font-weight: 400;
+}
+
+.accordion-button--link:after {
+display: none;
+}
+</style>
+		
+	</head>
+
+	<body class="" data-reciteme-ignored-words="">
+
+		  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3M6F85"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<script>
+(function() {
+    // =========================================================
+    // MAIN LOGIC
+    // =========================================================
+    function wrapWords() {
+        // 1. Fetch words from the body attribute
+        const wordsAttr = document.body.getAttribute('data-reciteme-ignored-words');
+
+        // Safety check: if attribute is missing or empty, stop.
+        if (!wordsAttr) return;
+
+        // 2. Process the string into an array
+        // We split by comma, trim whitespace (e.g., " word " -> "word"), 
+        // and filter out empty entries.
+        const wordsToWrap = wordsAttr
+            .split(',')
+            .map(w => w.trim())
+            .filter(w => w.length > 0);
+
+        if (wordsToWrap.length === 0) return;
+
+        // 3. Prepare Regex
+        // Escape special regex characters
+        const escapedWords = wordsToWrap.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        
+        // Create Regex with word boundaries (\b) and case-insensitivity (i)
+        const regex = new RegExp(`\\b(${escapedWords.join('|')})\\b`, 'gi');
+
+        // 4. TreeWalker to find text nodes
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const textNodes = [];
+        let node;
+
+        // Collect valid text nodes
+        while (node = walker.nextNode()) {
+            const parentTag = node.parentNode.tagName.toUpperCase();
+            // Skip scripts, styles, textareas, and already wrapped elements
+            if (parentTag !== 'SCRIPT' && 
+                parentTag !== 'STYLE' && 
+                parentTag !== 'TEXTAREA' &&
+                node.parentNode.getAttribute('data-recite-translate-skip') !== 'true') {
+                textNodes.push(node);
+            }
+        }
+
+        // 5. Apply the wrapping
+        textNodes.forEach(textNode => {
+            const text = textNode.nodeValue;
+            
+            if (regex.test(text)) {
+                const fragment = document.createDocumentFragment();
+                let lastIndex = 0;
+                regex.lastIndex = 0;
+                let match;
+
+                while ((match = regex.exec(text)) !== null) {
+                    const before = text.slice(lastIndex, match.index);
+                    if (before) fragment.appendChild(document.createTextNode(before));
+
+                    // Create the wrapper span
+                    const span = document.createElement('span');
+                    span.setAttribute('data-recite-translate-skip', 'true');
+                    span.textContent = match[0]; 
+                    fragment.appendChild(span);
+
+                    lastIndex = regex.lastIndex;
+                }
+
+                const remaining = text.slice(lastIndex);
+                if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+                textNode.parentNode.replaceChild(fragment, textNode);
+            }
+        });
+    }
+
+    // =========================================================
+    // EXECUTION
+    // =========================================================
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        wrapWords();
+    } else {
+        window.addEventListener('DOMContentLoaded', wrapWords);
+    }
+})();
+</script>
+		
+
+		<header class="site-header ">
+			
+
+
+<div class="print-logo">
+	<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+</div>
+
+<div class="subheader-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12">
+				<div class="d-flex justify-content-end">
+					
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+					<ul>
+						<li>
+							<button class="btn btn-link text-white py-1 enableRecite" id="enableRecite1"><img src="/dist/img/a-icon-white.png" class="me-1" style="height: 20px; width: auto;" alt="Language and accessibility">Language and accessibility</button>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="header-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12 d-flex align-items-center justify-content-between position-static">
+				<a href="/" class="header-logo">
+					<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+					<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="logo-transparent" alt="MNDA Logo">
+				</a>
+				<div class="header-nav">
+					<div class="desktop-menu hide-mobile">
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+					</div>
+					<div class="mobile-menu hide-desktop px-4">
+						<div class="mobile-search-menu d-flex mb-4">
+							<input type="text" class="header-mobile-search-input w-100 mb-0" placeholder="What would you like to search for?">
+							<button class="btn btn-link header-mobile-search-submit"><i class="fa-solid fa-search"></i></button>
+						</div>
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3 me-2 enableRecite" id="enableRecite2">
+							<img src="/dist/img/a-icon-orange.png" class="me-2" style="height: 16px; width: auto;" alt="Language and accessibility">
+							<span>Language and accessibility</span>
+						</button>
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3">
+							<i class="fa-solid fa-phone me-2"></i>
+							<span>Get Support</span>
+						</button>
+					</div>
+					<div class="header-submenu get-support-menu hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-12 submenu-wrapper">
+				<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+				<div class="menu-card">
+					<div class="menu-card-title h2 mb-3">Get support</div>
+					<div class="menu-card-content">Call the number below to get directly connected to the local MND association in your State</div>
+					<div class="d-flex align-items-center rounded-lg bg-blue border border-white px-3 px-lg-4 py-3 mt-4 mb-xl-0 mb-4">
+						<img src="/dist/img/australia.svg" class="h-auto" alt="Australia Map">
+						<div class="ps-4 ps-xl-5">
+							<a href="tel:1800 777 175" class="h4 text-white mb-1"><span class="phone">1800 777 175</span></a>
+							<div class="text-white">9am to 4:30pm Monday to Friday</div>
+						</div>
+					</div>
+				</div>
+				<div class="support-contact-container">
+					<div class="accordion" id="accordionContact1">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact1" aria-expanded="false" aria-controls="contentContact1"><span data-recite-translate-skip="true">Australian Capital Territory</span></button>
+							</h2>
+							<div id="contentContact1" class="accordion-collapse collapse" data-bs-parent="#accordionContact1">
+								<div class="accordion-body text-md">
+									<p>(MND services in the <span data-recite-translate-skip="true">ACT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#88e1e6eee7e4e1e6edc8e5e6ece6fbffa6e7faefa6e9fd" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact5">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact5" aria-expanded="false" aria-controls="contentContact5"><span data-recite-translate-skip="true">South Australia</span></button>
+							</h2>
+							<div id="contentContact5" class="accordion-collapse collapse" data-bs-parent="#accordionContact5">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">66 Hughes Street, Mile End SA 5031</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 2087 Hilton Plaza SA 5033</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndsa.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#375a565e5b43580d56535a5e59775a5953445619584550195642" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact2">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact2" aria-expanded="false" aria-controls="contentContact2"><span data-recite-translate-skip="true">New South Wales</span></button>
+							</h2>
+							<div id="contentContact2" class="accordion-collapse collapse" data-bs-parent="#accordionContact2">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital,Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#cca5a2aaa3a0a5a2a98ca1a2a8a2bfbbe2a3beabe2adb9" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact6">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact6" aria-expanded="false" aria-controls="contentContact6"><span data-recite-translate-skip="true">Tasmania</span></button>
+							</h2>
+							<div id="contentContact6" class="accordion-collapse collapse" data-bs-parent="#accordionContact6">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in <span data-recite-translate-skip="true">Tasmania</span> are provided by <span data-recite-translate-skip="true">MND Victoria</span>)</p>
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndatas.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#422b2c242d022f2c26233623316c23312c6c2337" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact3">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact3" aria-expanded="false" aria-controls="contentContact3"><span data-recite-translate-skip="true">Northern Territory</span></button>
+							</h2>
+							<div id="contentContact3" class="accordion-collapse collapse" data-bs-parent="#accordionContact3">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in the <span data-recite-translate-skip="true">NT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005, Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#355c5b535a595c5b5075585b515b46421b5a47521b5440" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact7">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact7" aria-expanded="false" aria-controls="contentContact7"><span data-recite-translate-skip="true">Victoria</span></button>
+							</h2>
+							<div id="contentContact7" class="accordion-collapse collapse" data-bs-parent="#accordionContact7">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mnd.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#f891969e97b895969cd6978a9fd6998d" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact4">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact4" aria-expanded="false" aria-controls="contentContact4"><span data-recite-translate-skip="true">Queensland</span></button>
+							</h2>
+							<div id="contentContact4" class="accordion-collapse collapse" data-bs-parent="#accordionContact4">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">1/89 Factory Road, Oxley QLD 4075</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 470, Inala QLD 4077</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndqld.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#0b62656d644b66656f6a7a2564796c256a7e" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact8">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact8" aria-expanded="false" aria-controls="contentContact8"><span data-recite-translate-skip="true">Western Australia</span></button>
+							</h2>
+							<div id="contentContact8" class="accordion-collapse collapse" data-bs-parent="#accordionContact8">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Unit 1, 184 Raleigh Street, Carlisle WA 6101</span></p>
+									<p>Post: as above</p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndawa.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#2746434a4e49674a494346504609465449094652" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="header-submenu search-menu bg-light hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-xl-8 offset-2 d-flex justify-content-center align-items-center">
+				<div class="search-container w-100">
+					<p class="fw-bold">Search</p>
+					<div class="d-flex">
+						<input type="text" class="form-control header-desktop-search-input w-100 px-3 mb-0" placeholder="What would you like to search for?">
+						<button class="btn btn-orange header-desktop-search-submit ms-3">Search</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="header-actions">
+					<button class="btn btn-outline-orange align-items-center btn-header-support">
+						<i class="fa-solid fa-phone me-2"></i>
+						<span>Get Support</span>
+					</button>
+					<button class="btn btn-link p-0 d-none d-xs-inline-block d-xl-none me-1 enableRecite" id="enableRecite3">
+						<img src="/dist/img/a-icon-blue.png" style="height: 34px; width: auto;" alt="Language and accessibility">
+					</button>
+						<a href="https://donate.mndaustralia.org.au/mndawareness2026" class="btn btn-orange align-items-center ms-0 btn-header-donate">
+							<i class="fa-solid fa-heart me-2"></i>
+							<span>Donate</span>
+						</a>
+					<button class="btn btn-light bg-light align-items-center justify-content-center p-0 rounded-circle btn-header-search">
+						<i class="fa-solid fa-search"></i>
+					</button>
+					<button class="btn btn-link align-items-center justify-content-center p-0 btn-header-toggle">
+						<i class="fa-solid fa-bars"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</header>
+
+
+
+<nav class="breadcrumb-container" aria-label="breadcrumb">
+    <div class="container-xl">
+        <div class="row">
+            <div class="col-12 py-0">
+                <ul class="breadcrumb">
+                <li class="breadcrumb-item">
+                        <a href="/mnd-connect">Information &amp; Support</a>
+                </li>
+                <li class="breadcrumb-item">
+                        <a href="/mnd-connect/living-with-mnd">Living with MND</a>
+                </li>
+                <li class="breadcrumb-item">
+                        <span>Speech and communication</span>
+                </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+		<main>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-fluid pt-0 pb-5 px-0  ">
+        <div class="row gx-0 ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="page-banner banner-md banner-hide-tablet banner-hide-mobile " style="background-color: #2254a0; --bg-color: #2254a0; --bg-image-desktop: url('/getmedia/e020ad9d-784e-41f2-b5da-609f24afb4a7/speech-and-communication-banner-(1).png'); --bg-image-tablet: url(''); --bg-image-mobile: url(''); background-position: right center; background-size: auto 100%;">
+        <div class="container-xl">
+			<div class="content">
+            	<div style="font-size: 1rem"><h1 style="color: rgba(255, 255, 255, 1)">Speech &amp; communication</h1></div>
+			</div>
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-6 col-lg-4 order-2 order-md-1">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+	<div class="page-sidebar page-list">
+		<div class="sidebar-menu">
+				<div class="sidebar-title h5">
+					Living with MND
+				</div>
+				
+			<ul>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/managing-day-to-day">Managing day to day <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/breathing-and-mnd">Breathing and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/medication-for-mnd">Medication for MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/cognition-thinking-behaviour">Cognition thinking and behaviour <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/eating-drinking-swallowing">Eating drinking and swallowing <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/physical-activity-and-mnd">Exercise and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/equipment-assistive-technology-home-modifications">Equipment and home modifications <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/maintaining-weight-for-health-with-motor-neurone-disease">Maintaining weight &amp; nutrition <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/pain-and-mnd">Pain and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/talking-about-end-of-life-and-planning-ahead">Planning ahead &amp; talking about end of life <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/planning-for-emergencies">Planning for emergency care <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/gaming">Gaming &amp; entertainment <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/sexuality-and-intimacy">Sexuality and intimacy <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/friends-relationships">Friends and relationships <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="active">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication">Speech and communication <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/caring-for-your-mental-health">Caring for your mental health <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+			</ul>
+		</div>
+
+			<button class="btn btn-outline-orange btn-print" onclick="window.print()"><i class="fa-solid fa-print me-2 ms-0"></i>PDF/Print this page</button>
+    		<div class="last-updated text-lg my-4">
+				Last updated: <span class="fw-medium">June 2026</span>
+			</div>
+	</div>
+	<div class="mobile-sidebar-dropdown" id="mobileSidebarDropdown">
+		<button type="button" class="mobile-sidebar-dropdown-btn" id="mobileSidebarDropdownBtn" aria-expanded="false" aria-haspopup="true" aria-label="Page navigation">
+			<span class="mobile-sidebar-dropdown-label">Living with MND</span>
+			<i class="fa-solid fa-chevron-down mobile-sidebar-dropdown-chevron" aria-hidden="true"></i>
+		</button>
+		<div class="mobile-sidebar-content mobile-sidebar-dropdown-menu" id="mobileSidebarDropdownMenu" role="menu" hidden>
+			<ul>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/managing-day-to-day" role="menuitem">Managing day to day <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/breathing-and-mnd" role="menuitem">Breathing and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/medication-for-mnd" role="menuitem">Medication for MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/cognition-thinking-behaviour" role="menuitem">Cognition thinking and behaviour <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/eating-drinking-swallowing" role="menuitem">Eating drinking and swallowing <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/physical-activity-and-mnd" role="menuitem">Exercise and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/equipment-assistive-technology-home-modifications" role="menuitem">Equipment and home modifications <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/maintaining-weight-for-health-with-motor-neurone-disease" role="menuitem">Maintaining weight &amp; nutrition <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/pain-and-mnd" role="menuitem">Pain and MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/talking-about-end-of-life-and-planning-ahead" role="menuitem">Planning ahead &amp; talking about end of life <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/planning-for-emergencies" role="menuitem">Planning for emergency care <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/gaming" role="menuitem">Gaming &amp; entertainment <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/sexuality-and-intimacy" role="menuitem">Sexuality and intimacy <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/friends-relationships" role="menuitem">Friends and relationships <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="active" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication" role="menuitem">Speech and communication <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/caring-for-your-mental-health" role="menuitem">Caring for your mental health <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+			</ul>
+		</div>
+	</div>
+		<div class="page-sidebar-rating">
+			
+    <div data-page-rating-component="content-rating-form" 
+         data-content-rating-endpoint="/api/document-rating/submit" 
+         data-document-guid="09822c51-4a77-4cc4-86de-b8ef34e5fc58" 
+         data-document-version="48.0" 
+         data-contact-guid="00000000-0000-0000-0000-000000000000">
+    </div>
+
+		</div>
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-8 order-1 order-md-2">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><p id="isPasted">Motor neurone disease (MND) impacts many aspects of a person’s life, including speech and communication.</p><p>Speech is affected because MND can affect the nerves and muscles used for speaking. When this happens, speech can slur, get softer, and be harder to understand. The medical term for these changes to speech is dysarthria.&nbsp;</p><p>On this page, you’ll find step-by-step information, including videos, to help you:</p><ul><li><a href="#preparing-for-changes">prepare for changes in speech</a></li><li><a href="#when-speech-gets-harder" title="">adjust to changes when speech gets harder</a></li><li><a href="#staying-connected">stay connected without speech</a>.&nbsp;</li></ul><p>Start with the section that best matches <strong>where you are now</strong>.&nbsp;</p><p>When you are ready, you can look at the next section. This will help you to plan ahead, know what your options are, give you time to practise, and make choices that best fit your needs.</p><p>You can choose to read the information on this page, <a href="/mnd-connect/living-with-mnd/speech-communication#Watchvideos" title="">watch the videos</a>, or <a href="/mnd-connect/information-resources#speech-communication" title="https://www.mndaustralia.org.au/mnd-connect/information-resources#speech-communication">download guides and tools</a> to read offline or print.</p><p><br></p></div>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="accordion accordion-flush  mb-3" id="accordion-750b65bf-1079-41fe-92a9-e1f903ba0756"
+     >
+
+
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4072">
+				<button id="preparing-for-changes"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4072"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4072">
+					Preparing for changes in speech
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4072" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4072"
+                >
+                <div class="accordion-body">
+                    <p>About 80% of people living with MND will have changes to speech. Often changes with speech come with changes to swallowing.</p>
+
+<p>If you are diagnosed with bulbar onset MND, or progressive bulbar palsy (PBP), changes to speech and swallowing muscles may be the first signs of MND.</p>
+
+<p>Some early changes to speech you might notice include:</p>
+
+<ul>
+	<li>Words sound slightly slurred.&nbsp;</li>
+	<li>People ask you to repeat yourself.</li>
+	<li>You run out of breath more quickly.</li>
+	<li>Talking is harder when you are tired.</li>
+</ul>
+
+<p>If you notice changes in your speech, tell someone. There is a lot you can do to adjust the way you communicate, and plan ahead. Dealing with changes as they happen helps you stay confident in everyday conversations.</p>
+
+<p>What you can do now to prepare:&nbsp;</p>
+
+<ol>
+	<li><strong>Prepare and plan: </strong><a href="https://youtu.be/PfprkERIEOo?si=je1lEZkmlS5wQW3J" target="_blank">watch Preparing for changes in speech </a>(video)&nbsp;and read the <a href="/getmedia/03eb3dcb-9241-494c-84cc-f37cd4534329/preparing-for-changes-in-speech-guide.pdf">Preparing for changes in speech</a> guide</li>
+	<li><strong>Act early:</strong> talk to your State MND Association, GP, or speech pathologist.</li>
+	<li><strong>Consider voice banking:</strong> see the <a href="/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf">Voice and message banking</a>&nbsp;guide for more.</li>
+	<li><strong>Express your wishes:</strong> Document important health, financial and personal messages so your choices can be respected. See the <a href="/mnd-connect/information-resources/planning-ahead">Planning ahead</a> fact sheet for more.</li>
+	<li><strong>Understand how others can help:</strong> See <a href="/mnd-connect/living-with-mnd/speech-communication#carers-family">Information for carers and family</a> on this page.</li>
+	<li><strong>Apply for funding:</strong> see the <a href="/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf">Funding your communication system</a> guide for more.</li>
+	<li><strong>Support your mental health:</strong> &nbsp;See the <a href="/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf">Mental health and wellbeing</a> guide for more.</li>
+	<li><strong>Try these tips:&nbsp;</strong><a href="/mnd-connect/living-with-mnd/speech-communication#tips">to support speech and communication</a>.</li>
+</ol>
+
+<ul>
+</ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4073">
+				<button id="when-speech-gets-harder"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4073"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4073">
+					When speech gets harder: what you can do
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4073" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4073"
+                >
+                <div class="accordion-body">
+                    <p>MND affects the nerves and muscles used for speaking. This includes the lips, tongue, vocal cords, and muscles on the roof of your mouth (soft palate). Weakness in breathing muscles can also make speech harder.</p>
+
+<p>Some changes you might notice when speech gets harder:</p>
+
+<ul>
+	<li>It takes more effort or energy to speak.&nbsp;</li>
+	<li>Your voice is softer or harder to hear.</li>
+	<li>People ask you to repeat yourself more often.</li>
+	<li>It is harder for people to understand you on the phone.</li>
+	<li>You are using writing, texting, or gestures to help others understand.</li>
+	<li>You cough or get short of breath when speaking.</li>
+</ul>
+
+<p>If you notice changes in your speech, tell your speech pathologist. There is a lot you can do to adjust the way you communicate, and plan ahead. Addressing changes as they happen helps you stay confident in everyday conversations.</p>
+
+<p><strong>What you can do now</strong> to adjust to changes:&nbsp;</p>
+
+<ol>
+	<li><strong>Know what you can do:</strong> <a href="https://youtu.be/NJyclSDVGT4?si=GQItNDErye1E091J" target="_blank">watch When speech gets harder </a>(video) and read the <a href="/getmedia/f8038c32-15b8-4ffa-8a3d-55b699a75a48/when-speech-gets-harder-guide.pdf">When speech gets harder</a> guide.</li>
+	<li><strong>Consider voice banking:</strong> see the <a href="/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf">Voice and message banking</a> guide for more.</li>
+	<li><strong>Express your wishes: </strong>Document important health, financial and personal messages so your choices can be respected. See the <a href="/mnd-connect/information-resources/planning-ahead">Planning ahead</a> fact sheet for more.</li>
+	<li><strong>Try communication tools and tech:</strong> See&nbsp;<a href="/mnd-connect/living-with-mnd/speech-communication#comm-tech-AAC">Communication tools and technology (AAC)</a>&nbsp;on this page.</li>
+	<li><strong>Understand how others can help:</strong> Download <a href="/getmedia/f73f54a1-c4cf-4b52-acea-308802e8ed2b/carer-when-speech-gets-harder-guide.pdf">Carer guide: When speech gets harder</a> or see <a href="/mnd-connect/living-with-mnd/speech-communication#carers-family">Information for carers and family</a> on this page.</li>
+	<li><strong>Apply for funding: </strong>see the <a href="/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf">Funding your communication system</a> guide for more.</li>
+	<li><strong>Support your mental health:&nbsp;</strong>&nbsp;See the <a href="/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf">Mental health and wellbeing</a> guide for more.</li>
+	<li><strong>Try these tips&nbsp;</strong>to <a href="/mnd-connect/living-with-mnd/speech-communication#tips">support speech and communication</a>.</li>
+</ol>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4074">
+				<button id="staying-connected"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4074"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4074">
+					Staying connected without speech
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4074" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4074"
+                >
+                <div class="accordion-body">
+                    <p>For many people living with MND, speech can get harder over time. You may also find it gets harder to use your hands to control devices.&nbsp;</p>
+
+<p>Some changes you might notice when speech is limited, or not possible:</p>
+
+<ul>
+	<li>You rely mostly on gestures, facial expressions, or yes/no signals.</li>
+	<li>Muscle weakness may make pointing, typing, or writing harder.</li>
+	<li>Conversations can take much longer or feel too tiring.</li>
+	<li>You often switch to AAC or yes/no because speech is too hard.</li>
+	<li>People who know you well are more likely to understand you than others.</li>
+</ul>
+
+<p>These changes are hard to deal with. Your speech pathologist can advise you about your options.&nbsp;</p>
+
+<p>With the right mix of tools and support you can express your needs, choices, and feelings. You can follow your interests, take part in family life, and stay connected to the people and activities that matter most.&nbsp;</p>
+
+<p><strong>What you can do now </strong>to stay connected without speech:&nbsp;</p>
+
+<ol>
+	<li><strong>Know what you can do:</strong> <a href="https://youtu.be/HUArxj_jQGw?si=Hzohl-x7C0D7mbQs" target="_blank">watch&nbsp;Staying connected without speech&nbsp;</a>(video)&nbsp;and read the <a href="/getmedia/2aa572ed-c544-4dcc-b8f8-8d8e83159f48/staying-connected-without-speech-guide.pdf">Staying connected without speech</a>&nbsp;guide.</li>
+	<li><strong>Stay involved in daily life:</strong> with a mix of <a href="/mnd-connect/living-with-mnd/speech-communication#comm-tech-AAC">Communication tools and technology (AAC)</a>.</li>
+	<li><strong>Share your healthcare needs:</strong> with the <a href="/getmedia/e6736f04-82ae-4c43-8838-896593cdbcdb/MND-My-Care-Needs_Nov24.pdf">My care needs</a> form.</li>
+	<li><strong>Express your wishes:</strong> Document important health, financial and personal messages so your choices can be respected. See the <a href="/mnd-connect/information-resources/planning-ahead">Planning ahead</a> fact sheet for more.</li>
+	<li>
+	<p><strong>Understand how others can help: </strong>Download <a href="/getmedia/12f0f0e6-b57e-42d7-aa51-e42dc3fd3bcd/carer-staying-connected-without-speech-guide.pdf">Carer guide: Staying connected without speech</a> or see <a href="/mnd-connect/living-with-mnd/speech-communication#carers-family">Information for carers and family</a> on this page.&nbsp;</p>
+	</li>
+	<li><strong>Apply for funding:</strong> see the <a href="/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf">Funding your communication system</a> guide for more.</li>
+	<li><strong>Support your mental health:</strong> &nbsp;See the <a href="/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf">Mental health and wellbeing</a> guide for more.</li>
+	<li><strong>Try these tips</strong> <a href="/mnd-connect/living-with-mnd/speech-communication#tips">to support speech and communication</a>.</li>
+</ol>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4079">
+				<button id="tips"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4079"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4079">
+					Tips to support communication
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4079" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4079"
+                >
+                <div class="accordion-body">
+                    <p>If you feel comfortable, tell people your speech can be tricky to understand. You can also try these tips to make communicating easier, or suggest them to others.</p>
+
+<p>You don’t have to use all of these at once – try one or two and see what works for you.<br>
+<br>
+<strong><a id="tips-living-with-mnd" name="tips-living-with-mnd">Tips</a> for you</strong></p>
+
+<ul>
+	<li>Slow down, use short phrases, and over-pronounce words.</li>
+	<li>Turn off the TV, music or radio before talking.</li>
+	<li>Plan important conversations for when you are less tired.</li>
+	<li>Prepare ahead for appointments by writing or recording key points and questions.</li>
+	<li>Use a notebook, phone or tablet to back up your speech.</li>
+	<li>Add the ‘<a href="/getmedia/62ff15aa-2bad-459a-8850-92f7e72866f8/i-have-mnd-phone.jpg">I have MND’ card to your phone</a> or <a href="/getmedia/ed671cea-287f-4bf5-aea5-b77e2efd827c/i-have-mnd-wallet.jpg">download and print</a>.</li>
+	<li>Take a breath before you start talking.&nbsp;</li>
+	<li>Sit upright when talking to give your lungs more space.</li>
+</ul>
+
+<p><a href="https://youtu.be/NJyclSDVGT4?si=-dGha1VGr80DBl7U" target="_blank">Watch this video</a> for more tips on what to do, including communication tools and technology.</p>
+
+<p>You can also visit the other sections on this page.</p>
+
+<ul>
+	<li><a href="#tips-carers">Tips for carers, family and health professionals</a></li>
+	<li><a href="/mnd-connect/living-with-mnd/speech-communication#preparing-for-changes">Preparing for changes in speech</a></li>
+	<li><a href="/mnd-connect/living-with-mnd/speech-communication#when-speech-gets-harder">When speech gets harder</a></li>
+	<li><a href="/mnd-connect/living-with-mnd/speech-communication#staying-connected">Staying connected without speech</a></li>
+	<li><a href="/mnd-connect/living-with-mnd/speech-communication#comm-tech-AAC">Communication tools and technology (AAC)</a></li>
+</ul>
+&nbsp;
+
+<p><strong><a id="tips-carers" name="tips-carers">Tips</a> for carers, family and health professionals</strong></p>
+
+<p>Try these tips to support communication with a person with speech changes:&nbsp;</p>
+
+<ul>
+	<li>be patient, wait for the person&nbsp;to finish their sentence</li>
+	<li>face the person when talking so they can see you and hear clearly</li>
+	<li>if possible, choose somewhere quiet to talk</li>
+	<li>repeat back what you heard to check you heard right</li>
+	<li>ask questions that only need a 'yes/no' answer&nbsp;</li>
+	<li>support them to plan ahead, organise appointments and apply for funding</li>
+	<li>suggest a different method e.g. pen and paper, communication board, device.</li>
+</ul>
+
+<p>See <a href="/mnd-connect/living-with-mnd/speech-communication#carers-family">Information for carers and family</a>&nbsp;for more.</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4075">
+				<button id="comm-tech-AAC"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4075"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4075">
+					Communication tools and technology (AAC)
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4075" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4075"
+                >
+                <div class="accordion-body">
+                    <p>When speech gets harder, communication tools and technology can help you stay connected.&nbsp;</p>
+
+<p>This can be as simple as a pen and paper or tablet app, or as advanced as a speech-generating device that “talks” for you.</p>
+
+<p><strong>Communication tools and technology can help to:</strong></p>
+
+<ul>
+	<li>reduce frustration and fatigue</li>
+	<li>use your own voice even as speech gets harder – see <a href="/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf">Voice and message banking</a> for more</li>
+	<li>make it easier to get your message across&nbsp;</li>
+	<li>share your needs and stay part of conversations – download the <a href="/getmedia/ed671cea-287f-4bf5-aea5-b77e2efd827c/i-have-mnd-wallet.jpg">'I have MND' wallet card</a> or <a href="/getmedia/62ff15aa-2bad-459a-8850-92f7e72866f8/i-have-mnd-phone.jpg">phone wallpaper</a></li>
+	<li>express your needs in an emergency (‘I need help’, or ‘Please wait’) – see <a href="/mnd-connect/information-resources#care-needs">'My care needs'</a> form</li>
+	<li>stay independent at home, in hospital, or in the community.&nbsp;</li>
+</ul>
+
+<p><strong>Find out more:</strong></p>
+
+<ul>
+	<li>See <a href="/mnd-connect/living-with-mnd/speech-communication#tips">Tips to support communication and speech</a> on this page</li>
+	<li>
+	<p>Download <a href="/getmedia/e6783cdd-9dbd-417b-8c90-803ad4249c97/communication-tools-and-tech-AAC-guide.pdf">Communication tools and technology (AAC)</a></p>
+	</li>
+	<li>
+	<p>Watch&nbsp;<a href="https://youtu.be/NJyclSDVGT4?si=ucylcxo9dgagQtov&amp;t=343" target="_blank">the demonstrations in this video</a>.</p>
+	</li>
+</ul>
+
+<p><strong>Other useful guides and tools</strong></p>
+
+<ul>
+	<li style="font-size: 1.125rem">
+	<p><a href="/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf">Voice and message banking</a><strong>:</strong> understand voice and message banking, know your options and get started.</p>
+	</li>
+	<li><a href="/getmedia/92e34324-36f0-431e-9c79-1fa0ba268098/building-your-communication-system-guide.pdf">Building your communication system</a><strong>:</strong> find the right tools and technology for you, for now and later with support from a speech pathologist and occupational therapist.</li>
+	<li><a href="/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf">Funding your communication system</a><strong>:</strong> Information about funding options for your communication system including NDIS, My Aged Care and your MND Association.&nbsp;</li>
+	<li><a href="/getmedia/97d6f676-1269-4db5-9be5-f76e4f836eb5/PAS-and-communication-boards-guide.pdf">PAS (partner-assisted scanning) and communication boards</a><strong>:</strong> Information about PAS (partner-assisted scanning), a starter pack communication boards and instructions on how to use them together.&nbsp;</li>
+	<li><strong><a href="/getmedia/6e791a4c-4562-433e-ba7c-ff7190cf64c7/I-have-MND-wallet.jpg">'</a></strong><a href="/getmedia/ed671cea-287f-4bf5-aea5-b77e2efd827c/i-have-mnd-wallet.jpg">I have MND</a><strong><a href="/getmedia/6e791a4c-4562-433e-ba7c-ff7190cf64c7/I-have-MND-wallet.jpg">’</a>:</strong> Printable card to keep in your wallet, or <a href="/getmedia/62ff15aa-2bad-459a-8850-92f7e72866f8/i-have-mnd-phone.jpg">save as a wallpaper </a>on your phone. Lets people know that you have MND, but can hear and understand. You can also ask your MND Association to print and laminate for you.</li>
+	<li><a href="/mnd-connect/information-resources#care-needs">'My care needs'</a>: This document introduces you and your needs, saving your energy and improving the care you receive. Save and share with family, your GP, and your MND team.</li>
+</ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4076">
+				<button id="carers-family"
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4076"
+						aria-controls="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4076">
+					Information for carers and family
+				</button>
+            </h2>
+            <div class="collapse" id="elem_750b65bf-1079-41fe-92a9-e1f903ba0756_4076" aria-labelledby="header_750b65bf-1079-41fe-92a9-e1f903ba0756_4076"
+                >
+                <div class="accordion-body">
+                    <p>When speech changes with MND, carers play a big role in making conversations easier, calmer, and less tiring.&nbsp;</p>
+
+<p><strong>What you can do now&nbsp;</strong></p>
+
+<ol>
+	<li>
+	<p><strong>Prepare and plan:</strong> <a href="/mnd-connect/living-with-mnd/speech-communication#Watchvideos">Watch these videos</a> and <a href="#carer-guides">download these guides</a>.</p>
+	</li>
+	<li>
+	<p><strong>Act early:</strong> Support the person living with MND to&nbsp;talk with their State MND Association, GP, or speech pathologist.</p>
+	</li>
+	<li>
+	<p><strong>Support dignity and autonomy: </strong>Give support to help document important health, financial and personal messages so choices can be respected. See the <a href="/mnd-connect/information-resources/planning-ahead">Planning ahead</a> fact sheet for more.</p>
+	</li>
+	<li>
+	<p><strong>Apply for funding:</strong> see the <a href="/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf">Funding your communication system</a> guide for more.</p>
+	</li>
+	<li>
+	<p><strong>Support your mental health:</strong> Caring for a person living with MND can be rewarding, but can also be very hard. Remember your wellbeing matters too. See the<a href="/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf"> Mental health and wellbeing </a>guide for more.</p>
+	</li>
+	<li>
+	<p><strong>Try these tips:&nbsp;</strong><a href="/mnd-connect/living-with-mnd/speech-communication#tips">to support communication</a> with a person with speech changes.</p>
+	</li>
+</ol>
+
+<p><strong><a id="carer-guides" name="carer-guides">Carer Guides</a>: Speech and communication in MND</strong></p>
+
+<p>These downloadable guides give detailed information for carers supporting a person with changes in speech (dysarthria).</p>
+
+<ul>
+	<li><a href="/getmedia/f73f54a1-c4cf-4b52-acea-308802e8ed2b/carer-when-speech-gets-harder-guide.pdf">When speech gets harder</a></li>
+	<li><a href="/getmedia/12f0f0e6-b57e-42d7-aa51-e42dc3fd3bcd/carer-staying-connected-without-speech-guide.pdf">Staying connected without speech</a>&nbsp;</li>
+	<li><a href="/getmedia/815b6e76-1255-42f4-a35c-c48ea2957221/carer-using-simple-communication-tools-guide.pdf">Using simple communication tools</a>&nbsp;</li>
+	<li><a href="/getmedia/97d6f676-1269-4db5-9be5-f76e4f836eb5/PAS-and-communication-boards-guide.pdf">PAS (partner-assisted scanning) and communication boards</a></li>
+	<li><a href="/getmedia/43834b05-1c5b-4306-8a7b-3e24a35fc7ff/carer-communicating-at-end-of-life-guide.pdf">Communicating at end of life</a></li>
+</ul>
+
+<p>Topics include:</p>
+
+<ul>
+	<li>
+	<p>Practical tips, advice and support</p>
+	</li>
+	<li>
+	<p>Communication tools and technology options</p>
+	</li>
+	<li>
+	<p>Who can help</p>
+	</li>
+	<li>
+	<p>How to repair conversation breakdowns</p>
+	</li>
+	<li>
+	<p>How to use PAS (partner assisted scanning)</p>
+	</li>
+	<li>
+	<p>How to stay connected when speech gets harder</p>
+	</li>
+	<li>
+	<p>How to talk to someone using eye-gaze</p>
+	</li>
+	<li>
+	<p>Daily checklists and more</p>
+	</li>
+</ul>
+
+                </div>
+            </div>
+        </div>
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+<div class="rich-text-block p-4 mt-3 mb-0 shadow-none rounded-3 text-start justify-content-start " style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+        <div class="content">
+            <div style="font-size: 1rem"><h3 class="accordion-header h4 h5"><span class="anchor-link">Watch videos</span></h3></div>
+        </div>
+
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="mt-3 mb-3 rounded-5 overflow-hidden">
+	<div class="vid-fluid">
+				<iframe src="https://www.youtube.com/embed/PfprkERIEOo?si=PW46SkwBI4pRgHCm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="mt-3 mb-3 rounded-5 overflow-hidden">
+	<div class="vid-fluid">
+				<iframe src="https://www.youtube.com/embed/NJyclSDVGT4?si=gkO5EV-6v01Up36G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="mt-3 mb-3 rounded-5 overflow-hidden">
+	<div class="vid-fluid">
+				<iframe src="https://www.youtube.com/embed/HUArxj_jQGw?si=jhidLdIEMkS9DNze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-4 pb-5   ">
+        <div class="row none ">
+                    <div class="col-md-6 col-lg-4">
+						<div class="h-100 ">
+                        	
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-8">
+						<div class="h-100 ">
+                        	
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row gx-6 gy-6 ">
+                    <div class="col-md-6 col-lg-4">
+						<div class="h-100 ">
+                        	
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-8">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><p><strong class="page-meta-title" id="isPasted"><span style="color: rgba(34, 84, 160, 1)">Sources and acknowledgements</span></strong></p><div class="make-links-grayscale make-links-underlined remove-link-icons"><ul><li class="text-lg text-sm"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none" id="isPasted">This series was developed with MND Queensland, people living with MND, and their carers to help prepare for and adjust to speech changes, get support, and stay connected.</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap">&nbsp;</span></li><li class="text-lg text-sm"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none" id="isPasted">This project and MND Australia received funding from the Australian Government Department of Health, Disability and Ageing.</span><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none white-space-prewrap"> </span></span></li></ul></div></div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+<div class="">
+    <div class="container  ">
+        
+    </div>
+</div>
+
+
+
+				<div class="bg-light footer-subscribe">
+					<div class="container-xl pt-5 pb-4">
+						<div class="row gy-4">
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+							<div class="fr-view">
+								<h2 class="display-4">Keep in touch</h2><p class="lead">
+									Get the latest news about MND research,
+									<br>care &amp; advocacy right in your inbox.
+								</p>
+							</div>
+							</div>
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+								
+
+
+
+
+
+
+
+
+
+
+<div id="form-Subscribe-da6d_wrapper-4b59c15f-5c62-46b9-8e8e-23f141263c2a"><form action="/Kentico.Components/en-AU/Kentico.FormWidget/KenticoFormWidget/FormSubmit?formName=Subscribe&amp;prefix=form-Subscribe-da6d&amp;displayValidationErrors=False" data-ktc-ajax-update="form-Subscribe-da6d_wrapper-4b59c15f-5c62-46b9-8e8e-23f141263c2a" id="form-Subscribe-da6d" method="post" onsubmit="window.kentico.updatableFormHelper.submitForm(event);">
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-32523674-c669-43c7-b2be-6daf0386b693" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-da6d_FirstName_Value" name="form-Subscribe-da6d.FirstName.Value" placeholder="First Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.FirstName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.FirstName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-da6d_LastName_Value" name="form-Subscribe-da6d.LastName.Value" placeholder="Last Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.LastName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.LastName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-af9742d8-9f02-4509-bff3-37a168e6f5c3" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-12">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-da6d_Email_Email" name="form-Subscribe-da6d.Email.Email" placeholder="Email" type="email" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.Email.Email" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.Email" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+    <div class="form-field form-field--turnstile visually-hidden"
+         data-form-turnstile-root
+         data-form-turnstile-sitekey="0x4AAAAAADeRPpMNkYxjKUuq"
+         data-form-turnstile-theme="auto"
+         data-form-turnstile-execution="execute"
+         data-form-turnstile-input-id="form-Subscribe-da6d_FormTurnstile_TurnstileResponse"
+         data-form-turnstile-managed="true">
+        <input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-da6d_FormTurnstile_TurnstileResponse" name="form-Subscribe-da6d.FormTurnstile.TurnstileResponse" type="hidden" value="" />
+        <div data-form-turnstile-container></div>
+        <div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div>
+    </div>
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-da6d.FormTurnstile" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+<input type="submit" value="Submit" /><input name="__RequestVerificationToken" type="hidden" value="CfDJ8BaJsa1WysJCmp7B4D0IyqBis8k348BdgmhOZAaCeI_DqqBowkBjFCR8NCARdDLIiym_gs56YjLyMDpU2hZdNcSTeS0oKIkZuxOgOeLMhvmH5kat-HD6mxGf7RridJ8M8RKZfZg9BHDa6D9MVTN2cYY" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+if (document.readyState === 'complete') {
+  window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-da6d","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+} else {
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-da6d","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+    });
+}</script></form></div>
+    
+
+
+							</div>
+						</div>
+					</div>
+				</div>			
+		</main>
+
+		<footer class="site-footer">
+			
+
+
+
+
+<div class="container-xl">
+	<div class="row">
+		<div class="col-12">
+			<div class="footer-top">
+				<div class="row gy-4">
+					<div class="col-xl-2">
+						<a href="/">
+							<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="footer-logo" alt="MND Logo">
+						</a>
+					</div>
+					<div class="col-xl-6 offset-xl-1">
+						<div class="row gy-4">
+							<div class="col-sm-6">
+								<p class="menu-header">Information for</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/living-with-mnd" target="">People living with MND</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/support-for-carers-family-friends" target="">Family members and carers</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/for-health-professionals-service-providers" target="">Health professionals</a>
+            </li>
+            <li>
+                    <a href="/get-involved" target="">Supporting MND Australia</a>
+            </li>
+    </ul>
+
+							</div>
+							<div class="col-sm-6">
+								<p class="menu-header">Popular links</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd" target="">What is MND?</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/types-of-mnd" target="">Types of MND</a>
+            </li>
+            <li>
+                    <a href="/research" target="">MND research</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/find-services" target="">Find services and support</a>
+            </li>
+            <li>
+                    <a href="/get-involved/national-mnd-lived-experience-network" target="">MND Lived Experience Network</a>
+            </li>
+    </ul>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<img src="/getmedia/1b2620fd-0448-4f01-8144-210f321f87f0/footer-partners.png?width=318&amp;height=222&amp;ext=.png" alt="MND Parnter Logos">
+					</div>
+				</div>
+			</div>
+			<div class="footer-middle">
+				
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/contact-us" target="">Contact Us</a>
+            </li>
+            <li>
+                    <a href="/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf" target="">Privacy Policy</a>
+            </li>
+            <li>
+                    <a href="/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf" target="">Whistleblower policy</a>
+            </li>
+            <li>
+                    <a href="/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU" target="">Terms & conditions</a>
+            </li>
+            <li>
+                    <a href="/sitemap" target=""> Site map</a>
+            </li>
+    </ul>
+
+			</div>
+
+			<div class="footer-bottom">
+				<div class="row">
+					<div class="col-xl-10">
+						<p class="footer-text">©MND Australia 2025</p>
+						<p class="footer-text">MND Australia would like to advise Aboriginal and Torres Strait Islander users that this website may contain images or names of deceased persons.</p>
+					</div>
+					<div class="col-xl-2">
+						<div class="social-menu">
+							<a href="https://www.facebook.com/mndaustralia" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#facebook"></use>
+								</svg>
+							</a>
+							<a href="https://www.instagram.com/mnd_australia/?hl=en" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#instagram"></use>
+								</svg>
+							</a>
+							<a href="https://www.youtube.com/user/MNDAust" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#youtube"></use>
+								</svg>
+							</a>
+							<a href="https://www.linkedin.com/company/2181170/admin/" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#linkedin"></use>
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		</footer>
+
+		<div class="toast-container position-fixed bottom-0 start-50 translate-middle-x py-2 d-flex justify-content-center align-items-center">
+			<div id="copyToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true" style="max-width: calc(90% - 2rem);">
+				<div class="toast-body border d-flex align-items-center justify-content-between">
+					<b>Link copied to clipboard</b> <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+				</div>
+			</div>
+		</div>
+
+		<div class="overlay-bg"></div>
+
+		<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript">
+window.kentico = window.kentico || {};
+window.kentico.builder = {}; 
+window.kentico.builder.useJQuery = true;</script><script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+		
+
+		<script src="/dist/scripts/main.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-segmentation.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-pdf-print.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-submit-loading.js?v=1.0.036"></script>
+			<script>
+				window.MNDTurnstile = {
+					enabled: true,
+					siteKey: "0x4AAAAAADeRPpMNkYxjKUuq",
+					theme: "auto",
+					execution: "execute"
+				};
+			</script>
+			<script src="/dist/scripts/form-turnstile.js?v=1.0.036"></script>
+
+		<script src="/dist/vue/js/app.eff72682.js"></script>
+		<script src="/dist/vue/js/chunk-vendors.e48da9d1.js"></script>
+
+		
+		
+	<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon='{"version":"2024.11.0","token":"662ec7845dfb47fcaa3eaf3731c790af","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

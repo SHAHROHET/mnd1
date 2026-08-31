@@ -1,0 +1,191 @@
+{
+  "source_id": "australian-clinical-trials:home",
+  "title": "Australian Clinical Trials",
+  "publisher": "Australian Clinical Trials",
+  "url": "https://www.australianclinicaltrials.gov.au/",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 8111,
+  "crawl_depth": 0,
+  "seed_url": "https://www.australianclinicaltrials.gov.au/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.australianclinicaltrials.gov.au/#content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.australianclinicaltrials.gov.au/#main-nav-default"
+    },
+    {
+      "text": "https://www.australianclinicaltrials.gov.au/",
+      "url": "https://www.australianclinicaltrials.gov.au/"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.australianclinicaltrials.gov.au/contact-us"
+    },
+    {
+      "text": "National reforms",
+      "url": "https://www.australianclinicaltrials.gov.au/national-reforms"
+    },
+    {
+      "text": "National One Stop Shop",
+      "url": "https://www.australianclinicaltrials.gov.au/national-reforms/national-one-stop-shop-health-and-medical-research"
+    },
+    {
+      "text": "HREC accreditation",
+      "url": "https://www.australianclinicaltrials.gov.au/national-reforms/accreditation-human-research-ethics-committees"
+    },
+    {
+      "text": "Governance Framework",
+      "url": "https://www.australianclinicaltrials.gov.au/national-reforms/national-clinical-trials-governance-framework"
+    },
+    {
+      "text": "National SOPs",
+      "url": "https://www.australianclinicaltrials.gov.au/national-reforms/national-sops"
+    },
+    {
+      "text": "Inter-Governmental Policy Reform Group",
+      "url": "https://www.australianclinicaltrials.gov.au/about/igprg"
+    },
+    {
+      "text": "About",
+      "url": "https://www.australianclinicaltrials.gov.au/about"
+    },
+    {
+      "text": "What is a clinical trial?",
+      "url": "https://www.australianclinicaltrials.gov.au/about/what-is-a-clinical-trial"
+    },
+    {
+      "text": "How clinical trials work",
+      "url": "https://www.australianclinicaltrials.gov.au/about/how-they-work"
+    },
+    {
+      "text": "Find a clinical trial",
+      "url": "https://www.australianclinicaltrials.gov.au/about/find"
+    },
+    {
+      "text": "Participants",
+      "url": "https://www.australianclinicaltrials.gov.au/participants"
+    },
+    {
+      "text": "Who can participate",
+      "url": "https://www.australianclinicaltrials.gov.au/participants/who-can-participate"
+    },
+    {
+      "text": "What you should know",
+      "url": "https://www.australianclinicaltrials.gov.au/participants/what-you-should-know"
+    },
+    {
+      "text": "Concerns",
+      "url": "https://www.australianclinicaltrials.gov.au/participants/concerns"
+    },
+    {
+      "text": "Healthcare providers",
+      "url": "https://www.australianclinicaltrials.gov.au/healthcare-providers"
+    },
+    {
+      "text": "Talking to your patients",
+      "url": "https://www.australianclinicaltrials.gov.au/healthcare-providers/talking-to-your-patients"
+    },
+    {
+      "text": "Referring a patient",
+      "url": "https://www.australianclinicaltrials.gov.au/healthcare-providers/referring-patients"
+    },
+    {
+      "text": "Sponsors",
+      "url": "https://www.australianclinicaltrials.gov.au/industry-and-sponsors"
+    },
+    {
+      "text": "Why conduct your trial in Australia",
+      "url": "https://www.australianclinicaltrials.gov.au/industry-and-sponsors/why-conduct-in-australia"
+    },
+    {
+      "text": "Sponsoring a trial",
+      "url": "https://www.australianclinicaltrials.gov.au/industry-and-sponsors/sponsoring-in-australia"
+    },
+    {
+      "text": "Researchers",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers"
+    },
+    {
+      "text": "Starting a clinical trial",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/starting"
+    },
+    {
+      "text": "Talking to potential participants",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/talking-to-potential-participants"
+    },
+    {
+      "text": "Principles and governance",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/principles-and-governance"
+    },
+    {
+      "text": "Good Clinical Practice (GCP)",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/good-clinical-practice"
+    },
+    {
+      "text": "Apply for ethics approval",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/apply-for-ethics-approval"
+    },
+    {
+      "text": "Register a clinical trial",
+      "url": "https://www.australianclinicaltrials.gov.au/researchers/register"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.australianclinicaltrials.gov.au/resources"
+    },
+    {
+      "text": "Australian New Zealand Clinical Trials Registry (ANZCTR)",
+      "url": "https://anzctr.org.au/"
+    },
+    {
+      "text": "Advanced search",
+      "url": "https://www.australianclinicaltrials.gov.au/about/find/advanced-search"
+    },
+    {
+      "text": "National reforms in health and medical research",
+      "url": "https://www.australianclinicaltrials.gov.au/resources/national-reforms-health-and-medical-research"
+    },
+    {
+      "text": "Minister Butler’s message to the Inter-Governmental Policy Reform Group (IGPRG)",
+      "url": "https://www.australianclinicaltrials.gov.au/resources/minister-butlers-message-inter-governmental-policy-reform-group-igprg"
+    },
+    {
+      "text": "What is a clinical trial? – Trial researchers",
+      "url": "https://www.australianclinicaltrials.gov.au/resources/what-clinical-trial-trial-researchers"
+    },
+    {
+      "text": "View more resources",
+      "url": "https://www.australianclinicaltrials.gov.au/resources?sort_by=field_h_date_updated_value&sort_order=DESC"
+    },
+    {
+      "text": "About our website",
+      "url": "https://www.australianclinicaltrials.gov.au/using-our-website/about"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.australianclinicaltrials.gov.au/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.australianclinicaltrials.gov.au/copyright"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.australianclinicaltrials.gov.au/disclaimer"
+    },
+    {
+      "text": "Freedom of information (FOI)",
+      "url": "https://www.australianclinicaltrials.gov.au/freedom-information-foi"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.australianclinicaltrials.gov.au/privacy"
+    }
+  ],
+  "text": "Australian Clinical Trials\n\nSkip to main content Skip to main navigation\n\n## Secondary navigation\n\n### Sub menu\n\n- Contact us\n\nSearch\n\n## Main navigation\n\nMenu Search\n\nClose\n\n- Home\n\n- National reforms\n\n- National One Stop Shop\n\n- HREC accreditation\n\n- Governance Framework\n\n- National SOPs\n\n- Inter-Governmental Policy Reform Group\n\n- About\n\n- What is a clinical trial?\n\n- How clinical trials work\n\n- Find a clinical trial\n\n- Participants\n\n- Who can participate\n\n- What you should know\n\n- Concerns\n\n- Healthcare providers\n\n- Talking to your patients\n\n- Referring a patient\n\n- Sponsors\n\n- Why conduct your trial in Australia\n\n- Sponsoring a trial\n\n- Researchers\n\n- Starting a clinical trial\n\n- Talking to potential participants\n\n- Principles and governance\n\n- Good Clinical Practice (GCP)\n\n- Apply for ethics approval\n\n- Register a clinical trial\n\n- Resources\n\n# Australian Clinical Trials\n\nAn Australian Government initiative to provide information and resources to participants, healthcare providers, researchers and industry about taking part in, accessing and running clinical trials.\n\n## Search for a clinical trial\n\nFind a clinical trial listed in the Australian New Zealand Clinical Trials Registry (ANZCTR) . You can do a basic search or use the advanced search to enter more parameters.\n\nOnce you find a relevant trial, contact details are available from the ANZCTR study link.\n\nFind out more\n\nKeyword\n\nBroad health condition All Alternative and Complementary Medicine Anaesthesiology Blood Cancer Cardiovascular Diet and Nutrition Ear Eye Human Genetics and Inherited Disorders Infection Inflammatory and Immune System Injuries and Accidents Mental Health Metabolic and Endocrine Musculoskeletal Neurological Oral and Gastrointestinal Other Physical Medicine / Rehabilitation Public Health Renal and Urogenital Reproductive Health and Childbirth Respiratory Skin Stroke Surgery\n\nSpecific health condition All\n\nFirst, select a broad health condition.\n\nAdvanced search\n\n### About clinical trials\n\nFind out what a clinical trial is, why they’re important, and the different types and phases of clinical trials.\n\n### Find a clinical trial\n\nFind all the different places with information about clinical trials.\n\n### Who can take part\n\nFind out who can participate in a clinical trial and how to take part.\n\n### National reforms\n\nWe are working on national reforms to improve the clinical trial operating environment, including establishing the National One Stop Shop.\n\n## Your stories\n\n02:16\n\n### National reforms in health and medical research\n\nThis video provides an overview on national reforms to support clinical trials in Australia and why they are important.\n\n21 July 2025\n\n03:11\n\n### Minister Butler’s message to the Inter-Governmental Policy Reform Group (IGPRG)\n\nMinister Butler addressed IGPRG members stating the importance of health and medical research in Australia and the national reforms to build on the status of Australia for conducting clinical trials of the highest quality.\n\n2:27\n\n### What is a clinical trial? – Trial researchers\n\nThe video is a highlight reel of clinical trial researchers sharing their involvement in clinical trials.\n\n21 February 2025\n\nView more resources\n\nWe acknowledge the traditional owners of country throughout Australia, and their continuing connection to land, sea and community. We pay our respects to them and their cultures, and to elders both past and present.\n\n## Using our website\n\n- About our website\n\n- Accessibility\n\n- Copyright\n\n- Disclaimer\n\n- Freedom of information (FOI)\n\n- Privacy\n\n## Help us improve\n\nWe are always looking for ways to improve our website.\n\nProvide feedback\n\n© Commonwealth of Australia\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.australianclinicaltrials.gov.au/#content\n\n- Skip to main navigation: https://www.australianclinicaltrials.gov.au/#main-nav-default\n\n- https://www.australianclinicaltrials.gov.au/: https://www.australianclinicaltrials.gov.au/\n\n- Contact us: https://www.australianclinicaltrials.gov.au/contact-us\n\n- National reforms: https://www.australianclinicaltrials.gov.au/national-reforms\n\n- National One Stop Shop: https://www.australianclinicaltrials.gov.au/national-reforms/national-one-stop-shop-health-and-medical-research\n\n- HREC accreditation: https://www.australianclinicaltrials.gov.au/national-reforms/accreditation-human-research-ethics-committees\n\n- Governance Framework: https://www.australianclinicaltrials.gov.au/national-reforms/national-clinical-trials-governance-framework\n\n- National SOPs: https://www.australianclinicaltrials.gov.au/national-reforms/national-sops\n\n- Inter-Governmental Policy Reform Group: https://www.australianclinicaltrials.gov.au/about/igprg\n\n- About: https://www.australianclinicaltrials.gov.au/about\n\n- What is a clinical trial?: https://www.australianclinicaltrials.gov.au/about/what-is-a-clinical-trial\n\n- How clinical trials work: https://www.australianclinicaltrials.gov.au/about/how-they-work\n\n- Find a clinical trial: https://www.australianclinicaltrials.gov.au/about/find\n\n- Participants: https://www.australianclinicaltrials.gov.au/participants\n\n- Who can participate: https://www.australianclinicaltrials.gov.au/participants/who-can-participate\n\n- What you should know: https://www.australianclinicaltrials.gov.au/participants/what-you-should-know\n\n- Concerns: https://www.australianclinicaltrials.gov.au/participants/concerns\n\n- Healthcare providers: https://www.australianclinicaltrials.gov.au/healthcare-providers\n\n- Talking to your patients: https://www.australianclinicaltrials.gov.au/healthcare-providers/talking-to-your-patients\n\n- Referring a patient: https://www.australianclinicaltrials.gov.au/healthcare-providers/referring-patients\n\n- Sponsors: https://www.australianclinicaltrials.gov.au/industry-and-sponsors\n\n- Why conduct your trial in Australia: https://www.australianclinicaltrials.gov.au/industry-and-sponsors/why-conduct-in-australia\n\n- Sponsoring a trial: https://www.australianclinicaltrials.gov.au/industry-and-sponsors/sponsoring-in-australia\n\n- Researchers: https://www.australianclinicaltrials.gov.au/researchers\n\n- Starting a clinical trial: https://www.australianclinicaltrials.gov.au/researchers/starting\n\n- Talking to potential participants: https://www.australianclinicaltrials.gov.au/researchers/talking-to-potential-participants\n\n- Principles and governance: https://www.australianclinicaltrials.gov.au/researchers/principles-and-governance\n\n- Good Clinical Practice (GCP): https://www.australianclinicaltrials.gov.au/researchers/good-clinical-practice\n\n- Apply for ethics approval: https://www.australianclinicaltrials.gov.au/researchers/apply-for-ethics-approval\n\n- Register a clinical trial: https://www.australianclinicaltrials.gov.au/researchers/register\n\n- Resources: https://www.australianclinicaltrials.gov.au/resources\n\n- Australian New Zealand Clinical Trials Registry (ANZCTR): https://anzctr.org.au/\n\n- Advanced search: https://www.australianclinicaltrials.gov.au/about/find/advanced-search\n\n- National reforms in health and medical research: https://www.australianclinicaltrials.gov.au/resources/national-reforms-health-and-medical-research\n\n- Minister Butler’s message to the Inter-Governmental Policy Reform Group (IGPRG): https://www.australianclinicaltrials.gov.au/resources/minister-butlers-message-inter-governmental-policy-reform-group-igprg\n\n- What is a clinical trial? – Trial researchers: https://www.australianclinicaltrials.gov.au/resources/what-clinical-trial-trial-researchers\n\n- View more resources: https://www.australianclinicaltrials.gov.au/resources?sort_by=field_h_date_updated_value&sort_order=DESC\n\n- About our website: https://www.australianclinicaltrials.gov.au/using-our-website/about\n\n- Accessibility: https://www.australianclinicaltrials.gov.au/accessibility\n\n- Copyright: https://www.australianclinicaltrials.gov.au/copyright\n\n- Disclaimer: https://www.australianclinicaltrials.gov.au/disclaimer\n\n- Freedom of information (FOI): https://www.australianclinicaltrials.gov.au/freedom-information-foi\n\n- Privacy: https://www.australianclinicaltrials.gov.au/privacy"
+}

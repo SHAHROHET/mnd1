@@ -1,7 +1,0 @@
-Download failures:
-
-- webpage Pressure injuries <https://www.healthdirect.gov.au/pressure-injuries>: Unable to download https://www.healthdirect.gov.au/pressure-injuries: HTTP 404 Not Found
-- pdf https://www.mndassociation.org/app/uploads/2021/07/Personal-Care-with-MND.pdf: Unable to download https://www.mndassociation.org/app/uploads/2021/07/Personal-Care-with-MND.pdf: HTTP 410 Gone
-- pdf https://www.health.qld.gov.au/__data/assets/pdf_file/0025/432853/guidelines-mobility-aids.pdf: Unable to download https://www.health.qld.gov.au/__data/assets/pdf_file/0025/432853/guidelines-mobility-aids.pdf: HTTP 403 Forbidden
-- pdf https://www.health.qld.gov.au/__data/assets/pdf_file/0021/433173/guidelines-hoists-slings.pdf: Unable to download https://www.health.qld.gov.au/__data/assets/pdf_file/0021/433173/guidelines-hoists-slings.pdf: HTTP 403 Forbidden
-- pdf https://www.health.qld.gov.au/__data/assets/pdf_file/0033/1139199/guidelines-PRSS.pdf: Unable to download https://www.health.qld.gov.au/__data/assets/pdf_file/0033/1139199/guidelines-PRSS.pdf: HTTP 403 Forbidden

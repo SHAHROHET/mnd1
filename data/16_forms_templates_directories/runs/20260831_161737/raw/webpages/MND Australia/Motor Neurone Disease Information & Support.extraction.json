@@ -1,0 +1,651 @@
+{
+  "source_id": "mnd-australia:information-resources",
+  "title": "Motor Neurone Disease Information & Support",
+  "publisher": "MND Australia",
+  "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources",
+  "retrieved_at": "2026-08-31",
+  "topic": "Forms Templates And Directories",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 38396,
+  "crawl_depth": 0,
+  "seed_url": "https://www.mndaustralia.org.au/mnd-connect/information-resources",
+  "links": [
+    {
+      "text": "About",
+      "url": "https://www.mndaustralia.org.au/about-us"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.mndaustralia.org.au/contact-us"
+    },
+    {
+      "text": "https://www.mndaustralia.org.au/",
+      "url": "https://www.mndaustralia.org.au/"
+    },
+    {
+      "text": "Information",
+      "url": "https://www.mndaustralia.org.au/mnd-connect"
+    },
+    {
+      "text": "About MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd"
+    },
+    {
+      "text": "Find services and support",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/find-services"
+    },
+    {
+      "text": "Living with MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd"
+    },
+    {
+      "text": "Carers, family and friends",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/support-for-carers-family-friends"
+    },
+    {
+      "text": "For health professionals",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers"
+    },
+    {
+      "text": "Information resources",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources"
+    },
+    {
+      "text": "Language and accessibility",
+      "url": "https://www.mndaustralia.org.au/accessibility"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.mndaustralia.org.au/research"
+    },
+    {
+      "text": "Our research grants program",
+      "url": "https://www.mndaustralia.org.au/research/our-research"
+    },
+    {
+      "text": "Clinical trials in Australia",
+      "url": "https://www.mndaustralia.org.au/research/clinical-trials"
+    },
+    {
+      "text": "Support MND research",
+      "url": "https://www.mndaustralia.org.au/research/support-mnd-research"
+    },
+    {
+      "text": "MiNDAUS Registry",
+      "url": "https://www.mndaustralia.org.au/research/mnd-registry"
+    },
+    {
+      "text": "Research statistics",
+      "url": "https://www.mndaustralia.org.au/research/mnd-research-statistics"
+    },
+    {
+      "text": "MND Research Collective",
+      "url": "https://www.mndaustralia.org.au/research/mnd-collective"
+    },
+    {
+      "text": "Advocacy",
+      "url": "https://www.mndaustralia.org.au/advocacy"
+    },
+    {
+      "text": "Our advocacy priorities",
+      "url": "https://www.mndaustralia.org.au/advocacy/our-priorities"
+    },
+    {
+      "text": "Advocate for change",
+      "url": "https://www.mndaustralia.org.au/get-involved/advocatingforchange"
+    },
+    {
+      "text": "Government submissions",
+      "url": "https://www.mndaustralia.org.au/advocacy/government-submissions-hearings"
+    },
+    {
+      "text": "Parliamentary Friends of MND",
+      "url": "https://www.mndaustralia.org.au/advocacy/parliamentary-friends-of-mnd"
+    },
+    {
+      "text": "Every Moment Matters",
+      "url": "https://www.mndaustralia.org.au/advocacy/every-moment-matters"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.mndaustralia.org.au/get-involved"
+    },
+    {
+      "text": "The National MND Lived Experience Network",
+      "url": "https://www.mndaustralia.org.au/get-involved/national-mnd-lived-experience-network"
+    },
+    {
+      "text": "National MND Conference 2026",
+      "url": "https://www.mndaustralia.org.au/get-involved/care-and-research-conference-2026"
+    },
+    {
+      "text": "MND Community Survey 2025",
+      "url": "https://www.mndaustralia.org.au/get-involved/community-survey-2025"
+    },
+    {
+      "text": "Support MND Australia",
+      "url": "https://www.mndaustralia.org.au/get-involved/make-a-donation"
+    },
+    {
+      "text": "News & Stories",
+      "url": "https://www.mndaustralia.org.au/articles"
+    },
+    {
+      "text": "News",
+      "url": "https://www.mndaustralia.org.au/articles/news"
+    },
+    {
+      "text": "Stories",
+      "url": "https://www.mndaustralia.org.au/articles/stories"
+    },
+    {
+      "text": "Research news",
+      "url": "https://www.mndaustralia.org.au/articles/research-news"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.mndaustralia.org.au/articles/media-releases"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndnsw.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#c6afa8a0a9aaafa8a386aba8a2a8b5b1e8a9b4a1e8a7b3"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndsa.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#8fe2eee6e3fbe0b5eeebe2e6e1cfe2e1ebfceea1e0fde8a1eefa"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#1871767e777471767d5875767c766b6f36776a7f36796d"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndatas.asn.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d2bbbcb4bd92bfbcb6b3a6b3a1fcb3a1bcfcb3a7"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#dab3b4bcb5b6b3b4bf9ab7b4beb4a9adf4b5a8bdf4bbaf"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mnd.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d1b8bfb7be91bcbfb5ffbea3b6ffb0a4"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndqld.org.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#076e696168476a6963667629687560296672"
+    },
+    {
+      "text": "Visit website",
+      "url": "https://www.mndawa.asn.au/"
+    },
+    {
+      "text": "Send a message",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#c3a2a7aeaaad83aeada7a2b4a2eda2b0adeda2b6"
+    },
+    {
+      "text": "Donate",
+      "url": "https://donate.mndaustralia.org.au/mndawareness2026"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#532136203c2621303620133e3d373226202721323f3a327d3c21347d3226"
+    },
+    {
+      "text": "What is MND?",
+      "url": "https://www.mndaustralia.org.au/getmedia/4c8836a0-a384-45ee-b03f-b06af78cb12d/WhatIsMND-Overview-MNDAustralia.pdf"
+    },
+    {
+      "text": "More About MND",
+      "url": "https://www.mndaustralia.org.au/getmedia/b1fe96da-1eb2-4d78-8d13-14961d7d5178/more-about-mnd-guide.pdf"
+    },
+    {
+      "text": "State MND Association service introduction: easy English",
+      "url": "https://www.mndaustralia.org.au/getmedia/f98904bc-b9f1-4b0e-992e-daa6579822ff/MND_ServicesPoster_Digital.pdf"
+    },
+    {
+      "text": "Download End of Life Care: A guide for people living with MND (PDF)",
+      "url": "https://www.mndaustralia.org.au/getmedia/eeaabc08-8c23-41ca-bae9-1e4927a757f3/MNDAus_EndofLifeGuide_digital-version.pdf"
+    },
+    {
+      "text": "Download Employment and MND: a guide for people living with MND (PDF)",
+      "url": "https://www.mndaustralia.org.au/getmedia/5edf7930-c607-44b3-87e6-b4e61a3e6a4a/Employment-and-MND-livingwithMND-Mar2026.pdf"
+    },
+    {
+      "text": "Downland Employment and MND: a guide for carers (PDF)",
+      "url": "https://www.mndaustralia.org.au/getmedia/7dc1f528-ae46-4c68-8a44-ec9f83fea97a/Employment-and-MND-carers-Mar2026.pdf"
+    },
+    {
+      "text": "Download Employment and MND: a guide for employers (PDF)",
+      "url": "https://www.mndaustralia.org.au/getmedia/ecd9fabe-189e-4e58-8a88-cc728689f527/Employment-and-MND-employers-Mar2026.pdf"
+    },
+    {
+      "text": "Speech and communication series",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources#speech-communication"
+    },
+    {
+      "text": "MND Fact sheets: An Overview",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/mnd-evidence-based-treatments-and-support-an-overview"
+    },
+    {
+      "text": "Multidisciplinary Care",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/multidisciplinary-care"
+    },
+    {
+      "text": "Breathing assessment",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-and-mnd-an-introduction"
+    },
+    {
+      "text": "Breathing & ventilation",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-medications-and-non-invasive-ventilation"
+    },
+    {
+      "text": "Breathing & MND: what you can do",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-what-you-can-do"
+    },
+    {
+      "text": "Cognitive and behaviour change in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/cognitive-and-behaviour-change-in-mnd"
+    },
+    {
+      "text": "Considering a feeding tube (PEG)",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/considering-gastrostomy-peg-rig"
+    },
+    {
+      "text": "Familial MND and genetic testing",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/familial-mnd-and-genetic-testing"
+    },
+    {
+      "text": "Kennedy's Disease",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/kennedy-s-disease"
+    },
+    {
+      "text": "Maintaining weight while living with MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/maintaining-weight-for-health-with-motor-neurone-disease"
+    },
+    {
+      "text": "Planning ahead",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/planning-ahead"
+    },
+    {
+      "text": "Riluzole",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/information-resources/riluzole"
+    },
+    {
+      "text": "Travelling with MND",
+      "url": "https://www.mndaustralia.org.au/getmedia/9b8209db-f224-4711-b1f7-53d9ec429c50/3062-MND-Fact-Sheet-Travelling-4pp-V6.pdf"
+    },
+    {
+      "text": "MND Clinics",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/find-services/mnd-clinics"
+    },
+    {
+      "text": "Edaravone",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/medication-for-mnd#edaravone"
+    },
+    {
+      "text": "Pain management with MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/pain-and-mnd"
+    },
+    {
+      "text": "Exercise and MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/physical-activity-and-mnd"
+    },
+    {
+      "text": "Sexuality and intimacy in MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/sexuality-and-intimacy"
+    },
+    {
+      "text": "Sleep and MND",
+      "url": "https://www.mndaustralia.org.au/articles/sleep-and-mnd"
+    },
+    {
+      "text": "Speech and communication web page",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication"
+    },
+    {
+      "text": "watch the videos",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication#Watchvideos"
+    },
+    {
+      "text": "Voice and message banking PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf"
+    },
+    {
+      "text": "Preparing for changes in speech PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/03eb3dcb-9241-494c-84cc-f37cd4534329/preparing-for-changes-in-speech-guide.pdf"
+    },
+    {
+      "text": "When speech gets harder PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/f8038c32-15b8-4ffa-8a3d-55b699a75a48/when-speech-gets-harder-guide.pdf"
+    },
+    {
+      "text": "Carer guide: when speech gets harder PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/f73f54a1-c4cf-4b52-acea-308802e8ed2b/carer-when-speech-gets-harder-guide.pdf"
+    },
+    {
+      "text": "Mental health and wellbeing PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf"
+    },
+    {
+      "text": "Building your communication system PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/92e34324-36f0-431e-9c79-1fa0ba268098/building-your-communication-system-guide.pdf"
+    },
+    {
+      "text": "Funding your communication system PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf"
+    },
+    {
+      "text": "Communication tools and technology (AAC) PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/e6783cdd-9dbd-417b-8c90-803ad4249c97/communication-tools-and-tech-AAC-guide.pdf"
+    },
+    {
+      "text": "Carer guide: Using simple communication tools",
+      "url": "https://www.mndaustralia.org.au/getmedia/815b6e76-1255-42f4-a35c-c48ea2957221/carer-using-simple-communication-tools-guide.pdf"
+    },
+    {
+      "text": "Staying connected without speech PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/2aa572ed-c544-4dcc-b8f8-8d8e83159f48/staying-connected-without-speech-guide.pdf"
+    },
+    {
+      "text": "Carer guide: Staying connected without speech PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/12f0f0e6-b57e-42d7-aa51-e42dc3fd3bcd/carer-staying-connected-without-speech-guide.pdf"
+    },
+    {
+      "text": "Carer guide: Communicating at end of life PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/43834b05-1c5b-4306-8a7b-3e24a35fc7ff/carer-communicating-at-end-of-life-guide.pdf"
+    },
+    {
+      "text": "PAS (partner-assisted scanning) and communication boards PDF",
+      "url": "https://www.mndaustralia.org.au/getmedia/97d6f676-1269-4db5-9be5-f76e4f836eb5/PAS-and-communication-boards-guide.pdf"
+    },
+    {
+      "text": "‘I have MND’ wallet card JPEG",
+      "url": "https://www.mndaustralia.org.au/getmedia/ed671cea-287f-4bf5-aea5-b77e2efd827c/i-have-mnd-wallet.jpg"
+    },
+    {
+      "text": "‘I have MND’ phone wallpaper JPEG",
+      "url": "https://www.mndaustralia.org.au/getmedia/62ff15aa-2bad-459a-8850-92f7e72866f8/i-have-mnd-phone.jpg"
+    },
+    {
+      "text": "My Care Needs",
+      "url": "https://www.mndaustralia.org.au/getmedia/e6736f04-82ae-4c43-8838-896593cdbcdb/MND-My-Care-Needs_Nov24.pdf"
+    },
+    {
+      "text": "MND Hospital Bedside Alert",
+      "url": "https://www.mndaustralia.org.au/getmedia/45e3c6c8-790e-4a15-a837-6d8da888d565/MND-Bedside-Wall-Alert-Form-MND-Australia.pdf"
+    },
+    {
+      "text": "More About MND",
+      "url": "https://www.mndaustralia.org.au/getmedia/f130edda-2594-43f7-823b-421760621e48/MoreAboutMND_MNDAustralia_2024.pdf"
+    },
+    {
+      "text": "Pain management with MND",
+      "url": "https://~/mnd-connect/living-with-mnd/pain-and-mnd"
+    },
+    {
+      "text": "Maintaining independence at home with MND",
+      "url": "https://www.youtube.com/watch?v=JhHvRGU2O0A&t=62s"
+    },
+    {
+      "text": "Non-invasive ventilation (NIV) and MND",
+      "url": "https://www.youtube.com/watch?v=xIzyJDrrs7Y"
+    },
+    {
+      "text": "My ALS decision tool",
+      "url": "https://lesturnerals.org/respiratory/about-this-decision-tool/"
+    },
+    {
+      "text": "MND Patient Decision tools",
+      "url": "https://mnddecisiontools.com/"
+    },
+    {
+      "text": "Diagnosing motor neurone disease (MND)",
+      "url": "https://www.youtube.com/watch?v=menQ3mXNR6E&list=PLpLXU2QzUiV7_wlzUTASCEQjZaKxU7Ru7&index=2"
+    },
+    {
+      "text": "Genetics and MND",
+      "url": "https://www.youtube.com/watch?v=paEAaodtH2Q&t=21s"
+    },
+    {
+      "text": "Living with MND",
+      "url": "https://www.youtube.com/watch?v=_vLUY9TMeoc&t=205s"
+    },
+    {
+      "text": "MND Associations in Australia",
+      "url": "https://www.youtube.com/watch?v=yLkYk1snth8&t=7s"
+    },
+    {
+      "text": "MND Research Australia",
+      "url": "https://www.youtube.com/watch?v=e8tHBMdOHO4&t=2s"
+    },
+    {
+      "text": "Getting out and about in the community with MND",
+      "url": "https://www.mnd.org.au/page/165/community-access"
+    },
+    {
+      "text": "Exercise and motor neurone disease (MND)",
+      "url": "https://youtu.be/IhBc3LEZWIY?si=KmADprPc53NZx-pr"
+    },
+    {
+      "text": "Travelling with MND",
+      "url": "https://www.mnd.org.au/page/164/travelling-with-mnd"
+    },
+    {
+      "text": "Treatment for MND",
+      "url": "https://www.youtube.com/watch?v=NVD0jwPAMn8"
+    },
+    {
+      "text": "End of Life Care: A guide for people living with MND",
+      "url": "https://www.mndaustralia.org.au/getmedia/b87748d9-6627-4e5c-b092-fd97496bb0c4/MNDAus_EndofLifeGuide_digital-version.pdf"
+    },
+    {
+      "text": "Disability Gateway",
+      "url": "https://www.disabilitygateway.gov.au/"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "National Disability Insurance Scheme (NDIS)",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "National Palliative Care Service Directory",
+      "url": "https://nsd.palliativecare.org.au/s/search-service"
+    },
+    {
+      "text": "MND Explained",
+      "url": "https://mndsapathway.com.au/assets/Uploads/Elements/FileList/MND-A5-Brochure-16pp-Final-Art.pdf"
+    },
+    {
+      "text": "Motor neurone disease: What is it?",
+      "url": "https://www.youtube.com/watch?v=3OlxgwFTEk4"
+    },
+    {
+      "text": "Palliative Care – Caring for our mob at the end of their life",
+      "url": "https://www.youtube.com/watch?v=gi9ce7MvfYE"
+    },
+    {
+      "text": "Palliative care – supporting patients & family",
+      "url": "https://www.youtube.com/watch?v=A1Bh_D_OK-M"
+    },
+    {
+      "text": "Gwandalan",
+      "url": "https://gwandalanpalliativecare.com.au/"
+    },
+    {
+      "text": "CarerHelp",
+      "url": "https://www.carerhelp.com.au/"
+    },
+    {
+      "text": "Carers Gateway",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "CareSearch",
+      "url": "https://www.caresearch.com.au/"
+    },
+    {
+      "text": "MND & Me Foundation",
+      "url": "https://www.mndandme.com.au/"
+    },
+    {
+      "text": "MND NSW Youth Hub",
+      "url": "https://mndnsw.org.au/what-we-do/support-and-services/1704-youthhub.html"
+    },
+    {
+      "text": "MND NSW Youth Hub",
+      "url": "http://mndnsw.org.au/what-we-do/support-and-services/1704-youthhub.html"
+    },
+    {
+      "text": "National Centre for Childhood Grief (NCCG)",
+      "url": "https://childhoodgrief.org.au/"
+    },
+    {
+      "text": "Young Carers Network",
+      "url": "https://youngcarersnetwork.com.au/"
+    },
+    {
+      "text": "MND Buddies",
+      "url": "https://www.mndbuddies.org/"
+    },
+    {
+      "text": "General practitioner diagnostic tool for MND",
+      "url": "https://www.mndaustralia.org.au/getmedia/e169436d-50cd-49fa-a67d-69f01589e865/MND_Diagnostic_Tool_FINAL.pdf"
+    },
+    {
+      "text": "Health and personal care poster",
+      "url": "https://www.mndaustralia.org.au/getmedia/731f2a8a-35e9-4a53-8d48-6c8df528f911/Health-Personal-Care-Poster-2021-web.pdf"
+    },
+    {
+      "text": "Paramedics MND tool",
+      "url": "https://www.mndaustralia.org.au/getmedia/f72b1b89-c3fe-42d1-ad64-909f0431edf6/MND-Paramedic-Poster-final-web.pdf"
+    },
+    {
+      "text": "Aspects of Care: for home and community care teams",
+      "url": "https://mndnsw.org.au/about-mnd/information/591-motor-neurone-disease-aspects-of-care-community-care.html"
+    },
+    {
+      "text": "Aspects of Care: for staff of residential aged care facilities",
+      "url": "https://mndnsw.org.au/about-mnd/information/121-mnd-aspects-of-care-residential-care-facilities.html"
+    },
+    {
+      "text": "Aspects of Care: for the primary health care team",
+      "url": "https://www.mndaustralia.org.au/getmedia/7d2d9c3c-bd65-455f-894b-95bbfb973f53/MND-Aspects-of-Care.pdf"
+    },
+    {
+      "text": "MND 101",
+      "url": "https://edu.mndhub.org.au/plus/catalog/courses/193"
+    },
+    {
+      "text": "MND Aware training modules",
+      "url": "https://edu.mndhub.org.au/index"
+    },
+    {
+      "text": "MND stories and strategies",
+      "url": "https://www.youtube.com/watch?v=wMc6oKAIwrQ"
+    },
+    {
+      "text": "MND Victoria Health Professionals webinar series",
+      "url": "https://www.mnd.org.au/page/86/professional-development"
+    },
+    {
+      "text": "ALS Association",
+      "url": "https://www.als.org/"
+    },
+    {
+      "text": "ALSUntangled",
+      "url": "https://www.alsuntangled.com/"
+    },
+    {
+      "text": "FightMND",
+      "url": "https://fightmnd.org.au/"
+    },
+    {
+      "text": "HealthDirect service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Hope Loves Company",
+      "url": "https://www.hopelovescompany.org/"
+    },
+    {
+      "text": "International Alliance of ALS/MND Associations",
+      "url": "https://www.als-mnd.org/"
+    },
+    {
+      "text": "MND Association (UK)",
+      "url": "https://www.mndassociation.org/"
+    },
+    {
+      "text": "Motor Neurone Disease MOOC — online course",
+      "url": "https://mooc.utas.edu.au/course/20389"
+    },
+    {
+      "text": "Your ALS Guide",
+      "url": "https://www.youralsguide.com/"
+    },
+    {
+      "text": "What is MND?",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd"
+    },
+    {
+      "text": "Types of MND",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/types-of-mnd"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf"
+    },
+    {
+      "text": "Whistleblower policy",
+      "url": "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf"
+    },
+    {
+      "text": "Terms & conditions",
+      "url": "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.mndaustralia.org.au/sitemap"
+    },
+    {
+      "text": "https://www.facebook.com/mndaustralia",
+      "url": "https://www.facebook.com/mndaustralia"
+    },
+    {
+      "text": "https://www.instagram.com/mnd_australia/?hl=en",
+      "url": "https://www.instagram.com/mnd_australia/?hl=en"
+    },
+    {
+      "text": "https://www.youtube.com/user/MNDAust",
+      "url": "https://www.youtube.com/user/MNDAust"
+    },
+    {
+      "text": "https://www.linkedin.com/company/2181170/admin/",
+      "url": "https://www.linkedin.com/company/2181170/admin/"
+    }
+  ],
+  "text": "Motor Neurone Disease Information & Support\n\n- About\n\n- Contact\n\n- Language and accessibility\n\n- Information\n\n- MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.\n\n- View all\n\n- Back\n\n- About MND\n\n- Find services and support\n\n- Living with MND\n\n- Carers, family and friends\n\n- For health professionals\n\n- Information resources\n\nView all\n\n- Research\n\n- MND Australia's research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.\n\n- Our research grants program\n\n- Clinical trials in Australia\n\n- Support MND research\n\n- MiNDAUS Registry\n\n- Research statistics\n\n- MND Research Collective\n\n- Advocacy\n\n- On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.\n\n- Our advocacy priorities\n\n- Advocate for change\n\n- Government submissions\n\n- Parliamentary Friends of MND\n\n- Every Moment Matters\n\n- Get Involved\n\n- Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.\n\n- The National MND Lived Experience Network\n\n- National MND Conference 2026\n\n- MND Community Survey 2025\n\n- Support MND Australia\n\n- News & Stories\n\n- News, stories & media\n\n- Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.\n\n- News\n\n- Stories\n\n- Research news\n\n- Media releases\n\nLanguage and accessibility Get Support\n\nBack\n\nGet support\n\nCall the number below to get directly connected to the local MND association in your State\n\n1800 777 175\n\n9am to 4:30pm Monday to Friday\n\n## Australian Capital Territory\n\n(MND services in the ACT are provided by MND NSW )\n\nBuilding 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111\n\nPost: Locked Bag 5005,Gladesville NSW 1675\n\nT: 1800 777 175\n\nVisit website Send a message\n\n## South Australia\n\n66 Hughes Street, Mile End SA 5031\n\nPost: PO Box 2087 Hilton Plaza SA 5033\n\n## New South Wales\n\nBuilding 4, Gladesville Hospital,Victoria Road, Gladesville NSW 2111\n\n## Tasmania\n\n( MND services in Tasmania are provided by MND Victoria )\n\n265 Canterbury Rd, Canterbury Vic 3126\n\nPost: PO Box 23, Canterbury 3126\n\n## Northern Territory\n\n( MND services in the NT are provided by MND NSW )\n\nPost: Locked Bag 5005, Gladesville NSW 1675\n\n## Victoria\n\n## Queensland\n\n1/89 Factory Road, Oxley QLD 4075\n\nPost: PO Box 470, Inala QLD 4077\n\n## Western Australia\n\nUnit 1, 184 Raleigh Street, Carlisle WA 6101\n\nPost: as above\n\nSearch\n\nGet Support Donate\n\n- Information & Support\n\n# Information resources\n\nOn this page you will find a range of information resources for people with or affected by motor neurone disease.\n\nOur resources are available in a variety of formats, including downloadable fact sheets, guides and booklets, animations and videos. There are resources for health professionals, carers, Aboriginal and Torres Strait Island communities. There is also a range of links to other useful websites.\n\nFor additional guidance and information, or to order a print resource, contact the MND Info Line on 1800 777 175 or email [email protected]\n\n## Getting started\n\nThese introductory resources are a good place to start if you or someone close to you has been recently diagnosed with MND.\n\nWhat is MND?\n\nTwo-page A4 handout giving an introductory overview of motor neurone disease and care options. Replaces the Some Facts about MND publication.\n\nMore About MND\n\nGuide designed to give people affected by MND a better understanding of the disease, including treatment and symptom management. Follows on from What is MND? Print copies available from State MND Associations.\n\nState MND Association service introduction: easy English\n\nA simple, easy to read poster designed to help people living with MND access support from their local MND Association.\n\n## Guides and booklets\n\nA range of guides and booklets giving information about MND, including facts and statistics, treatment, symptom management and support.\n\nTwo page A4 handout giving an overview of motor neurone disease and care options.\n\nDownload What is MND (PDF)\n\nGuide designed to give people affected by MND a better understanding of the disease. Topics include how doctors diagnose MND, what support is available, and how to manage symptoms, including treatment options. Follows on from What is MND? Print copies available from State MND Associations.\n\nDownload More About MND (PDF)\n\nEnd of Life care: A guide for people living with MND\n\nUser friendly guide to assist with talking about and planning for end of life. Print copies available from the State MND Associations.\n\nDownload End of Life Care: A guide for people living with MND (PDF)\n\nEmployment and MND\n\nA set of three practical guides for people living with MND, their carers, and employers. The guides help inform decisions about managing work and employment for people and workplaces impacted by MND. Print copies of the guide for people living with MND available from the State MND Associations.\n\nDownload Employment and MND: a guide for people living with MND (PDF)\n\nDownland Employment and MND: a guide for carers (PDF)\n\nDownload Employment and MND: a guide for employers (PDF)\n\nSpeech and communication series\n\nPractical guides, tools and videos to help prepare for and adjust to speech changes, get support, and stay connected. See below for more.\n\n## Fact sheets\n\nOur evidence-based fact sheets provide a range of information on specific aspects of MND. We have listed these fact sheets alphabetically A to Z to help\n\nyou find the right type of information to meet your needs.\n\nMND Fact sheets: An Overview\n\nSummary information about the series of evidence-based MND fact sheets.\n\nMultidisciplinary Care\n\nExplains multidiscliplinary care and the benefits of a coordinated approach to care for people living with MND.\n\nBreathing assessment\n\nGives an overview of the effect of MND on breathing and the respiratory system\n\nBreathing & ventilation\n\nPractical techniques to help breathing, including non-invasive ventilation\n\nBreathing & MND: what you can do\n\nExplains the effects on the respiratory system for someone living with MND\n\nCognitive and behaviour change in MND\n\nExplains the potential cognitive changes people living with MND may experience\n\nConsidering a feeding tube (PEG)\n\nOverview of gastrostomy options for people with MND\n\nFamilial MND and genetic testing\n\nCovers familial MND, genetic testing and counselling\n\nKennedy's Disease\n\nExplains Kennedy's Disease or Spinal and Bulbar Muscular Atrophy (SBMA)\n\nMaintaining weight while living with MND\n\nOutlines techniques to manage weight and healthy nutrition\n\nPlanning ahead\n\nExplains the benefits of planning ahead for end of life, including advance care directives and making a will\n\nRiluzole\n\nOverview of the medication that may extend the life of a person with MND by an average of 6 to 19 months\n\nTravelling with MND\n\nIncludes resources and information on travelling both locally and internationally with MND. Produced by MND Victoria.\n\n###### Other useful MND information\n\nThese pages sit within our MND Connect information and support hub. They can be saved to PDF or printed for use as a fact sheet.\n\nMND Clinics\n\nHow multidisciplinary healthcare teams and MND Clinics support people to live well with MND\n\nEdaravone\n\nInformation about edaravone (RADICAVA® IV infusion)\n\nPain management with MND\n\nTechniques and resources to help manage potential pain associated with MND symptoms\n\nExercise and MND\n\nBenefits of exercise while living with MND, including information about the role of physiotherapists and working with exercise plans\n\nSexuality and intimacy in MND\n\nCovers the physical, emotional and cognitive-behavioural aspects of sexuality and intimacy while living with MND\n\nSleep and MND\n\nExplainer article about sleep and MND, including tips about how to manage sleep and support for carers\n\n## Speech and communication series\n\nA series of practical guides and tools developed with MND Queensland, people living with MND, and their carers to help prepare for and adjust to speech changes, get support, and stay connected.\n\nTo find out more:\n\n- visit the Speech and communication web page\n\n- watch the videos\n\n- download the guides and tools below.\n\nYou can also ask your State MND Association to print the guides and tools for you.\n\nGuides\n\nVoice and message banking PDF – 4 pages\n\nPreparing for changes in speech PDF – 4 pages\n\nWhen speech gets harder PDF – 4 pages\n\nCarer guide: when speech gets harder PDF – 2 pages\n\nMental health and wellbeing PDF – 8 pages\n\nBuilding your communication system PDF – 6 pages\n\nFunding your communication system PDF – 4 pages\n\nCommunication tools and technology (AAC) PDF – 8 pages\n\nCarer guide: Using simple communication tools – 2 pages\n\nStaying connected without speech PDF – 4 pages\n\nCarer guide: Staying connected without speech PDF – 8 pages\n\nCarer guide: Communicating at end of life PDF – 2 pages\n\nTools\n\nPAS (partner-assisted scanning) and communication boards PDF – 10 pages\n\n‘I have MND’ wallet card JPEG\n\n‘I have MND’ phone wallpaper JPEG\n\n## Communicating your needs\n\nThe practical tools in this section have been created to help you make others aware of your needs, wants and preferences.\n\nMy Care Needs\n\nA 2-page interactive and printable pdf form with space to record your specific needs with MND. The form is designed to help care workers and hospital staff give you care that meets your needs and wishes. You, a carer or health professional can complete the form and send it to the hospital ward before you are admitted, or given to emergency staff on arrival. It can also be used at home, or to give to new service providers.\n\nMND Hospital Bedside Alert\n\nThis 1-page interactive and printable A4 lets medical staff know about your high priority care needs with MND. Depending on the ward or home set-up, this can be posted on the wall above your bed, or at the bedside.\n\nThese resources were created in collaboration with the National MND Lived Experience Network and the State MND Associations.\n\n## Decision-making tools\n\nIf you have MND, the following resources can help you make decisions about therapies, treatments or care\n\n#### Guides\n\nUser friendly guide to assist with talking about and planning for the end of life. Print copies available from the State MND Associations\n\n#### Fact sheets\n\nFact sheet on practical techniques to help breathing\n\nConsidering gastrostomy: PEG & RIG\n\nFact sheet overview of gastrostomy options for people with MND\n\nFact sheet covering inherited MND genetic mutations and genetic testing\n\nFact sheet on the benefits of planning ahead for end of life, including advance care directives and making a will\n\n#### Animations\n\nMaintaining independence at home with MND\n\nShort video outlining home modifications that can help people with MND live safely and independently in their home\n\nNon-invasive ventilation (NIV) and MND\n\nShort video explaining the benefits of using non-invasive ventilation (NIV) with MND\n\n#### Websites\n\nALSUntangled\n\nWebsite that reviews alternative and off label treatments, with the goal of helping people with ALS/MND make more informed decisions about them\n\nMy ALS decision tool\n\nTool to help people learn more and make decisions around NIV planning. Partly developed with funding from MND Research Australia.\n\nMND Patient Decision tools\n\nA series of evidence-based decision tools for people living with MND. Designed to help make difficult decisions about healthcare or quality of life. Tools deal specifically with gastrostomy, assisted ventilation and genetic testing.\n\n## Animations and videos\n\nA range of animations and videos give brief overviews to help explain aspects of MND like genetics and treatment options, as well as information about services and support.\n\nDiagnosing motor neurone disease (MND)\n\nThis short video sheds light on the process for diagnosing MND, including the time it takes, the people involved, and where you can go for support.\n\nGenetics and MND\n\nVideo explaining how an MND gene can run in families, with 10% of people of people with MND having 'familial MND'.\n\nLiving with MND\n\nShort video about motor neurone disease and how MND Australia and the state associations support people living with the disease.\n\nShort video outlining home modifications that can help people with MND live safely and independently in their home.\n\nMND Associations in Australia\n\nVideo about the state MND associations and the work they do to support and care for people living with MND.\n\nMND Research Australia\n\nShort video about MND Australia's research arm, MND Research Australia, and their vision to develop treatments, improve care and find a cure for MND.\n\nShort video explaining the benefits of using non-invasive ventilation (NIV) with MND.\n\nGetting out and about in the community with MND\n\nPeople living with MND share their experiences on ways to continue to access and participate in the community.\n\nExercise and motor neurone disease (MND)\n\nShort animation about how exercise can help people living with MND maintain strength, mobility, balance and overall wellbeing, for longer.\n\nExperiences, advice & tips on travelling with MND, from people living with MND.\n\nTreatment for MND\n\nShort video outlining several treatment strategies that can help both extend and improve quality of life.\n\n## Information about support and services\n\nThese resources provide information about services provided through MND Associations and other organisations, health professionals and government-funded support.\n\n#### Guides and booklets\n\nTwo page A4 handout giving an introductory overview of motor neurone disease and care options. Replaces the Some Facts About MND publication.\n\nMND Association service introduction: easy English\n\nUser friendly guide to assist with talking about and planning for the end of life. Print copies available from the State MND Associations.\n\n#### Animations and videos\n\nDisability Gateway\n\nInformation and services to help people with disability, their family, friends and carers, to find the support they need\n\nMy Aged Care\n\nGateway to accessing government-funded services for people diagnosed with MND aged 65+\n\nNational Disability Insurance Scheme (NDIS)\n\nInformation on getting started and the planning process for eligible NDIS participants\n\nNational Palliative Care Service Directory\n\nOnline tool to help you find local palliative care services\n\n## Information for Aboriginal and Torres Strait Islander communities\n\nWe have a number of guides and videos about MND produced with and for Aboriginal and Torres Strait Islander people.\n\nMND Explained (20MB)\n\nShort booklet describing MND and where to find support, developed by MND South Australia\n\nPoster\n\n#### Videos\n\nMotor neurone disease: What is it?\n\nVideo featuring an Indigenous person's MND palliative care journey\n\nPalliative Care – Caring for our mob at the end of their life\n\nA short video about palliative care among the Aboriginal and Torres Strait Islander community\n\nPalliative care – supporting patients & family\n\nVideo for Aboriginal and Torres Strait Islander health professionals on how best to support a palliative patient and their family\n\nGwandalan\n\nEducation and training for frontline staff delivering culturally responsive palliative care to Aboriginal and Torres Strait Islander peoples\n\n## Information for adult carers, family and friends\n\nThese resources may assist family and friends and other support people who are caring for a person with MND.\n\nAnimations and videos\n\nOther websites\n\nCarerHelp\n\nWebsite designed to assist people who are caring for someone who is at the end of life.\n\nCarers Gateway\n\nWebsite providing practical information and advice for carers and connection with services and support\n\nCareSearch\n\nWebsite providing evidence-based information about palliative care\n\nInformation and services to help people with disability, their family, friends and carers, to find the support they need.\n\nMND & Me Foundation\n\nThe MND and Me Foundation supports people and their families living with MND in Queensland and funds research into treatments for MND.\n\n## Information for young people\n\nSupport for children and young adults impacted by MND includes resources and information available through health professionals and MND organisations, as well as online information.\n\nMND NSW Youth Hub\n\nThe MND NSW Youth Hub offers a range of downloadable booklets for children and young adults impacted by MND.\n\nMND NSW Youth Hub resources are designed to guide adults in talking with young people about MND.\n\nYou can also request print copies of the ‘Me, My Family and MND’ kids pack and booklet (for ages 5–11) via your state MND Association.\n\nUseful websites\n\nNational Centre for Childhood Grief (NCCG)\n\nThe NCCG gives specialist grief and bereavement counselling to Australian children (aged 3–17) and families impacted by MND. As well as counselling, the NCCG has kids groups, adventure camps, support groups and education resources.\n\nYoung Carers Network\n\nAn initiative of Carers Australia, the Young Carers Network (YCN) raises young carer awareness, gives information, and directs young carers to support pathways.\n\nMND Buddies\n\nWebsite from the MND Association UK with activities and resources that support children aged 4–10 years to understand the impact of MND on their family.\n\n## Information for health professionals\n\nThe resources below are designed to assist health professionals better understand MND to support people who are living with the disease.\n\n#### Tools and posters\n\nGeneral practitioner diagnostic tool for MND\n\nA diagnostic tool for GPs that highlights MND 'red flags' and supporting factors that point towards a diagnosis of MND.\n\nHealth and personal care poster\n\nPrintable A4 poster that outlines some key aspects of providing health and personal care for a person with MND. Suitable for both care at home and residential settings.\n\nParamedics MND tool\n\nA quick reference tool for paramedics on providing optimal care and support for people with MND. Endorsed by the Australasian College of Paramedicine.\n\nAspects of Care: for home and community care teams\n\nA booklet for home and community care providers about caring for people with MND in the home setting\n\nAspects of Care: for staff of residential aged care facilities\n\nA booklet for aged care staff who care for people living with MND in residential aged care settings.\n\nAspects of Care: for the primary health care team\n\nA detailed clinical guide for GPs and the primary healthcare team who support people living with MND and their families.\n\n#### Webinars and training\n\nMND 101 A comprehensive introduction to motor neurone disease (MND).\n\nMND Aware training modules\n\nA self-paced, e-learning program developed by MND NSW, which provides health and community care professionals with a basic understanding of the impact of living with MND\n\nMND stories and strategies\n\nVideo of Kirsten Harley's opening address at the 10th National MND Australia Conference 2021, where she shares her MND journey.\n\nMND Victoria Health Professionals webinar series\n\nSeries of webinars with expert presenters about MND care. Suitable for health professionals and service providers.\n\nEducation and training for frontline staff delivering culturally responsive palliative care to Aboriginal and Torres Strait Islander peoples.\n\n## Useful websites\n\nWe’ve included some links below to third party websites that have useful information for people with MND, their family and friends.\n\nALS Association\n\nThe leading ALS organisation in the United States. They strive to discover treatments for ALS, and to advocate for and empower people affected by ALS to live their lives to the fullest.\n\nWebsite that reviews alternative and off label treatments, with the goal of helping people with ALS/MND make more informed decisions about them.\n\nCarer Gateway\n\nWebsite providing practical information and advice for carers and connection with services and support.\n\nWebsite providing evidence-based information about palliative care.\n\nFightMND\n\nFightMND exists to champion hope by funding MND research to find effective treatments and a cure.\n\nHealthDirect service finder\n\nOnline tool to help you find local healthcare professionals.\n\nHope Loves Company\n\nA US-based organisation that provides support for children who have a family member with MND, with resources available to Australian residents.\n\nInternational Alliance of ALS/MND Associations\n\nA global network of ALS/MND associations informed by PALS/CALS, focussed on building community, capacity and capability.\n\nMND Association (UK)\n\nProvides information and support for people living with MND in England, Wales & Northern Ireland.\n\nMotor Neurone Disease MOOC — online course\n\nThe MND MOOC brings together information on all aspects of MND to increase the knowledge and understanding of MND globally.\n\nInformation on getting started and the planning process for eligible NDIS participants.\n\nOnline tool to help you find local palliative care services.\n\nYour ALS Guide\n\nWebsite with information, practical tips, educational videos, expert advice & helpful resources for families living with ALS in the USA.\n\n## Keep in touch\n\nGet the latest news about MND research,\n\ncare & advocacy right in your inbox.\n\nInformation for\n\n- People living with MND\n\n- Family members and carers\n\n- Health professionals\n\n- Supporting MND Australia\n\nPopular links\n\n- What is MND?\n\n- Types of MND\n\n- MND research\n\n- MND Lived Experience Network\n\n- Contact Us\n\n- Privacy Policy\n\n- Whistleblower policy\n\n- Terms & conditions\n\n- Site map\n\n©MND Australia 2025\n\nMND Australia would like to advise Aboriginal and Torres Strait Islander users that this website may contain images or names of deceased persons.\n\nLink copied to clipboard\n\n\n\n## Links found on page\n\n- About: https://www.mndaustralia.org.au/about-us\n\n- Contact: https://www.mndaustralia.org.au/contact-us\n\n- https://www.mndaustralia.org.au/: https://www.mndaustralia.org.au/\n\n- Information: https://www.mndaustralia.org.au/mnd-connect\n\n- About MND: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd\n\n- Find services and support: https://www.mndaustralia.org.au/mnd-connect/find-services\n\n- Living with MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd\n\n- Carers, family and friends: https://www.mndaustralia.org.au/mnd-connect/support-for-carers-family-friends\n\n- For health professionals: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers\n\n- Information resources: https://www.mndaustralia.org.au/mnd-connect/information-resources\n\n- Language and accessibility: https://www.mndaustralia.org.au/accessibility\n\n- Research: https://www.mndaustralia.org.au/research\n\n- Our research grants program: https://www.mndaustralia.org.au/research/our-research\n\n- Clinical trials in Australia: https://www.mndaustralia.org.au/research/clinical-trials\n\n- Support MND research: https://www.mndaustralia.org.au/research/support-mnd-research\n\n- MiNDAUS Registry: https://www.mndaustralia.org.au/research/mnd-registry\n\n- Research statistics: https://www.mndaustralia.org.au/research/mnd-research-statistics\n\n- MND Research Collective: https://www.mndaustralia.org.au/research/mnd-collective\n\n- Advocacy: https://www.mndaustralia.org.au/advocacy\n\n- Our advocacy priorities: https://www.mndaustralia.org.au/advocacy/our-priorities\n\n- Advocate for change: https://www.mndaustralia.org.au/get-involved/advocatingforchange\n\n- Government submissions: https://www.mndaustralia.org.au/advocacy/government-submissions-hearings\n\n- Parliamentary Friends of MND: https://www.mndaustralia.org.au/advocacy/parliamentary-friends-of-mnd\n\n- Every Moment Matters: https://www.mndaustralia.org.au/advocacy/every-moment-matters\n\n- Get Involved: https://www.mndaustralia.org.au/get-involved\n\n- The National MND Lived Experience Network: https://www.mndaustralia.org.au/get-involved/national-mnd-lived-experience-network\n\n- National MND Conference 2026: https://www.mndaustralia.org.au/get-involved/care-and-research-conference-2026\n\n- MND Community Survey 2025: https://www.mndaustralia.org.au/get-involved/community-survey-2025\n\n- Support MND Australia: https://www.mndaustralia.org.au/get-involved/make-a-donation\n\n- News & Stories: https://www.mndaustralia.org.au/articles\n\n- News: https://www.mndaustralia.org.au/articles/news\n\n- Stories: https://www.mndaustralia.org.au/articles/stories\n\n- Research news: https://www.mndaustralia.org.au/articles/research-news\n\n- Media releases: https://www.mndaustralia.org.au/articles/media-releases\n\n- Visit website: https://www.mndnsw.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#c6afa8a0a9aaafa8a386aba8a2a8b5b1e8a9b4a1e8a7b3\n\n- Visit website: https://www.mndsa.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#8fe2eee6e3fbe0b5eeebe2e6e1cfe2e1ebfceea1e0fde8a1eefa\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#1871767e777471767d5875767c766b6f36776a7f36796d\n\n- Visit website: https://www.mndatas.asn.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d2bbbcb4bd92bfbcb6b3a6b3a1fcb3a1bcfcb3a7\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#dab3b4bcb5b6b3b4bf9ab7b4beb4a9adf4b5a8bdf4bbaf\n\n- Visit website: https://www.mnd.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#d1b8bfb7be91bcbfb5ffbea3b6ffb0a4\n\n- Visit website: https://www.mndqld.org.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#076e696168476a6963667629687560296672\n\n- Visit website: https://www.mndawa.asn.au/\n\n- Send a message: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#c3a2a7aeaaad83aeada7a2b4a2eda2b0adeda2b6\n\n- Donate: https://donate.mndaustralia.org.au/mndawareness2026\n\n- [email protected]: https://www.mndaustralia.org.au/cdn-cgi/l/email-protection#532136203c2621303620133e3d373226202721323f3a327d3c21347d3226\n\n- What is MND?: https://www.mndaustralia.org.au/getmedia/4c8836a0-a384-45ee-b03f-b06af78cb12d/WhatIsMND-Overview-MNDAustralia.pdf\n\n- More About MND: https://www.mndaustralia.org.au/getmedia/b1fe96da-1eb2-4d78-8d13-14961d7d5178/more-about-mnd-guide.pdf\n\n- State MND Association service introduction: easy English: https://www.mndaustralia.org.au/getmedia/f98904bc-b9f1-4b0e-992e-daa6579822ff/MND_ServicesPoster_Digital.pdf\n\n- Download End of Life Care: A guide for people living with MND (PDF): https://www.mndaustralia.org.au/getmedia/eeaabc08-8c23-41ca-bae9-1e4927a757f3/MNDAus_EndofLifeGuide_digital-version.pdf\n\n- Download Employment and MND: a guide for people living with MND (PDF): https://www.mndaustralia.org.au/getmedia/5edf7930-c607-44b3-87e6-b4e61a3e6a4a/Employment-and-MND-livingwithMND-Mar2026.pdf\n\n- Downland Employment and MND: a guide for carers (PDF): https://www.mndaustralia.org.au/getmedia/7dc1f528-ae46-4c68-8a44-ec9f83fea97a/Employment-and-MND-carers-Mar2026.pdf\n\n- Download Employment and MND: a guide for employers (PDF): https://www.mndaustralia.org.au/getmedia/ecd9fabe-189e-4e58-8a88-cc728689f527/Employment-and-MND-employers-Mar2026.pdf\n\n- Speech and communication series: https://www.mndaustralia.org.au/mnd-connect/information-resources#speech-communication\n\n- MND Fact sheets: An Overview: https://www.mndaustralia.org.au/mnd-connect/information-resources/mnd-evidence-based-treatments-and-support-an-overview\n\n- Multidisciplinary Care: https://www.mndaustralia.org.au/mnd-connect/information-resources/multidisciplinary-care\n\n- Breathing assessment: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-and-mnd-an-introduction\n\n- Breathing & ventilation: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-medications-and-non-invasive-ventilation\n\n- Breathing & MND: what you can do: https://www.mndaustralia.org.au/mnd-connect/information-resources/breathing-mnd-what-you-can-do\n\n- Cognitive and behaviour change in MND: https://www.mndaustralia.org.au/mnd-connect/information-resources/cognitive-and-behaviour-change-in-mnd\n\n- Considering a feeding tube (PEG): https://www.mndaustralia.org.au/mnd-connect/information-resources/considering-gastrostomy-peg-rig\n\n- Familial MND and genetic testing: https://www.mndaustralia.org.au/mnd-connect/information-resources/familial-mnd-and-genetic-testing\n\n- Kennedy's Disease: https://www.mndaustralia.org.au/mnd-connect/information-resources/kennedy-s-disease\n\n- Maintaining weight while living with MND: https://www.mndaustralia.org.au/mnd-connect/information-resources/maintaining-weight-for-health-with-motor-neurone-disease\n\n- Planning ahead: https://www.mndaustralia.org.au/mnd-connect/information-resources/planning-ahead\n\n- Riluzole: https://www.mndaustralia.org.au/mnd-connect/information-resources/riluzole\n\n- Travelling with MND: https://www.mndaustralia.org.au/getmedia/9b8209db-f224-4711-b1f7-53d9ec429c50/3062-MND-Fact-Sheet-Travelling-4pp-V6.pdf\n\n- MND Clinics: https://www.mndaustralia.org.au/mnd-connect/find-services/mnd-clinics\n\n- Edaravone: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/medication-for-mnd#edaravone\n\n- Pain management with MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/pain-and-mnd\n\n- Exercise and MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/physical-activity-and-mnd\n\n- Sexuality and intimacy in MND: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/sexuality-and-intimacy\n\n- Sleep and MND: https://www.mndaustralia.org.au/articles/sleep-and-mnd\n\n- Speech and communication web page: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication\n\n- watch the videos: https://www.mndaustralia.org.au/mnd-connect/living-with-mnd/speech-communication#Watchvideos\n\n- Voice and message banking PDF: https://www.mndaustralia.org.au/getmedia/b877e619-d875-4bac-9ac5-0f04db666faf/voice-and-message-banking-guide.pdf\n\n- Preparing for changes in speech PDF: https://www.mndaustralia.org.au/getmedia/03eb3dcb-9241-494c-84cc-f37cd4534329/preparing-for-changes-in-speech-guide.pdf\n\n- When speech gets harder PDF: https://www.mndaustralia.org.au/getmedia/f8038c32-15b8-4ffa-8a3d-55b699a75a48/when-speech-gets-harder-guide.pdf\n\n- Carer guide: when speech gets harder PDF: https://www.mndaustralia.org.au/getmedia/f73f54a1-c4cf-4b52-acea-308802e8ed2b/carer-when-speech-gets-harder-guide.pdf\n\n- Mental health and wellbeing PDF: https://www.mndaustralia.org.au/getmedia/53260f5b-a24d-49df-af17-071e5689c516/mental-health-and-wellbeing-guide.pdf\n\n- Building your communication system PDF: https://www.mndaustralia.org.au/getmedia/92e34324-36f0-431e-9c79-1fa0ba268098/building-your-communication-system-guide.pdf\n\n- Funding your communication system PDF: https://www.mndaustralia.org.au/getmedia/88aa6081-56da-431a-a04f-f76f742d8172/funding-your-communication-system-guide.pdf\n\n- Communication tools and technology (AAC) PDF: https://www.mndaustralia.org.au/getmedia/e6783cdd-9dbd-417b-8c90-803ad4249c97/communication-tools-and-tech-AAC-guide.pdf\n\n- Carer guide: Using simple communication tools: https://www.mndaustralia.org.au/getmedia/815b6e76-1255-42f4-a35c-c48ea2957221/carer-using-simple-communication-tools-guide.pdf\n\n- Staying connected without speech PDF: https://www.mndaustralia.org.au/getmedia/2aa572ed-c544-4dcc-b8f8-8d8e83159f48/staying-connected-without-speech-guide.pdf\n\n- Carer guide: Staying connected without speech PDF: https://www.mndaustralia.org.au/getmedia/12f0f0e6-b57e-42d7-aa51-e42dc3fd3bcd/carer-staying-connected-without-speech-guide.pdf\n\n- Carer guide: Communicating at end of life PDF: https://www.mndaustralia.org.au/getmedia/43834b05-1c5b-4306-8a7b-3e24a35fc7ff/carer-communicating-at-end-of-life-guide.pdf\n\n- PAS (partner-assisted scanning) and communication boards PDF: https://www.mndaustralia.org.au/getmedia/97d6f676-1269-4db5-9be5-f76e4f836eb5/PAS-and-communication-boards-guide.pdf\n\n- ‘I have MND’ wallet card JPEG: https://www.mndaustralia.org.au/getmedia/ed671cea-287f-4bf5-aea5-b77e2efd827c/i-have-mnd-wallet.jpg\n\n- ‘I have MND’ phone wallpaper JPEG: https://www.mndaustralia.org.au/getmedia/62ff15aa-2bad-459a-8850-92f7e72866f8/i-have-mnd-phone.jpg\n\n- My Care Needs: https://www.mndaustralia.org.au/getmedia/e6736f04-82ae-4c43-8838-896593cdbcdb/MND-My-Care-Needs_Nov24.pdf\n\n- MND Hospital Bedside Alert: https://www.mndaustralia.org.au/getmedia/45e3c6c8-790e-4a15-a837-6d8da888d565/MND-Bedside-Wall-Alert-Form-MND-Australia.pdf\n\n- More About MND: https://www.mndaustralia.org.au/getmedia/f130edda-2594-43f7-823b-421760621e48/MoreAboutMND_MNDAustralia_2024.pdf\n\n- Pain management with MND: https://~/mnd-connect/living-with-mnd/pain-and-mnd\n\n- Maintaining independence at home with MND: https://www.youtube.com/watch?v=JhHvRGU2O0A&t=62s\n\n- Non-invasive ventilation (NIV) and MND: https://www.youtube.com/watch?v=xIzyJDrrs7Y\n\n- My ALS decision tool: https://lesturnerals.org/respiratory/about-this-decision-tool/\n\n- MND Patient Decision tools: https://mnddecisiontools.com/\n\n- Diagnosing motor neurone disease (MND): https://www.youtube.com/watch?v=menQ3mXNR6E&list=PLpLXU2QzUiV7_wlzUTASCEQjZaKxU7Ru7&index=2\n\n- Genetics and MND: https://www.youtube.com/watch?v=paEAaodtH2Q&t=21s\n\n- Living with MND: https://www.youtube.com/watch?v=_vLUY9TMeoc&t=205s\n\n- MND Associations in Australia: https://www.youtube.com/watch?v=yLkYk1snth8&t=7s\n\n- MND Research Australia: https://www.youtube.com/watch?v=e8tHBMdOHO4&t=2s\n\n- Getting out and about in the community with MND: https://www.mnd.org.au/page/165/community-access\n\n- Exercise and motor neurone disease (MND): https://youtu.be/IhBc3LEZWIY?si=KmADprPc53NZx-pr\n\n- Travelling with MND: https://www.mnd.org.au/page/164/travelling-with-mnd\n\n- Treatment for MND: https://www.youtube.com/watch?v=NVD0jwPAMn8\n\n- End of Life Care: A guide for people living with MND: https://www.mndaustralia.org.au/getmedia/b87748d9-6627-4e5c-b092-fd97496bb0c4/MNDAus_EndofLifeGuide_digital-version.pdf\n\n- Disability Gateway: https://www.disabilitygateway.gov.au/\n\n- My Aged Care: https://www.myagedcare.gov.au/\n\n- National Disability Insurance Scheme (NDIS): https://www.ndis.gov.au/\n\n- National Palliative Care Service Directory: https://nsd.palliativecare.org.au/s/search-service\n\n- MND Explained: https://mndsapathway.com.au/assets/Uploads/Elements/FileList/MND-A5-Brochure-16pp-Final-Art.pdf\n\n- Motor neurone disease: What is it?: https://www.youtube.com/watch?v=3OlxgwFTEk4\n\n- Palliative Care – Caring for our mob at the end of their life: https://www.youtube.com/watch?v=gi9ce7MvfYE\n\n- Palliative care – supporting patients & family: https://www.youtube.com/watch?v=A1Bh_D_OK-M\n\n- Gwandalan: https://gwandalanpalliativecare.com.au/\n\n- CarerHelp: https://www.carerhelp.com.au/\n\n- Carers Gateway: https://www.carergateway.gov.au/\n\n- CareSearch: https://www.caresearch.com.au/\n\n- MND & Me Foundation: https://www.mndandme.com.au/\n\n- MND NSW Youth Hub: https://mndnsw.org.au/what-we-do/support-and-services/1704-youthhub.html\n\n- MND NSW Youth Hub: http://mndnsw.org.au/what-we-do/support-and-services/1704-youthhub.html\n\n- National Centre for Childhood Grief (NCCG): https://childhoodgrief.org.au/\n\n- Young Carers Network: https://youngcarersnetwork.com.au/\n\n- MND Buddies: https://www.mndbuddies.org/\n\n- General practitioner diagnostic tool for MND: https://www.mndaustralia.org.au/getmedia/e169436d-50cd-49fa-a67d-69f01589e865/MND_Diagnostic_Tool_FINAL.pdf\n\n- Health and personal care poster: https://www.mndaustralia.org.au/getmedia/731f2a8a-35e9-4a53-8d48-6c8df528f911/Health-Personal-Care-Poster-2021-web.pdf\n\n- Paramedics MND tool: https://www.mndaustralia.org.au/getmedia/f72b1b89-c3fe-42d1-ad64-909f0431edf6/MND-Paramedic-Poster-final-web.pdf\n\n- Aspects of Care: for home and community care teams: https://mndnsw.org.au/about-mnd/information/591-motor-neurone-disease-aspects-of-care-community-care.html\n\n- Aspects of Care: for staff of residential aged care facilities: https://mndnsw.org.au/about-mnd/information/121-mnd-aspects-of-care-residential-care-facilities.html\n\n- Aspects of Care: for the primary health care team: https://www.mndaustralia.org.au/getmedia/7d2d9c3c-bd65-455f-894b-95bbfb973f53/MND-Aspects-of-Care.pdf\n\n- MND 101: https://edu.mndhub.org.au/plus/catalog/courses/193\n\n- MND Aware training modules: https://edu.mndhub.org.au/index\n\n- MND stories and strategies: https://www.youtube.com/watch?v=wMc6oKAIwrQ\n\n- MND Victoria Health Professionals webinar series: https://www.mnd.org.au/page/86/professional-development\n\n- ALS Association: https://www.als.org/\n\n- ALSUntangled: https://www.alsuntangled.com/\n\n- FightMND: https://fightmnd.org.au/\n\n- HealthDirect service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Hope Loves Company: https://www.hopelovescompany.org/\n\n- International Alliance of ALS/MND Associations: https://www.als-mnd.org/\n\n- MND Association (UK): https://www.mndassociation.org/\n\n- Motor Neurone Disease MOOC — online course: https://mooc.utas.edu.au/course/20389\n\n- Your ALS Guide: https://www.youralsguide.com/\n\n- What is MND?: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd\n\n- Types of MND: https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/types-of-mnd\n\n- Privacy Policy: https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf\n\n- Whistleblower policy: https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf\n\n- Terms & conditions: https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU\n\n- Site map: https://www.mndaustralia.org.au/sitemap\n\n- https://www.facebook.com/mndaustralia: https://www.facebook.com/mndaustralia\n\n- https://www.instagram.com/mnd_australia/?hl=en: https://www.instagram.com/mnd_australia/?hl=en\n\n- https://www.youtube.com/user/MNDAust: https://www.youtube.com/user/MNDAust\n\n- https://www.linkedin.com/company/2181170/admin/: https://www.linkedin.com/company/2181170/admin/"
+}

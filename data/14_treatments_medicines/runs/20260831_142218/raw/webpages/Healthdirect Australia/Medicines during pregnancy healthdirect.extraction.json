@@ -1,0 +1,739 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-during-pregnancy",
+  "title": "Medicines during pregnancy | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 32128,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Paracetamol use in pregnancy",
+      "url": "https://www.tga.gov.au/news/media-releases/paracetamol-use-pregnancy"
+    },
+    {
+      "text": "What should I be aware of when taking medicines during pregnancy?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#aware"
+    },
+    {
+      "text": "How do I know what medicines are safe to use during pregnancy?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#safe"
+    },
+    {
+      "text": "Should I stop taking my prescription medicines if I'm pregnant?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#stop"
+    },
+    {
+      "text": "Are over-the-counter medicines safe to take when pregnant?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#otc"
+    },
+    {
+      "text": "What OTC medicines can I take for common conditions while pregnant?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#common"
+    },
+    {
+      "text": "Will complementary medicines affect my pregnancy?",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#complementary"
+    },
+    {
+      "text": "Other drugs",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#drugs"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#searchGeneralResults"
+    },
+    {
+      "text": "stage of your pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/pregnancy-week-by-week"
+    },
+    {
+      "text": "doctor",
+      "url": "https://www.pregnancybirthbaby.org.au/the-role-of-your-gp"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.pregnancybirthbaby.org.au/making-the-most-of-your-pharmacist"
+    },
+    {
+      "text": "asthma",
+      "url": "https://www.pregnancybirthbaby.org.au/asthma-and-pregnancy"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.pregnancybirthbaby.org.au/diabetes-during-pregnancy"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.healthdirect.gov.au/epilepsy"
+    },
+    {
+      "text": "high blood pressure",
+      "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension"
+    },
+    {
+      "text": "planning a pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/planning-for-your-pregnancy"
+    },
+    {
+      "text": "cold",
+      "url": "https://www.pregnancybirthbaby.org.au/cold-and-flu-during-pregnancy"
+    },
+    {
+      "text": "pholcodine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21597/pholcodine"
+    },
+    {
+      "text": "dextromethorphan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22380/dextromethorphan"
+    },
+    {
+      "text": "guaifenesin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22512/guaifenesin"
+    },
+    {
+      "text": "bromhexine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20568/bromhexine"
+    },
+    {
+      "text": "phenylephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20914/phenylephrine"
+    },
+    {
+      "text": "povidone-iodine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D011206/povidone-iodine"
+    },
+    {
+      "text": "benzydamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22089/benzydamine"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20948/paracetamol"
+    },
+    {
+      "text": "back pain",
+      "url": "https://www.pregnancybirthbaby.org.au/backache-in-pregnancy"
+    },
+    {
+      "text": "headaches",
+      "url": "https://www.pregnancybirthbaby.org.au/headaches-during-pregnancy"
+    },
+    {
+      "text": "Non-steroidal anti-inflammatory drugs",
+      "url": "https://www.healthdirect.gov.au/anti-inflammatory-medicines"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21286/ibuprofen"
+    },
+    {
+      "text": "aspirin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin"
+    },
+    {
+      "text": "pre-eclampsia",
+      "url": "https://www.pregnancybirthbaby.org.au/pre-eclampsia"
+    },
+    {
+      "text": "pregnancy rhinitis",
+      "url": "https://www.pregnancybirthbaby.org.au/pregnancy-rhinitis"
+    },
+    {
+      "text": "Antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "budesonide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20394/budesonide"
+    },
+    {
+      "text": "constipation",
+      "url": "https://www.pregnancybirthbaby.org.au/constipation-during-pregnancy"
+    },
+    {
+      "text": "fibre, like fruit, vegetables and wholegrains",
+      "url": "https://www.pregnancybirthbaby.org.au/healthy-diet-during-pregnancy"
+    },
+    {
+      "text": "senna",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23519/senna-leaf-powder-+-fig-+-date"
+    },
+    {
+      "text": "bisacodyl",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21375/bisacodyl"
+    },
+    {
+      "text": "heartburn and reflux",
+      "url": "https://www.pregnancybirthbaby.org.au/indigestion-and-heartburn-in-pregnancy"
+    },
+    {
+      "text": "loperamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21377/loperamide"
+    },
+    {
+      "text": "Thrush",
+      "url": "https://www.pregnancybirthbaby.org.au/vaginal-thrush-during-pregnancy "
+    },
+    {
+      "text": "clotrimazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20580/clotrimazole"
+    },
+    {
+      "text": "nystatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21043/nystatin"
+    },
+    {
+      "text": "fluconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21149/fluconazole"
+    },
+    {
+      "text": "folic acid",
+      "url": "https://www.pregnancybirthbaby.org.au/folate-and-pregnancy"
+    },
+    {
+      "text": "vitamins and supplements during pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/vitamins-and-supplements-during-pregnancy"
+    },
+    {
+      "text": "cannabis",
+      "url": "https://www.healthdirect.gov.au/marijuana"
+    },
+    {
+      "text": "amphetamines",
+      "url": "https://www.healthdirect.gov.au/speed"
+    },
+    {
+      "text": "heroin",
+      "url": "https://www.healthdirect.gov.au/heroin"
+    },
+    {
+      "text": "cocaine",
+      "url": "https://www.healthdirect.gov.au/cocaine"
+    },
+    {
+      "text": "healthdirect",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Medicines Line",
+      "url": "https://1300medicine.com.au/"
+    },
+    {
+      "text": "Aboriginal Maternal and Infant Health Services — New South Wales",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/programs/Pages/amihs-bsf-map.aspx"
+    },
+    {
+      "text": "Koori Maternity Services — Victoria",
+      "url": "https://www.health.vic.gov.au/patient-care/aboriginal-maternity-services"
+    },
+    {
+      "text": "Healthy Horizons",
+      "url": "https://healthyhorizons.org.au"
+    },
+    {
+      "text": "The Multilingual Library Catalogue",
+      "url": "https://www.mcwh.com.au/multilingual-resources/"
+    },
+    {
+      "text": "(Herbal medicines in pregnancy and breastfeeding)",
+      "url": "https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Herbal-medicines-in-pregnancy-breastfeeding-171018.pdf"
+    },
+    {
+      "text": "(Medicines in pregnancy)",
+      "url": "https://www.thewomens.org.au/images/uploads/fact-sheets/Medicines-in-pregnancy-171018.pdf"
+    },
+    {
+      "text": "(Over the counter and other drug use)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0020/463700/other-drugs.pdf"
+    },
+    {
+      "text": "(Prescribing medicines in pregnancy database)",
+      "url": "https://www.tga.gov.au/products/medicines/find-information-about-medicine/prescribing-medicines-pregnancy-database"
+    },
+    {
+      "text": "(Medications)",
+      "url": "https://www.yourfertility.org.au/everyone/health-medical/medications"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy#backToTop"
+    },
+    {
+      "text": "Medicines and alcohol",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "Medicines and driving",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Medicines for babies and children",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Medicines safety for older people",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Out-of-date medicines",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Questions to ask before taking a medicine",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reporting a problem with a medicine",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Pregnancy",
+      "url": "https://www.healthdirect.gov.au/search-results/Pregnancy"
+    },
+    {
+      "text": "Medicine regulation",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine regulation"
+    },
+    {
+      "text": "Medicine scheduling",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine scheduling"
+    },
+    {
+      "text": "Pregnancy - medication, drugs and alcohol | Better Health Channel Most women take a drug of some kind during pregnancy, sometimes without realising the potential for harm. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/healthyliving/pregnancy-medication-drugs-and-alcohol"
+    },
+    {
+      "text": "Paracetamol Use In Pregnancy: Is It Safe? | Expert Advice From Red Nose Is paracetamol safe to take during pregnancy? Red Nose supports expert guidance from RANZCOG, the TGA and AMA, reaffirming its safe use when taken as advised. Learn what parents need to know. Read more on Red Nose website",
+      "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/pregnancy-to-birth/paracetamol-use-in-pregnancy/"
+    },
+    {
+      "text": "Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "TGA The TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods. Read more on Partner Organisation website",
+      "url": "https://www.tga.gov.au/"
+    },
+    {
+      "text": "Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Quality use of medicines: who owns it now? - Australian Prescriber The closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake. Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/quality-use-of-medicines-who-owns-it-now.html"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines during pregnancy | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\n# beginning of content\n\n# Medicines during pregnancy\n\n9-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n### Paracetamol during pregnancy\n\nLeading Australian experts consider paracetamol safe for pain relief and fever during pregnancy. Robust scientific evidence shows there is no causal link between the use of paracetamol in pregnancy and autism or ADHD. For more information from the Therapeutic Goods Administration (TGA), visit Paracetamol use in pregnancy . If you're unsure or have questions, speak to your doctor or midwife.\n\nSeptember 2025\n\n## Key facts\n\n- While many medicines are safe to take during pregnancy, some may cause harm to your baby.\n\n- Before taking medicines during pregnancy, you should get advice from your doctor or pharmacist.\n\n- If you are taking a prescription medicine, your doctor may change your dose or stop your medicine while you are pregnant.\n\n## On this page\n\n- What should I be aware of when taking medicines during pregnancy?\n\n- How do I know what medicines are safe to use during pregnancy?\n\n- Should I stop taking my prescription medicines if I'm pregnant?\n\n- Are over-the-counter medicines safe to take when pregnant?\n\n- What OTC medicines can I take for common conditions while pregnant?\n\n- Will complementary medicines affect my pregnancy?\n\n- Other drugs\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What should I be aware of when taking medicines during pregnancy?\n\nMany medicines are safe to take during pregnancy. However, a small number of medicines can:\n\n- harm your baby\n\n- affect your baby’s growth and development\n\n- increase your chance of pregnancy complications\n\nEach medicine is different. Before taking a medicine while pregnant, find out if it’s safe to use. This way, you can protect yourself and your baby.\n\nThe effect of a medicine on your baby can depend on factors such as:\n\n- the stage of your pregnancy\n\n- how much medicine you take\n\n- how often you take the medicine\n\n## How do I know what medicines are safe to use during pregnancy?\n\nTo find out what medicines are safe for use during pregnancy, speak to your doctor or pharmacist .\n\nAsk your doctor or pharmacist about any medicines you are planning to take when pregnant.\n\nSometimes it's not clear if a medicine is safe to use when you are pregnant. You can find out by:\n\n- checking the medicine’s packaging\n\n- reading the medicine’s consumer medicine information leaflet (CMI)\n\nYou can search for medicines by brand name or active ingredient in healthdirect's medicine section.\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n## Should I stop taking my prescription medicines if I'm pregnant?\n\nYou may have prescription medicines to help with chronic (ongoing) conditions such as:\n\n- asthma\n\n- depression\n\n- diabetes\n\n- epilepsy\n\n- high blood pressure\n\nSome prescription medicines must not be taken when you are pregnant. Others should be used carefully.\n\nStopping some treatments can also cause problems that can affect you and your baby.\n\nDon’t stop taking your prescription medicines until you have spoken with your doctor.\n\nIf your doctor thinks a medicine will cause more harm than the condition itself, then they may:\n\n- change your medicine\n\n- change the dose\n\n- stop your medicine altogether\n\nYou might find that your doctor doesn’t change your medicine. If you take regular medicines, it’s a good idea to talk to your doctor when you are planning a pregnancy .\n\n## Are over-the-counter medicines safe to take when pregnant?\n\nOver-the-counter (OTC) medicines are medicines you can buy in a pharmacy, supermarket, or shop without a prescription.\n\nBefore using OTC medicines during your pregnancy, speak to your doctor or pharmacist.\n\nOTC medicines are often used to treat common conditions such as allergies.\n\n## What OTC medicines can I take for common conditions while pregnant?\n\nThere are different medicines for common conditions that are safe to take during pregnancy.\n\nBefore taking a medicine during pregnancy, always check with your doctor or pharmacist first.\n\n### Cold and flu\n\nDuring your pregnancy, you may get a cold , which can cause symptoms like:\n\n- sore throat\n\n- cough\n\n- blocked or runny nose\n\nMedicines such as cold and flu medicines are usually used to treat colds. During pregnancy, it’s best to treat your individual cold symptoms.\n\nIf you have a cough, medicines considered safe during pregnancy include:\n\n- pholcodine or dextromethorphan for a dry cough\n\n- an expectorant such as guaifenesin for a chesty cough\n\n- a mucolytic such as bromhexine for a chesty cough\n\nIf you have a blocked nose during pregnancy, you can treat it by:\n\n- inhaling steam (taking care to avoid burns)\n\n- using 0.9% sodium chloride nasal medicines\n\nYou should not use oral decongestants such as phenylephrine . Nasal decongestants can be used, but not for longer than 3 days.\n\nIf you have a sore throat, you can:\n\n- gargle salt water\n\n- drink lemon and honey products\n\n- use throat lozenges\n\nUsing too many lozenges can cause diarrhoea.\n\nAvoid products that contain:\n\n- povidone-iodine\n\n- benzydamine\n\n### Aches and pains\n\nSome pain relievers are safe for use during pregnancy.\n\nYou can use paracetamol to help with mild to moderate pain during pregnancy, like:\n\n- muscle pain such as back pain\n\n- headaches\n\n- toothache\n\nNon-steroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen and aspirin should be avoided during pregnancy unless advised by your doctor.\n\nSome women may be prescribed low dose aspirin for pre-eclampsia . You should always speak to your healthcare team before taking aspirin when pregnant.\n\n### Allergies and hayfever\n\nAllergies, hay fever and pregnancy rhinitis can cause:\n\n- sneezing\n\n- itchy nose and eyes\n\n- red, watery eyes\n\nAntihistamines are often used to treat allergies. Most sedating antihistamines are safe to use in pregnancy at the recommended dose.\n\nNon-sedating antihistamines such as loratadine should be used for the shortest length of time possible during pregnancy.\n\nAllergy eye drops can also be used during pregnancy, for the shortest length of time possible.\n\nDuring pregnancy, you can safely use corticosteroid nasal sprays that include:\n\n- beclomethasone\n\n- budesonide\n\n### Constipation\n\nDuring pregnancy, the best way to manage constipation is to:\n\n- eat more foods that contain fibre, like fruit, vegetables and wholegrains\n\n- drink plenty of water\n\nYou can also speak to your doctor or pharmacist about taking a laxative.\n\nYou should avoid long-term use of laxatives that contain:\n\n- senna\n\n- bisacodyl\n\n### Heartburn\n\nAround 8 in 10 pregnant women will experience heartburn and reflux .\n\nIf you have heartburn during pregnancy, you can try:\n\n- avoiding spicy, rich, acidic foods\n\n- avoiding lying down after eating\n\nYou can talk to your doctor or pharmacist about using antacids while pregnant.\n\n### Diarrhoea\n\nDiarrhoea usually goes away without treatment.\n\nDuring pregnancy, you can drink oral rehydration solutions to replace any fluids lost.\n\nYou should avoid treatments containing loperamide in the first trimester of pregnancy. It can be used after this on the advice of your doctor.\n\n### Thrush\n\nThrush is a common infection during pregnancy.\n\nIf you are pregnant, you can treat thrush with topical creams containing clotrimazole and nystatin .\n\nAvoid fluconazole unless advised by your doctor.\n\n## Will complementary medicines affect my pregnancy?\n\nComplementary medicines are also called ‘traditional’ or ‘alternative’ medicines. They include:\n\n- vitamins\n\n- minerals\n\n- herbal medicines\n\n- aromatherapy\n\n- homeopathy products\n\nWhile these medicines are often described as natural, this does not mean they are safe. This is especially true during pregnancy. We often don’t know much about their safety.\n\nIf you want to use complementary medicines during your pregnancy talk to your doctor or pharmacist. They can give you advice about which medicines are safe to use.\n\nAll pregnant women in Australia are advised to take some supplements, including:\n\n- folic acid\n\n- iodine\n\n- vitamin D\n\nVisit the vitamins and supplements during pregnancy page to find out more about what to take and what to avoid.\n\n## Other drugs\n\nIllicit drugs should not be used during pregnancy, as they can cause harm for you and your baby. This includes:\n\n- cannabis\n\n- amphetamines\n\n- heroin\n\n- cocaine\n\nYou can talk to your doctor for support and advice.\n\n## Resources and support\n\nIf you have questions about taking medicines while you a pregnant you can call healthdirect on 1800 022 222 to speak to a registered nurse. The line is open 24 hours, 7 days a week (known as NURSE-ON-CALL in Victoria) .\n\nYou can also call the Medicines Line on 1300 MEDICINE (1300 633 424) for information on OTC, prescription, and complementary medicines.\n\n### Looking for information for Aboriginal and/or Torres Strait Islander people?\n\nThere are also pregnancy and birth services specifically available for Aboriginal and/or Torres Strait Islander people, including:\n\n- Aboriginal Maternal and Infant Health Services — New South Wales\n\n- Koori Maternity Services — Victoria\n\n### Do you prefer to read in languages other than English?\n\nYou can find pregnancy information in languages other than English at:\n\n- Healthy Horizons\n\n- The Multilingual Library Catalogue\n\nYou can also call 1300 MEDICINE (1300 633 424), Monday to Friday.\n\n#### Source s :\n\nThe Royal Women's Hospital (Herbal medicines in pregnancy and breastfeeding) , The Royal Hospital for Women (Medicines in pregnancy) , Queensland Health (Over the counter and other drug use) , Therapeutic Goods Administration (Prescribing medicines in pregnancy database) , Your Fertility (Medications)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2024\n\nBack To Top\n\n## Related pages\n\n- Medicines and alcohol\n\n- Medicines and driving\n\n- Medicines for babies and children\n\n- Medicines safety for older people\n\n- Out-of-date medicines\n\n- Questions to ask before taking a medicine\n\n- Reporting a problem with a medicine\n\n## Search our site for\n\n- Pregnancy\n\n- Medicine regulation\n\n- Medicine scheduling\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Paracetamol use in pregnancy | Therapeutic Goods Administration (TGA)\n\nRobust scientific evidence shows no causal link between the use of paracetamol in pregnancy and autism or ADHD, with several large and reliable studies directly contradicting these claims.\n\nRead more on TGA website\n\n### Pregnancy - medication, drugs and alcohol | Better Health Channel\n\nMost women take a drug of some kind during pregnancy, sometimes without realising the potential for harm.\n\nRead more on Better Health Channel website\n\n### Paracetamol Use In Pregnancy: Is It Safe? | Expert Advice From Red Nose\n\nIs paracetamol safe to take during pregnancy? Red Nose supports expert guidance from RANZCOG, the TGA and AMA, reaffirming its safe use when taken as advised. Learn what parents need to know.\n\nRead more on Red Nose website\n\n### Medicines during pregnancy\n\nLearn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins.\n\nRead more on Pregnancy,Birth & Baby website\n\n### TGA\n\nThe TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods.\n\nRead more on Partner Organisation website\n\n### Medicines for babies and children\n\nGet practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects.\n\nShow more\n\n### Quality use of medicines: who owns it now? - Australian Prescriber\n\nThe closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake.\n\nRead more on Australian Prescriber website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-during-pregnancy#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-during-pregnancy#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-during-pregnancy#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-during-pregnancy#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Paracetamol use in pregnancy: https://www.tga.gov.au/news/media-releases/paracetamol-use-pregnancy\n\n- What should I be aware of when taking medicines during pregnancy?: https://www.healthdirect.gov.au/medicines-during-pregnancy#aware\n\n- How do I know what medicines are safe to use during pregnancy?: https://www.healthdirect.gov.au/medicines-during-pregnancy#safe\n\n- Should I stop taking my prescription medicines if I'm pregnant?: https://www.healthdirect.gov.au/medicines-during-pregnancy#stop\n\n- Are over-the-counter medicines safe to take when pregnant?: https://www.healthdirect.gov.au/medicines-during-pregnancy#otc\n\n- What OTC medicines can I take for common conditions while pregnant?: https://www.healthdirect.gov.au/medicines-during-pregnancy#common\n\n- Will complementary medicines affect my pregnancy?: https://www.healthdirect.gov.au/medicines-during-pregnancy#complementary\n\n- Other drugs: https://www.healthdirect.gov.au/medicines-during-pregnancy#drugs\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-during-pregnancy#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-during-pregnancy#searchGeneralResults\n\n- stage of your pregnancy: https://www.pregnancybirthbaby.org.au/pregnancy-week-by-week\n\n- doctor: https://www.pregnancybirthbaby.org.au/the-role-of-your-gp\n\n- pharmacist: https://www.pregnancybirthbaby.org.au/making-the-most-of-your-pharmacist\n\n- asthma: https://www.pregnancybirthbaby.org.au/asthma-and-pregnancy\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- diabetes: https://www.pregnancybirthbaby.org.au/diabetes-during-pregnancy\n\n- epilepsy: https://www.healthdirect.gov.au/epilepsy\n\n- high blood pressure: https://www.healthdirect.gov.au/high-blood-pressure-hypertension\n\n- planning a pregnancy: https://www.pregnancybirthbaby.org.au/planning-for-your-pregnancy\n\n- cold: https://www.pregnancybirthbaby.org.au/cold-and-flu-during-pregnancy\n\n- pholcodine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21597/pholcodine\n\n- dextromethorphan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22380/dextromethorphan\n\n- guaifenesin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22512/guaifenesin\n\n- bromhexine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20568/bromhexine\n\n- phenylephrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20914/phenylephrine\n\n- povidone-iodine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,D011206/povidone-iodine\n\n- benzydamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22089/benzydamine\n\n- paracetamol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20948/paracetamol\n\n- back pain: https://www.pregnancybirthbaby.org.au/backache-in-pregnancy\n\n- headaches: https://www.pregnancybirthbaby.org.au/headaches-during-pregnancy\n\n- Non-steroidal anti-inflammatory drugs: https://www.healthdirect.gov.au/anti-inflammatory-medicines\n\n- ibuprofen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21286/ibuprofen\n\n- aspirin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin\n\n- pre-eclampsia: https://www.pregnancybirthbaby.org.au/pre-eclampsia\n\n- pregnancy rhinitis: https://www.pregnancybirthbaby.org.au/pregnancy-rhinitis\n\n- Antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- budesonide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20394/budesonide\n\n- constipation: https://www.pregnancybirthbaby.org.au/constipation-during-pregnancy\n\n- fibre, like fruit, vegetables and wholegrains: https://www.pregnancybirthbaby.org.au/healthy-diet-during-pregnancy\n\n- senna: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23519/senna-leaf-powder-+-fig-+-date\n\n- bisacodyl: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21375/bisacodyl\n\n- heartburn and reflux: https://www.pregnancybirthbaby.org.au/indigestion-and-heartburn-in-pregnancy\n\n- loperamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21377/loperamide\n\n- Thrush: https://www.pregnancybirthbaby.org.au/vaginal-thrush-during-pregnancy \n\n- clotrimazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20580/clotrimazole\n\n- nystatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21043/nystatin\n\n- fluconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21149/fluconazole\n\n- folic acid: https://www.pregnancybirthbaby.org.au/folate-and-pregnancy\n\n- vitamins and supplements during pregnancy: https://www.pregnancybirthbaby.org.au/vitamins-and-supplements-during-pregnancy\n\n- cannabis: https://www.healthdirect.gov.au/marijuana\n\n- amphetamines: https://www.healthdirect.gov.au/speed\n\n- heroin: https://www.healthdirect.gov.au/heroin\n\n- cocaine: https://www.healthdirect.gov.au/cocaine\n\n- healthdirect: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Medicines Line: https://1300medicine.com.au/\n\n- Aboriginal Maternal and Infant Health Services — New South Wales: https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/programs/Pages/amihs-bsf-map.aspx\n\n- Koori Maternity Services — Victoria: https://www.health.vic.gov.au/patient-care/aboriginal-maternity-services\n\n- Healthy Horizons: https://healthyhorizons.org.au\n\n- The Multilingual Library Catalogue: https://www.mcwh.com.au/multilingual-resources/\n\n- (Herbal medicines in pregnancy and breastfeeding): https://thewomens.r.worldssl.net/images/uploads/fact-sheets/Herbal-medicines-in-pregnancy-breastfeeding-171018.pdf\n\n- (Medicines in pregnancy): https://www.thewomens.org.au/images/uploads/fact-sheets/Medicines-in-pregnancy-171018.pdf\n\n- (Over the counter and other drug use): https://www.health.qld.gov.au/__data/assets/pdf_file/0020/463700/other-drugs.pdf\n\n- (Prescribing medicines in pregnancy database): https://www.tga.gov.au/products/medicines/find-information-about-medicine/prescribing-medicines-pregnancy-database\n\n- (Medications): https://www.yourfertility.org.au/everyone/health-medical/medications\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-during-pregnancy#backToTop\n\n- Medicines and alcohol: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- Medicines and driving: https://www.healthdirect.gov.au/medicines-and-driving\n\n- Medicines for babies and children: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Medicines safety for older people: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Out-of-date medicines: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Questions to ask before taking a medicine: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reporting a problem with a medicine: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Pregnancy: https://www.healthdirect.gov.au/search-results/Pregnancy\n\n- Medicine regulation: https://www.healthdirect.gov.au/search-results/Medicine regulation\n\n- Medicine scheduling: https://www.healthdirect.gov.au/search-results/Medicine scheduling\n\n- Pregnancy - medication, drugs and alcohol | Better Health Channel Most women take a drug of some kind during pregnancy, sometimes without realising the potential for harm. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/healthyliving/pregnancy-medication-drugs-and-alcohol\n\n- Paracetamol Use In Pregnancy: Is It Safe? | Expert Advice From Red Nose Is paracetamol safe to take during pregnancy? Red Nose supports expert guidance from RANZCOG, the TGA and AMA, reaffirming its safe use when taken as advised. Learn what parents need to know. Read more on Red Nose website: https://rednose.org.au/safe-sleep-and-safer-pregnancy/pregnancy-to-birth/paracetamol-use-in-pregnancy/\n\n- Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy\n\n- TGA The TGA is a part of the Australian Government Department of Health, and is responsible for regulating the import, supply, manufacture, export and advertising of therapeutic goods. Read more on Partner Organisation website: https://www.tga.gov.au/\n\n- Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/medicines-for-babies-and-children\n\n- Quality use of medicines: who owns it now? - Australian Prescriber The closure of NPS MedicineWise in 2022 together with a shift in health policy has given rise to both opportunities and risks for quality use of medicines in Australia. As prescribers and users of medicines, we all have a stake. Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/quality-use-of-medicines-who-owns-it-now.html\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

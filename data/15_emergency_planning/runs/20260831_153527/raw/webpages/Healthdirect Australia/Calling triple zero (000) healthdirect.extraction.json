@@ -1,0 +1,623 @@
+{
+  "source_id": "healthdirect:calling-triple-zero",
+  "title": "Calling triple zero (000) | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/calling-triple-zero",
+  "retrieved_at": "2026-08-31",
+  "topic": "Emergency Planning",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 26356,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/calling-triple-zero",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "When should I call triple zero (000)?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#when"
+    },
+    {
+      "text": "When do I need an ambulance?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#ambulance"
+    },
+    {
+      "text": "What happens when I call triple zero (000)?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#what-happens"
+    },
+    {
+      "text": "How do I call or contact triple zero (000)?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#call"
+    },
+    {
+      "text": "What if I don't speak English?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#dont-speak-english"
+    },
+    {
+      "text": "What do I do while waiting for an ambulance?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#waiting-ambulance"
+    },
+    {
+      "text": "What do I do when the ambulance arrives?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#ambulance-arrives"
+    },
+    {
+      "text": "How can I help others to use the triple zero (000) service?",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#help-others"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#searchGeneralResults"
+    },
+    {
+      "text": "doctor",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "urgent care clinic",
+      "url": "https://www.healthdirect.gov.au/urgent-care-clinics"
+    },
+    {
+      "text": "hospital or emergency department",
+      "url": "https://www.healthdirect.gov.au/hospital-emergency-departments"
+    },
+    {
+      "text": "blackout",
+      "url": "https://www.healthdirect.gov.au/blackouts"
+    },
+    {
+      "text": "fainting",
+      "url": "https://www.healthdirect.gov.au/fainting"
+    },
+    {
+      "text": "chest pain",
+      "url": "https://www.healthdirect.gov.au/chest-pain"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "breathing problems",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath"
+    },
+    {
+      "text": "collapse",
+      "url": "https://www.healthdirect.gov.au/collapsing"
+    },
+    {
+      "text": "fall",
+      "url": "https://www.healthdirect.gov.au/falls"
+    },
+    {
+      "text": "seizure",
+      "url": "https://www.healthdirect.gov.au/seizures"
+    },
+    {
+      "text": "burns",
+      "url": "https://www.healthdirect.gov.au/burns-and-scalds"
+    },
+    {
+      "text": "106",
+      "url": "https://www.triplezero.gov.au/triple-zero/other-emergency-numbers"
+    },
+    {
+      "text": "Emergency+ app",
+      "url": "https://www.emergencyplus.com.au/"
+    },
+    {
+      "text": "what3words",
+      "url": "https://what3words.com/news/emergency/australian-emergency-services-accept-what3words"
+    },
+    {
+      "text": "Apple App Store",
+      "url": "https://apps.apple.com/au/app/emergency/id691814685"
+    },
+    {
+      "text": "Google Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.threesixtyentertainment.nesn"
+    },
+    {
+      "text": "first aid",
+      "url": "https://www.healthdirect.gov.au/first-aid-advice"
+    },
+    {
+      "text": "CPR",
+      "url": "https://www.healthdirect.gov.au/how-to-perform-cpr"
+    },
+    {
+      "text": "paramedics",
+      "url": "https://www.healthdirect.gov.au/paramedics"
+    },
+    {
+      "text": "Triple Zero",
+      "url": "https://www.triplezero.gov.au/"
+    },
+    {
+      "text": "The Australian Communications and Media Authority",
+      "url": "https://www.acma.gov.au/emergency-calls"
+    },
+    {
+      "text": "Australian health system",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system"
+    },
+    {
+      "text": "call triple zero (000) in many languages",
+      "url": "https://www.triplezero.vic.gov.au/language-options"
+    },
+    {
+      "text": "(How to call Triple Zero (000))",
+      "url": "https://www.infrastructure.gov.au/media-communications/phone/triple-zero"
+    },
+    {
+      "text": "(Guideline 2 – Managing an Emergency)",
+      "url": "https://www.anzcor.org/home/basic-life-support/guideline-2-managing-an-emergency"
+    },
+    {
+      "text": "(Guideline 9.1.3 - First Aid for Burns)",
+      "url": "https://www.anzcor.org/home/first-aid-management-of-injuries/guideline-9-1-3-first-aid-for-burns"
+    },
+    {
+      "text": "(Guideline 9.2.2 - Stroke)",
+      "url": "https://www.anzcor.org/home/new-guideline-page-2/guideline-9-2-2-stroke"
+    },
+    {
+      "text": "(Guideline 9.4.5 - First Aid Management of Marine Envenomation)",
+      "url": "https://www.anzcor.org/home/first-aid-for-bites-stings-and-poisoning/guideline-9-4-5-first-aid-management-of-marine-envenomation"
+    },
+    {
+      "text": "(Calling an ambulance for non‐emergency medical situations: Results of a cross‐sectional online survey from an Australian nationally representative sample)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10087376/"
+    },
+    {
+      "text": "(Refining ambulance clinical response models: The impact on ambulance response and emergency department presentations)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/1742-6723.14406?__cf_chl_tk=6J9LpcYswgabVkixdteEiM5PWrVnQbFYx2XAqx784q4-1754243226-1.0.1.1-yACWQSdkGX72dILVelN3A1rLCGi.p7hsVWPUM.4UOiE"
+    },
+    {
+      "text": "(What happens when an ambulance comes to help you?)",
+      "url": "https://www.ambulance.vic.gov.au/sites/default/files/2024-12/What-happens-when-an-Ambulance-comes-to-help-you.pdf"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero#backToTop"
+    },
+    {
+      "text": "About ambulances in Australia",
+      "url": "https://www.healthdirect.gov.au/about-ambulances-in-australia"
+    },
+    {
+      "text": "Emergency Medical Services",
+      "url": "https://www.healthdirect.gov.au/search-results/Emergency Medical Services"
+    },
+    {
+      "text": "Ambulance services | NT.GOV.AU St John Ambulance emergency and non-emergency ambulance services. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/hospitals-health-services/ambulance-services"
+    },
+    {
+      "text": "Ambulance – when to call one | National Centre for Farmer Health First aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own. Read more on National Centre for Farmer Health website",
+      "url": "https://farmerhealth.org.au/ambulance-when-to-call-one/"
+    },
+    {
+      "text": "Calling an ambulance | Better Health Channel In a medical emergency, call triple zero (000) for assistance. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/calling-an-ambulance"
+    },
+    {
+      "text": "Royal Flying Doctor Service Royal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world. Read more on Partner Organisation website",
+      "url": "https://www.flyingdoctor.org.au/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Calling triple zero (000) | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Calling triple zero (000)\n\n9-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you or someone with you is having a medical emergency, call triple zero (000) immediately and ask for an ambulance.\n\n## Key facts\n\n- Triple zero (000) is the national emergency service phone number.\n\n- Dial triple zero (000) to contact the police, fire or ambulance services.\n\n- When you call triple zero, stay calm and speak clearly.\n\n- If the situation is not serious and urgent, call a local service for help instead of using triple zero (000).\n\n## On this page\n\n- When should I call triple zero (000)?\n\n- When do I need an ambulance?\n\n- What happens when I call triple zero (000)?\n\n- How do I call or contact triple zero (000)?\n\n- What if I don't speak English?\n\n- What do I do while waiting for an ambulance?\n\n- What do I do when the ambulance arrives?\n\n- How can I help others to use the triple zero (000) service?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## When should I call triple zero (000)?\n\nTriple zero (000) is the number to call for ambulance, police or fire services in an emergency. Only call triple zero (000) if the situation is serious and urgent.\n\nYou should call triple zero (000) if:\n\n- a person is seriously injured or needs urgent medical help\n\n- your life or property is in danger\n\n- you have just witnessed a serious accident or crime\n\n- you see an uncontrolled fire\n\nRemember that the triple zero (000) number is for emergencies only. If you call triple zero (000) and it is not an emergency, you might be stopping an ambulance from helping someone else.\n\nIf you or someone you know is sick but it's not an emergency, you can get help from:\n\n- your doctor\n\n- a pharmacist\n\n- an urgent care clinic\n\n- your local hospital or emergency department\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## When do I need an ambulance?\n\nCall triple zero (000) if you or another person is seriously injured or needs urgent medical help. Ask for an ambulance if someone has a medical problem, such as:\n\n- loss of consciousness ( blackout or fainting ) — even if brief\n\n- chest pain\n\n- sudden weakness in the face, arm or leg or trouble speaking — these could be signs of a stroke\n\n- breathing problems\n\n- a sudden collapse or unexplained fall\n\n- a seizure\n\n- uncontrollable bleeding\n\n- any other major concern about a person's health or wellbeing\n\nAlso call for an ambulance if someone has:\n\n- severe burns\n\n- stings or bites from snakes, jellyfish or other poisonous animals\n\n- fallen from a great height\n\n- an injury from a major car accident\n\n- been physically assaulted, including stabbing or shooting\n\n## What happens when I call triple zero (000)?\n\nThe operator will ask if you want police, fire or ambulance.\n\nIf you need an ambulance, the triple zero (000) operator will triage you by asking questions:\n\n- What is the problem?\n\n- How old is the patient?\n\n- Are they breathing?\n\n- Are they conscious?\n\nRemember to keep calm and speak slowly and clearly. Stay focused and only give relevant details.\n\nThe operator will also ask for your address or location.\n\n- Try to provide the street number, street name, nearest cross street and the area.\n\n- In rural areas, give the full address, nearest landmarks and roads, and the name of the property.\n\n- If you are driving, tell them the direction you're going in and the last motorway exit or town you passed.\n\n- If you are at home, turn lights on (inside and outside) and unlock the front door.\n\nStay on the line and don't hang up until the operator tells you to.\n\n## How do I call or contact triple zero (000)?\n\nIt's important to call triple zero from a safe place. You can call triple zero (000) free of charge from:\n\n- any fixed or mobile phone in Australia\n\n- many VoIP (Voice over Internet Protocol) or internet services\n\n- Australian satellite phone services\n\nYou can also call 112 (the international emergency number) from a mobile phone. This is an alternative number to contact emergency services.\n\nIf you are in a place with no mobile coverage from any provider, none of the numbers will work.\n\n### Text-based service\n\nIf you have a speech or hearing impairment, you can use the 106 text-based National Relay Service. 106 can only be used with a teletypewriter (TTY) or a device for people who are Deaf or hard of hearing.\n\nYou can't contact emergency services by sending a text message.\n\n### Smartphone apps\n\nYou can call triple zero (000) with the Emergency+ app on your smartphone. The app will display your location (via latitude and longitude coordinates). Give these coordinates to emergency service operators if you don't know exactly where you are.\n\nThe Emergency+ app also includes ' what3words ' and 'drop a pin' functions. These can help you explain where you are during an emergency. There are CPR videos in the Emergency+ app.\n\nYou can get these apps from the Apple App Store and Google Play Store .\n\n## What if I don't speak English?\n\nIf you don't speak English, you can still call triple zero (000) and ask for police, fire or ambulance.\n\nOnce you're connected to the emergency service, they will arrange a free translator. Tips to get help in your language:\n\n- Stay on the line.\n\n- Do not hang up.\n\n- After connecting you to the emergency service, the operator will bring an interpreter onto the call to help you.\n\n- When the interpreter joins the call, explain your emergency in your own language.\n\n- Stay calm and answer the operator's questions.\n\n## What do I do while waiting for an ambulance?\n\nIf you have called an ambulance for someone who is unconscious (blacked out or fainted), bleeding or in distress, stay with them while waiting for the ambulance.\n\nGive first aid if needed. If they are not breathing properly or if their heart stops, start CPR (cardiopulmonary resuscitation).\n\nIf there is another person with you, ask them to:\n\n- check if the house and unit number are clearly visible from the street\n\n- wait outside to direct the ambulance if your location is hard to find\n\n- ensure there is a clear pathway to your location\n\n- secure your pets in another area\n\n## What do I do when the ambulance arrives?\n\nTips for when the ambulance arrives:\n\n- Follow the paramedics' instructions.\n\n- Answer any questions they may have.\n\n- Tell the paramedics if you or the person you are with has any allergies or special needs.\n\n- If the ambulance is taking you to hospital, it can be helpful to:\n\n- bring your regular medicines with you, or a list of your medicines\n\n- leave valuable items at home\n\n- make sure your doors are locked and bring your keys\n\nIn some cases, it may help to have someone at home pack a small bag with essentials for the hospital.\n\n## How can I help others to use the triple zero (000) service?\n\nKeep the triple zero (000) number beside the telephone or on the fridge at home and work.\n\nTeach children how to call triple zero (000).\n\nTell people who come to Australia from overseas that the emergency number in Australia is triple zero (000).\n\n## Resources and support\n\nThe Australian Government has a website Triple Zero for further information.\n\nThe Australian Communications and Media Authority provides further information on how and when to call emergency services in Australia.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\nThe Australian health system has many different medical services available to help you. Watch this video to learn the right type of service for your health needs.\n\n### Languages other than English\n\nFind information on how to call triple zero (000) in many languages .\n\n#### Source s :\n\nDepartment of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (How to call Triple Zero (000)) , Australian Communications and Media Authority (Emergency calls) , ANZCOR (Guideline 2 – Managing an Emergency) , ANZCOR (Guideline 9.1.3 - First Aid for Burns) , ANZCOR (Guideline 9.2.2 - Stroke) , ANZCOR (Guideline 9.4.5 - First Aid Management of Marine Envenomation) , Emergency Medicine Australasia (Calling an ambulance for non‐emergency medical situations: Results of a cross‐sectional online survey from an Australian nationally representative sample) , Emergency Medicine Australasia (Refining ambulance clinical response models: The impact on ambulance response and emergency department presentations) , Ambulance Victoria (What happens when an ambulance comes to help you?)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2025\n\nBack To Top\n\n## Related pages\n\n- About ambulances in Australia\n\n- Paramedics\n\n## Search our site for\n\n- Emergency Medical Services\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Ambulance services | NT.GOV.AU\n\nSt John Ambulance emergency and non-emergency ambulance services.\n\nRead more on NT Health website\n\n### Ambulance – when to call one | National Centre for Farmer Health\n\nFirst aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own.\n\nRead more on National Centre for Farmer Health website\n\n### Calling an ambulance | Better Health Channel\n\nIn a medical emergency, call triple zero (000) for assistance.\n\nRead more on Better Health Channel website\n\n### Royal Flying Doctor Service\n\nRoyal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world.\n\nRead more on Partner Organisation website\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/calling-triple-zero\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/calling-triple-zero\n\n- Please enter your name: https://www.healthdirect.gov.au/calling-triple-zero#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/calling-triple-zero#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/calling-triple-zero#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/calling-triple-zero#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/calling-triple-zero\n\n- When should I call triple zero (000)?: https://www.healthdirect.gov.au/calling-triple-zero#when\n\n- When do I need an ambulance?: https://www.healthdirect.gov.au/calling-triple-zero#ambulance\n\n- What happens when I call triple zero (000)?: https://www.healthdirect.gov.au/calling-triple-zero#what-happens\n\n- How do I call or contact triple zero (000)?: https://www.healthdirect.gov.au/calling-triple-zero#call\n\n- What if I don't speak English?: https://www.healthdirect.gov.au/calling-triple-zero#dont-speak-english\n\n- What do I do while waiting for an ambulance?: https://www.healthdirect.gov.au/calling-triple-zero#waiting-ambulance\n\n- What do I do when the ambulance arrives?: https://www.healthdirect.gov.au/calling-triple-zero#ambulance-arrives\n\n- How can I help others to use the triple zero (000) service?: https://www.healthdirect.gov.au/calling-triple-zero#help-others\n\n- Resources and support: https://www.healthdirect.gov.au/calling-triple-zero#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/calling-triple-zero#searchGeneralResults\n\n- doctor: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- urgent care clinic: https://www.healthdirect.gov.au/urgent-care-clinics\n\n- hospital or emergency department: https://www.healthdirect.gov.au/hospital-emergency-departments\n\n- blackout: https://www.healthdirect.gov.au/blackouts\n\n- fainting: https://www.healthdirect.gov.au/fainting\n\n- chest pain: https://www.healthdirect.gov.au/chest-pain\n\n- stroke: https://www.healthdirect.gov.au/stroke\n\n- breathing problems: https://www.healthdirect.gov.au/shortness-of-breath\n\n- collapse: https://www.healthdirect.gov.au/collapsing\n\n- fall: https://www.healthdirect.gov.au/falls\n\n- seizure: https://www.healthdirect.gov.au/seizures\n\n- burns: https://www.healthdirect.gov.au/burns-and-scalds\n\n- 106: https://www.triplezero.gov.au/triple-zero/other-emergency-numbers\n\n- Emergency+ app: https://www.emergencyplus.com.au/\n\n- what3words: https://what3words.com/news/emergency/australian-emergency-services-accept-what3words\n\n- Apple App Store: https://apps.apple.com/au/app/emergency/id691814685\n\n- Google Play Store: https://play.google.com/store/apps/details?id=com.threesixtyentertainment.nesn\n\n- first aid: https://www.healthdirect.gov.au/first-aid-advice\n\n- CPR: https://www.healthdirect.gov.au/how-to-perform-cpr\n\n- paramedics: https://www.healthdirect.gov.au/paramedics\n\n- Triple Zero: https://www.triplezero.gov.au/\n\n- The Australian Communications and Media Authority: https://www.acma.gov.au/emergency-calls\n\n- Australian health system: https://www.healthdirect.gov.au/australias-healthcare-system\n\n- call triple zero (000) in many languages: https://www.triplezero.vic.gov.au/language-options\n\n- (How to call Triple Zero (000)): https://www.infrastructure.gov.au/media-communications/phone/triple-zero\n\n- (Guideline 2 – Managing an Emergency): https://www.anzcor.org/home/basic-life-support/guideline-2-managing-an-emergency\n\n- (Guideline 9.1.3 - First Aid for Burns): https://www.anzcor.org/home/first-aid-management-of-injuries/guideline-9-1-3-first-aid-for-burns\n\n- (Guideline 9.2.2 - Stroke): https://www.anzcor.org/home/new-guideline-page-2/guideline-9-2-2-stroke\n\n- (Guideline 9.4.5 - First Aid Management of Marine Envenomation): https://www.anzcor.org/home/first-aid-for-bites-stings-and-poisoning/guideline-9-4-5-first-aid-management-of-marine-envenomation\n\n- (Calling an ambulance for non‐emergency medical situations: Results of a cross‐sectional online survey from an Australian nationally representative sample): https://pmc.ncbi.nlm.nih.gov/articles/PMC10087376/\n\n- (Refining ambulance clinical response models: The impact on ambulance response and emergency department presentations): https://onlinelibrary.wiley.com/doi/10.1111/1742-6723.14406?__cf_chl_tk=6J9LpcYswgabVkixdteEiM5PWrVnQbFYx2XAqx784q4-1754243226-1.0.1.1-yACWQSdkGX72dILVelN3A1rLCGi.p7hsVWPUM.4UOiE\n\n- (What happens when an ambulance comes to help you?): https://www.ambulance.vic.gov.au/sites/default/files/2024-12/What-happens-when-an-Ambulance-comes-to-help-you.pdf\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/calling-triple-zero#backToTop\n\n- About ambulances in Australia: https://www.healthdirect.gov.au/about-ambulances-in-australia\n\n- Emergency Medical Services: https://www.healthdirect.gov.au/search-results/Emergency Medical Services\n\n- Ambulance services | NT.GOV.AU St John Ambulance emergency and non-emergency ambulance services. Read more on NT Health website: https://nt.gov.au/wellbeing/hospitals-health-services/ambulance-services\n\n- Ambulance – when to call one | National Centre for Farmer Health First aid skills are essential for all farm workers and people living on farms. Knowing what to do in an emergency could save a life, and that life could also be your own. Read more on National Centre for Farmer Health website: https://farmerhealth.org.au/ambulance-when-to-call-one/\n\n- Calling an ambulance | Better Health Channel In a medical emergency, call triple zero (000) for assistance. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/calling-an-ambulance\n\n- Royal Flying Doctor Service Royal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world. Read more on Partner Organisation website: https://www.flyingdoctor.org.au/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

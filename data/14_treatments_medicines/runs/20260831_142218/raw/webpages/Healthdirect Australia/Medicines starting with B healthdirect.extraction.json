@@ -1,0 +1,2023 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-b-excludenonartg",
+  "title": "Medicines starting with \"B\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 68210,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "B Complex (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,76000011000036107/b-complex-cenovis"
+    },
+    {
+      "text": "B-Dose (Biological Therapies)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920960011000036102/b-dose-biological-therapies"
+    },
+    {
+      "text": "B-Dose Forte (Biological Therapies)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704521000168100/b-dose-forte-biological-therapies"
+    },
+    {
+      "text": "B-Dose IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,679441000168106/b-dose-iv"
+    },
+    {
+      "text": "B-Patch",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1582901000168105/b-patch"
+    },
+    {
+      "text": "B12 Rapi-Melt (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1340011000168101/b12-rapi-melt-blackmores"
+    },
+    {
+      "text": "Baclofen (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1025431000168108/baclofen-apo"
+    },
+    {
+      "text": "Baclofen (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2976011000036103/baclofen-genrx"
+    },
+    {
+      "text": "Baclofen (Sintetica)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,919811000168104/baclofen-sintetica"
+    },
+    {
+      "text": "Bacthecal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,767341000168109/bacthecal"
+    },
+    {
+      "text": "Bactol Alcohol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19571000168101/bactol-alcohol"
+    },
+    {
+      "text": "Bactrim 400/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1637981000168100/bactrim-400-80"
+    },
+    {
+      "text": "Bactrim DS",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26891000168101/bactrim-ds"
+    },
+    {
+      "text": "Bactroban",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3296011000036102/bactroban"
+    },
+    {
+      "text": "Banlice Mousse",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65159011000036102/banlice-mousse"
+    },
+    {
+      "text": "Bansep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,840941000168103/bansep"
+    },
+    {
+      "text": "Barentec",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,882931000168102/barentec"
+    },
+    {
+      "text": "Basaglar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,823981000168102/basaglar"
+    },
+    {
+      "text": "Basaglar Kwikpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,824111000168109/basaglar-kwikpen"
+    },
+    {
+      "text": "Bavencio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1097531000168109/bavencio"
+    },
+    {
+      "text": "Beclometasone/Formoterol 100/6 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650841000036101/beclometasone-formoterol-100-6-cipla"
+    },
+    {
+      "text": "Beclometasone/Formoterol 200/6 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650831000036106/beclometasone-formoterol-200-6-cipla"
+    },
+    {
+      "text": "Beconase Allergy and Hayfever 12 Hour",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73775011000036103/beconase-allergy-and-hayfever-12-hour"
+    },
+    {
+      "text": "Beconase Allergy and Hayfever 24 Hour",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73700011000036102/beconase-allergy-and-hayfever-24-hour"
+    },
+    {
+      "text": "Bee Venom (Albey)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61321000168106/bee-venom-albey"
+    },
+    {
+      "text": "Belkyra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884901000168103/belkyra"
+    },
+    {
+      "text": "Bella",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1682861000168107/bella"
+    },
+    {
+      "text": "Belsomra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,901051000168106/belsomra"
+    },
+    {
+      "text": "Bemfola",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,741041000168106/bemfola"
+    },
+    {
+      "text": "Bemrist Breezhaler 125/127.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,792255951000036100/bemrist-breezhaler-125-127.5"
+    },
+    {
+      "text": "Bemrist Breezhaler 125/260",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,891085011000036106/bemrist-breezhaler-125-260"
+    },
+    {
+      "text": "Bemrist Breezhaler 125/62.5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,451494131000036100/bemrist-breezhaler-125-62.5"
+    },
+    {
+      "text": "Benadryl Cough Medicine for Dry Coughs",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26351000168102/benadryl-cough-medicine-for-dry-coughs"
+    },
+    {
+      "text": "Benadryl Mucus Relief plus Decongestant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24211000168100/benadryl-mucus-relief-plus-decongestant"
+    },
+    {
+      "text": "Benadryl Original",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,732691000168100/benadryl-original"
+    },
+    {
+      "text": "Benadryl PE Chesty Cough and Nasal Congestion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,679291000168102/benadryl-pe-chesty-cough-and-nasal-congestion"
+    },
+    {
+      "text": "Benadryl PE Dry Cough and Nasal Congestion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,679181000168107/benadryl-pe-dry-cough-and-nasal-congestion"
+    },
+    {
+      "text": "Benadryl PE for the Family Chesty Cough and Nasal Congestion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44451000168100/benadryl-pe-for-the-family-chesty-cough-and-nasal-congestion"
+    },
+    {
+      "text": "Benadryl PE for the Family Dry Cough and Nasal Congestion",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20711000168104/benadryl-pe-for-the-family-dry-cough-and-nasal-congestion"
+    },
+    {
+      "text": "Bendamustine (EUG)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705461000036108/bendamustine-eug"
+    },
+    {
+      "text": "Bendamustine (Eugia)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,988459961000036106/bendamustine-eugia"
+    },
+    {
+      "text": "Bendamustine (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1679801000168107/bendamustine-juno"
+    },
+    {
+      "text": "Bendamustine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1673071000168105/bendamustine-sandoz"
+    },
+    {
+      "text": "Bendamustine (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1673141000168104/bendamustine-viatris"
+    },
+    {
+      "text": "Bendamustine Hydrochloride (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933585951000036103/bendamustine-hydrochloride-medsurge"
+    },
+    {
+      "text": "Benedo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933650721000036101/benedo"
+    },
+    {
+      "text": "Benefix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2121000168104/benefix"
+    },
+    {
+      "text": "Benlysta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,137291000036102/benlysta"
+    },
+    {
+      "text": "Benpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3539011000036105/benpen"
+    },
+    {
+      "text": "Benzac AC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17681000168105/benzac-ac"
+    },
+    {
+      "text": "Benzac AC Wash",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6011000168108/benzac-ac-wash"
+    },
+    {
+      "text": "Benzatropine (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1082591000168106/benzatropine-phebra"
+    },
+    {
+      "text": "Benztrop",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2920011000036102/benztrop"
+    },
+    {
+      "text": "Beovu",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1495061000168106/beovu"
+    },
+    {
+      "text": "Bepanthen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,739331000168101/bepanthen"
+    },
+    {
+      "text": "Bepanthen Antiseptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25631000168108/bepanthen-antiseptic"
+    },
+    {
+      "text": "Bepanthen First Aid Antiseptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42871000168100/bepanthen-first-aid-antiseptic"
+    },
+    {
+      "text": "Beprol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15251000036104/beprol"
+    },
+    {
+      "text": "Bergoline",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78599011000036106/bergoline"
+    },
+    {
+      "text": "Berinert IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,85263011000036109/berinert-iv"
+    },
+    {
+      "text": "Berinert SC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1487291000168100/berinert-sc"
+    },
+    {
+      "text": "Beriplex AU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,324448221000036100/beriplex-au"
+    },
+    {
+      "text": "Beriplex P/N 1000 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,895701000168104/beriplex-p-n-1000-iu"
+    },
+    {
+      "text": "Beriplex P/N 250 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,892281000168105/beriplex-p-n-250-iu"
+    },
+    {
+      "text": "Beriplex P/N 500 IU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,892351000168108/beriplex-p-n-500-iu"
+    },
+    {
+      "text": "Berocca",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,581284811000036109/berocca"
+    },
+    {
+      "text": "Berocca Energy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,398288061000036103/berocca-energy"
+    },
+    {
+      "text": "Besidep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1270691000168106/besidep"
+    },
+    {
+      "text": "Besivance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,875981000168102/besivance"
+    },
+    {
+      "text": "Besponsa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1234531000168103/besponsa"
+    },
+    {
+      "text": "Betadine Alcoholic Skin Preparation",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2991000168104/betadine-alcoholic-skin-preparation"
+    },
+    {
+      "text": "Betadine Antiseptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,30211000168106/betadine-antiseptic"
+    },
+    {
+      "text": "Betadine Antiseptic First Aid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62341000168105/betadine-antiseptic-first-aid"
+    },
+    {
+      "text": "Betadine Antiseptic Liquid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10801000168102/betadine-antiseptic-liquid"
+    },
+    {
+      "text": "Betadine Cold Sore",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52141000168102/betadine-cold-sore"
+    },
+    {
+      "text": "Betadine Cold Sore Paint Pain Relief Formula",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61551000168105/betadine-cold-sore-paint-pain-relief-formula"
+    },
+    {
+      "text": "Betadine Sore Throat Gargle - Concentrated",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6181000168101/betadine-sore-throat-gargle-concentrated"
+    },
+    {
+      "text": "Betadine Sore Throat Gargle - Ready to Use",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58821000168101/betadine-sore-throat-gargle-ready-to-use"
+    },
+    {
+      "text": "Betadine Sore Throat Lozenges",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1023571000168106/betadine-sore-throat-lozenges"
+    },
+    {
+      "text": "Betadine Surgical Scrub",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33221000168107/betadine-surgical-scrub"
+    },
+    {
+      "text": "Betaferon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52491000168103/betaferon"
+    },
+    {
+      "text": "Betahistine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698671000168104/betahistine-apo"
+    },
+    {
+      "text": "Betahistine (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599381000036105/betahistine-arx"
+    },
+    {
+      "text": "Betahistine (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663081000168103/betahistine-lupin"
+    },
+    {
+      "text": "Betahistine (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1088011000168107/betahistine-mylan"
+    },
+    {
+      "text": "Betahistine (RMB)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537371000036109/betahistine-rmb"
+    },
+    {
+      "text": "Betahistine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1197211000168109/betahistine-sandoz"
+    },
+    {
+      "text": "Betahistine (SCP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,882241000168101/betahistine-scp"
+    },
+    {
+      "text": "Betahistine (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1670521000168107/betahistine-viatris"
+    },
+    {
+      "text": "Betahistine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599391000036107/betahistine-wgr"
+    },
+    {
+      "text": "Betaloc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3906011000036103/betaloc"
+    },
+    {
+      "text": "Betmiga",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,681211000168101/betmiga"
+    },
+    {
+      "text": "Betnovate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34021000168102/betnovate"
+    },
+    {
+      "text": "Betnovate Scalp Application",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,876551000168109/betnovate-scalp-application"
+    },
+    {
+      "text": "Betnovate-1/2",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36901000168100/betnovate-1-2"
+    },
+    {
+      "text": "Betnovate-1/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63141000168104/betnovate-1-5"
+    },
+    {
+      "text": "Bexsero",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,698391000168105/bexsero"
+    },
+    {
+      "text": "Beyfortus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1729721000168102/beyfortus"
+    },
+    {
+      "text": "Bicalaccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48421000036108/bicalaccord"
+    },
+    {
+      "text": "Bicalutamide (Ameda)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,883681000168102/bicalutamide-ameda"
+    },
+    {
+      "text": "Bicalutamide (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,60521000168107/bicalutamide-apo"
+    },
+    {
+      "text": "Bicalutamide (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,903131000168103/bicalutamide-astron"
+    },
+    {
+      "text": "Bicalutamide (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,881841000168107/bicalutamide-intas"
+    },
+    {
+      "text": "Bicalutamide (SCP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,874141000168109/bicalutamide-scp"
+    },
+    {
+      "text": "Bicard",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927569011000036109/bicard"
+    },
+    {
+      "text": "Bicillin L-A",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4089011000036101/bicillin-l-a"
+    },
+    {
+      "text": "Bicnu",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47991000168108/bicnu"
+    },
+    {
+      "text": "Bicor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3639011000036101/bicor"
+    },
+    {
+      "text": "Bijuva 1/100",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1672411000168102/bijuva-1-100"
+    },
+    {
+      "text": "Biktarvy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1236071000168103/biktarvy"
+    },
+    {
+      "text": "Bilberry Eye Support Advanced (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,377366441000036105/bilberry-eye-support-advanced-blackmores"
+    },
+    {
+      "text": "Biliscopin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,75939011000036104/biliscopin"
+    },
+    {
+      "text": "Bilura",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491161000168107/bilura"
+    },
+    {
+      "text": "Bimatigan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1243171000168108/bimatigan"
+    },
+    {
+      "text": "Bimatolugan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246231000168106/bimatolugan"
+    },
+    {
+      "text": "Bimatoprost (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,904501000168102/bimatoprost-apotex"
+    },
+    {
+      "text": "Bimatoprost (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246151000168107/bimatoprost-genrx"
+    },
+    {
+      "text": "Bimatoprost (Neohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1246191000168102/bimatoprost-neohealth"
+    },
+    {
+      "text": "Bimatoprost (NHPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1247291000168107/bimatoprost-nhpl"
+    },
+    {
+      "text": "Bimatoprost (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1006741000168109/bimatoprost-sandoz"
+    },
+    {
+      "text": "Bimatoprost (Vizo-PF)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1463321000168101/bimatoprost-vizo-pf"
+    },
+    {
+      "text": "Bimatoprost (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1770821000168102/bimatoprost-wgr"
+    },
+    {
+      "text": "Bimatotim 0.3/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1620111000168108/bimatotim-0.3-5"
+    },
+    {
+      "text": "Bimprozt",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1540471000168103/bimprozt"
+    },
+    {
+      "text": "Bimzelx",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1675411000168105/bimzelx"
+    },
+    {
+      "text": "Bindozef",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,888961000168107/bindozef"
+    },
+    {
+      "text": "Bio Magnesium (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1410881000168103/bio-magnesium-blackmores"
+    },
+    {
+      "text": "Bio Zinc (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13091000168107/bio-zinc-blackmores"
+    },
+    {
+      "text": "Biocol Medicated Throat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1025311000168107/biocol-medicated-throat"
+    },
+    {
+      "text": "Biodone Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,26611000168109/biodone-forte"
+    },
+    {
+      "text": "BioGaia Protectis Baby Probiotic Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933585651000036105/biogaia-protectis-baby-probiotic-drops"
+    },
+    {
+      "text": "BioGaia Protectis Baby Probiotic Drops with Vitamin D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586101000036107/biogaia-protectis-baby-probiotic-drops-with-vitamin-d"
+    },
+    {
+      "text": "Biostate 1000 IU FVIII/2000 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,60121000168100/biostate-1000-iu-fviii-2000-iu-vwf"
+    },
+    {
+      "text": "Biostate 1000 IU FVIII/2400 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196511000168108/biostate-1000-iu-fviii-2400-iu-vwf"
+    },
+    {
+      "text": "Biostate 250 IU FVIII/500 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52671000168101/biostate-250-iu-fviii-500-iu-vwf"
+    },
+    {
+      "text": "Biostate 250 IU FVIII/600 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196461000168105/biostate-250-iu-fviii-600-iu-vwf"
+    },
+    {
+      "text": "Biostate 500 IU FVIII/1000 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62851000168103/biostate-500-iu-fviii-1000-iu-vwf"
+    },
+    {
+      "text": "Biostate 500 IU FVIII/1200 IU VWF",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1197951000168101/biostate-500-iu-fviii-1200-iu-vwf"
+    },
+    {
+      "text": "Biotin (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1754201000168103/biotin-nature's-own"
+    },
+    {
+      "text": "Biotin (Thompson's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1344361000168105/biotin-thompson's"
+    },
+    {
+      "text": "Bisacodyl (Petrus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4362011000036105/bisacodyl-petrus"
+    },
+    {
+      "text": "Bisacodyl Laxative (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1422371000168101/bisacodyl-laxative-apohealth"
+    },
+    {
+      "text": "Bisacodyl Laxative (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1439371000168106/bisacodyl-laxative-chemists'-own"
+    },
+    {
+      "text": "Bisalax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1091000168108/bisalax"
+    },
+    {
+      "text": "Bisalax Micro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20581000168104/bisalax-micro"
+    },
+    {
+      "text": "Bisolvon Chesty",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3091000168109/bisolvon-chesty"
+    },
+    {
+      "text": "Bisolvon Chesty Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13191000168108/bisolvon-chesty-forte"
+    },
+    {
+      "text": "Bisolvon Dry",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53355011000036100/bisolvon-dry"
+    },
+    {
+      "text": "Bisoprolol (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,661791000168104/bisoprolol-an"
+    },
+    {
+      "text": "Bisoprolol (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,961091000168100/bisoprolol-apo"
+    },
+    {
+      "text": "Bisoprolol (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,737561000168108/bisoprolol-auro"
+    },
+    {
+      "text": "Bisoprolol (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1558851000168109/bisoprolol-dr.-reddy's"
+    },
+    {
+      "text": "Bisoprolol (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,708841000168102/bisoprolol-generic-health"
+    },
+    {
+      "text": "Bisoprolol (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933586211000036100/bisoprolol-genrx"
+    },
+    {
+      "text": "Bisoprolol (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1413051000168106/bisoprolol-noumed"
+    },
+    {
+      "text": "Bisoprolol (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78616011000036109/bisoprolol-sandoz"
+    },
+    {
+      "text": "Bisoprolol (Terry White Chemists)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1181000036104/bisoprolol-terry-white-chemists"
+    },
+    {
+      "text": "Bisoprolol (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1774541000168101/bisoprolol-wgr"
+    },
+    {
+      "text": "Bispro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78590011000036100/bispro"
+    },
+    {
+      "text": "Bivalirudin (AC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,885481000168101/bivalirudin-ac"
+    },
+    {
+      "text": "Bivalirudin (ANS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1724791000168101/bivalirudin-ans"
+    },
+    {
+      "text": "Bivalirudin (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,851181000168100/bivalirudin-apotex"
+    },
+    {
+      "text": "Bivalirudin (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1666431000168103/bivalirudin-arx"
+    },
+    {
+      "text": "Bivalirudin (HMH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1724831000168107/bivalirudin-hmh"
+    },
+    {
+      "text": "Bivalirudin (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,885571000168100/bivalirudin-juno"
+    },
+    {
+      "text": "Bivalirudin (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537091000036106/bivalirudin-medicianz"
+    },
+    {
+      "text": "Bivalirudin (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537081000036109/bivalirudin-medsurge"
+    },
+    {
+      "text": "Bivalirudin (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1716501000168102/bivalirudin-sxp"
+    },
+    {
+      "text": "Black Snake Antivenom (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73780011000036101/black-snake-antivenom-csl"
+    },
+    {
+      "text": "Black Snake Antivenom (Seqirus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571601000168104/black-snake-antivenom-seqirus"
+    },
+    {
+      "text": "Blenrep",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933624781000036108/blenrep"
+    },
+    {
+      "text": "Bleo 15K",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24191000168101/bleo-15k"
+    },
+    {
+      "text": "Bleomycin (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651561000036107/bleomycin-accord"
+    },
+    {
+      "text": "Bleomycin (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651551000036109/bleomycin-intas"
+    },
+    {
+      "text": "Bleomycin 15K (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,765691000168104/bleomycin-15k-cipla"
+    },
+    {
+      "text": "Bleomycin Sulfate (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3159011000036101/bleomycin-sulfate-dbl"
+    },
+    {
+      "text": "Blincyto",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,764861000168108/blincyto"
+    },
+    {
+      "text": "Blistex Antiviral Cold Sore",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65167011000036100/blistex-antiviral-cold-sore"
+    },
+    {
+      "text": "Bondronat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32976011000036100/bondronat"
+    },
+    {
+      "text": "Bonezol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,903341000168105/bonezol"
+    },
+    {
+      "text": "Bonjela Mouth Ulcer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40631000168103/bonjela-mouth-ulcer"
+    },
+    {
+      "text": "Bonjela Mouth Ulcer and Teething",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703431000036103/bonjela-mouth-ulcer-and-teething"
+    },
+    {
+      "text": "Bonjela Teething",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44691000168108/bonjela-teething"
+    },
+    {
+      "text": "Bonjela Teething and Mouth Ulcer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703371000036108/bonjela-teething-and-mouth-ulcer"
+    },
+    {
+      "text": "Bonspri",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,823893421000036105/bonspri"
+    },
+    {
+      "text": "Boostrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73699011000036103/boostrix"
+    },
+    {
+      "text": "Boostrix-IPV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73764011000036108/boostrix-ipv"
+    },
+    {
+      "text": "Bortezom",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590421000168105/bortezom"
+    },
+    {
+      "text": "Bortezomib (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590571000168105/bortezomib-accord"
+    },
+    {
+      "text": "Bortezomib (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1562411000168102/bortezomib-aft"
+    },
+    {
+      "text": "Bortezomib (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,879321000168100/bortezomib-apotex"
+    },
+    {
+      "text": "Bortezomib (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1634251000168109/bortezomib-baxter"
+    },
+    {
+      "text": "Bortezomib (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1529561000168104/bortezomib-dbl"
+    },
+    {
+      "text": "Bortezomib (EPSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1732741000168103/bortezomib-epsl"
+    },
+    {
+      "text": "Bortezomib (EUG)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1732821000168103/bortezomib-eug"
+    },
+    {
+      "text": "Bortezomib (Eugia)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1732361000168100/bortezomib-eugia"
+    },
+    {
+      "text": "Bortezomib (Ever Pharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571721000168101/bortezomib-ever-pharma"
+    },
+    {
+      "text": "Bortezomib (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,713584111000036100/bortezomib-genrx"
+    },
+    {
+      "text": "Bortezomib (GPPL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933563991000036106/bortezomib-gppl"
+    },
+    {
+      "text": "Bortezomib (GxP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,472956251000036103/bortezomib-gxp"
+    },
+    {
+      "text": "Bortezomib (Hetero)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564011000036103/bortezomib-hetero"
+    },
+    {
+      "text": "Bortezomib (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753261000036103/bortezomib-intas"
+    },
+    {
+      "text": "Bortezomib (JN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,982284981000036104/bortezomib-jn"
+    },
+    {
+      "text": "Bortezomib (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1545871000168107/bortezomib-juno"
+    },
+    {
+      "text": "Bortezomib (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600681000036100/bortezomib-medsurge"
+    },
+    {
+      "text": "Bortezomib (MSN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753281000036108/bortezomib-msn"
+    },
+    {
+      "text": "Bortezotero",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564001000036100/bortezotero"
+    },
+    {
+      "text": "Bortraczo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599491000036102/bortraczo"
+    },
+    {
+      "text": "Bosentan (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884041000168102/bosentan-accord"
+    },
+    {
+      "text": "Bosentan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,971541000168107/bosentan-apo"
+    },
+    {
+      "text": "Bosentan (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,888691000168108/bosentan-astron"
+    },
+    {
+      "text": "Bosentan (Dr. Reddy's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1198821000168102/bosentan-dr.-reddy's"
+    },
+    {
+      "text": "Bosentan (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,762351000168108/bosentan-genrx"
+    },
+    {
+      "text": "Bosentan (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,888061000168106/bosentan-intas"
+    },
+    {
+      "text": "Bosentan (Ran)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,878811000168109/bosentan-ran"
+    },
+    {
+      "text": "Bosentan (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,882001000168108/bosentan-rbx"
+    },
+    {
+      "text": "Bosentan (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,884391000168108/bosentan-sun"
+    },
+    {
+      "text": "Bosentan (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1657441000168103/bosentan-viatris"
+    },
+    {
+      "text": "Bosleer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,889171000168106/bosleer"
+    },
+    {
+      "text": "Bosulif",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,875001000168109/bosulif"
+    },
+    {
+      "text": "Botox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3742011000036100/botox"
+    },
+    {
+      "text": "Box Jellyfish Antivenom (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73737011000036105/box-jellyfish-antivenom-csl"
+    },
+    {
+      "text": "Box Jellyfish Antivenom (Seqirus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1571471000168106/box-jellyfish-antivenom-seqirus"
+    },
+    {
+      "text": "Braftovi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1253051000168101/braftovi"
+    },
+    {
+      "text": "Braltus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1242411000168104/braltus"
+    },
+    {
+      "text": "Brenda-35 ED",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,745691000168105/brenda-35-ed"
+    },
+    {
+      "text": "Brenzys",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,880471000168106/brenzys"
+    },
+    {
+      "text": "Brenzys Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,899251000168108/brenzys-auto-injector"
+    },
+    {
+      "text": "Breo Ellipta 100/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,677531000168109/breo-ellipta-100-25"
+    },
+    {
+      "text": "Breo Ellipta 200/25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,677421000168107/breo-ellipta-200-25"
+    },
+    {
+      "text": "Bretaris Genuair",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,652831000168106/bretaris-genuair"
+    },
+    {
+      "text": "Brevibloc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39685011000036107/brevibloc"
+    },
+    {
+      "text": "Brevinor 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700011841000036105/brevinor-28-day"
+    },
+    {
+      "text": "Brevinor-1 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700011851000036108/brevinor-1-28-day"
+    },
+    {
+      "text": "Breztri Aerosphere 160/7.2/5",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1577531000168102/breztri-aerosphere-160-7.2-5"
+    },
+    {
+      "text": "Bricalor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1793521000168101/bricalor"
+    },
+    {
+      "text": "Bricanyl",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48681000168104/bricanyl"
+    },
+    {
+      "text": "Bricanyl Turbuhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,7051000168106/bricanyl-turbuhaler"
+    },
+    {
+      "text": "Brilinta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32101000036105/brilinta"
+    },
+    {
+      "text": "Brilinta ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1318371000168103/brilinta-odt"
+    },
+    {
+      "text": "Brimadex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1737671000168103/brimadex"
+    },
+    {
+      "text": "Brimica Genuair 340/12",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,728201000168108/brimica-genuair-340-12"
+    },
+    {
+      "text": "Brineura",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1372661000168106/brineura"
+    },
+    {
+      "text": "Brintellix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,712621000168109/brintellix"
+    },
+    {
+      "text": "Brinzoquin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3988011000036103/brinzoquin"
+    },
+    {
+      "text": "Briumvi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506791000036104/briumvi"
+    },
+    {
+      "text": "Briviact",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,876391000168107/briviact"
+    },
+    {
+      "text": "Bronchitis Cough Medicine (Nyal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65069011000036102/bronchitis-cough-medicine-nyal"
+    },
+    {
+      "text": "Bronchitol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32151000036106/bronchitol"
+    },
+    {
+      "text": "Brooke",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1671121000168109/brooke"
+    },
+    {
+      "text": "Brooklynn",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1671401000168105/brooklynn"
+    },
+    {
+      "text": "Brown Snake Antivenom (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73713011000036107/brown-snake-antivenom-csl"
+    },
+    {
+      "text": "Brown Snake Antivenom (Seqirus)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1572361000168102/brown-snake-antivenom-seqirus"
+    },
+    {
+      "text": "Brufen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3434011000036100/brufen"
+    },
+    {
+      "text": "Brufen Pain",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1681261000168103/brufen-pain"
+    },
+    {
+      "text": "Brufen Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1255801000168105/brufen-plus"
+    },
+    {
+      "text": "Brukinsa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1597031000168104/brukinsa"
+    },
+    {
+      "text": "Budamax Aqueous",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44611000168104/budamax-aqueous"
+    },
+    {
+      "text": "Budenofalk",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,143301000036105/budenofalk"
+    },
+    {
+      "text": "Budesonide plus Formoterol 200/6 (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599311000036102/budesonide-plus-formoterol-200-6-cipla"
+    },
+    {
+      "text": "Bufomix Easyhaler 200/6",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1675721000168107/bufomix-easyhaler-200-6"
+    },
+    {
+      "text": "Bufomix Easyhaler 400/12",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1675681000168101/bufomix-easyhaler-400-12"
+    },
+    {
+      "text": "Bugesic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53403011000036104/bugesic"
+    },
+    {
+      "text": "Bupivacaine (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1548461000168106/bupivacaine-baxter"
+    },
+    {
+      "text": "Bupivacaine (Claris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,879561000168104/bupivacaine-claris"
+    },
+    {
+      "text": "Bupivacaine (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1630611000168102/bupivacaine-pfizer"
+    },
+    {
+      "text": "Bupivacaine 0.25% with Adrenaline 1 in 400 000 (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1754121000168103/bupivacaine-0.25-with-adrenaline-1-in-400-000-phebra"
+    },
+    {
+      "text": "Bupivacaine 0.5% With Adrenaline 1 in 200 000 (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1659291000168104/bupivacaine-0.5-with-adrenaline-1-in-200-000-phebra"
+    },
+    {
+      "text": "Bupivacaine Hydrochloride (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35985011000036103/bupivacaine-hydrochloride-pfizer-perth"
+    },
+    {
+      "text": "Bupivacaine Spinal Heavy (Aborns)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703711000036103/bupivacaine-spinal-heavy-aborns"
+    },
+    {
+      "text": "Bupivacaine Spinal Heavy (BNM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1472431000168109/bupivacaine-spinal-heavy-bnm"
+    },
+    {
+      "text": "Bupivadren 0.25% with Adrenaline 1 in 400 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1323781000168102/bupivadren-0.25-with-adrenaline-1-in-400-000"
+    },
+    {
+      "text": "Bupivadren 0.5% with Adrenaline 1 in 200 000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1324301000168107/bupivadren-0.5-with-adrenaline-1-in-200-000"
+    },
+    {
+      "text": "Bupredermal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1050191000168109/bupredermal"
+    },
+    {
+      "text": "Buprenorphine (AUP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1583681000168103/buprenorphine-aup"
+    },
+    {
+      "text": "Buprenorphine (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1582431000168105/buprenorphine-juno"
+    },
+    {
+      "text": "Buprenorphine (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1047141000168100/buprenorphine-sandoz"
+    },
+    {
+      "text": "Buprespan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1582141000168105/buprespan"
+    },
+    {
+      "text": "Burinex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39656011000036105/burinex"
+    },
+    {
+      "text": "Burn and Bite (Amcal)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53582011000036104/burn-and-bite-amcal"
+    },
+    {
+      "text": "Buscopan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2401000168103/buscopan"
+    },
+    {
+      "text": "Buscopan Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22781000168109/buscopan-forte"
+    },
+    {
+      "text": "Busulfan (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1375981000168100/busulfan-accord"
+    },
+    {
+      "text": "Busulfan (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,874281000168106/busulfan-apotex"
+    },
+    {
+      "text": "Busulfan (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,657899811000036105/busulfan-arx"
+    },
+    {
+      "text": "Busulfex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39768011000036105/busulfex"
+    },
+    {
+      "text": "Buvidal Monthly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1236701000168106/buvidal-monthly"
+    },
+    {
+      "text": "Buvidal Weekly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1236941000168106/buvidal-weekly"
+    },
+    {
+      "text": "Bylvay",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,331576531000036103/bylvay"
+    },
+    {
+      "text": "Baclofen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20280/baclofen"
+    },
+    {
+      "text": "Bai zhu extract + Chinese liquorice extract + Korean ginseng extract + China root extract + ginger extract + jujube extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50150/bai-zhu-extract-+-chinese-liquorice-extract-+-korean-ginseng-extract-+-china-root-extract-+-ginger-extract-+-jujube-extract"
+    },
+    {
+      "text": "Bai zhu extract + Chinese liquorice extract + Korean ginseng extract + ginger extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50151/bai-zhu-extract-+-chinese-liquorice-extract-+-korean-ginseng-extract-+-ginger-extract"
+    },
+    {
+      "text": "Baloxavir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26753/baloxavir"
+    },
+    {
+      "text": "Balsalazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20286/balsalazide"
+    },
+    {
+      "text": "Baricitinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24241/baricitinib"
+    },
+    {
+      "text": "Barium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22077/barium"
+    },
+    {
+      "text": "Basiliximab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20287/basiliximab"
+    },
+    {
+      "text": "Beclometasone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20292/beclometasone"
+    },
+    {
+      "text": "Beclometasone + formoterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26808/beclometasone-+-formoterol"
+    },
+    {
+      "text": "Beclometasone + formoterol + glycopyrronium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26745/beclometasone-+-formoterol-+-glycopyrronium"
+    },
+    {
+      "text": "Belantamab mafodotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50735/belantamab-mafodotin"
+    },
+    {
+      "text": "Belatacept",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23673/belatacept"
+    },
+    {
+      "text": "Belimumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20311/belimumab"
+    },
+    {
+      "text": "Belumosudil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50055/belumosudil"
+    },
+    {
+      "text": "Belzutifan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27128/belzutifan"
+    },
+    {
+      "text": "Bemotrizinol + butyl methoxydibenzoylmethane + octocrylene + octyl methoxycinnamate + diethylamino hydroxybenzoyl hexyl benzoate + titanium dioxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50154/bemotrizinol-+-butyl-methoxydibenzoylmethane-+-octocrylene-+-octyl-methoxycinnamate-+-diethylamino-hydroxybenzoyl-hexyl-benzoate-+-titanium-dioxide"
+    },
+    {
+      "text": "Bemotrizinol + diethylamino hydroxybenzoyl hexyl benzoate + homosalate + octocrylene + titanium dioxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50155/bemotrizinol-+-diethylamino-hydroxybenzoyl-hexyl-benzoate-+-homosalate-+-octocrylene-+-titanium-dioxide"
+    },
+    {
+      "text": "Bendamustine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20312/bendamustine"
+    },
+    {
+      "text": "Benralizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24413/benralizumab"
+    },
+    {
+      "text": "Benzalkonium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22082/benzalkonium-chloride"
+    },
+    {
+      "text": "Benzalkonium chloride + ethanol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23176/benzalkonium-chloride-+-ethanol"
+    },
+    {
+      "text": "Benzalkonium chloride + light liquid paraffin + triclosan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23475/benzalkonium-chloride-+-light-liquid-paraffin-+-triclosan"
+    },
+    {
+      "text": "Benzathine benzylpenicillin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20313/benzathine-benzylpenicillin"
+    },
+    {
+      "text": "Benzatropine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20321/benzatropine"
+    },
+    {
+      "text": "Benzocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21505/benzocaine"
+    },
+    {
+      "text": "Benzocaine + clove bud oil + ethanol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23476/benzocaine-+-clove-bud-oil-+-ethanol"
+    },
+    {
+      "text": "Benzocaine + resorcinol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23182/benzocaine-+-resorcinol"
+    },
+    {
+      "text": "Benzoic acid + salicylic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23183/benzoic-acid-+-salicylic-acid"
+    },
+    {
+      "text": "Benzoin Sumatra + camphor + storax prepared + wool fat + zinc oxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50160/benzoin-sumatra-+-camphor-+-storax-prepared-+-wool-fat-+-zinc-oxide"
+    },
+    {
+      "text": "Benzoyl peroxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20317/benzoyl-peroxide"
+    },
+    {
+      "text": "Benzoyl peroxide + bentonite",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23175/benzoyl-peroxide-+-bentonite"
+    },
+    {
+      "text": "Benzydamine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22089/benzydamine"
+    },
+    {
+      "text": "Benzydamine + cetylpyridinium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23186/benzydamine-+-cetylpyridinium"
+    },
+    {
+      "text": "Benzydamine + chlorhexidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23187/benzydamine-+-chlorhexidine"
+    },
+    {
+      "text": "Benzyl alcohol + cetylpyridinium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23188/benzyl-alcohol-+-cetylpyridinium"
+    },
+    {
+      "text": "Benzylpenicillin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23922/benzylpenicillin"
+    },
+    {
+      "text": "Beractant",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20323/beractant"
+    },
+    {
+      "text": "Besifloxacin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24025/besifloxacin"
+    },
+    {
+      "text": "Betacarotene + biotin + thiamine + riboflavin + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + colecalciferol + d-alpha-tocopheryl acid succinate + nicotinamide + calcium + folic acid + iron + magnesium + manganese + zinc + citrus bioflavonoids extract + Rosa canina extract + nettle extract + Siberian ginseng extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50649/betacarotene-+-biotin-+-thiamine-+-riboflavin-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-colecalciferol-+-d-alpha-tocopheryl-acid-succinate-+-nicotinamide-+-calcium-+-folic-acid-+-iron-+-magnesium-+-manganese-+-zinc-+-citrus-bioflavonoids-extract-+-rosa-canina-extract-+-nettle-extract-+-siberian-ginseng-extract"
+    },
+    {
+      "text": "Betacarotene + vitamin A + colecalciferol + dl-alpha-tocopherol + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + folic acid + cyanocobalamin + ascorbic acid + biotin + phytomenadione + iron + calcium + magnesium + zinc + iodine + potassium + copper + chromium + manganese + selenium + lutein + lycopene",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50166/betacarotene-+-vitamin-a-+-colecalciferol-+-dl-alpha-tocopherol-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-folic-acid-+-cyanocobalamin-+-ascorbic-acid-+-biotin-+-phytomenadione-+-iron-+-calcium-+-magnesium-+-zinc-+-iodine-+-potassium-+-copper-+-chromium-+-manganese-+-selenium-+-lutein-+-lycopene"
+    },
+    {
+      "text": "Betahistine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20555/betahistine"
+    },
+    {
+      "text": "Betaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22095/betaine"
+    },
+    {
+      "text": "Betamethasone acetate + betamethasone sodium phosphate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23190/betamethasone-acetate-+-betamethasone-sodium-phosphate"
+    },
+    {
+      "text": "Betamethasone dipropionate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22098/betamethasone-dipropionate"
+    },
+    {
+      "text": "Betamethasone valerate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22100/betamethasone-valerate"
+    },
+    {
+      "text": "Betiatide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24864/betiatide"
+    },
+    {
+      "text": "Bevacizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20330/bevacizumab"
+    },
+    {
+      "text": "Bicalutamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20334/bicalutamide"
+    },
+    {
+      "text": "Bicarbonate + citric acid + tartaric acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23482/bicarbonate-+-citric-acid-+-tartaric-acid"
+    },
+    {
+      "text": "Bicisate dihydrochloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20336/bicisate-dihydrochloride"
+    },
+    {
+      "text": "Bictegravir + emtricitabine + tenofovir alafenamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24443/bictegravir-+-emtricitabine-+-tenofovir-alafenamide"
+    },
+    {
+      "text": "Bifidobacterium bifidum + Lactobacillus acidophilus",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26587/bifidobacterium-bifidum-+-lactobacillus-acidophilus"
+    },
+    {
+      "text": "Bifonazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22105/bifonazole"
+    },
+    {
+      "text": "Bilastine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27095/bilastine"
+    },
+    {
+      "text": "Bilberry extract + grape seed extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50514/bilberry-extract-+-grape-seed-extract"
+    },
+    {
+      "text": "Bimatoprost",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20337/bimatoprost"
+    },
+    {
+      "text": "Bimatoprost + timolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23193/bimatoprost-+-timolol"
+    },
+    {
+      "text": "Bimekizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27144/bimekizumab"
+    },
+    {
+      "text": "Binimetinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24471/binimetinib"
+    },
+    {
+      "text": "Biotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24894/biotin"
+    },
+    {
+      "text": "Bisacodyl",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21375/bisacodyl"
+    },
+    {
+      "text": "Bisacodyl + docusate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24272/bisacodyl-+-docusate"
+    },
+    {
+      "text": "Bisoprolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20343/bisoprolol"
+    },
+    {
+      "text": "Bitter candy tuft + Angelica archangelica + chamomile extract + caraway + St Mary's thistle extract + balm leaf extract + peppermint + celandine + liquorice extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50170/bitter-candy-tuft-+-angelica-archangelica-+-chamomile-extract-+-caraway-+-st-mary's-thistle-extract-+-balm-leaf-extract-+-peppermint-+-celandine-+-liquorice-extract"
+    },
+    {
+      "text": "Bivalirudin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20348/bivalirudin"
+    },
+    {
+      "text": "Bleomycin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22113/bleomycin"
+    },
+    {
+      "text": "Blinatumomab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23790/blinatumomab"
+    },
+    {
+      "text": "Boric acid + phenol + zinc oxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23484/boric-acid-+-phenol-+-zinc-oxide"
+    },
+    {
+      "text": "Bortezomib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20362/bortezomib"
+    },
+    {
+      "text": "Bosentan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20376/bosentan"
+    },
+    {
+      "text": "Bosutinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24026/bosutinib"
+    },
+    {
+      "text": "Botulinum toxin type A",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23147/botulinum-toxin-type-a"
+    },
+    {
+      "text": "Bovine colostrum",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24282/bovine-colostrum"
+    },
+    {
+      "text": "Box jellyfish antivenom",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20352/box-jellyfish-antivenom"
+    },
+    {
+      "text": "Brahmi extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24882/brahmi-extract"
+    },
+    {
+      "text": "Brentuximab vedotin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20382/brentuximab-vedotin"
+    },
+    {
+      "text": "Bretovameran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50487/bretovameran"
+    },
+    {
+      "text": "Brigatinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24913/brigatinib"
+    },
+    {
+      "text": "Brimonidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20387/brimonidine"
+    },
+    {
+      "text": "Brimonidine + timolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23198/brimonidine-+-timolol"
+    },
+    {
+      "text": "Brinzolamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20389/brinzolamide"
+    },
+    {
+      "text": "Brinzolamide + brimonidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23603/brinzolamide-+-brimonidine"
+    },
+    {
+      "text": "Brinzolamide + timolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23199/brinzolamide-+-timolol"
+    },
+    {
+      "text": "Brivaracetam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24024/brivaracetam"
+    },
+    {
+      "text": "Brolucizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26759/brolucizumab"
+    },
+    {
+      "text": "Bromazepam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20390/bromazepam"
+    },
+    {
+      "text": "Bromhexine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20568/bromhexine"
+    },
+    {
+      "text": "Bromhexine + guaifenesin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23201/bromhexine-+-guaifenesin"
+    },
+    {
+      "text": "Bromhexine + guaifenesin + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23485/bromhexine-+-guaifenesin-+-pseudoephedrine"
+    },
+    {
+      "text": "Bromhexine + phenylephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23824/bromhexine-+-phenylephrine"
+    },
+    {
+      "text": "Bromhexine + pseudoephedrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23203/bromhexine-+-pseudoephedrine"
+    },
+    {
+      "text": "Bromocriptine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20391/bromocriptine"
+    },
+    {
+      "text": "Brompheniramine + phenylephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23204/brompheniramine-+-phenylephrine"
+    },
+    {
+      "text": "Brompheniramine + phenylephrine + dextromethorphan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23486/brompheniramine-+-phenylephrine-+-dextromethorphan"
+    },
+    {
+      "text": "Brown snake antivenom",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20356/brown-snake-antivenom"
+    },
+    {
+      "text": "Budesonide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20394/budesonide"
+    },
+    {
+      "text": "Budesonide + formoterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23205/budesonide-+-formoterol"
+    },
+    {
+      "text": "Budesonide + glycopyrronium + formoterol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27029/budesonide-+-glycopyrronium-+-formoterol"
+    },
+    {
+      "text": "Bulevirtide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50173/bulevirtide"
+    },
+    {
+      "text": "Bumetanide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20395/bumetanide"
+    },
+    {
+      "text": "Bupivacaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21124/bupivacaine"
+    },
+    {
+      "text": "Bupivacaine + adrenaline (epinephrine)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23207/bupivacaine-+-adrenaline-epinephrine"
+    },
+    {
+      "text": "Bupivacaine + fentanyl",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23208/bupivacaine-+-fentanyl"
+    },
+    {
+      "text": "Bupivacaine + glucose",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23209/bupivacaine-+-glucose"
+    },
+    {
+      "text": "Buprenorphine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20397/buprenorphine"
+    },
+    {
+      "text": "Buprenorphine + naloxone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23210/buprenorphine-+-naloxone"
+    },
+    {
+      "text": "Bupropion",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20398/bupropion"
+    },
+    {
+      "text": "Burosumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27034/burosumab"
+    },
+    {
+      "text": "Busulfan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20401/busulfan"
+    },
+    {
+      "text": "Butyl methoxydibenzoylmethane + ethylhexyl triazone + octocrilene + bemotrizinol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50502/butyl-methoxydibenzoylmethane-+-ethylhexyl-triazone-+-octocrilene-+-bemotrizinol"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"B\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"B\"\n\n## Brand names\n\n- B Complex (Cenovis)\n\n- B-Dose (Biological Therapies)\n\n- B-Dose Forte (Biological Therapies)\n\n- B-Dose IV\n\n- B-Patch\n\n- B12 Rapi-Melt (Blackmores)\n\n- Baclofen (Apo)\n\n- Baclofen (GenRx)\n\n- Baclofen (Sintetica)\n\n- Bacthecal\n\n- Bactol Alcohol\n\n- Bactrim 400/80\n\n- Bactrim DS\n\n- Bactroban\n\n- Banlice Mousse\n\n- Bansep\n\n- Barentec\n\n- Basaglar\n\n- Basaglar Kwikpen\n\n- Bavencio\n\n- Beclometasone/Formoterol 100/6 (Cipla)\n\n- Beclometasone/Formoterol 200/6 (Cipla)\n\n- Beconase Allergy and Hayfever 12 Hour\n\n- Beconase Allergy and Hayfever 24 Hour\n\n- Bee Venom (Albey)\n\n- Belkyra\n\n- Bella\n\n- Belsomra\n\n- Bemfola\n\n- Bemrist Breezhaler 125/127.5\n\n- Bemrist Breezhaler 125/260\n\n- Bemrist Breezhaler 125/62.5\n\n- Benadryl Cough Medicine for Dry Coughs\n\n- Benadryl Mucus Relief plus Decongestant\n\n- Benadryl Original\n\n- Benadryl PE Chesty Cough and Nasal Congestion\n\n- Benadryl PE Dry Cough and Nasal Congestion\n\n- Benadryl PE for the Family Chesty Cough and Nasal Congestion\n\n- Benadryl PE for the Family Dry Cough and Nasal Congestion\n\n- Bendamustine (EUG)\n\n- Bendamustine (Eugia)\n\n- Bendamustine (Juno)\n\n- Bendamustine (Sandoz)\n\n- Bendamustine (Viatris)\n\n- Bendamustine Hydrochloride (Medsurge)\n\n- Benedo\n\n- Benefix\n\n- Benlysta\n\n- Benpen\n\n- Benzac AC\n\n- Benzac AC Wash\n\n- Benzatropine (Phebra)\n\n- Benztrop\n\n- Beovu\n\n- Bepanthen\n\n- Bepanthen Antiseptic\n\n- Bepanthen First Aid Antiseptic\n\n- Beprol\n\n- Bergoline\n\n- Berinert IV\n\n- Berinert SC\n\n- Beriplex AU\n\n- Beriplex P/N 1000 IU\n\n- Beriplex P/N 250 IU\n\n- Beriplex P/N 500 IU\n\n- Berocca\n\n- Berocca Energy\n\n- Besidep\n\n- Besivance\n\n- Besponsa\n\n- Betadine Alcoholic Skin Preparation\n\n- Betadine Antiseptic\n\n- Betadine Antiseptic First Aid\n\n- Betadine Antiseptic Liquid\n\n- Betadine Cold Sore\n\n- Betadine Cold Sore Paint Pain Relief Formula\n\n- Betadine Sore Throat Gargle - Concentrated\n\n- Betadine Sore Throat Gargle - Ready to Use\n\n- Betadine Sore Throat Lozenges\n\n- Betadine Surgical Scrub\n\n- Betaferon\n\n- Betahistine (Apo)\n\n- Betahistine (ARX)\n\n- Betahistine (Lupin)\n\n- Betahistine (Mylan)\n\n- Betahistine (RMB)\n\n- Betahistine (Sandoz)\n\n- Betahistine (SCP)\n\n- Betahistine (Viatris)\n\n- Betahistine (WGR)\n\n- Betaloc\n\n- Betmiga\n\n- Betnovate\n\n- Betnovate Scalp Application\n\n- Betnovate-1/2\n\n- Betnovate-1/5\n\n- Bexsero\n\n- Beyfortus\n\n- Bicalaccord\n\n- Bicalutamide (Ameda)\n\n- Bicalutamide (Apo)\n\n- Bicalutamide (Astron)\n\n- Bicalutamide (Intas)\n\n- Bicalutamide (SCP)\n\n- Bicard\n\n- Bicillin L-A\n\n- Bicnu\n\n- Bicor\n\n- Bijuva 1/100\n\n- Biktarvy\n\n- Bilberry Eye Support Advanced (Blackmores)\n\n- Biliscopin\n\n- Bilura\n\n- Bimatigan\n\n- Bimatolugan\n\n- Bimatoprost (Apotex)\n\n- Bimatoprost (GenRx)\n\n- Bimatoprost (Neohealth)\n\n- Bimatoprost (NHPL)\n\n- Bimatoprost (Sandoz)\n\n- Bimatoprost (Vizo-PF)\n\n- Bimatoprost (WGR)\n\n- Bimatotim 0.3/5\n\n- Bimprozt\n\n- Bimzelx\n\n- Bindozef\n\n- Bio Magnesium (Blackmores)\n\n- Bio Zinc (Blackmores)\n\n- Biocol Medicated Throat\n\n- Biodone Forte\n\n- BioGaia Protectis Baby Probiotic Drops\n\n- BioGaia Protectis Baby Probiotic Drops with Vitamin D\n\n- Biostate 1000 IU FVIII/2000 IU VWF\n\n- Biostate 1000 IU FVIII/2400 IU VWF\n\n- Biostate 250 IU FVIII/500 IU VWF\n\n- Biostate 250 IU FVIII/600 IU VWF\n\n- Biostate 500 IU FVIII/1000 IU VWF\n\n- Biostate 500 IU FVIII/1200 IU VWF\n\n- Biotin (Nature's Own)\n\n- Biotin (Thompson's)\n\n- Bisacodyl (Petrus)\n\n- Bisacodyl Laxative (Apohealth)\n\n- Bisacodyl Laxative (Chemists' Own)\n\n- Bisalax\n\n- Bisalax Micro\n\n- Bisolvon Chesty\n\n- Bisolvon Chesty Forte\n\n- Bisolvon Dry\n\n- Bisoprolol (AN)\n\n- Bisoprolol (Apo)\n\n- Bisoprolol (Auro)\n\n- Bisoprolol (Dr. Reddy's)\n\n- Bisoprolol (Generic Health)\n\n- Bisoprolol (GenRx)\n\n- Bisoprolol (Noumed)\n\n- Bisoprolol (Sandoz)\n\n- Bisoprolol (Terry White Chemists)\n\n- Bisoprolol (WGR)\n\n- Bispro\n\n- Bivalirudin (AC)\n\n- Bivalirudin (ANS)\n\n- Bivalirudin (Apotex)\n\n- Bivalirudin (ARX)\n\n- Bivalirudin (HMH)\n\n- Bivalirudin (Juno)\n\n- Bivalirudin (Medicianz)\n\n- Bivalirudin (Medsurge)\n\n- Bivalirudin (SXP)\n\n- Black Snake Antivenom (CSL)\n\n- Black Snake Antivenom (Seqirus)\n\n- Blenrep\n\n- Bleo 15K\n\n- Bleomycin (Accord)\n\n- Bleomycin (Intas)\n\n- Bleomycin 15K (Cipla)\n\n- Bleomycin Sulfate (DBL)\n\n- Blincyto\n\n- Blistex Antiviral Cold Sore\n\n- Bondronat\n\n- Bonezol\n\n- Bonjela Mouth Ulcer\n\n- Bonjela Mouth Ulcer and Teething\n\n- Bonjela Teething\n\n- Bonjela Teething and Mouth Ulcer\n\n- Bonspri\n\n- Boostrix\n\n- Boostrix-IPV\n\n- Bortezom\n\n- Bortezomib (Accord)\n\n- Bortezomib (AFT)\n\n- Bortezomib (Apotex)\n\n- Bortezomib (Baxter)\n\n- Bortezomib (DBL)\n\n- Bortezomib (EPSL)\n\n- Bortezomib (EUG)\n\n- Bortezomib (Eugia)\n\n- Bortezomib (Ever Pharma)\n\n- Bortezomib (GenRx)\n\n- Bortezomib (GPPL)\n\n- Bortezomib (GxP)\n\n- Bortezomib (Hetero)\n\n- Bortezomib (Intas)\n\n- Bortezomib (JN)\n\n- Bortezomib (Juno)\n\n- Bortezomib (Medsurge)\n\n- Bortezomib (MSN)\n\n- Bortezotero\n\n- Bortraczo\n\n- Bosentan (Accord)\n\n- Bosentan (Apo)\n\n- Bosentan (Astron)\n\n- Bosentan (Dr. Reddy's)\n\n- Bosentan (GenRx)\n\n- Bosentan (Intas)\n\n- Bosentan (Ran)\n\n- Bosentan (RBX)\n\n- Bosentan (Sun)\n\n- Bosentan (Viatris)\n\n- Bosleer\n\n- Bosulif\n\n- Botox\n\n- Box Jellyfish Antivenom (CSL)\n\n- Box Jellyfish Antivenom (Seqirus)\n\n- Braftovi\n\n- Braltus\n\n- Brenda-35 ED\n\n- Brenzys\n\n- Brenzys Auto-Injector\n\n- Breo Ellipta 100/25\n\n- Breo Ellipta 200/25\n\n- Bretaris Genuair\n\n- Brevibloc\n\n- Brevinor 28 Day\n\n- Brevinor-1 28 Day\n\n- Breztri Aerosphere 160/7.2/5\n\n- Bricalor\n\n- Bricanyl\n\n- Bricanyl Turbuhaler\n\n- Brilinta\n\n- Brilinta ODT\n\n- Brimadex\n\n- Brimica Genuair 340/12\n\n- Brineura\n\n- Brintellix\n\n- Brinzoquin\n\n- Briumvi\n\n- Briviact\n\n- Bronchitis Cough Medicine (Nyal)\n\n- Bronchitol\n\n- Brooke\n\n- Brooklynn\n\n- Brown Snake Antivenom (CSL)\n\n- Brown Snake Antivenom (Seqirus)\n\n- Brufen\n\n- Brufen Pain\n\n- Brufen Plus\n\n- Brukinsa\n\n- Budamax Aqueous\n\n- Budenofalk\n\n- Budesonide plus Formoterol 200/6 (Cipla)\n\n- Bufomix Easyhaler 200/6\n\n- Bufomix Easyhaler 400/12\n\n- Bugesic\n\n- Bupivacaine (Baxter)\n\n- Bupivacaine (Claris)\n\n- Bupivacaine (Pfizer)\n\n- Bupivacaine 0.25% with Adrenaline 1 in 400 000 (Phebra)\n\n- Bupivacaine 0.5% With Adrenaline 1 in 200 000 (Phebra)\n\n- Bupivacaine Hydrochloride (Pfizer (Perth))\n\n- Bupivacaine Spinal Heavy (Aborns)\n\n- Bupivacaine Spinal Heavy (BNM)\n\n- Bupivadren 0.25% with Adrenaline 1 in 400 000\n\n- Bupivadren 0.5% with Adrenaline 1 in 200 000\n\n- Bupredermal\n\n- Buprenorphine (AUP)\n\n- Buprenorphine (Juno)\n\n- Buprenorphine (Sandoz)\n\n- Buprespan\n\n- Burinex\n\n- Burn and Bite (Amcal)\n\n- Buscopan\n\n- Buscopan Forte\n\n- Busulfan (Accord)\n\n- Busulfan (Apotex)\n\n- Busulfan (ARX)\n\n- Busulfex\n\n- Buvidal Monthly\n\n- Buvidal Weekly\n\n- Bylvay\n\nPREV 1 2 3 4 5 6 NEXT\n\n## Active ingredients\n\n- Baclofen\n\n- Bai zhu extract +\n\n- Chinese liquorice extract +\n\n- Korean ginseng extract +\n\n- China root extract +\n\n- ginger extract +\n\n- jujube extract\n\n- ginger extract\n\n- Baloxavir\n\n- Balsalazide\n\n- Baricitinib\n\n- Barium\n\n- Basiliximab\n\n- Beclometasone\n\n- Beclometasone +\n\n- formoterol\n\n- formoterol +\n\n- glycopyrronium\n\n- Belantamab mafodotin\n\n- Belatacept\n\n- Belimumab\n\n- Belumosudil\n\n- Belzutifan\n\n- Bemotrizinol +\n\n- butyl methoxydibenzoylmethane +\n\n- octocrylene +\n\n- octyl methoxycinnamate +\n\n- diethylamino hydroxybenzoyl hexyl benzoate +\n\n- titanium dioxide\n\n- homosalate +\n\n- Bendamustine\n\n- Benralizumab\n\n- Benzalkonium chloride\n\n- Benzalkonium chloride +\n\n- ethanol\n\n- light liquid paraffin +\n\n- triclosan\n\n- Benzathine benzylpenicillin\n\n- Benzatropine\n\n- Benzocaine\n\n- Benzocaine +\n\n- clove bud oil +\n\n- resorcinol\n\n- Benzoic acid +\n\n- salicylic acid\n\n- Benzoin Sumatra +\n\n- camphor +\n\n- storax prepared +\n\n- wool fat +\n\n- zinc oxide\n\n- Benzoyl peroxide\n\n- Benzoyl peroxide +\n\n- bentonite\n\n- Benzydamine\n\n- Benzydamine +\n\n- cetylpyridinium\n\n- chlorhexidine\n\n- Benzyl alcohol +\n\n- Benzylpenicillin\n\n- Beractant\n\n- Besifloxacin\n\n- Betacarotene +\n\n- biotin +\n\n- thiamine +\n\n- riboflavin +\n\n- pantothenic acid +\n\n- pyridoxine +\n\n- cyanocobalamin +\n\n- ascorbic acid +\n\n- colecalciferol +\n\n- d-alpha-tocopheryl acid succinate +\n\n- nicotinamide +\n\n- calcium +\n\n- folic acid +\n\n- iron +\n\n- magnesium +\n\n- manganese +\n\n- zinc +\n\n- citrus bioflavonoids extract +\n\n- Rosa canina extract +\n\n- nettle extract +\n\n- Siberian ginseng extract\n\n- vitamin A +\n\n- dl-alpha-tocopherol +\n\n- phytomenadione +\n\n- iodine +\n\n- potassium +\n\n- copper +\n\n- chromium +\n\n- selenium +\n\n- lutein +\n\n- lycopene\n\n- Betahistine\n\n- Betaine\n\n- Betamethasone acetate +\n\n- betamethasone sodium phosphate\n\n- Betamethasone dipropionate\n\n- Betamethasone valerate\n\n- Betiatide\n\n- Bevacizumab\n\n- Bicalutamide\n\n- Bicarbonate +\n\n- citric acid +\n\n- tartaric acid\n\n- Bicisate dihydrochloride\n\n- Bictegravir +\n\n- emtricitabine +\n\n- tenofovir alafenamide\n\n- Bifidobacterium bifidum +\n\n- Lactobacillus acidophilus\n\n- Bifonazole\n\n- Bilastine\n\n- Bilberry extract +\n\n- grape seed extract\n\n- Bimatoprost\n\n- Bimatoprost +\n\n- timolol\n\n- Bimekizumab\n\n- Binimetinib\n\n- Biotin\n\n- Bisacodyl\n\n- Bisacodyl +\n\n- docusate\n\n- Bisoprolol\n\n- Bitter candy tuft +\n\n- Angelica archangelica +\n\n- chamomile extract +\n\n- caraway +\n\n- St Mary's thistle extract +\n\n- balm leaf extract +\n\n- peppermint +\n\n- celandine +\n\n- liquorice extract\n\n- Bivalirudin\n\n- Bleomycin\n\n- Blinatumomab\n\n- Boric acid +\n\n- phenol +\n\n- Bortezomib\n\n- Bosentan\n\n- Bosutinib\n\n- Botulinum toxin type A\n\n- Bovine colostrum\n\n- Box jellyfish antivenom\n\n- Brahmi extract\n\n- Brentuximab vedotin\n\n- Bretovameran\n\n- Brigatinib\n\n- Brimonidine\n\n- Brimonidine +\n\n- Brinzolamide\n\n- Brinzolamide +\n\n- Brivaracetam\n\n- Brolucizumab\n\n- Bromazepam\n\n- Bromhexine\n\n- Bromhexine +\n\n- guaifenesin\n\n- guaifenesin +\n\n- pseudoephedrine\n\n- phenylephrine\n\n- Bromocriptine\n\n- Brompheniramine +\n\n- phenylephrine +\n\n- dextromethorphan\n\n- Brown snake antivenom\n\n- Budesonide\n\n- Budesonide +\n\n- glycopyrronium +\n\n- Bulevirtide\n\n- Bumetanide\n\n- Bupivacaine\n\n- Bupivacaine +\n\n- adrenaline (epinephrine)\n\n- fentanyl\n\n- glucose\n\n- Buprenorphine\n\n- Buprenorphine +\n\n- naloxone\n\n- Bupropion\n\n- Burosumab\n\n- Busulfan\n\n- ethylhexyl triazone +\n\n- octocrilene +\n\n- bemotrizinol\n\nPREV 1 2 3 4 5 6 7 8 9 10 11 12 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- B Complex (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,76000011000036107/b-complex-cenovis\n\n- B-Dose (Biological Therapies): https://www.healthdirect.gov.au/medicines/brand/amt,920960011000036102/b-dose-biological-therapies\n\n- B-Dose Forte (Biological Therapies): https://www.healthdirect.gov.au/medicines/brand/amt,704521000168100/b-dose-forte-biological-therapies\n\n- B-Dose IV: https://www.healthdirect.gov.au/medicines/brand/amt,679441000168106/b-dose-iv\n\n- B-Patch: https://www.healthdirect.gov.au/medicines/brand/amt,1582901000168105/b-patch\n\n- B12 Rapi-Melt (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1340011000168101/b12-rapi-melt-blackmores\n\n- Baclofen (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1025431000168108/baclofen-apo\n\n- Baclofen (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,2976011000036103/baclofen-genrx\n\n- Baclofen (Sintetica): https://www.healthdirect.gov.au/medicines/brand/amt,919811000168104/baclofen-sintetica\n\n- Bacthecal: https://www.healthdirect.gov.au/medicines/brand/amt,767341000168109/bacthecal\n\n- Bactol Alcohol: https://www.healthdirect.gov.au/medicines/brand/amt,19571000168101/bactol-alcohol\n\n- Bactrim 400/80: https://www.healthdirect.gov.au/medicines/brand/amt,1637981000168100/bactrim-400-80\n\n- Bactrim DS: https://www.healthdirect.gov.au/medicines/brand/amt,26891000168101/bactrim-ds\n\n- Bactroban: https://www.healthdirect.gov.au/medicines/brand/amt,3296011000036102/bactroban\n\n- Banlice Mousse: https://www.healthdirect.gov.au/medicines/brand/amt,65159011000036102/banlice-mousse\n\n- Bansep: https://www.healthdirect.gov.au/medicines/brand/amt,840941000168103/bansep\n\n- Barentec: https://www.healthdirect.gov.au/medicines/brand/amt,882931000168102/barentec\n\n- Basaglar: https://www.healthdirect.gov.au/medicines/brand/amt,823981000168102/basaglar\n\n- Basaglar Kwikpen: https://www.healthdirect.gov.au/medicines/brand/amt,824111000168109/basaglar-kwikpen\n\n- Bavencio: https://www.healthdirect.gov.au/medicines/brand/amt,1097531000168109/bavencio\n\n- Beclometasone/Formoterol 100/6 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933650841000036101/beclometasone-formoterol-100-6-cipla\n\n- Beclometasone/Formoterol 200/6 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933650831000036106/beclometasone-formoterol-200-6-cipla\n\n- Beconase Allergy and Hayfever 12 Hour: https://www.healthdirect.gov.au/medicines/brand/amt,73775011000036103/beconase-allergy-and-hayfever-12-hour\n\n- Beconase Allergy and Hayfever 24 Hour: https://www.healthdirect.gov.au/medicines/brand/amt,73700011000036102/beconase-allergy-and-hayfever-24-hour\n\n- Bee Venom (Albey): https://www.healthdirect.gov.au/medicines/brand/amt,61321000168106/bee-venom-albey\n\n- Belkyra: https://www.healthdirect.gov.au/medicines/brand/amt,884901000168103/belkyra\n\n- Bella: https://www.healthdirect.gov.au/medicines/brand/amt,1682861000168107/bella\n\n- Belsomra: https://www.healthdirect.gov.au/medicines/brand/amt,901051000168106/belsomra\n\n- Bemfola: https://www.healthdirect.gov.au/medicines/brand/amt,741041000168106/bemfola\n\n- Bemrist Breezhaler 125/127.5: https://www.healthdirect.gov.au/medicines/brand/amt,792255951000036100/bemrist-breezhaler-125-127.5\n\n- Bemrist Breezhaler 125/260: https://www.healthdirect.gov.au/medicines/brand/amt,891085011000036106/bemrist-breezhaler-125-260\n\n- Bemrist Breezhaler 125/62.5: https://www.healthdirect.gov.au/medicines/brand/amt,451494131000036100/bemrist-breezhaler-125-62.5\n\n- Benadryl Cough Medicine for Dry Coughs: https://www.healthdirect.gov.au/medicines/brand/amt,26351000168102/benadryl-cough-medicine-for-dry-coughs\n\n- Benadryl Mucus Relief plus Decongestant: https://www.healthdirect.gov.au/medicines/brand/amt,24211000168100/benadryl-mucus-relief-plus-decongestant\n\n- Benadryl Original: https://www.healthdirect.gov.au/medicines/brand/amt,732691000168100/benadryl-original\n\n- Benadryl PE Chesty Cough and Nasal Congestion: https://www.healthdirect.gov.au/medicines/brand/amt,679291000168102/benadryl-pe-chesty-cough-and-nasal-congestion\n\n- Benadryl PE Dry Cough and Nasal Congestion: https://www.healthdirect.gov.au/medicines/brand/amt,679181000168107/benadryl-pe-dry-cough-and-nasal-congestion\n\n- Benadryl PE for the Family Chesty Cough and Nasal Congestion: https://www.healthdirect.gov.au/medicines/brand/amt,44451000168100/benadryl-pe-for-the-family-chesty-cough-and-nasal-congestion\n\n- Benadryl PE for the Family Dry Cough and Nasal Congestion: https://www.healthdirect.gov.au/medicines/brand/amt,20711000168104/benadryl-pe-for-the-family-dry-cough-and-nasal-congestion\n\n- Bendamustine (EUG): https://www.healthdirect.gov.au/medicines/brand/amt,933705461000036108/bendamustine-eug\n\n- Bendamustine (Eugia): https://www.healthdirect.gov.au/medicines/brand/amt,988459961000036106/bendamustine-eugia\n\n- Bendamustine (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1679801000168107/bendamustine-juno\n\n- Bendamustine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1673071000168105/bendamustine-sandoz\n\n- Bendamustine (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1673141000168104/bendamustine-viatris\n\n- Bendamustine Hydrochloride (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933585951000036103/bendamustine-hydrochloride-medsurge\n\n- Benedo: https://www.healthdirect.gov.au/medicines/brand/amt,933650721000036101/benedo\n\n- Benefix: https://www.healthdirect.gov.au/medicines/brand/amt,2121000168104/benefix\n\n- Benlysta: https://www.healthdirect.gov.au/medicines/brand/amt,137291000036102/benlysta\n\n- Benpen: https://www.healthdirect.gov.au/medicines/brand/amt,3539011000036105/benpen\n\n- Benzac AC: https://www.healthdirect.gov.au/medicines/brand/amt,17681000168105/benzac-ac\n\n- Benzac AC Wash: https://www.healthdirect.gov.au/medicines/brand/amt,6011000168108/benzac-ac-wash\n\n- Benzatropine (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,1082591000168106/benzatropine-phebra\n\n- Benztrop: https://www.healthdirect.gov.au/medicines/brand/amt,2920011000036102/benztrop\n\n- Beovu: https://www.healthdirect.gov.au/medicines/brand/amt,1495061000168106/beovu\n\n- Bepanthen: https://www.healthdirect.gov.au/medicines/brand/amt,739331000168101/bepanthen\n\n- Bepanthen Antiseptic: https://www.healthdirect.gov.au/medicines/brand/amt,25631000168108/bepanthen-antiseptic\n\n- Bepanthen First Aid Antiseptic: https://www.healthdirect.gov.au/medicines/brand/amt,42871000168100/bepanthen-first-aid-antiseptic\n\n- Beprol: https://www.healthdirect.gov.au/medicines/brand/amt,15251000036104/beprol\n\n- Bergoline: https://www.healthdirect.gov.au/medicines/brand/amt,78599011000036106/bergoline\n\n- Berinert IV: https://www.healthdirect.gov.au/medicines/brand/amt,85263011000036109/berinert-iv\n\n- Berinert SC: https://www.healthdirect.gov.au/medicines/brand/amt,1487291000168100/berinert-sc\n\n- Beriplex AU: https://www.healthdirect.gov.au/medicines/brand/amt,324448221000036100/beriplex-au\n\n- Beriplex P/N 1000 IU: https://www.healthdirect.gov.au/medicines/brand/amt,895701000168104/beriplex-p-n-1000-iu\n\n- Beriplex P/N 250 IU: https://www.healthdirect.gov.au/medicines/brand/amt,892281000168105/beriplex-p-n-250-iu\n\n- Beriplex P/N 500 IU: https://www.healthdirect.gov.au/medicines/brand/amt,892351000168108/beriplex-p-n-500-iu\n\n- Berocca: https://www.healthdirect.gov.au/medicines/brand/amt,581284811000036109/berocca\n\n- Berocca Energy: https://www.healthdirect.gov.au/medicines/brand/amt,398288061000036103/berocca-energy\n\n- Besidep: https://www.healthdirect.gov.au/medicines/brand/amt,1270691000168106/besidep\n\n- Besivance: https://www.healthdirect.gov.au/medicines/brand/amt,875981000168102/besivance\n\n- Besponsa: https://www.healthdirect.gov.au/medicines/brand/amt,1234531000168103/besponsa\n\n- Betadine Alcoholic Skin Preparation: https://www.healthdirect.gov.au/medicines/brand/amt,2991000168104/betadine-alcoholic-skin-preparation\n\n- Betadine Antiseptic: https://www.healthdirect.gov.au/medicines/brand/amt,30211000168106/betadine-antiseptic\n\n- Betadine Antiseptic First Aid: https://www.healthdirect.gov.au/medicines/brand/amt,62341000168105/betadine-antiseptic-first-aid\n\n- Betadine Antiseptic Liquid: https://www.healthdirect.gov.au/medicines/brand/amt,10801000168102/betadine-antiseptic-liquid\n\n- Betadine Cold Sore: https://www.healthdirect.gov.au/medicines/brand/amt,52141000168102/betadine-cold-sore\n\n- Betadine Cold Sore Paint Pain Relief Formula: https://www.healthdirect.gov.au/medicines/brand/amt,61551000168105/betadine-cold-sore-paint-pain-relief-formula\n\n- Betadine Sore Throat Gargle - Concentrated: https://www.healthdirect.gov.au/medicines/brand/amt,6181000168101/betadine-sore-throat-gargle-concentrated\n\n- Betadine Sore Throat Gargle - Ready to Use: https://www.healthdirect.gov.au/medicines/brand/amt,58821000168101/betadine-sore-throat-gargle-ready-to-use\n\n- Betadine Sore Throat Lozenges: https://www.healthdirect.gov.au/medicines/brand/amt,1023571000168106/betadine-sore-throat-lozenges\n\n- Betadine Surgical Scrub: https://www.healthdirect.gov.au/medicines/brand/amt,33221000168107/betadine-surgical-scrub\n\n- Betaferon: https://www.healthdirect.gov.au/medicines/brand/amt,52491000168103/betaferon\n\n- Betahistine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,698671000168104/betahistine-apo\n\n- Betahistine (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933599381000036105/betahistine-arx\n\n- Betahistine (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1663081000168103/betahistine-lupin\n\n- Betahistine (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1088011000168107/betahistine-mylan\n\n- Betahistine (RMB): https://www.healthdirect.gov.au/medicines/brand/amt,933537371000036109/betahistine-rmb\n\n- Betahistine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1197211000168109/betahistine-sandoz\n\n- Betahistine (SCP): https://www.healthdirect.gov.au/medicines/brand/amt,882241000168101/betahistine-scp\n\n- Betahistine (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1670521000168107/betahistine-viatris\n\n- Betahistine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933599391000036107/betahistine-wgr\n\n- Betaloc: https://www.healthdirect.gov.au/medicines/brand/amt,3906011000036103/betaloc\n\n- Betmiga: https://www.healthdirect.gov.au/medicines/brand/amt,681211000168101/betmiga\n\n- Betnovate: https://www.healthdirect.gov.au/medicines/brand/amt,34021000168102/betnovate\n\n- Betnovate Scalp Application: https://www.healthdirect.gov.au/medicines/brand/amt,876551000168109/betnovate-scalp-application\n\n- Betnovate-1/2: https://www.healthdirect.gov.au/medicines/brand/amt,36901000168100/betnovate-1-2\n\n- Betnovate-1/5: https://www.healthdirect.gov.au/medicines/brand/amt,63141000168104/betnovate-1-5\n\n- Bexsero: https://www.healthdirect.gov.au/medicines/brand/amt,698391000168105/bexsero\n\n- Beyfortus: https://www.healthdirect.gov.au/medicines/brand/amt,1729721000168102/beyfortus\n\n- Bicalaccord: https://www.healthdirect.gov.au/medicines/brand/amt,48421000036108/bicalaccord\n\n- Bicalutamide (Ameda): https://www.healthdirect.gov.au/medicines/brand/amt,883681000168102/bicalutamide-ameda\n\n- Bicalutamide (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,60521000168107/bicalutamide-apo\n\n- Bicalutamide (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,903131000168103/bicalutamide-astron\n\n- Bicalutamide (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,881841000168107/bicalutamide-intas\n\n- Bicalutamide (SCP): https://www.healthdirect.gov.au/medicines/brand/amt,874141000168109/bicalutamide-scp\n\n- Bicard: https://www.healthdirect.gov.au/medicines/brand/amt,927569011000036109/bicard\n\n- Bicillin L-A: https://www.healthdirect.gov.au/medicines/brand/amt,4089011000036101/bicillin-l-a\n\n- Bicnu: https://www.healthdirect.gov.au/medicines/brand/amt,47991000168108/bicnu\n\n- Bicor: https://www.healthdirect.gov.au/medicines/brand/amt,3639011000036101/bicor\n\n- Bijuva 1/100: https://www.healthdirect.gov.au/medicines/brand/amt,1672411000168102/bijuva-1-100\n\n- Biktarvy: https://www.healthdirect.gov.au/medicines/brand/amt,1236071000168103/biktarvy\n\n- Bilberry Eye Support Advanced (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,377366441000036105/bilberry-eye-support-advanced-blackmores\n\n- Biliscopin: https://www.healthdirect.gov.au/medicines/brand/amt,75939011000036104/biliscopin\n\n- Bilura: https://www.healthdirect.gov.au/medicines/brand/amt,1491161000168107/bilura\n\n- Bimatigan: https://www.healthdirect.gov.au/medicines/brand/amt,1243171000168108/bimatigan\n\n- Bimatolugan: https://www.healthdirect.gov.au/medicines/brand/amt,1246231000168106/bimatolugan\n\n- Bimatoprost (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,904501000168102/bimatoprost-apotex\n\n- Bimatoprost (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,1246151000168107/bimatoprost-genrx\n\n- Bimatoprost (Neohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1246191000168102/bimatoprost-neohealth\n\n- Bimatoprost (NHPL): https://www.healthdirect.gov.au/medicines/brand/amt,1247291000168107/bimatoprost-nhpl\n\n- Bimatoprost (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1006741000168109/bimatoprost-sandoz\n\n- Bimatoprost (Vizo-PF): https://www.healthdirect.gov.au/medicines/brand/amt,1463321000168101/bimatoprost-vizo-pf\n\n- Bimatoprost (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1770821000168102/bimatoprost-wgr\n\n- Bimatotim 0.3/5: https://www.healthdirect.gov.au/medicines/brand/amt,1620111000168108/bimatotim-0.3-5\n\n- Bimprozt: https://www.healthdirect.gov.au/medicines/brand/amt,1540471000168103/bimprozt\n\n- Bimzelx: https://www.healthdirect.gov.au/medicines/brand/amt,1675411000168105/bimzelx\n\n- Bindozef: https://www.healthdirect.gov.au/medicines/brand/amt,888961000168107/bindozef\n\n- Bio Magnesium (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1410881000168103/bio-magnesium-blackmores\n\n- Bio Zinc (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,13091000168107/bio-zinc-blackmores\n\n- Biocol Medicated Throat: https://www.healthdirect.gov.au/medicines/brand/amt,1025311000168107/biocol-medicated-throat\n\n- Biodone Forte: https://www.healthdirect.gov.au/medicines/brand/amt,26611000168109/biodone-forte\n\n- BioGaia Protectis Baby Probiotic Drops: https://www.healthdirect.gov.au/medicines/brand/amt,933585651000036105/biogaia-protectis-baby-probiotic-drops\n\n- BioGaia Protectis Baby Probiotic Drops with Vitamin D: https://www.healthdirect.gov.au/medicines/brand/amt,933586101000036107/biogaia-protectis-baby-probiotic-drops-with-vitamin-d\n\n- Biostate 1000 IU FVIII/2000 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,60121000168100/biostate-1000-iu-fviii-2000-iu-vwf\n\n- Biostate 1000 IU FVIII/2400 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,1196511000168108/biostate-1000-iu-fviii-2400-iu-vwf\n\n- Biostate 250 IU FVIII/500 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,52671000168101/biostate-250-iu-fviii-500-iu-vwf\n\n- Biostate 250 IU FVIII/600 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,1196461000168105/biostate-250-iu-fviii-600-iu-vwf\n\n- Biostate 500 IU FVIII/1000 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,62851000168103/biostate-500-iu-fviii-1000-iu-vwf\n\n- Biostate 500 IU FVIII/1200 IU VWF: https://www.healthdirect.gov.au/medicines/brand/amt,1197951000168101/biostate-500-iu-fviii-1200-iu-vwf\n\n- Biotin (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1754201000168103/biotin-nature's-own\n\n- Biotin (Thompson's): https://www.healthdirect.gov.au/medicines/brand/amt,1344361000168105/biotin-thompson's\n\n- Bisacodyl (Petrus): https://www.healthdirect.gov.au/medicines/brand/amt,4362011000036105/bisacodyl-petrus\n\n- Bisacodyl Laxative (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1422371000168101/bisacodyl-laxative-apohealth\n\n- Bisacodyl Laxative (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1439371000168106/bisacodyl-laxative-chemists'-own\n\n- Bisalax: https://www.healthdirect.gov.au/medicines/brand/amt,1091000168108/bisalax\n\n- Bisalax Micro: https://www.healthdirect.gov.au/medicines/brand/amt,20581000168104/bisalax-micro\n\n- Bisolvon Chesty: https://www.healthdirect.gov.au/medicines/brand/amt,3091000168109/bisolvon-chesty\n\n- Bisolvon Chesty Forte: https://www.healthdirect.gov.au/medicines/brand/amt,13191000168108/bisolvon-chesty-forte\n\n- Bisolvon Dry: https://www.healthdirect.gov.au/medicines/brand/amt,53355011000036100/bisolvon-dry\n\n- Bisoprolol (AN): https://www.healthdirect.gov.au/medicines/brand/amt,661791000168104/bisoprolol-an\n\n- Bisoprolol (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,961091000168100/bisoprolol-apo\n\n- Bisoprolol (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,737561000168108/bisoprolol-auro\n\n- Bisoprolol (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1558851000168109/bisoprolol-dr.-reddy's\n\n- Bisoprolol (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,708841000168102/bisoprolol-generic-health\n\n- Bisoprolol (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,933586211000036100/bisoprolol-genrx\n\n- Bisoprolol (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1413051000168106/bisoprolol-noumed\n\n- Bisoprolol (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,78616011000036109/bisoprolol-sandoz\n\n- Bisoprolol (Terry White Chemists): https://www.healthdirect.gov.au/medicines/brand/amt,1181000036104/bisoprolol-terry-white-chemists\n\n- Bisoprolol (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1774541000168101/bisoprolol-wgr\n\n- Bispro: https://www.healthdirect.gov.au/medicines/brand/amt,78590011000036100/bispro\n\n- Bivalirudin (AC): https://www.healthdirect.gov.au/medicines/brand/amt,885481000168101/bivalirudin-ac\n\n- Bivalirudin (ANS): https://www.healthdirect.gov.au/medicines/brand/amt,1724791000168101/bivalirudin-ans\n\n- Bivalirudin (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,851181000168100/bivalirudin-apotex\n\n- Bivalirudin (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1666431000168103/bivalirudin-arx\n\n- Bivalirudin (HMH): https://www.healthdirect.gov.au/medicines/brand/amt,1724831000168107/bivalirudin-hmh\n\n- Bivalirudin (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,885571000168100/bivalirudin-juno\n\n- Bivalirudin (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,933537091000036106/bivalirudin-medicianz\n\n- Bivalirudin (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933537081000036109/bivalirudin-medsurge\n\n- Bivalirudin (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1716501000168102/bivalirudin-sxp\n\n- Black Snake Antivenom (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,73780011000036101/black-snake-antivenom-csl\n\n- Black Snake Antivenom (Seqirus): https://www.healthdirect.gov.au/medicines/brand/amt,1571601000168104/black-snake-antivenom-seqirus\n\n- Blenrep: https://www.healthdirect.gov.au/medicines/brand/amt,933624781000036108/blenrep\n\n- Bleo 15K: https://www.healthdirect.gov.au/medicines/brand/amt,24191000168101/bleo-15k\n\n- Bleomycin (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,933651561000036107/bleomycin-accord\n\n- Bleomycin (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,933651551000036109/bleomycin-intas\n\n- Bleomycin 15K (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,765691000168104/bleomycin-15k-cipla\n\n- Bleomycin Sulfate (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,3159011000036101/bleomycin-sulfate-dbl\n\n- Blincyto: https://www.healthdirect.gov.au/medicines/brand/amt,764861000168108/blincyto\n\n- Blistex Antiviral Cold Sore: https://www.healthdirect.gov.au/medicines/brand/amt,65167011000036100/blistex-antiviral-cold-sore\n\n- Bondronat: https://www.healthdirect.gov.au/medicines/brand/amt,32976011000036100/bondronat\n\n- Bonezol: https://www.healthdirect.gov.au/medicines/brand/amt,903341000168105/bonezol\n\n- Bonjela Mouth Ulcer: https://www.healthdirect.gov.au/medicines/brand/amt,40631000168103/bonjela-mouth-ulcer\n\n- Bonjela Mouth Ulcer and Teething: https://www.healthdirect.gov.au/medicines/brand/amt,933703431000036103/bonjela-mouth-ulcer-and-teething\n\n- Bonjela Teething: https://www.healthdirect.gov.au/medicines/brand/amt,44691000168108/bonjela-teething\n\n- Bonjela Teething and Mouth Ulcer: https://www.healthdirect.gov.au/medicines/brand/amt,933703371000036108/bonjela-teething-and-mouth-ulcer\n\n- Bonspri: https://www.healthdirect.gov.au/medicines/brand/amt,823893421000036105/bonspri\n\n- Boostrix: https://www.healthdirect.gov.au/medicines/brand/amt,73699011000036103/boostrix\n\n- Boostrix-IPV: https://www.healthdirect.gov.au/medicines/brand/amt,73764011000036108/boostrix-ipv\n\n- Bortezom: https://www.healthdirect.gov.au/medicines/brand/amt,1590421000168105/bortezom\n\n- Bortezomib (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1590571000168105/bortezomib-accord\n\n- Bortezomib (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1562411000168102/bortezomib-aft\n\n- Bortezomib (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,879321000168100/bortezomib-apotex\n\n- Bortezomib (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1634251000168109/bortezomib-baxter\n\n- Bortezomib (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,1529561000168104/bortezomib-dbl\n\n- Bortezomib (EPSL): https://www.healthdirect.gov.au/medicines/brand/amt,1732741000168103/bortezomib-epsl\n\n- Bortezomib (EUG): https://www.healthdirect.gov.au/medicines/brand/amt,1732821000168103/bortezomib-eug\n\n- Bortezomib (Eugia): https://www.healthdirect.gov.au/medicines/brand/amt,1732361000168100/bortezomib-eugia\n\n- Bortezomib (Ever Pharma): https://www.healthdirect.gov.au/medicines/brand/amt,1571721000168101/bortezomib-ever-pharma\n\n- Bortezomib (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,713584111000036100/bortezomib-genrx\n\n- Bortezomib (GPPL): https://www.healthdirect.gov.au/medicines/brand/amt,933563991000036106/bortezomib-gppl\n\n- Bortezomib (GxP): https://www.healthdirect.gov.au/medicines/brand/amt,472956251000036103/bortezomib-gxp\n\n- Bortezomib (Hetero): https://www.healthdirect.gov.au/medicines/brand/amt,933564011000036103/bortezomib-hetero\n\n- Bortezomib (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,933753261000036103/bortezomib-intas\n\n- Bortezomib (JN): https://www.healthdirect.gov.au/medicines/brand/amt,982284981000036104/bortezomib-jn\n\n- Bortezomib (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1545871000168107/bortezomib-juno\n\n- Bortezomib (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933600681000036100/bortezomib-medsurge\n\n- Bortezomib (MSN): https://www.healthdirect.gov.au/medicines/brand/amt,933753281000036108/bortezomib-msn\n\n- Bortezotero: https://www.healthdirect.gov.au/medicines/brand/amt,933564001000036100/bortezotero\n\n- Bortraczo: https://www.healthdirect.gov.au/medicines/brand/amt,933599491000036102/bortraczo\n\n- Bosentan (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,884041000168102/bosentan-accord\n\n- Bosentan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,971541000168107/bosentan-apo\n\n- Bosentan (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,888691000168108/bosentan-astron\n\n- Bosentan (Dr. Reddy's): https://www.healthdirect.gov.au/medicines/brand/amt,1198821000168102/bosentan-dr.-reddy's\n\n- Bosentan (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,762351000168108/bosentan-genrx\n\n- Bosentan (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,888061000168106/bosentan-intas\n\n- Bosentan (Ran): https://www.healthdirect.gov.au/medicines/brand/amt,878811000168109/bosentan-ran\n\n- Bosentan (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,882001000168108/bosentan-rbx\n\n- Bosentan (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,884391000168108/bosentan-sun\n\n- Bosentan (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1657441000168103/bosentan-viatris\n\n- Bosleer: https://www.healthdirect.gov.au/medicines/brand/amt,889171000168106/bosleer\n\n- Bosulif: https://www.healthdirect.gov.au/medicines/brand/amt,875001000168109/bosulif\n\n- Botox: https://www.healthdirect.gov.au/medicines/brand/amt,3742011000036100/botox\n\n- Box Jellyfish Antivenom (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,73737011000036105/box-jellyfish-antivenom-csl\n\n- Box Jellyfish Antivenom (Seqirus): https://www.healthdirect.gov.au/medicines/brand/amt,1571471000168106/box-jellyfish-antivenom-seqirus\n\n- Braftovi: https://www.healthdirect.gov.au/medicines/brand/amt,1253051000168101/braftovi\n\n- Braltus: https://www.healthdirect.gov.au/medicines/brand/amt,1242411000168104/braltus\n\n- Brenda-35 ED: https://www.healthdirect.gov.au/medicines/brand/amt,745691000168105/brenda-35-ed\n\n- Brenzys: https://www.healthdirect.gov.au/medicines/brand/amt,880471000168106/brenzys\n\n- Brenzys Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,899251000168108/brenzys-auto-injector\n\n- Breo Ellipta 100/25: https://www.healthdirect.gov.au/medicines/brand/amt,677531000168109/breo-ellipta-100-25\n\n- Breo Ellipta 200/25: https://www.healthdirect.gov.au/medicines/brand/amt,677421000168107/breo-ellipta-200-25\n\n- Bretaris Genuair: https://www.healthdirect.gov.au/medicines/brand/amt,652831000168106/bretaris-genuair\n\n- Brevibloc: https://www.healthdirect.gov.au/medicines/brand/amt,39685011000036107/brevibloc\n\n- Brevinor 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700011841000036105/brevinor-28-day\n\n- Brevinor-1 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700011851000036108/brevinor-1-28-day\n\n- Breztri Aerosphere 160/7.2/5: https://www.healthdirect.gov.au/medicines/brand/amt,1577531000168102/breztri-aerosphere-160-7.2-5\n\n- Bricalor: https://www.healthdirect.gov.au/medicines/brand/amt,1793521000168101/bricalor\n\n- Bricanyl: https://www.healthdirect.gov.au/medicines/brand/amt,48681000168104/bricanyl\n\n- Bricanyl Turbuhaler: https://www.healthdirect.gov.au/medicines/brand/amt,7051000168106/bricanyl-turbuhaler\n\n- Brilinta: https://www.healthdirect.gov.au/medicines/brand/amt,32101000036105/brilinta\n\n- Brilinta ODT: https://www.healthdirect.gov.au/medicines/brand/amt,1318371000168103/brilinta-odt\n\n- Brimadex: https://www.healthdirect.gov.au/medicines/brand/amt,1737671000168103/brimadex\n\n- Brimica Genuair 340/12: https://www.healthdirect.gov.au/medicines/brand/amt,728201000168108/brimica-genuair-340-12\n\n- Brineura: https://www.healthdirect.gov.au/medicines/brand/amt,1372661000168106/brineura\n\n- Brintellix: https://www.healthdirect.gov.au/medicines/brand/amt,712621000168109/brintellix\n\n- Brinzoquin: https://www.healthdirect.gov.au/medicines/brand/amt,3988011000036103/brinzoquin\n\n- Briumvi: https://www.healthdirect.gov.au/medicines/brand/amt,933506791000036104/briumvi\n\n- Briviact: https://www.healthdirect.gov.au/medicines/brand/amt,876391000168107/briviact\n\n- Bronchitis Cough Medicine (Nyal): https://www.healthdirect.gov.au/medicines/brand/amt,65069011000036102/bronchitis-cough-medicine-nyal\n\n- Bronchitol: https://www.healthdirect.gov.au/medicines/brand/amt,32151000036106/bronchitol\n\n- Brooke: https://www.healthdirect.gov.au/medicines/brand/amt,1671121000168109/brooke\n\n- Brooklynn: https://www.healthdirect.gov.au/medicines/brand/amt,1671401000168105/brooklynn\n\n- Brown Snake Antivenom (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,73713011000036107/brown-snake-antivenom-csl\n\n- Brown Snake Antivenom (Seqirus): https://www.healthdirect.gov.au/medicines/brand/amt,1572361000168102/brown-snake-antivenom-seqirus\n\n- Brufen: https://www.healthdirect.gov.au/medicines/brand/amt,3434011000036100/brufen\n\n- Brufen Pain: https://www.healthdirect.gov.au/medicines/brand/amt,1681261000168103/brufen-pain\n\n- Brufen Plus: https://www.healthdirect.gov.au/medicines/brand/amt,1255801000168105/brufen-plus\n\n- Brukinsa: https://www.healthdirect.gov.au/medicines/brand/amt,1597031000168104/brukinsa\n\n- Budamax Aqueous: https://www.healthdirect.gov.au/medicines/brand/amt,44611000168104/budamax-aqueous\n\n- Budenofalk: https://www.healthdirect.gov.au/medicines/brand/amt,143301000036105/budenofalk\n\n- Budesonide plus Formoterol 200/6 (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933599311000036102/budesonide-plus-formoterol-200-6-cipla\n\n- Bufomix Easyhaler 200/6: https://www.healthdirect.gov.au/medicines/brand/amt,1675721000168107/bufomix-easyhaler-200-6\n\n- Bufomix Easyhaler 400/12: https://www.healthdirect.gov.au/medicines/brand/amt,1675681000168101/bufomix-easyhaler-400-12\n\n- Bugesic: https://www.healthdirect.gov.au/medicines/brand/amt,53403011000036104/bugesic\n\n- Bupivacaine (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1548461000168106/bupivacaine-baxter\n\n- Bupivacaine (Claris): https://www.healthdirect.gov.au/medicines/brand/amt,879561000168104/bupivacaine-claris\n\n- Bupivacaine (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1630611000168102/bupivacaine-pfizer\n\n- Bupivacaine 0.25% with Adrenaline 1 in 400 000 (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,1754121000168103/bupivacaine-0.25-with-adrenaline-1-in-400-000-phebra\n\n- Bupivacaine 0.5% With Adrenaline 1 in 200 000 (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,1659291000168104/bupivacaine-0.5-with-adrenaline-1-in-200-000-phebra\n\n- Bupivacaine Hydrochloride (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,35985011000036103/bupivacaine-hydrochloride-pfizer-perth\n\n- Bupivacaine Spinal Heavy (Aborns): https://www.healthdirect.gov.au/medicines/brand/amt,933703711000036103/bupivacaine-spinal-heavy-aborns\n\n- Bupivacaine Spinal Heavy (BNM): https://www.healthdirect.gov.au/medicines/brand/amt,1472431000168109/bupivacaine-spinal-heavy-bnm\n\n- Bupivadren 0.25% with Adrenaline 1 in 400 000: https://www.healthdirect.gov.au/medicines/brand/amt,1323781000168102/bupivadren-0.25-with-adrenaline-1-in-400-000\n\n- Bupivadren 0.5% with Adrenaline 1 in 200 000: https://www.healthdirect.gov.au/medicines/brand/amt,1324301000168107/bupivadren-0.5-with-adrenaline-1-in-200-000\n\n- Bupredermal: https://www.healthdirect.gov.au/medicines/brand/amt,1050191000168109/bupredermal\n\n- Buprenorphine (AUP): https://www.healthdirect.gov.au/medicines/brand/amt,1583681000168103/buprenorphine-aup\n\n- Buprenorphine (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1582431000168105/buprenorphine-juno\n\n- Buprenorphine (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1047141000168100/buprenorphine-sandoz\n\n- Buprespan: https://www.healthdirect.gov.au/medicines/brand/amt,1582141000168105/buprespan\n\n- Burinex: https://www.healthdirect.gov.au/medicines/brand/amt,39656011000036105/burinex\n\n- Burn and Bite (Amcal): https://www.healthdirect.gov.au/medicines/brand/amt,53582011000036104/burn-and-bite-amcal\n\n- Buscopan: https://www.healthdirect.gov.au/medicines/brand/amt,2401000168103/buscopan\n\n- Buscopan Forte: https://www.healthdirect.gov.au/medicines/brand/amt,22781000168109/buscopan-forte\n\n- Busulfan (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,1375981000168100/busulfan-accord\n\n- Busulfan (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,874281000168106/busulfan-apotex\n\n- Busulfan (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,657899811000036105/busulfan-arx\n\n- Busulfex: https://www.healthdirect.gov.au/medicines/brand/amt,39768011000036105/busulfex\n\n- Buvidal Monthly: https://www.healthdirect.gov.au/medicines/brand/amt,1236701000168106/buvidal-monthly\n\n- Buvidal Weekly: https://www.healthdirect.gov.au/medicines/brand/amt,1236941000168106/buvidal-weekly\n\n- Bylvay: https://www.healthdirect.gov.au/medicines/brand/amt,331576531000036103/bylvay\n\n- Baclofen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20280/baclofen\n\n- Bai zhu extract + Chinese liquorice extract + Korean ginseng extract + China root extract + ginger extract + jujube extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50150/bai-zhu-extract-+-chinese-liquorice-extract-+-korean-ginseng-extract-+-china-root-extract-+-ginger-extract-+-jujube-extract\n\n- Bai zhu extract + Chinese liquorice extract + Korean ginseng extract + ginger extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50151/bai-zhu-extract-+-chinese-liquorice-extract-+-korean-ginseng-extract-+-ginger-extract\n\n- Baloxavir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26753/baloxavir\n\n- Balsalazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20286/balsalazide\n\n- Baricitinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24241/baricitinib\n\n- Barium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22077/barium\n\n- Basiliximab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20287/basiliximab\n\n- Beclometasone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20292/beclometasone\n\n- Beclometasone + formoterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26808/beclometasone-+-formoterol\n\n- Beclometasone + formoterol + glycopyrronium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26745/beclometasone-+-formoterol-+-glycopyrronium\n\n- Belantamab mafodotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50735/belantamab-mafodotin\n\n- Belatacept: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23673/belatacept\n\n- Belimumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20311/belimumab\n\n- Belumosudil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50055/belumosudil\n\n- Belzutifan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27128/belzutifan\n\n- Bemotrizinol + butyl methoxydibenzoylmethane + octocrylene + octyl methoxycinnamate + diethylamino hydroxybenzoyl hexyl benzoate + titanium dioxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50154/bemotrizinol-+-butyl-methoxydibenzoylmethane-+-octocrylene-+-octyl-methoxycinnamate-+-diethylamino-hydroxybenzoyl-hexyl-benzoate-+-titanium-dioxide\n\n- Bemotrizinol + diethylamino hydroxybenzoyl hexyl benzoate + homosalate + octocrylene + titanium dioxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50155/bemotrizinol-+-diethylamino-hydroxybenzoyl-hexyl-benzoate-+-homosalate-+-octocrylene-+-titanium-dioxide\n\n- Bendamustine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20312/bendamustine\n\n- Benralizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24413/benralizumab\n\n- Benzalkonium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22082/benzalkonium-chloride\n\n- Benzalkonium chloride + ethanol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23176/benzalkonium-chloride-+-ethanol\n\n- Benzalkonium chloride + light liquid paraffin + triclosan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23475/benzalkonium-chloride-+-light-liquid-paraffin-+-triclosan\n\n- Benzathine benzylpenicillin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20313/benzathine-benzylpenicillin\n\n- Benzatropine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20321/benzatropine\n\n- Benzocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21505/benzocaine\n\n- Benzocaine + clove bud oil + ethanol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23476/benzocaine-+-clove-bud-oil-+-ethanol\n\n- Benzocaine + resorcinol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23182/benzocaine-+-resorcinol\n\n- Benzoic acid + salicylic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23183/benzoic-acid-+-salicylic-acid\n\n- Benzoin Sumatra + camphor + storax prepared + wool fat + zinc oxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50160/benzoin-sumatra-+-camphor-+-storax-prepared-+-wool-fat-+-zinc-oxide\n\n- Benzoyl peroxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20317/benzoyl-peroxide\n\n- Benzoyl peroxide + bentonite: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23175/benzoyl-peroxide-+-bentonite\n\n- Benzydamine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22089/benzydamine\n\n- Benzydamine + cetylpyridinium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23186/benzydamine-+-cetylpyridinium\n\n- Benzydamine + chlorhexidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23187/benzydamine-+-chlorhexidine\n\n- Benzyl alcohol + cetylpyridinium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23188/benzyl-alcohol-+-cetylpyridinium\n\n- Benzylpenicillin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23922/benzylpenicillin\n\n- Beractant: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20323/beractant\n\n- Besifloxacin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24025/besifloxacin\n\n- Betacarotene + biotin + thiamine + riboflavin + pantothenic acid + pyridoxine + cyanocobalamin + ascorbic acid + colecalciferol + d-alpha-tocopheryl acid succinate + nicotinamide + calcium + folic acid + iron + magnesium + manganese + zinc + citrus bioflavonoids extract + Rosa canina extract + nettle extract + Siberian ginseng extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50649/betacarotene-+-biotin-+-thiamine-+-riboflavin-+-pantothenic-acid-+-pyridoxine-+-cyanocobalamin-+-ascorbic-acid-+-colecalciferol-+-d-alpha-tocopheryl-acid-succinate-+-nicotinamide-+-calcium-+-folic-acid-+-iron-+-magnesium-+-manganese-+-zinc-+-citrus-bioflavonoids-extract-+-rosa-canina-extract-+-nettle-extract-+-siberian-ginseng-extract\n\n- Betacarotene + vitamin A + colecalciferol + dl-alpha-tocopherol + thiamine + riboflavin + nicotinamide + pantothenic acid + pyridoxine + folic acid + cyanocobalamin + ascorbic acid + biotin + phytomenadione + iron + calcium + magnesium + zinc + iodine + potassium + copper + chromium + manganese + selenium + lutein + lycopene: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50166/betacarotene-+-vitamin-a-+-colecalciferol-+-dl-alpha-tocopherol-+-thiamine-+-riboflavin-+-nicotinamide-+-pantothenic-acid-+-pyridoxine-+-folic-acid-+-cyanocobalamin-+-ascorbic-acid-+-biotin-+-phytomenadione-+-iron-+-calcium-+-magnesium-+-zinc-+-iodine-+-potassium-+-copper-+-chromium-+-manganese-+-selenium-+-lutein-+-lycopene\n\n- Betahistine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20555/betahistine\n\n- Betaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22095/betaine\n\n- Betamethasone acetate + betamethasone sodium phosphate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23190/betamethasone-acetate-+-betamethasone-sodium-phosphate\n\n- Betamethasone dipropionate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22098/betamethasone-dipropionate\n\n- Betamethasone valerate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22100/betamethasone-valerate\n\n- Betiatide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24864/betiatide\n\n- Bevacizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20330/bevacizumab\n\n- Bicalutamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20334/bicalutamide\n\n- Bicarbonate + citric acid + tartaric acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23482/bicarbonate-+-citric-acid-+-tartaric-acid\n\n- Bicisate dihydrochloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20336/bicisate-dihydrochloride\n\n- Bictegravir + emtricitabine + tenofovir alafenamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24443/bictegravir-+-emtricitabine-+-tenofovir-alafenamide\n\n- Bifidobacterium bifidum + Lactobacillus acidophilus: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26587/bifidobacterium-bifidum-+-lactobacillus-acidophilus\n\n- Bifonazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22105/bifonazole\n\n- Bilastine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27095/bilastine\n\n- Bilberry extract + grape seed extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50514/bilberry-extract-+-grape-seed-extract\n\n- Bimatoprost: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20337/bimatoprost\n\n- Bimatoprost + timolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23193/bimatoprost-+-timolol\n\n- Bimekizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27144/bimekizumab\n\n- Binimetinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24471/binimetinib\n\n- Biotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24894/biotin\n\n- Bisacodyl: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21375/bisacodyl\n\n- Bisacodyl + docusate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24272/bisacodyl-+-docusate\n\n- Bisoprolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20343/bisoprolol\n\n- Bitter candy tuft + Angelica archangelica + chamomile extract + caraway + St Mary's thistle extract + balm leaf extract + peppermint + celandine + liquorice extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50170/bitter-candy-tuft-+-angelica-archangelica-+-chamomile-extract-+-caraway-+-st-mary's-thistle-extract-+-balm-leaf-extract-+-peppermint-+-celandine-+-liquorice-extract\n\n- Bivalirudin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20348/bivalirudin\n\n- Bleomycin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22113/bleomycin\n\n- Blinatumomab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23790/blinatumomab\n\n- Boric acid + phenol + zinc oxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23484/boric-acid-+-phenol-+-zinc-oxide\n\n- Bortezomib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20362/bortezomib\n\n- Bosentan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20376/bosentan\n\n- Bosutinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24026/bosutinib\n\n- Botulinum toxin type A: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23147/botulinum-toxin-type-a\n\n- Bovine colostrum: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24282/bovine-colostrum\n\n- Box jellyfish antivenom: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20352/box-jellyfish-antivenom\n\n- Brahmi extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24882/brahmi-extract\n\n- Brentuximab vedotin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20382/brentuximab-vedotin\n\n- Bretovameran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50487/bretovameran\n\n- Brigatinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24913/brigatinib\n\n- Brimonidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20387/brimonidine\n\n- Brimonidine + timolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23198/brimonidine-+-timolol\n\n- Brinzolamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20389/brinzolamide\n\n- Brinzolamide + brimonidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23603/brinzolamide-+-brimonidine\n\n- Brinzolamide + timolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23199/brinzolamide-+-timolol\n\n- Brivaracetam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24024/brivaracetam\n\n- Brolucizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26759/brolucizumab\n\n- Bromazepam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20390/bromazepam\n\n- Bromhexine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20568/bromhexine\n\n- Bromhexine + guaifenesin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23201/bromhexine-+-guaifenesin\n\n- Bromhexine + guaifenesin + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23485/bromhexine-+-guaifenesin-+-pseudoephedrine\n\n- Bromhexine + phenylephrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23824/bromhexine-+-phenylephrine\n\n- Bromhexine + pseudoephedrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23203/bromhexine-+-pseudoephedrine\n\n- Bromocriptine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20391/bromocriptine\n\n- Brompheniramine + phenylephrine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23204/brompheniramine-+-phenylephrine\n\n- Brompheniramine + phenylephrine + dextromethorphan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23486/brompheniramine-+-phenylephrine-+-dextromethorphan\n\n- Brown snake antivenom: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20356/brown-snake-antivenom\n\n- Budesonide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20394/budesonide\n\n- Budesonide + formoterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23205/budesonide-+-formoterol\n\n- Budesonide + glycopyrronium + formoterol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27029/budesonide-+-glycopyrronium-+-formoterol\n\n- Bulevirtide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50173/bulevirtide\n\n- Bumetanide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20395/bumetanide\n\n- Bupivacaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21124/bupivacaine\n\n- Bupivacaine + adrenaline (epinephrine): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23207/bupivacaine-+-adrenaline-epinephrine\n\n- Bupivacaine + fentanyl: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23208/bupivacaine-+-fentanyl\n\n- Bupivacaine + glucose: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23209/bupivacaine-+-glucose\n\n- Buprenorphine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20397/buprenorphine\n\n- Buprenorphine + naloxone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23210/buprenorphine-+-naloxone\n\n- Bupropion: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20398/bupropion\n\n- Burosumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27034/burosumab\n\n- Busulfan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20401/busulfan\n\n- Butyl methoxydibenzoylmethane + ethylhexyl triazone + octocrilene + bemotrizinol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50502/butyl-methoxydibenzoylmethane-+-ethylhexyl-triazone-+-octocrilene-+-bemotrizinol\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

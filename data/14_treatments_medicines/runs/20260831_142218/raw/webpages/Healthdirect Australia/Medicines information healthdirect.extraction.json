@@ -1,0 +1,727 @@
+{
+  "source_id": "healthdirect:medicines",
+  "title": "Medicines information | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 38341,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/A-excludeNonArtg"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/C-excludeNonArtg"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/D-excludeNonArtg"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/J-excludeNonArtg"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/M-excludeNonArtg"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/P-excludeNonArtg"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Q-excludeNonArtg"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/R-excludeNonArtg"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/S-excludeNonArtg"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/T-excludeNonArtg"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/W-excludeNonArtg"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Y-excludeNonArtg"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg"
+    },
+    {
+      "text": "Accidental overdose of medicine Accidental overdose of medicine can be very dangerous, but it is preventable. Learn how to avoid overdosing, and what medicines need special care. Read more about Accidental overdose of medicine.",
+      "url": "https://www.healthdirect.gov.au/accidental-overdose-of-medicines"
+    },
+    {
+      "text": "ADHD medicines There are different types of medicine that you can use to help you manage ADHD. Read more about the types, benefits and side effects. Read more about ADHD medicines.",
+      "url": "https://www.healthdirect.gov.au/adhd-medicine"
+    },
+    {
+      "text": "Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) You might take an ACE inhibitor or ARBs for hypertension or heart failure. They work by relaxing your blood vessels. Read more about Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs).",
+      "url": "https://www.healthdirect.gov.au/angiotensin-converting-enzyme-inhibitors-ace-and-angiotensin-receptor-blockers-arbs"
+    },
+    {
+      "text": "Antibiotics Antibiotics are used to treat infections caused by bacteria. Learn more about how antibiotics work, how to take them and antibiotic resistance. Read more about Antibiotics.",
+      "url": "https://www.healthdirect.gov.au/antibiotics"
+    },
+    {
+      "text": "Antidepressants Antidepressants are medicines that treat depression and other mental health conditions. Read about the types, side effects and how to take them safely... Read more about Antidepressants.",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "Antihistamines Antihistamine medicines help reduce allergy symptoms. You can learn more about how they can treat or prevent conditions like hay fever and asthma. Read more about Antihistamines.",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "Anti-inflammatory medicines (NSAIDs) Anti-inflammatory medicines (NSAIDs) are used to relieve pain and fever or reduce inflammation (redness and swelling). Find out about NSAIDs here. Read more about Anti-inflammatory medicines (NSAIDs).",
+      "url": "https://www.healthdirect.gov.au/anti-inflammatory-medicines"
+    },
+    {
+      "text": "Antipsychotic medicines Antipsychotic medicines can help ease the symptoms of psychosis. Read about why you may need an antipsychotic medicine and possible side effects. Read more about Antipsychotic medicines.",
+      "url": "https://www.healthdirect.gov.au/antipsychotic-medicines"
+    },
+    {
+      "text": "Antiretroviral treatment for HIV Antiretroviral medicines stop HIV from multiplying and protects your immune system from damage. Learn more about antiretroviral medicines here. Read more about Antiretroviral treatment for HIV.",
+      "url": "https://www.healthdirect.gov.au/antiretroviral-treatment-for-hiv"
+    },
+    {
+      "text": "Antivirals for flu (influenza) and COVID-19 Antivirals for the flu and COVID-19 can help prevent and treat severe infections. Learn more about them and if you are eligible to receive them. Read more about Antivirals for flu (influenza) and COVID-19.",
+      "url": "https://www.healthdirect.gov.au/antivirals-for-influenza-and-covid-19"
+    },
+    {
+      "text": "Asthma medicines Asthma medicines include relievers and preventers. Most asthma medicines come as inhalers or ‘puffers’. Find out about combination inhalers. Read more about Asthma medicines.",
+      "url": "https://www.healthdirect.gov.au/medicines-for-asthma"
+    },
+    {
+      "text": "Blood pressure medicines Blood pressure medicines ('antihypertensives'), such as ACE inhibitors, calcium channel blockers and diuretics help manage high blood pressure. Read more about Blood pressure medicines.",
+      "url": "https://www.healthdirect.gov.au/blood-pressure-medicines"
+    },
+    {
+      "text": "Buying medicines online There can be advantages to buying medicines online, but there are some risks too. Find out more about buying medicines online safely. Read more about Buying medicines online.",
+      "url": "https://www.healthdirect.gov.au/buying-medicines-online"
+    },
+    {
+      "text": "Chemotherapy Chemotherapy is medicine that aims to stop or slow down the growth of cancer cells. Find out how 'chemo' treatment works and its side effects. Read more about Chemotherapy.",
+      "url": "https://www.healthdirect.gov.au/chemotherapy"
+    },
+    {
+      "text": "Cold, flu and COVID-19 medicines Different medicines can help relieve your cold, flu or COVID-19 symptoms. Learn how to safety take them and when to visit your doctor. Read more about Cold, flu and COVID-19 medicines.",
+      "url": "https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19"
+    },
+    {
+      "text": "Cold, flu and COVID-19 medicines for children Some medicines can help relieve your child’s cold, flu or COVID-19 symptoms. Learn what’s safe to give to your child. Read more about Cold, flu and COVID-19 medicines for children.",
+      "url": "https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19-for-children"
+    },
+    {
+      "text": "Diabetes medication Read about diabetes medicines including insulin and other medicines to control your blood sugar levels, how to take them and their side effects. Read more about Diabetes medication.",
+      "url": "https://www.healthdirect.gov.au/diabetes-medicines"
+    },
+    {
+      "text": "Disease modifying antirheumatic drugs (DMARDs) for arthritis DMARDs are medicines used to types of arthritis caused by inflammation. Learn how these medicines work and about their side effects. Read more about Disease modifying antirheumatic drugs (DMARDs) for arthritis.",
+      "url": "https://www.healthdirect.gov.au/disease-modifying-antirheumatic-drugs-for-arthritis-dmards"
+    },
+    {
+      "text": "Diuretic medicines Find out what diuretic medicines ('fluid tablets') are used for, how they work, the most common diuretics, and how to manage side effects. Read more about Diuretic medicines.",
+      "url": "https://www.healthdirect.gov.au/diuretic-medicines"
+    },
+    {
+      "text": "eScript (electronic prescription) An eScript is a digital version of a prescription that your doctor can use to prescribe medicine. Your doctor will send it to you by SMS or email. Read more about eScript (electronic prescription).",
+      "url": "https://www.healthdirect.gov.au/escript-electronic-prescription"
+    },
+    {
+      "text": "General anaesthetic A general anaesthetic makes you unconscious so you do not feel pain, move or be aware during surgery. Risks include nausea, sore throat and tiredness. Read more about General anaesthetic.",
+      "url": "https://www.healthdirect.gov.au/general-anaesthetic"
+    },
+    {
+      "text": "Home medicines review It’s important to manage your medicines correctly. A free home medicines review (HMR) by a pharmacist can help make sure that your medicines are safe. Read more about Home medicines review.",
+      "url": "https://www.healthdirect.gov.au/home-medicines-review"
+    },
+    {
+      "text": "Menopausal hormone therapy (MHT) Menopausal hormone therapy (MHT) used to be called HRT. It is used to treat the symptoms of menopause, such as hot flushes. MHT comes in a few forms. Read more about Menopausal hormone therapy (MHT).",
+      "url": "https://www.healthdirect.gov.au/menopausal-hormone-therapy"
+    },
+    {
+      "text": "Ibuprofen Ibuprofen treats fever and pain caused by inflammation. Learn more about how it works, how to take it and its possible side effects. Read more about Ibuprofen.",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "Immunisation side effects Immunisation side effects are unwanted effects that may happen after you get a vaccine. Learn how to treat mild adverse events after a vaccine. Read more about Immunisation side effects.",
+      "url": "https://www.healthdirect.gov.au/immunisation-side-effects"
+    },
+    {
+      "text": "Lithium Lithium is a mood-stabilising medicine used to treat some mental illnesses, such as bipolar disorder. Learn about the risks and benefits of this mood-... Read more about Lithium.",
+      "url": "https://www.healthdirect.gov.au/lithium"
+    },
+    {
+      "text": "Local anaesthetic A local anaesthetic temporarily numbs a part of your body. Here's what you should know about 'having a local' and questions to ask your doctor. Read more about Local anaesthetic.",
+      "url": "https://www.healthdirect.gov.au/local-anaesthetic"
+    },
+    {
+      "text": "Medicine recalls Medicines may be recalled for a range of reasons. Learn who regulates medicine recalls, what to do if a medicine is recalled and where to return it. Read more about Medicine recalls.",
+      "url": "https://www.healthdirect.gov.au/medicine-recalls"
+    },
+    {
+      "text": "Medicines and alcohol You need to be careful if you drink alcohol when taking some medicines. This includes over-the-counter medicines and herbal remedies. Learn more here. Read more about Medicines and alcohol.",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "Medicines and breastfeeding While most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here. Read more about Medicines and breastfeeding.",
+      "url": "https://www.healthdirect.gov.au/medicines-and-breastfeeding"
+    },
+    {
+      "text": "Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more about Medicines during pregnancy.",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Medicines and driving Some medicines can affect the skills you need to drive safely. Read here to learn how to stay safe and lower your risks while driving. Read more about Medicines and driving.",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more about Medicines for babies and children.",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Medicines safety for older people Older people are at increased risk of medicine-related problems. Learn how to take your medicines safely and what to ask your doctor. Read more about Medicines safety for older people.",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Medicines to treat nicotine dependence Learn how over-the-counter and prescription medicines, along with professional quit smoking services, can help you quit smoking and vaping. Read more about Medicines to treat nicotine dependence.",
+      "url": "https://www.healthdirect.gov.au/medicines-to-treat-nicotine-dependence"
+    },
+    {
+      "text": "Opioid medicines Opioids are a group of medicines prescribed by doctors to treat pain. Learn about side effects, withdrawal symptoms and what to do in an overdose. Read more about Opioid medicines.",
+      "url": "https://www.healthdirect.gov.au/opioid-medicines"
+    },
+    {
+      "text": "Out-of-date medicines All medicines have an expiry date displayed on their packaging. Learn about why medicines expire, and how to dispose of old medicines safely. Read more about Out-of-date medicines.",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Over-the-counter medicines Over-the-counter (OTC) medicines are medicines you can buy without needing a prescription. OT medicines can cause side effects and drug interactions. Read more about Over-the-counter medicines.",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "Pain-relief medicines Pain-relief medicines include over-the-counter and prescription medicines. Learn about their side effects as well as when and when not to use them. Read more about Pain-relief medicines.",
+      "url": "https://www.healthdirect.gov.au/pain-relief-medicines"
+    },
+    {
+      "text": "Paracetamol You can take paracetamol for mild to moderate pain. Find out when to take paracetamol, its side effects and what to do if you take too much. Read more about Paracetamol.",
+      "url": "https://www.healthdirect.gov.au/paracetamol"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme (PBS) The Pharmaceutical Benefits Scheme (PBS) provides many prescription medicines for a reduced price. Learn how to get the most from the PBS. Read more about Pharmaceutical Benefits Scheme (PBS).",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs"
+    },
+    {
+      "text": "Questions to ask before taking a medicine It's important to learn about your medicines before you take them. Here are some questions you can ask your doctor or pharmacist about medicines. Read more about Questions to ask before taking a medicine.",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reading CMIs Consumer Medicine Information (CMI) leaflets provide information about the medicine you are taking. Learn where to get CMI pages and how to use them. Read more about Reading CMIs.",
+      "url": "https://www.healthdirect.gov.au/how-to-read-cmis"
+    },
+    {
+      "text": "Reporting a problem with a medicine You should tell your doctor or health professional about any problems with your medicine. It’s also helpful to report the problem to the TGA. Read more about Reporting a problem with a medicine.",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Scheduling of medicines and poisons The scheduling of medicines is a national classification system that controls how medicines and poisons are made available to the public. Read more about Scheduling of medicines and poisons.",
+      "url": "https://www.healthdirect.gov.au/scheduling-of-medicines-and-poisons"
+    },
+    {
+      "text": "Side effects of medicines Side effects are any unwanted effects of a medicine. Learn more about different types of adverse reactions and what to do if you have them. Read more about Side effects of medicines.",
+      "url": "https://www.healthdirect.gov.au/medicine-and-side-effects"
+    },
+    {
+      "text": "Statins Statins are medicines used to lower cholesterol and are recommended for people at risk of cardiovascular disease. Here's how statins work. Read more about Statins.",
+      "url": "https://www.healthdirect.gov.au/statins"
+    },
+    {
+      "text": "Stimulant drugs Stimulants are a class of drugs that make you feel more alert or energetic. They include drugs such as caffeine, some medicines, ice and cocaine. Read more about Stimulant drugs.",
+      "url": "https://www.healthdirect.gov.au/stimulant-drugs"
+    },
+    {
+      "text": "Sunscreen Learn how sunscreen protects your skin from sun damage, when and how to use it effectively reapplying every 2 hours and when to seek medical advice. Read more about Sunscreen.",
+      "url": "https://www.healthdirect.gov.au/sunscreen"
+    },
+    {
+      "text": "What are generic medicines? Generic medicines have the same active ingredient as brand-name medicines. Find out about generic medicines, active ingredients and how they work. Read more about What are generic medicines?.",
+      "url": "https://www.healthdirect.gov.au/what-are-generic-medicines"
+    },
+    {
+      "text": "Glossary medical terms This glossary explains common medical terms in plain English, to help you better understand health information. Read more about Glossary medical terms.",
+      "url": "https://www.healthdirect.gov.au/glossary-of-common-medical-terms"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines information | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\n# Print\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nbeginning of content\n\n# Medicines information\n\nSearch by brand name or active ingredient\n\n- No active ingredients found\n\n- No brands found\n\n- No brands or active ingredients found\n\n- Active ingredients\n\n- Brand names\n\nSearch medicines\n\nA B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n#### Accidental overdose of medicine\n\nAccidental overdose of medicine can be very dangerous, but it is preventable. Learn how to avoid overdosing, and what medicines need special care.\n\nRead more about Accidental overdose of medicine.\n\n#### ADHD medicines\n\nThere are different types of medicine that you can use to help you manage ADHD. Read more about the types, benefits and side effects.\n\nRead more about ADHD medicines.\n\n#### Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs)\n\nYou might take an ACE inhibitor or ARBs for hypertension or heart failure. They work by relaxing your blood vessels.\n\nRead more about Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs).\n\n#### Antibiotics\n\nAntibiotics are used to treat infections caused by bacteria. Learn more about how antibiotics work, how to take them and antibiotic resistance.\n\nRead more about Antibiotics.\n\n#### Antidepressants\n\nAntidepressants are medicines that treat depression and other mental health conditions. Read about the types, side effects and how to take them safely...\n\nRead more about Antidepressants.\n\n#### Antihistamines\n\nAntihistamine medicines help reduce allergy symptoms. You can learn more about how they can treat or prevent conditions like hay fever and asthma.\n\nRead more about Antihistamines.\n\n#### Anti-inflammatory medicines (NSAIDs)\n\nAnti-inflammatory medicines (NSAIDs) are used to relieve pain and fever or reduce inflammation (redness and swelling). Find out about NSAIDs here.\n\nRead more about Anti-inflammatory medicines (NSAIDs).\n\n#### Antipsychotic medicines\n\nAntipsychotic medicines can help ease the symptoms of psychosis. Read about why you may need an antipsychotic medicine and possible side effects.\n\nRead more about Antipsychotic medicines.\n\n#### Antiretroviral treatment for HIV\n\nAntiretroviral medicines stop HIV from multiplying and protects your immune system from damage. Learn more about antiretroviral medicines here.\n\nRead more about Antiretroviral treatment for HIV.\n\n#### Antivirals for flu (influenza) and COVID-19\n\nAntivirals for the flu and COVID-19 can help prevent and treat severe infections. Learn more about them and if you are eligible to receive them.\n\nRead more about Antivirals for flu (influenza) and COVID-19.\n\n#### Asthma medicines\n\nAsthma medicines include relievers and preventers. Most asthma medicines come as inhalers or ‘puffers’. Find out about combination inhalers.\n\nRead more about Asthma medicines.\n\n#### Blood pressure medicines\n\nBlood pressure medicines ('antihypertensives'), such as ACE inhibitors, calcium channel blockers and diuretics help manage high blood pressure.\n\nRead more about Blood pressure medicines.\n\n#### Buying medicines online\n\nThere can be advantages to buying medicines online, but there are some risks too. Find out more about buying medicines online safely.\n\nRead more about Buying medicines online.\n\n#### Chemotherapy\n\nChemotherapy is medicine that aims to stop or slow down the growth of cancer cells. Find out how 'chemo' treatment works and its side effects.\n\nRead more about Chemotherapy.\n\n#### Cold, flu and COVID-19 medicines\n\nDifferent medicines can help relieve your cold, flu or COVID-19 symptoms. Learn how to safety take them and when to visit your doctor.\n\nRead more about Cold, flu and COVID-19 medicines.\n\n#### Cold, flu and COVID-19 medicines for children\n\nSome medicines can help relieve your child’s cold, flu or COVID-19 symptoms. Learn what’s safe to give to your child.\n\nRead more about Cold, flu and COVID-19 medicines for children.\n\n#### Diabetes medication\n\nRead about diabetes medicines including insulin and other medicines to control your blood sugar levels, how to take them and their side effects.\n\nRead more about Diabetes medication.\n\n#### Disease modifying antirheumatic drugs (DMARDs) for arthritis\n\nDMARDs are medicines used to types of arthritis caused by inflammation. Learn how these medicines work and about their side effects.\n\nRead more about Disease modifying antirheumatic drugs (DMARDs) for arthritis.\n\n#### Diuretic medicines\n\nFind out what diuretic medicines ('fluid tablets') are used for, how they work, the most common diuretics, and how to manage side effects.\n\nRead more about Diuretic medicines.\n\n#### eScript (electronic prescription)\n\nAn eScript is a digital version of a prescription that your doctor can use to prescribe medicine. Your doctor will send it to you by SMS or email.\n\nRead more about eScript (electronic prescription).\n\n#### General anaesthetic\n\nA general anaesthetic makes you unconscious so you do not feel pain, move or be aware during surgery. Risks include nausea, sore throat and tiredness.\n\nRead more about General anaesthetic.\n\n#### Home medicines review\n\nIt’s important to manage your medicines correctly. A free home medicines review (HMR) by a pharmacist can help make sure that your medicines are safe.\n\nRead more about Home medicines review.\n\n#### Menopausal hormone therapy (MHT)\n\nMenopausal hormone therapy (MHT) used to be called HRT. It is used to treat the symptoms of menopause, such as hot flushes. MHT comes in a few forms.\n\nRead more about Menopausal hormone therapy (MHT).\n\n#### Ibuprofen\n\nIbuprofen treats fever and pain caused by inflammation. Learn more about how it works, how to take it and its possible side effects.\n\nRead more about Ibuprofen.\n\n#### Immunisation side effects\n\nImmunisation side effects are unwanted effects that may happen after you get a vaccine. Learn how to treat mild adverse events after a vaccine.\n\nRead more about Immunisation side effects.\n\n#### Lithium\n\nLithium is a mood-stabilising medicine used to treat some mental illnesses, such as bipolar disorder. Learn about the risks and benefits of this mood-...\n\nRead more about Lithium.\n\n#### Local anaesthetic\n\nA local anaesthetic temporarily numbs a part of your body. Here's what you should know about 'having a local' and questions to ask your doctor.\n\nRead more about Local anaesthetic.\n\n#### Medicine recalls\n\nMedicines may be recalled for a range of reasons. Learn who regulates medicine recalls, what to do if a medicine is recalled and where to return it.\n\nRead more about Medicine recalls.\n\n#### Medicines and alcohol\n\nYou need to be careful if you drink alcohol when taking some medicines. This includes over-the-counter medicines and herbal remedies. Learn more here.\n\nRead more about Medicines and alcohol.\n\n#### Medicines and breastfeeding\n\nWhile most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here.\n\nRead more about Medicines and breastfeeding.\n\n#### Medicines during pregnancy\n\nLearn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins.\n\nRead more about Medicines during pregnancy.\n\n#### Medicines and driving\n\nSome medicines can affect the skills you need to drive safely. Read here to learn how to stay safe and lower your risks while driving.\n\nRead more about Medicines and driving.\n\n#### Medicines for babies and children\n\nGet practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects.\n\nRead more about Medicines for babies and children.\n\n#### Medicines safety for older people\n\nOlder people are at increased risk of medicine-related problems. Learn how to take your medicines safely and what to ask your doctor.\n\nRead more about Medicines safety for older people.\n\n#### Medicines to treat nicotine dependence\n\nLearn how over-the-counter and prescription medicines, along with professional quit smoking services, can help you quit smoking and vaping.\n\nRead more about Medicines to treat nicotine dependence.\n\n#### Opioid medicines\n\nOpioids are a group of medicines prescribed by doctors to treat pain. Learn about side effects, withdrawal symptoms and what to do in an overdose.\n\nRead more about Opioid medicines.\n\n#### Out-of-date medicines\n\nAll medicines have an expiry date displayed on their packaging. Learn about why medicines expire, and how to dispose of old medicines safely.\n\nRead more about Out-of-date medicines.\n\n#### Over-the-counter medicines\n\nOver-the-counter (OTC) medicines are medicines you can buy without needing a prescription. OT medicines can cause side effects and drug interactions.\n\nRead more about Over-the-counter medicines.\n\n#### Pain-relief medicines\n\nPain-relief medicines include over-the-counter and prescription medicines. Learn about their side effects as well as when and when not to use them.\n\nRead more about Pain-relief medicines.\n\n#### Paracetamol\n\nYou can take paracetamol for mild to moderate pain. Find out when to take paracetamol, its side effects and what to do if you take too much.\n\nRead more about Paracetamol.\n\n#### Pharmaceutical Benefits Scheme (PBS)\n\nThe Pharmaceutical Benefits Scheme (PBS) provides many prescription medicines for a reduced price. Learn how to get the most from the PBS.\n\nRead more about Pharmaceutical Benefits Scheme (PBS).\n\n#### Questions to ask before taking a medicine\n\nIt's important to learn about your medicines before you take them. Here are some questions you can ask your doctor or pharmacist about medicines.\n\nRead more about Questions to ask before taking a medicine.\n\n#### Reading CMIs\n\nConsumer Medicine Information (CMI) leaflets provide information about the medicine you are taking. Learn where to get CMI pages and how to use them.\n\nRead more about Reading CMIs.\n\n#### Reporting a problem with a medicine\n\nYou should tell your doctor or health professional about any problems with your medicine. It’s also helpful to report the problem to the TGA.\n\nRead more about Reporting a problem with a medicine.\n\n#### Scheduling of medicines and poisons\n\nThe scheduling of medicines is a national classification system that controls how medicines and poisons are made available to the public.\n\nRead more about Scheduling of medicines and poisons.\n\n#### Side effects of medicines\n\nSide effects are any unwanted effects of a medicine. Learn more about different types of adverse reactions and what to do if you have them.\n\nRead more about Side effects of medicines.\n\n#### Statins\n\nStatins are medicines used to lower cholesterol and are recommended for people at risk of cardiovascular disease. Here's how statins work.\n\nRead more about Statins.\n\n#### Stimulant drugs\n\nStimulants are a class of drugs that make you feel more alert or energetic. They include drugs such as caffeine, some medicines, ice and cocaine.\n\nRead more about Stimulant drugs.\n\n#### Sunscreen\n\nLearn how sunscreen protects your skin from sun damage, when and how to use it effectively reapplying every 2 hours and when to seek medical advice.\n\nRead more about Sunscreen.\n\n#### What are generic medicines?\n\nGeneric medicines have the same active ingredient as brand-name medicines. Find out about generic medicines, active ingredients and how they work.\n\nRead more about What are generic medicines?.\n\n#### Glossary medical terms\n\nThis glossary explains common medical terms in plain English, to help you better understand health information.\n\nRead more about Glossary medical terms.\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- A: https://www.healthdirect.gov.au/medicines/search-results/A-excludeNonArtg\n\n- B: https://www.healthdirect.gov.au/medicines/search-results/B-excludeNonArtg\n\n- C: https://www.healthdirect.gov.au/medicines/search-results/C-excludeNonArtg\n\n- D: https://www.healthdirect.gov.au/medicines/search-results/D-excludeNonArtg\n\n- E: https://www.healthdirect.gov.au/medicines/search-results/E-excludeNonArtg\n\n- F: https://www.healthdirect.gov.au/medicines/search-results/F-excludeNonArtg\n\n- G: https://www.healthdirect.gov.au/medicines/search-results/G-excludeNonArtg\n\n- H: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg\n\n- I: https://www.healthdirect.gov.au/medicines/search-results/I-excludeNonArtg\n\n- J: https://www.healthdirect.gov.au/medicines/search-results/J-excludeNonArtg\n\n- K: https://www.healthdirect.gov.au/medicines/search-results/K-excludeNonArtg\n\n- L: https://www.healthdirect.gov.au/medicines/search-results/L-excludeNonArtg\n\n- M: https://www.healthdirect.gov.au/medicines/search-results/M-excludeNonArtg\n\n- N: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg\n\n- O: https://www.healthdirect.gov.au/medicines/search-results/O-excludeNonArtg\n\n- P: https://www.healthdirect.gov.au/medicines/search-results/P-excludeNonArtg\n\n- Q: https://www.healthdirect.gov.au/medicines/search-results/Q-excludeNonArtg\n\n- R: https://www.healthdirect.gov.au/medicines/search-results/R-excludeNonArtg\n\n- S: https://www.healthdirect.gov.au/medicines/search-results/S-excludeNonArtg\n\n- T: https://www.healthdirect.gov.au/medicines/search-results/T-excludeNonArtg\n\n- U: https://www.healthdirect.gov.au/medicines/search-results/U-excludeNonArtg\n\n- V: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg\n\n- W: https://www.healthdirect.gov.au/medicines/search-results/W-excludeNonArtg\n\n- X: https://www.healthdirect.gov.au/medicines/search-results/X-excludeNonArtg\n\n- Y: https://www.healthdirect.gov.au/medicines/search-results/Y-excludeNonArtg\n\n- Z: https://www.healthdirect.gov.au/medicines/search-results/Z-excludeNonArtg\n\n- Accidental overdose of medicine Accidental overdose of medicine can be very dangerous, but it is preventable. Learn how to avoid overdosing, and what medicines need special care. Read more about Accidental overdose of medicine.: https://www.healthdirect.gov.au/accidental-overdose-of-medicines\n\n- ADHD medicines There are different types of medicine that you can use to help you manage ADHD. Read more about the types, benefits and side effects. Read more about ADHD medicines.: https://www.healthdirect.gov.au/adhd-medicine\n\n- Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs) You might take an ACE inhibitor or ARBs for hypertension or heart failure. They work by relaxing your blood vessels. Read more about Angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor blockers (ARBs).: https://www.healthdirect.gov.au/angiotensin-converting-enzyme-inhibitors-ace-and-angiotensin-receptor-blockers-arbs\n\n- Antibiotics Antibiotics are used to treat infections caused by bacteria. Learn more about how antibiotics work, how to take them and antibiotic resistance. Read more about Antibiotics.: https://www.healthdirect.gov.au/antibiotics\n\n- Antidepressants Antidepressants are medicines that treat depression and other mental health conditions. Read about the types, side effects and how to take them safely... Read more about Antidepressants.: https://www.healthdirect.gov.au/antidepressants\n\n- Antihistamines Antihistamine medicines help reduce allergy symptoms. You can learn more about how they can treat or prevent conditions like hay fever and asthma. Read more about Antihistamines.: https://www.healthdirect.gov.au/antihistamines\n\n- Anti-inflammatory medicines (NSAIDs) Anti-inflammatory medicines (NSAIDs) are used to relieve pain and fever or reduce inflammation (redness and swelling). Find out about NSAIDs here. Read more about Anti-inflammatory medicines (NSAIDs).: https://www.healthdirect.gov.au/anti-inflammatory-medicines\n\n- Antipsychotic medicines Antipsychotic medicines can help ease the symptoms of psychosis. Read about why you may need an antipsychotic medicine and possible side effects. Read more about Antipsychotic medicines.: https://www.healthdirect.gov.au/antipsychotic-medicines\n\n- Antiretroviral treatment for HIV Antiretroviral medicines stop HIV from multiplying and protects your immune system from damage. Learn more about antiretroviral medicines here. Read more about Antiretroviral treatment for HIV.: https://www.healthdirect.gov.au/antiretroviral-treatment-for-hiv\n\n- Antivirals for flu (influenza) and COVID-19 Antivirals for the flu and COVID-19 can help prevent and treat severe infections. Learn more about them and if you are eligible to receive them. Read more about Antivirals for flu (influenza) and COVID-19.: https://www.healthdirect.gov.au/antivirals-for-influenza-and-covid-19\n\n- Asthma medicines Asthma medicines include relievers and preventers. Most asthma medicines come as inhalers or ‘puffers’. Find out about combination inhalers. Read more about Asthma medicines.: https://www.healthdirect.gov.au/medicines-for-asthma\n\n- Blood pressure medicines Blood pressure medicines ('antihypertensives'), such as ACE inhibitors, calcium channel blockers and diuretics help manage high blood pressure. Read more about Blood pressure medicines.: https://www.healthdirect.gov.au/blood-pressure-medicines\n\n- Buying medicines online There can be advantages to buying medicines online, but there are some risks too. Find out more about buying medicines online safely. Read more about Buying medicines online.: https://www.healthdirect.gov.au/buying-medicines-online\n\n- Chemotherapy Chemotherapy is medicine that aims to stop or slow down the growth of cancer cells. Find out how 'chemo' treatment works and its side effects. Read more about Chemotherapy.: https://www.healthdirect.gov.au/chemotherapy\n\n- Cold, flu and COVID-19 medicines Different medicines can help relieve your cold, flu or COVID-19 symptoms. Learn how to safety take them and when to visit your doctor. Read more about Cold, flu and COVID-19 medicines.: https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19\n\n- Cold, flu and COVID-19 medicines for children Some medicines can help relieve your child’s cold, flu or COVID-19 symptoms. Learn what’s safe to give to your child. Read more about Cold, flu and COVID-19 medicines for children.: https://www.healthdirect.gov.au/medicines-for-colds-flu-and-covid-19-for-children\n\n- Diabetes medication Read about diabetes medicines including insulin and other medicines to control your blood sugar levels, how to take them and their side effects. Read more about Diabetes medication.: https://www.healthdirect.gov.au/diabetes-medicines\n\n- Disease modifying antirheumatic drugs (DMARDs) for arthritis DMARDs are medicines used to types of arthritis caused by inflammation. Learn how these medicines work and about their side effects. Read more about Disease modifying antirheumatic drugs (DMARDs) for arthritis.: https://www.healthdirect.gov.au/disease-modifying-antirheumatic-drugs-for-arthritis-dmards\n\n- Diuretic medicines Find out what diuretic medicines ('fluid tablets') are used for, how they work, the most common diuretics, and how to manage side effects. Read more about Diuretic medicines.: https://www.healthdirect.gov.au/diuretic-medicines\n\n- eScript (electronic prescription) An eScript is a digital version of a prescription that your doctor can use to prescribe medicine. Your doctor will send it to you by SMS or email. Read more about eScript (electronic prescription).: https://www.healthdirect.gov.au/escript-electronic-prescription\n\n- General anaesthetic A general anaesthetic makes you unconscious so you do not feel pain, move or be aware during surgery. Risks include nausea, sore throat and tiredness. Read more about General anaesthetic.: https://www.healthdirect.gov.au/general-anaesthetic\n\n- Home medicines review It’s important to manage your medicines correctly. A free home medicines review (HMR) by a pharmacist can help make sure that your medicines are safe. Read more about Home medicines review.: https://www.healthdirect.gov.au/home-medicines-review\n\n- Menopausal hormone therapy (MHT) Menopausal hormone therapy (MHT) used to be called HRT. It is used to treat the symptoms of menopause, such as hot flushes. MHT comes in a few forms. Read more about Menopausal hormone therapy (MHT).: https://www.healthdirect.gov.au/menopausal-hormone-therapy\n\n- Ibuprofen Ibuprofen treats fever and pain caused by inflammation. Learn more about how it works, how to take it and its possible side effects. Read more about Ibuprofen.: https://www.healthdirect.gov.au/ibuprofen\n\n- Immunisation side effects Immunisation side effects are unwanted effects that may happen after you get a vaccine. Learn how to treat mild adverse events after a vaccine. Read more about Immunisation side effects.: https://www.healthdirect.gov.au/immunisation-side-effects\n\n- Lithium Lithium is a mood-stabilising medicine used to treat some mental illnesses, such as bipolar disorder. Learn about the risks and benefits of this mood-... Read more about Lithium.: https://www.healthdirect.gov.au/lithium\n\n- Local anaesthetic A local anaesthetic temporarily numbs a part of your body. Here's what you should know about 'having a local' and questions to ask your doctor. Read more about Local anaesthetic.: https://www.healthdirect.gov.au/local-anaesthetic\n\n- Medicine recalls Medicines may be recalled for a range of reasons. Learn who regulates medicine recalls, what to do if a medicine is recalled and where to return it. Read more about Medicine recalls.: https://www.healthdirect.gov.au/medicine-recalls\n\n- Medicines and alcohol You need to be careful if you drink alcohol when taking some medicines. This includes over-the-counter medicines and herbal remedies. Learn more here. Read more about Medicines and alcohol.: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- Medicines and breastfeeding While most medicines are safe to take while breastfeeding, some can affect your baby. Learn out more about medicines and breastfeeding here. Read more about Medicines and breastfeeding.: https://www.healthdirect.gov.au/medicines-and-breastfeeding\n\n- Medicines during pregnancy Learn more about which medicines are safe to take during pregnancy, including over-the-counter medicine, herbal supplements and vitamins. Read more about Medicines during pregnancy.: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Medicines and driving Some medicines can affect the skills you need to drive safely. Read here to learn how to stay safe and lower your risks while driving. Read more about Medicines and driving.: https://www.healthdirect.gov.au/medicines-and-driving\n\n- Medicines for babies and children Get practical tips on giving your baby or child medicine, measuring doses correctly and what to do if your child have side effects. Read more about Medicines for babies and children.: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Medicines safety for older people Older people are at increased risk of medicine-related problems. Learn how to take your medicines safely and what to ask your doctor. Read more about Medicines safety for older people.: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Medicines to treat nicotine dependence Learn how over-the-counter and prescription medicines, along with professional quit smoking services, can help you quit smoking and vaping. Read more about Medicines to treat nicotine dependence.: https://www.healthdirect.gov.au/medicines-to-treat-nicotine-dependence\n\n- Opioid medicines Opioids are a group of medicines prescribed by doctors to treat pain. Learn about side effects, withdrawal symptoms and what to do in an overdose. Read more about Opioid medicines.: https://www.healthdirect.gov.au/opioid-medicines\n\n- Out-of-date medicines All medicines have an expiry date displayed on their packaging. Learn about why medicines expire, and how to dispose of old medicines safely. Read more about Out-of-date medicines.: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Over-the-counter medicines Over-the-counter (OTC) medicines are medicines you can buy without needing a prescription. OT medicines can cause side effects and drug interactions. Read more about Over-the-counter medicines.: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- Pain-relief medicines Pain-relief medicines include over-the-counter and prescription medicines. Learn about their side effects as well as when and when not to use them. Read more about Pain-relief medicines.: https://www.healthdirect.gov.au/pain-relief-medicines\n\n- Paracetamol You can take paracetamol for mild to moderate pain. Find out when to take paracetamol, its side effects and what to do if you take too much. Read more about Paracetamol.: https://www.healthdirect.gov.au/paracetamol\n\n- Pharmaceutical Benefits Scheme (PBS) The Pharmaceutical Benefits Scheme (PBS) provides many prescription medicines for a reduced price. Learn how to get the most from the PBS. Read more about Pharmaceutical Benefits Scheme (PBS).: https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs\n\n- Questions to ask before taking a medicine It's important to learn about your medicines before you take them. Here are some questions you can ask your doctor or pharmacist about medicines. Read more about Questions to ask before taking a medicine.: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reading CMIs Consumer Medicine Information (CMI) leaflets provide information about the medicine you are taking. Learn where to get CMI pages and how to use them. Read more about Reading CMIs.: https://www.healthdirect.gov.au/how-to-read-cmis\n\n- Reporting a problem with a medicine You should tell your doctor or health professional about any problems with your medicine. It’s also helpful to report the problem to the TGA. Read more about Reporting a problem with a medicine.: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Scheduling of medicines and poisons The scheduling of medicines is a national classification system that controls how medicines and poisons are made available to the public. Read more about Scheduling of medicines and poisons.: https://www.healthdirect.gov.au/scheduling-of-medicines-and-poisons\n\n- Side effects of medicines Side effects are any unwanted effects of a medicine. Learn more about different types of adverse reactions and what to do if you have them. Read more about Side effects of medicines.: https://www.healthdirect.gov.au/medicine-and-side-effects\n\n- Statins Statins are medicines used to lower cholesterol and are recommended for people at risk of cardiovascular disease. Here's how statins work. Read more about Statins.: https://www.healthdirect.gov.au/statins\n\n- Stimulant drugs Stimulants are a class of drugs that make you feel more alert or energetic. They include drugs such as caffeine, some medicines, ice and cocaine. Read more about Stimulant drugs.: https://www.healthdirect.gov.au/stimulant-drugs\n\n- Sunscreen Learn how sunscreen protects your skin from sun damage, when and how to use it effectively reapplying every 2 hours and when to seek medical advice. Read more about Sunscreen.: https://www.healthdirect.gov.au/sunscreen\n\n- What are generic medicines? Generic medicines have the same active ingredient as brand-name medicines. Find out about generic medicines, active ingredients and how they work. Read more about What are generic medicines?.: https://www.healthdirect.gov.au/what-are-generic-medicines\n\n- Glossary medical terms This glossary explains common medical terms in plain English, to help you better understand health information. Read more about Glossary medical terms.: https://www.healthdirect.gov.au/glossary-of-common-medical-terms\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

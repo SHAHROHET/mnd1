@@ -1,0 +1,1111 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-h-excludenonartg",
+  "title": "Medicines starting with \"H\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 36734,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "H-B-Vax II",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,27541000168105/h-b-vax-ii"
+    },
+    {
+      "text": "H-B-Vax II Paediatric",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38281000168102/h-b-vax-ii-paediatric"
+    },
+    {
+      "text": "Hadlima",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1158621000168107/hadlima"
+    },
+    {
+      "text": "Hadlima Pushtouch Auto-Injector",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1158661000168102/hadlima-pushtouch-auto-injector"
+    },
+    {
+      "text": "Haemorol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922913011000036100/haemorol"
+    },
+    {
+      "text": "Haemorrhoid Ointment (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1579761000168107/haemorrhoid-ointment-apohealth"
+    },
+    {
+      "text": "Hair A-Gain",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53423011000036106/hair-a-gain"
+    },
+    {
+      "text": "Hair Retreva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53314011000036108/hair-retreva"
+    },
+    {
+      "text": "Hair Revive Extra Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52991000168108/hair-revive-extra-strength"
+    },
+    {
+      "text": "Halaven",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,668891000168101/halaven"
+    },
+    {
+      "text": "Haldol Decanoate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3442011000036108/haldol-decanoate"
+    },
+    {
+      "text": "Half Strength Povidone-Iodine (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1139371000168105/half-strength-povidone-iodine-pfizer"
+    },
+    {
+      "text": "Haloperidol (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536891000036103/haloperidol-medicianz"
+    },
+    {
+      "text": "Haloperidol (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536881000036100/haloperidol-medsurge"
+    },
+    {
+      "text": "Harmonise",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53476011000036104/harmonise"
+    },
+    {
+      "text": "Haruropi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933753211000036100/haruropi"
+    },
+    {
+      "text": "Harvoni",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,717481000168108/harvoni"
+    },
+    {
+      "text": "Havrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73776011000036105/havrix"
+    },
+    {
+      "text": "Havrix Junior",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52621000168102/havrix-junior"
+    },
+    {
+      "text": "Hayfever Allergy Relief Cetirizine (Coles)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1094651000168109/hayfever-allergy-relief-cetirizine-coles"
+    },
+    {
+      "text": "Hayfever and Allergy Relief Children's 2 to 12 Years (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1739281000168109/hayfever-and-allergy-relief-children's-2-to-12-years-apohealth"
+    },
+    {
+      "text": "Hayfever and Allergy Relief Syrup Children's (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1761501000168107/hayfever-and-allergy-relief-syrup-children's-chemists'-own"
+    },
+    {
+      "text": "Hayfever Prevention and Relief (Pharmacy Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1086421000168106/hayfever-prevention-and-relief-pharmacy-choice"
+    },
+    {
+      "text": "Hayfever Sinus Relief (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53176011000036103/hayfever-sinus-relief-chemists'-own"
+    },
+    {
+      "text": "Hayfever Sinus Relief PE (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,98001000036103/hayfever-sinus-relief-pe-chemists'-own"
+    },
+    {
+      "text": "HDP (Radpharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1210571000168100/hdp-radpharm"
+    },
+    {
+      "text": "Healaid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,60441000036109/healaid"
+    },
+    {
+      "text": "Heartburn Relief Esomeprazole (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,179232281000036108/heartburn-relief-esomeprazole-chemists'-own"
+    },
+    {
+      "text": "Heartburn Relief Omeprazole (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,772089431000036101/heartburn-relief-omeprazole-chemists'-own"
+    },
+    {
+      "text": "Heartburn Relief Pantoprazole (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,449704601000036109/heartburn-relief-pantoprazole-chemists'-own"
+    },
+    {
+      "text": "Hedanol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929865011000036103/hedanol"
+    },
+    {
+      "text": "Heidi-35",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703581000036103/heidi-35"
+    },
+    {
+      "text": "Helicap",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58031000168108/helicap"
+    },
+    {
+      "text": "Hemlibra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1104651000168104/hemlibra"
+    },
+    {
+      "text": "Heparin (InterPharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1791461000168109/heparin-interpharma"
+    },
+    {
+      "text": "Heparin (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1359091000168102/heparin-pfizer"
+    },
+    {
+      "text": "Heparin Sodium (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4435011000036104/heparin-sodium-dbl"
+    },
+    {
+      "text": "Heparin Sodium (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3815011000036101/heparin-sodium-pfizer-perth"
+    },
+    {
+      "text": "Heparin Sodium 1000 IU and Sodium Chloride 0.9% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,46101000168101/heparin-sodium-1000-iu-and-sodium-chloride-0.9-baxter"
+    },
+    {
+      "text": "Heparin Sodium 2000 IU and Sodium Chloride 0.9% (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1171000168108/heparin-sodium-2000-iu-and-sodium-chloride-0.9-baxter"
+    },
+    {
+      "text": "Heparinised Saline (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39732011000036103/heparinised-saline-pfizer-perth"
+    },
+    {
+      "text": "Heparinised Saline (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1363331000168107/heparinised-saline-pfizer"
+    },
+    {
+      "text": "Hepatitis B Immunoglobulin-VF (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10641000168101/hepatitis-b-immunoglobulin-vf-csl"
+    },
+    {
+      "text": "Hepcludex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1789621000168101/hepcludex"
+    },
+    {
+      "text": "Hequinel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704711000168101/hequinel"
+    },
+    {
+      "text": "Herbal Pain Relief Cream (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652101000036109/herbal-pain-relief-cream-a-won"
+    },
+    {
+      "text": "Herceptin SC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,703171000168106/herceptin-sc"
+    },
+    {
+      "text": "Herzuma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1402181000168107/herzuma"
+    },
+    {
+      "text": "Hetenofovir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1259891000168101/hetenofovir"
+    },
+    {
+      "text": "Hetevir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1260501000168106/hetevir"
+    },
+    {
+      "text": "Hexaxim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1028541000168109/hexaxim"
+    },
+    {
+      "text": "Hexvix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,887891000168108/hexvix"
+    },
+    {
+      "text": "Hi-Strength Q10 Absorb (Ethical Nutrients)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1448901000168105/hi-strength-q10-absorb-ethical-nutrients"
+    },
+    {
+      "text": "Hiberix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73759011000036104/hiberix"
+    },
+    {
+      "text": "High Strength CoQ10 (Quality Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1404881000168106/high-strength-coq10-quality-health"
+    },
+    {
+      "text": "High Strength Cranberry 50 000 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,769766061000036100/high-strength-cranberry-50-000-nature's-own"
+    },
+    {
+      "text": "High Strength Fish Oil (Melrose)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,909789981000036107/high-strength-fish-oil-melrose"
+    },
+    {
+      "text": "High Strength Krill Oil (Quality Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1779201000168104/high-strength-krill-oil-quality-health"
+    },
+    {
+      "text": "High Strength Magnesium Orotate (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1194121000168103/high-strength-magnesium-orotate-nature's-own"
+    },
+    {
+      "text": "High Strength Vitamin B12 (Quality Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1760961000168108/high-strength-vitamin-b12-quality-health"
+    },
+    {
+      "text": "High Strength Vitamin D (Quality Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1760661000168102/high-strength-vitamin-d-quality-health"
+    },
+    {
+      "text": "High Strength Zinc (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1342631000168104/high-strength-zinc-nature's-own"
+    },
+    {
+      "text": "Hiprex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2978011000036104/hiprex"
+    },
+    {
+      "text": "Hirudoid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,64958011000036102/hirudoid"
+    },
+    {
+      "text": "Hivita Happy Energy Liquid Multivitamin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599961000036104/hivita-happy-energy-liquid-multivitamin"
+    },
+    {
+      "text": "Hivita Happy Energy Liquid Multivitamin for Kids",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933636001000036106/hivita-happy-energy-liquid-multivitamin-for-kids"
+    },
+    {
+      "text": "Hizentra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,772751000168104/hizentra"
+    },
+    {
+      "text": "Hizentra AU",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1680511000168108/hizentra-au"
+    },
+    {
+      "text": "Holoxan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3908011000036104/holoxan"
+    },
+    {
+      "text": "Hulio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1556961000168100/hulio"
+    },
+    {
+      "text": "Humalog",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22101000168100/humalog"
+    },
+    {
+      "text": "Humalog Kwikpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59991000168101/humalog-kwikpen"
+    },
+    {
+      "text": "Humalog Mix25",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,25311000168109/humalog-mix25"
+    },
+    {
+      "text": "Humalog Mix25 Kwikpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62001000168106/humalog-mix25-kwikpen"
+    },
+    {
+      "text": "Humalog Mix50",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33661000168104/humalog-mix50"
+    },
+    {
+      "text": "Humalog Mix50 Kwikpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13351000168100/humalog-mix50-kwikpen"
+    },
+    {
+      "text": "Humira",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4142011000036107/humira"
+    },
+    {
+      "text": "Humulin 30/70",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29311000168107/humulin-30-70"
+    },
+    {
+      "text": "Humulin NPH Isophane",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10931000168100/humulin-nph-isophane"
+    },
+    {
+      "text": "Humulin R Regular",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17171000168104/humulin-r-regular"
+    },
+    {
+      "text": "Hyalase",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65023011000036108/hyalase"
+    },
+    {
+      "text": "Hydopa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3674011000036100/hydopa"
+    },
+    {
+      "text": "Hydralyte Effervescent Tablets",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1311481000168100/hydralyte-effervescent-tablets"
+    },
+    {
+      "text": "Hydralyte Ice Block",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,21131000168103/hydralyte-ice-block"
+    },
+    {
+      "text": "Hydralyte Powder",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,721961000168109/hydralyte-powder"
+    },
+    {
+      "text": "Hydralyte Ready to Use",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33541000168104/hydralyte-ready-to-use"
+    },
+    {
+      "text": "Hydrea",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3621011000036102/hydrea"
+    },
+    {
+      "text": "Hydrocortic plus Clotrimazole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1662301000168103/hydrocortic-plus-clotrimazole"
+    },
+    {
+      "text": "Hydrocortisone (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1716621000168105/hydrocortisone-aft"
+    },
+    {
+      "text": "Hydrocortisone (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1162481000168104/hydrocortisone-apohealth"
+    },
+    {
+      "text": "Hydrocortisone (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1639421000168103/hydrocortisone-cipla"
+    },
+    {
+      "text": "Hydrocortisone (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1668871000168102/hydrocortisone-juno"
+    },
+    {
+      "text": "Hydrocortisone (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1144931000168108/hydrocortisone-mylan"
+    },
+    {
+      "text": "Hydrocortisone (Panpharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1574531000168109/hydrocortisone-panpharma"
+    },
+    {
+      "text": "Hydrocortisone (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1159191000168108/hydrocortisone-pharmacy-action"
+    },
+    {
+      "text": "Hydrocortisone (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1598511000168100/hydrocortisone-viatris"
+    },
+    {
+      "text": "Hydrogen Peroxide (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920953011000036101/hydrogen-peroxide-gold-cross"
+    },
+    {
+      "text": "Hydrogen Peroxide (Lumacina)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922726261000036103/hydrogen-peroxide-lumacina"
+    },
+    {
+      "text": "Hydrogen Peroxide (Orion)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65016011000036105/hydrogen-peroxide-orion"
+    },
+    {
+      "text": "Hydrogen Peroxide (Perrigo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1464411000168102/hydrogen-peroxide-perrigo"
+    },
+    {
+      "text": "Hydrogen Peroxide (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920942011000036106/hydrogen-peroxide-pfizer-perth"
+    },
+    {
+      "text": "Hydrogen Peroxide (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1202151000168101/hydrogen-peroxide-pfizer"
+    },
+    {
+      "text": "Hydrogen Peroxide (PharmAust Manufacturing)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1296181000168109/hydrogen-peroxide-pharmaust-manufacturing"
+    },
+    {
+      "text": "Hydrogen Peroxide (Sanofi-Aventis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1443141000168100/hydrogen-peroxide-sanofi-aventis"
+    },
+    {
+      "text": "Hydromorphone (Hameln)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1576561000168107/hydromorphone-hameln"
+    },
+    {
+      "text": "Hydromorphone (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1312591000168108/hydromorphone-juno"
+    },
+    {
+      "text": "Hydromorphone (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1416501000168107/hydromorphone-medicianz"
+    },
+    {
+      "text": "Hydromorphone (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1415971000168102/hydromorphone-medsurge"
+    },
+    {
+      "text": "Hydromorphone HP (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1416031000168107/hydromorphone-hp-medicianz"
+    },
+    {
+      "text": "Hydromorphone HP (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1415881000168105/hydromorphone-hp-medsurge"
+    },
+    {
+      "text": "Hydromorphone XHP (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1416561000168108/hydromorphone-xhp-medicianz"
+    },
+    {
+      "text": "Hydromorphone XHP (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1416251000168109/hydromorphone-xhp-medsurge"
+    },
+    {
+      "text": "Hydromorphone-HP (Hameln)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1576621000168103/hydromorphone-hp-hameln"
+    },
+    {
+      "text": "Hydromorphone-HP (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1312551000168103/hydromorphone-hp-juno"
+    },
+    {
+      "text": "Hydromorphone-XHP (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1312631000168108/hydromorphone-xhp-juno"
+    },
+    {
+      "text": "Hydroxo-B12",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922936011000036100/hydroxo-b12"
+    },
+    {
+      "text": "Hydroxycarbamide (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1495661000168101/hydroxycarbamide-medsurge"
+    },
+    {
+      "text": "Hydroxychloroquine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31541000168100/hydroxychloroquine-apo"
+    },
+    {
+      "text": "Hydroxychloroquine (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,707571000168107/hydroxychloroquine-gh"
+    },
+    {
+      "text": "Hydroxychloroquine (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736441000036106/hydroxychloroquine-wgr"
+    },
+    {
+      "text": "Hydrozole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,23501000168103/hydrozole"
+    },
+    {
+      "text": "Hygroton",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3754011000036107/hygroton"
+    },
+    {
+      "text": "Hyoscine Butylbromide (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1673551000168106/hyoscine-butylbromide-aft"
+    },
+    {
+      "text": "Hyoscine Butylbromide (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1515461000168109/hyoscine-butylbromide-medsurge"
+    },
+    {
+      "text": "Hyoscine Butylbromide (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1045241000168102/hyoscine-butylbromide-sxp"
+    },
+    {
+      "text": "Hypnodorm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3206011000036104/hypnodorm"
+    },
+    {
+      "text": "Hypnovel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35964011000036100/hypnovel"
+    },
+    {
+      "text": "Hyqvia",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,923831000168102/hyqvia"
+    },
+    {
+      "text": "Hyrimoz",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1532911000168103/hyrimoz"
+    },
+    {
+      "text": "Hysone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3717011000036109/hysone"
+    },
+    {
+      "text": "Haemophilus influenzae type b conjugate (PRP-T) vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50482/haemophilus-influenzae-type-b-conjugate-prp-t-vaccine"
+    },
+    {
+      "text": "Haloperidol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21298/haloperidol"
+    },
+    {
+      "text": "haloperidol decanoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22514/haloperidol-decanoate"
+    },
+    {
+      "text": "heparin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11381/heparin"
+    },
+    {
+      "text": "heparin + sodium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23998/heparin-+-sodium-chloride"
+    },
+    {
+      "text": "heparinoids",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22262/heparinoids"
+    },
+    {
+      "text": "Hepatitis A + hepatitis B vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23324/hepatitis-a-+-hepatitis-b-vaccine"
+    },
+    {
+      "text": "Hepatitis A vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22517/hepatitis-a-vaccine"
+    },
+    {
+      "text": "Hepatitis B vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20213/hepatitis-b-vaccine"
+    },
+    {
+      "text": "hepatitis B virus immunoglobulin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22518/hepatitis-b-virus-immunoglobulin"
+    },
+    {
+      "text": "hexaminolevulinate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24034/hexaminolevulinate"
+    },
+    {
+      "text": "hexylresorcinol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22526/hexylresorcinol"
+    },
+    {
+      "text": "high selenium yeast",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23091/high-selenium-yeast"
+    },
+    {
+      "text": "Homosalate + octocrylene + octyl salicylate + butyl methoxydibenzoylmethane",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50255/homosalate-+-octocrylene-+-octyl-salicylate-+-butyl-methoxydibenzoylmethane"
+    },
+    {
+      "text": "honey bee venom",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23750/honey-bee-venom"
+    },
+    {
+      "text": "Human alpha1 proteinase inhibitor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50539/human-alpha1-proteinase-inhibitor"
+    },
+    {
+      "text": "Human fibrinogen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50529/human-fibrinogen"
+    },
+    {
+      "text": "human menopausal gonadotrophin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23682/human-menopausal-gonadotrophin"
+    },
+    {
+      "text": "human papillomavirus 9 valent vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24239/human-papillomavirus-9-valent-vaccine"
+    },
+    {
+      "text": "human papillomavirus quadrivalent vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24225/human-papillomavirus-quadrivalent-vaccine"
+    },
+    {
+      "text": "human thrombin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24361/human-thrombin"
+    },
+    {
+      "text": "human thrombin + calcium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24932/human-thrombin-+-calcium-chloride"
+    },
+    {
+      "text": "hyaluronidase",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21296/hyaluronidase"
+    },
+    {
+      "text": "Hydralazine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21295/hydralazine"
+    },
+    {
+      "text": "hydrochloric acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24366/hydrochloric-acid"
+    },
+    {
+      "text": "hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20301/hydrochlorothiazide"
+    },
+    {
+      "text": "hydrocortisone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21293/hydrocortisone"
+    },
+    {
+      "text": "hydrocortisone + cinchocaine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23330/hydrocortisone-+-cinchocaine"
+    },
+    {
+      "text": "hydrocortisone + clotrimazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23246/hydrocortisone-+-clotrimazole"
+    },
+    {
+      "text": "hydrocortisone + miconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23331/hydrocortisone-+-miconazole"
+    },
+    {
+      "text": "hydrocortisone acetate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22533/hydrocortisone-acetate"
+    },
+    {
+      "text": "hydrocortisone sodium succinate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22534/hydrocortisone-sodium-succinate"
+    },
+    {
+      "text": "Hydrogen peroxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22536/hydrogen-peroxide"
+    },
+    {
+      "text": "Hydromorphone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21292/hydromorphone"
+    },
+    {
+      "text": "hydroquinone + salicylic acid + padimate-O",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23539/hydroquinone-+-salicylic-acid-+-padimate-o"
+    },
+    {
+      "text": "hydroxocobalamin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21291/hydroxocobalamin"
+    },
+    {
+      "text": "Hydroxycarbamide (hydroxyurea)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21289/hydroxycarbamide-hydroxyurea"
+    },
+    {
+      "text": "Hydroxychloroquine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21290/hydroxychloroquine"
+    },
+    {
+      "text": "hydroxyethyl starch 130/0.4 + sodium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24127/hydroxyethyl-starch-130-0.4-+-sodium-chloride"
+    },
+    {
+      "text": "Hydroxyethyl starch 130/0.4 + sodium chloride + sodium acetate + potassium chloride + magnesium chloride",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50257/hydroxyethyl-starch-130-0.4-+-sodium-chloride-+-sodium-acetate-+-potassium-chloride-+-magnesium-chloride"
+    },
+    {
+      "text": "hyoscine butylbromide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22545/hyoscine-butylbromide"
+    },
+    {
+      "text": "hyoscine hydrobromide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22546/hyoscine-hydrobromide"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"H\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"H\"\n\n## Brand names\n\n- H-B-Vax II\n\n- H-B-Vax II Paediatric\n\n- Hadlima\n\n- Hadlima Pushtouch Auto-Injector\n\n- Haemorol\n\n- Haemorrhoid Ointment (Apohealth)\n\n- Hair A-Gain\n\n- Hair Retreva\n\n- Hair Revive Extra Strength\n\n- Halaven\n\n- Haldol Decanoate\n\n- Half Strength Povidone-Iodine (Pfizer)\n\n- Haloperidol (Medicianz)\n\n- Haloperidol (Medsurge)\n\n- Harmonise\n\n- Haruropi\n\n- Harvoni\n\n- Havrix\n\n- Havrix Junior\n\n- Hayfever Allergy Relief Cetirizine (Coles)\n\n- Hayfever and Allergy Relief Children's 2 to 12 Years (Apohealth)\n\n- Hayfever and Allergy Relief Syrup Children's (Chemists' Own)\n\n- Hayfever Prevention and Relief (Pharmacy Choice)\n\n- Hayfever Sinus Relief (Chemists' Own)\n\n- Hayfever Sinus Relief PE (Chemists' Own)\n\n- HDP (Radpharm)\n\n- Healaid\n\n- Heartburn Relief Esomeprazole (Chemists' Own)\n\n- Heartburn Relief Omeprazole (Chemists' Own)\n\n- Heartburn Relief Pantoprazole (Chemists' Own)\n\n- Hedanol\n\n- Heidi-35\n\n- Helicap\n\n- Hemlibra\n\n- Heparin (InterPharma)\n\n- Heparin (Pfizer)\n\n- Heparin Sodium (DBL)\n\n- Heparin Sodium (Pfizer (Perth))\n\n- Heparin Sodium 1000 IU and Sodium Chloride 0.9% (Baxter)\n\n- Heparin Sodium 2000 IU and Sodium Chloride 0.9% (Baxter)\n\n- Heparinised Saline (Pfizer (Perth))\n\n- Heparinised Saline (Pfizer)\n\n- Hepatitis B Immunoglobulin-VF (CSL)\n\n- Hepcludex\n\n- Hequinel\n\n- Herbal Pain Relief Cream (A-Won)\n\n- Herceptin SC\n\n- Herzuma\n\n- Hetenofovir\n\n- Hetevir\n\n- Hexaxim\n\n- Hexvix\n\n- Hi-Strength Q10 Absorb (Ethical Nutrients)\n\n- Hiberix\n\n- High Strength CoQ10 (Quality Health)\n\n- High Strength Cranberry 50 000 (Nature's Own)\n\n- High Strength Fish Oil (Melrose)\n\n- High Strength Krill Oil (Quality Health)\n\n- High Strength Magnesium Orotate (Nature's Own)\n\n- High Strength Vitamin B12 (Quality Health)\n\n- High Strength Vitamin D (Quality Health)\n\n- High Strength Zinc (Nature's Own)\n\n- Hiprex\n\n- Hirudoid\n\n- Hivita Happy Energy Liquid Multivitamin\n\n- Hivita Happy Energy Liquid Multivitamin for Kids\n\n- Hizentra\n\n- Hizentra AU\n\n- Holoxan\n\n- Hulio\n\n- Humalog\n\n- Humalog Kwikpen\n\n- Humalog Mix25\n\n- Humalog Mix25 Kwikpen\n\n- Humalog Mix50\n\n- Humalog Mix50 Kwikpen\n\n- Humira\n\n- Humulin 30/70\n\n- Humulin NPH Isophane\n\n- Humulin R Regular\n\n- Hyalase\n\n- Hydopa\n\n- Hydralyte Effervescent Tablets\n\n- Hydralyte Ice Block\n\n- Hydralyte Powder\n\n- Hydralyte Ready to Use\n\n- Hydrea\n\n- Hydrocortic plus Clotrimazole\n\n- Hydrocortisone (AFT)\n\n- Hydrocortisone (Apohealth)\n\n- Hydrocortisone (Cipla)\n\n- Hydrocortisone (Juno)\n\n- Hydrocortisone (Mylan)\n\n- Hydrocortisone (Panpharma)\n\n- Hydrocortisone (Pharmacy Action)\n\n- Hydrocortisone (Viatris)\n\n- Hydrogen Peroxide (Gold Cross)\n\n- Hydrogen Peroxide (Lumacina)\n\n- Hydrogen Peroxide (Orion)\n\n- Hydrogen Peroxide (Perrigo)\n\n- Hydrogen Peroxide (Pfizer (Perth))\n\n- Hydrogen Peroxide (Pfizer)\n\n- Hydrogen Peroxide (PharmAust Manufacturing)\n\n- Hydrogen Peroxide (Sanofi-Aventis)\n\n- Hydromorphone (Hameln)\n\n- Hydromorphone (Juno)\n\n- Hydromorphone (Medicianz)\n\n- Hydromorphone (Medsurge)\n\n- Hydromorphone HP (Medicianz)\n\n- Hydromorphone HP (Medsurge)\n\n- Hydromorphone XHP (Medicianz)\n\n- Hydromorphone XHP (Medsurge)\n\n- Hydromorphone-HP (Hameln)\n\n- Hydromorphone-HP (Juno)\n\n- Hydromorphone-XHP (Juno)\n\n- Hydroxo-B12\n\n- Hydroxycarbamide (Medsurge)\n\n- Hydroxychloroquine (Apo)\n\n- Hydroxychloroquine (GH)\n\n- Hydroxychloroquine (WGR)\n\n- Hydrozole\n\n- Hygroton\n\n- Hyoscine Butylbromide (AFT)\n\n- Hyoscine Butylbromide (Medsurge)\n\n- Hyoscine Butylbromide (SXP)\n\n- Hypnodorm\n\n- Hypnovel\n\n- Hyqvia\n\n- Hyrimoz\n\n- Hysone\n\nPREV 1 2 3 NEXT\n\n## Active ingredients\n\n- Haemophilus influenzae type b conjugate (PRP-T) vaccine\n\n- Haloperidol\n\n- haloperidol decanoate\n\n- heparin\n\n- heparin +\n\n- sodium chloride\n\n- heparinoids\n\n- Hepatitis A +\n\n- hepatitis B vaccine\n\n- Hepatitis A vaccine\n\n- hepatitis B virus immunoglobulin\n\n- hexaminolevulinate\n\n- hexylresorcinol\n\n- high selenium yeast\n\n- Homosalate +\n\n- octocrylene +\n\n- octyl salicylate +\n\n- butyl methoxydibenzoylmethane\n\n- honey bee venom\n\n- Human alpha1 proteinase inhibitor\n\n- Human fibrinogen\n\n- human menopausal gonadotrophin\n\n- human papillomavirus 9 valent vaccine\n\n- human papillomavirus quadrivalent vaccine\n\n- human thrombin\n\n- human thrombin +\n\n- calcium chloride\n\n- hyaluronidase\n\n- Hydralazine\n\n- hydrochloric acid\n\n- hydrochlorothiazide\n\n- hydrocortisone\n\n- hydrocortisone +\n\n- cinchocaine\n\n- clotrimazole\n\n- miconazole\n\n- hydrocortisone acetate\n\n- hydrocortisone sodium succinate\n\n- Hydrogen peroxide\n\n- Hydromorphone\n\n- hydroquinone +\n\n- salicylic acid +\n\n- padimate-O\n\n- hydroxocobalamin\n\n- Hydroxycarbamide (hydroxyurea)\n\n- Hydroxychloroquine\n\n- hydroxyethyl starch 130/0.4 +\n\n- sodium chloride +\n\n- sodium acetate +\n\n- potassium chloride +\n\n- magnesium chloride\n\n- hyoscine butylbromide\n\n- hyoscine hydrobromide\n\nPREV 1 2 3 4 5 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/H-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- H-B-Vax II: https://www.healthdirect.gov.au/medicines/brand/amt,27541000168105/h-b-vax-ii\n\n- H-B-Vax II Paediatric: https://www.healthdirect.gov.au/medicines/brand/amt,38281000168102/h-b-vax-ii-paediatric\n\n- Hadlima: https://www.healthdirect.gov.au/medicines/brand/amt,1158621000168107/hadlima\n\n- Hadlima Pushtouch Auto-Injector: https://www.healthdirect.gov.au/medicines/brand/amt,1158661000168102/hadlima-pushtouch-auto-injector\n\n- Haemorol: https://www.healthdirect.gov.au/medicines/brand/amt,922913011000036100/haemorol\n\n- Haemorrhoid Ointment (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1579761000168107/haemorrhoid-ointment-apohealth\n\n- Hair A-Gain: https://www.healthdirect.gov.au/medicines/brand/amt,53423011000036106/hair-a-gain\n\n- Hair Retreva: https://www.healthdirect.gov.au/medicines/brand/amt,53314011000036108/hair-retreva\n\n- Hair Revive Extra Strength: https://www.healthdirect.gov.au/medicines/brand/amt,52991000168108/hair-revive-extra-strength\n\n- Halaven: https://www.healthdirect.gov.au/medicines/brand/amt,668891000168101/halaven\n\n- Haldol Decanoate: https://www.healthdirect.gov.au/medicines/brand/amt,3442011000036108/haldol-decanoate\n\n- Half Strength Povidone-Iodine (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1139371000168105/half-strength-povidone-iodine-pfizer\n\n- Haloperidol (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,933536891000036103/haloperidol-medicianz\n\n- Haloperidol (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933536881000036100/haloperidol-medsurge\n\n- Harmonise: https://www.healthdirect.gov.au/medicines/brand/amt,53476011000036104/harmonise\n\n- Haruropi: https://www.healthdirect.gov.au/medicines/brand/amt,933753211000036100/haruropi\n\n- Harvoni: https://www.healthdirect.gov.au/medicines/brand/amt,717481000168108/harvoni\n\n- Havrix: https://www.healthdirect.gov.au/medicines/brand/amt,73776011000036105/havrix\n\n- Havrix Junior: https://www.healthdirect.gov.au/medicines/brand/amt,52621000168102/havrix-junior\n\n- Hayfever Allergy Relief Cetirizine (Coles): https://www.healthdirect.gov.au/medicines/brand/amt,1094651000168109/hayfever-allergy-relief-cetirizine-coles\n\n- Hayfever and Allergy Relief Children's 2 to 12 Years (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1739281000168109/hayfever-and-allergy-relief-children's-2-to-12-years-apohealth\n\n- Hayfever and Allergy Relief Syrup Children's (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1761501000168107/hayfever-and-allergy-relief-syrup-children's-chemists'-own\n\n- Hayfever Prevention and Relief (Pharmacy Choice): https://www.healthdirect.gov.au/medicines/brand/amt,1086421000168106/hayfever-prevention-and-relief-pharmacy-choice\n\n- Hayfever Sinus Relief (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,53176011000036103/hayfever-sinus-relief-chemists'-own\n\n- Hayfever Sinus Relief PE (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,98001000036103/hayfever-sinus-relief-pe-chemists'-own\n\n- HDP (Radpharm): https://www.healthdirect.gov.au/medicines/brand/amt,1210571000168100/hdp-radpharm\n\n- Healaid: https://www.healthdirect.gov.au/medicines/brand/amt,60441000036109/healaid\n\n- Heartburn Relief Esomeprazole (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,179232281000036108/heartburn-relief-esomeprazole-chemists'-own\n\n- Heartburn Relief Omeprazole (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,772089431000036101/heartburn-relief-omeprazole-chemists'-own\n\n- Heartburn Relief Pantoprazole (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,449704601000036109/heartburn-relief-pantoprazole-chemists'-own\n\n- Hedanol: https://www.healthdirect.gov.au/medicines/brand/amt,929865011000036103/hedanol\n\n- Heidi-35: https://www.healthdirect.gov.au/medicines/brand/amt,933703581000036103/heidi-35\n\n- Helicap: https://www.healthdirect.gov.au/medicines/brand/amt,58031000168108/helicap\n\n- Hemlibra: https://www.healthdirect.gov.au/medicines/brand/amt,1104651000168104/hemlibra\n\n- Heparin (InterPharma): https://www.healthdirect.gov.au/medicines/brand/amt,1791461000168109/heparin-interpharma\n\n- Heparin (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1359091000168102/heparin-pfizer\n\n- Heparin Sodium (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,4435011000036104/heparin-sodium-dbl\n\n- Heparin Sodium (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,3815011000036101/heparin-sodium-pfizer-perth\n\n- Heparin Sodium 1000 IU and Sodium Chloride 0.9% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,46101000168101/heparin-sodium-1000-iu-and-sodium-chloride-0.9-baxter\n\n- Heparin Sodium 2000 IU and Sodium Chloride 0.9% (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1171000168108/heparin-sodium-2000-iu-and-sodium-chloride-0.9-baxter\n\n- Heparinised Saline (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,39732011000036103/heparinised-saline-pfizer-perth\n\n- Heparinised Saline (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1363331000168107/heparinised-saline-pfizer\n\n- Hepatitis B Immunoglobulin-VF (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,10641000168101/hepatitis-b-immunoglobulin-vf-csl\n\n- Hepcludex: https://www.healthdirect.gov.au/medicines/brand/amt,1789621000168101/hepcludex\n\n- Hequinel: https://www.healthdirect.gov.au/medicines/brand/amt,704711000168101/hequinel\n\n- Herbal Pain Relief Cream (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652101000036109/herbal-pain-relief-cream-a-won\n\n- Herceptin SC: https://www.healthdirect.gov.au/medicines/brand/amt,703171000168106/herceptin-sc\n\n- Herzuma: https://www.healthdirect.gov.au/medicines/brand/amt,1402181000168107/herzuma\n\n- Hetenofovir: https://www.healthdirect.gov.au/medicines/brand/amt,1259891000168101/hetenofovir\n\n- Hetevir: https://www.healthdirect.gov.au/medicines/brand/amt,1260501000168106/hetevir\n\n- Hexaxim: https://www.healthdirect.gov.au/medicines/brand/amt,1028541000168109/hexaxim\n\n- Hexvix: https://www.healthdirect.gov.au/medicines/brand/amt,887891000168108/hexvix\n\n- Hi-Strength Q10 Absorb (Ethical Nutrients): https://www.healthdirect.gov.au/medicines/brand/amt,1448901000168105/hi-strength-q10-absorb-ethical-nutrients\n\n- Hiberix: https://www.healthdirect.gov.au/medicines/brand/amt,73759011000036104/hiberix\n\n- High Strength CoQ10 (Quality Health): https://www.healthdirect.gov.au/medicines/brand/amt,1404881000168106/high-strength-coq10-quality-health\n\n- High Strength Cranberry 50 000 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,769766061000036100/high-strength-cranberry-50-000-nature's-own\n\n- High Strength Fish Oil (Melrose): https://www.healthdirect.gov.au/medicines/brand/amt,909789981000036107/high-strength-fish-oil-melrose\n\n- High Strength Krill Oil (Quality Health): https://www.healthdirect.gov.au/medicines/brand/amt,1779201000168104/high-strength-krill-oil-quality-health\n\n- High Strength Magnesium Orotate (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1194121000168103/high-strength-magnesium-orotate-nature's-own\n\n- High Strength Vitamin B12 (Quality Health): https://www.healthdirect.gov.au/medicines/brand/amt,1760961000168108/high-strength-vitamin-b12-quality-health\n\n- High Strength Vitamin D (Quality Health): https://www.healthdirect.gov.au/medicines/brand/amt,1760661000168102/high-strength-vitamin-d-quality-health\n\n- High Strength Zinc (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1342631000168104/high-strength-zinc-nature's-own\n\n- Hiprex: https://www.healthdirect.gov.au/medicines/brand/amt,2978011000036104/hiprex\n\n- Hirudoid: https://www.healthdirect.gov.au/medicines/brand/amt,64958011000036102/hirudoid\n\n- Hivita Happy Energy Liquid Multivitamin: https://www.healthdirect.gov.au/medicines/brand/amt,933599961000036104/hivita-happy-energy-liquid-multivitamin\n\n- Hivita Happy Energy Liquid Multivitamin for Kids: https://www.healthdirect.gov.au/medicines/brand/amt,933636001000036106/hivita-happy-energy-liquid-multivitamin-for-kids\n\n- Hizentra: https://www.healthdirect.gov.au/medicines/brand/amt,772751000168104/hizentra\n\n- Hizentra AU: https://www.healthdirect.gov.au/medicines/brand/amt,1680511000168108/hizentra-au\n\n- Holoxan: https://www.healthdirect.gov.au/medicines/brand/amt,3908011000036104/holoxan\n\n- Hulio: https://www.healthdirect.gov.au/medicines/brand/amt,1556961000168100/hulio\n\n- Humalog: https://www.healthdirect.gov.au/medicines/brand/amt,22101000168100/humalog\n\n- Humalog Kwikpen: https://www.healthdirect.gov.au/medicines/brand/amt,59991000168101/humalog-kwikpen\n\n- Humalog Mix25: https://www.healthdirect.gov.au/medicines/brand/amt,25311000168109/humalog-mix25\n\n- Humalog Mix25 Kwikpen: https://www.healthdirect.gov.au/medicines/brand/amt,62001000168106/humalog-mix25-kwikpen\n\n- Humalog Mix50: https://www.healthdirect.gov.au/medicines/brand/amt,33661000168104/humalog-mix50\n\n- Humalog Mix50 Kwikpen: https://www.healthdirect.gov.au/medicines/brand/amt,13351000168100/humalog-mix50-kwikpen\n\n- Humira: https://www.healthdirect.gov.au/medicines/brand/amt,4142011000036107/humira\n\n- Humulin 30/70: https://www.healthdirect.gov.au/medicines/brand/amt,29311000168107/humulin-30-70\n\n- Humulin NPH Isophane: https://www.healthdirect.gov.au/medicines/brand/amt,10931000168100/humulin-nph-isophane\n\n- Humulin R Regular: https://www.healthdirect.gov.au/medicines/brand/amt,17171000168104/humulin-r-regular\n\n- Hyalase: https://www.healthdirect.gov.au/medicines/brand/amt,65023011000036108/hyalase\n\n- Hydopa: https://www.healthdirect.gov.au/medicines/brand/amt,3674011000036100/hydopa\n\n- Hydralyte Effervescent Tablets: https://www.healthdirect.gov.au/medicines/brand/amt,1311481000168100/hydralyte-effervescent-tablets\n\n- Hydralyte Ice Block: https://www.healthdirect.gov.au/medicines/brand/amt,21131000168103/hydralyte-ice-block\n\n- Hydralyte Powder: https://www.healthdirect.gov.au/medicines/brand/amt,721961000168109/hydralyte-powder\n\n- Hydralyte Ready to Use: https://www.healthdirect.gov.au/medicines/brand/amt,33541000168104/hydralyte-ready-to-use\n\n- Hydrea: https://www.healthdirect.gov.au/medicines/brand/amt,3621011000036102/hydrea\n\n- Hydrocortic plus Clotrimazole: https://www.healthdirect.gov.au/medicines/brand/amt,1662301000168103/hydrocortic-plus-clotrimazole\n\n- Hydrocortisone (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1716621000168105/hydrocortisone-aft\n\n- Hydrocortisone (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1162481000168104/hydrocortisone-apohealth\n\n- Hydrocortisone (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,1639421000168103/hydrocortisone-cipla\n\n- Hydrocortisone (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1668871000168102/hydrocortisone-juno\n\n- Hydrocortisone (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,1144931000168108/hydrocortisone-mylan\n\n- Hydrocortisone (Panpharma): https://www.healthdirect.gov.au/medicines/brand/amt,1574531000168109/hydrocortisone-panpharma\n\n- Hydrocortisone (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,1159191000168108/hydrocortisone-pharmacy-action\n\n- Hydrocortisone (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1598511000168100/hydrocortisone-viatris\n\n- Hydrogen Peroxide (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,920953011000036101/hydrogen-peroxide-gold-cross\n\n- Hydrogen Peroxide (Lumacina): https://www.healthdirect.gov.au/medicines/brand/amt,922726261000036103/hydrogen-peroxide-lumacina\n\n- Hydrogen Peroxide (Orion): https://www.healthdirect.gov.au/medicines/brand/amt,65016011000036105/hydrogen-peroxide-orion\n\n- Hydrogen Peroxide (Perrigo): https://www.healthdirect.gov.au/medicines/brand/amt,1464411000168102/hydrogen-peroxide-perrigo\n\n- Hydrogen Peroxide (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,920942011000036106/hydrogen-peroxide-pfizer-perth\n\n- Hydrogen Peroxide (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1202151000168101/hydrogen-peroxide-pfizer\n\n- Hydrogen Peroxide (PharmAust Manufacturing): https://www.healthdirect.gov.au/medicines/brand/amt,1296181000168109/hydrogen-peroxide-pharmaust-manufacturing\n\n- Hydrogen Peroxide (Sanofi-Aventis): https://www.healthdirect.gov.au/medicines/brand/amt,1443141000168100/hydrogen-peroxide-sanofi-aventis\n\n- Hydromorphone (Hameln): https://www.healthdirect.gov.au/medicines/brand/amt,1576561000168107/hydromorphone-hameln\n\n- Hydromorphone (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1312591000168108/hydromorphone-juno\n\n- Hydromorphone (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1416501000168107/hydromorphone-medicianz\n\n- Hydromorphone (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1415971000168102/hydromorphone-medsurge\n\n- Hydromorphone HP (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1416031000168107/hydromorphone-hp-medicianz\n\n- Hydromorphone HP (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1415881000168105/hydromorphone-hp-medsurge\n\n- Hydromorphone XHP (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,1416561000168108/hydromorphone-xhp-medicianz\n\n- Hydromorphone XHP (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1416251000168109/hydromorphone-xhp-medsurge\n\n- Hydromorphone-HP (Hameln): https://www.healthdirect.gov.au/medicines/brand/amt,1576621000168103/hydromorphone-hp-hameln\n\n- Hydromorphone-HP (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1312551000168103/hydromorphone-hp-juno\n\n- Hydromorphone-XHP (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1312631000168108/hydromorphone-xhp-juno\n\n- Hydroxo-B12: https://www.healthdirect.gov.au/medicines/brand/amt,922936011000036100/hydroxo-b12\n\n- Hydroxycarbamide (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1495661000168101/hydroxycarbamide-medsurge\n\n- Hydroxychloroquine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,31541000168100/hydroxychloroquine-apo\n\n- Hydroxychloroquine (GH): https://www.healthdirect.gov.au/medicines/brand/amt,707571000168107/hydroxychloroquine-gh\n\n- Hydroxychloroquine (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933736441000036106/hydroxychloroquine-wgr\n\n- Hydrozole: https://www.healthdirect.gov.au/medicines/brand/amt,23501000168103/hydrozole\n\n- Hygroton: https://www.healthdirect.gov.au/medicines/brand/amt,3754011000036107/hygroton\n\n- Hyoscine Butylbromide (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1673551000168106/hyoscine-butylbromide-aft\n\n- Hyoscine Butylbromide (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1515461000168109/hyoscine-butylbromide-medsurge\n\n- Hyoscine Butylbromide (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1045241000168102/hyoscine-butylbromide-sxp\n\n- Hypnodorm: https://www.healthdirect.gov.au/medicines/brand/amt,3206011000036104/hypnodorm\n\n- Hypnovel: https://www.healthdirect.gov.au/medicines/brand/amt,35964011000036100/hypnovel\n\n- Hyqvia: https://www.healthdirect.gov.au/medicines/brand/amt,923831000168102/hyqvia\n\n- Hyrimoz: https://www.healthdirect.gov.au/medicines/brand/amt,1532911000168103/hyrimoz\n\n- Hysone: https://www.healthdirect.gov.au/medicines/brand/amt,3717011000036109/hysone\n\n- Haemophilus influenzae type b conjugate (PRP-T) vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50482/haemophilus-influenzae-type-b-conjugate-prp-t-vaccine\n\n- Haloperidol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21298/haloperidol\n\n- haloperidol decanoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22514/haloperidol-decanoate\n\n- heparin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11381/heparin\n\n- heparin + sodium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23998/heparin-+-sodium-chloride\n\n- heparinoids: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22262/heparinoids\n\n- Hepatitis A + hepatitis B vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23324/hepatitis-a-+-hepatitis-b-vaccine\n\n- Hepatitis A vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22517/hepatitis-a-vaccine\n\n- Hepatitis B vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20213/hepatitis-b-vaccine\n\n- hepatitis B virus immunoglobulin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22518/hepatitis-b-virus-immunoglobulin\n\n- hexaminolevulinate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24034/hexaminolevulinate\n\n- hexylresorcinol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22526/hexylresorcinol\n\n- high selenium yeast: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23091/high-selenium-yeast\n\n- Homosalate + octocrylene + octyl salicylate + butyl methoxydibenzoylmethane: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50255/homosalate-+-octocrylene-+-octyl-salicylate-+-butyl-methoxydibenzoylmethane\n\n- honey bee venom: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23750/honey-bee-venom\n\n- Human alpha1 proteinase inhibitor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50539/human-alpha1-proteinase-inhibitor\n\n- Human fibrinogen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50529/human-fibrinogen\n\n- human menopausal gonadotrophin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23682/human-menopausal-gonadotrophin\n\n- human papillomavirus 9 valent vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24239/human-papillomavirus-9-valent-vaccine\n\n- human papillomavirus quadrivalent vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24225/human-papillomavirus-quadrivalent-vaccine\n\n- human thrombin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24361/human-thrombin\n\n- human thrombin + calcium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24932/human-thrombin-+-calcium-chloride\n\n- hyaluronidase: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21296/hyaluronidase\n\n- Hydralazine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21295/hydralazine\n\n- hydrochloric acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24366/hydrochloric-acid\n\n- hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20301/hydrochlorothiazide\n\n- hydrocortisone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21293/hydrocortisone\n\n- hydrocortisone + cinchocaine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23330/hydrocortisone-+-cinchocaine\n\n- hydrocortisone + clotrimazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23246/hydrocortisone-+-clotrimazole\n\n- hydrocortisone + miconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23331/hydrocortisone-+-miconazole\n\n- hydrocortisone acetate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22533/hydrocortisone-acetate\n\n- hydrocortisone sodium succinate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22534/hydrocortisone-sodium-succinate\n\n- Hydrogen peroxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22536/hydrogen-peroxide\n\n- Hydromorphone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21292/hydromorphone\n\n- hydroquinone + salicylic acid + padimate-O: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23539/hydroquinone-+-salicylic-acid-+-padimate-o\n\n- hydroxocobalamin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21291/hydroxocobalamin\n\n- Hydroxycarbamide (hydroxyurea): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21289/hydroxycarbamide-hydroxyurea\n\n- Hydroxychloroquine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21290/hydroxychloroquine\n\n- hydroxyethyl starch 130/0.4 + sodium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24127/hydroxyethyl-starch-130-0.4-+-sodium-chloride\n\n- Hydroxyethyl starch 130/0.4 + sodium chloride + sodium acetate + potassium chloride + magnesium chloride: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50257/hydroxyethyl-starch-130-0.4-+-sodium-chloride-+-sodium-acetate-+-potassium-chloride-+-magnesium-chloride\n\n- hyoscine butylbromide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22545/hyoscine-butylbromide\n\n- hyoscine hydrobromide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22546/hyoscine-hydrobromide\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

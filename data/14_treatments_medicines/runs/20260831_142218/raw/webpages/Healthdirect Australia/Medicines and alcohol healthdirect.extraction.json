@@ -1,0 +1,667 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-and-alcohol",
+  "title": "Medicines and alcohol | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines-and-alcohol",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 27510,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-alcohol"
+    },
+    {
+      "text": "How can alcohol affect my medicines?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#affect"
+    },
+    {
+      "text": "Which medicines cause problems with alcohol?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#which"
+    },
+    {
+      "text": "What are the effects of combining alcohol with medicines?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#combining"
+    },
+    {
+      "text": "Who is at risk?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#risk"
+    },
+    {
+      "text": "Can I drink and take my medicines safely?",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#safely"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#searchGeneralResults"
+    },
+    {
+      "text": "Alcohol",
+      "url": "https://www.healthdirect.gov.au/how-alcohol-affects-your-health"
+    },
+    {
+      "text": "central nervous system",
+      "url": "https://www.healthdirect.gov.au/central-nervous-system"
+    },
+    {
+      "text": "over-the-counter",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "opioids",
+      "url": "https://www.healthdirect.gov.au/opioids"
+    },
+    {
+      "text": "antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "antihistamines",
+      "url": "https://www.healthdirect.gov.au/antihistamines"
+    },
+    {
+      "text": "antipsychotic medicines",
+      "url": "https://www.healthdirect.gov.au/antipsychotic-medicines"
+    },
+    {
+      "text": "antibiotics",
+      "url": "https://www.healthdirect.gov.au/antibiotics"
+    },
+    {
+      "text": "diabetes medicines",
+      "url": "https://www.healthdirect.gov.au/diabetes-medicines"
+    },
+    {
+      "text": "non-steroidal anti-inflammatory medicines (NSAIDs)",
+      "url": "https://www.healthdirect.gov.au/anti-inflammatory-medicines"
+    },
+    {
+      "text": "overdose",
+      "url": "https://www.healthdirect.gov.au/accidental-overdose-of-medicines"
+    },
+    {
+      "text": "dizziness",
+      "url": "https://www.healthdirect.gov.au/dizziness"
+    },
+    {
+      "text": "seizures",
+      "url": "https://www.healthdirect.gov.au/seizures"
+    },
+    {
+      "text": "suicide",
+      "url": "https://www.healthdirect.gov.au/warning-signs-of-suicide"
+    },
+    {
+      "text": "metronidazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21161/metronidazole"
+    },
+    {
+      "text": "isoniazid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21242/isoniazid"
+    },
+    {
+      "text": "nausea",
+      "url": "https://www.healthdirect.gov.au/nausea"
+    },
+    {
+      "text": "headache",
+      "url": "https://www.healthdirect.gov.au/headaches"
+    },
+    {
+      "text": "palpitations",
+      "url": "https://www.healthdirect.gov.au/heart-palpitations"
+    },
+    {
+      "text": "aspirin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin"
+    },
+    {
+      "text": "celecoxib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20479/celecoxib"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "naproxen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21089/naproxen"
+    },
+    {
+      "text": "stomach ulcers",
+      "url": "https://www.healthdirect.gov.au/stomach-ulcers"
+    },
+    {
+      "text": "low blood sugar",
+      "url": "https://www.healthdirect.gov.au/hypoglycaemia-low-blood-sugar"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "complementary",
+      "url": "https://www.healthdirect.gov.au/complementary-therapy"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "Consumer Medicine Information (CMI)",
+      "url": "https://www.healthdirect.gov.au/how-to-read-cmis"
+    },
+    {
+      "text": "1300 MEDICINE",
+      "url": "https://1300medicine.com.au/"
+    },
+    {
+      "text": "NPS MedicineWise Medicine Finder",
+      "url": "https://www.nps.org.au/medicine-finder"
+    },
+    {
+      "text": "information about alcohol",
+      "url": "https://adf.org.au/resources/translated-resources/alcohol-awareness-resources/"
+    },
+    {
+      "text": "factsheets about alcohol and benzodiazepines",
+      "url": "https://adf.org.au/resources/indigenous-resources/"
+    },
+    {
+      "text": "(Alcohol and medication interactions)",
+      "url": "https://www.injurymatters.org.au/wp-content/uploads/2023/03/InjuryMatters_AlcoholandMedicationInteractions.pdf"
+    },
+    {
+      "text": "(Prescription meds and alcohol – what are the risks?)",
+      "url": "https://adf.org.au/insights/prescription-meds-alcohol/"
+    },
+    {
+      "text": "(Polydrug use)",
+      "url": "https://adf.org.au/reducing-risk/polydrug-use/"
+    },
+    {
+      "text": "(Alcohol)",
+      "url": "https://ndarc.med.unsw.edu.au/resource/alcohol-1"
+    },
+    {
+      "text": "(Interactions between medicines and alcohol)",
+      "url": "https://www.nps.org.au/consumers/understanding-drug-interactions#interactions-between-medicines-and-alcohol"
+    },
+    {
+      "text": "(Non-Steroidal Anti-Inflammatory Drugs (NSAIDs))",
+      "url": "https://arthritisaustralia.com.au/medication-search/nsaids/"
+    },
+    {
+      "text": "(Dangers of mixing drugs)",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/drugs/dangers+of+mixing+drugs"
+    },
+    {
+      "text": "(Alcohol and other drug use among older Australians)",
+      "url": "https://adf.org.au/insights/aod-older-australians/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/medicines-and-alcohol#backToTop"
+    },
+    {
+      "text": "Medicines and driving",
+      "url": "https://www.healthdirect.gov.au/medicines-and-driving"
+    },
+    {
+      "text": "Medicines during pregnancy",
+      "url": "https://www.healthdirect.gov.au/medicines-during-pregnancy"
+    },
+    {
+      "text": "Medicines for babies and children",
+      "url": "https://www.healthdirect.gov.au/medicines-for-babies-and-children"
+    },
+    {
+      "text": "Medicines safety for older people",
+      "url": "https://www.healthdirect.gov.au/medicines-safety-for-older-people"
+    },
+    {
+      "text": "Out-of-date medicines",
+      "url": "https://www.healthdirect.gov.au/out-of-date-medicines"
+    },
+    {
+      "text": "Questions to ask before taking a medicine",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine"
+    },
+    {
+      "text": "Reporting a problem with a medicine",
+      "url": "https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine"
+    },
+    {
+      "text": "Alcohol Drinking",
+      "url": "https://www.healthdirect.gov.au/search-results/Alcohol Drinking"
+    },
+    {
+      "text": "Medicine regulation",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine regulation"
+    },
+    {
+      "text": "Medicine scheduling",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicine scheduling"
+    },
+    {
+      "text": "Do alcohol and medications mix? - Hello Sunday Morning Many people who drink alcohol also take medications, so it’s important to understand what might happen if they’re taken together, particularly by those who are regular drinkers. In general, there are two main ways alcohol can affect how medications work: As alcohol has a sedating effect on our central nervous system, it can make medicines Read more on Hello Sunday Morning website",
+      "url": "https://hellosundaymorning.org/2024/09/16/do-alcohol-and-medications-mix/"
+    },
+    {
+      "text": "Safer use of prescription medications - Alcohol and Drug Foundation Discover safer prescription medication use, including proper dosing, interaction risks, storage guidelines, and strategies to prevent misuse and dependence. Read more on Alcohol and Drug Foundation website",
+      "url": "https://adf.org.au/insights/safer-prescription-medications/"
+    },
+    {
+      "text": "Managing medicines in alcohol-associated liver disease: a practical review Alcohol-associated liver disease increases the risk of adverse drug reactions. Read more on Australian Prescriber website",
+      "url": "https://australianprescriber.tg.org.au/articles/managing-medicines-in-alcohol-associated-liver-disease-a-practical-review.html"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines and alcohol | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Medicines and alcohol\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Alcohol can interact with many different medicines, including over-the-counter and herbal medicines.\n\n- Drinking alcohol while taking medicine could worsen side effects, make your medicine less effective or cause other symptoms.\n\n- Mixing alcohol and some medicines, such as benzodiazepines and opioids, can potentially lead to overdose and death.\n\n- Combining alcohol with medicines that slow your brain activity can lead to drowsiness and a higher risk of accidents.\n\n- Whenever you take a new medicine, check with your doctor or pharmacist whether it's safe to drink.\n\n## On this page\n\n- How can alcohol affect my medicines?\n\n- Which medicines cause problems with alcohol?\n\n- What are the effects of combining alcohol with medicines?\n\n- Who is at risk?\n\n- Can I drink and take my medicines safely?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## How can alcohol affect my medicines?\n\nAlcohol can interact with many medicines. This can change how both the alcohol and the medicine affect you.\n\nAlcohol and many medicines are processed by your liver. Combining them can alter this process.\n\nAlcohol also depresses your central nervous system (CNS). This means that it slows down your brain activity and the messages your brain sends to your body. When combined with medicines that also depress your CNS, the effect is stronger and can be very dangerous.\n\nAlcohol affects different medicines in different ways. Effects could include:\n\n- worsening side effects of the medicine\n\n- causing a severe toxic reaction\n\n- making the medicine less effective\n\n- serious illness or death\n\nYour body takes many hours to process and remove the alcohol that you drink. Reactions between the alcohol and your medicines can happen at any time when you have alcohol in your body.\n\n## Which medicines cause problems with alcohol?\n\nMany medicines can cause problems with alcohol. This includes prescription medicines as well as over-the-counter and complementary (herbal) medicines.\n\nMedicines that slow your brain activity and are unsafe to take with alcohol include:\n\n- benzodiazepines — including anti-anxiety medicines and sleeping tablets\n\n- opioids such as codeine\n\n- many antidepressants\n\n- some antihistamines such as promethazine and doxylamine — these are often used in over-the-counter medicines for allergies, cold and flu symptoms and motion sickness\n\nOther medicines that interact with alcohol include:\n\n- antipsychotic medicines\n\n- some antibiotics — such as metronidazole, tinidazole, doxycycline, erythromycin, isoniazid and linezolid\n\nSome medicines can be safely taken with an occasional drink but can cause problems if you drink on a regular basis or if you have a large amount of alcohol. These include:\n\n- some blood pressure medicines\n\n- blood-thinning medicines\n\n- some diabetes medicines\n\n- non-steroidal anti-inflammatory medicines (NSAIDs)\n\nAlways check with your doctor before you combine medicines and alcohol.\n\n## What are the effects of combining alcohol with medicines?\n\nThe effects of drinking alcohol while you are taking medicine depend on:\n\n- the type and amount of medicine you are taking\n\n- the amount of alcohol you drink\n\n- your genetics, sex and any health conditions you have\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n### Benzodiazepines and opioids\n\nNever combine benzodiazepines or opioids with alcohol. This can cause overdose and death.\n\nDrinking alcohol when taking benzodiazepines or opioids can lead to:\n\n- drowsiness\n\n- dizziness\n\n- difficulties with movement and coordination\n\n- a high risk of accidents and falls\n\n- slowed breathing and heart rate\n\n- overdose and death\n\nMixing alcohol with these medicines can make it dangerous to:\n\n- drive\n\n- operate machinery\n\n- do physical activity\n\n### Antidepressants\n\nMany antidepressants can cause drowsiness, dizziness and memory problems if combined with alcohol. It could be dangerous for you to drive or operate machinery.\n\nIf you take an antidepressant, ask your doctor about your specific medicine.\n\n### Antihistamines\n\nThere are different types of antihistamines . Some of them can make you drowsy. Combining them with alcohol can lead to:\n\n- becoming more drowsy\n\n- difficulty with movement and coordination\n\n### Antipsychotics\n\nMixing alcohol with antipsychotic medicines can cause:\n\n- worse side effects of your medicine\n\n- problems with concentration and thinking\n\n- seizures\n\n- dangerous changes in your heart rate, breathing, blood pressure and body temperature\n\n- a higher risk of suicide\n\n### Antibiotics\n\nMixing alcohol with metronidazole , tinidazole or isoniazid can lead to unpleasant effects, such as:\n\n- drowsiness and dizziness\n\n- abdominal pain\n\n- nausea\n\n- sweating and hot flushes\n\n- headache\n\n- palpitations\n\nYou may need to wait 2 to 3 days after finishing a course of antibiotics before you drink again.\n\nSome other antibiotics can be affected by alcohol too. If you are taking antibiotics and you plan to drink, always check with your doctor whether it's safe.\n\n### Non-steroidal anti-inflammatory medicines (NSAIDs)\n\nSome pain relief medicines (including aspirin , celecoxib , ibuprofen and naproxen ) can react with alcohol to cause:\n\n- bleeding in your stomach\n\n- stomach ulcers\n\nThe risk depends on many individual factors. Ask your doctor whether it's safe for you to have a drink when you take these medicines.\n\n### Medicines for diabetes\n\nIf you take insulin, metformin or some other medicines for diabetes and you drink alcohol, you could develop low blood sugar . Alcohol can also make it difficult to notice the symptoms of low blood sugar.\n\nIf you have diabetes , ask your doctor if it's safe for you to drink. Never drink alcohol without food.\n\n## Who is at risk?\n\nAnyone could suffer the effects of an interaction between alcohol and medicine, but females and older people are at higher risk.\n\nAs you get older, your body takes longer to process alcohol. You become more sensitive to the effects of alcohol and medicines. Older people are also more likely to take medicines daily. It's important to be careful and talk to your doctor about your risk.\n\n## Can I drink and take my medicines safely?\n\nNever drink alcohol when taking medicine unless you have checked that it is safe.\n\nAlways read your medicine label. This is important for:\n\n- prescription medicines\n\n- over-the-counter medicines\n\n- complementary (herbal) medicines\n\nIf it carries a warning, do not drink alcohol.\n\nIf you're not sure, talk to your doctor or pharmacist .\n\n## Resources and support\n\nYou can find out more about how alcohol will react with your medicine by reading the Consumer Medicine Information (CMI) .\n\nYou can get your medicine's CMI by:\n\n- asking your pharmacist or doctor to print it for you\n\n- calling 1300 MEDICINE on 1300 633 424 from 9am to 5pm (AET), Monday to Friday\n\n- searching in healthdirect's medicines information section\n\n- searching the NPS MedicineWise Medicine Finder\n\nIf you are concerned or unsure about the effects of alcohol with any medicine, talk to your doctor or pharmacist.\n\nIf you are pregnant or breastfeeding and would like to find out more about your medicines call Medicines Line on 1300 633 424.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.\n\n### Do you prefer to read in languages other than English?\n\nFind information about alcohol in many other languages, provided by the Alcohol and Drug Foundation.\n\n### Looking for information for Aboriginal and/or Torres Strait Islander people?\n\nThe Alcohol and Drug Foundation has factsheets about alcohol and benzodiazepines .\n\n#### Source s :\n\nInjury Matters (Alcohol and medication interactions) , Alcohol and Drug Foundation (Prescription meds and alcohol – what are the risks?) , Alcohol and Drug Foundation (Polydrug use) , National Drug & Alcohol Research Centre (Alcohol) , NPS MedicineWise (Interactions between medicines and alcohol) , Arthritis Australia (Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)) , SA Health (Dangers of mixing drugs) , Alcohol and Drug Foundation (Alcohol and other drug use among older Australians)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: September 2024\n\nBack To Top\n\n## Related pages\n\n- Medicines and driving\n\n- Medicines during pregnancy\n\n- Medicines for babies and children\n\n- Medicines safety for older people\n\n- Out-of-date medicines\n\n- Questions to ask before taking a medicine\n\n- Reporting a problem with a medicine\n\n## Search our site for\n\n- Alcohol Drinking\n\n- Medicine regulation\n\n- Medicine scheduling\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Prescription meds and alcohol – what are the risks? - Alcohol and Drug Foundation\n\nLearn about dangerous interactions between prescription medications and alcohol, including serious health risks and safer use guidelines for patients and families.\n\nRead more on Alcohol and Drug Foundation website\n\n### Do alcohol and medications mix? - Hello Sunday Morning\n\nMany people who drink alcohol also take medications, so it’s important to understand what might happen if they’re taken together, particularly by those who are regular drinkers. In general, there are two main ways alcohol can affect how medications work: As alcohol has a sedating effect on our central nervous system, it can make medicines\n\nRead more on Hello Sunday Morning website\n\n### Safer use of prescription medications - Alcohol and Drug Foundation\n\nDiscover safer prescription medication use, including proper dosing, interaction risks, storage guidelines, and strategies to prevent misuse and dependence.\n\nShow more\n\n### Managing medicines in alcohol-associated liver disease: a practical review\n\nAlcohol-associated liver disease increases the risk of adverse drug reactions.\n\nRead more on Australian Prescriber website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines-and-alcohol#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines-and-alcohol#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines-and-alcohol#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines-and-alcohol#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/medicines-and-alcohol\n\n- How can alcohol affect my medicines?: https://www.healthdirect.gov.au/medicines-and-alcohol#affect\n\n- Which medicines cause problems with alcohol?: https://www.healthdirect.gov.au/medicines-and-alcohol#which\n\n- What are the effects of combining alcohol with medicines?: https://www.healthdirect.gov.au/medicines-and-alcohol#combining\n\n- Who is at risk?: https://www.healthdirect.gov.au/medicines-and-alcohol#risk\n\n- Can I drink and take my medicines safely?: https://www.healthdirect.gov.au/medicines-and-alcohol#safely\n\n- Resources and support: https://www.healthdirect.gov.au/medicines-and-alcohol#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/medicines-and-alcohol#searchGeneralResults\n\n- Alcohol: https://www.healthdirect.gov.au/how-alcohol-affects-your-health\n\n- central nervous system: https://www.healthdirect.gov.au/central-nervous-system\n\n- over-the-counter: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- opioids: https://www.healthdirect.gov.au/opioids\n\n- antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- antihistamines: https://www.healthdirect.gov.au/antihistamines\n\n- antipsychotic medicines: https://www.healthdirect.gov.au/antipsychotic-medicines\n\n- antibiotics: https://www.healthdirect.gov.au/antibiotics\n\n- diabetes medicines: https://www.healthdirect.gov.au/diabetes-medicines\n\n- non-steroidal anti-inflammatory medicines (NSAIDs): https://www.healthdirect.gov.au/anti-inflammatory-medicines\n\n- overdose: https://www.healthdirect.gov.au/accidental-overdose-of-medicines\n\n- dizziness: https://www.healthdirect.gov.au/dizziness\n\n- seizures: https://www.healthdirect.gov.au/seizures\n\n- suicide: https://www.healthdirect.gov.au/warning-signs-of-suicide\n\n- metronidazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21161/metronidazole\n\n- isoniazid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21242/isoniazid\n\n- nausea: https://www.healthdirect.gov.au/nausea\n\n- headache: https://www.healthdirect.gov.au/headaches\n\n- palpitations: https://www.healthdirect.gov.au/heart-palpitations\n\n- aspirin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,10203/aspirin\n\n- celecoxib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20479/celecoxib\n\n- ibuprofen: https://www.healthdirect.gov.au/ibuprofen\n\n- naproxen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21089/naproxen\n\n- stomach ulcers: https://www.healthdirect.gov.au/stomach-ulcers\n\n- low blood sugar: https://www.healthdirect.gov.au/hypoglycaemia-low-blood-sugar\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- complementary: https://www.healthdirect.gov.au/complementary-therapy\n\n- pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- Consumer Medicine Information (CMI): https://www.healthdirect.gov.au/how-to-read-cmis\n\n- 1300 MEDICINE: https://1300medicine.com.au/\n\n- NPS MedicineWise Medicine Finder: https://www.nps.org.au/medicine-finder\n\n- information about alcohol: https://adf.org.au/resources/translated-resources/alcohol-awareness-resources/\n\n- factsheets about alcohol and benzodiazepines: https://adf.org.au/resources/indigenous-resources/\n\n- (Alcohol and medication interactions): https://www.injurymatters.org.au/wp-content/uploads/2023/03/InjuryMatters_AlcoholandMedicationInteractions.pdf\n\n- (Prescription meds and alcohol – what are the risks?): https://adf.org.au/insights/prescription-meds-alcohol/\n\n- (Polydrug use): https://adf.org.au/reducing-risk/polydrug-use/\n\n- (Alcohol): https://ndarc.med.unsw.edu.au/resource/alcohol-1\n\n- (Interactions between medicines and alcohol): https://www.nps.org.au/consumers/understanding-drug-interactions#interactions-between-medicines-and-alcohol\n\n- (Non-Steroidal Anti-Inflammatory Drugs (NSAIDs)): https://arthritisaustralia.com.au/medication-search/nsaids/\n\n- (Dangers of mixing drugs): https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/drugs/dangers+of+mixing+drugs\n\n- (Alcohol and other drug use among older Australians): https://adf.org.au/insights/aod-older-australians/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/medicines-and-alcohol#backToTop\n\n- Medicines and driving: https://www.healthdirect.gov.au/medicines-and-driving\n\n- Medicines during pregnancy: https://www.healthdirect.gov.au/medicines-during-pregnancy\n\n- Medicines for babies and children: https://www.healthdirect.gov.au/medicines-for-babies-and-children\n\n- Medicines safety for older people: https://www.healthdirect.gov.au/medicines-safety-for-older-people\n\n- Out-of-date medicines: https://www.healthdirect.gov.au/out-of-date-medicines\n\n- Questions to ask before taking a medicine: https://www.healthdirect.gov.au/questions-to-ask-before-taking-a-medicine\n\n- Reporting a problem with a medicine: https://www.healthdirect.gov.au/reporting-a-problem-with-a-medicine\n\n- Alcohol Drinking: https://www.healthdirect.gov.au/search-results/Alcohol Drinking\n\n- Medicine regulation: https://www.healthdirect.gov.au/search-results/Medicine regulation\n\n- Medicine scheduling: https://www.healthdirect.gov.au/search-results/Medicine scheduling\n\n- Do alcohol and medications mix? - Hello Sunday Morning Many people who drink alcohol also take medications, so it’s important to understand what might happen if they’re taken together, particularly by those who are regular drinkers. In general, there are two main ways alcohol can affect how medications work: As alcohol has a sedating effect on our central nervous system, it can make medicines Read more on Hello Sunday Morning website: https://hellosundaymorning.org/2024/09/16/do-alcohol-and-medications-mix/\n\n- Safer use of prescription medications - Alcohol and Drug Foundation Discover safer prescription medication use, including proper dosing, interaction risks, storage guidelines, and strategies to prevent misuse and dependence. Read more on Alcohol and Drug Foundation website: https://adf.org.au/insights/safer-prescription-medications/\n\n- Managing medicines in alcohol-associated liver disease: a practical review Alcohol-associated liver disease increases the risk of adverse drug reactions. Read more on Australian Prescriber website: https://australianprescriber.tg.org.au/articles/managing-medicines-in-alcohol-associated-liver-disease-a-practical-review.html\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

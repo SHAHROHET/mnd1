@@ -124,6 +124,10 @@ class TestEntitySearch(unittest.TestCase):
         nsw_entities = self.indexer.search_entities("equipment loan service", state="NSW", top_k=5)
         self.assertGreater(len(nsw_entities), 0)
 
+    def test_small_talk_does_not_match_housemate_entities(self):
+        entities = self.indexer.search_entities("whats up mate", state="National", top_k=5)
+        self.assertEqual(entities, [])
+
     def test_entity_search_deduplicates_name_url_pairs(self):
         entities = self.indexer.search_entities("bedside commode chair", state="National", top_k=5)
         keys = [
@@ -323,6 +327,37 @@ class TestGreetings(unittest.TestCase):
         self.assertIn("NSW", content)
         self.assertTrue(len(content) > 20, "Greeting response should not be empty")
         self.assertLess(len(content), 400, "Greeting response should be short")
+
+    def test_whats_up_mate_is_short_greeting_without_entities(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import app
+        from fastapi.testclient import TestClient
+
+        client = TestClient(app)
+        response = client.post("/api/chat", json={
+            "message": "whats up mate'",
+            "state": "NSW"
+        })
+        self.assertEqual(response.status_code, 200)
+
+        content = ""
+        entity_events = []
+        for chunk in response.iter_lines():
+            chunk_str = chunk.decode("utf-8") if isinstance(chunk, bytes) else chunk
+            if chunk_str.startswith("data: "):
+                data_str = chunk_str[6:]
+                if data_str.strip() == "[DONE]":
+                    break
+                try:
+                    parsed = json.loads(data_str)
+                    content += parsed.get("content", "")
+                    if "entities" in parsed:
+                        entity_events.append(parsed["entities"])
+                except:
+                    pass
+
+        self.assertEqual(entity_events, [])
+        self.assertLess(len(content), 400, "Small-talk response should stay short")
 
 
 if __name__ == "__main__":

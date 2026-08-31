@@ -1,0 +1,1663 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-n-excludenonartg",
+  "title": "Medicines starting with \"N\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 50159,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Nab-Paclitaxel (Accord)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651361000036104/nab-paclitaxel-accord"
+    },
+    {
+      "text": "Nab-Paclitaxel (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933280051000036100/nab-paclitaxel-juno"
+    },
+    {
+      "text": "Nageze Osteo Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1469241000168103/nageze-osteo-plus"
+    },
+    {
+      "text": "Naglazyme",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927798011000036104/naglazyme"
+    },
+    {
+      "text": "Naloxone (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,893621000168100/naloxone-juno"
+    },
+    {
+      "text": "Naloxone (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1495501000168103/naloxone-sxp"
+    },
+    {
+      "text": "Naloxone Hydrochloride (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35904011000036101/naloxone-hydrochloride-dbl"
+    },
+    {
+      "text": "Naloxone Neonatal (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1699621000168107/naloxone-neonatal-juno"
+    },
+    {
+      "text": "Naltrexone (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1693941000168107/naltrexone-arx"
+    },
+    {
+      "text": "Naltrexone (Astron)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1734901000168108/naltrexone-astron"
+    },
+    {
+      "text": "Naltrexone (Intas)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1734791000168104/naltrexone-intas"
+    },
+    {
+      "text": "Naltrexone Hydrochloride (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920920011000036105/naltrexone-hydrochloride-generic-health"
+    },
+    {
+      "text": "Naltrexone Hydrochloride (GH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,112671000036105/naltrexone-hydrochloride-gh"
+    },
+    {
+      "text": "Naltrexone Hydrochloride (QP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32183011000036103/naltrexone-hydrochloride-qp"
+    },
+    {
+      "text": "Nanopaclicip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1557801000168109/nanopaclicip"
+    },
+    {
+      "text": "Naphcon Forte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16461000168101/naphcon-forte"
+    },
+    {
+      "text": "Naphcon-A 0.025% / 0.3%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56491000168102/naphcon-a-0.025---0.3"
+    },
+    {
+      "text": "Nappy Rash Soothing and Healing (David Hosking's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,18891000168106/nappy-rash-soothing-and-healing-david-hosking's"
+    },
+    {
+      "text": "Naprogesic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53327011000036106/naprogesic"
+    },
+    {
+      "text": "Naprosyn",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15611000168108/naprosyn"
+    },
+    {
+      "text": "Naprosyn SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39591000168109/naprosyn-sr"
+    },
+    {
+      "text": "Naprosyn SR 1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41011000168106/naprosyn-sr-1000"
+    },
+    {
+      "text": "Naproxen (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,77511000036100/naproxen-phebra"
+    },
+    {
+      "text": "Naproxen Sodium (Soul Pattinson)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53376011000036109/naproxen-sodium-soul-pattinson"
+    },
+    {
+      "text": "Naramig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3814011000036100/naramig"
+    },
+    {
+      "text": "Narcan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,674451000168107/narcan"
+    },
+    {
+      "text": "Narcan Neonatal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927781000168104/narcan-neonatal"
+    },
+    {
+      "text": "Nardil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3801011000036100/nardil"
+    },
+    {
+      "text": "Naropin 0.2%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,711291000168100/naropin-0.2"
+    },
+    {
+      "text": "Naropin 0.2% with Fentanyl 200 microgram/100 mL",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52011000168100/naropin-0.2-with-fentanyl-200-microgram-100-ml"
+    },
+    {
+      "text": "Naropin 0.2% with Fentanyl 400 microgram/100 mL",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36801000168105/naropin-0.2-with-fentanyl-400-microgram-100-ml"
+    },
+    {
+      "text": "Naropin 0.2% with Fentanyl 400 microgram/200 mL",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44271000168105/naropin-0.2-with-fentanyl-400-microgram-200-ml"
+    },
+    {
+      "text": "Naropin 0.2% with Fentanyl 800 microgram/200 mL",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,57031000168107/naropin-0.2-with-fentanyl-800-microgram-200-ml"
+    },
+    {
+      "text": "Naropin 0.5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1013221000168100/naropin-0.5"
+    },
+    {
+      "text": "Naropin 0.75%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,711491000168101/naropin-0.75"
+    },
+    {
+      "text": "Naropin 1%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,711391000168105/naropin-1"
+    },
+    {
+      "text": "Nasal Decongestant (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1265261000168102/nasal-decongestant-pharmacy-action"
+    },
+    {
+      "text": "Nasalate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65127011000036105/nasalate"
+    },
+    {
+      "text": "Nasonex Allergy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,859031000168103/nasonex-allergy"
+    },
+    {
+      "text": "Nasonex Aqueous",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3481000168101/nasonex-aqueous"
+    },
+    {
+      "text": "Nasonex Junior",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1584931000168106/nasonex-junior"
+    },
+    {
+      "text": "Natalis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1590041000168109/natalis"
+    },
+    {
+      "text": "Natrilix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,50211000168107/natrilix"
+    },
+    {
+      "text": "Natrilix SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47361000168100/natrilix-sr"
+    },
+    {
+      "text": "Natulan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35999011000036102/natulan"
+    },
+    {
+      "text": "Natural Children's Cough Mixture (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1585601000168107/natural-children's-cough-mixture-chemists'-own"
+    },
+    {
+      "text": "Natural Laxative with Softener (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80142011000036103/natural-laxative-with-softener-chemists'-own"
+    },
+    {
+      "text": "Nausea Relief (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774851000036100/nausea-relief-apohealth"
+    },
+    {
+      "text": "Nausetil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922930011000036103/nausetil"
+    },
+    {
+      "text": "Nausicalm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,819761000168104/nausicalm"
+    },
+    {
+      "text": "Nausrelief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,795421000168101/nausrelief"
+    },
+    {
+      "text": "Nebaloc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,642486981000036102/nebaloc"
+    },
+    {
+      "text": "Nebcin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39703011000036101/nebcin"
+    },
+    {
+      "text": "Nebilet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83226011000036104/nebilet"
+    },
+    {
+      "text": "Nebilet Composite Starter Titration Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1549431000168105/nebilet-composite-starter-titration-pack"
+    },
+    {
+      "text": "Nebivolol (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1168161000168104/nebivolol-apo"
+    },
+    {
+      "text": "Nebivolol (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1655911000168104/nebivolol-lupin"
+    },
+    {
+      "text": "Nebivolol (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1490051000168102/nebivolol-sandoz"
+    },
+    {
+      "text": "Nebivolol (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1713391000168106/nebivolol-viatris"
+    },
+    {
+      "text": "Nebivolol (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933584981000036109/nebivolol-wgr"
+    },
+    {
+      "text": "Neffy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933564201000036109/neffy"
+    },
+    {
+      "text": "NeisVac-C",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73692011000036108/neisvac-c"
+    },
+    {
+      "text": "Nelarabine (Reach)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1758141000168101/nelarabine-reach"
+    },
+    {
+      "text": "Nemluvio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506291000036109/nemluvio"
+    },
+    {
+      "text": "Neo-B12",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3673011000036102/neo-b12"
+    },
+    {
+      "text": "Neo-Mercazole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3184011000036108/neo-mercazole"
+    },
+    {
+      "text": "Neo-Synephrine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35927011000036101/neo-synephrine"
+    },
+    {
+      "text": "Neodol Forte 500/30",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1048931000168108/neodol-forte-500-30"
+    },
+    {
+      "text": "Neoral",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4180011000036101/neoral"
+    },
+    {
+      "text": "Neorecormon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33291000168109/neorecormon"
+    },
+    {
+      "text": "Neostigmine (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,777061000168102/neostigmine-juno"
+    },
+    {
+      "text": "Neotigason",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2993011000036100/neotigason"
+    },
+    {
+      "text": "Nepexto",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506951000036105/nepexto"
+    },
+    {
+      "text": "Nepiten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1532791000168105/nepiten"
+    },
+    {
+      "text": "Nerlynx",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1341981000168103/nerlynx"
+    },
+    {
+      "text": "Nervoderm",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1084741000168103/nervoderm"
+    },
+    {
+      "text": "Nesina",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,147871000036103/nesina"
+    },
+    {
+      "text": "Nesina Met 12.5 mg/1000 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,10781000168101/nesina-met-12.5-mg-1000-mg"
+    },
+    {
+      "text": "Nesina Met 12.5 mg/500 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31121000168104/nesina-met-12.5-mg-500-mg"
+    },
+    {
+      "text": "Nesina Met 12.5 mg/850 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62751000168108/nesina-met-12.5-mg-850-mg"
+    },
+    {
+      "text": "Neulactil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3728011000036104/neulactil"
+    },
+    {
+      "text": "Neupedix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705141000036102/neupedix"
+    },
+    {
+      "text": "Neupro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39766011000036106/neupro"
+    },
+    {
+      "text": "Neurica",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1374091000168100/neurica"
+    },
+    {
+      "text": "Neuroccord",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1025661000168103/neuroccord"
+    },
+    {
+      "text": "Neurolite",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193101000036107/neurolite"
+    },
+    {
+      "text": "Neurontin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4344011000036106/neurontin"
+    },
+    {
+      "text": "Neutrafluor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53204011000036103/neutrafluor"
+    },
+    {
+      "text": "Neutrafluor 5000 Gel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1082151000168105/neutrafluor-5000-gel"
+    },
+    {
+      "text": "Neutrafluor 5000 Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3561000168106/neutrafluor-5000-plus"
+    },
+    {
+      "text": "Neutrafluor 5000 Sensitive",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,836511000168105/neutrafluor-5000-sensitive"
+    },
+    {
+      "text": "Neutrafluor-220",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,27641000168106/neutrafluor-220"
+    },
+    {
+      "text": "NeutraLice Natural Oils",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,103862681000036102/neutralice-natural-oils"
+    },
+    {
+      "text": "Neutrogena T/Gel Therapeutic Shampoo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65153011000036100/neutrogena-t-gel-therapeutic-shampoo"
+    },
+    {
+      "text": "Nevira",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537471000036102/nevira"
+    },
+    {
+      "text": "Nevirapine (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,77771000036102/nevirapine-alphapharm"
+    },
+    {
+      "text": "Nevirapine (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1002941000168106/nevirapine-apo"
+    },
+    {
+      "text": "Nevirapine (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1658361000168108/nevirapine-viatris"
+    },
+    {
+      "text": "Nexavar",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39561011000036102/nexavar"
+    },
+    {
+      "text": "Nexcid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1375291000168108/nexcid"
+    },
+    {
+      "text": "Nexium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2929011000036108/nexium"
+    },
+    {
+      "text": "Nexium 24HR Once Daily Dosing",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1045541000168100/nexium-24hr-once-daily-dosing"
+    },
+    {
+      "text": "Nexium Hp7",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2941011000036107/nexium-hp7"
+    },
+    {
+      "text": "Nexium IV",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58951000168101/nexium-iv"
+    },
+    {
+      "text": "Nexobrid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600621000036101/nexobrid"
+    },
+    {
+      "text": "Nexole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704021000168106/nexole"
+    },
+    {
+      "text": "Nextstellis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1653531000168102/nextstellis"
+    },
+    {
+      "text": "Nexviazyme",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1632931000168103/nexviazyme"
+    },
+    {
+      "text": "Ngenla",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1621331000168105/ngenla"
+    },
+    {
+      "text": "Nicabate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28411000168106/nicabate"
+    },
+    {
+      "text": "Nicabate Clear",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19371000168107/nicabate-clear"
+    },
+    {
+      "text": "Nicabate Mini",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599351000036103/nicabate-mini"
+    },
+    {
+      "text": "Nicabate Minis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31811000168102/nicabate-minis"
+    },
+    {
+      "text": "Nicabate P",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,9751000168104/nicabate-p"
+    },
+    {
+      "text": "Nicaway",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1126801000168100/nicaway"
+    },
+    {
+      "text": "Nicorandil (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1385521000168104/nicorandil-apo"
+    },
+    {
+      "text": "Nicorette",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15261000168108/nicorette"
+    },
+    {
+      "text": "Nicorette Inhalator",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24091000168102/nicorette-inhalator"
+    },
+    {
+      "text": "Nicorette Invisipatch",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,921000168109/nicorette-invisipatch"
+    },
+    {
+      "text": "Nicorette Microtab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,13101000168102/nicorette-microtab"
+    },
+    {
+      "text": "Nicorette Quickmist",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39021000168101/nicorette-quickmist"
+    },
+    {
+      "text": "Nicotinell",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4731000168109/nicotinell"
+    },
+    {
+      "text": "Nicotinell Step-1",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,29341000168106/nicotinell-step-1"
+    },
+    {
+      "text": "Nicotinell Step-2",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,46531000168100/nicotinell-step-2"
+    },
+    {
+      "text": "Nicotinell Step-3",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51741000168105/nicotinell-step-3"
+    },
+    {
+      "text": "Nicotinic Acid (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53144011000036105/nicotinic-acid-alphapharm"
+    },
+    {
+      "text": "Nicotinic Acid (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703351000036103/nicotinic-acid-viatris"
+    },
+    {
+      "text": "Nidem",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3835011000036109/nidem"
+    },
+    {
+      "text": "Nifedipine (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3402011000036104/nifedipine-chemmart"
+    },
+    {
+      "text": "Nifedipine (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3741011000036106/nifedipine-genrx"
+    },
+    {
+      "text": "Nifedipine XR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,501000168108/nifedipine-xr-apo"
+    },
+    {
+      "text": "Night Pain Relief (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1580361000168106/night-pain-relief-apohealth"
+    },
+    {
+      "text": "Night Pain Relief (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1216591000168102/night-pain-relief-chemists'-own"
+    },
+    {
+      "text": "Night Pain Relief (Pharmacy Choice)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1188221000168102/night-pain-relief-pharmacy-choice"
+    },
+    {
+      "text": "Night Time Cold and Flu Relief (TerryWhite Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1166571000168102/night-time-cold-and-flu-relief-terrywhite-chemmart"
+    },
+    {
+      "text": "Niktimvo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705311000036101/niktimvo"
+    },
+    {
+      "text": "Nilotinib (MSN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736111000036102/nilotinib-msn"
+    },
+    {
+      "text": "Nilotinib (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736711000036101/nilotinib-viatris"
+    },
+    {
+      "text": "Nilstat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32391000168106/nilstat"
+    },
+    {
+      "text": "Nilstat Cream Pessary",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61951000168104/nilstat-cream-pessary"
+    },
+    {
+      "text": "Nilstat Oral Drops",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62301000168108/nilstat-oral-drops"
+    },
+    {
+      "text": "Nimbex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39720011000036100/nimbex"
+    },
+    {
+      "text": "Nimenrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,703601000168108/nimenrix"
+    },
+    {
+      "text": "Nimodipine (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1632191000168102/nimodipine-juno"
+    },
+    {
+      "text": "Nimotop",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39664011000036105/nimotop"
+    },
+    {
+      "text": "Ninlaro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,902241000168107/ninlaro"
+    },
+    {
+      "text": "Nintedanib (Cip)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536661000036106/nintedanib-cip"
+    },
+    {
+      "text": "Nintedanib (Cipla)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536671000036103/nintedanib-cipla"
+    },
+    {
+      "text": "Nitrodantin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1250351000168106/nitrodantin"
+    },
+    {
+      "text": "Nitrofurantoin (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1369161000168100/nitrofurantoin-apo"
+    },
+    {
+      "text": "Nitrofurantoin (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1599821000168100/nitrofurantoin-arx"
+    },
+    {
+      "text": "Nitrofurantoin (B&B)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1250481000168107/nitrofurantoin-b&b"
+    },
+    {
+      "text": "Nitrofurantoin (BNM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1591071000168106/nitrofurantoin-bnm"
+    },
+    {
+      "text": "Nitrofurantoin (MLabs)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1250421000168108/nitrofurantoin-mlabs"
+    },
+    {
+      "text": "Nitrolingual",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3285011000036105/nitrolingual"
+    },
+    {
+      "text": "Nitroprusside (EMC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1556581000168101/nitroprusside-emc"
+    },
+    {
+      "text": "Nitroprusside (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1730971000168108/nitroprusside-sxp"
+    },
+    {
+      "text": "Nitrostat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,871451000168101/nitrostat"
+    },
+    {
+      "text": "Nitrous Oxide Medical (BOC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1380751000168107/nitrous-oxide-medical-boc"
+    },
+    {
+      "text": "Nivestim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927778011000036105/nivestim"
+    },
+    {
+      "text": "Nizac",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4551000168106/nizac"
+    },
+    {
+      "text": "Nizatidine (RJIC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1736851000168105/nizatidine-rjic"
+    },
+    {
+      "text": "Nizoral",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4145011000036104/nizoral"
+    },
+    {
+      "text": "No-Doz Awakeners",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24711000168109/no-doz-awakeners"
+    },
+    {
+      "text": "No-Doz Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1130611000168103/no-doz-plus"
+    },
+    {
+      "text": "Nocdurna",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1218401000168106/nocdurna"
+    },
+    {
+      "text": "Nolvadex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,61371000168107/nolvadex"
+    },
+    {
+      "text": "Nolvadex-D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55911000168107/nolvadex-d"
+    },
+    {
+      "text": "Noradrenaline (BNM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438721000168102/noradrenaline-bnm"
+    },
+    {
+      "text": "Noradrenaline (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1512121000168102/noradrenaline-juno"
+    },
+    {
+      "text": "Noradrenaline (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506621000036109/noradrenaline-kabi"
+    },
+    {
+      "text": "Noradrenaline (Medicianz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703651000036109/noradrenaline-medicianz"
+    },
+    {
+      "text": "Noradrenaline (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1696311000168102/noradrenaline-medsurge"
+    },
+    {
+      "text": "Noradrenaline (MYX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1304171000168109/noradrenaline-myx"
+    },
+    {
+      "text": "Noralin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1512351000168108/noralin"
+    },
+    {
+      "text": "Nordip",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83546011000036106/nordip"
+    },
+    {
+      "text": "Norditropin Flexpro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17991000168100/norditropin-flexpro"
+    },
+    {
+      "text": "Norflex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35941011000036107/norflex"
+    },
+    {
+      "text": "Norfloxacin (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,963351000168106/norfloxacin-apo"
+    },
+    {
+      "text": "Norfloxacin (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2937011000036103/norfloxacin-chemmart"
+    },
+    {
+      "text": "Norfloxacin (GenRx)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3282011000036102/norfloxacin-genrx"
+    },
+    {
+      "text": "Norfloxacin (Terry White Chemists)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3997011000036103/norfloxacin-terry-white-chemists"
+    },
+    {
+      "text": "Norgesic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35879011000036104/norgesic"
+    },
+    {
+      "text": "Noriday 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700013841000036109/noriday-28-day"
+    },
+    {
+      "text": "Norimin 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700023331000036102/norimin-28-day"
+    },
+    {
+      "text": "Norimin-1 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700023341000036107/norimin-1-28-day"
+    },
+    {
+      "text": "Norinyl-1 28 Day",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,700015261000036108/norinyl-1-28-day"
+    },
+    {
+      "text": "Norlevo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53473011000036105/norlevo"
+    },
+    {
+      "text": "Norlevo-1",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48941000168101/norlevo-1"
+    },
+    {
+      "text": "Normal Immunoglobulin-VF (CSL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15111000168100/normal-immunoglobulin-vf-csl"
+    },
+    {
+      "text": "Normison",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2981011000036100/normison"
+    },
+    {
+      "text": "Norspan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4363011000036103/norspan"
+    },
+    {
+      "text": "Nortim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1131491000168103/nortim"
+    },
+    {
+      "text": "Norvasc",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4216011000036104/norvasc"
+    },
+    {
+      "text": "Norvir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4168011000036101/norvir"
+    },
+    {
+      "text": "Noten",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4422011000036109/noten"
+    },
+    {
+      "text": "Novabet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933703661000036107/novabet"
+    },
+    {
+      "text": "Novadac Once Daily",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933704711000036101/novadac-once-daily"
+    },
+    {
+      "text": "Novadin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1732161000168103/novadin"
+    },
+    {
+      "text": "Novalant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736191000036107/novalant"
+    },
+    {
+      "text": "Novanex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,701013101000036107/novanex"
+    },
+    {
+      "text": "Novasone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4448011000036109/novasone"
+    },
+    {
+      "text": "Novella-1",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537321000036105/novella-1"
+    },
+    {
+      "text": "Novicrit",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,922917011000036109/novicrit"
+    },
+    {
+      "text": "Novistig",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1438531000168108/novistig"
+    },
+    {
+      "text": "Novomix 30 Flexpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2541000168100/novomix-30-flexpen"
+    },
+    {
+      "text": "Novomix 30 Penfill",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22481000168102/novomix-30-penfill"
+    },
+    {
+      "text": "Novomix 50 Flexpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1249381000168106/novomix-50-flexpen"
+    },
+    {
+      "text": "Novorapid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2914011000036104/novorapid"
+    },
+    {
+      "text": "Novorapid Flexpen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47811000168105/novorapid-flexpen"
+    },
+    {
+      "text": "Novorapid Penfill",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35151000168105/novorapid-penfill"
+    },
+    {
+      "text": "Novoseven RT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,12861000168102/novoseven-rt"
+    },
+    {
+      "text": "Novothirteen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1027881000168100/novothirteen"
+    },
+    {
+      "text": "Noxafil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39709011000036103/noxafil"
+    },
+    {
+      "text": "Noxicid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,704221000168103/noxicid"
+    },
+    {
+      "text": "Noxicid Caps Heartburn Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1542761000168102/noxicid-caps-heartburn-relief"
+    },
+    {
+      "text": "Nplate",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72909011000036107/nplate"
+    },
+    {
+      "text": "Nu-Lax Natural Fruit Laxative",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1106861000168106/nu-lax-natural-fruit-laxative"
+    },
+    {
+      "text": "Nubeqa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1493211000168103/nubeqa"
+    },
+    {
+      "text": "Nucala",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,767581000168106/nucala"
+    },
+    {
+      "text": "Nuceiva",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1668331000168108/nuceiva"
+    },
+    {
+      "text": "Nucolox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4222011000036108/nucolox"
+    },
+    {
+      "text": "Nuelin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,62521000168108/nuelin"
+    },
+    {
+      "text": "Nuelin SR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,31931000168103/nuelin-sr"
+    },
+    {
+      "text": "Nulojix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,699861000168101/nulojix"
+    },
+    {
+      "text": "Numit 5%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1219031000168103/numit-5"
+    },
+    {
+      "text": "Nupentin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1181000168106/nupentin"
+    },
+    {
+      "text": "Nupentin Tab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,49501000168102/nupentin-tab"
+    },
+    {
+      "text": "Nurocain 2% with Adrenaline 1 in 100 000 Dental",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,45441000168103/nurocain-2-with-adrenaline-1-in-100-000-dental"
+    },
+    {
+      "text": "Nurofen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5641000168109/nurofen"
+    },
+    {
+      "text": "Nurofen Caplet",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17551000168104/nurofen-caplet"
+    },
+    {
+      "text": "Nurofen Cold and Flu PE",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1205301000168106/nurofen-cold-and-flu-pe"
+    },
+    {
+      "text": "Nurofen Cold and Flu with Decongestant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,49471000168108/nurofen-cold-and-flu-with-decongestant"
+    },
+    {
+      "text": "Nurofen Double Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,17911000168109/nurofen-double-strength"
+    },
+    {
+      "text": "Nurofen for Children 3 Months to 5 Years",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1435901000168100/nurofen-for-children-3-months-to-5-years"
+    },
+    {
+      "text": "Nurofen for Children 5 to 12 Years",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6031000168103/nurofen-for-children-5-to-12-years"
+    },
+    {
+      "text": "Nurofen for Children 7+ Years",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1435981000168108/nurofen-for-children-7+-years"
+    },
+    {
+      "text": "Nurofen for Children Baby 3+ Months",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,20021000168109/nurofen-for-children-baby-3+-months"
+    },
+    {
+      "text": "Nurofen Meltlets",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1783481000168102/nurofen-meltlets"
+    },
+    {
+      "text": "Nurofen Migraine Pain",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8791000168103/nurofen-migraine-pain"
+    },
+    {
+      "text": "Nurofen Plus",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28771000168109/nurofen-plus"
+    },
+    {
+      "text": "Nurofen Quickzorb",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1431441000168107/nurofen-quickzorb"
+    },
+    {
+      "text": "Nurofen Zavance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,5481000168102/nurofen-zavance"
+    },
+    {
+      "text": "Nurofen Zavance Liquid Capsules",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1251000168106/nurofen-zavance-liquid-capsules"
+    },
+    {
+      "text": "Nuromol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,812781000168101/nuromol"
+    },
+    {
+      "text": "Nurtec ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1675241000168108/nurtec-odt"
+    },
+    {
+      "text": "Nuvaring",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39600011000036104/nuvaring"
+    },
+    {
+      "text": "Nuvaxovid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1595571000168100/nuvaxovid"
+    },
+    {
+      "text": "Nuvigil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,802051000168108/nuvigil"
+    },
+    {
+      "text": "Nystatin (Pharmacy Action)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,936931000168103/nystatin-pharmacy-action"
+    },
+    {
+      "text": "Nystatin (TerryWhite Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1462691000168104/nystatin-terrywhite-chemmart"
+    },
+    {
+      "text": "Nystatin Drops (Omegapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58271000168101/nystatin-drops-omegapharm"
+    },
+    {
+      "text": "Nystatin Oral Drops (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1575111000168107/nystatin-oral-drops-chemists'-own"
+    },
+    {
+      "text": "Nyxoid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1227481000168105/nyxoid"
+    },
+    {
+      "text": "Nabiximols",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24117/nabiximols"
+    },
+    {
+      "text": "Nadroparin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23791/nadroparin"
+    },
+    {
+      "text": "Nafarelin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21100/nafarelin"
+    },
+    {
+      "text": "Naloxegol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24054/naloxegol"
+    },
+    {
+      "text": "Naloxone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21099/naloxone"
+    },
+    {
+      "text": "Naltrexone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21091/naltrexone"
+    },
+    {
+      "text": "Naltrexone + bupropion",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24478/naltrexone-+-bupropion"
+    },
+    {
+      "text": "nandrolone decanoate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22709/nandrolone-decanoate"
+    },
+    {
+      "text": "nanoparticle albumin-bound paclitaxel",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23694/nanoparticle-albumin-bound-paclitaxel"
+    },
+    {
+      "text": "naphazoline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21601/naphazoline"
+    },
+    {
+      "text": "naphazoline + antazoline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23377/naphazoline-+-antazoline"
+    },
+    {
+      "text": "naphazoline + pheniramine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23378/naphazoline-+-pheniramine"
+    },
+    {
+      "text": "Naproxen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21089/naproxen"
+    },
+    {
+      "text": "Naratriptan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21087/naratriptan"
+    },
+    {
+      "text": "Natalizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21085/natalizumab"
+    },
+    {
+      "text": "Nebivolol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21082/nebivolol"
+    },
+    {
+      "text": "Nelarabine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50060/nelarabine"
+    },
+    {
+      "text": "Nemolizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50586/nemolizumab"
+    },
+    {
+      "text": "neostigmine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21079/neostigmine"
+    },
+    {
+      "text": "Neratinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24902/neratinib"
+    },
+    {
+      "text": "netupitant + palonosetron",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23785/netupitant-+-palonosetron"
+    },
+    {
+      "text": "nevirapine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21075/nevirapine"
+    },
+    {
+      "text": "Nicorandil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21074/nicorandil"
+    },
+    {
+      "text": "nicotinamide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24453/nicotinamide"
+    },
+    {
+      "text": "Nicotine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11994/nicotine"
+    },
+    {
+      "text": "nicotinic acid",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22718/nicotinic-acid"
+    },
+    {
+      "text": "Nifedipine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21073/nifedipine"
+    },
+    {
+      "text": "nilotinib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21072/nilotinib"
+    },
+    {
+      "text": "Nimodipine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21070/nimodipine"
+    },
+    {
+      "text": "Nintedanib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23684/nintedanib"
+    },
+    {
+      "text": "Niraparib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26574/niraparib"
+    },
+    {
+      "text": "Nirmatrelvir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27044/nirmatrelvir"
+    },
+    {
+      "text": "nirsevimab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27180/nirsevimab"
+    },
+    {
+      "text": "Nitisinone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21068/nitisinone"
+    },
+    {
+      "text": "Nitrazepam",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21067/nitrazepam"
+    },
+    {
+      "text": "nitric oxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21066/nitric-oxide"
+    },
+    {
+      "text": "Nitrofurantoin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21064/nitrofurantoin"
+    },
+    {
+      "text": "Nitroprusside",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22719/nitroprusside"
+    },
+    {
+      "text": "nitrous oxide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24927/nitrous-oxide"
+    },
+    {
+      "text": "nitrous oxide + oxygen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23380/nitrous-oxide-+-oxygen"
+    },
+    {
+      "text": "Nivolumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23788/nivolumab"
+    },
+    {
+      "text": "Nivolumab + relatlimab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27150/nivolumab-+-relatlimab"
+    },
+    {
+      "text": "Nizatidine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21055/nizatidine"
+    },
+    {
+      "text": "Nomegestrol + estradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23381/nomegestrol-+-estradiol"
+    },
+    {
+      "text": "Nonacog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21098/nonacog-alfa"
+    },
+    {
+      "text": "nonacog beta pegol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25042/nonacog-beta-pegol"
+    },
+    {
+      "text": "nonacog gamma",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23685/nonacog-gamma"
+    },
+    {
+      "text": "noradrenaline (norepinephrine)",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21053/noradrenaline-norepinephrine"
+    },
+    {
+      "text": "Norethisterone",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21039/norethisterone"
+    },
+    {
+      "text": "norethisterone + ethinylestradiol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23294/norethisterone-+-ethinylestradiol"
+    },
+    {
+      "text": "norethisterone + mestranol",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23373/norethisterone-+-mestranol"
+    },
+    {
+      "text": "Norfloxacin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21051/norfloxacin"
+    },
+    {
+      "text": "normal immunoglobulin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22727/normal-immunoglobulin"
+    },
+    {
+      "text": "Nortriptyline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21050/nortriptyline"
+    },
+    {
+      "text": "Nusinersen",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24261/nusinersen"
+    },
+    {
+      "text": "Nystatin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21043/nystatin"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"N\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"N\"\n\n## Brand names\n\n- Nab-Paclitaxel (Accord)\n\n- Nab-Paclitaxel (Juno)\n\n- Nageze Osteo Plus\n\n- Naglazyme\n\n- Naloxone (Juno)\n\n- Naloxone (SXP)\n\n- Naloxone Hydrochloride (DBL)\n\n- Naloxone Neonatal (Juno)\n\n- Naltrexone (ARX)\n\n- Naltrexone (Astron)\n\n- Naltrexone (Intas)\n\n- Naltrexone Hydrochloride (Generic Health)\n\n- Naltrexone Hydrochloride (GH)\n\n- Naltrexone Hydrochloride (QP)\n\n- Nanopaclicip\n\n- Naphcon Forte\n\n- Naphcon-A 0.025% / 0.3%\n\n- Nappy Rash Soothing and Healing (David Hosking's)\n\n- Naprogesic\n\n- Naprosyn\n\n- Naprosyn SR\n\n- Naprosyn SR 1000\n\n- Naproxen (Phebra)\n\n- Naproxen Sodium (Soul Pattinson)\n\n- Naramig\n\n- Narcan\n\n- Narcan Neonatal\n\n- Nardil\n\n- Naropin 0.2%\n\n- Naropin 0.2% with Fentanyl 200 microgram/100 mL\n\n- Naropin 0.2% with Fentanyl 400 microgram/100 mL\n\n- Naropin 0.2% with Fentanyl 400 microgram/200 mL\n\n- Naropin 0.2% with Fentanyl 800 microgram/200 mL\n\n- Naropin 0.5%\n\n- Naropin 0.75%\n\n- Naropin 1%\n\n- Nasal Decongestant (Pharmacy Action)\n\n- Nasalate\n\n- Nasonex Allergy\n\n- Nasonex Aqueous\n\n- Nasonex Junior\n\n- Natalis\n\n- Natrilix\n\n- Natrilix SR\n\n- Natulan\n\n- Natural Children's Cough Mixture (Chemists' Own)\n\n- Natural Laxative with Softener (Chemists' Own)\n\n- Nausea Relief (Apohealth)\n\n- Nausetil\n\n- Nausicalm\n\n- Nausrelief\n\n- Nebaloc\n\n- Nebcin\n\n- Nebilet\n\n- Nebilet Composite Starter Titration Pack\n\n- Nebivolol (Apo)\n\n- Nebivolol (Lupin)\n\n- Nebivolol (Sandoz)\n\n- Nebivolol (Viatris)\n\n- Nebivolol (WGR)\n\n- Neffy\n\n- NeisVac-C\n\n- Nelarabine (Reach)\n\n- Nemluvio\n\n- Neo-B12\n\n- Neo-Mercazole\n\n- Neo-Synephrine\n\n- Neodol Forte 500/30\n\n- Neoral\n\n- Neorecormon\n\n- Neostigmine (Juno)\n\n- Neotigason\n\n- Nepexto\n\n- Nepiten\n\n- Nerlynx\n\n- Nervoderm\n\n- Nesina\n\n- Nesina Met 12.5 mg/1000 mg\n\n- Nesina Met 12.5 mg/500 mg\n\n- Nesina Met 12.5 mg/850 mg\n\n- Neulactil\n\n- Neupedix\n\n- Neupro\n\n- Neurica\n\n- Neuroccord\n\n- Neurolite\n\n- Neurontin\n\n- Neutrafluor\n\n- Neutrafluor 5000 Gel\n\n- Neutrafluor 5000 Plus\n\n- Neutrafluor 5000 Sensitive\n\n- Neutrafluor-220\n\n- NeutraLice Natural Oils\n\n- Neutrogena T/Gel Therapeutic Shampoo\n\n- Nevira\n\n- Nevirapine (Alphapharm)\n\n- Nevirapine (Apo)\n\n- Nevirapine (Viatris)\n\n- Nexavar\n\n- Nexcid\n\n- Nexium\n\n- Nexium 24HR Once Daily Dosing\n\n- Nexium Hp7\n\n- Nexium IV\n\n- Nexobrid\n\n- Nexole\n\n- Nextstellis\n\n- Nexviazyme\n\n- Ngenla\n\n- Nicabate\n\n- Nicabate Clear\n\n- Nicabate Mini\n\n- Nicabate Minis\n\n- Nicabate P\n\n- Nicaway\n\n- Nicorandil (Apo)\n\n- Nicorette\n\n- Nicorette Inhalator\n\n- Nicorette Invisipatch\n\n- Nicorette Microtab\n\n- Nicorette Quickmist\n\n- Nicotinell\n\n- Nicotinell Step-1\n\n- Nicotinell Step-2\n\n- Nicotinell Step-3\n\n- Nicotinic Acid (Alphapharm)\n\n- Nicotinic Acid (Viatris)\n\n- Nidem\n\n- Nifedipine (Chemmart)\n\n- Nifedipine (GenRx)\n\n- Nifedipine XR (Apo)\n\n- Night Pain Relief (Apohealth)\n\n- Night Pain Relief (Chemists' Own)\n\n- Night Pain Relief (Pharmacy Choice)\n\n- Night Time Cold and Flu Relief (TerryWhite Chemmart)\n\n- Niktimvo\n\n- Nilotinib (MSN)\n\n- Nilotinib (Viatris)\n\n- Nilstat\n\n- Nilstat Cream Pessary\n\n- Nilstat Oral Drops\n\n- Nimbex\n\n- Nimenrix\n\n- Nimodipine (Juno)\n\n- Nimotop\n\n- Ninlaro\n\n- Nintedanib (Cip)\n\n- Nintedanib (Cipla)\n\n- Nitrodantin\n\n- Nitrofurantoin (Apo)\n\n- Nitrofurantoin (ARX)\n\n- Nitrofurantoin (B&B)\n\n- Nitrofurantoin (BNM)\n\n- Nitrofurantoin (MLabs)\n\n- Nitrolingual\n\n- Nitroprusside (EMC)\n\n- Nitroprusside (SXP)\n\n- Nitrostat\n\n- Nitrous Oxide Medical (BOC)\n\n- Nivestim\n\n- Nizac\n\n- Nizatidine (RJIC)\n\n- Nizoral\n\n- No-Doz Awakeners\n\n- No-Doz Plus\n\n- Nocdurna\n\n- Nolvadex\n\n- Nolvadex-D\n\n- Noradrenaline (BNM)\n\n- Noradrenaline (Juno)\n\n- Noradrenaline (Kabi)\n\n- Noradrenaline (Medicianz)\n\n- Noradrenaline (Medsurge)\n\n- Noradrenaline (MYX)\n\n- Noralin\n\n- Nordip\n\n- Norditropin Flexpro\n\n- Norflex\n\n- Norfloxacin (Apo)\n\n- Norfloxacin (Chemmart)\n\n- Norfloxacin (GenRx)\n\n- Norfloxacin (Terry White Chemists)\n\n- Norgesic\n\n- Noriday 28 Day\n\n- Norimin 28 Day\n\n- Norimin-1 28 Day\n\n- Norinyl-1 28 Day\n\n- Norlevo\n\n- Norlevo-1\n\n- Normal Immunoglobulin-VF (CSL)\n\n- Normison\n\n- Norspan\n\n- Nortim\n\n- Norvasc\n\n- Norvir\n\n- Noten\n\n- Novabet\n\n- Novadac Once Daily\n\n- Novadin\n\n- Novalant\n\n- Novanex\n\n- Novasone\n\n- Novella-1\n\n- Novicrit\n\n- Novistig\n\n- Novomix 30 Flexpen\n\n- Novomix 30 Penfill\n\n- Novomix 50 Flexpen\n\n- Novorapid\n\n- Novorapid Flexpen\n\n- Novorapid Penfill\n\n- Novoseven RT\n\n- Novothirteen\n\n- Noxafil\n\n- Noxicid\n\n- Noxicid Caps Heartburn Relief\n\n- Nplate\n\n- Nu-Lax Natural Fruit Laxative\n\n- Nubeqa\n\n- Nucala\n\n- Nuceiva\n\n- Nucolox\n\n- Nuelin\n\n- Nuelin SR\n\n- Nulojix\n\n- Numit 5%\n\n- Nupentin\n\n- Nupentin Tab\n\n- Nurocain 2% with Adrenaline 1 in 100 000 Dental\n\n- Nurofen\n\n- Nurofen Caplet\n\n- Nurofen Cold and Flu PE\n\n- Nurofen Cold and Flu with Decongestant\n\n- Nurofen Double Strength\n\n- Nurofen for Children 3 Months to 5 Years\n\n- Nurofen for Children 5 to 12 Years\n\n- Nurofen for Children 7+\n\n- Years\n\n- Nurofen for Children Baby 3+\n\n- Months\n\n- Nurofen Meltlets\n\n- Nurofen Migraine Pain\n\n- Nurofen Plus\n\n- Nurofen Quickzorb\n\n- Nurofen Zavance\n\n- Nurofen Zavance Liquid Capsules\n\n- Nuromol\n\n- Nurtec ODT\n\n- Nuvaring\n\n- Nuvaxovid\n\n- Nuvigil\n\n- Nystatin (Pharmacy Action)\n\n- Nystatin (TerryWhite Chemmart)\n\n- Nystatin Drops (Omegapharm)\n\n- Nystatin Oral Drops (Chemists' Own)\n\n- Nyxoid\n\nPREV 1 2 3 4 5 6 NEXT\n\n## Active ingredients\n\n- Nabiximols\n\n- Nadroparin\n\n- Nafarelin\n\n- Naloxegol\n\n- Naloxone\n\n- Naltrexone\n\n- Naltrexone +\n\n- bupropion\n\n- nandrolone decanoate\n\n- nanoparticle albumin-bound paclitaxel\n\n- naphazoline\n\n- naphazoline +\n\n- antazoline\n\n- pheniramine\n\n- Naproxen\n\n- Naratriptan\n\n- Natalizumab\n\n- Nebivolol\n\n- Nelarabine\n\n- Nemolizumab\n\n- neostigmine\n\n- Neratinib\n\n- netupitant +\n\n- palonosetron\n\n- nevirapine\n\n- Nicorandil\n\n- nicotinamide\n\n- Nicotine\n\n- nicotinic acid\n\n- Nifedipine\n\n- nilotinib\n\n- Nimodipine\n\n- Nintedanib\n\n- Niraparib\n\n- Nirmatrelvir\n\n- nirsevimab\n\n- Nitisinone\n\n- Nitrazepam\n\n- nitric oxide\n\n- Nitrofurantoin\n\n- Nitroprusside\n\n- nitrous oxide\n\n- nitrous oxide +\n\n- oxygen\n\n- Nivolumab\n\n- Nivolumab +\n\n- relatlimab\n\n- Nizatidine\n\n- Nomegestrol +\n\n- estradiol\n\n- Nonacog alfa\n\n- nonacog beta pegol\n\n- nonacog gamma\n\n- noradrenaline (norepinephrine)\n\n- Norethisterone\n\n- norethisterone +\n\n- ethinylestradiol\n\n- mestranol\n\n- Norfloxacin\n\n- normal immunoglobulin\n\n- Nortriptyline\n\n- Nusinersen\n\n- Nystatin\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/N-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Nab-Paclitaxel (Accord): https://www.healthdirect.gov.au/medicines/brand/amt,933651361000036104/nab-paclitaxel-accord\n\n- Nab-Paclitaxel (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,933280051000036100/nab-paclitaxel-juno\n\n- Nageze Osteo Plus: https://www.healthdirect.gov.au/medicines/brand/amt,1469241000168103/nageze-osteo-plus\n\n- Naglazyme: https://www.healthdirect.gov.au/medicines/brand/amt,927798011000036104/naglazyme\n\n- Naloxone (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,893621000168100/naloxone-juno\n\n- Naloxone (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1495501000168103/naloxone-sxp\n\n- Naloxone Hydrochloride (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,35904011000036101/naloxone-hydrochloride-dbl\n\n- Naloxone Neonatal (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1699621000168107/naloxone-neonatal-juno\n\n- Naltrexone (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1693941000168107/naltrexone-arx\n\n- Naltrexone (Astron): https://www.healthdirect.gov.au/medicines/brand/amt,1734901000168108/naltrexone-astron\n\n- Naltrexone (Intas): https://www.healthdirect.gov.au/medicines/brand/amt,1734791000168104/naltrexone-intas\n\n- Naltrexone Hydrochloride (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,920920011000036105/naltrexone-hydrochloride-generic-health\n\n- Naltrexone Hydrochloride (GH): https://www.healthdirect.gov.au/medicines/brand/amt,112671000036105/naltrexone-hydrochloride-gh\n\n- Naltrexone Hydrochloride (QP): https://www.healthdirect.gov.au/medicines/brand/amt,32183011000036103/naltrexone-hydrochloride-qp\n\n- Nanopaclicip: https://www.healthdirect.gov.au/medicines/brand/amt,1557801000168109/nanopaclicip\n\n- Naphcon Forte: https://www.healthdirect.gov.au/medicines/brand/amt,16461000168101/naphcon-forte\n\n- Naphcon-A 0.025% / 0.3%: https://www.healthdirect.gov.au/medicines/brand/amt,56491000168102/naphcon-a-0.025---0.3\n\n- Nappy Rash Soothing and Healing (David Hosking's): https://www.healthdirect.gov.au/medicines/brand/amt,18891000168106/nappy-rash-soothing-and-healing-david-hosking's\n\n- Naprogesic: https://www.healthdirect.gov.au/medicines/brand/amt,53327011000036106/naprogesic\n\n- Naprosyn: https://www.healthdirect.gov.au/medicines/brand/amt,15611000168108/naprosyn\n\n- Naprosyn SR: https://www.healthdirect.gov.au/medicines/brand/amt,39591000168109/naprosyn-sr\n\n- Naprosyn SR 1000: https://www.healthdirect.gov.au/medicines/brand/amt,41011000168106/naprosyn-sr-1000\n\n- Naproxen (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,77511000036100/naproxen-phebra\n\n- Naproxen Sodium (Soul Pattinson): https://www.healthdirect.gov.au/medicines/brand/amt,53376011000036109/naproxen-sodium-soul-pattinson\n\n- Naramig: https://www.healthdirect.gov.au/medicines/brand/amt,3814011000036100/naramig\n\n- Narcan: https://www.healthdirect.gov.au/medicines/brand/amt,674451000168107/narcan\n\n- Narcan Neonatal: https://www.healthdirect.gov.au/medicines/brand/amt,927781000168104/narcan-neonatal\n\n- Nardil: https://www.healthdirect.gov.au/medicines/brand/amt,3801011000036100/nardil\n\n- Naropin 0.2%: https://www.healthdirect.gov.au/medicines/brand/amt,711291000168100/naropin-0.2\n\n- Naropin 0.2% with Fentanyl 200 microgram/100 mL: https://www.healthdirect.gov.au/medicines/brand/amt,52011000168100/naropin-0.2-with-fentanyl-200-microgram-100-ml\n\n- Naropin 0.2% with Fentanyl 400 microgram/100 mL: https://www.healthdirect.gov.au/medicines/brand/amt,36801000168105/naropin-0.2-with-fentanyl-400-microgram-100-ml\n\n- Naropin 0.2% with Fentanyl 400 microgram/200 mL: https://www.healthdirect.gov.au/medicines/brand/amt,44271000168105/naropin-0.2-with-fentanyl-400-microgram-200-ml\n\n- Naropin 0.2% with Fentanyl 800 microgram/200 mL: https://www.healthdirect.gov.au/medicines/brand/amt,57031000168107/naropin-0.2-with-fentanyl-800-microgram-200-ml\n\n- Naropin 0.5%: https://www.healthdirect.gov.au/medicines/brand/amt,1013221000168100/naropin-0.5\n\n- Naropin 0.75%: https://www.healthdirect.gov.au/medicines/brand/amt,711491000168101/naropin-0.75\n\n- Naropin 1%: https://www.healthdirect.gov.au/medicines/brand/amt,711391000168105/naropin-1\n\n- Nasal Decongestant (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,1265261000168102/nasal-decongestant-pharmacy-action\n\n- Nasalate: https://www.healthdirect.gov.au/medicines/brand/amt,65127011000036105/nasalate\n\n- Nasonex Allergy: https://www.healthdirect.gov.au/medicines/brand/amt,859031000168103/nasonex-allergy\n\n- Nasonex Aqueous: https://www.healthdirect.gov.au/medicines/brand/amt,3481000168101/nasonex-aqueous\n\n- Nasonex Junior: https://www.healthdirect.gov.au/medicines/brand/amt,1584931000168106/nasonex-junior\n\n- Natalis: https://www.healthdirect.gov.au/medicines/brand/amt,1590041000168109/natalis\n\n- Natrilix: https://www.healthdirect.gov.au/medicines/brand/amt,50211000168107/natrilix\n\n- Natrilix SR: https://www.healthdirect.gov.au/medicines/brand/amt,47361000168100/natrilix-sr\n\n- Natulan: https://www.healthdirect.gov.au/medicines/brand/amt,35999011000036102/natulan\n\n- Natural Children's Cough Mixture (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1585601000168107/natural-children's-cough-mixture-chemists'-own\n\n- Natural Laxative with Softener (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,80142011000036103/natural-laxative-with-softener-chemists'-own\n\n- Nausea Relief (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,933774851000036100/nausea-relief-apohealth\n\n- Nausetil: https://www.healthdirect.gov.au/medicines/brand/amt,922930011000036103/nausetil\n\n- Nausicalm: https://www.healthdirect.gov.au/medicines/brand/amt,819761000168104/nausicalm\n\n- Nausrelief: https://www.healthdirect.gov.au/medicines/brand/amt,795421000168101/nausrelief\n\n- Nebaloc: https://www.healthdirect.gov.au/medicines/brand/amt,642486981000036102/nebaloc\n\n- Nebcin: https://www.healthdirect.gov.au/medicines/brand/amt,39703011000036101/nebcin\n\n- Nebilet: https://www.healthdirect.gov.au/medicines/brand/amt,83226011000036104/nebilet\n\n- Nebilet Composite Starter Titration Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1549431000168105/nebilet-composite-starter-titration-pack\n\n- Nebivolol (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1168161000168104/nebivolol-apo\n\n- Nebivolol (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,1655911000168104/nebivolol-lupin\n\n- Nebivolol (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,1490051000168102/nebivolol-sandoz\n\n- Nebivolol (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1713391000168106/nebivolol-viatris\n\n- Nebivolol (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933584981000036109/nebivolol-wgr\n\n- Neffy: https://www.healthdirect.gov.au/medicines/brand/amt,933564201000036109/neffy\n\n- NeisVac-C: https://www.healthdirect.gov.au/medicines/brand/amt,73692011000036108/neisvac-c\n\n- Nelarabine (Reach): https://www.healthdirect.gov.au/medicines/brand/amt,1758141000168101/nelarabine-reach\n\n- Nemluvio: https://www.healthdirect.gov.au/medicines/brand/amt,933506291000036109/nemluvio\n\n- Neo-B12: https://www.healthdirect.gov.au/medicines/brand/amt,3673011000036102/neo-b12\n\n- Neo-Mercazole: https://www.healthdirect.gov.au/medicines/brand/amt,3184011000036108/neo-mercazole\n\n- Neo-Synephrine: https://www.healthdirect.gov.au/medicines/brand/amt,35927011000036101/neo-synephrine\n\n- Neodol Forte 500/30: https://www.healthdirect.gov.au/medicines/brand/amt,1048931000168108/neodol-forte-500-30\n\n- Neoral: https://www.healthdirect.gov.au/medicines/brand/amt,4180011000036101/neoral\n\n- Neorecormon: https://www.healthdirect.gov.au/medicines/brand/amt,33291000168109/neorecormon\n\n- Neostigmine (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,777061000168102/neostigmine-juno\n\n- Neotigason: https://www.healthdirect.gov.au/medicines/brand/amt,2993011000036100/neotigason\n\n- Nepexto: https://www.healthdirect.gov.au/medicines/brand/amt,933506951000036105/nepexto\n\n- Nepiten: https://www.healthdirect.gov.au/medicines/brand/amt,1532791000168105/nepiten\n\n- Nerlynx: https://www.healthdirect.gov.au/medicines/brand/amt,1341981000168103/nerlynx\n\n- Nervoderm: https://www.healthdirect.gov.au/medicines/brand/amt,1084741000168103/nervoderm\n\n- Nesina: https://www.healthdirect.gov.au/medicines/brand/amt,147871000036103/nesina\n\n- Nesina Met 12.5 mg/1000 mg: https://www.healthdirect.gov.au/medicines/brand/amt,10781000168101/nesina-met-12.5-mg-1000-mg\n\n- Nesina Met 12.5 mg/500 mg: https://www.healthdirect.gov.au/medicines/brand/amt,31121000168104/nesina-met-12.5-mg-500-mg\n\n- Nesina Met 12.5 mg/850 mg: https://www.healthdirect.gov.au/medicines/brand/amt,62751000168108/nesina-met-12.5-mg-850-mg\n\n- Neulactil: https://www.healthdirect.gov.au/medicines/brand/amt,3728011000036104/neulactil\n\n- Neupedix: https://www.healthdirect.gov.au/medicines/brand/amt,933705141000036102/neupedix\n\n- Neupro: https://www.healthdirect.gov.au/medicines/brand/amt,39766011000036106/neupro\n\n- Neurica: https://www.healthdirect.gov.au/medicines/brand/amt,1374091000168100/neurica\n\n- Neuroccord: https://www.healthdirect.gov.au/medicines/brand/amt,1025661000168103/neuroccord\n\n- Neurolite: https://www.healthdirect.gov.au/medicines/brand/amt,933193101000036107/neurolite\n\n- Neurontin: https://www.healthdirect.gov.au/medicines/brand/amt,4344011000036106/neurontin\n\n- Neutrafluor: https://www.healthdirect.gov.au/medicines/brand/amt,53204011000036103/neutrafluor\n\n- Neutrafluor 5000 Gel: https://www.healthdirect.gov.au/medicines/brand/amt,1082151000168105/neutrafluor-5000-gel\n\n- Neutrafluor 5000 Plus: https://www.healthdirect.gov.au/medicines/brand/amt,3561000168106/neutrafluor-5000-plus\n\n- Neutrafluor 5000 Sensitive: https://www.healthdirect.gov.au/medicines/brand/amt,836511000168105/neutrafluor-5000-sensitive\n\n- Neutrafluor-220: https://www.healthdirect.gov.au/medicines/brand/amt,27641000168106/neutrafluor-220\n\n- NeutraLice Natural Oils: https://www.healthdirect.gov.au/medicines/brand/amt,103862681000036102/neutralice-natural-oils\n\n- Neutrogena T/Gel Therapeutic Shampoo: https://www.healthdirect.gov.au/medicines/brand/amt,65153011000036100/neutrogena-t-gel-therapeutic-shampoo\n\n- Nevira: https://www.healthdirect.gov.au/medicines/brand/amt,933537471000036102/nevira\n\n- Nevirapine (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,77771000036102/nevirapine-alphapharm\n\n- Nevirapine (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1002941000168106/nevirapine-apo\n\n- Nevirapine (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1658361000168108/nevirapine-viatris\n\n- Nexavar: https://www.healthdirect.gov.au/medicines/brand/amt,39561011000036102/nexavar\n\n- Nexcid: https://www.healthdirect.gov.au/medicines/brand/amt,1375291000168108/nexcid\n\n- Nexium: https://www.healthdirect.gov.au/medicines/brand/amt,2929011000036108/nexium\n\n- Nexium 24HR Once Daily Dosing: https://www.healthdirect.gov.au/medicines/brand/amt,1045541000168100/nexium-24hr-once-daily-dosing\n\n- Nexium Hp7: https://www.healthdirect.gov.au/medicines/brand/amt,2941011000036107/nexium-hp7\n\n- Nexium IV: https://www.healthdirect.gov.au/medicines/brand/amt,58951000168101/nexium-iv\n\n- Nexobrid: https://www.healthdirect.gov.au/medicines/brand/amt,933600621000036101/nexobrid\n\n- Nexole: https://www.healthdirect.gov.au/medicines/brand/amt,704021000168106/nexole\n\n- Nextstellis: https://www.healthdirect.gov.au/medicines/brand/amt,1653531000168102/nextstellis\n\n- Nexviazyme: https://www.healthdirect.gov.au/medicines/brand/amt,1632931000168103/nexviazyme\n\n- Ngenla: https://www.healthdirect.gov.au/medicines/brand/amt,1621331000168105/ngenla\n\n- Nicabate: https://www.healthdirect.gov.au/medicines/brand/amt,28411000168106/nicabate\n\n- Nicabate Clear: https://www.healthdirect.gov.au/medicines/brand/amt,19371000168107/nicabate-clear\n\n- Nicabate Mini: https://www.healthdirect.gov.au/medicines/brand/amt,933599351000036103/nicabate-mini\n\n- Nicabate Minis: https://www.healthdirect.gov.au/medicines/brand/amt,31811000168102/nicabate-minis\n\n- Nicabate P: https://www.healthdirect.gov.au/medicines/brand/amt,9751000168104/nicabate-p\n\n- Nicaway: https://www.healthdirect.gov.au/medicines/brand/amt,1126801000168100/nicaway\n\n- Nicorandil (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1385521000168104/nicorandil-apo\n\n- Nicorette: https://www.healthdirect.gov.au/medicines/brand/amt,15261000168108/nicorette\n\n- Nicorette Inhalator: https://www.healthdirect.gov.au/medicines/brand/amt,24091000168102/nicorette-inhalator\n\n- Nicorette Invisipatch: https://www.healthdirect.gov.au/medicines/brand/amt,921000168109/nicorette-invisipatch\n\n- Nicorette Microtab: https://www.healthdirect.gov.au/medicines/brand/amt,13101000168102/nicorette-microtab\n\n- Nicorette Quickmist: https://www.healthdirect.gov.au/medicines/brand/amt,39021000168101/nicorette-quickmist\n\n- Nicotinell: https://www.healthdirect.gov.au/medicines/brand/amt,4731000168109/nicotinell\n\n- Nicotinell Step-1: https://www.healthdirect.gov.au/medicines/brand/amt,29341000168106/nicotinell-step-1\n\n- Nicotinell Step-2: https://www.healthdirect.gov.au/medicines/brand/amt,46531000168100/nicotinell-step-2\n\n- Nicotinell Step-3: https://www.healthdirect.gov.au/medicines/brand/amt,51741000168105/nicotinell-step-3\n\n- Nicotinic Acid (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,53144011000036105/nicotinic-acid-alphapharm\n\n- Nicotinic Acid (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933703351000036103/nicotinic-acid-viatris\n\n- Nidem: https://www.healthdirect.gov.au/medicines/brand/amt,3835011000036109/nidem\n\n- Nifedipine (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,3402011000036104/nifedipine-chemmart\n\n- Nifedipine (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,3741011000036106/nifedipine-genrx\n\n- Nifedipine XR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,501000168108/nifedipine-xr-apo\n\n- Night Pain Relief (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1580361000168106/night-pain-relief-apohealth\n\n- Night Pain Relief (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1216591000168102/night-pain-relief-chemists'-own\n\n- Night Pain Relief (Pharmacy Choice): https://www.healthdirect.gov.au/medicines/brand/amt,1188221000168102/night-pain-relief-pharmacy-choice\n\n- Night Time Cold and Flu Relief (TerryWhite Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,1166571000168102/night-time-cold-and-flu-relief-terrywhite-chemmart\n\n- Niktimvo: https://www.healthdirect.gov.au/medicines/brand/amt,933705311000036101/niktimvo\n\n- Nilotinib (MSN): https://www.healthdirect.gov.au/medicines/brand/amt,933736111000036102/nilotinib-msn\n\n- Nilotinib (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,933736711000036101/nilotinib-viatris\n\n- Nilstat: https://www.healthdirect.gov.au/medicines/brand/amt,32391000168106/nilstat\n\n- Nilstat Cream Pessary: https://www.healthdirect.gov.au/medicines/brand/amt,61951000168104/nilstat-cream-pessary\n\n- Nilstat Oral Drops: https://www.healthdirect.gov.au/medicines/brand/amt,62301000168108/nilstat-oral-drops\n\n- Nimbex: https://www.healthdirect.gov.au/medicines/brand/amt,39720011000036100/nimbex\n\n- Nimenrix: https://www.healthdirect.gov.au/medicines/brand/amt,703601000168108/nimenrix\n\n- Nimodipine (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1632191000168102/nimodipine-juno\n\n- Nimotop: https://www.healthdirect.gov.au/medicines/brand/amt,39664011000036105/nimotop\n\n- Ninlaro: https://www.healthdirect.gov.au/medicines/brand/amt,902241000168107/ninlaro\n\n- Nintedanib (Cip): https://www.healthdirect.gov.au/medicines/brand/amt,933536661000036106/nintedanib-cip\n\n- Nintedanib (Cipla): https://www.healthdirect.gov.au/medicines/brand/amt,933536671000036103/nintedanib-cipla\n\n- Nitrodantin: https://www.healthdirect.gov.au/medicines/brand/amt,1250351000168106/nitrodantin\n\n- Nitrofurantoin (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1369161000168100/nitrofurantoin-apo\n\n- Nitrofurantoin (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1599821000168100/nitrofurantoin-arx\n\n- Nitrofurantoin (B&B): https://www.healthdirect.gov.au/medicines/brand/amt,1250481000168107/nitrofurantoin-b&b\n\n- Nitrofurantoin (BNM): https://www.healthdirect.gov.au/medicines/brand/amt,1591071000168106/nitrofurantoin-bnm\n\n- Nitrofurantoin (MLabs): https://www.healthdirect.gov.au/medicines/brand/amt,1250421000168108/nitrofurantoin-mlabs\n\n- Nitrolingual: https://www.healthdirect.gov.au/medicines/brand/amt,3285011000036105/nitrolingual\n\n- Nitroprusside (EMC): https://www.healthdirect.gov.au/medicines/brand/amt,1556581000168101/nitroprusside-emc\n\n- Nitroprusside (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,1730971000168108/nitroprusside-sxp\n\n- Nitrostat: https://www.healthdirect.gov.au/medicines/brand/amt,871451000168101/nitrostat\n\n- Nitrous Oxide Medical (BOC): https://www.healthdirect.gov.au/medicines/brand/amt,1380751000168107/nitrous-oxide-medical-boc\n\n- Nivestim: https://www.healthdirect.gov.au/medicines/brand/amt,927778011000036105/nivestim\n\n- Nizac: https://www.healthdirect.gov.au/medicines/brand/amt,4551000168106/nizac\n\n- Nizatidine (RJIC): https://www.healthdirect.gov.au/medicines/brand/amt,1736851000168105/nizatidine-rjic\n\n- Nizoral: https://www.healthdirect.gov.au/medicines/brand/amt,4145011000036104/nizoral\n\n- No-Doz Awakeners: https://www.healthdirect.gov.au/medicines/brand/amt,24711000168109/no-doz-awakeners\n\n- No-Doz Plus: https://www.healthdirect.gov.au/medicines/brand/amt,1130611000168103/no-doz-plus\n\n- Nocdurna: https://www.healthdirect.gov.au/medicines/brand/amt,1218401000168106/nocdurna\n\n- Nolvadex: https://www.healthdirect.gov.au/medicines/brand/amt,61371000168107/nolvadex\n\n- Nolvadex-D: https://www.healthdirect.gov.au/medicines/brand/amt,55911000168107/nolvadex-d\n\n- Noradrenaline (BNM): https://www.healthdirect.gov.au/medicines/brand/amt,1438721000168102/noradrenaline-bnm\n\n- Noradrenaline (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1512121000168102/noradrenaline-juno\n\n- Noradrenaline (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,933506621000036109/noradrenaline-kabi\n\n- Noradrenaline (Medicianz): https://www.healthdirect.gov.au/medicines/brand/amt,933703651000036109/noradrenaline-medicianz\n\n- Noradrenaline (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,1696311000168102/noradrenaline-medsurge\n\n- Noradrenaline (MYX): https://www.healthdirect.gov.au/medicines/brand/amt,1304171000168109/noradrenaline-myx\n\n- Noralin: https://www.healthdirect.gov.au/medicines/brand/amt,1512351000168108/noralin\n\n- Nordip: https://www.healthdirect.gov.au/medicines/brand/amt,83546011000036106/nordip\n\n- Norditropin Flexpro: https://www.healthdirect.gov.au/medicines/brand/amt,17991000168100/norditropin-flexpro\n\n- Norflex: https://www.healthdirect.gov.au/medicines/brand/amt,35941011000036107/norflex\n\n- Norfloxacin (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,963351000168106/norfloxacin-apo\n\n- Norfloxacin (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,2937011000036103/norfloxacin-chemmart\n\n- Norfloxacin (GenRx): https://www.healthdirect.gov.au/medicines/brand/amt,3282011000036102/norfloxacin-genrx\n\n- Norfloxacin (Terry White Chemists): https://www.healthdirect.gov.au/medicines/brand/amt,3997011000036103/norfloxacin-terry-white-chemists\n\n- Norgesic: https://www.healthdirect.gov.au/medicines/brand/amt,35879011000036104/norgesic\n\n- Noriday 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700013841000036109/noriday-28-day\n\n- Norimin 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700023331000036102/norimin-28-day\n\n- Norimin-1 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700023341000036107/norimin-1-28-day\n\n- Norinyl-1 28 Day: https://www.healthdirect.gov.au/medicines/brand/amt,700015261000036108/norinyl-1-28-day\n\n- Norlevo: https://www.healthdirect.gov.au/medicines/brand/amt,53473011000036105/norlevo\n\n- Norlevo-1: https://www.healthdirect.gov.au/medicines/brand/amt,48941000168101/norlevo-1\n\n- Normal Immunoglobulin-VF (CSL): https://www.healthdirect.gov.au/medicines/brand/amt,15111000168100/normal-immunoglobulin-vf-csl\n\n- Normison: https://www.healthdirect.gov.au/medicines/brand/amt,2981011000036100/normison\n\n- Norspan: https://www.healthdirect.gov.au/medicines/brand/amt,4363011000036103/norspan\n\n- Nortim: https://www.healthdirect.gov.au/medicines/brand/amt,1131491000168103/nortim\n\n- Norvasc: https://www.healthdirect.gov.au/medicines/brand/amt,4216011000036104/norvasc\n\n- Norvir: https://www.healthdirect.gov.au/medicines/brand/amt,4168011000036101/norvir\n\n- Noten: https://www.healthdirect.gov.au/medicines/brand/amt,4422011000036109/noten\n\n- Novabet: https://www.healthdirect.gov.au/medicines/brand/amt,933703661000036107/novabet\n\n- Novadac Once Daily: https://www.healthdirect.gov.au/medicines/brand/amt,933704711000036101/novadac-once-daily\n\n- Novadin: https://www.healthdirect.gov.au/medicines/brand/amt,1732161000168103/novadin\n\n- Novalant: https://www.healthdirect.gov.au/medicines/brand/amt,933736191000036107/novalant\n\n- Novanex: https://www.healthdirect.gov.au/medicines/brand/amt,701013101000036107/novanex\n\n- Novasone: https://www.healthdirect.gov.au/medicines/brand/amt,4448011000036109/novasone\n\n- Novella-1: https://www.healthdirect.gov.au/medicines/brand/amt,933537321000036105/novella-1\n\n- Novicrit: https://www.healthdirect.gov.au/medicines/brand/amt,922917011000036109/novicrit\n\n- Novistig: https://www.healthdirect.gov.au/medicines/brand/amt,1438531000168108/novistig\n\n- Novomix 30 Flexpen: https://www.healthdirect.gov.au/medicines/brand/amt,2541000168100/novomix-30-flexpen\n\n- Novomix 30 Penfill: https://www.healthdirect.gov.au/medicines/brand/amt,22481000168102/novomix-30-penfill\n\n- Novomix 50 Flexpen: https://www.healthdirect.gov.au/medicines/brand/amt,1249381000168106/novomix-50-flexpen\n\n- Novorapid: https://www.healthdirect.gov.au/medicines/brand/amt,2914011000036104/novorapid\n\n- Novorapid Flexpen: https://www.healthdirect.gov.au/medicines/brand/amt,47811000168105/novorapid-flexpen\n\n- Novorapid Penfill: https://www.healthdirect.gov.au/medicines/brand/amt,35151000168105/novorapid-penfill\n\n- Novoseven RT: https://www.healthdirect.gov.au/medicines/brand/amt,12861000168102/novoseven-rt\n\n- Novothirteen: https://www.healthdirect.gov.au/medicines/brand/amt,1027881000168100/novothirteen\n\n- Noxafil: https://www.healthdirect.gov.au/medicines/brand/amt,39709011000036103/noxafil\n\n- Noxicid: https://www.healthdirect.gov.au/medicines/brand/amt,704221000168103/noxicid\n\n- Noxicid Caps Heartburn Relief: https://www.healthdirect.gov.au/medicines/brand/amt,1542761000168102/noxicid-caps-heartburn-relief\n\n- Nplate: https://www.healthdirect.gov.au/medicines/brand/amt,72909011000036107/nplate\n\n- Nu-Lax Natural Fruit Laxative: https://www.healthdirect.gov.au/medicines/brand/amt,1106861000168106/nu-lax-natural-fruit-laxative\n\n- Nubeqa: https://www.healthdirect.gov.au/medicines/brand/amt,1493211000168103/nubeqa\n\n- Nucala: https://www.healthdirect.gov.au/medicines/brand/amt,767581000168106/nucala\n\n- Nuceiva: https://www.healthdirect.gov.au/medicines/brand/amt,1668331000168108/nuceiva\n\n- Nucolox: https://www.healthdirect.gov.au/medicines/brand/amt,4222011000036108/nucolox\n\n- Nuelin: https://www.healthdirect.gov.au/medicines/brand/amt,62521000168108/nuelin\n\n- Nuelin SR: https://www.healthdirect.gov.au/medicines/brand/amt,31931000168103/nuelin-sr\n\n- Nulojix: https://www.healthdirect.gov.au/medicines/brand/amt,699861000168101/nulojix\n\n- Numit 5%: https://www.healthdirect.gov.au/medicines/brand/amt,1219031000168103/numit-5\n\n- Nupentin: https://www.healthdirect.gov.au/medicines/brand/amt,1181000168106/nupentin\n\n- Nupentin Tab: https://www.healthdirect.gov.au/medicines/brand/amt,49501000168102/nupentin-tab\n\n- Nurocain 2% with Adrenaline 1 in 100 000 Dental: https://www.healthdirect.gov.au/medicines/brand/amt,45441000168103/nurocain-2-with-adrenaline-1-in-100-000-dental\n\n- Nurofen: https://www.healthdirect.gov.au/medicines/brand/amt,5641000168109/nurofen\n\n- Nurofen Caplet: https://www.healthdirect.gov.au/medicines/brand/amt,17551000168104/nurofen-caplet\n\n- Nurofen Cold and Flu PE: https://www.healthdirect.gov.au/medicines/brand/amt,1205301000168106/nurofen-cold-and-flu-pe\n\n- Nurofen Cold and Flu with Decongestant: https://www.healthdirect.gov.au/medicines/brand/amt,49471000168108/nurofen-cold-and-flu-with-decongestant\n\n- Nurofen Double Strength: https://www.healthdirect.gov.au/medicines/brand/amt,17911000168109/nurofen-double-strength\n\n- Nurofen for Children 3 Months to 5 Years: https://www.healthdirect.gov.au/medicines/brand/amt,1435901000168100/nurofen-for-children-3-months-to-5-years\n\n- Nurofen for Children 5 to 12 Years: https://www.healthdirect.gov.au/medicines/brand/amt,6031000168103/nurofen-for-children-5-to-12-years\n\n- Nurofen for Children 7+ Years: https://www.healthdirect.gov.au/medicines/brand/amt,1435981000168108/nurofen-for-children-7+-years\n\n- Nurofen for Children Baby 3+ Months: https://www.healthdirect.gov.au/medicines/brand/amt,20021000168109/nurofen-for-children-baby-3+-months\n\n- Nurofen Meltlets: https://www.healthdirect.gov.au/medicines/brand/amt,1783481000168102/nurofen-meltlets\n\n- Nurofen Migraine Pain: https://www.healthdirect.gov.au/medicines/brand/amt,8791000168103/nurofen-migraine-pain\n\n- Nurofen Plus: https://www.healthdirect.gov.au/medicines/brand/amt,28771000168109/nurofen-plus\n\n- Nurofen Quickzorb: https://www.healthdirect.gov.au/medicines/brand/amt,1431441000168107/nurofen-quickzorb\n\n- Nurofen Zavance: https://www.healthdirect.gov.au/medicines/brand/amt,5481000168102/nurofen-zavance\n\n- Nurofen Zavance Liquid Capsules: https://www.healthdirect.gov.au/medicines/brand/amt,1251000168106/nurofen-zavance-liquid-capsules\n\n- Nuromol: https://www.healthdirect.gov.au/medicines/brand/amt,812781000168101/nuromol\n\n- Nurtec ODT: https://www.healthdirect.gov.au/medicines/brand/amt,1675241000168108/nurtec-odt\n\n- Nuvaring: https://www.healthdirect.gov.au/medicines/brand/amt,39600011000036104/nuvaring\n\n- Nuvaxovid: https://www.healthdirect.gov.au/medicines/brand/amt,1595571000168100/nuvaxovid\n\n- Nuvigil: https://www.healthdirect.gov.au/medicines/brand/amt,802051000168108/nuvigil\n\n- Nystatin (Pharmacy Action): https://www.healthdirect.gov.au/medicines/brand/amt,936931000168103/nystatin-pharmacy-action\n\n- Nystatin (TerryWhite Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,1462691000168104/nystatin-terrywhite-chemmart\n\n- Nystatin Drops (Omegapharm): https://www.healthdirect.gov.au/medicines/brand/amt,58271000168101/nystatin-drops-omegapharm\n\n- Nystatin Oral Drops (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1575111000168107/nystatin-oral-drops-chemists'-own\n\n- Nyxoid: https://www.healthdirect.gov.au/medicines/brand/amt,1227481000168105/nyxoid\n\n- Nabiximols: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24117/nabiximols\n\n- Nadroparin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23791/nadroparin\n\n- Nafarelin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21100/nafarelin\n\n- Naloxegol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24054/naloxegol\n\n- Naloxone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21099/naloxone\n\n- Naltrexone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21091/naltrexone\n\n- Naltrexone + bupropion: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24478/naltrexone-+-bupropion\n\n- nandrolone decanoate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22709/nandrolone-decanoate\n\n- nanoparticle albumin-bound paclitaxel: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23694/nanoparticle-albumin-bound-paclitaxel\n\n- naphazoline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21601/naphazoline\n\n- naphazoline + antazoline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23377/naphazoline-+-antazoline\n\n- naphazoline + pheniramine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23378/naphazoline-+-pheniramine\n\n- Naproxen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21089/naproxen\n\n- Naratriptan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21087/naratriptan\n\n- Natalizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21085/natalizumab\n\n- Nebivolol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21082/nebivolol\n\n- Nelarabine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50060/nelarabine\n\n- Nemolizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50586/nemolizumab\n\n- neostigmine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21079/neostigmine\n\n- Neratinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24902/neratinib\n\n- netupitant + palonosetron: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23785/netupitant-+-palonosetron\n\n- nevirapine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21075/nevirapine\n\n- Nicorandil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21074/nicorandil\n\n- nicotinamide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24453/nicotinamide\n\n- Nicotine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,11994/nicotine\n\n- nicotinic acid: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22718/nicotinic-acid\n\n- Nifedipine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21073/nifedipine\n\n- nilotinib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21072/nilotinib\n\n- Nimodipine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21070/nimodipine\n\n- Nintedanib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23684/nintedanib\n\n- Niraparib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26574/niraparib\n\n- Nirmatrelvir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27044/nirmatrelvir\n\n- nirsevimab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27180/nirsevimab\n\n- Nitisinone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21068/nitisinone\n\n- Nitrazepam: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21067/nitrazepam\n\n- nitric oxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21066/nitric-oxide\n\n- Nitrofurantoin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21064/nitrofurantoin\n\n- Nitroprusside: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22719/nitroprusside\n\n- nitrous oxide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24927/nitrous-oxide\n\n- nitrous oxide + oxygen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23380/nitrous-oxide-+-oxygen\n\n- Nivolumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23788/nivolumab\n\n- Nivolumab + relatlimab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27150/nivolumab-+-relatlimab\n\n- Nizatidine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21055/nizatidine\n\n- Nomegestrol + estradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23381/nomegestrol-+-estradiol\n\n- Nonacog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21098/nonacog-alfa\n\n- nonacog beta pegol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,25042/nonacog-beta-pegol\n\n- nonacog gamma: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23685/nonacog-gamma\n\n- noradrenaline (norepinephrine): https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21053/noradrenaline-norepinephrine\n\n- Norethisterone: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21039/norethisterone\n\n- norethisterone + ethinylestradiol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23294/norethisterone-+-ethinylestradiol\n\n- norethisterone + mestranol: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23373/norethisterone-+-mestranol\n\n- Norfloxacin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21051/norfloxacin\n\n- normal immunoglobulin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,22727/normal-immunoglobulin\n\n- Nortriptyline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21050/nortriptyline\n\n- Nusinersen: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24261/nusinersen\n\n- Nystatin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21043/nystatin\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

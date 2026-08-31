@@ -1,0 +1,515 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-brand-amt,3847011000036100-rilutek",
+  "title": "Rilutek | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 17321,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20011/riluzole",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "riluzole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20011/riluzole"
+    },
+    {
+      "text": "ARTG",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#data-sources"
+    },
+    {
+      "text": "Consumer Medicine Information",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#cmi"
+    },
+    {
+      "text": "What this medicine is used for",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#whatItIsUsedFor"
+    },
+    {
+      "text": "Storage conditions",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#storageInst"
+    },
+    {
+      "text": "How to use this medicine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#howToUse"
+    },
+    {
+      "text": "Images",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#productDescription"
+    },
+    {
+      "text": "Do I need a prescription ?",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#poisons"
+    },
+    {
+      "text": "Is this medicine subsidised?",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#aboutBuying"
+    },
+    {
+      "text": "Pregnant or planning a pregnancy ?",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#pregnancy"
+    },
+    {
+      "text": "Reporting side effects",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#report-side-effects"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#disclaimer-sec"
+    },
+    {
+      "text": "Read the CMI",
+      "url": "https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-CMI-05950-3"
+    },
+    {
+      "text": "How to read Consumer Medicine Information (CMI)",
+      "url": "https://www.healthdirect.gov.au/how-to-read-cmis"
+    },
+    {
+      "text": "Scheduling of medicines and poisons",
+      "url": "https://www.healthdirect.gov.au/scheduling-of-medicines-and-poisons"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme",
+      "url": "https://www.pbs.gov.au/medicine/item/8664B-14393M"
+    },
+    {
+      "text": "www.tga.gov.au/reporting-problems",
+      "url": "http://www.tga.gov.au/reporting-problems"
+    },
+    {
+      "text": "Australian Health Thesaurus (AHT)",
+      "url": "https://about.healthdirect.gov.au/australian-health-thesaurus"
+    },
+    {
+      "text": "Australian Medicines Terminology (AMT)",
+      "url": "https://www.healthterminologies.gov.au/understanding-clinical-terminology-landing/what-is-snomed-ct-and-amt/"
+    },
+    {
+      "text": "Australian Register of Therapeutic Goods (ARTG)",
+      "url": "https://www.tga.gov.au/australian-register-therapeutic-goods"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme (PBS)",
+      "url": "https://www.pbs.gov.au/pbs/home"
+    },
+    {
+      "text": "Medicines Information Pty Ltd",
+      "url": "https://medicinesinformation.com.au/about-medicines-information"
+    },
+    {
+      "text": "Medicine Information sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Sport Integrity Australia",
+      "url": "http://www.globaldro.com/AU/search"
+    },
+    {
+      "text": "Generic medicines vs. brand-name medicines",
+      "url": "https://www.healthdirect.gov.au/generic-medicines-vs-brand-name-medicines"
+    },
+    {
+      "text": "Back to top",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#main_content-text"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Rilutek | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nbeginning of content\n\n# Rilutek TM\n\nYour browser does not support the audio element.\n\nListen to the Pronunciation: Play Pronunciation\n\nYou should seek medical advice in relation to medicines and use only as directed by a healthcare professional. Always read the label. If symptoms persist see your healthcare professional.\n\nActive ingredients: riluzole\n\nPack: Rilutek 50 mg tablet, 56, blister pack\n\nBrand name\n\n#### ( ARTG )\n\n: RILUTEK riluzole 50mg tablet blister pack\n\n- Consumer Medicine Information\n\n- What this medicine is used for\n\n- Storage conditions\n\n- How to use this medicine\n\n- Images\n\n- Do I need a prescription ?\n\n- Is this medicine subsidised?\n\n- Pregnant or planning a pregnancy ?\n\n- Reporting side effects\n\n- Data sources\n\n- Disclaimer\n\n## Consumer Medicine Information (CMI)\n\nRead the CMI leaflet for facts you need to know before, during and after taking your medicine.\n\nFor more information about CMIs and how to read them, please visit How to read Consumer Medicine Information (CMI) .\n\n## What this medicine is used for\n\nRiluzole is indicated for the treatment of patients with amyotrophic lateral sclerosis (ALS).\n\n## How to use this medicine\n\nThis medicine contains one component only.\n\n### Component :\n\n- Tablet, film coated\n\n- Oral\n\n- Capsule-shaped tablet engraved on one side with RPR202.\n\n## Images\n\nImages © Medicines Information Pty Ltd.\n\n## Storage conditions\n\n- Store below 25 degrees Celsius\n\n- Shelf lifetime is 3 Years.\n\n## Do I need a prescription ?\n\n## What is the medicines and poisons schedule?\n\nAll medicines and poisons in Australia are categorised by how they are made available to the public. Medicines with a low safety risk are usually less tightly controlled than medicines with a higher safety risk. This system is called 'scheduling'.\n\nYou can read more about the scheduling of medicines as well as the different scheduling categories on our Scheduling of medicines and poisons information page.\n\nclose tooltip Ok\n\nThese medicine packs are available from a pharmacist and requires a prescription. It is Schedule 4 : Prescription Only Medicine. open tool tip to find out more\n\n- 56 tablets pack\n\n## Is this medicine subsidised ?\n\n#### ( PBS )\n\nThis medicine was verified as being available on the PBS (Pharmaceutical Benefits Scheme) on August, 1 2026. To learn more about this subsidy, visit the Pharmaceutical Benefits Scheme (PBS) website.\n\n## Pregnant or planning a pregnancy ?\n\n#### ( AHT )\n\nFor the active ingredient riluzole\n\nYou should seek advice from your doctor or pharmacist about taking this medicine. They can help you balance the risks and the benefits of this medicine during pregnancy.\n\n## Reporting side effects\n\nYou can help ensure medicines are safe by reporting the side effects you experience.\n\nYou can report side effects to your doctor, or directly at www.tga.gov.au/reporting-problems\n\n## Data sources\n\n- Australian Health Thesaurus (AHT)\n\n- Last updated on: 3 August 2026\n\n- Australian Medicines Terminology (AMT)\n\n- Australian Register of Therapeutic Goods (ARTG)\n\n- Pharmaceutical Benefits Scheme (PBS)\n\n- Medicines Information Pty Ltd\n\n- Last updated on: 31 July 2026\n\nFor more information, see Medicine Information sources\n\n## Disclaimer\n\nhealthdirect medicines information is not intended for use in an emergency. If you are suffering an acute illness, overdose, or emergency condition, call triple zero (000) and ask for an ambulance.\n\nReasonable care has been taken to provide accurate information at the time of creation. This information is not intended to substitute medical advice, diagnosis or treatment and should not be exclusively relied on to manage or diagnose a medical condition. Please refer to our terms and conditions .\n\n## See also\n\n- Can I take Rilutek in sport? Find out on the Sport Integrity Australia\n\n- Generic medicines vs. brand-name medicines\n\nBack to top back to top\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- riluzole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20011/riluzole\n\n- ARTG: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#data-sources\n\n- Consumer Medicine Information: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#cmi\n\n- What this medicine is used for: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#whatItIsUsedFor\n\n- Storage conditions: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#storageInst\n\n- How to use this medicine: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#howToUse\n\n- Images: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#productDescription\n\n- Do I need a prescription ?: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#poisons\n\n- Is this medicine subsidised?: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#aboutBuying\n\n- Pregnant or planning a pregnancy ?: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#pregnancy\n\n- Reporting side effects: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#report-side-effects\n\n- Disclaimer: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#disclaimer-sec\n\n- Read the CMI: https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-CMI-05950-3\n\n- How to read Consumer Medicine Information (CMI): https://www.healthdirect.gov.au/how-to-read-cmis\n\n- Scheduling of medicines and poisons: https://www.healthdirect.gov.au/scheduling-of-medicines-and-poisons\n\n- Pharmaceutical Benefits Scheme: https://www.pbs.gov.au/medicine/item/8664B-14393M\n\n- www.tga.gov.au/reporting-problems: http://www.tga.gov.au/reporting-problems\n\n- Australian Health Thesaurus (AHT): https://about.healthdirect.gov.au/australian-health-thesaurus\n\n- Australian Medicines Terminology (AMT): https://www.healthterminologies.gov.au/understanding-clinical-terminology-landing/what-is-snomed-ct-and-amt/\n\n- Australian Register of Therapeutic Goods (ARTG): https://www.tga.gov.au/australian-register-therapeutic-goods\n\n- Pharmaceutical Benefits Scheme (PBS): https://www.pbs.gov.au/pbs/home\n\n- Medicines Information Pty Ltd: https://medicinesinformation.com.au/about-medicines-information\n\n- Medicine Information sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Sport Integrity Australia: http://www.globaldro.com/AU/search\n\n- Generic medicines vs. brand-name medicines: https://www.healthdirect.gov.au/generic-medicines-vs-brand-name-medicines\n\n- Back to top: https://www.healthdirect.gov.au/medicines/brand/amt,3847011000036100/rilutek#main_content-text\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

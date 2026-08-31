@@ -1,0 +1,1703 @@
+{
+  "source_id": "web:healthdirect-australia-medicines-search-results-v-excludenonartg",
+  "title": "Medicines starting with \"V\" | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg",
+  "retrieved_at": "2026-08-31",
+  "topic": "Treatments And Medicines",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 52462,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/medicines",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Vabysmo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1639811000168108/vabysmo"
+    },
+    {
+      "text": "Vaclovir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927770011000036108/vaclovir"
+    },
+    {
+      "text": "Vafseo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1701791000168107/vafseo"
+    },
+    {
+      "text": "Vagifem Low",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28321000168109/vagifem-low"
+    },
+    {
+      "text": "Vagisil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53263011000036104/vagisil"
+    },
+    {
+      "text": "Valaciclovir (Actavis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,761000036109/valaciclovir-actavis"
+    },
+    {
+      "text": "Valaciclovir (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,659941000168102/valaciclovir-an"
+    },
+    {
+      "text": "Valaciclovir (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2021000168100/valaciclovir-apo"
+    },
+    {
+      "text": "Valaciclovir (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1014791000168109/valaciclovir-apotex"
+    },
+    {
+      "text": "Valaciclovir (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1570261000168107/valaciclovir-apx"
+    },
+    {
+      "text": "Valaciclovir (Auro)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1097991000168104/valaciclovir-auro"
+    },
+    {
+      "text": "Valaciclovir (MGH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536931000036109/valaciclovir-mgh"
+    },
+    {
+      "text": "Valaciclovir (Noumed)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1160131000168105/valaciclovir-noumed"
+    },
+    {
+      "text": "Valaciclovir (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19791000036100/valaciclovir-pfizer"
+    },
+    {
+      "text": "Valaciclovir (RBX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927814011000036108/valaciclovir-rbx"
+    },
+    {
+      "text": "Valaciclovir (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927787011000036101/valaciclovir-sandoz"
+    },
+    {
+      "text": "Valaciclovir (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1775481000168108/valaciclovir-wgr"
+    },
+    {
+      "text": "Valaciclovir 1000 (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1001131000168109/valaciclovir-1000-apo"
+    },
+    {
+      "text": "Valaciclovir 1000 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1017851000168100/valaciclovir-1000-apotex"
+    },
+    {
+      "text": "Valcyte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2958011000036101/valcyte"
+    },
+    {
+      "text": "Valdoxan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193351000036105/valdoxan"
+    },
+    {
+      "text": "Valette",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,674881000168103/valette"
+    },
+    {
+      "text": "Valgan",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1180431000168103/valgan"
+    },
+    {
+      "text": "Valganciclovir (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1012761000168109/valganciclovir-apo"
+    },
+    {
+      "text": "Valganciclovir (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,999411000168101/valganciclovir-apotex"
+    },
+    {
+      "text": "Valganciclovir (Chemmart)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1100031000168105/valganciclovir-chemmart"
+    },
+    {
+      "text": "Valganciclovir (Hetero)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1558481000168104/valganciclovir-hetero"
+    },
+    {
+      "text": "Valganciclovir (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1618241000168109/valganciclovir-viatris"
+    },
+    {
+      "text": "Valgane",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933507151000036105/valgane"
+    },
+    {
+      "text": "Valium",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2980011000036107/valium"
+    },
+    {
+      "text": "Valnir",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,927774011000036103/valnir"
+    },
+    {
+      "text": "Valoid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,675041000168104/valoid"
+    },
+    {
+      "text": "Valomel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1732781000168108/valomel"
+    },
+    {
+      "text": "Valpam",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3175011000036100/valpam"
+    },
+    {
+      "text": "Valpro EC",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1057811000168105/valpro-ec"
+    },
+    {
+      "text": "Valproate (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1267941000168102/valproate-aft"
+    },
+    {
+      "text": "Valproate (HMH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,697878611000036107/valproate-hmh"
+    },
+    {
+      "text": "Valproate (LWS)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,433042991000036109/valproate-lws"
+    },
+    {
+      "text": "Valproate (SXP)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,598107181000036108/valproate-sxp"
+    },
+    {
+      "text": "Valproate EC (Winthrop)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,41341000168107/valproate-ec-winthrop"
+    },
+    {
+      "text": "Valsartan (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,654721000168105/valsartan-apo"
+    },
+    {
+      "text": "Valsartan (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1013671000168102/valsartan-apotex"
+    },
+    {
+      "text": "Valsartan HCTZ 160/12.5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1264971000168103/valsartan-hctz-160-12.5-apotex"
+    },
+    {
+      "text": "Valsartan HCTZ 320/12.5 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1263661000168100/valsartan-hctz-320-12.5-apotex"
+    },
+    {
+      "text": "Valsartan HCTZ 320/25 (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1265011000168106/valsartan-hctz-320-25-apotex"
+    },
+    {
+      "text": "Valsartan/Amlodipine 80/5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58761000168102/valsartan-amlodipine-80-5-sandoz"
+    },
+    {
+      "text": "Valsartan/Amlodipine/HCT 160/5/12.5 (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56331000168107/valsartan-amlodipine-hct-160-5-12.5-sandoz"
+    },
+    {
+      "text": "Valtresto 24/26 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,620750371000036106/valtresto-24-26-mg"
+    },
+    {
+      "text": "Valtresto 49/51 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,897801291000036106/valtresto-49-51-mg"
+    },
+    {
+      "text": "Valtresto 97/103 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,805549911000036109/valtresto-97-103-mg"
+    },
+    {
+      "text": "Valtrex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3821011000036105/valtrex"
+    },
+    {
+      "text": "Valtrex-1000",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1009671000168103/valtrex-1000"
+    },
+    {
+      "text": "Valwok",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1251821000168104/valwok"
+    },
+    {
+      "text": "Vamin 18 Electrolyte Free",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1248091000168104/vamin-18-electrolyte-free"
+    },
+    {
+      "text": "Vancocin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28691000168104/vancocin"
+    },
+    {
+      "text": "Vancocin CP",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,24181000168104/vancocin-cp"
+    },
+    {
+      "text": "Vancomycin (Alphapharm)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920929011000036104/vancomycin-alphapharm"
+    },
+    {
+      "text": "Vancomycin (Baxter)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1712541000168104/vancomycin-baxter"
+    },
+    {
+      "text": "Vancomycin (BNM)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1642171000168104/vancomycin-bnm"
+    },
+    {
+      "text": "Vancomycin (Juno)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1594641000168109/vancomycin-juno"
+    },
+    {
+      "text": "Vancomycin (Medsurge)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600591000036104/vancomycin-medsurge"
+    },
+    {
+      "text": "Vancomycin (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1632891000168106/vancomycin-viatris"
+    },
+    {
+      "text": "Vancor",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651911000036100/vancor"
+    },
+    {
+      "text": "Vapour Rub (Medix)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32171000036101/vapour-rub-medix"
+    },
+    {
+      "text": "Vaqta Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,16311000168108/vaqta-adult"
+    },
+    {
+      "text": "Vaqta Paediatric and Adolescent",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8441000168103/vaqta-paediatric-and-adolescent"
+    },
+    {
+      "text": "Varenapix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1656011000168107/varenapix"
+    },
+    {
+      "text": "Varenapix Composite Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1718161000168105/varenapix-composite-pack"
+    },
+    {
+      "text": "Varenicline (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1040341000168101/varenicline-apo"
+    },
+    {
+      "text": "Varenicline (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1040381000168106/varenicline-apotex"
+    },
+    {
+      "text": "Varenicline (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1734751000168109/varenicline-arx"
+    },
+    {
+      "text": "Varenicline (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,886221000168108/varenicline-blooms-the-chemist"
+    },
+    {
+      "text": "Varenicline (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506091000036102/varenicline-lupin"
+    },
+    {
+      "text": "Varenicline (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1694681000168107/varenicline-pharmacor"
+    },
+    {
+      "text": "Varenicline (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933279881000036100/varenicline-sandoz"
+    },
+    {
+      "text": "Varenicline (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1752851000168107/varenicline-viatris"
+    },
+    {
+      "text": "Varenicline Composite Pack (Blooms The Chemist)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1742371000168105/varenicline-composite-pack-blooms-the-chemist"
+    },
+    {
+      "text": "Varenicline Composite Pack (Lupin)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506081000036104/varenicline-composite-pack-lupin"
+    },
+    {
+      "text": "Varenicline Composite Pack (Pharmacor)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1696011000168104/varenicline-composite-pack-pharmacor"
+    },
+    {
+      "text": "Varenicline Composite Pack (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933280031000036108/varenicline-composite-pack-sandoz"
+    },
+    {
+      "text": "Varenicline Composite Pack (Viatris)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1790671000168105/varenicline-composite-pack-viatris"
+    },
+    {
+      "text": "Varenix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1707771000168102/varenix"
+    },
+    {
+      "text": "Vargatef",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736051000036104/vargatef"
+    },
+    {
+      "text": "Varilrix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73749011000036102/varilrix"
+    },
+    {
+      "text": "Varivax Refrigerated",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,40011000168104/varivax-refrigerated"
+    },
+    {
+      "text": "Vasafil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,675921000168109/vasafil"
+    },
+    {
+      "text": "Vascalace",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,15171000036101/vascalace"
+    },
+    {
+      "text": "Vasocardol",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,55741000168108/vasocardol"
+    },
+    {
+      "text": "Vasocardol CD",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,33011000168106/vasocardol-cd"
+    },
+    {
+      "text": "Vasodrine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1487031000168108/vasodrine"
+    },
+    {
+      "text": "Vasokinox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1197831000168103/vasokinox"
+    },
+    {
+      "text": "Vastoran",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,32191011000036100/vastoran"
+    },
+    {
+      "text": "Vastreka",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,824871251000036106/vastreka"
+    },
+    {
+      "text": "Vaxchora",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1786271000168106/vaxchora"
+    },
+    {
+      "text": "Vaxelis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1669561000168100/vaxelis"
+    },
+    {
+      "text": "Vaxigrip 2026",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652041000036106/vaxigrip-2026"
+    },
+    {
+      "text": "Vaxigrip Tetra 2025",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,263735391000036101/vaxigrip-tetra-2025"
+    },
+    {
+      "text": "Vaxneuvance",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1715921000168106/vaxneuvance"
+    },
+    {
+      "text": "Vazkepa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1794061000168104/vazkepa"
+    },
+    {
+      "text": "Vectibix",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,72907011000036100/vectibix"
+    },
+    {
+      "text": "Vecure",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,703231000168103/vecure"
+    },
+    {
+      "text": "Vecuronium (Sun)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1305051000168103/vecuronium-sun"
+    },
+    {
+      "text": "Vedafil",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,680671000168101/vedafil"
+    },
+    {
+      "text": "Vegzelma",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1696951000168102/vegzelma"
+    },
+    {
+      "text": "Veklury",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1480721000168106/veklury"
+    },
+    {
+      "text": "Velabine",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1663691000168109/velabine"
+    },
+    {
+      "text": "Velcade",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,2994011000036103/velcade"
+    },
+    {
+      "text": "Veletri",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,648431000168108/veletri"
+    },
+    {
+      "text": "Velmetia 50 mg/1000 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625911000168103/velmetia-50-mg-1000-mg"
+    },
+    {
+      "text": "Velmetia 50 mg/500 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625711000168101/velmetia-50-mg-500-mg"
+    },
+    {
+      "text": "Velmetia 50 mg/850 mg",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625851000168105/velmetia-50-mg-850-mg"
+    },
+    {
+      "text": "Velphoro",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,693111000168106/velphoro"
+    },
+    {
+      "text": "Velsipity",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1757631000168102/velsipity"
+    },
+    {
+      "text": "Veltassa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1342391000168107/veltassa"
+    },
+    {
+      "text": "Vemlidy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1134681000168101/vemlidy"
+    },
+    {
+      "text": "Venclexta",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1197251000168105/venclexta"
+    },
+    {
+      "text": "Venclexta Starting Pack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1200561000168108/venclexta-starting-pack"
+    },
+    {
+      "text": "Venlafaxine XR (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56851000168105/venlafaxine-xr-apo"
+    },
+    {
+      "text": "Venlafaxine XR (BTC)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933599521000036104/venlafaxine-xr-btc"
+    },
+    {
+      "text": "Venlafaxine XR (Generic Health)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,58601000168109/venlafaxine-xr-generic-health"
+    },
+    {
+      "text": "Venlafaxine XR (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,14321000168105/venlafaxine-xr-sandoz"
+    },
+    {
+      "text": "Venlafaxine XR (Terry White Chemists)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,22511000168109/venlafaxine-xr-terry-white-chemists"
+    },
+    {
+      "text": "Venlafaxine XR (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1772471000168102/venlafaxine-xr-wgr"
+    },
+    {
+      "text": "Venofer",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3151011000036100/venofer"
+    },
+    {
+      "text": "Ventavis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4439011000036102/ventavis"
+    },
+    {
+      "text": "Ventolin",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34481000168108/ventolin"
+    },
+    {
+      "text": "Ventolin Inhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,52411000168107/ventolin-inhaler"
+    },
+    {
+      "text": "Ventolin Nebules",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,34231000168108/ventolin-nebules"
+    },
+    {
+      "text": "Ventolin Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,51371000168102/ventolin-syrup"
+    },
+    {
+      "text": "Veoza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1760311000168106/veoza"
+    },
+    {
+      "text": "Vepesid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3683011000036107/vepesid"
+    },
+    {
+      "text": "Veraseal",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,213661891000036104/veraseal"
+    },
+    {
+      "text": "Verdye",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,507388951000036109/verdye"
+    },
+    {
+      "text": "Vermox",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19531000168104/vermox"
+    },
+    {
+      "text": "Vermox Choc Chew",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,8311000168106/vermox-choc-chew"
+    },
+    {
+      "text": "Verorab",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1727601000168105/verorab"
+    },
+    {
+      "text": "Verquvo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1588491000168106/verquvo"
+    },
+    {
+      "text": "Versatis",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,137391000036106/versatis"
+    },
+    {
+      "text": "Verzenio",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1427341000168106/verzenio"
+    },
+    {
+      "text": "Vesanoid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39594011000036102/vesanoid"
+    },
+    {
+      "text": "Vesican ODT",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1519411000168108/vesican-odt"
+    },
+    {
+      "text": "Vesicare",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39622011000036107/vesicare"
+    },
+    {
+      "text": "Vesifen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705421000036104/vesifen"
+    },
+    {
+      "text": "Vespen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1214881000168105/vespen"
+    },
+    {
+      "text": "Vevye",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651281000036104/vevye"
+    },
+    {
+      "text": "Vexazone",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,929365011000036100/vexazone"
+    },
+    {
+      "text": "Veyvondi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1493741000168106/veyvondi"
+    },
+    {
+      "text": "Vfend",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39743011000036106/vfend"
+    },
+    {
+      "text": "Viagra",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3408011000036101/viagra"
+    },
+    {
+      "text": "Viatocinon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1536751000168104/viatocinon"
+    },
+    {
+      "text": "Vicks Cough",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,48451000036102/vicks-cough"
+    },
+    {
+      "text": "Vicks Cough Syrup",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53258011000036103/vicks-cough-syrup"
+    },
+    {
+      "text": "Vicks Cough Syrup for Chesty Coughs",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80131011000036108/vicks-cough-syrup-for-chesty-coughs"
+    },
+    {
+      "text": "Vicks Formula 44 Chesty Coughs",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,80139011000036107/vicks-formula-44-chesty-coughs"
+    },
+    {
+      "text": "Vicks Formula 44 for Dry Coughs",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,53384011000036105/vicks-formula-44-for-dry-coughs"
+    },
+    {
+      "text": "Vicks Inhaler",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,65137011000036108/vicks-inhaler"
+    },
+    {
+      "text": "Vicks Sinex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,73754011000036100/vicks-sinex"
+    },
+    {
+      "text": "Vicks Sinex Extrafresh",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56821000168102/vicks-sinex-extrafresh"
+    },
+    {
+      "text": "Viclofen",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,788231000168109/viclofen"
+    },
+    {
+      "text": "Victoza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,97761000036103/victoza"
+    },
+    {
+      "text": "Vidaza",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,84763011000036109/vidaza"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/1000 (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537121000036107/vildagliptin-metformin-50-1000-apx"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/1000 (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635971000036108/vildagliptin-metformin-50-1000-arx"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/500 (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537111000036100/vildagliptin-metformin-50-500-apx"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/500 (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635981000036105/vildagliptin-metformin-50-500-arx"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/850 (APX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537101000036102/vildagliptin-metformin-50-850-apx"
+    },
+    {
+      "text": "Vildagliptin/Metformin 50/850 (ARX)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933635991000036107/vildagliptin-metformin-50-850-arx"
+    },
+    {
+      "text": "Vimcosa",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1600091000168108/vimcosa"
+    },
+    {
+      "text": "Vimizim",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,730721000168105/vimizim"
+    },
+    {
+      "text": "Vimmed",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933651621000036102/vimmed"
+    },
+    {
+      "text": "Vimpat",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,83598011000036103/vimpat"
+    },
+    {
+      "text": "Vinblastine (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4194011000036105/vinblastine-dbl"
+    },
+    {
+      "text": "Vincristine Sulfate (DBL)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3672011000036109/vincristine-sulfate-dbl"
+    },
+    {
+      "text": "Vincristine Sulfate (Pfizer (Perth))",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3033011000036109/vincristine-sulfate-pfizer-perth"
+    },
+    {
+      "text": "Vincristine Sulfate (Pfizer)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1460451000168108/vincristine-sulfate-pfizer"
+    },
+    {
+      "text": "Vinorelbine (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933537421000036101/vinorelbine-an"
+    },
+    {
+      "text": "Vinorelbine (Ebewe)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,4298011000036101/vinorelbine-ebewe"
+    },
+    {
+      "text": "Viodine Povidone-Iodine Antiseptic",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,47791000168106/viodine-povidone-iodine-antiseptic"
+    },
+    {
+      "text": "Viodine Povidone-Iodine Concentrated Gargle",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,56241000168109/viodine-povidone-iodine-concentrated-gargle"
+    },
+    {
+      "text": "Viplex",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1516881000168107/viplex"
+    },
+    {
+      "text": "Viramune",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,7221000168106/viramune"
+    },
+    {
+      "text": "Viramune XR",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63011000168102/viramune-xr"
+    },
+    {
+      "text": "Virasolve",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,64999011000036103/virasolve"
+    },
+    {
+      "text": "Viratero",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1262311000168103/viratero"
+    },
+    {
+      "text": "Viread",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,3788011000036108/viread"
+    },
+    {
+      "text": "Virupos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1540761000168103/virupos"
+    },
+    {
+      "text": "Visanne",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933193281000036108/visanne"
+    },
+    {
+      "text": "Visine Allergy 0.025% / 0.3%",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,6601000168102/visine-allergy-0.025---0.3"
+    },
+    {
+      "text": "Visipaque",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920924011000036100/visipaque"
+    },
+    {
+      "text": "Vistella",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,941563181000036104/vistella"
+    },
+    {
+      "text": "Vita-B12",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,78061000036109/vita-b12"
+    },
+    {
+      "text": "Vita-D",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,86578011000036104/vita-d"
+    },
+    {
+      "text": "Vitabdeck",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,11901000168104/vitabdeck"
+    },
+    {
+      "text": "Vitalipid N Adult",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,63541000168109/vitalipid-n-adult"
+    },
+    {
+      "text": "Vitalipid N Infant",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,42191000168108/vitalipid-n-infant"
+    },
+    {
+      "text": "Vitamin A (Bio-Logical)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1570201000168106/vitamin-a-bio-logical"
+    },
+    {
+      "text": "Vitamin A (Janssen-Cilag)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,35951011000036105/vitamin-a-janssen-cilag"
+    },
+    {
+      "text": "Vitamin A (Phebra)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1019981000168109/vitamin-a-phebra"
+    },
+    {
+      "text": "Vitamin A 5000 (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1439051000168104/vitamin-a-5000-blackmores"
+    },
+    {
+      "text": "Vitamin B1 (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652111000036106/vitamin-b1-a-won"
+    },
+    {
+      "text": "Vitamin B12 (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652351000036107/vitamin-b12-a-won"
+    },
+    {
+      "text": "Vitamin B12 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1177871000168106/vitamin-b12-nature's-own"
+    },
+    {
+      "text": "Vitamin B12 Activated (Caruso's)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,711436691000036102/vitamin-b12-activated-caruso's"
+    },
+    {
+      "text": "Vitamin B2 (Herbs of Gold)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1171541000168109/vitamin-b2-herbs-of-gold"
+    },
+    {
+      "text": "Vitamin B2 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1162181000168105/vitamin-b2-nature's-own"
+    },
+    {
+      "text": "Vitamin B3 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1173431000168100/vitamin-b3-nature's-own"
+    },
+    {
+      "text": "Vitamin B6 (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652341000036109/vitamin-b6-a-won"
+    },
+    {
+      "text": "Vitamin B6 (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1193091000168104/vitamin-b6-nature's-own"
+    },
+    {
+      "text": "Vitamin C 250 mg (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39821000168105/vitamin-c-250-mg-cenovis"
+    },
+    {
+      "text": "Vitamin C 250 mg Kids (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933506361000036107/vitamin-c-250-mg-kids-cenovis"
+    },
+    {
+      "text": "Vitamin C 500 mg (Gold Cross)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1165261000168100/vitamin-c-500-mg-gold-cross"
+    },
+    {
+      "text": "Vitamin C 500 mg (Healthy Care)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196501000168105/vitamin-c-500-mg-healthy-care"
+    },
+    {
+      "text": "Vitamin D (Faulding)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1758321000168109/vitamin-d-faulding"
+    },
+    {
+      "text": "Vitamin D3 (A-Won)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933652361000036105/vitamin-d3-a-won"
+    },
+    {
+      "text": "Vitamin D3 (Apohealth)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1760481000168108/vitamin-d3-apohealth"
+    },
+    {
+      "text": "Vitamin D3 (Bio-Logical)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1196601000168106/vitamin-d3-bio-logical"
+    },
+    {
+      "text": "Vitamin D3 (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1177981000168103/vitamin-d3-blackmores"
+    },
+    {
+      "text": "Vitamin D3 (Cenovis)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1761011000168102/vitamin-d3-cenovis"
+    },
+    {
+      "text": "Vitamin D3 (Chemists' Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1761131000168108/vitamin-d3-chemists'-own"
+    },
+    {
+      "text": "Vitamin D3 (Guardian)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,544156631000036100/vitamin-d3-guardian"
+    },
+    {
+      "text": "Vitamin D3 (Healthy Care)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1193611000168104/vitamin-d3-healthy-care"
+    },
+    {
+      "text": "Vitamin D3 Weekly (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933774621000036105/vitamin-d3-weekly-aft"
+    },
+    {
+      "text": "Vitamin E (Blackmores)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1758281000168104/vitamin-e-blackmores"
+    },
+    {
+      "text": "Vitamin E (Nature's Own)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1762561000168104/vitamin-e-nature's-own"
+    },
+    {
+      "text": "Vitaminorum",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,920926011000036108/vitaminorum"
+    },
+    {
+      "text": "Vitrakvi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1506301000168108/vitrakvi"
+    },
+    {
+      "text": "Vivala",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,379251911000036100/vivala"
+    },
+    {
+      "text": "Vocabria",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1539191000168103/vocabria"
+    },
+    {
+      "text": "Volibris",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,81978011000036105/volibris"
+    },
+    {
+      "text": "Volirop",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,19841000036103/volirop"
+    },
+    {
+      "text": "Voltaren",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,28551000168108/voltaren"
+    },
+    {
+      "text": "Voltaren Emulgel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38181000168109/voltaren-emulgel"
+    },
+    {
+      "text": "Voltaren Osteo 12 Hourly",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1194271000168108/voltaren-osteo-12-hourly"
+    },
+    {
+      "text": "Voltaren Pain Relief",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933600121000036109/voltaren-pain-relief"
+    },
+    {
+      "text": "Voltaren Rapid",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,39701011000036102/voltaren-rapid"
+    },
+    {
+      "text": "Voltaren Rapid Extra Strength",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933536691000036104/voltaren-rapid-extra-strength"
+    },
+    {
+      "text": "Voltaren Rapid Liquid Capsules",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1190161000168100/voltaren-rapid-liquid-capsules"
+    },
+    {
+      "text": "Volulyte",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1213321000168101/volulyte"
+    },
+    {
+      "text": "Voluven",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1013371000168107/voluven"
+    },
+    {
+      "text": "Voquily",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1759271000168107/voquily"
+    },
+    {
+      "text": "Voranigo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,265879911000036104/voranigo"
+    },
+    {
+      "text": "Vorcon",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1692421000168100/vorcon"
+    },
+    {
+      "text": "Voriconazole (AFT)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1588441000168103/voriconazole-aft"
+    },
+    {
+      "text": "Voriconazole (AN)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736471000036104/voriconazole-an"
+    },
+    {
+      "text": "Voriconazole (Apo)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1021261000168103/voriconazole-apo"
+    },
+    {
+      "text": "Voriconazole (Apotex)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,828081000168109/voriconazole-apotex"
+    },
+    {
+      "text": "Voriconazole (CH)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736451000036109/voriconazole-ch"
+    },
+    {
+      "text": "Voriconazole (InterPharma)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,766968121000036109/voriconazole-interpharma"
+    },
+    {
+      "text": "Voriconazole (Kabi)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1376421000168103/voriconazole-kabi"
+    },
+    {
+      "text": "Voriconazole (Mylan)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933736431000036101/voriconazole-mylan"
+    },
+    {
+      "text": "Voriconazole (Sandoz)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,742381000168108/voriconazole-sandoz"
+    },
+    {
+      "text": "Voriconazole (WGR)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933705601000036107/voriconazole-wgr"
+    },
+    {
+      "text": "Voriconazole (Wockhardt)",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1219681000168105/voriconazole-wockhardt"
+    },
+    {
+      "text": "Voriwok",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1406011000168104/voriwok"
+    },
+    {
+      "text": "Vosevi",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1220371000168101/vosevi"
+    },
+    {
+      "text": "Votrient",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,924364011000036100/votrient"
+    },
+    {
+      "text": "Voxzogo",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1660911000168102/voxzogo"
+    },
+    {
+      "text": "Voydeya",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,135285631000036107/voydeya"
+    },
+    {
+      "text": "Vpriv",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,683501000168101/vpriv"
+    },
+    {
+      "text": "Vsiqq",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1531511000168104/vsiqq"
+    },
+    {
+      "text": "Vttack",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,755411000168100/vttack"
+    },
+    {
+      "text": "Vubila",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933584711000036103/vubila"
+    },
+    {
+      "text": "Vueway",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,376377271000036107/vueway"
+    },
+    {
+      "text": "Vumerity",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1625291000168101/vumerity"
+    },
+    {
+      "text": "Vyalev 2400/120",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,933280371000036107/vyalev-2400-120"
+    },
+    {
+      "text": "Vyepti",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1557541000168109/vyepti"
+    },
+    {
+      "text": "Vyloy",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,567693741000036102/vyloy"
+    },
+    {
+      "text": "Vyndamax",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491651000168100/vyndamax"
+    },
+    {
+      "text": "Vyndaqel",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1491561000168104/vyndaqel"
+    },
+    {
+      "text": "Vytorin 10/10",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,38111000168103/vytorin-10-10"
+    },
+    {
+      "text": "Vytorin 10/20",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,36271000168101/vytorin-10-20"
+    },
+    {
+      "text": "Vytorin 10/40",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,44141000168106/vytorin-10-40"
+    },
+    {
+      "text": "Vytorin 10/80",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,59821000168106/vytorin-10-80"
+    },
+    {
+      "text": "Vyvanse",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,143261000036104/vyvanse"
+    },
+    {
+      "text": "Vyvgart",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,930984931000036104/vyvgart"
+    },
+    {
+      "text": "Vyxeos",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,1641221000168104/vyxeos"
+    },
+    {
+      "text": "Vzole",
+      "url": "https://www.healthdirect.gov.au/medicines/brand/amt,849001000168108/vzole"
+    },
+    {
+      "text": "Vadadustat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27164/vadadustat"
+    },
+    {
+      "text": "Valaciclovir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20293/valaciclovir"
+    },
+    {
+      "text": "Valerian + hops extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50525/valerian-+-hops-extract"
+    },
+    {
+      "text": "Valerian + hops extract + passiflora incarnata extract + balm leaf extract",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50446/valerian-+-hops-extract-+-passiflora-incarnata-extract-+-balm-leaf-extract"
+    },
+    {
+      "text": "Valganciclovir",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20294/valganciclovir"
+    },
+    {
+      "text": "Valproate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23068/valproate"
+    },
+    {
+      "text": "Valsartan",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20295/valsartan"
+    },
+    {
+      "text": "Valsartan + hydrochlorothiazide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23454/valsartan-+-hydrochlorothiazide"
+    },
+    {
+      "text": "Vancomycin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20296/vancomycin"
+    },
+    {
+      "text": "Vandetanib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20297/vandetanib"
+    },
+    {
+      "text": "Vanzacaftor + tezacaftor + deutivacaftor",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50705/vanzacaftor-+-tezacaftor-+-deutivacaftor"
+    },
+    {
+      "text": "Varenicline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20299/varenicline"
+    },
+    {
+      "text": "Varicella-zoster live vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27027/varicella-zoster-live-vaccine"
+    },
+    {
+      "text": "Varicella-zoster virus glycoprotein E recombinant adjuvanted vaccine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26732/varicella-zoster-virus-glycoprotein-e-recombinant-adjuvanted-vaccine"
+    },
+    {
+      "text": "Varicella-zoster virus immunoglobulin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23881/varicella-zoster-virus-immunoglobulin"
+    },
+    {
+      "text": "Vecuronium",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23072/vecuronium"
+    },
+    {
+      "text": "Vedolizumab",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23691/vedolizumab"
+    },
+    {
+      "text": "Velaglucerase alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20264/velaglucerase-alfa"
+    },
+    {
+      "text": "Velmanase alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50526/velmanase-alfa"
+    },
+    {
+      "text": "Vemurafenib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20263/vemurafenib"
+    },
+    {
+      "text": "Venetoclax",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24332/venetoclax"
+    },
+    {
+      "text": "Venlafaxine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20260/venlafaxine"
+    },
+    {
+      "text": "Verapamil",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20256/verapamil"
+    },
+    {
+      "text": "Vericiguat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27042/vericiguat"
+    },
+    {
+      "text": "Vigabatrin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20242/vigabatrin"
+    },
+    {
+      "text": "Vildagliptin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20241/vildagliptin"
+    },
+    {
+      "text": "Vildagliptin + metformin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23455/vildagliptin-+-metformin"
+    },
+    {
+      "text": "Vinblastine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20234/vinblastine"
+    },
+    {
+      "text": "Vincristine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20232/vincristine"
+    },
+    {
+      "text": "Vindesine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23823/vindesine"
+    },
+    {
+      "text": "Vinorelbine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20226/vinorelbine"
+    },
+    {
+      "text": "Vismodegib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20218/vismodegib"
+    },
+    {
+      "text": "Vitamin A",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,13072/vitamin-a"
+    },
+    {
+      "text": "Vitamin A + betacarotene + thiamine + riboflavin + pyridoxine + cyanocobalamin + nicotinamide + biotin + folic acid + ascorbic acid + calcium pantothenate + colecalciferol + dl-alpha-tocopherol + phytomenadione + zinc amino acid chelate",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50448/vitamin-a-+-betacarotene-+-thiamine-+-riboflavin-+-pyridoxine-+-cyanocobalamin-+-nicotinamide-+-biotin-+-folic-acid-+-ascorbic-acid-+-calcium-pantothenate-+-colecalciferol-+-dl-alpha-tocopherol-+-phytomenadione-+-zinc-amino-acid-chelate"
+    },
+    {
+      "text": "Vonicog alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26762/vonicog-alfa"
+    },
+    {
+      "text": "Vorasidenib",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50475/vorasidenib"
+    },
+    {
+      "text": "Voretigene neparvovec",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26757/voretigene-neparvovec"
+    },
+    {
+      "text": "Vorhyaluronidase alfa",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24060/vorhyaluronidase-alfa"
+    },
+    {
+      "text": "Voriconazole",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20217/voriconazole"
+    },
+    {
+      "text": "Vorinostat",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20216/vorinostat"
+    },
+    {
+      "text": "Vortioxetine",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23693/vortioxetine"
+    },
+    {
+      "text": "Vosoritide",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27117/vosoritide"
+    },
+    {
+      "text": "Vutrisiran",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50476/vutrisiran"
+    },
+    {
+      "text": "trusted sources",
+      "url": "https://www.healthdirect.gov.au/trusted-sources"
+    },
+    {
+      "text": "Find a pharmacy",
+      "url": "https://www.healthdirect.gov.au/australian-health-services?service=aht-12243"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Medicines starting with \"V\" | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# Medicines starting with \"V\"\n\n## Brand names\n\n- Vabysmo\n\n- Vaclovir\n\n- Vafseo\n\n- Vagifem Low\n\n- Vagisil\n\n- Valaciclovir (Actavis)\n\n- Valaciclovir (AN)\n\n- Valaciclovir (Apo)\n\n- Valaciclovir (Apotex)\n\n- Valaciclovir (APX)\n\n- Valaciclovir (Auro)\n\n- Valaciclovir (MGH)\n\n- Valaciclovir (Noumed)\n\n- Valaciclovir (Pfizer)\n\n- Valaciclovir (RBX)\n\n- Valaciclovir (Sandoz)\n\n- Valaciclovir (WGR)\n\n- Valaciclovir 1000 (Apo)\n\n- Valaciclovir 1000 (Apotex)\n\n- Valcyte\n\n- Valdoxan\n\n- Valette\n\n- Valgan\n\n- Valganciclovir (Apo)\n\n- Valganciclovir (Apotex)\n\n- Valganciclovir (Chemmart)\n\n- Valganciclovir (Hetero)\n\n- Valganciclovir (Viatris)\n\n- Valgane\n\n- Valium\n\n- Valnir\n\n- Valoid\n\n- Valomel\n\n- Valpam\n\n- Valpro EC\n\n- Valproate (AFT)\n\n- Valproate (HMH)\n\n- Valproate (LWS)\n\n- Valproate (SXP)\n\n- Valproate EC (Winthrop)\n\n- Valsartan (Apo)\n\n- Valsartan (Apotex)\n\n- Valsartan HCTZ 160/12.5 (Apotex)\n\n- Valsartan HCTZ 320/12.5 (Apotex)\n\n- Valsartan HCTZ 320/25 (Apotex)\n\n- Valsartan/Amlodipine 80/5 (Sandoz)\n\n- Valsartan/Amlodipine/HCT 160/5/12.5 (Sandoz)\n\n- Valtresto 24/26 mg\n\n- Valtresto 49/51 mg\n\n- Valtresto 97/103 mg\n\n- Valtrex\n\n- Valtrex-1000\n\n- Valwok\n\n- Vamin 18 Electrolyte Free\n\n- Vancocin\n\n- Vancocin CP\n\n- Vancomycin (Alphapharm)\n\n- Vancomycin (Baxter)\n\n- Vancomycin (BNM)\n\n- Vancomycin (Juno)\n\n- Vancomycin (Medsurge)\n\n- Vancomycin (Viatris)\n\n- Vancor\n\n- Vapour Rub (Medix)\n\n- Vaqta Adult\n\n- Vaqta Paediatric and Adolescent\n\n- Varenapix\n\n- Varenapix Composite Pack\n\n- Varenicline (Apo)\n\n- Varenicline (Apotex)\n\n- Varenicline (ARX)\n\n- Varenicline (Blooms The Chemist)\n\n- Varenicline (Lupin)\n\n- Varenicline (Pharmacor)\n\n- Varenicline (Sandoz)\n\n- Varenicline (Viatris)\n\n- Varenicline Composite Pack (Blooms The Chemist)\n\n- Varenicline Composite Pack (Lupin)\n\n- Varenicline Composite Pack (Pharmacor)\n\n- Varenicline Composite Pack (Sandoz)\n\n- Varenicline Composite Pack (Viatris)\n\n- Varenix\n\n- Vargatef\n\n- Varilrix\n\n- Varivax Refrigerated\n\n- Vasafil\n\n- Vascalace\n\n- Vasocardol\n\n- Vasocardol CD\n\n- Vasodrine\n\n- Vasokinox\n\n- Vastoran\n\n- Vastreka\n\n- Vaxchora\n\n- Vaxelis\n\n- Vaxigrip 2026\n\n- Vaxigrip Tetra 2025\n\n- Vaxneuvance\n\n- Vazkepa\n\n- Vectibix\n\n- Vecure\n\n- Vecuronium (Sun)\n\n- Vedafil\n\n- Vegzelma\n\n- Veklury\n\n- Velabine\n\n- Velcade\n\n- Veletri\n\n- Velmetia 50 mg/1000 mg\n\n- Velmetia 50 mg/500 mg\n\n- Velmetia 50 mg/850 mg\n\n- Velphoro\n\n- Velsipity\n\n- Veltassa\n\n- Vemlidy\n\n- Venclexta\n\n- Venclexta Starting Pack\n\n- Venlafaxine XR (Apo)\n\n- Venlafaxine XR (BTC)\n\n- Venlafaxine XR (Generic Health)\n\n- Venlafaxine XR (Sandoz)\n\n- Venlafaxine XR (Terry White Chemists)\n\n- Venlafaxine XR (WGR)\n\n- Venofer\n\n- Ventavis\n\n- Ventolin\n\n- Ventolin Inhaler\n\n- Ventolin Nebules\n\n- Ventolin Syrup\n\n- Veoza\n\n- Vepesid\n\n- Veraseal\n\n- Verdye\n\n- Vermox\n\n- Vermox Choc Chew\n\n- Verorab\n\n- Verquvo\n\n- Versatis\n\n- Verzenio\n\n- Vesanoid\n\n- Vesican ODT\n\n- Vesicare\n\n- Vesifen\n\n- Vespen\n\n- Vevye\n\n- Vexazone\n\n- Veyvondi\n\n- Vfend\n\n- Viagra\n\n- Viatocinon\n\n- Vicks Cough\n\n- Vicks Cough Syrup\n\n- Vicks Cough Syrup for Chesty Coughs\n\n- Vicks Formula 44 Chesty Coughs\n\n- Vicks Formula 44 for Dry Coughs\n\n- Vicks Inhaler\n\n- Vicks Sinex\n\n- Vicks Sinex Extrafresh\n\n- Viclofen\n\n- Victoza\n\n- Vidaza\n\n- Vildagliptin/Metformin 50/1000 (APX)\n\n- Vildagliptin/Metformin 50/1000 (ARX)\n\n- Vildagliptin/Metformin 50/500 (APX)\n\n- Vildagliptin/Metformin 50/500 (ARX)\n\n- Vildagliptin/Metformin 50/850 (APX)\n\n- Vildagliptin/Metformin 50/850 (ARX)\n\n- Vimcosa\n\n- Vimizim\n\n- Vimmed\n\n- Vimpat\n\n- Vinblastine (DBL)\n\n- Vincristine Sulfate (DBL)\n\n- Vincristine Sulfate (Pfizer (Perth))\n\n- Vincristine Sulfate (Pfizer)\n\n- Vinorelbine (AN)\n\n- Vinorelbine (Ebewe)\n\n- Viodine Povidone-Iodine Antiseptic\n\n- Viodine Povidone-Iodine Concentrated Gargle\n\n- Viplex\n\n- Viramune\n\n- Viramune XR\n\n- Virasolve\n\n- Viratero\n\n- Viread\n\n- Virupos\n\n- Visanne\n\n- Visine Allergy 0.025% / 0.3%\n\n- Visipaque\n\n- Vistella\n\n- Vita-B12\n\n- Vita-D\n\n- Vitabdeck\n\n- Vitalipid N Adult\n\n- Vitalipid N Infant\n\n- Vitamin A (Bio-Logical)\n\n- Vitamin A (Janssen-Cilag)\n\n- Vitamin A (Phebra)\n\n- Vitamin A 5000 (Blackmores)\n\n- Vitamin B1 (A-Won)\n\n- Vitamin B12 (A-Won)\n\n- Vitamin B12 (Nature's Own)\n\n- Vitamin B12 Activated (Caruso's)\n\n- Vitamin B2 (Herbs of Gold)\n\n- Vitamin B2 (Nature's Own)\n\n- Vitamin B3 (Nature's Own)\n\n- Vitamin B6 (A-Won)\n\n- Vitamin B6 (Nature's Own)\n\n- Vitamin C 250 mg (Cenovis)\n\n- Vitamin C 250 mg Kids (Cenovis)\n\n- Vitamin C 500 mg (Gold Cross)\n\n- Vitamin C 500 mg (Healthy Care)\n\n- Vitamin D (Faulding)\n\n- Vitamin D3 (A-Won)\n\n- Vitamin D3 (Apohealth)\n\n- Vitamin D3 (Bio-Logical)\n\n- Vitamin D3 (Blackmores)\n\n- Vitamin D3 (Cenovis)\n\n- Vitamin D3 (Chemists' Own)\n\n- Vitamin D3 (Guardian)\n\n- Vitamin D3 (Healthy Care)\n\n- Vitamin D3 Weekly (AFT)\n\n- Vitamin E (Blackmores)\n\n- Vitamin E (Nature's Own)\n\n- Vitaminorum\n\n- Vitrakvi\n\n- Vivala\n\n- Vocabria\n\n- Volibris\n\n- Volirop\n\n- Voltaren\n\n- Voltaren Emulgel\n\n- Voltaren Osteo 12 Hourly\n\n- Voltaren Pain Relief\n\n- Voltaren Rapid\n\n- Voltaren Rapid Extra Strength\n\n- Voltaren Rapid Liquid Capsules\n\n- Volulyte\n\n- Voluven\n\n- Voquily\n\n- Voranigo\n\n- Vorcon\n\n- Voriconazole (AFT)\n\n- Voriconazole (AN)\n\n- Voriconazole (Apo)\n\n- Voriconazole (Apotex)\n\n- Voriconazole (CH)\n\n- Voriconazole (InterPharma)\n\n- Voriconazole (Kabi)\n\n- Voriconazole (Mylan)\n\n- Voriconazole (Sandoz)\n\n- Voriconazole (WGR)\n\n- Voriconazole (Wockhardt)\n\n- Voriwok\n\n- Vosevi\n\n- Votrient\n\n- Voxzogo\n\n- Voydeya\n\n- Vpriv\n\n- Vsiqq\n\n- Vttack\n\n- Vubila\n\n- Vueway\n\n- Vumerity\n\n- Vyalev 2400/120\n\n- Vyepti\n\n- Vyloy\n\n- Vyndamax\n\n- Vyndaqel\n\n- Vytorin 10/10\n\n- Vytorin 10/20\n\n- Vytorin 10/40\n\n- Vytorin 10/80\n\n- Vyvanse\n\n- Vyvgart\n\n- Vyxeos\n\n- Vzole\n\nPREV 1 2 3 4 5 6 NEXT\n\n## Active ingredients\n\n- Vadadustat\n\n- Valaciclovir\n\n- Valerian +\n\n- hops extract\n\n- hops extract +\n\n- passiflora incarnata extract +\n\n- balm leaf extract\n\n- Valganciclovir\n\n- Valproate\n\n- Valsartan\n\n- Valsartan +\n\n- hydrochlorothiazide\n\n- Vancomycin\n\n- Vandetanib\n\n- Vanzacaftor +\n\n- tezacaftor +\n\n- deutivacaftor\n\n- Varenicline\n\n- Varicella-zoster live vaccine\n\n- Varicella-zoster virus glycoprotein E recombinant adjuvanted vaccine\n\n- Varicella-zoster virus immunoglobulin\n\n- Vecuronium\n\n- Vedolizumab\n\n- Velaglucerase alfa\n\n- Velmanase alfa\n\n- Vemurafenib\n\n- Venetoclax\n\n- Venlafaxine\n\n- Verapamil\n\n- Vericiguat\n\n- Vigabatrin\n\n- Vildagliptin\n\n- Vildagliptin +\n\n- metformin\n\n- Vinblastine\n\n- Vincristine\n\n- Vindesine\n\n- Vinorelbine\n\n- Vismodegib\n\n- Vitamin A\n\n- Vitamin A +\n\n- betacarotene +\n\n- thiamine +\n\n- riboflavin +\n\n- pyridoxine +\n\n- cyanocobalamin +\n\n- nicotinamide +\n\n- biotin +\n\n- folic acid +\n\n- ascorbic acid +\n\n- calcium pantothenate +\n\n- colecalciferol +\n\n- dl-alpha-tocopherol +\n\n- phytomenadione +\n\n- zinc amino acid chelate\n\n- Vonicog alfa\n\n- Vorasidenib\n\n- Voretigene neparvovec\n\n- Vorhyaluronidase alfa\n\n- Voriconazole\n\n- Vorinostat\n\n- Vortioxetine\n\n- Vosoritide\n\n- Vutrisiran\n\nPREV 1 2 3 4 5 NEXT\n\nThe information displayed on this page is authored by Healthdirect Australia, or obtained from trusted sources .\n\nFind a pharmacy Check your symptoms\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg\n\n- Please enter your name: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/medicines/search-results/V-excludeNonArtg#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Vabysmo: https://www.healthdirect.gov.au/medicines/brand/amt,1639811000168108/vabysmo\n\n- Vaclovir: https://www.healthdirect.gov.au/medicines/brand/amt,927770011000036108/vaclovir\n\n- Vafseo: https://www.healthdirect.gov.au/medicines/brand/amt,1701791000168107/vafseo\n\n- Vagifem Low: https://www.healthdirect.gov.au/medicines/brand/amt,28321000168109/vagifem-low\n\n- Vagisil: https://www.healthdirect.gov.au/medicines/brand/amt,53263011000036104/vagisil\n\n- Valaciclovir (Actavis): https://www.healthdirect.gov.au/medicines/brand/amt,761000036109/valaciclovir-actavis\n\n- Valaciclovir (AN): https://www.healthdirect.gov.au/medicines/brand/amt,659941000168102/valaciclovir-an\n\n- Valaciclovir (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,2021000168100/valaciclovir-apo\n\n- Valaciclovir (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1014791000168109/valaciclovir-apotex\n\n- Valaciclovir (APX): https://www.healthdirect.gov.au/medicines/brand/amt,1570261000168107/valaciclovir-apx\n\n- Valaciclovir (Auro): https://www.healthdirect.gov.au/medicines/brand/amt,1097991000168104/valaciclovir-auro\n\n- Valaciclovir (MGH): https://www.healthdirect.gov.au/medicines/brand/amt,933536931000036109/valaciclovir-mgh\n\n- Valaciclovir (Noumed): https://www.healthdirect.gov.au/medicines/brand/amt,1160131000168105/valaciclovir-noumed\n\n- Valaciclovir (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,19791000036100/valaciclovir-pfizer\n\n- Valaciclovir (RBX): https://www.healthdirect.gov.au/medicines/brand/amt,927814011000036108/valaciclovir-rbx\n\n- Valaciclovir (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,927787011000036101/valaciclovir-sandoz\n\n- Valaciclovir (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1775481000168108/valaciclovir-wgr\n\n- Valaciclovir 1000 (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1001131000168109/valaciclovir-1000-apo\n\n- Valaciclovir 1000 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1017851000168100/valaciclovir-1000-apotex\n\n- Valcyte: https://www.healthdirect.gov.au/medicines/brand/amt,2958011000036101/valcyte\n\n- Valdoxan: https://www.healthdirect.gov.au/medicines/brand/amt,933193351000036105/valdoxan\n\n- Valette: https://www.healthdirect.gov.au/medicines/brand/amt,674881000168103/valette\n\n- Valgan: https://www.healthdirect.gov.au/medicines/brand/amt,1180431000168103/valgan\n\n- Valganciclovir (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1012761000168109/valganciclovir-apo\n\n- Valganciclovir (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,999411000168101/valganciclovir-apotex\n\n- Valganciclovir (Chemmart): https://www.healthdirect.gov.au/medicines/brand/amt,1100031000168105/valganciclovir-chemmart\n\n- Valganciclovir (Hetero): https://www.healthdirect.gov.au/medicines/brand/amt,1558481000168104/valganciclovir-hetero\n\n- Valganciclovir (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1618241000168109/valganciclovir-viatris\n\n- Valgane: https://www.healthdirect.gov.au/medicines/brand/amt,933507151000036105/valgane\n\n- Valium: https://www.healthdirect.gov.au/medicines/brand/amt,2980011000036107/valium\n\n- Valnir: https://www.healthdirect.gov.au/medicines/brand/amt,927774011000036103/valnir\n\n- Valoid: https://www.healthdirect.gov.au/medicines/brand/amt,675041000168104/valoid\n\n- Valomel: https://www.healthdirect.gov.au/medicines/brand/amt,1732781000168108/valomel\n\n- Valpam: https://www.healthdirect.gov.au/medicines/brand/amt,3175011000036100/valpam\n\n- Valpro EC: https://www.healthdirect.gov.au/medicines/brand/amt,1057811000168105/valpro-ec\n\n- Valproate (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1267941000168102/valproate-aft\n\n- Valproate (HMH): https://www.healthdirect.gov.au/medicines/brand/amt,697878611000036107/valproate-hmh\n\n- Valproate (LWS): https://www.healthdirect.gov.au/medicines/brand/amt,433042991000036109/valproate-lws\n\n- Valproate (SXP): https://www.healthdirect.gov.au/medicines/brand/amt,598107181000036108/valproate-sxp\n\n- Valproate EC (Winthrop): https://www.healthdirect.gov.au/medicines/brand/amt,41341000168107/valproate-ec-winthrop\n\n- Valsartan (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,654721000168105/valsartan-apo\n\n- Valsartan (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1013671000168102/valsartan-apotex\n\n- Valsartan HCTZ 160/12.5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1264971000168103/valsartan-hctz-160-12.5-apotex\n\n- Valsartan HCTZ 320/12.5 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1263661000168100/valsartan-hctz-320-12.5-apotex\n\n- Valsartan HCTZ 320/25 (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1265011000168106/valsartan-hctz-320-25-apotex\n\n- Valsartan/Amlodipine 80/5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,58761000168102/valsartan-amlodipine-80-5-sandoz\n\n- Valsartan/Amlodipine/HCT 160/5/12.5 (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,56331000168107/valsartan-amlodipine-hct-160-5-12.5-sandoz\n\n- Valtresto 24/26 mg: https://www.healthdirect.gov.au/medicines/brand/amt,620750371000036106/valtresto-24-26-mg\n\n- Valtresto 49/51 mg: https://www.healthdirect.gov.au/medicines/brand/amt,897801291000036106/valtresto-49-51-mg\n\n- Valtresto 97/103 mg: https://www.healthdirect.gov.au/medicines/brand/amt,805549911000036109/valtresto-97-103-mg\n\n- Valtrex: https://www.healthdirect.gov.au/medicines/brand/amt,3821011000036105/valtrex\n\n- Valtrex-1000: https://www.healthdirect.gov.au/medicines/brand/amt,1009671000168103/valtrex-1000\n\n- Valwok: https://www.healthdirect.gov.au/medicines/brand/amt,1251821000168104/valwok\n\n- Vamin 18 Electrolyte Free: https://www.healthdirect.gov.au/medicines/brand/amt,1248091000168104/vamin-18-electrolyte-free\n\n- Vancocin: https://www.healthdirect.gov.au/medicines/brand/amt,28691000168104/vancocin\n\n- Vancocin CP: https://www.healthdirect.gov.au/medicines/brand/amt,24181000168104/vancocin-cp\n\n- Vancomycin (Alphapharm): https://www.healthdirect.gov.au/medicines/brand/amt,920929011000036104/vancomycin-alphapharm\n\n- Vancomycin (Baxter): https://www.healthdirect.gov.au/medicines/brand/amt,1712541000168104/vancomycin-baxter\n\n- Vancomycin (BNM): https://www.healthdirect.gov.au/medicines/brand/amt,1642171000168104/vancomycin-bnm\n\n- Vancomycin (Juno): https://www.healthdirect.gov.au/medicines/brand/amt,1594641000168109/vancomycin-juno\n\n- Vancomycin (Medsurge): https://www.healthdirect.gov.au/medicines/brand/amt,933600591000036104/vancomycin-medsurge\n\n- Vancomycin (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1632891000168106/vancomycin-viatris\n\n- Vancor: https://www.healthdirect.gov.au/medicines/brand/amt,933651911000036100/vancor\n\n- Vapour Rub (Medix): https://www.healthdirect.gov.au/medicines/brand/amt,32171000036101/vapour-rub-medix\n\n- Vaqta Adult: https://www.healthdirect.gov.au/medicines/brand/amt,16311000168108/vaqta-adult\n\n- Vaqta Paediatric and Adolescent: https://www.healthdirect.gov.au/medicines/brand/amt,8441000168103/vaqta-paediatric-and-adolescent\n\n- Varenapix: https://www.healthdirect.gov.au/medicines/brand/amt,1656011000168107/varenapix\n\n- Varenapix Composite Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1718161000168105/varenapix-composite-pack\n\n- Varenicline (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1040341000168101/varenicline-apo\n\n- Varenicline (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,1040381000168106/varenicline-apotex\n\n- Varenicline (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,1734751000168109/varenicline-arx\n\n- Varenicline (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,886221000168108/varenicline-blooms-the-chemist\n\n- Varenicline (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,933506091000036102/varenicline-lupin\n\n- Varenicline (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1694681000168107/varenicline-pharmacor\n\n- Varenicline (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933279881000036100/varenicline-sandoz\n\n- Varenicline (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1752851000168107/varenicline-viatris\n\n- Varenicline Composite Pack (Blooms The Chemist): https://www.healthdirect.gov.au/medicines/brand/amt,1742371000168105/varenicline-composite-pack-blooms-the-chemist\n\n- Varenicline Composite Pack (Lupin): https://www.healthdirect.gov.au/medicines/brand/amt,933506081000036104/varenicline-composite-pack-lupin\n\n- Varenicline Composite Pack (Pharmacor): https://www.healthdirect.gov.au/medicines/brand/amt,1696011000168104/varenicline-composite-pack-pharmacor\n\n- Varenicline Composite Pack (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,933280031000036108/varenicline-composite-pack-sandoz\n\n- Varenicline Composite Pack (Viatris): https://www.healthdirect.gov.au/medicines/brand/amt,1790671000168105/varenicline-composite-pack-viatris\n\n- Varenix: https://www.healthdirect.gov.au/medicines/brand/amt,1707771000168102/varenix\n\n- Vargatef: https://www.healthdirect.gov.au/medicines/brand/amt,933736051000036104/vargatef\n\n- Varilrix: https://www.healthdirect.gov.au/medicines/brand/amt,73749011000036102/varilrix\n\n- Varivax Refrigerated: https://www.healthdirect.gov.au/medicines/brand/amt,40011000168104/varivax-refrigerated\n\n- Vasafil: https://www.healthdirect.gov.au/medicines/brand/amt,675921000168109/vasafil\n\n- Vascalace: https://www.healthdirect.gov.au/medicines/brand/amt,15171000036101/vascalace\n\n- Vasocardol: https://www.healthdirect.gov.au/medicines/brand/amt,55741000168108/vasocardol\n\n- Vasocardol CD: https://www.healthdirect.gov.au/medicines/brand/amt,33011000168106/vasocardol-cd\n\n- Vasodrine: https://www.healthdirect.gov.au/medicines/brand/amt,1487031000168108/vasodrine\n\n- Vasokinox: https://www.healthdirect.gov.au/medicines/brand/amt,1197831000168103/vasokinox\n\n- Vastoran: https://www.healthdirect.gov.au/medicines/brand/amt,32191011000036100/vastoran\n\n- Vastreka: https://www.healthdirect.gov.au/medicines/brand/amt,824871251000036106/vastreka\n\n- Vaxchora: https://www.healthdirect.gov.au/medicines/brand/amt,1786271000168106/vaxchora\n\n- Vaxelis: https://www.healthdirect.gov.au/medicines/brand/amt,1669561000168100/vaxelis\n\n- Vaxigrip 2026: https://www.healthdirect.gov.au/medicines/brand/amt,933652041000036106/vaxigrip-2026\n\n- Vaxigrip Tetra 2025: https://www.healthdirect.gov.au/medicines/brand/amt,263735391000036101/vaxigrip-tetra-2025\n\n- Vaxneuvance: https://www.healthdirect.gov.au/medicines/brand/amt,1715921000168106/vaxneuvance\n\n- Vazkepa: https://www.healthdirect.gov.au/medicines/brand/amt,1794061000168104/vazkepa\n\n- Vectibix: https://www.healthdirect.gov.au/medicines/brand/amt,72907011000036100/vectibix\n\n- Vecure: https://www.healthdirect.gov.au/medicines/brand/amt,703231000168103/vecure\n\n- Vecuronium (Sun): https://www.healthdirect.gov.au/medicines/brand/amt,1305051000168103/vecuronium-sun\n\n- Vedafil: https://www.healthdirect.gov.au/medicines/brand/amt,680671000168101/vedafil\n\n- Vegzelma: https://www.healthdirect.gov.au/medicines/brand/amt,1696951000168102/vegzelma\n\n- Veklury: https://www.healthdirect.gov.au/medicines/brand/amt,1480721000168106/veklury\n\n- Velabine: https://www.healthdirect.gov.au/medicines/brand/amt,1663691000168109/velabine\n\n- Velcade: https://www.healthdirect.gov.au/medicines/brand/amt,2994011000036103/velcade\n\n- Veletri: https://www.healthdirect.gov.au/medicines/brand/amt,648431000168108/veletri\n\n- Velmetia 50 mg/1000 mg: https://www.healthdirect.gov.au/medicines/brand/amt,1625911000168103/velmetia-50-mg-1000-mg\n\n- Velmetia 50 mg/500 mg: https://www.healthdirect.gov.au/medicines/brand/amt,1625711000168101/velmetia-50-mg-500-mg\n\n- Velmetia 50 mg/850 mg: https://www.healthdirect.gov.au/medicines/brand/amt,1625851000168105/velmetia-50-mg-850-mg\n\n- Velphoro: https://www.healthdirect.gov.au/medicines/brand/amt,693111000168106/velphoro\n\n- Velsipity: https://www.healthdirect.gov.au/medicines/brand/amt,1757631000168102/velsipity\n\n- Veltassa: https://www.healthdirect.gov.au/medicines/brand/amt,1342391000168107/veltassa\n\n- Vemlidy: https://www.healthdirect.gov.au/medicines/brand/amt,1134681000168101/vemlidy\n\n- Venclexta: https://www.healthdirect.gov.au/medicines/brand/amt,1197251000168105/venclexta\n\n- Venclexta Starting Pack: https://www.healthdirect.gov.au/medicines/brand/amt,1200561000168108/venclexta-starting-pack\n\n- Venlafaxine XR (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,56851000168105/venlafaxine-xr-apo\n\n- Venlafaxine XR (BTC): https://www.healthdirect.gov.au/medicines/brand/amt,933599521000036104/venlafaxine-xr-btc\n\n- Venlafaxine XR (Generic Health): https://www.healthdirect.gov.au/medicines/brand/amt,58601000168109/venlafaxine-xr-generic-health\n\n- Venlafaxine XR (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,14321000168105/venlafaxine-xr-sandoz\n\n- Venlafaxine XR (Terry White Chemists): https://www.healthdirect.gov.au/medicines/brand/amt,22511000168109/venlafaxine-xr-terry-white-chemists\n\n- Venlafaxine XR (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,1772471000168102/venlafaxine-xr-wgr\n\n- Venofer: https://www.healthdirect.gov.au/medicines/brand/amt,3151011000036100/venofer\n\n- Ventavis: https://www.healthdirect.gov.au/medicines/brand/amt,4439011000036102/ventavis\n\n- Ventolin: https://www.healthdirect.gov.au/medicines/brand/amt,34481000168108/ventolin\n\n- Ventolin Inhaler: https://www.healthdirect.gov.au/medicines/brand/amt,52411000168107/ventolin-inhaler\n\n- Ventolin Nebules: https://www.healthdirect.gov.au/medicines/brand/amt,34231000168108/ventolin-nebules\n\n- Ventolin Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,51371000168102/ventolin-syrup\n\n- Veoza: https://www.healthdirect.gov.au/medicines/brand/amt,1760311000168106/veoza\n\n- Vepesid: https://www.healthdirect.gov.au/medicines/brand/amt,3683011000036107/vepesid\n\n- Veraseal: https://www.healthdirect.gov.au/medicines/brand/amt,213661891000036104/veraseal\n\n- Verdye: https://www.healthdirect.gov.au/medicines/brand/amt,507388951000036109/verdye\n\n- Vermox: https://www.healthdirect.gov.au/medicines/brand/amt,19531000168104/vermox\n\n- Vermox Choc Chew: https://www.healthdirect.gov.au/medicines/brand/amt,8311000168106/vermox-choc-chew\n\n- Verorab: https://www.healthdirect.gov.au/medicines/brand/amt,1727601000168105/verorab\n\n- Verquvo: https://www.healthdirect.gov.au/medicines/brand/amt,1588491000168106/verquvo\n\n- Versatis: https://www.healthdirect.gov.au/medicines/brand/amt,137391000036106/versatis\n\n- Verzenio: https://www.healthdirect.gov.au/medicines/brand/amt,1427341000168106/verzenio\n\n- Vesanoid: https://www.healthdirect.gov.au/medicines/brand/amt,39594011000036102/vesanoid\n\n- Vesican ODT: https://www.healthdirect.gov.au/medicines/brand/amt,1519411000168108/vesican-odt\n\n- Vesicare: https://www.healthdirect.gov.au/medicines/brand/amt,39622011000036107/vesicare\n\n- Vesifen: https://www.healthdirect.gov.au/medicines/brand/amt,933705421000036104/vesifen\n\n- Vespen: https://www.healthdirect.gov.au/medicines/brand/amt,1214881000168105/vespen\n\n- Vevye: https://www.healthdirect.gov.au/medicines/brand/amt,933651281000036104/vevye\n\n- Vexazone: https://www.healthdirect.gov.au/medicines/brand/amt,929365011000036100/vexazone\n\n- Veyvondi: https://www.healthdirect.gov.au/medicines/brand/amt,1493741000168106/veyvondi\n\n- Vfend: https://www.healthdirect.gov.au/medicines/brand/amt,39743011000036106/vfend\n\n- Viagra: https://www.healthdirect.gov.au/medicines/brand/amt,3408011000036101/viagra\n\n- Viatocinon: https://www.healthdirect.gov.au/medicines/brand/amt,1536751000168104/viatocinon\n\n- Vicks Cough: https://www.healthdirect.gov.au/medicines/brand/amt,48451000036102/vicks-cough\n\n- Vicks Cough Syrup: https://www.healthdirect.gov.au/medicines/brand/amt,53258011000036103/vicks-cough-syrup\n\n- Vicks Cough Syrup for Chesty Coughs: https://www.healthdirect.gov.au/medicines/brand/amt,80131011000036108/vicks-cough-syrup-for-chesty-coughs\n\n- Vicks Formula 44 Chesty Coughs: https://www.healthdirect.gov.au/medicines/brand/amt,80139011000036107/vicks-formula-44-chesty-coughs\n\n- Vicks Formula 44 for Dry Coughs: https://www.healthdirect.gov.au/medicines/brand/amt,53384011000036105/vicks-formula-44-for-dry-coughs\n\n- Vicks Inhaler: https://www.healthdirect.gov.au/medicines/brand/amt,65137011000036108/vicks-inhaler\n\n- Vicks Sinex: https://www.healthdirect.gov.au/medicines/brand/amt,73754011000036100/vicks-sinex\n\n- Vicks Sinex Extrafresh: https://www.healthdirect.gov.au/medicines/brand/amt,56821000168102/vicks-sinex-extrafresh\n\n- Viclofen: https://www.healthdirect.gov.au/medicines/brand/amt,788231000168109/viclofen\n\n- Victoza: https://www.healthdirect.gov.au/medicines/brand/amt,97761000036103/victoza\n\n- Vidaza: https://www.healthdirect.gov.au/medicines/brand/amt,84763011000036109/vidaza\n\n- Vildagliptin/Metformin 50/1000 (APX): https://www.healthdirect.gov.au/medicines/brand/amt,933537121000036107/vildagliptin-metformin-50-1000-apx\n\n- Vildagliptin/Metformin 50/1000 (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933635971000036108/vildagliptin-metformin-50-1000-arx\n\n- Vildagliptin/Metformin 50/500 (APX): https://www.healthdirect.gov.au/medicines/brand/amt,933537111000036100/vildagliptin-metformin-50-500-apx\n\n- Vildagliptin/Metformin 50/500 (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933635981000036105/vildagliptin-metformin-50-500-arx\n\n- Vildagliptin/Metformin 50/850 (APX): https://www.healthdirect.gov.au/medicines/brand/amt,933537101000036102/vildagliptin-metformin-50-850-apx\n\n- Vildagliptin/Metformin 50/850 (ARX): https://www.healthdirect.gov.au/medicines/brand/amt,933635991000036107/vildagliptin-metformin-50-850-arx\n\n- Vimcosa: https://www.healthdirect.gov.au/medicines/brand/amt,1600091000168108/vimcosa\n\n- Vimizim: https://www.healthdirect.gov.au/medicines/brand/amt,730721000168105/vimizim\n\n- Vimmed: https://www.healthdirect.gov.au/medicines/brand/amt,933651621000036102/vimmed\n\n- Vimpat: https://www.healthdirect.gov.au/medicines/brand/amt,83598011000036103/vimpat\n\n- Vinblastine (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,4194011000036105/vinblastine-dbl\n\n- Vincristine Sulfate (DBL): https://www.healthdirect.gov.au/medicines/brand/amt,3672011000036109/vincristine-sulfate-dbl\n\n- Vincristine Sulfate (Pfizer (Perth)): https://www.healthdirect.gov.au/medicines/brand/amt,3033011000036109/vincristine-sulfate-pfizer-perth\n\n- Vincristine Sulfate (Pfizer): https://www.healthdirect.gov.au/medicines/brand/amt,1460451000168108/vincristine-sulfate-pfizer\n\n- Vinorelbine (AN): https://www.healthdirect.gov.au/medicines/brand/amt,933537421000036101/vinorelbine-an\n\n- Vinorelbine (Ebewe): https://www.healthdirect.gov.au/medicines/brand/amt,4298011000036101/vinorelbine-ebewe\n\n- Viodine Povidone-Iodine Antiseptic: https://www.healthdirect.gov.au/medicines/brand/amt,47791000168106/viodine-povidone-iodine-antiseptic\n\n- Viodine Povidone-Iodine Concentrated Gargle: https://www.healthdirect.gov.au/medicines/brand/amt,56241000168109/viodine-povidone-iodine-concentrated-gargle\n\n- Viplex: https://www.healthdirect.gov.au/medicines/brand/amt,1516881000168107/viplex\n\n- Viramune: https://www.healthdirect.gov.au/medicines/brand/amt,7221000168106/viramune\n\n- Viramune XR: https://www.healthdirect.gov.au/medicines/brand/amt,63011000168102/viramune-xr\n\n- Virasolve: https://www.healthdirect.gov.au/medicines/brand/amt,64999011000036103/virasolve\n\n- Viratero: https://www.healthdirect.gov.au/medicines/brand/amt,1262311000168103/viratero\n\n- Viread: https://www.healthdirect.gov.au/medicines/brand/amt,3788011000036108/viread\n\n- Virupos: https://www.healthdirect.gov.au/medicines/brand/amt,1540761000168103/virupos\n\n- Visanne: https://www.healthdirect.gov.au/medicines/brand/amt,933193281000036108/visanne\n\n- Visine Allergy 0.025% / 0.3%: https://www.healthdirect.gov.au/medicines/brand/amt,6601000168102/visine-allergy-0.025---0.3\n\n- Visipaque: https://www.healthdirect.gov.au/medicines/brand/amt,920924011000036100/visipaque\n\n- Vistella: https://www.healthdirect.gov.au/medicines/brand/amt,941563181000036104/vistella\n\n- Vita-B12: https://www.healthdirect.gov.au/medicines/brand/amt,78061000036109/vita-b12\n\n- Vita-D: https://www.healthdirect.gov.au/medicines/brand/amt,86578011000036104/vita-d\n\n- Vitabdeck: https://www.healthdirect.gov.au/medicines/brand/amt,11901000168104/vitabdeck\n\n- Vitalipid N Adult: https://www.healthdirect.gov.au/medicines/brand/amt,63541000168109/vitalipid-n-adult\n\n- Vitalipid N Infant: https://www.healthdirect.gov.au/medicines/brand/amt,42191000168108/vitalipid-n-infant\n\n- Vitamin A (Bio-Logical): https://www.healthdirect.gov.au/medicines/brand/amt,1570201000168106/vitamin-a-bio-logical\n\n- Vitamin A (Janssen-Cilag): https://www.healthdirect.gov.au/medicines/brand/amt,35951011000036105/vitamin-a-janssen-cilag\n\n- Vitamin A (Phebra): https://www.healthdirect.gov.au/medicines/brand/amt,1019981000168109/vitamin-a-phebra\n\n- Vitamin A 5000 (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1439051000168104/vitamin-a-5000-blackmores\n\n- Vitamin B1 (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652111000036106/vitamin-b1-a-won\n\n- Vitamin B12 (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652351000036107/vitamin-b12-a-won\n\n- Vitamin B12 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1177871000168106/vitamin-b12-nature's-own\n\n- Vitamin B12 Activated (Caruso's): https://www.healthdirect.gov.au/medicines/brand/amt,711436691000036102/vitamin-b12-activated-caruso's\n\n- Vitamin B2 (Herbs of Gold): https://www.healthdirect.gov.au/medicines/brand/amt,1171541000168109/vitamin-b2-herbs-of-gold\n\n- Vitamin B2 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1162181000168105/vitamin-b2-nature's-own\n\n- Vitamin B3 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1173431000168100/vitamin-b3-nature's-own\n\n- Vitamin B6 (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652341000036109/vitamin-b6-a-won\n\n- Vitamin B6 (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1193091000168104/vitamin-b6-nature's-own\n\n- Vitamin C 250 mg (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,39821000168105/vitamin-c-250-mg-cenovis\n\n- Vitamin C 250 mg Kids (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,933506361000036107/vitamin-c-250-mg-kids-cenovis\n\n- Vitamin C 500 mg (Gold Cross): https://www.healthdirect.gov.au/medicines/brand/amt,1165261000168100/vitamin-c-500-mg-gold-cross\n\n- Vitamin C 500 mg (Healthy Care): https://www.healthdirect.gov.au/medicines/brand/amt,1196501000168105/vitamin-c-500-mg-healthy-care\n\n- Vitamin D (Faulding): https://www.healthdirect.gov.au/medicines/brand/amt,1758321000168109/vitamin-d-faulding\n\n- Vitamin D3 (A-Won): https://www.healthdirect.gov.au/medicines/brand/amt,933652361000036105/vitamin-d3-a-won\n\n- Vitamin D3 (Apohealth): https://www.healthdirect.gov.au/medicines/brand/amt,1760481000168108/vitamin-d3-apohealth\n\n- Vitamin D3 (Bio-Logical): https://www.healthdirect.gov.au/medicines/brand/amt,1196601000168106/vitamin-d3-bio-logical\n\n- Vitamin D3 (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1177981000168103/vitamin-d3-blackmores\n\n- Vitamin D3 (Cenovis): https://www.healthdirect.gov.au/medicines/brand/amt,1761011000168102/vitamin-d3-cenovis\n\n- Vitamin D3 (Chemists' Own): https://www.healthdirect.gov.au/medicines/brand/amt,1761131000168108/vitamin-d3-chemists'-own\n\n- Vitamin D3 (Guardian): https://www.healthdirect.gov.au/medicines/brand/amt,544156631000036100/vitamin-d3-guardian\n\n- Vitamin D3 (Healthy Care): https://www.healthdirect.gov.au/medicines/brand/amt,1193611000168104/vitamin-d3-healthy-care\n\n- Vitamin D3 Weekly (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,933774621000036105/vitamin-d3-weekly-aft\n\n- Vitamin E (Blackmores): https://www.healthdirect.gov.au/medicines/brand/amt,1758281000168104/vitamin-e-blackmores\n\n- Vitamin E (Nature's Own): https://www.healthdirect.gov.au/medicines/brand/amt,1762561000168104/vitamin-e-nature's-own\n\n- Vitaminorum: https://www.healthdirect.gov.au/medicines/brand/amt,920926011000036108/vitaminorum\n\n- Vitrakvi: https://www.healthdirect.gov.au/medicines/brand/amt,1506301000168108/vitrakvi\n\n- Vivala: https://www.healthdirect.gov.au/medicines/brand/amt,379251911000036100/vivala\n\n- Vocabria: https://www.healthdirect.gov.au/medicines/brand/amt,1539191000168103/vocabria\n\n- Volibris: https://www.healthdirect.gov.au/medicines/brand/amt,81978011000036105/volibris\n\n- Volirop: https://www.healthdirect.gov.au/medicines/brand/amt,19841000036103/volirop\n\n- Voltaren: https://www.healthdirect.gov.au/medicines/brand/amt,28551000168108/voltaren\n\n- Voltaren Emulgel: https://www.healthdirect.gov.au/medicines/brand/amt,38181000168109/voltaren-emulgel\n\n- Voltaren Osteo 12 Hourly: https://www.healthdirect.gov.au/medicines/brand/amt,1194271000168108/voltaren-osteo-12-hourly\n\n- Voltaren Pain Relief: https://www.healthdirect.gov.au/medicines/brand/amt,933600121000036109/voltaren-pain-relief\n\n- Voltaren Rapid: https://www.healthdirect.gov.au/medicines/brand/amt,39701011000036102/voltaren-rapid\n\n- Voltaren Rapid Extra Strength: https://www.healthdirect.gov.au/medicines/brand/amt,933536691000036104/voltaren-rapid-extra-strength\n\n- Voltaren Rapid Liquid Capsules: https://www.healthdirect.gov.au/medicines/brand/amt,1190161000168100/voltaren-rapid-liquid-capsules\n\n- Volulyte: https://www.healthdirect.gov.au/medicines/brand/amt,1213321000168101/volulyte\n\n- Voluven: https://www.healthdirect.gov.au/medicines/brand/amt,1013371000168107/voluven\n\n- Voquily: https://www.healthdirect.gov.au/medicines/brand/amt,1759271000168107/voquily\n\n- Voranigo: https://www.healthdirect.gov.au/medicines/brand/amt,265879911000036104/voranigo\n\n- Vorcon: https://www.healthdirect.gov.au/medicines/brand/amt,1692421000168100/vorcon\n\n- Voriconazole (AFT): https://www.healthdirect.gov.au/medicines/brand/amt,1588441000168103/voriconazole-aft\n\n- Voriconazole (AN): https://www.healthdirect.gov.au/medicines/brand/amt,933736471000036104/voriconazole-an\n\n- Voriconazole (Apo): https://www.healthdirect.gov.au/medicines/brand/amt,1021261000168103/voriconazole-apo\n\n- Voriconazole (Apotex): https://www.healthdirect.gov.au/medicines/brand/amt,828081000168109/voriconazole-apotex\n\n- Voriconazole (CH): https://www.healthdirect.gov.au/medicines/brand/amt,933736451000036109/voriconazole-ch\n\n- Voriconazole (InterPharma): https://www.healthdirect.gov.au/medicines/brand/amt,766968121000036109/voriconazole-interpharma\n\n- Voriconazole (Kabi): https://www.healthdirect.gov.au/medicines/brand/amt,1376421000168103/voriconazole-kabi\n\n- Voriconazole (Mylan): https://www.healthdirect.gov.au/medicines/brand/amt,933736431000036101/voriconazole-mylan\n\n- Voriconazole (Sandoz): https://www.healthdirect.gov.au/medicines/brand/amt,742381000168108/voriconazole-sandoz\n\n- Voriconazole (WGR): https://www.healthdirect.gov.au/medicines/brand/amt,933705601000036107/voriconazole-wgr\n\n- Voriconazole (Wockhardt): https://www.healthdirect.gov.au/medicines/brand/amt,1219681000168105/voriconazole-wockhardt\n\n- Voriwok: https://www.healthdirect.gov.au/medicines/brand/amt,1406011000168104/voriwok\n\n- Vosevi: https://www.healthdirect.gov.au/medicines/brand/amt,1220371000168101/vosevi\n\n- Votrient: https://www.healthdirect.gov.au/medicines/brand/amt,924364011000036100/votrient\n\n- Voxzogo: https://www.healthdirect.gov.au/medicines/brand/amt,1660911000168102/voxzogo\n\n- Voydeya: https://www.healthdirect.gov.au/medicines/brand/amt,135285631000036107/voydeya\n\n- Vpriv: https://www.healthdirect.gov.au/medicines/brand/amt,683501000168101/vpriv\n\n- Vsiqq: https://www.healthdirect.gov.au/medicines/brand/amt,1531511000168104/vsiqq\n\n- Vttack: https://www.healthdirect.gov.au/medicines/brand/amt,755411000168100/vttack\n\n- Vubila: https://www.healthdirect.gov.au/medicines/brand/amt,933584711000036103/vubila\n\n- Vueway: https://www.healthdirect.gov.au/medicines/brand/amt,376377271000036107/vueway\n\n- Vumerity: https://www.healthdirect.gov.au/medicines/brand/amt,1625291000168101/vumerity\n\n- Vyalev 2400/120: https://www.healthdirect.gov.au/medicines/brand/amt,933280371000036107/vyalev-2400-120\n\n- Vyepti: https://www.healthdirect.gov.au/medicines/brand/amt,1557541000168109/vyepti\n\n- Vyloy: https://www.healthdirect.gov.au/medicines/brand/amt,567693741000036102/vyloy\n\n- Vyndamax: https://www.healthdirect.gov.au/medicines/brand/amt,1491651000168100/vyndamax\n\n- Vyndaqel: https://www.healthdirect.gov.au/medicines/brand/amt,1491561000168104/vyndaqel\n\n- Vytorin 10/10: https://www.healthdirect.gov.au/medicines/brand/amt,38111000168103/vytorin-10-10\n\n- Vytorin 10/20: https://www.healthdirect.gov.au/medicines/brand/amt,36271000168101/vytorin-10-20\n\n- Vytorin 10/40: https://www.healthdirect.gov.au/medicines/brand/amt,44141000168106/vytorin-10-40\n\n- Vytorin 10/80: https://www.healthdirect.gov.au/medicines/brand/amt,59821000168106/vytorin-10-80\n\n- Vyvanse: https://www.healthdirect.gov.au/medicines/brand/amt,143261000036104/vyvanse\n\n- Vyvgart: https://www.healthdirect.gov.au/medicines/brand/amt,930984931000036104/vyvgart\n\n- Vyxeos: https://www.healthdirect.gov.au/medicines/brand/amt,1641221000168104/vyxeos\n\n- Vzole: https://www.healthdirect.gov.au/medicines/brand/amt,849001000168108/vzole\n\n- Vadadustat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27164/vadadustat\n\n- Valaciclovir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20293/valaciclovir\n\n- Valerian + hops extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50525/valerian-+-hops-extract\n\n- Valerian + hops extract + passiflora incarnata extract + balm leaf extract: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50446/valerian-+-hops-extract-+-passiflora-incarnata-extract-+-balm-leaf-extract\n\n- Valganciclovir: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20294/valganciclovir\n\n- Valproate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23068/valproate\n\n- Valsartan: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20295/valsartan\n\n- Valsartan + hydrochlorothiazide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23454/valsartan-+-hydrochlorothiazide\n\n- Vancomycin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20296/vancomycin\n\n- Vandetanib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20297/vandetanib\n\n- Vanzacaftor + tezacaftor + deutivacaftor: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50705/vanzacaftor-+-tezacaftor-+-deutivacaftor\n\n- Varenicline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20299/varenicline\n\n- Varicella-zoster live vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27027/varicella-zoster-live-vaccine\n\n- Varicella-zoster virus glycoprotein E recombinant adjuvanted vaccine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26732/varicella-zoster-virus-glycoprotein-e-recombinant-adjuvanted-vaccine\n\n- Varicella-zoster virus immunoglobulin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23881/varicella-zoster-virus-immunoglobulin\n\n- Vecuronium: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23072/vecuronium\n\n- Vedolizumab: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23691/vedolizumab\n\n- Velaglucerase alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20264/velaglucerase-alfa\n\n- Velmanase alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50526/velmanase-alfa\n\n- Vemurafenib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20263/vemurafenib\n\n- Venetoclax: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24332/venetoclax\n\n- Venlafaxine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20260/venlafaxine\n\n- Verapamil: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20256/verapamil\n\n- Vericiguat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27042/vericiguat\n\n- Vigabatrin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20242/vigabatrin\n\n- Vildagliptin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20241/vildagliptin\n\n- Vildagliptin + metformin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23455/vildagliptin-+-metformin\n\n- Vinblastine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20234/vinblastine\n\n- Vincristine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20232/vincristine\n\n- Vindesine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23823/vindesine\n\n- Vinorelbine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20226/vinorelbine\n\n- Vismodegib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20218/vismodegib\n\n- Vitamin A: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,13072/vitamin-a\n\n- Vitamin A + betacarotene + thiamine + riboflavin + pyridoxine + cyanocobalamin + nicotinamide + biotin + folic acid + ascorbic acid + calcium pantothenate + colecalciferol + dl-alpha-tocopherol + phytomenadione + zinc amino acid chelate: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50448/vitamin-a-+-betacarotene-+-thiamine-+-riboflavin-+-pyridoxine-+-cyanocobalamin-+-nicotinamide-+-biotin-+-folic-acid-+-ascorbic-acid-+-calcium-pantothenate-+-colecalciferol-+-dl-alpha-tocopherol-+-phytomenadione-+-zinc-amino-acid-chelate\n\n- Vonicog alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26762/vonicog-alfa\n\n- Vorasidenib: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50475/vorasidenib\n\n- Voretigene neparvovec: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,26757/voretigene-neparvovec\n\n- Vorhyaluronidase alfa: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,24060/vorhyaluronidase-alfa\n\n- Voriconazole: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20217/voriconazole\n\n- Vorinostat: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20216/vorinostat\n\n- Vortioxetine: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,23693/vortioxetine\n\n- Vosoritide: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,27117/vosoritide\n\n- Vutrisiran: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,50476/vutrisiran\n\n- trusted sources: https://www.healthdirect.gov.au/trusted-sources\n\n- Find a pharmacy: https://www.healthdirect.gov.au/australian-health-services?service=aht-12243\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}
