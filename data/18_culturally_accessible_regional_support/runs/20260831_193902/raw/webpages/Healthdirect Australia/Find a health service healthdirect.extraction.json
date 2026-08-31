@@ -1,0 +1,191 @@
+{
+  "source_id": "healthdirect:service-finder",
+  "title": "Find a health service | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/australian-health-services",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 5877,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/australian-health-services",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au",
+      "url": "https://www.healthdirect.gov.au"
+    },
+    {
+      "text": "View full list of services",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/all-services"
+    },
+    {
+      "text": "Find a COVID-19 vaccine clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/guided-search/covid-vaccine"
+    },
+    {
+      "text": "Find a GP (General practice)",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/guided-search/general-practice"
+    },
+    {
+      "text": "Find an urgent care service",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/guided-search/urgent-care"
+    },
+    {
+      "text": "Register now",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.healthdirect.gov.au/privacy-notice"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "Provide feedback",
+      "url": "https://www.healthdirect.gov.au/how-to-provide-feedback"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    }
+  ],
+  "text": "Find a health service | healthdirect\n\nJoin Sign in\n\nMenu\n\nFree Australian health advice you can count on.\n\nLanguage displayed in\n\nEnglish\n\nAssyrian Neo-Aramaic (الآرامية الآشورية الجديدة) Arabic (العربية) Bengali (বাংলা) Chinese Simplified (中文) Chinese Traditional (中文（台灣）) Greek (Ελληνικά) Hindi (हिन्दी) Italian (Italiano) Khmer (ភាសាខ្មែរ) Korean (한국어) Punjabi (ਪੰਜਾਬੀ) Serbian (Српски) Spanish (Español) Turkish (Türkçe) Vietnamese (Tiếng Việt)\n\n# Service Finder\n\nAustralia's most comprehensive directory of healthcare professionals and services.\n\nSearch by service\n\nLoading...\n\nin\n\nEnter suburb or postcode\n\nSearch\n\n## Search by popular services\n\nSelecting the following checkbox updates the service type search box with only one value at a time.\n\nGP (General practice)\n\nPsychiatry\n\nPharmacy\n\nCOVID-19 vaccine clinic\n\nPhysiotherapy\n\nPathology\n\nHospitals\n\nUrgent care service\n\nView full list of services\n\n## Search by popular filters\n\nBulk billing\n\nADHD continuation prescriber\n\n## Need help finding a service?\n\nFind a COVID-19 vaccine clinic\n\nFind a GP (General practice)\n\nFind an urgent care service\n\n### Register an Organisation\n\nWant to list a service on the National Health Service Directory?\n\nRegister now\n\n24 hour health advice you can count on\n\n1800 022 222\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- Provide feedback\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Medicines\n\n- Service finder\n\n- Symptom checker\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au: https://www.healthdirect.gov.au\n\n- View full list of services: https://www.healthdirect.gov.au/australian-health-services/all-services\n\n- Find a COVID-19 vaccine clinic: https://www.healthdirect.gov.au/australian-health-services/guided-search/covid-vaccine\n\n- Find a GP (General practice): https://www.healthdirect.gov.au/australian-health-services/guided-search/general-practice\n\n- Find an urgent care service: https://www.healthdirect.gov.au/australian-health-services/guided-search/urgent-care\n\n- Register now: https://www.healthdirect.gov.au/register-with-nhsd\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Terms of use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy: https://www.healthdirect.gov.au/privacy-notice\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- Provide feedback: https://www.healthdirect.gov.au/how-to-provide-feedback\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+}

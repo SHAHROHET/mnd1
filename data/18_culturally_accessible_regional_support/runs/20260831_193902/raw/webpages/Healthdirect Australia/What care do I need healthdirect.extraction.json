@@ -1,0 +1,711 @@
+{
+  "source_id": "healthdirect:what-care-do-i-need",
+  "title": "What care do I need? | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/what-care-do-i-need",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 40244,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/what-care-do-i-need",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/what-care-do-i-need"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/what-care-do-i-need"
+    },
+    {
+      "text": "(Arabic) العربية",
+      "url": "https://www.healthdirect.gov.au/ar/what-care-do-i-need"
+    },
+    {
+      "text": "বাংলা (Bengali)",
+      "url": "https://www.healthdirect.gov.au/bn/what-care-do-i-need"
+    },
+    {
+      "text": "简体中文 (Simplified Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hans/what-care-do-i-need"
+    },
+    {
+      "text": "繁體中文 (Traditional Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hant/what-care-do-i-need"
+    },
+    {
+      "text": "Tiếng Việt (Vietnamese)",
+      "url": "https://www.healthdirect.gov.au/vi/what-care-do-i-need"
+    },
+    {
+      "text": "What types of healthcare are available in Australia?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#types"
+    },
+    {
+      "text": "When should I visit my general practitioner (GP)?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#gp"
+    },
+    {
+      "text": "What health services can my pharmacist provide?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#pharmacist"
+    },
+    {
+      "text": "Where can I go if I'm sick or injured outside of business hours?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#after-hours"
+    },
+    {
+      "text": "When should I call an ambulance?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#ambulance"
+    },
+    {
+      "text": "Help and resources for using health services",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#using"
+    },
+    {
+      "text": "How can I find health clinics near me?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#near-me"
+    },
+    {
+      "text": "How can I access an interpreter?",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#interpreter"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#searchGeneralResults"
+    },
+    {
+      "text": "after-hours GP clinics or services",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/after-hours-healthcare-options"
+    },
+    {
+      "text": "telehealth",
+      "url": "https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment#options"
+    },
+    {
+      "text": "general practitioner (GP)",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "x-rays",
+      "url": "https://www.healthdirect.gov.au/x-rays"
+    },
+    {
+      "text": "most of your doctor’s appointment",
+      "url": "https://www.healthdirect.gov.au/questions-to-ask-your-doctor"
+    },
+    {
+      "text": "over-the-counter medicines",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "vaccinations",
+      "url": "https://www.healthdirect.gov.au/immunisation-and-vaccinations"
+    },
+    {
+      "text": "getting the most out of your pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "healthdirect",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "after-hours health services",
+      "url": "https://www.healthdirect.gov.au/after-hours-health-services"
+    },
+    {
+      "text": "urinary tract infections (UTIs)",
+      "url": "https://www.healthdirect.gov.au/urinary-tract-infection-uti"
+    },
+    {
+      "text": "sexually transmitted infections (STIs)",
+      "url": "https://www.healthdirect.gov.au/sexually-transmitted-infections-sti"
+    },
+    {
+      "text": "insect bites",
+      "url": "https://www.healthdirect.gov.au/insect-bites-infographic"
+    },
+    {
+      "text": "rashes",
+      "url": "https://www.healthdirect.gov.au/rashes"
+    },
+    {
+      "text": "eye",
+      "url": "https://www.healthdirect.gov.au/eye-infections"
+    },
+    {
+      "text": "ear",
+      "url": "https://www.healthdirect.gov.au/ear-diseases-and-disorders"
+    },
+    {
+      "text": "burns",
+      "url": "https://www.healthdirect.gov.au/burns-and-scalds"
+    },
+    {
+      "text": "emergency departments",
+      "url": "https://www.healthdirect.gov.au/hospital-emergency-departments"
+    },
+    {
+      "text": "chest pain",
+      "url": "https://www.healthdirect.gov.au/chest-pain"
+    },
+    {
+      "text": "calling triple zero (000)",
+      "url": "https://www.healthdirect.gov.au/calling-triple-zero"
+    },
+    {
+      "text": "other sources",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "healthdirect app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "finding good health information online",
+      "url": "https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online"
+    },
+    {
+      "text": "many community languages",
+      "url": "https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online#accordion-7594"
+    },
+    {
+      "text": "Translating and Interpreting Service (TIS National)",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "Ambulance Victoria",
+      "url": "https://www.ambulance.vic.gov.au/community/education/calling-an-ambulance/"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander health and medical services",
+      "url": "https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/"
+    },
+    {
+      "text": "NACCHO",
+      "url": "https://www.naccho.org.au/acchos/"
+    },
+    {
+      "text": "(General practitioner services)",
+      "url": "https://www.betterhealth.vic.gov.au/health/serviceprofiles/general-practitioner-services"
+    },
+    {
+      "text": "(Emergency departments)",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Going_To_hospital/Pages/emergency-departments.aspx"
+    },
+    {
+      "text": "(Pharmacy as a career)",
+      "url": "https://www.psa.org.au/career-and-support/pharmacy-as-a-career/"
+    },
+    {
+      "text": "(Save 000 for Emergencies)",
+      "url": "https://www.ambulance.vic.gov.au/campaigns/save-triple-zero-emergencies/"
+    },
+    {
+      "text": "(How to find good health information online - Booklet)",
+      "url": "https://www.safetyandquality.gov.au/publications-and-resources/resource-library/how-find-good-health-information-online-booklet"
+    },
+    {
+      "text": "(When to visit a Medicare Urgent Care Centre)",
+      "url": "https://www.health.gov.au/find-a-medicare-ucc/when-to-visit"
+    },
+    {
+      "text": "(Translating and Interpreting service — Available services)",
+      "url": "https://www.tisnational.gov.au/en/Non-English-speakers/Available-services"
+    },
+    {
+      "text": "(After-hours care)",
+      "url": "https://www.health.gov.au/topics/primary-care/what-we-do/after-hours-care"
+    },
+    {
+      "text": "(Patients)",
+      "url": "https://www.vved.org.au/patients/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/what-care-do-i-need#backToTop"
+    },
+    {
+      "text": "General Practitioners",
+      "url": "https://www.healthdirect.gov.au/search-results/General Practitioners"
+    },
+    {
+      "text": "Emergency department service",
+      "url": "https://www.healthdirect.gov.au/search-results/Emergency department service"
+    },
+    {
+      "text": "Australia's healthcare system",
+      "url": "https://www.healthdirect.gov.au/search-results/Australia's healthcare system"
+    },
+    {
+      "text": "Individual Healthcare Identifiers - Services Australia A number that identifies you for health care purposes. Read more on Medicare website",
+      "url": "https://www.servicesaustralia.gov.au/individual-healthcare-identifiers"
+    },
+    {
+      "text": "The Australian Healthcare System - Rahma Health Overview of the Australian Healthcare system including medicare, hospitals and medicines. Read more on Rahma Health website",
+      "url": "https://rahma.health/refugee-health/the-australian-healthcare-system/"
+    },
+    {
+      "text": "Australian Immunisation Register - Services Australia The national register where your vaccinations are recorded. Read more on Medicare website",
+      "url": "https://www.servicesaustralia.gov.au/australian-immunisation-register"
+    },
+    {
+      "text": "Australian Organ Donor Register - Services Australia The national register where you record your organ and tissue donation decision. Read more on Medicare website",
+      "url": "https://www.servicesaustralia.gov.au/australian-organ-donor-register"
+    },
+    {
+      "text": "Understanding your healthcare rights | Australian Commission on Safety and Quality in Health Care The Australian Charter of Healthcare Rights describes the rights that you or someone you care for can expect when receiving health care. Read more on ACSQHC website",
+      "url": "https://www.safetyandquality.gov.au/your-rights/understanding-your-healthcare-rights"
+    },
+    {
+      "text": "Hearing services Hearing services are provided by a range of government and non-government agencies in NSW. This information is provided for consumers to locate NSW Health clinical services they may need. Read more on NSW Health website",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/child/Pages/hearing-services.aspx"
+    },
+    {
+      "text": "Your healthcare team - Musculoskeletal Health Australia A supportive healthcare team will work with you to help you manage your condition. There are a range of health professionals who can help. Find out more. Read more on Musculoskeletal Health Australia website",
+      "url": "https://muscha.org/healthcare-team/"
+    },
+    {
+      "text": "Financial support for healthcare | Disability Gateway Information and services to help people with disability, their family, friends and carers, to find the support they need in Australia Read more on Disability Gateway website",
+      "url": "https://www.disabilitygateway.gov.au/income-finance/support-healthcare"
+    },
+    {
+      "text": "How to contact social work services - Social work services - Services Australia You can speak to a social worker over the phone. Read more on Centrelink website",
+      "url": "https://www.servicesaustralia.gov.au/how-to-contact-social-work-services?context=22461"
+    },
+    {
+      "text": "Rural and regional healthcare | Better Health Channel Some rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/rural-and-regional-healthcare"
+    },
+    {
+      "text": "Dogs in Healthcare Settings You may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dogs-in-healthcare"
+    },
+    {
+      "text": "Active Listening in Healthcare Effective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/active-listening-in-healthcare"
+    },
+    {
+      "text": "Spiritual Considerations in Healthcare In the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/spiritual-considerations-in-healthcare"
+    },
+    {
+      "text": "Avoiding Burnout in Healthcare The word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/tips-for-avoiding-burnout"
+    },
+    {
+      "text": "Healthcare Rights - Diversity - Community Learn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Community/Diversity/Healthcare-Rights/"
+    },
+    {
+      "text": "Healthcare Rights and Informed Consent All clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/healthcare-rights-and-informed-consent"
+    },
+    {
+      "text": "Policies and Procedures in Healthcare Policies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/policies-and-procedures-in-healthcare"
+    },
+    {
+      "text": "Surveillance of Healthcare-Associated Infections Healthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/hai-surveillance"
+    },
+    {
+      "text": "Conducting Performance Appraisals in Healthcare As a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/conducting-performance-appraisals-in-healthcare"
+    },
+    {
+      "text": "Workforce Immunisation for Healthcare Staff Due to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/workforce-immunisation"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "What care do I need? | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# What healthcare do I need?\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nSelect language: (Arabic) العربية , বাংলা (Bengali) , 简体中文 (Simplified Chinese) , 繁體中文 (Traditional Chinese) , Tiếng Việt (Vietnamese)\n\n## Key facts\n\n- If you are seriously sick or injured : Call an ambulance on triple zero (000) or go to your nearest hospital emergency department.\n\n- If you have a minor illness or injury : Call healthdirect on 1800 022 222 for advice, or visit your GP, local medical centre or pharmacist.\n\n- If you need ongoing medical care : Visit your GP (general practitioner or family doctor).\n\n- If you need personal health advice : Visit your GP or pharmacist, or call healthdirect on 1800 022 222.\n\n- If you need general health information : Search online, using the links suggested by healthdirect.\n\n## On this page\n\n- What types of healthcare are available in Australia?\n\n- When should I visit my general practitioner (GP)?\n\n- What health services can my pharmacist provide?\n\n- Where can I go if I'm sick or injured outside of business hours?\n\n- When should I call an ambulance?\n\n- Help and resources for using health services\n\n- How can I find health clinics near me?\n\n- How can I access an interpreter?\n\n- Related information on Australian websites\n\n## What types of healthcare are available in Australia?\n\nThere are many types of healthcare services and information available in Australia. This article explains how to find the right service at the right time.\n\nServices include:\n\n- your general practitioner (GP or family doctor)\n\n- your pharmacist\n\n- after-hours GP clinics or services\n\n- Medicare Urgent Care Clinics\n\n- your local hospital emergency department\n\nSome healthcare providers may also provide services remotely via telehealth .\n\nIf you need immediate medical help, you can call triple zero (000) and ask for an ambulance.\n\n## When should I visit my general practitioner (GP)?\n\nIf you have a health problem or concern, it’s usually best to see a general practitioner (GP) first. They will coordinate your healthcare and can refer you to any other doctors or health professionals you need. In some countries, a GP is called a family doctor.\n\nYour GP knows you, and often your family and your community too. They can look after you through your whole life. Take your time to find a GP you like and can talk to honestly.\n\nYou can see a GP at a practice. This is sometimes called a family practice or medical centre. Some GP practices and medical centres offer a range of different services at the same place — for example, GPs, x-rays , pharmacists and treatment for minor injuries.\n\nGPs can give you advice about your health and provide legal documents such as medical certificates, or medical reports for insurance purposes, for example if you have had an accident.\n\nFind out more about the role of a GP and making the most of your doctor’s appointment .\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## What health services can my pharmacist provide?\n\nPharmacists are qualified experts who give advice and information on medicines and your health. Ask your pharmacist for advice about minor illnesses or injuries.\n\nIf your doctor gives you a prescription (a ‘script’) for medicine, you can buy it from a pharmacist. Your pharmacist can give you advice about managing your medicines, any side effects and many other aspects of your physical and mental health.\n\nPharmacists also sell over-the-counter medicines , perform some health checks and give some vaccinations .\n\nFind out more about getting the most out of your pharmacist .\n\n## Where can I go if I'm sick or injured outside of business hours?\n\n### After-hours GP services\n\nAfter-hours services provide care if you need to see someone after your GP or pharmacist has closed. Ask your regular GP if they offer after-hours services, and what you should do if you get sick after they have closed.\n\nYou can also call healthdirect on 1800 022 222 (known as NURSE-ON-CALL in Victoria) to speak to a registered nurse, 24 hours a day, 7 days a week. They will talk to you about your symptoms and may offer you a call back or a video call from a GP.\n\nLearn more about after-hours health services .\n\n### Medicare Urgent Care Clinics\n\nLocated across Australia, Medicare Urgent Care Clinics provide bulk-billed healthcare without an appointment. This is for medical problems that are urgent but not life-threatening, such as:\n\n- minor illnesses and infections, such as urinary tract infections (UTIs) , and sexually transmitted infections (STIs) , respiratory illnesses and gastroenteritis\n\n- minor injuries\n\n- insect bites\n\n- rashes\n\n- minor eye and ear problems\n\n- mild burns\n\nLearn more about Medicare Urgent Care Clinics .\n\n### Hospital emergency departments\n\nMany hospitals in Australia have emergency departments . These are open 24 hours a day, 7 days a week. They give emergency treatment to people who have serious illnesses or injuries that need to be treated quickly or may be life-threatening.\n\nVisit a hospital emergency department if you are seriously hurt or sick. If you have a minor illness or injury, it is better to see your GP or visit a medical centre, urgent care centre or pharmacist.\n\nEmergency departments will always treat severely ill or injured patients as soon as possible. If your condition is less serious, you may have to wait.\n\n### Virtual emergency departments\n\nSome states provide emergency health services via video consult (also known as ‘telehealth’) for urgent health problems that aren’t life-threatening. If the healthcare provider you speak to thinks that you need to be assessed urgently in person, they will direct you to visit your local hospital emergency department or arrange transport via ambulance.\n\n## When should I call an ambulance?\n\nIf your illness or injury is serious and urgent, call an ambulance on triple zero (000). You should call an ambulance if you or someone else has:\n\n- chest pain , chest tightness or difficulty breathing\n\n- extreme pain\n\n- large burns\n\n- serious accidents or trauma\n\n- severe bleeding\n\n- sudden numbness or paralysis of the face, arm or leg\n\n- unconsciousness\n\nFind out more about calling triple zero (000) .\n\n## Help and resources for using health services\n\n### Where can I find trusted health information online?\n\nIf you need information about a health problem, you can find high quality information online. It is important to know how to search properly, so you find information that is trustworthy.\n\nMake sure you only use information from well-known organisations, such as Australian hospitals or government departments. Always check with your doctor if you're not sure about the information you read online.\n\nhealthdirect is a government-owned health advice and information service. It provides safe and relevant Australian health information and links to other sources that you can trust.\n\nYou can also download the healthdirect app from Google Play or the Apple App Store, for access to trusted health information on the go.\n\nThe Australian Commission on Safety and Quality in Healthcare has more information about finding good health information online , including in many community languages .\n\n### Why might I call the healthdirect helpline?\n\nIf you have more questions or want to ask about your personal situation, you can call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). You can call 24 hours a day, 7 days a week.\n\nWhen you call the healthdirect helpline, you will speak with a registered nurse who will ask you some questions and advise you what to do next.\n\nCall the helpline:\n\n- if your problem isn't an emergency\n\n- for advice on which health professional you should see\n\n- to be connected to the after-hours GP helpline\n\n- to find your nearest health services\n\n### When might I use the healthdirect Symptom Checker?\n\nThe healthdirect Symptom Checker is an online tool that can help you understand your symptoms and decide what to do next.\n\nYou can use it if your problem isn’t an emergency, or if you’re not sure.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## How can I find health clinics near me?\n\nTo find health services, you can use healthdirect's Service Finder .\n\nYou can also ask your GP or pharmacist for advice on finding health services in your area.\n\n## How can I access an interpreter?\n\nIf English is not your preferred language, you can find a translator through the Translating and Interpreting Service (TIS National) . You can speak to an interpreter immediately by calling 131 450. The service is free and is available 24 hours a day, 7 days a week. You can call TIS when you are with your GP, in hospital or with any other health service.\n\nIf it is an emergency, always call triple zero (000) first. The 000 operator will call TIS National and connect you with an interpreter.\n\nYour doctor, pharmacist or hospital can also arrange an interpreter for you.\n\n### Do you prefer to read in languages other than English?\n\nHealthdirect offers resources to support culturally and linguistically diverse people understand the Australian healthcare system.\n\nAmbulance Victoria has more information about calling an ambulance, including translations into many community languages.\n\n### Looking for information for Aboriginal and/or Torres Strait Islander people?\n\nThe Australian Indigenous Health InfoNet provides information and a map of Aboriginal and Torres Strait Islander health and medical services\n\nNACCHO provides access to health care services initiated and operated by the local Aboriginal community to deliver holistic, comprehensive, and culturally appropriate health care.\n\n#### Source s :\n\nBetter Health Channel (General practitioner services) , NSW Health (Emergency departments) , Pharmaceutical Society of Australia (Pharmacy as a career) , Ambulance Victoria (Save 000 for Emergencies) , Australian Commission on Safety and Quality in Health care (How to find good health information online - Booklet) , Department of Health and Aged Care (When to visit a Medicare Urgent Care Centre) , Department of Health and Aged Care (Translating and Interpreting service — Available services) , Australian Government (After-hours care) , Victorian Virtual Emergency Department (Patients) , Better Health Channel (After-hours healthcare options)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2024\n\nBack To Top\n\n## Search our site for\n\n- General Practitioners\n\n- Emergency department service\n\n- Australia's healthcare system\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Individual Healthcare Identifiers - Services Australia\n\nA number that identifies you for health care purposes.\n\nRead more on Medicare website\n\n### The Australian Healthcare System - Rahma Health\n\nOverview of the Australian Healthcare system including medicare, hospitals and medicines.\n\nRead more on Rahma Health website\n\n### Australian Immunisation Register - Services Australia\n\nThe national register where your vaccinations are recorded.\n\n### Australian Organ Donor Register - Services Australia\n\nThe national register where you record your organ and tissue donation decision.\n\n### Understanding your healthcare rights | Australian Commission on Safety and Quality in Health Care\n\nThe Australian Charter of Healthcare Rights describes the rights that you or someone you care for can expect when receiving health care.\n\nRead more on ACSQHC website\n\n### Hearing services\n\nHearing services are provided by a range of government and non-government agencies in NSW. This information is provided for consumers to locate NSW Health clinical services they may need.\n\nRead more on NSW Health website\n\n### Your healthcare team - Musculoskeletal Health Australia\n\nA supportive healthcare team will work with you to help you manage your condition. There are a range of health professionals who can help. Find out more.\n\nRead more on Musculoskeletal Health Australia website\n\n### Financial support for healthcare | Disability Gateway\n\nInformation and services to help people with disability, their family, friends and carers, to find the support they need in Australia\n\nRead more on Disability Gateway website\n\n### How to contact social work services - Social work services - Services Australia\n\nYou can speak to a social worker over the phone.\n\nRead more on Centrelink website\n\n### Rural and regional healthcare | Better Health Channel\n\nSome rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs.\n\nRead more on Better Health Channel website\n\nShow more\n\n### Dogs in Healthcare Settings\n\nYou may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience.\n\nRead more on Ausmed Education website\n\n### Active Listening in Healthcare\n\nEffective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication.\n\n### Spiritual Considerations in Healthcare\n\nIn the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs.\n\n### Avoiding Burnout in Healthcare\n\nThe word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field.\n\n### Healthcare Rights - Diversity - Community\n\nLearn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services.\n\nRead more on CareSearch website\n\n### Healthcare Rights and Informed Consent\n\nAll clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures.\n\n### Policies and Procedures in Healthcare\n\nPolicies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks.\n\n### Surveillance of Healthcare-Associated Infections\n\nHealthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented.\n\n### Conducting Performance Appraisals in Healthcare\n\nAs a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal.\n\n### Workforce Immunisation for Healthcare Staff\n\nDue to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/what-care-do-i-need\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/what-care-do-i-need\n\n- Please enter your name: https://www.healthdirect.gov.au/what-care-do-i-need#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/what-care-do-i-need#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/what-care-do-i-need#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/what-care-do-i-need#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/what-care-do-i-need\n\n- (Arabic) العربية: https://www.healthdirect.gov.au/ar/what-care-do-i-need\n\n- বাংলা (Bengali): https://www.healthdirect.gov.au/bn/what-care-do-i-need\n\n- 简体中文 (Simplified Chinese): https://www.healthdirect.gov.au/zh-hans/what-care-do-i-need\n\n- 繁體中文 (Traditional Chinese): https://www.healthdirect.gov.au/zh-hant/what-care-do-i-need\n\n- Tiếng Việt (Vietnamese): https://www.healthdirect.gov.au/vi/what-care-do-i-need\n\n- What types of healthcare are available in Australia?: https://www.healthdirect.gov.au/what-care-do-i-need#types\n\n- When should I visit my general practitioner (GP)?: https://www.healthdirect.gov.au/what-care-do-i-need#gp\n\n- What health services can my pharmacist provide?: https://www.healthdirect.gov.au/what-care-do-i-need#pharmacist\n\n- Where can I go if I'm sick or injured outside of business hours?: https://www.healthdirect.gov.au/what-care-do-i-need#after-hours\n\n- When should I call an ambulance?: https://www.healthdirect.gov.au/what-care-do-i-need#ambulance\n\n- Help and resources for using health services: https://www.healthdirect.gov.au/what-care-do-i-need#using\n\n- How can I find health clinics near me?: https://www.healthdirect.gov.au/what-care-do-i-need#near-me\n\n- How can I access an interpreter?: https://www.healthdirect.gov.au/what-care-do-i-need#interpreter\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/what-care-do-i-need#searchGeneralResults\n\n- after-hours GP clinics or services: https://www.betterhealth.vic.gov.au/health/servicesandsupport/after-hours-healthcare-options\n\n- telehealth: https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment#options\n\n- general practitioner (GP): https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- x-rays: https://www.healthdirect.gov.au/x-rays\n\n- most of your doctor’s appointment: https://www.healthdirect.gov.au/questions-to-ask-your-doctor\n\n- over-the-counter medicines: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- vaccinations: https://www.healthdirect.gov.au/immunisation-and-vaccinations\n\n- getting the most out of your pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- healthdirect: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- after-hours health services: https://www.healthdirect.gov.au/after-hours-health-services\n\n- urinary tract infections (UTIs): https://www.healthdirect.gov.au/urinary-tract-infection-uti\n\n- sexually transmitted infections (STIs): https://www.healthdirect.gov.au/sexually-transmitted-infections-sti\n\n- insect bites: https://www.healthdirect.gov.au/insect-bites-infographic\n\n- rashes: https://www.healthdirect.gov.au/rashes\n\n- eye: https://www.healthdirect.gov.au/eye-infections\n\n- ear: https://www.healthdirect.gov.au/ear-diseases-and-disorders\n\n- burns: https://www.healthdirect.gov.au/burns-and-scalds\n\n- emergency departments: https://www.healthdirect.gov.au/hospital-emergency-departments\n\n- chest pain: https://www.healthdirect.gov.au/chest-pain\n\n- calling triple zero (000): https://www.healthdirect.gov.au/calling-triple-zero\n\n- other sources: https://www.healthdirect.gov.au/information-partners\n\n- healthdirect app: https://www.healthdirect.gov.au/health-app\n\n- finding good health information online: https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online\n\n- many community languages: https://www.safetyandquality.gov.au/consumers/finding-good-health-information-online#accordion-7594\n\n- Translating and Interpreting Service (TIS National): https://www.tisnational.gov.au/\n\n- Ambulance Victoria: https://www.ambulance.vic.gov.au/community/education/calling-an-ambulance/\n\n- Aboriginal and Torres Strait Islander health and medical services: https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/\n\n- NACCHO: https://www.naccho.org.au/acchos/\n\n- (General practitioner services): https://www.betterhealth.vic.gov.au/health/serviceprofiles/general-practitioner-services\n\n- (Emergency departments): https://www.health.nsw.gov.au/Hospitals/Going_To_hospital/Pages/emergency-departments.aspx\n\n- (Pharmacy as a career): https://www.psa.org.au/career-and-support/pharmacy-as-a-career/\n\n- (Save 000 for Emergencies): https://www.ambulance.vic.gov.au/campaigns/save-triple-zero-emergencies/\n\n- (How to find good health information online - Booklet): https://www.safetyandquality.gov.au/publications-and-resources/resource-library/how-find-good-health-information-online-booklet\n\n- (When to visit a Medicare Urgent Care Centre): https://www.health.gov.au/find-a-medicare-ucc/when-to-visit\n\n- (Translating and Interpreting service — Available services): https://www.tisnational.gov.au/en/Non-English-speakers/Available-services\n\n- (After-hours care): https://www.health.gov.au/topics/primary-care/what-we-do/after-hours-care\n\n- (Patients): https://www.vved.org.au/patients/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/what-care-do-i-need#backToTop\n\n- General Practitioners: https://www.healthdirect.gov.au/search-results/General Practitioners\n\n- Emergency department service: https://www.healthdirect.gov.au/search-results/Emergency department service\n\n- Australia's healthcare system: https://www.healthdirect.gov.au/search-results/Australia's healthcare system\n\n- Individual Healthcare Identifiers - Services Australia A number that identifies you for health care purposes. Read more on Medicare website: https://www.servicesaustralia.gov.au/individual-healthcare-identifiers\n\n- The Australian Healthcare System - Rahma Health Overview of the Australian Healthcare system including medicare, hospitals and medicines. Read more on Rahma Health website: https://rahma.health/refugee-health/the-australian-healthcare-system/\n\n- Australian Immunisation Register - Services Australia The national register where your vaccinations are recorded. Read more on Medicare website: https://www.servicesaustralia.gov.au/australian-immunisation-register\n\n- Australian Organ Donor Register - Services Australia The national register where you record your organ and tissue donation decision. Read more on Medicare website: https://www.servicesaustralia.gov.au/australian-organ-donor-register\n\n- Understanding your healthcare rights | Australian Commission on Safety and Quality in Health Care The Australian Charter of Healthcare Rights describes the rights that you or someone you care for can expect when receiving health care. Read more on ACSQHC website: https://www.safetyandquality.gov.au/your-rights/understanding-your-healthcare-rights\n\n- Hearing services Hearing services are provided by a range of government and non-government agencies in NSW. This information is provided for consumers to locate NSW Health clinical services they may need. Read more on NSW Health website: https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/child/Pages/hearing-services.aspx\n\n- Your healthcare team - Musculoskeletal Health Australia A supportive healthcare team will work with you to help you manage your condition. There are a range of health professionals who can help. Find out more. Read more on Musculoskeletal Health Australia website: https://muscha.org/healthcare-team/\n\n- Financial support for healthcare | Disability Gateway Information and services to help people with disability, their family, friends and carers, to find the support they need in Australia Read more on Disability Gateway website: https://www.disabilitygateway.gov.au/income-finance/support-healthcare\n\n- How to contact social work services - Social work services - Services Australia You can speak to a social worker over the phone. Read more on Centrelink website: https://www.servicesaustralia.gov.au/how-to-contact-social-work-services?context=22461\n\n- Rural and regional healthcare | Better Health Channel Some rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/rural-and-regional-healthcare\n\n- Dogs in Healthcare Settings You may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dogs-in-healthcare\n\n- Active Listening in Healthcare Effective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/active-listening-in-healthcare\n\n- Spiritual Considerations in Healthcare In the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/spiritual-considerations-in-healthcare\n\n- Avoiding Burnout in Healthcare The word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/tips-for-avoiding-burnout\n\n- Healthcare Rights - Diversity - Community Learn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services. Read more on CareSearch website: https://www.caresearch.com.au/Community/Diversity/Healthcare-Rights/\n\n- Healthcare Rights and Informed Consent All clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/healthcare-rights-and-informed-consent\n\n- Policies and Procedures in Healthcare Policies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/policies-and-procedures-in-healthcare\n\n- Surveillance of Healthcare-Associated Infections Healthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/hai-surveillance\n\n- Conducting Performance Appraisals in Healthcare As a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/conducting-performance-appraisals-in-healthcare\n\n- Workforce Immunisation for Healthcare Staff Due to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/workforce-immunisation\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

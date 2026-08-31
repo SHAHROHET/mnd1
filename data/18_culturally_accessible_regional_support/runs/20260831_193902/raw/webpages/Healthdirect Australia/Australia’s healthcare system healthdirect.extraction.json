@@ -1,0 +1,723 @@
+{
+  "source_id": "healthdirect:australias-healthcare-system",
+  "title": "Australia’s healthcare system | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/australias-healthcare-system",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 34623,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/australias-healthcare-system",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/australias-healthcare-system"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/australias-healthcare-system"
+    },
+    {
+      "text": "What is primary healthcare?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#what-is"
+    },
+    {
+      "text": "How do I access medical care outside of business hours?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#after-hours"
+    },
+    {
+      "text": "When might I have treatment in a hospital?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#hospital"
+    },
+    {
+      "text": "What are specialists?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#specialists"
+    },
+    {
+      "text": "How much do health services cost?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#cost"
+    },
+    {
+      "text": "How do I choose the right health service?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#choose"
+    },
+    {
+      "text": "How do I access health services in Australia?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#access"
+    },
+    {
+      "text": "How do I access medicine?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#medicine"
+    },
+    {
+      "text": "How much do medicines cost?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#medicines-cost"
+    },
+    {
+      "text": "How do I access my health information?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#information"
+    },
+    {
+      "text": "What are Local Hospital Networks?",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#LHN"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#searchGeneralResults"
+    },
+    {
+      "text": "pharmacists",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "allied health",
+      "url": "https://www.healthdirect.gov.au/allied-health"
+    },
+    {
+      "text": "physiotherapists",
+      "url": "https://www.healthdirect.gov.au/physiotherapy"
+    },
+    {
+      "text": "dietitians",
+      "url": "https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "speech pathologists",
+      "url": "https://www.healthdirect.gov.au/speech-pathology"
+    },
+    {
+      "text": "General practitioners (GPs)",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "referral",
+      "url": "https://www.healthdirect.gov.au/what-is-a-referral"
+    },
+    {
+      "text": "medical history",
+      "url": "https://www.healthdirect.gov.au/family-medical-history"
+    },
+    {
+      "text": "occupational therapists",
+      "url": "https://www.healthdirect.gov.au/occupational-therapy"
+    },
+    {
+      "text": "optometrists",
+      "url": "https://www.healthdirect.gov.au/eye-tests"
+    },
+    {
+      "text": "podiatrists",
+      "url": "https://www.healthdirect.gov.au/podiatrist"
+    },
+    {
+      "text": "psychologists",
+      "url": "https://www.healthdirect.gov.au/psychiatrists-and-psychologists"
+    },
+    {
+      "text": "rehabilitation",
+      "url": "https://www.healthdirect.gov.au/rehabilitation-after-illness-or-injury"
+    },
+    {
+      "text": "emergency departments",
+      "url": "https://www.healthdirect.gov.au/hospital-emergency-departments"
+    },
+    {
+      "text": "Medicare Urgent Care Clinics (UCCs)",
+      "url": "https://www.healthdirect.gov.au/urgent-care-clinics"
+    },
+    {
+      "text": "after-hours health services",
+      "url": "https://www.healthdirect.gov.au/after-hours-health-services"
+    },
+    {
+      "text": "healthdirect helpline",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "dermatologists",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-dermatologist"
+    },
+    {
+      "text": "endocrinologists",
+      "url": "https://www.healthdirect.gov.au/endocrinologist"
+    },
+    {
+      "text": "ophthalmologists",
+      "url": "https://www.healthdirect.gov.au/ophthalmologist"
+    },
+    {
+      "text": "private health insurers",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "paying for healthcare in Australia",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "Medical Costs Finder tool",
+      "url": "https://medicalcostsfinder.health.gov.au/"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "overseas visitors from countries with a reciprocal arrangement",
+      "url": "https://www.humanservices.gov.au/individuals/services/medicare/reciprocal-health-care-agreements"
+    },
+    {
+      "text": "over the counter",
+      "url": "https://www.healthdirect.gov.au/over-the-counter-medicines"
+    },
+    {
+      "text": "paracetamol",
+      "url": "https://www.healthdirect.gov.au/paracetamol"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "side effects",
+      "url": "https://www.healthdirect.gov.au/medicine-and-side-effects"
+    },
+    {
+      "text": "electronically send your prescription",
+      "url": "https://www.healthdirect.gov.au/escript-electronic-prescription"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme (PBS)",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs"
+    },
+    {
+      "text": "My Health Record",
+      "url": "https://www.healthdirect.gov.au/my-health-record"
+    },
+    {
+      "text": "control over who sees the information",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/manage-your-record/privacy-and-access-my-health-record"
+    },
+    {
+      "text": "Local Hospital (LHN) directory",
+      "url": "https://www.aihw.gov.au/reports-data/myhospitals/my-local-area"
+    },
+    {
+      "text": "Australian health system",
+      "url": "https://www.health.gov.au/about-us/the-australian-health-system"
+    },
+    {
+      "text": "Australian medical system in a variety of community languages",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/understanding-the-australian-medical-system"
+    },
+    {
+      "text": "Australian health system for Aboriginal and/or Torres Strait Islander people",
+      "url": "https://healthinfonet.ecu.edu.au/learn/health-system/"
+    },
+    {
+      "text": "(Local Hospital Networks)",
+      "url": "https://www.publichospitalfunding.gov.au/local-hospital-networks"
+    },
+    {
+      "text": "(John Murtagh’s General Practice, 8th Edition)",
+      "url": "https://murtagh.mhmedical.com/content.aspx?sectionid=262289376&bookid=3133#1186891888"
+    },
+    {
+      "text": "(My Health Record Information for healthcare providers and organisations)",
+      "url": "https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-programs/my-health-record"
+    },
+    {
+      "text": "(About the PBS)",
+      "url": "https://www.pbs.gov.au/info/about-the-pbs"
+    },
+    {
+      "text": "(About prescriptions)",
+      "url": "https://www.health.gov.au/topics/medicines/about-prescriptions"
+    },
+    {
+      "text": "(About medicines)",
+      "url": "https://www.health.gov.au/topics/medicines/about-medicines"
+    },
+    {
+      "text": "(General practice, allied health and other primary care services)",
+      "url": "https://www.aihw.gov.au/reports/primary-health-care/general-practice-allied-health-primary-care"
+    },
+    {
+      "text": "(The role of specialist GPs Position statement – October 2020)",
+      "url": "https://www.racgp.org.au/FSDEDEV/media/documents/RACGP/Position%20statements/The-role-of-specialist-GPs.pdf"
+    },
+    {
+      "text": "(About allied health care)",
+      "url": "https://www.health.gov.au/topics/allied-health/about"
+    },
+    {
+      "text": "(Health system overview)",
+      "url": "https://www.aihw.gov.au/reports/australias-health/health-system-overview"
+    },
+    {
+      "text": "(Referred medical specialist attendances)",
+      "url": "https://www.aihw.gov.au/reports/medical-specialists/referred-medical-specialist-attendances"
+    },
+    {
+      "text": "(Emergency department care)",
+      "url": "https://www.aihw.gov.au/reports-data/myhospitals/sectors/emergency-department-care"
+    },
+    {
+      "text": "(Medicare Urgent Care Clinics)",
+      "url": "https://hpe.servicesaustralia.gov.au/INFO/UCC/UCCINFO1.pdf"
+    },
+    {
+      "text": "(After-hours care)",
+      "url": "https://www.health.gov.au/topics/primary-care/what-we-do/after-hours-care"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/australias-healthcare-system#backToTop"
+    },
+    {
+      "text": "Public and private hospitals – an overview",
+      "url": "https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems"
+    },
+    {
+      "text": "Healthcare Services",
+      "url": "https://www.healthdirect.gov.au/search-results/Healthcare Services"
+    },
+    {
+      "text": "Navigating the health system | Cancer Institute NSW Knowing a little about health professionals and the health system may help you feel more in control. Read more on Cancer Institute NSW website",
+      "url": "https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/diagnosis/navigating-the-health-system"
+    },
+    {
+      "text": "The Australian Healthcare System - Rahma Health Overview of the Australian Healthcare system including medicare, hospitals and medicines. Read more on Rahma Health website",
+      "url": "https://rahma.health/refugee-health/the-australian-healthcare-system/"
+    },
+    {
+      "text": "Overview of the Australian health system The Australian Government funds and operates some aspects of the health system. Read more on WA Health website",
+      "url": "https://www.health.wa.gov.au/Careers/International-applicants/International-medical-graduates/Overview-of-the-Australian-health-system"
+    },
+    {
+      "text": "First Nations people and the health system - Australian Institute of Health and Welfare Access to appropriate, high-quality and timely health care throughout life is essential for improving health outcomes for Aboriginal and Torres Strait Islander (First Nations) people. Some aspects... Read more on AIHW website",
+      "url": "https://www.aihw.gov.au/reports/australias-health/indigenous-australians-use-of-health-services"
+    },
+    {
+      "text": "Australian health system: how it works - myDr.com.au Australia's healthcare system - find out how it works, which health services are funded by the governments and which services are privately funded. Read more on myDoctor website",
+      "url": "https://mydr.com.au/first-aid-self-care/australian-health-system-how-it-works/"
+    },
+    {
+      "text": "NSW Agency for Clinical Innovation The NSW Agency for Clinical Innovation (ACI) brings together clinicians, consumers and system leaders to improve the health system in NSW. Read more on Partner Organisation website",
+      "url": "http://www.aci.health.nsw.gov.au/"
+    },
+    {
+      "text": "AIHW The Australian Institute of Health and Welfare (AIHW) is an independent statutory agency producing authoritative and accessible information and statistics to inform and support better policy and service delivery decisions, leading to better health and wellbeing for all Australians. Read more on Partner Organisation website",
+      "url": "https://www.aihw.gov.au/"
+    },
+    {
+      "text": "Consumers Health Forum of Australia The Consumers Health Forum of Australia (CHF) is the national peak body representing the interests of Australian healthcare consumers. Read more on Partner Organisation website",
+      "url": "https://www.chf.org.au/"
+    },
+    {
+      "text": "Department of Health, Disability and Ageing The department’s purpose is to support the government to shape Australia’s health, disability and ageing system. It does this through evidence-based policy, well-targeted programs and best-practice regulation. Read more on Partner Organisation website",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "ACSQHC (Health Professionals) The Commission is a corporate Commonwealth entity and part of the Health portfolio of the Australian Government. Its purpose is to contribute to better health outcomes and experiences for Australians, and improve value and sustainability in the health system. Read more on Partner Organisation website",
+      "url": "https://www.safetyandquality.gov.au/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Australia’s healthcare system | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Australia's healthcare system\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Primary care is usually the first point of contact in the Australian healthcare system.\n\n- This includes General practitioners (GPs) and allied health practitioners.\n\n- If you need urgent medical care after business hours, services include Medicare Urgent Care Clinics and hospital emergency departments.\n\n- In Australia, some medicines are available over-the-counter while others require a prescription.\n\n- The cost of public health services is usually covered by Medicare, while private health services require private health insurance.\n\n## On this page\n\n- What is primary healthcare?\n\n- How do I access medical care outside of business hours?\n\n- When might I have treatment in a hospital?\n\n- What are specialists?\n\n- How much do health services cost?\n\n- How do I choose the right health service?\n\n- How do I access health services in Australia?\n\n- How do I access medicine?\n\n- How much do medicines cost?\n\n- How do I access my health information?\n\n- What are Local Hospital Networks?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is primary healthcare?\n\nPrimary care is usually the first point of contact in the Australian healthcare system. Your care might be provided by a range of health professionals including:\n\n- doctors (General Practitioners — GPs)\n\n- community nurses\n\n- dentists\n\n- pharmacists\n\n- allied health professionals (such as physiotherapists , dietitians and speech pathologists )\n\nYou might access primary care in a variety of settings, including at:\n\n- general practices\n\n- community health centres\n\n- pharmacies\n\n- dental practices\n\n- at home\n\n### General practice\n\nGeneral practitioners (GPs) are also known as doctors. They work in the community to keep people of all ages healthy. Your doctor can check and treat both your physical and mental health.\n\nYour doctor can also help you access other health services, or specialist care, through a referral .\n\nIt can be helpful to have a GP who knows you and your medical history . This is called ‘continuity of care’. A GP you are comfortable with, can:\n\n- improve your care\n\n- understand your community\n\n- connect you to helpful services\n\n### Allied health\n\nAllied health practitioners are trained health professionals. They can help you manage different aspects of your physical or mental health. Allied health professionals include:\n\n- diabetes educators and dietitians\n\n- occupational therapists\n\n- optometrists\n\n- physiotherapists\n\n- podiatrists\n\n- psychologists\n\n- speech pathologists\n\nThey can provide diagnosis, treatment or rehabilitation services.\n\nUnlike specialist services, you don’t need a referral from your doctor to see an allied health practitioner.\n\n## How do I access medical care outside of business hours?\n\nMany general practices are only open during business hours. However, there are several after-hours options if you need treatment.\n\nAfter-hours services are available at:\n\n- general practices with extended hours\n\n- hospital emergency departments\n\n- Medicare Urgent Care Clinics (UCCs)\n\n### After-hours GP services\n\nAfter-hours doctor call-out services are available in major cities and centres. These are private services, where a doctor can come to your home. In some cases, this service may be covered by Medicare.\n\nLearn more about after-hours health services .\n\nYou can also call the healthdirect helpline on 1800 022 222 to speak to a registered nurse. They may offer you a call back or video call from a GP.\n\nIf you think you have a medical emergency, immediately dial triple zero (000) for an ambulance.\n\n### Emergency departments\n\nEmergency departments (EDs) can treat patients who need urgent medical or surgical care for:\n\n- acute (severe and sudden) illnesses\n\n- life-threatening medical emergencies\n\nMost EDs are found in public hospitals in Australia.\n\nLearn more about hospital emergency departments .\n\n### Medicare Urgent Care Clinics\n\nMedicare Urgent Care Clinics can help if you have an urgent medical problem that can't wait, but doesn’t need a hospital emergency department. For example, minor infections, gastroenteritis, sprains and back pain. They are open early and late, outside of normal business hours and you don’t need an appointment or referral.\n\nLearn more about urgent care clinics .\n\nIf you are not sure whether your medical condition is urgent, contact your doctor or call healthdirect on 1800 022 222 (known as NURSE-ON-CALL in Victoria).\n\n## When might I have treatment in a hospital?\n\nYou might have treatment in a hospital in a few different ways, such as:\n\n- through the emergency department — in the case of an emergency\n\n- when referred by a specialist — for an ongoing issue or for a procedure\n\n## What are specialists?\n\nMedical specialists are doctors who work in a specific area of medicine. You will need a referral from your GP (doctor) to see a specialist.\n\nMedical specialists include doctors such as:\n\n- cardiologists\n\n- dermatologists\n\n- nephrologists\n\n- endocrinologists\n\n- psychiatrists\n\n- ophthalmologists\n\n- rheumatologists\n\n## How much do health services cost?\n\nHealth services in Australia are provided by both the public and private sector, and funded by a range of sources, including:\n\n- the Australian Government\n\n- state and territory governments\n\n- private health insurers\n\n- individuals\n\nThe out-of-pocket cost of your healthcare will depend on whether you receive care in a public or private practice.\n\nLearn more about paying for healthcare in Australia .\n\nThe Australian Government’s Medical Costs Finder tool can help you find and understand the cost to see a GP or medical specialist.\n\n### Medicare\n\nMedicare provides free or subsidised healthcare for eligible Australians.\n\nMedicare is available for:\n\n- Australian residents\n\n- overseas visitors from countries with a reciprocal arrangement\n\nLearn more about Medicare .\n\n### Private health insurance\n\nSome people choose to buy private health insurance to help with some healthcare costs not covered by Medicare.\n\nLearn more about private health insurance .\n\n## How do I choose the right health service?\n\nWatch these videos to learn which services are best for your health needs.\n\n## How do I access health services in Australia?\n\nYour contact with the healthcare system will often begin with a visit to:\n\n- a general practice\n\n- an emergency department (ED)\n\nThey act as the main gateways to other health services, including:\n\n- diagnostic tests\n\n- specialist consultations\n\n- hospital admission\n\n- inpatient care\n\n- residential care\n\n## How do I access medicine?\n\nTo access medicines, it’s best to see your doctor. They can:\n\n- recommend over-the-counter medicines (a medicine that you don’t need a prescription for)\n\n- write you a prescription for a specific medicine\n\n### Over the counter medicine\n\nSome medicines are available ‘ over the counter ’ at pharmacies and supermarkets. This means you can buy them without a prescription from your doctor. They are usually used to manage mild health problems, such as a headache or sore throat.\n\nCommon over the counter medicines include paracetamol and ibuprofen .\n\n### Prescription medicine\n\nSome medicines are only available with a prescription from your doctor. This might be because they:\n\n- are used for a serious condition that should be monitored by a doctor\n\n- have potentially serious side effects\n\n- must be taken in a complicated way, such as through injection\n\n- can be addictive\n\n- can be misused\n\nThese medicines require a prescription (‘script’) — a legal document given to you by a doctor or specialist. Your doctor may also electronically send your prescription to you or your pharmacy.\n\nYour prescription contains important information, such as:\n\n- how to take your medicine\n\n- when to take your medicine\n\n- how many times you can use the same prescription to get more of the same medicine (repeats)\n\nTo get prescription medicine, take your prescription to your local pharmacy. The pharmacist will sell you the medicine and give you advice about taking it safely.\n\nOnce you have used your repeats, you will need to see your doctor again if you need a new prescription.\n\n## How much do medicines cost?\n\nThe Pharmaceutical Benefits Scheme (PBS) ensures that Australians have access to affordable medicines. The PBS covers part of the cost of prescription medicines. This means you can get a wide range of medicines without having to pay full price.\n\nLearn more about the Pharmaceutical Benefits Scheme (PBS) .\n\n## How do I access my health information?\n\nMy Health Record is an online summary of your key health information. It allows you to share your health information with doctors, hospitals and other healthcare providers if you want to. The information is private, and you have control over who sees the information .\n\n## What are Local Hospital Networks?\n\nLocal Hospital Networks (LHNs) are groups responsible for managing healthcare services, such as hospitals, in a local region.\n\nLHNs are known by different names in different states, such as:\n\n- local health districts (LHDs) in New South Wales\n\n- hospital and health services in Queensland\n\n- Tasmanian Health Organisations in Tasmania\n\nThe Australian Institute of Health and Welfare has a Local Hospital (LHN) directory .\n\n## Resources and support\n\nYou can find more information about the Australian health system at the Department of Health website.\n\n### Other languages\n\nHealth Translations Victoria has information about the Australian medical system in a variety of community languages .\n\n### Aboriginal and/or Torres Strait Islander peoples\n\nLearn more about the Australian health system for Aboriginal and/or Torres Strait Islander people at Australian Indigenous HealthInfoNet.\n\n#### Source s :\n\nNational Health Funding Body (Local Hospital Networks) , McGraw-Hill Education (Australia) Pty Ltd (John Murtagh’s General Practice, 8th Edition) , Digitalhealth.gov.au (My Health Record Information for healthcare providers and organisations) , Department of Health Pharmaceutical Benefits Scheme (About the PBS) , Department of Health and Aged Care (About prescriptions) , Department of Health and Aged Care (About medicines) , Australian Institute of Health and Welfare (General practice, allied health and other primary care services) , Royal Australian College of General Practitioners (The role of specialist GPs Position statement – October 2020) , Department of Health and Aged Care (About allied health care) , Australian Institute of Health and Welfare (Health system overview) , Australian Institute of Health and Welfare (Referred medical specialist attendances) , Australian Institute of Health and Welfare (Emergency department care) , Services Australia (Medicare Urgent Care Clinics) , Department of Health and Aged Care (After-hours care)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: December 2024\n\nBack To Top\n\n## Related pages\n\n- Public and private hospitals – an overview\n\n## Search our site for\n\n- Healthcare Services\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Navigating the health system | Cancer Institute NSW\n\nKnowing a little about health professionals and the health system may help you feel more in control.\n\nRead more on Cancer Institute NSW website\n\n### The Australian Healthcare System - Rahma Health\n\nOverview of the Australian Healthcare system including medicare, hospitals and medicines.\n\nRead more on Rahma Health website\n\n### Overview of the Australian health system\n\nThe Australian Government funds and operates some aspects of the health system.\n\nRead more on WA Health website\n\n### First Nations people and the health system - Australian Institute of Health and Welfare\n\nAccess to appropriate, high-quality and timely health care throughout life is essential for improving health outcomes for Aboriginal and Torres Strait Islander (First Nations) people. Some aspects...\n\nRead more on AIHW website\n\n### The Australian health system | Australian Government Department of Health, Disability and Ageing\n\nLearn how Australia’s health system works, who pays for it and how people get health care at low or no cost.\n\nRead more on Department of Health, Disability and Ageing website\n\n### Australian health system: how it works - myDr.com.au\n\nAustralia's healthcare system - find out how it works, which health services are funded by the governments and which services are privately funded.\n\nRead more on myDoctor website\n\n### NSW Agency for Clinical Innovation\n\nThe NSW Agency for Clinical Innovation (ACI) brings together clinicians, consumers and system leaders to improve the health system in NSW.\n\nRead more on Partner Organisation website\n\n### AIHW\n\nThe Australian Institute of Health and Welfare (AIHW) is an independent statutory agency producing authoritative and accessible information and statistics to inform and support better policy and service delivery decisions, leading to better health and wellbeing for all Australians.\n\n### Consumers Health Forum of Australia\n\nThe Consumers Health Forum of Australia (CHF) is the national peak body representing the interests of Australian healthcare consumers.\n\n### Department of Health, Disability and Ageing\n\nThe department’s purpose is to support the government to shape Australia’s health, disability and ageing system. It does this through evidence-based policy, well-targeted programs and best-practice regulation.\n\nShow more\n\n### ACSQHC (Health Professionals)\n\nThe Commission is a corporate Commonwealth entity and part of the Health portfolio of the Australian Government. Its purpose is to contribute to better health outcomes and experiences for Australians, and improve value and sustainability in the health system.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/australias-healthcare-system\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/australias-healthcare-system\n\n- Please enter your name: https://www.healthdirect.gov.au/australias-healthcare-system#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/australias-healthcare-system#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/australias-healthcare-system#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/australias-healthcare-system#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/australias-healthcare-system\n\n- What is primary healthcare?: https://www.healthdirect.gov.au/australias-healthcare-system#what-is\n\n- How do I access medical care outside of business hours?: https://www.healthdirect.gov.au/australias-healthcare-system#after-hours\n\n- When might I have treatment in a hospital?: https://www.healthdirect.gov.au/australias-healthcare-system#hospital\n\n- What are specialists?: https://www.healthdirect.gov.au/australias-healthcare-system#specialists\n\n- How much do health services cost?: https://www.healthdirect.gov.au/australias-healthcare-system#cost\n\n- How do I choose the right health service?: https://www.healthdirect.gov.au/australias-healthcare-system#choose\n\n- How do I access health services in Australia?: https://www.healthdirect.gov.au/australias-healthcare-system#access\n\n- How do I access medicine?: https://www.healthdirect.gov.au/australias-healthcare-system#medicine\n\n- How much do medicines cost?: https://www.healthdirect.gov.au/australias-healthcare-system#medicines-cost\n\n- How do I access my health information?: https://www.healthdirect.gov.au/australias-healthcare-system#information\n\n- What are Local Hospital Networks?: https://www.healthdirect.gov.au/australias-healthcare-system#LHN\n\n- Resources and support: https://www.healthdirect.gov.au/australias-healthcare-system#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/australias-healthcare-system#searchGeneralResults\n\n- pharmacists: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- allied health: https://www.healthdirect.gov.au/allied-health\n\n- physiotherapists: https://www.healthdirect.gov.au/physiotherapy\n\n- dietitians: https://www.healthdirect.gov.au/dietitians\n\n- speech pathologists: https://www.healthdirect.gov.au/speech-pathology\n\n- General practitioners (GPs): https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- referral: https://www.healthdirect.gov.au/what-is-a-referral\n\n- medical history: https://www.healthdirect.gov.au/family-medical-history\n\n- occupational therapists: https://www.healthdirect.gov.au/occupational-therapy\n\n- optometrists: https://www.healthdirect.gov.au/eye-tests\n\n- podiatrists: https://www.healthdirect.gov.au/podiatrist\n\n- psychologists: https://www.healthdirect.gov.au/psychiatrists-and-psychologists\n\n- rehabilitation: https://www.healthdirect.gov.au/rehabilitation-after-illness-or-injury\n\n- emergency departments: https://www.healthdirect.gov.au/hospital-emergency-departments\n\n- Medicare Urgent Care Clinics (UCCs): https://www.healthdirect.gov.au/urgent-care-clinics\n\n- after-hours health services: https://www.healthdirect.gov.au/after-hours-health-services\n\n- healthdirect helpline: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- dermatologists: https://www.healthdirect.gov.au/the-role-of-a-dermatologist\n\n- endocrinologists: https://www.healthdirect.gov.au/endocrinologist\n\n- ophthalmologists: https://www.healthdirect.gov.au/ophthalmologist\n\n- private health insurers: https://www.healthdirect.gov.au/private-health-insurance\n\n- paying for healthcare in Australia: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare\n\n- Medical Costs Finder tool: https://medicalcostsfinder.health.gov.au/\n\n- Medicare: https://www.healthdirect.gov.au/what-is-medicare\n\n- overseas visitors from countries with a reciprocal arrangement: https://www.humanservices.gov.au/individuals/services/medicare/reciprocal-health-care-agreements\n\n- over the counter: https://www.healthdirect.gov.au/over-the-counter-medicines\n\n- paracetamol: https://www.healthdirect.gov.au/paracetamol\n\n- ibuprofen: https://www.healthdirect.gov.au/ibuprofen\n\n- side effects: https://www.healthdirect.gov.au/medicine-and-side-effects\n\n- electronically send your prescription: https://www.healthdirect.gov.au/escript-electronic-prescription\n\n- Pharmaceutical Benefits Scheme (PBS): https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs\n\n- My Health Record: https://www.healthdirect.gov.au/my-health-record\n\n- control over who sees the information: https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/manage-your-record/privacy-and-access-my-health-record\n\n- Local Hospital (LHN) directory: https://www.aihw.gov.au/reports-data/myhospitals/my-local-area\n\n- Australian health system: https://www.health.gov.au/about-us/the-australian-health-system\n\n- Australian medical system in a variety of community languages: https://www.healthtranslations.vic.gov.au/resources/understanding-the-australian-medical-system\n\n- Australian health system for Aboriginal and/or Torres Strait Islander people: https://healthinfonet.ecu.edu.au/learn/health-system/\n\n- (Local Hospital Networks): https://www.publichospitalfunding.gov.au/local-hospital-networks\n\n- (John Murtagh’s General Practice, 8th Edition): https://murtagh.mhmedical.com/content.aspx?sectionid=262289376&bookid=3133#1186891888\n\n- (My Health Record Information for healthcare providers and organisations): https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-programs/my-health-record\n\n- (About the PBS): https://www.pbs.gov.au/info/about-the-pbs\n\n- (About prescriptions): https://www.health.gov.au/topics/medicines/about-prescriptions\n\n- (About medicines): https://www.health.gov.au/topics/medicines/about-medicines\n\n- (General practice, allied health and other primary care services): https://www.aihw.gov.au/reports/primary-health-care/general-practice-allied-health-primary-care\n\n- (The role of specialist GPs Position statement – October 2020): https://www.racgp.org.au/FSDEDEV/media/documents/RACGP/Position%20statements/The-role-of-specialist-GPs.pdf\n\n- (About allied health care): https://www.health.gov.au/topics/allied-health/about\n\n- (Health system overview): https://www.aihw.gov.au/reports/australias-health/health-system-overview\n\n- (Referred medical specialist attendances): https://www.aihw.gov.au/reports/medical-specialists/referred-medical-specialist-attendances\n\n- (Emergency department care): https://www.aihw.gov.au/reports-data/myhospitals/sectors/emergency-department-care\n\n- (Medicare Urgent Care Clinics): https://hpe.servicesaustralia.gov.au/INFO/UCC/UCCINFO1.pdf\n\n- (After-hours care): https://www.health.gov.au/topics/primary-care/what-we-do/after-hours-care\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/australias-healthcare-system#backToTop\n\n- Public and private hospitals – an overview: https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems\n\n- Healthcare Services: https://www.healthdirect.gov.au/search-results/Healthcare Services\n\n- Navigating the health system | Cancer Institute NSW Knowing a little about health professionals and the health system may help you feel more in control. Read more on Cancer Institute NSW website: https://www.cancer.nsw.gov.au/general-cancer-information/diagnosis-and-treatment/diagnosis/navigating-the-health-system\n\n- The Australian Healthcare System - Rahma Health Overview of the Australian Healthcare system including medicare, hospitals and medicines. Read more on Rahma Health website: https://rahma.health/refugee-health/the-australian-healthcare-system/\n\n- Overview of the Australian health system The Australian Government funds and operates some aspects of the health system. Read more on WA Health website: https://www.health.wa.gov.au/Careers/International-applicants/International-medical-graduates/Overview-of-the-Australian-health-system\n\n- First Nations people and the health system - Australian Institute of Health and Welfare Access to appropriate, high-quality and timely health care throughout life is essential for improving health outcomes for Aboriginal and Torres Strait Islander (First Nations) people. Some aspects... Read more on AIHW website: https://www.aihw.gov.au/reports/australias-health/indigenous-australians-use-of-health-services\n\n- Australian health system: how it works - myDr.com.au Australia's healthcare system - find out how it works, which health services are funded by the governments and which services are privately funded. Read more on myDoctor website: https://mydr.com.au/first-aid-self-care/australian-health-system-how-it-works/\n\n- NSW Agency for Clinical Innovation The NSW Agency for Clinical Innovation (ACI) brings together clinicians, consumers and system leaders to improve the health system in NSW. Read more on Partner Organisation website: http://www.aci.health.nsw.gov.au/\n\n- AIHW The Australian Institute of Health and Welfare (AIHW) is an independent statutory agency producing authoritative and accessible information and statistics to inform and support better policy and service delivery decisions, leading to better health and wellbeing for all Australians. Read more on Partner Organisation website: https://www.aihw.gov.au/\n\n- Consumers Health Forum of Australia The Consumers Health Forum of Australia (CHF) is the national peak body representing the interests of Australian healthcare consumers. Read more on Partner Organisation website: https://www.chf.org.au/\n\n- Department of Health, Disability and Ageing The department’s purpose is to support the government to shape Australia’s health, disability and ageing system. It does this through evidence-based policy, well-targeted programs and best-practice regulation. Read more on Partner Organisation website: https://www.health.gov.au/\n\n- ACSQHC (Health Professionals) The Commission is a corporate Commonwealth entity and part of the Health portfolio of the Australian Government. Its purpose is to contribute to better health outcomes and experiences for Australians, and improve value and sustainability in the health system. Read more on Partner Organisation website: https://www.safetyandquality.gov.au/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

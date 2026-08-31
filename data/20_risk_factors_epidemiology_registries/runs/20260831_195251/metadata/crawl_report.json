@@ -1,0 +1,23 @@
+{
+  "topic_id": "20_risk_factors_epidemiology_registries",
+  "visited_pages": [
+    "https://www.aihw.gov.au/reports/neurological-conditions/mnd",
+    "https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard",
+    "https://www.mndaustralia.org.au/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd",
+    "https://www.mndaustralia.org.au/research/mnd-research-statistics",
+    "https://www.mndaustralia.org.au/research/mnd-registry",
+    "https://www.mndaustralia.org.au/advocacy/every-moment-matters",
+    "https://www.mndaustralia.org.au/articles/mnd-australia-becomes-the-data-custodian-of-mindaus-registry",
+    "https://www.mndaustralia.org.au/articles/every-moment-matters-webinar-new-national-data-reveals-the-true-cost-of-mnd",
+    "https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx"
+  ],
+  "skipped_pages": [],
+  "skipped_pdfs": [
+    "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf",
+    "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf",
+    "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU",
+    "https://www.health.nsw.gov.au/media/pages/default.aspx"
+  ],
+  "webpage_failure_count": 0,
+  "file_failure_count": 0
+}

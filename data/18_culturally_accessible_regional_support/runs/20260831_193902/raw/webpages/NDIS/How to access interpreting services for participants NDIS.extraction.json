@@ -1,0 +1,727 @@
+{
+  "source_id": "ndis:provider-interpreting-services",
+  "title": "How to access interpreting services for participants | NDIS",
+  "publisher": "NDIS",
+  "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 35231,
+  "crawl_depth": 0,
+  "seed_url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#main-content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#block-mainnavigation"
+    },
+    {
+      "text": "new NDIS legislation",
+      "url": "https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "Participant portal (External website)",
+      "url": "https://myndisportal.ndis.gov.au/services/auth/sso/CIAM"
+    },
+    {
+      "text": "Provider portals (External website)",
+      "url": "https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/"
+    },
+    {
+      "text": "Understanding the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis"
+    },
+    {
+      "text": "About the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis"
+    },
+    {
+      "text": "Where to begin",
+      "url": "https://www.ndis.gov.au/understanding-ndis/where-begin"
+    },
+    {
+      "text": "People that help you",
+      "url": "https://www.ndis.gov.au/understanding-ndis/people-help-you"
+    },
+    {
+      "text": "Applying",
+      "url": "https://www.ndis.gov.au/applying"
+    },
+    {
+      "text": "Eligibility requirements",
+      "url": "https://www.ndis.gov.au/applying/eligibility-requirements"
+    },
+    {
+      "text": "Gathering evidence",
+      "url": "https://www.ndis.gov.au/applying/gathering-evidence"
+    },
+    {
+      "text": "Application process",
+      "url": "https://www.ndis.gov.au/applying/application-process"
+    },
+    {
+      "text": "Types of assessments",
+      "url": "https://www.ndis.gov.au/applying/types-assessments"
+    },
+    {
+      "text": "Eligibility reassessments",
+      "url": "https://www.ndis.gov.au/applying/eligibility-reassessments"
+    },
+    {
+      "text": "For children",
+      "url": "https://www.ndis.gov.au/applying/children"
+    },
+    {
+      "text": "For participants",
+      "url": "https://www.ndis.gov.au/participants"
+    },
+    {
+      "text": "Creating a plan",
+      "url": "https://www.ndis.gov.au/participants/creating-plan"
+    },
+    {
+      "text": "Working with providers",
+      "url": "https://www.ndis.gov.au/participants/working-providers"
+    },
+    {
+      "text": "Using your funding",
+      "url": "https://www.ndis.gov.au/participants/using-your-funding"
+    },
+    {
+      "text": "Changing your plan",
+      "url": "https://www.ndis.gov.au/participants/changing-your-plan"
+    },
+    {
+      "text": "Home and living",
+      "url": "https://www.ndis.gov.au/participants/home-and-living"
+    },
+    {
+      "text": "Assistive technology",
+      "url": "https://www.ndis.gov.au/participants/assistive-technology"
+    },
+    {
+      "text": "Life transitions",
+      "url": "https://www.ndis.gov.au/participants/life-transitions"
+    },
+    {
+      "text": "For providers",
+      "url": "https://www.ndis.gov.au/providers"
+    },
+    {
+      "text": "Pricing and payments",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments"
+    },
+    {
+      "text": "Working as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider"
+    },
+    {
+      "text": "Working with participants",
+      "url": "https://www.ndis.gov.au/providers/working-participants"
+    },
+    {
+      "text": "Home and living providers",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers"
+    },
+    {
+      "text": "News and events",
+      "url": "https://www.ndis.gov.au/news"
+    },
+    {
+      "text": "Latest events",
+      "url": "https://www.ndis.gov.au/news/events"
+    },
+    {
+      "text": "Latest news",
+      "url": "https://www.ndis.gov.au/news/latest"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.ndis.gov.au/news/media-releases"
+    },
+    {
+      "text": "Stories and videos",
+      "url": "https://www.ndis.gov.au/news/stories"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.ndis.gov.au/news/media"
+    },
+    {
+      "text": "Engage",
+      "url": "https://www.ndis.gov.au/engage"
+    },
+    {
+      "text": "About",
+      "url": "https://www.ndis.gov.au/about-us"
+    },
+    {
+      "text": "About the NDIA",
+      "url": "https://www.ndis.gov.au/about-us/about-ndia"
+    },
+    {
+      "text": "Careers at NDIA",
+      "url": "https://www.ndis.gov.au/about-us/careers-ndia"
+    },
+    {
+      "text": "Changes to the NDIS",
+      "url": "https://www.ndis.gov.au/changes-ndis"
+    },
+    {
+      "text": "Service charter",
+      "url": "https://www.ndis.gov.au/about-us/service-charter"
+    },
+    {
+      "text": "Sharing information",
+      "url": "https://www.ndis.gov.au/about-us/sharing-information"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.ndis.gov.au/contact"
+    },
+    {
+      "text": "Find us",
+      "url": "https://www.ndis.gov.au/contact/find-us"
+    },
+    {
+      "text": "Office locations",
+      "url": "https://www.ndis.gov.au/contact/locations"
+    },
+    {
+      "text": "Feedback and enquiries",
+      "url": "https://www.ndis.gov.au/contact/feedback-and-enquiries"
+    },
+    {
+      "text": "Reporting fraud",
+      "url": "https://www.ndis.gov.au/contact/reporting-fraud"
+    },
+    {
+      "text": "Other support",
+      "url": "https://www.ndis.gov.au/contact/other-support"
+    },
+    {
+      "text": "Provider responsibilities",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fproviders%2Fworking-provider%2Fprovider-responsibilities%2Fhow-access-interpreting-services-participants"
+    },
+    {
+      "text": "Save page as PDF",
+      "url": "https://www.ndis.gov.au/print/pdf/node/11382"
+    },
+    {
+      "text": "Step 1: Understand what interpreting services are available",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#step-1-understand-what-interpreting-services-are-available"
+    },
+    {
+      "text": "Option 1: Translating and Interpreting Service (TIS National)",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#option-1-translating-and-interpreting-service-tis-national"
+    },
+    {
+      "text": "Option 2: Northern Territory Aboriginal Interpreter Service (AIS)",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#option-2-northern-territory-aboriginal-interpreter-service-ais"
+    },
+    {
+      "text": "Translating and Interpreting Service (TIS National)",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "Northern Territory Aboriginal Interpreting Service",
+      "url": "https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service"
+    },
+    {
+      "text": "register for a client code",
+      "url": "https://tisonline.tisnational.gov.au/registeragency/Step2"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.ndis.gov.au/cdn-cgi/l/email-protection#177e7961787e7472645779737e6439707861397662"
+    },
+    {
+      "text": "NDIS support category",
+      "url": "https://www.ndis.gov.au/participants/using-your-funding/ndis-support-budgets/guide-ndis-support-budgets"
+    },
+    {
+      "text": "immediate phone interpreting services",
+      "url": "https://www.tisnational.gov.au/en/Our-services/Language-services/Phone-interpreting"
+    },
+    {
+      "text": "on-site (in person) interpreter",
+      "url": "https://www.tisnational.gov.au/en/Our-services/Language-services/Onsite-interpreting"
+    },
+    {
+      "text": "video remote interpreting",
+      "url": "https://www.tisnational.gov.au/en/Our-services/Language-services/Video-remote-interpreting"
+    },
+    {
+      "text": "cancel a TIS National service",
+      "url": "https://www.tisnational.gov.au/Policies/Cancellation-Policy"
+    },
+    {
+      "text": "Northern Territory Aboriginal languages",
+      "url": "https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/aboriginal-languages-in-nt"
+    },
+    {
+      "text": "step-by-step guide",
+      "url": "https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/when-to-use-an-aboriginal-interpreter/introduction"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.ndis.gov.au/cdn-cgi/l/email-protection#77141805071805160312591418190305161403043719131e0459101801591602"
+    },
+    {
+      "text": "book an AIS interpreter online",
+      "url": "https://service.nt.gov.au/services/health-care/book-an-aboriginal-interpreter"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.ndis.gov.au/cdn-cgi/l/email-protection#e7868e94a78993c9808891c98692"
+    },
+    {
+      "text": "Northern Territory Government’s website",
+      "url": "https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/book-an-aboriginal-interpreter#how-to-book"
+    },
+    {
+      "text": "Pricing",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing"
+    },
+    {
+      "text": "Pricing arrangements",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/pricing-arrangements"
+    },
+    {
+      "text": "What is the annual pricing review",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/what-annual-pricing-review-apr"
+    },
+    {
+      "text": "What is the support catalogue",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/what-support-catalogue"
+    },
+    {
+      "text": "How we make pricing recommendations",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/how-we-make-pricing-recommendations"
+    },
+    {
+      "text": "Pricing updates",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing/pricing-updates"
+    },
+    {
+      "text": "Pricing archive",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive"
+    },
+    {
+      "text": "Pricing arrangements archive",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive/pricing-arrangements-archive"
+    },
+    {
+      "text": "Pricing review archive",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive/pricing-review-archive"
+    },
+    {
+      "text": "Payments",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/payments"
+    },
+    {
+      "text": "Guide to getting paid",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/payments/guide-getting-paid"
+    },
+    {
+      "text": "How to make a payment request",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/payments/how-make-payment-request"
+    },
+    {
+      "text": "How to troubleshoot claims and payments",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/payments/how-troubleshoot-claims-and-payments"
+    },
+    {
+      "text": "What is a manual payment review",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/payments/what-manual-payment-review"
+    },
+    {
+      "text": "For my providers",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/my-providers"
+    },
+    {
+      "text": "Guide to getting paid as a my provider",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/my-providers/guide-getting-paid-my-provider"
+    },
+    {
+      "text": "How to be recorded as a my provider",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments/my-providers/how-be-recorded-my-provider"
+    },
+    {
+      "text": "Becoming a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/becoming-provider"
+    },
+    {
+      "text": "Guide to becoming a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-becoming-provider"
+    },
+    {
+      "text": "How to register as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/becoming-provider/how-register-provider"
+    },
+    {
+      "text": "Guide to working as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-working-provider"
+    },
+    {
+      "text": "What are the responsibilities of a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-are-responsibilities-provider"
+    },
+    {
+      "text": "How to do the right thing as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-do-right-thing-provider"
+    },
+    {
+      "text": "What is a conflict of interest",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-conflict-interest"
+    },
+    {
+      "text": "How to access interpreting services for participants",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants"
+    },
+    {
+      "text": "Managing service bookings",
+      "url": "https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/managing-service-bookings"
+    },
+    {
+      "text": "Reporting and recording keeping",
+      "url": "https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping"
+    },
+    {
+      "text": "Guide to report writing",
+      "url": "https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/guide-report-writing"
+    },
+    {
+      "text": "What are the record keeping requirements",
+      "url": "https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/what-are-record-keeping-requirements"
+    },
+    {
+      "text": "Using the provider portal",
+      "url": "https://www.ndis.gov.au/providers/working-provider/using-provider-portals"
+    },
+    {
+      "text": "How to use the provider portals",
+      "url": "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-use-provider-portals"
+    },
+    {
+      "text": "How to view plans in the my NDIS provider portal",
+      "url": "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-view-plans-my-ndis-provider-portal"
+    },
+    {
+      "text": "What is the provider learning environment",
+      "url": "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/what-provider-learning-environment"
+    },
+    {
+      "text": "How to connect to our systems",
+      "url": "https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-connect-our-systems"
+    },
+    {
+      "text": "For early childhood providers",
+      "url": "https://www.ndis.gov.au/providers/working-participants/early-childhood-providers"
+    },
+    {
+      "text": "How to write an early childhood provider report",
+      "url": "https://www.ndis.gov.au/providers/working-participants/early-childhood-providers/how-write-early-childhood-provider-report"
+    },
+    {
+      "text": "For GPs and health professionals",
+      "url": "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals"
+    },
+    {
+      "text": "Guide to the NDIS for GPs and health professionals",
+      "url": "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/guide-ndis-gps-and-health-professionals"
+    },
+    {
+      "text": "How to determine whether your patient is eligible",
+      "url": "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/how-determine-whether-your-patient-eligible"
+    },
+    {
+      "text": "How to help your patient to access the NDIS",
+      "url": "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/how-help-your-patient-access-ndis"
+    },
+    {
+      "text": "What is supporting evidence for your patient",
+      "url": "https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/what-supporting-evidence-your-patient"
+    },
+    {
+      "text": "For support coordinators",
+      "url": "https://www.ndis.gov.au/providers/working-participants/support-coordinators"
+    },
+    {
+      "text": "Guide to working as a support coordinator",
+      "url": "https://www.ndis.gov.au/providers/working-participants/support-coordinators/guide-working-support-coordinator"
+    },
+    {
+      "text": "How to connect with participants as a support coordinator",
+      "url": "https://www.ndis.gov.au/providers/working-participants/support-coordinators/how-connect-participants-support-coordinator"
+    },
+    {
+      "text": "How to help participants connect with NDIS supports",
+      "url": "https://www.ndis.gov.au/providers/working-participants/support-coordinators/how-help-participants-connect-ndis-supports"
+    },
+    {
+      "text": "What are support coordinator reporting requirements",
+      "url": "https://www.ndis.gov.au/providers/working-participants/support-coordinators/what-are-support-coordinator-reporting-requirements"
+    },
+    {
+      "text": "For plan managers",
+      "url": "https://www.ndis.gov.au/providers/working-participants/plan-managers"
+    },
+    {
+      "text": "Guide to working as a plan manager",
+      "url": "https://www.ndis.gov.au/providers/working-participants/plan-managers/guide-working-plan-manager"
+    },
+    {
+      "text": "How to connect with participants as plan manager",
+      "url": "https://www.ndis.gov.au/providers/working-participants/plan-managers/how-connect-participants-plan-manager"
+    },
+    {
+      "text": "How to support a participant as a plan manager",
+      "url": "https://www.ndis.gov.au/providers/working-participants/plan-managers/how-support-participant-plan-manager"
+    },
+    {
+      "text": "For allied health professionals",
+      "url": "https://www.ndis.gov.au/providers/working-participants/allied-health-professionals"
+    },
+    {
+      "text": "Guide to working as an allied health provider",
+      "url": "https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/guide-working-allied-health-provider"
+    },
+    {
+      "text": "How to write a plan reassessment report",
+      "url": "https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/how-write-plan-reassessment-report"
+    },
+    {
+      "text": "For employment providers",
+      "url": "https://www.ndis.gov.au/providers/working-participants/employment-providers"
+    },
+    {
+      "text": "Guide to providing employment supports",
+      "url": "https://www.ndis.gov.au/providers/working-participants/employment-providers/guide-providing-employment-supports"
+    },
+    {
+      "text": "How to report on employment outcomes",
+      "url": "https://www.ndis.gov.au/providers/working-participants/employment-providers/how-report-employment-outcomes"
+    },
+    {
+      "text": "Employment provider reports",
+      "url": "https://www.ndis.gov.au/providers/working-participants/employment-providers/employment-provider-reports"
+    },
+    {
+      "text": "For assistive technology providers",
+      "url": "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers"
+    },
+    {
+      "text": "How to provide assistive technology to participants",
+      "url": "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-provide-assistive-technology-participants"
+    },
+    {
+      "text": "How to prepare evidence for a participant's assistive technology assessment",
+      "url": "https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-prepare-evidence-participants-assistive-technology-assessment"
+    },
+    {
+      "text": "For home and living providers",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers"
+    },
+    {
+      "text": "Guide to working as a home and living provider",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers/guide-working-home-and-living-provider"
+    },
+    {
+      "text": "How to help with alternative options to residential aged care",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers/how-help-alternative-options-residential-aged-care"
+    },
+    {
+      "text": "Home modifications",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications"
+    },
+    {
+      "text": "Guide to providing home modifications",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications/guide-providing-home-modifications"
+    },
+    {
+      "text": "How to provide a home modification assessment",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications/how-provide-home-modification-assessment"
+    },
+    {
+      "text": "Support to live independently (SIL)",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently"
+    },
+    {
+      "text": "Guide to providing SIL",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/guide-providing-supported-independent-living-sil"
+    },
+    {
+      "text": "How to claim SIL supports",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/how-claim-supported-independent-living-sil-supports"
+    },
+    {
+      "text": "How to claim SIL payments after an unplanned exit",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/how-claim-supported-independent-living-sil-payments-after-unplanned-exit"
+    },
+    {
+      "text": "Guide to providing ILO",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/guide-providing-individualised-living-options-ilo"
+    },
+    {
+      "text": "Specialist disability accommodation (SDA)",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda"
+    },
+    {
+      "text": "Guide to providing SDA",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/guide-providing-specialist-disability-accommodation-sda"
+    },
+    {
+      "text": "How to provide onsite shared support",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-provide-onsite-shared-support"
+    },
+    {
+      "text": "How to enrol a home as SDA",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-enrol-home-specialist-disability-accommodation-sda"
+    },
+    {
+      "text": "How to manage SDA vacancies",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-manage-specialist-disability-accommodation-sda-vacancies"
+    },
+    {
+      "text": "Investment in SDA",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/investment-specialist-disability-accommodation-sda"
+    },
+    {
+      "text": "SDA tools or resources",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools"
+    },
+    {
+      "text": "What are the SDA pricing arrangements",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-arrangements"
+    },
+    {
+      "text": "SDA pricing review",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-review"
+    },
+    {
+      "text": "SDA demand data",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/what-specialist-disability-accommodation-sda-demand-data"
+    },
+    {
+      "text": "SDA design standards",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-design-standards"
+    },
+    {
+      "text": "Find a SDA assessor",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/find-specialist-disability-accommodation-sda-assessor"
+    },
+    {
+      "text": "Facebook (External website)",
+      "url": "https://www.facebook.com/NDISAus"
+    },
+    {
+      "text": "Instagram (External website)",
+      "url": "https://www.instagram.com/ndis_australia/"
+    },
+    {
+      "text": "LinkedIn (External website)",
+      "url": "https://www.linkedin.com/company/national-disability-insurance-agency"
+    },
+    {
+      "text": "Twitter (External website)",
+      "url": "https://twitter.com/NDIS"
+    },
+    {
+      "text": "YouTube (External website)",
+      "url": "https://www.youtube.com/user/DisabilityCare"
+    },
+    {
+      "text": "Recent website updates",
+      "url": "https://www.ndis.gov.au/recent-content"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.ndis.gov.au/sitemap"
+    },
+    {
+      "text": "eNewsletter sign up (External website)",
+      "url": "https://cloud.email.ndis.gov.au/newsletter-signup"
+    },
+    {
+      "text": "NDIS laws",
+      "url": "https://www.ndis.gov.au/ndis-laws"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.ndis.gov.au/governance"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ndis.gov.au/publications"
+    },
+    {
+      "text": "Policies, rules and legal",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal"
+    },
+    {
+      "text": "Strategies",
+      "url": "https://www.ndis.gov.au/about-us/strategies"
+    },
+    {
+      "text": "Reference groups",
+      "url": "https://www.ndis.gov.au/reference-groups"
+    },
+    {
+      "text": "Grants and projects",
+      "url": "https://www.ndis.gov.au/grants-and-projects"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright"
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://www.ndis.gov.au/about-us/access-information"
+    },
+    {
+      "text": "Data and research (External website)",
+      "url": "https://dataresearch.ndis.gov.au/"
+    },
+    {
+      "text": "Engage (External website)",
+      "url": "https://engage.ndis.gov.au"
+    },
+    {
+      "text": "Freedom of information",
+      "url": "https://www.ndis.gov.au/about-us/policies/freedom-information"
+    },
+    {
+      "text": "Our guidelines",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines"
+    },
+    {
+      "text": "Social media",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+    }
+  ],
+  "text": "How to access interpreting services for participants | NDIS Skip to main content Skip to main navigation\n\nHow to access interpreting services for participants 31/08/2026, 09:07\n\nNotice\n\nWe are updating information on this website to reflect new NDIS legislation . Information on some pages may change.\n\nNDIS 1800 800 110 Webchat\n\n## Site search\n\nSearch\n\n## Portal sign in menu\n\n- Portal sign in Expand Portal sign in sub menu\n\n- Participant portal (External website)\n\n- Provider portals (External website)\n\nMobile Menu\n\n## Main navigation\n\n- Home\n\n- Understanding the NDIS Expand Understanding the NDIS sub menu\n\n- About the NDIS\n\n- Where to begin\n\n- People that help you\n\n- Applying Expand Applying sub menu\n\n- Eligibility requirements\n\n- Gathering evidence\n\n- Application process\n\n- Types of assessments\n\n- Eligibility reassessments\n\n- For children\n\n- For participants Expand For participants sub menu\n\n- Creating a plan\n\n- Working with providers\n\n- Using your funding\n\n- Changing your plan\n\n- Home and living\n\n- Assistive technology\n\n- Life transitions\n\n- For providers Expand For providers sub menu\n\n- Pricing and payments\n\n- Working as a provider\n\n- Working with participants\n\n- Home and living providers\n\n- News and events Expand News and events sub menu\n\n- Latest events\n\n- Latest news\n\n- Media releases\n\n- Stories and videos\n\n- Media\n\n- Engage\n\n- About Expand About sub menu\n\n- About the NDIA\n\n- Careers at NDIA\n\n- Changes to the NDIS\n\n- Service charter\n\n- Sharing information\n\n- Contact Expand Contact sub menu\n\n- Find us\n\n- Office locations\n\n- Feedback and enquiries\n\n- Reporting fraud\n\n- Other support\n\n- For providers\n\n- Provider responsibilities\n\n# How to access interpreting services for participants\n\nListen\n\nPrint this page Save page as PDF\n\n### On this page:\n\n- Step 1: Understand what interpreting services are available\n\n- Option 1: Translating and Interpreting Service (TIS National)\n\n- Option 2: Northern Territory Aboriginal Interpreter Service (AIS)\n\nOn this page: 1 - Step 1: Understand what interpreting services are available 2 - Option 1: Translating and Interpreting Service (TIS National) 3 - Option 2: Northern Territory Aboriginal Interpreter Service (AIS)\n\n## Step 1: Understand what interpreting services are available\n\nParticipants from culturally and linguistically diverse (CALD) backgrounds may need interpreting help to communicate with you. You're responsible for offering interpreting services to participants.\n\nRegistered providers can access funded interpreting services through the:\n\n- Translating and Interpreting Service (TIS National)\n\n- Northern Territory Aboriginal Interpreting Service .\n\nUnregistered providers can also use these services, but they'll need to fund the cost of the service.\n\nTip: Does your participant need Auslan interpretation?\n\nParticipants can get Auslan interpretation funding included in their NDIS plans.\n\n## Option 1: Translating and Interpreting Service (TIS National)\n\n### Step 1: Register for funded TIS National services\n\nWe've partnered with the Translating and Interpreting Service (TIS National) to make sure information about the NDIS can be shared in a way participants can understand.\n\nTIS National has interpreters in more than 150 languages.\n\nRegistered providers need to register for a client code through the TIS National website.\n\nSelect the following options when completing the registration form:\n\n- category: Commonwealth Government Agency\n\n- subcategory: National Disability Insurance Agency\n\n- name of your organisation of agency: write the name of your organisation\n\n- organisation ID: your provider registration number\n\n- section name: NDIS.\n\nYou'll then be prompted to enter:\n\n- your street address\n\n- your contact details\n\n- your account administrator contact details\n\n- an email address to send invoices to. Use [email protected] .\n\nOnce you submit your application, you'll get:\n\n- an activation email from TIS National with your client code asking you to log into TIS online to activate your account\n\n- a welcome email from TIS Promo.\n\nDon’t book an interpreting service until after you receive the welcome email.\n\n### Step 2: Access TIS National services\n\nYou can access the following services once you register with TIS National:\n\n- immediate phone interpreting\n\n- pre-booked phone interpreting\n\n- on-site interpreting\n\n- video remote interpreting.\n\nYou'll need to give the following information when you request an interpreter:\n\n- your TIS National client code\n\n- the language you need\n\n- the participant’s NDIS number\n\n- the participant’s postcode\n\n- the relevant NDIS support category , such as improved daily living.\n\nYou may need to give extra information depending on the type of interpreting service you’re requesting.\n\nThe TIS online booking system automatically requests an interpreter with an NDIS Worker Screening Check when someone makes a booking for an NDIS participant.\n\nInterpreter bookings can be accepted up to 90 days in advance for both pre-booked phone and on-site interpreting jobs. TIS National suggests booking at least one week in advance to make sure an interpreter is available.\n\n#### Immediate phone interpreting\n\nYou can access immediate phone interpreting services by calling TIS National on 131 450 (within Australia). This service is available 24 hours a day, 7 days a week.\n\n#### Pre-booked phone interpreting\n\nYou can pre-book a phone interpreter through TIS online.\n\n#### On-site interpreting\n\nYou can book an on-site (in person) interpreter through TIS online.\n\n#### Video remote interpreting\n\nYou can book video remote interpreting choosing the videoconferencing platform through TIS online.\n\n### Step 3: If you need to cancel a TIS National service\n\nYou can cancel a TIS National service through TIS online.\n\nYou need to give at least 24 hours’ notice if you need to cancel a TIS National service. Otherwise, you may need to pay cancellation charges.\n\n### Step 4: If you want to request a specific interpreter\n\nParticipants may ask for a specific interpreter.\n\nTIS National may agree to this if:\n\n- using a specific interpreter would maintain quality and continuity of care\n\n- it benefits the participant\n\n- the interpreter has spoken with the participant previously, whether at your organisation or another provider’s organisation.\n\n## Option 2: Northern Territory Aboriginal Interpreter Service (AIS)\n\n### Step 1: Understand when to use an Aboriginal interpreter\n\nWe've partnered with the Northern Territory Aboriginal Interpreter Service (AIS).\n\nThe AIS provides interpreting services for Northern Territory Aboriginal languages .\n\nThey help to lessen language barriers faced by Aboriginal people in the Northern Territory who don’t speak English as a first language.\n\nIt's important to understand when to use an Aboriginal interpreter. The Northern Territory Government created a step-by-step guide to help people decide if they need to organise an interpreter for someone who can’t communicate in English.\n\n### Step 2: Access the AIS\n\nAIS interpreters provide:\n\n- in person interpreting\n\n- telephone interpreting\n\n- audio-visual interpreting\n\n- recorded and produced messaging.\n\nYou’ll need to give the following information when you ask for an interpreter:\n\n- your business organisation and section details\n\n- a billing reference number (please email [email protected] to get this number)\n\n- the participant’s name, skin name, age and gender\n\n- the Aboriginal language to be interpreted\n\n- the location/address of the interpreting service\n\n- the date and time the service is needed\n\n- a brief overview of what the participant would like to talk about.\n\n#### Book an interpreter online\n\nYou can book an AIS interpreter online .\n\n#### Book an interpreter via email\n\nYou can book an AIS interpreter by emailing [email protected] and providing the relevant form on the Northern Territory Government’s website .\n\nAIS will contact you after they receive your booking to discuss the request.\n\n## Main navigation sidebar\n\n### For providers\n\n- Pricing and payments Expand or collapse sub-menu for Pricing and payments\n\n- Pricing Expand or collapse sub-menu for Pricing\n\n- Pricing arrangements\n\n- What is the annual pricing review\n\n- What is the support catalogue\n\n- How we make pricing recommendations\n\n- Pricing updates\n\n- Pricing archive Expand or collapse sub-menu for Pricing archive\n\n- Pricing arrangements archive\n\n- Pricing review archive\n\n- Payments Expand or collapse sub-menu for Payments\n\n- Guide to getting paid\n\n- How to make a payment request\n\n- How to troubleshoot claims and payments\n\n- What is a manual payment review\n\n- For my providers Expand or collapse sub-menu for For my providers\n\n- Guide to getting paid as a my provider\n\n- How to be recorded as a my provider\n\n- Working as a provider Expand or collapse sub-menu for Working as a provider\n\n- Becoming a provider Expand or collapse sub-menu for Becoming a provider\n\n- Guide to becoming a provider\n\n- How to register as a provider\n\n- Guide to working as a provider\n\n- Provider responsibilities Expand or collapse sub-menu for Provider responsibilities\n\n- What are the responsibilities of a provider\n\n- How to do the right thing as a provider\n\n- What is a conflict of interest\n\n- How to access interpreting services for participants\n\n- Managing service bookings\n\n- Reporting and recording keeping Expand or collapse sub-menu for Reporting and recording keeping\n\n- Guide to report writing\n\n- What are the record keeping requirements\n\n- Using the provider portal Expand or collapse sub-menu for Using the provider portal\n\n- How to use the provider portals\n\n- How to view plans in the my NDIS provider portal\n\n- What is the provider learning environment\n\n- How to connect to our systems\n\n- Working with participants Expand or collapse sub-menu for Working with participants\n\n- For early childhood providers Expand or collapse sub-menu for For early childhood providers\n\n- How to write an early childhood provider report\n\n- For GPs and health professionals Expand or collapse sub-menu for For GPs and health professionals\n\n- Guide to the NDIS for GPs and health professionals\n\n- How to determine whether your patient is eligible\n\n- How to help your patient to access the NDIS\n\n- What is supporting evidence for your patient\n\n- For support coordinators Expand or collapse sub-menu for For support coordinators\n\n- Guide to working as a support coordinator\n\n- How to connect with participants as a support coordinator\n\n- How to help participants connect with NDIS supports\n\n- What are support coordinator reporting requirements\n\n- For plan managers Expand or collapse sub-menu for For plan managers\n\n- Guide to working as a plan manager\n\n- How to connect with participants as plan manager\n\n- How to support a participant as a plan manager\n\n- For allied health professionals Expand or collapse sub-menu for For allied health professionals\n\n- Guide to working as an allied health provider\n\n- How to write a plan reassessment report\n\n- For employment providers Expand or collapse sub-menu for For employment providers\n\n- Guide to providing employment supports\n\n- How to report on employment outcomes\n\n- Employment provider reports\n\n- For assistive technology providers Expand or collapse sub-menu for For assistive technology providers\n\n- How to provide assistive technology to participants\n\n- How to prepare evidence for a participant's assistive technology assessment\n\n- Home and living providers Expand or collapse sub-menu for Home and living providers\n\n- For home and living providers Expand or collapse sub-menu for For home and living providers\n\n- Guide to working as a home and living provider\n\n- How to help with alternative options to residential aged care\n\n- Home modifications Expand or collapse sub-menu for Home modifications\n\n- Guide to providing home modifications\n\n- How to provide a home modification assessment\n\n- Support to live independently (SIL) Expand or collapse sub-menu for Support to live independently (SIL)\n\n- Guide to providing SIL\n\n- How to claim SIL supports\n\n- How to claim SIL payments after an unplanned exit\n\n- Guide to providing ILO\n\n- Specialist disability accommodation (SDA) Expand or collapse sub-menu for Specialist disability accommodation (SDA)\n\n- Guide to providing SDA\n\n- How to provide onsite shared support\n\n- How to enrol a home as SDA\n\n- How to manage SDA vacancies\n\n- Investment in SDA\n\n- SDA tools or resources Expand or collapse sub-menu for SDA tools or resources\n\n- What are the SDA pricing arrangements\n\n- SDA pricing review\n\n- SDA demand data\n\n- SDA design standards\n\n- Find a SDA assessor\n\n## Related information\n\n### Guide to working as a provider\n\n### Guide to NDIS support budgets\n\n### Contact us\n\nThis page current as of\n\n20 August 2026\n\nIndicates required field\n\nWas this page useful? *\n\nNo\n\nYes\n\nWhy?\n\nIt was easy to understand\n\nThe layout or style made it easy to read\n\nThe information was easy to find\n\nWhy not?\n\nIt was too hard to understand\n\nI couldn’t find the information\n\nThe layout or style made it hard to read\n\nThe information wasn’t what I was looking for\n\nTell us more (optional)\n\nSubmit\n\nLeave this field blank\n\n## Social Menu\n\n- Facebook (External website)\n\n- Instagram (External website)\n\n- LinkedIn (External website)\n\n- Twitter (External website)\n\n- YouTube (External website)\n\n## Footer Menu\n\n- Recent website updates\n\n- Sitemap\n\n- eNewsletter sign up (External website)\n\n- NDIS laws\n\n- Careers\n\n- Governance\n\n- Publications\n\n- Policies, rules and legal\n\n- Strategies\n\n- Reference groups\n\n- Grants and projects\n\n## Copyright Menu\n\n- Privacy\n\n- Accessibility\n\n- Copyright\n\n- Disclaimers\n\n- Access to information\n\n- Data and research (External website)\n\n- Engage (External website)\n\n- Freedom of information\n\n- Our guidelines\n\n- Social media\n\nThe National Disability Insurance Agency acknowledges the Traditional Owners and Custodians of Country throughout Australia and acknowledges their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the Elders past, present and emerging.\n\nAboriginal and Torres Strait Islander readers are advised that this website may contain images, voices and videos of deceased persons.\n\nDeveloped by the National Disability Insurance Agency\n\nhttps://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#main-content\n\n- Skip to main navigation: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#block-mainnavigation\n\n- new NDIS legislation: https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations\n\n- NDIS: https://www.ndis.gov.au/\n\n- Participant portal (External website): https://myndisportal.ndis.gov.au/services/auth/sso/CIAM\n\n- Provider portals (External website): https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/\n\n- Understanding the NDIS: https://www.ndis.gov.au/understanding-ndis\n\n- About the NDIS: https://www.ndis.gov.au/understanding-ndis/about-ndis\n\n- Where to begin: https://www.ndis.gov.au/understanding-ndis/where-begin\n\n- People that help you: https://www.ndis.gov.au/understanding-ndis/people-help-you\n\n- Applying: https://www.ndis.gov.au/applying\n\n- Eligibility requirements: https://www.ndis.gov.au/applying/eligibility-requirements\n\n- Gathering evidence: https://www.ndis.gov.au/applying/gathering-evidence\n\n- Application process: https://www.ndis.gov.au/applying/application-process\n\n- Types of assessments: https://www.ndis.gov.au/applying/types-assessments\n\n- Eligibility reassessments: https://www.ndis.gov.au/applying/eligibility-reassessments\n\n- For children: https://www.ndis.gov.au/applying/children\n\n- For participants: https://www.ndis.gov.au/participants\n\n- Creating a plan: https://www.ndis.gov.au/participants/creating-plan\n\n- Working with providers: https://www.ndis.gov.au/participants/working-providers\n\n- Using your funding: https://www.ndis.gov.au/participants/using-your-funding\n\n- Changing your plan: https://www.ndis.gov.au/participants/changing-your-plan\n\n- Home and living: https://www.ndis.gov.au/participants/home-and-living\n\n- Assistive technology: https://www.ndis.gov.au/participants/assistive-technology\n\n- Life transitions: https://www.ndis.gov.au/participants/life-transitions\n\n- For providers: https://www.ndis.gov.au/providers\n\n- Pricing and payments: https://www.ndis.gov.au/providers/pricing-and-payments\n\n- Working as a provider: https://www.ndis.gov.au/providers/working-provider\n\n- Working with participants: https://www.ndis.gov.au/providers/working-participants\n\n- Home and living providers: https://www.ndis.gov.au/providers/home-and-living-providers\n\n- News and events: https://www.ndis.gov.au/news\n\n- Latest events: https://www.ndis.gov.au/news/events\n\n- Latest news: https://www.ndis.gov.au/news/latest\n\n- Media releases: https://www.ndis.gov.au/news/media-releases\n\n- Stories and videos: https://www.ndis.gov.au/news/stories\n\n- Media: https://www.ndis.gov.au/news/media\n\n- Engage: https://www.ndis.gov.au/engage\n\n- About: https://www.ndis.gov.au/about-us\n\n- About the NDIA: https://www.ndis.gov.au/about-us/about-ndia\n\n- Careers at NDIA: https://www.ndis.gov.au/about-us/careers-ndia\n\n- Changes to the NDIS: https://www.ndis.gov.au/changes-ndis\n\n- Service charter: https://www.ndis.gov.au/about-us/service-charter\n\n- Sharing information: https://www.ndis.gov.au/about-us/sharing-information\n\n- Contact: https://www.ndis.gov.au/contact\n\n- Find us: https://www.ndis.gov.au/contact/find-us\n\n- Office locations: https://www.ndis.gov.au/contact/locations\n\n- Feedback and enquiries: https://www.ndis.gov.au/contact/feedback-and-enquiries\n\n- Reporting fraud: https://www.ndis.gov.au/contact/reporting-fraud\n\n- Other support: https://www.ndis.gov.au/contact/other-support\n\n- Provider responsibilities: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fproviders%2Fworking-provider%2Fprovider-responsibilities%2Fhow-access-interpreting-services-participants\n\n- Save page as PDF: https://www.ndis.gov.au/print/pdf/node/11382\n\n- Step 1: Understand what interpreting services are available: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#step-1-understand-what-interpreting-services-are-available\n\n- Option 1: Translating and Interpreting Service (TIS National): https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#option-1-translating-and-interpreting-service-tis-national\n\n- Option 2: Northern Territory Aboriginal Interpreter Service (AIS): https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants#option-2-northern-territory-aboriginal-interpreter-service-ais\n\n- Translating and Interpreting Service (TIS National): https://www.tisnational.gov.au/\n\n- Northern Territory Aboriginal Interpreting Service: https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service\n\n- register for a client code: https://tisonline.tisnational.gov.au/registeragency/Step2\n\n- [email protected]: https://www.ndis.gov.au/cdn-cgi/l/email-protection#177e7961787e7472645779737e6439707861397662\n\n- NDIS support category: https://www.ndis.gov.au/participants/using-your-funding/ndis-support-budgets/guide-ndis-support-budgets\n\n- immediate phone interpreting services: https://www.tisnational.gov.au/en/Our-services/Language-services/Phone-interpreting\n\n- on-site (in person) interpreter: https://www.tisnational.gov.au/en/Our-services/Language-services/Onsite-interpreting\n\n- video remote interpreting: https://www.tisnational.gov.au/en/Our-services/Language-services/Video-remote-interpreting\n\n- cancel a TIS National service: https://www.tisnational.gov.au/Policies/Cancellation-Policy\n\n- Northern Territory Aboriginal languages: https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/aboriginal-languages-in-nt\n\n- step-by-step guide: https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/when-to-use-an-aboriginal-interpreter/introduction\n\n- [email protected]: https://www.ndis.gov.au/cdn-cgi/l/email-protection#77141805071805160312591418190305161403043719131e0459101801591602\n\n- book an AIS interpreter online: https://service.nt.gov.au/services/health-care/book-an-aboriginal-interpreter\n\n- [email protected]: https://www.ndis.gov.au/cdn-cgi/l/email-protection#e7868e94a78993c9808891c98692\n\n- Northern Territory Government’s website: https://nt.gov.au/community/interpreting-and-translating-services/aboriginal-interpreter-service/book-an-aboriginal-interpreter#how-to-book\n\n- Pricing: https://www.ndis.gov.au/providers/pricing-and-payments/pricing\n\n- Pricing arrangements: https://www.ndis.gov.au/providers/pricing-and-payments/pricing/pricing-arrangements\n\n- What is the annual pricing review: https://www.ndis.gov.au/providers/pricing-and-payments/pricing/what-annual-pricing-review-apr\n\n- What is the support catalogue: https://www.ndis.gov.au/providers/pricing-and-payments/pricing/what-support-catalogue\n\n- How we make pricing recommendations: https://www.ndis.gov.au/providers/pricing-and-payments/pricing/how-we-make-pricing-recommendations\n\n- Pricing updates: https://www.ndis.gov.au/providers/pricing-and-payments/pricing/pricing-updates\n\n- Pricing archive: https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive\n\n- Pricing arrangements archive: https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive/pricing-arrangements-archive\n\n- Pricing review archive: https://www.ndis.gov.au/providers/pricing-and-payments/pricing-archive/pricing-review-archive\n\n- Payments: https://www.ndis.gov.au/providers/pricing-and-payments/payments\n\n- Guide to getting paid: https://www.ndis.gov.au/providers/pricing-and-payments/payments/guide-getting-paid\n\n- How to make a payment request: https://www.ndis.gov.au/providers/pricing-and-payments/payments/how-make-payment-request\n\n- How to troubleshoot claims and payments: https://www.ndis.gov.au/providers/pricing-and-payments/payments/how-troubleshoot-claims-and-payments\n\n- What is a manual payment review: https://www.ndis.gov.au/providers/pricing-and-payments/payments/what-manual-payment-review\n\n- For my providers: https://www.ndis.gov.au/providers/pricing-and-payments/my-providers\n\n- Guide to getting paid as a my provider: https://www.ndis.gov.au/providers/pricing-and-payments/my-providers/guide-getting-paid-my-provider\n\n- How to be recorded as a my provider: https://www.ndis.gov.au/providers/pricing-and-payments/my-providers/how-be-recorded-my-provider\n\n- Becoming a provider: https://www.ndis.gov.au/providers/working-provider/becoming-provider\n\n- Guide to becoming a provider: https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-becoming-provider\n\n- How to register as a provider: https://www.ndis.gov.au/providers/working-provider/becoming-provider/how-register-provider\n\n- Guide to working as a provider: https://www.ndis.gov.au/providers/working-provider/becoming-provider/guide-working-provider\n\n- What are the responsibilities of a provider: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-are-responsibilities-provider\n\n- How to do the right thing as a provider: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-do-right-thing-provider\n\n- What is a conflict of interest: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/what-conflict-interest\n\n- How to access interpreting services for participants: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/how-access-interpreting-services-participants\n\n- Managing service bookings: https://www.ndis.gov.au/providers/working-provider/provider-responsibilities/managing-service-bookings\n\n- Reporting and recording keeping: https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping\n\n- Guide to report writing: https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/guide-report-writing\n\n- What are the record keeping requirements: https://www.ndis.gov.au/providers/working-provider/reporting-and-recording-keeping/what-are-record-keeping-requirements\n\n- Using the provider portal: https://www.ndis.gov.au/providers/working-provider/using-provider-portals\n\n- How to use the provider portals: https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-use-provider-portals\n\n- How to view plans in the my NDIS provider portal: https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-view-plans-my-ndis-provider-portal\n\n- What is the provider learning environment: https://www.ndis.gov.au/providers/working-provider/using-provider-portals/what-provider-learning-environment\n\n- How to connect to our systems: https://www.ndis.gov.au/providers/working-provider/using-provider-portals/how-connect-our-systems\n\n- For early childhood providers: https://www.ndis.gov.au/providers/working-participants/early-childhood-providers\n\n- How to write an early childhood provider report: https://www.ndis.gov.au/providers/working-participants/early-childhood-providers/how-write-early-childhood-provider-report\n\n- For GPs and health professionals: https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals\n\n- Guide to the NDIS for GPs and health professionals: https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/guide-ndis-gps-and-health-professionals\n\n- How to determine whether your patient is eligible: https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/how-determine-whether-your-patient-eligible\n\n- How to help your patient to access the NDIS: https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/how-help-your-patient-access-ndis\n\n- What is supporting evidence for your patient: https://www.ndis.gov.au/providers/working-participants/gps-and-health-professionals/what-supporting-evidence-your-patient\n\n- For support coordinators: https://www.ndis.gov.au/providers/working-participants/support-coordinators\n\n- Guide to working as a support coordinator: https://www.ndis.gov.au/providers/working-participants/support-coordinators/guide-working-support-coordinator\n\n- How to connect with participants as a support coordinator: https://www.ndis.gov.au/providers/working-participants/support-coordinators/how-connect-participants-support-coordinator\n\n- How to help participants connect with NDIS supports: https://www.ndis.gov.au/providers/working-participants/support-coordinators/how-help-participants-connect-ndis-supports\n\n- What are support coordinator reporting requirements: https://www.ndis.gov.au/providers/working-participants/support-coordinators/what-are-support-coordinator-reporting-requirements\n\n- For plan managers: https://www.ndis.gov.au/providers/working-participants/plan-managers\n\n- Guide to working as a plan manager: https://www.ndis.gov.au/providers/working-participants/plan-managers/guide-working-plan-manager\n\n- How to connect with participants as plan manager: https://www.ndis.gov.au/providers/working-participants/plan-managers/how-connect-participants-plan-manager\n\n- How to support a participant as a plan manager: https://www.ndis.gov.au/providers/working-participants/plan-managers/how-support-participant-plan-manager\n\n- For allied health professionals: https://www.ndis.gov.au/providers/working-participants/allied-health-professionals\n\n- Guide to working as an allied health provider: https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/guide-working-allied-health-provider\n\n- How to write a plan reassessment report: https://www.ndis.gov.au/providers/working-participants/allied-health-professionals/how-write-plan-reassessment-report\n\n- For employment providers: https://www.ndis.gov.au/providers/working-participants/employment-providers\n\n- Guide to providing employment supports: https://www.ndis.gov.au/providers/working-participants/employment-providers/guide-providing-employment-supports\n\n- How to report on employment outcomes: https://www.ndis.gov.au/providers/working-participants/employment-providers/how-report-employment-outcomes\n\n- Employment provider reports: https://www.ndis.gov.au/providers/working-participants/employment-providers/employment-provider-reports\n\n- For assistive technology providers: https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers\n\n- How to provide assistive technology to participants: https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-provide-assistive-technology-participants\n\n- How to prepare evidence for a participant's assistive technology assessment: https://www.ndis.gov.au/providers/working-participants/assistive-technology-providers/how-prepare-evidence-participants-assistive-technology-assessment\n\n- For home and living providers: https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers\n\n- Guide to working as a home and living provider: https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers/guide-working-home-and-living-provider\n\n- How to help with alternative options to residential aged care: https://www.ndis.gov.au/providers/home-and-living-providers/home-and-living-providers/how-help-alternative-options-residential-aged-care\n\n- Home modifications: https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications\n\n- Guide to providing home modifications: https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications/guide-providing-home-modifications\n\n- How to provide a home modification assessment: https://www.ndis.gov.au/providers/home-and-living-providers/home-modifications/how-provide-home-modification-assessment\n\n- Support to live independently (SIL): https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently\n\n- Guide to providing SIL: https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/guide-providing-supported-independent-living-sil\n\n- How to claim SIL supports: https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/how-claim-supported-independent-living-sil-supports\n\n- How to claim SIL payments after an unplanned exit: https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/how-claim-supported-independent-living-sil-payments-after-unplanned-exit\n\n- Guide to providing ILO: https://www.ndis.gov.au/providers/home-and-living-providers/support-live-independently/guide-providing-individualised-living-options-ilo\n\n- Specialist disability accommodation (SDA): https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda\n\n- Guide to providing SDA: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/guide-providing-specialist-disability-accommodation-sda\n\n- How to provide onsite shared support: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-provide-onsite-shared-support\n\n- How to enrol a home as SDA: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-enrol-home-specialist-disability-accommodation-sda\n\n- How to manage SDA vacancies: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/how-manage-specialist-disability-accommodation-sda-vacancies\n\n- Investment in SDA: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda/investment-specialist-disability-accommodation-sda\n\n- SDA tools or resources: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools\n\n- What are the SDA pricing arrangements: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-arrangements\n\n- SDA pricing review: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-pricing-review\n\n- SDA demand data: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/what-specialist-disability-accommodation-sda-demand-data\n\n- SDA design standards: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/specialist-disability-accommodation-sda-design-standards\n\n- Find a SDA assessor: https://www.ndis.gov.au/providers/home-and-living-providers/specialist-disability-accommodation-sda-tools/find-specialist-disability-accommodation-sda-assessor\n\n- Facebook (External website): https://www.facebook.com/NDISAus\n\n- Instagram (External website): https://www.instagram.com/ndis_australia/\n\n- LinkedIn (External website): https://www.linkedin.com/company/national-disability-insurance-agency\n\n- Twitter (External website): https://twitter.com/NDIS\n\n- YouTube (External website): https://www.youtube.com/user/DisabilityCare\n\n- Recent website updates: https://www.ndis.gov.au/recent-content\n\n- Sitemap: https://www.ndis.gov.au/sitemap\n\n- eNewsletter sign up (External website): https://cloud.email.ndis.gov.au/newsletter-signup\n\n- NDIS laws: https://www.ndis.gov.au/ndis-laws\n\n- Governance: https://www.ndis.gov.au/governance\n\n- Publications: https://www.ndis.gov.au/publications\n\n- Policies, rules and legal: https://www.ndis.gov.au/policies-rules-and-legal\n\n- Strategies: https://www.ndis.gov.au/about-us/strategies\n\n- Reference groups: https://www.ndis.gov.au/reference-groups\n\n- Grants and projects: https://www.ndis.gov.au/grants-and-projects\n\n- Privacy: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy\n\n- Accessibility: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility\n\n- Copyright: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright\n\n- Disclaimers: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers\n\n- Access to information: https://www.ndis.gov.au/about-us/access-information\n\n- Data and research (External website): https://dataresearch.ndis.gov.au/\n\n- Engage (External website): https://engage.ndis.gov.au\n\n- Freedom of information: https://www.ndis.gov.au/about-us/policies/freedom-information\n\n- Our guidelines: https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines\n\n- Social media: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+}

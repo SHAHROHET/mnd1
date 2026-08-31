@@ -1,0 +1,2320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="google-site-verification" content="e1bLVUnZJu1zi8XApSzAhaCFXc15RSXBD5h_WHnPAa0" />
+
+    <title>Educational resources - Australian Institute of Health and Welfare</title>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="theme-color" content="#ffffff">
+
+    
+    <meta name="description" content="These educational resources are the latest data and information available covering a wide range of topic areas. Descriptions give more insight about each resource, with a link to the main report...">
+    <meta property="og:description" content="These educational resources are the latest data and information available covering a wide range of topic areas. Descriptions give more insight about each resource, with a link to the main report...">
+    <meta name="twitter:description" content="These educational resources are the latest data and information available covering a wide range of topic areas. Descriptions give more insight about each resource, with a link to the main report...">
+
+    <meta property="og:title" content="Educational resources">
+    <meta name="twitter:title" content="Educational resources">
+
+    <meta property="og:image" content="https://www.aihw.gov.au:443/images/aihw-logo-social.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://www.aihw.gov.au:443/images/aihw-logo-social.png" />
+
+<meta property="og:site_name" content="Australian Institute of Health and Welfare">
+<meta property="og:url" content="https://www.aihw.gov.au/reports-data/downloadable-resources" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en-AU" />
+
+
+
+    <!-- Preconnect / dns-prefetch -->
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://siteimproveanalytics.com">
+    <link rel="dns-prefetch" href="https://siteimproveanalytics.com">
+    <link rel="preconnect" href="https://www.gstatic.com">
+    <link rel="dns-prefetch" href="https://www.gstatic.com">
+    <link rel="preconnect" href="https://viz.aihw.gov.au">
+    <link rel="dns-prefetch" href="https://viz.aihw.gov.au">
+    <link rel="preconnect" href="https://z.moatads.com">
+    <link rel="dns-prefetch" href="https://z.moatads.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+
+    
+
+    
+
+	
+    
+    
+    
+	
+	
+    
+	
+
+	
+    
+	
+    
+    
+
+    
+
+    
+    
+    
+	
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400..800;1,400..800&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400..800;1,400..800&display=swap">
+
+    <link rel="stylesheet" media="not print" href="/styles/styles.css?v=sBVmddAKhGg_-BbfXOfmhJrHixtkG3Oj4m3awfQ570g" />
+<link rel="stylesheet" media="not print" href="/styles/vendor/bootstrap.css?v=xHU7WBU_GPPWv75DdSNh3Rj323MvDNPWMG5Q-u0eIa8" />
+<link rel="stylesheet" media="not print" href="/styles/components/core/global.css?v=zkzepRuXTN4fJcz1nsMQQQcu4cZ5wzdZf3z2npNBXgA" />
+<link rel="stylesheet" media="not print" href="/styles/components/core/accessibility.css?v=SjubfmnszJ41yXWhiwQH62lu1qZNjsWnlqwsP-Yd7uU" />
+<link rel="preload" media="not print" href="/styles/components/core/footer.css?v=h_Tler9PyJheefVfe3ytaYe4oWscOAjli8o-C8_frEM" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/core/footer.css?v=h_Tler9PyJheefVfe3ytaYe4oWscOAjli8o-C8_frEM" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/core/form-fields-common.css?v=gF87jcsY1xCP6PC-UTMFy1i2sU-a3UNEP9doDCnN2xQ" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/core/form-fields-common.css?v=gF87jcsY1xCP6PC-UTMFy1i2sU-a3UNEP9doDCnN2xQ" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/core/header.css?v=8y6ZrZ50JfnNzcvTH00t8hf8AGItAPYcYsUCi2c1ZTI" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/core/header.css?v=8y6ZrZ50JfnNzcvTH00t8hf8AGItAPYcYsUCi2c1ZTI" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/core/autocomplete.css?v=ABnVggLtbKA8WzGZmzvSMbHfQfS52-fkQiD21QLyMco" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/core/autocomplete.css?v=ABnVggLtbKA8WzGZmzvSMbHfQfS52-fkQiD21QLyMco" /></noscript>
+<link rel="stylesheet" media="not print" href="/styles/components/core/layout.css?v=KkI1p7oqmGb2OTbaeXBxwoFlnKcJP5MimXJF6jNrQd0" />
+<link rel="preload" media="not print" href="/styles/components/core/page-header.css?v=YyOinr6KgoYtxzcg-nq87uZxJchtvphyIbjttbw2RPs" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/core/page-header.css?v=YyOinr6KgoYtxzcg-nq87uZxJchtvphyIbjttbw2RPs" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/content/a-z-nav.css?v=x4logoFc_XqYiI23fWZHWMs2iJSQPCiLrU9k7UwzNOc" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/content/a-z-nav.css?v=x4logoFc_XqYiI23fWZHWMs2iJSQPCiLrU9k7UwzNOc" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/content/feedback-form.css?v=NSBPodaGGUF1YDrBxLeA-zyVqiPV-_nYLtUfsANuVNs" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/content/feedback-form.css?v=NSBPodaGGUF1YDrBxLeA-zyVqiPV-_nYLtUfsANuVNs" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/content/notice-banner.css?v=HdD8TnRUhpcTIhMt8qh_i616dw8ZgbWmx8IRL3XqzEo" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/content/notice-banner.css?v=HdD8TnRUhpcTIhMt8qh_i616dw8ZgbWmx8IRL3XqzEo" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/content/modal.css?v=naQiZAEk-bnLLThYepW5Q-f11vVezJXWxZTzwP_n-xc" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/content/modal.css?v=naQiZAEk-bnLLThYepW5Q-f11vVezJXWxZTzwP_n-xc" /></noscript>
+<link rel="preload" media="not print" href="/styles/components/content/content-warning.css?v=80zG2sj_s0NOLxrf7hhL_qnIvmddeB8T9diP9ob4lso" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="not print" href="/styles/components/content/content-warning.css?v=80zG2sj_s0NOLxrf7hhL_qnIvmddeB8T9diP9ob4lso" /></noscript>
+<link rel="stylesheet" media="not print" href="/styles/components/content/widgets/widgets-common.css?v=tjBKDuLhmvQzzfaPJoikXheM1spWNCLXMYSV3evRvSc" />
+<link rel="stylesheet" media="print" href="/styles/vendor/gutenberg/gutenberg.css?v=cBM1S7wGrXAERyRAg7qH0mXI2d_1xiUAO7hyU9KVCh0" />
+<link rel="stylesheet" media="print" href="/styles/vendor/gutenberg/themes/modern.css?v=cl2mxUk763uOPyO3whRmv0I9eqBT5OiQ0EyoAVo-QZs" />
+<link rel="stylesheet" media="print" href="/styles/print.css?v=pGJbbDdA1WvHrZ6wHnqjBlC64Z2MsFZ9OaYxa68j-9M" />
+<link rel="stylesheet" media="not print" href="/styles/Components/Core/sidebar-navigation.css?v=j2NYPUpK0Hj2LLs6EpIqfBpeQOAVnFZTJ7h6rA4Enpo" />
+<link rel="stylesheet" media="not print" href="/styles/Components/Content/collapsible.css?v=h66oCHMCmJ7vAcu7UTulQXEdVZFzIz_WxhRkoQz0mOM" />
+<link rel="stylesheet" media="not print" href="/styles/components/content/widgets/text-widgets.css?v=AFuRELYP9UtEUbhSOyUXlWs_wnT_h1M6aiCJnNzbpeU" />
+<link rel="stylesheet" media="screen" href="/styles/Vendor/pickadate/base.css?v=EiW_Y8N0-baMQ1VQgKKMjnmttrWpPvv-CwutJouEpHo" />
+<link rel="stylesheet" media="screen" href="/styles/Vendor/pickadate/classic.css?v=ARV1h1ELFK2vhrGd0ceci4DtucUvzU5ZKC3WQsOiQvg" />
+<link rel="stylesheet" media="screen" href="/styles/Components/Content/downloadables.css?v=JiFM5a5eCJ-rlJSDcsaGz-G67HoJH88Z4AnQIWy8mhk" />
+<link rel="preload" media="screen" href="/styles/Components/Content/pagination.css?v=VXrEppq0r_I8u_lovXuMFBfcm9VvDfLphluAOvJIrKE" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+<noscript><link rel="stylesheet" media="screen" href="/styles/Components/Content/pagination.css?v=VXrEppq0r_I8u_lovXuMFBfcm9VvDfLphluAOvJIrKE" /></noscript>
+<link rel="stylesheet" media="screen" href="/styles/Components/Content/search-filters.css?v=FYYx_d_IvDlPIcbOHRjoK_noX4wXnfboIKv2sQC62qA" />
+
+    
+
+	    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+					})(window,document,'script','dataLayer','GTM-KM4ZN8X');</script>
+
+        <script>
+            var inCMS = false;
+        </script>
+
+	
+</head>
+<body>
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM4ZN8X"
+					height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <div class="wrapper wrapper--Live">
+		
+			
+
+
+<header class="h-wrapper">
+	<div data-skip-to-wrapper></div>
+
+	<div class="h-wrapper__inner">
+		<div class="h-top-bar">
+			<ul class="h-link-list">
+		<li class="h-link-list__item">
+			<button type="button" class="h-link-list__link" data-js-header-our-sites aria-haspopup="true" aria-expanded="false" id="headerOurSites">
+				<span class="h-link-list__link__text">Our sites</span>
+				<svg class="i-chevron-down icon h-link-list__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+			</button>
+			<ul class="h-link-list__subList" aria-labelledby="headerOurSites">
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.indigenoushpf.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Aboriginal and Torres Strait Islander Health Performance Framework</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://mesothelioma-australia.com/home/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Australian Mesothelioma Registry</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://www.gen-agedcaredata.gov.au" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">GEN Aged Care Data</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.housingdata.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Housing data</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://meteor.aihw.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Metadata Online Registry (METEOR)</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.rific.gov.au" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Regional Insights for Indigenous Communities</span>
+						</a>
+					</li>
+			</ul>
+		</li>
+			<li class="h-link-list__item">
+				<a class="h-link-list__link" href="/contact-us">
+					<span class="h-link-list__link__text">Contact us</span>
+				</a>
+			</li>
+			<li class="h-link-list__item">
+				<a class="h-link-list__link" href="/help-tools">
+					<span class="h-link-list__link__text">Help &amp; tools</span>
+				</a>
+			</li>
+			</ul>
+
+			<ul class="h-util-list">
+				<li class="h-util-list__item h-util-list__item--font-size">
+					<a href="#" class="h-util-list__button h-util-list__button--font-size h-util-list__button--font-size-increase" role="button" data-js-font-size="increase">
+						<svg class="i-font-size-increase icon h-util-list__button__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-font-size-increase"></use></svg>
+						<span class="h-util-list__button__text">Increase text size</span>
+					</a>
+				</li>
+				<li class="h-util-list__item h-util-list__item--font-size">
+					<a href="#" class="h-util-list__button h-util-list__button--font-size h-util-list__button--font-size-decrease" role="button" data-js-font-size="decrease">
+						<svg class="i-font-size-decrease icon h-util-list__button__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-font-size-decrease"></use></svg>
+						<span class="h-util-list__button__text">Decrease text size</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+		<div class="h-main">
+			<div class="h-main__cell h-main__cell--01" data-js-logo-cell>
+				<a href="/" class="h-main__logo-link" title="Australian Institute of Health and Welfare">
+					<img class="h-main__logo-link__screen-img" src="/images/aihw-logo.svg" alt="Home - Australian Government - Australian Institute of Health and Welfare - logo">
+					<span class="h-main__logo-link__wrapper">
+						<img class="h-main__logo-link__screen-letters-img" loading="lazy" src="/images/aihw-letters-logo.png" alt="AIHW logo">
+					</span>
+					<img class="h-main__logo-link__print-img" loading="lazy" src="/images/aihw-logo--print.png" alt="AIHW - logo" style="display: none;" aria-hidden="true">
+				</a>
+			</div>
+
+			<div class="h-main__cell h-main__cell--02" data-js-toggle-wrapper>
+				<div class="h-main__cell__wrapper" data-js-fixed-wrapper>
+					<div class="h-main__cell__search-wrapper">
+								<button type="button" class="c-search-trigger" aria-controls="header-search-dialog" aria-expanded="false" data-search-trigger>
+									Search
+									<span class="c-search-trigger__icon-wrapper">
+										<svg class="i-search c-search-trigger__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-search"></use></svg>
+									</span>
+								</button>
+					</div>
+
+					<div class="h-main__cell__nav-toggle-wrapper">
+						<button class="h-nav-toggle" aria-controls="main-nav" aria-expanded="false" data-js-nav-toggle>
+							<svg class="i-menu icon h-nav-toggle__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-menu"></use></svg>
+							<svg class="i-close icon h-nav-toggle__icon" style="display: none;" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+							<span class="h-nav-toggle__text">Menu</span>
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<nav id="main-nav" class="h-nav is-hidden-on-load" data-js-nav aria-label="Main navigation">
+		<ul class="h-nav__list" itemscope itemtype="https://schema.org/SiteNavigationElement">
+			<li class="h-nav__list-item is-home" itemprop="name">
+				<a href="/" class="h-nav__link" itemprop="url">
+					<svg class="i-home icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-home"></use></svg>
+					<span class="h-nav__link__text">Home</span>
+				</a>
+			</li>
+				<li class="h-nav__list-item h-nav__list-item--reports has-submenu" data-js-nav-item>
+					<a href="/reports-data" class="h-nav__link h-nav__link--desktop is-current" data-js-nav-link itemprop="url">
+						<span class="h-nav__link__text" itemprop="name">Reports &amp; data</span>
+							<span class="sr-only">Use down arrow to expand</span>
+						<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+							<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+					</a>
+					<div class="h-nav__list-item__device">
+						<a href="/reports-data" class="h-nav__link h-nav__link--device is-current" data-js-nav-link>
+							<span class="h-nav__link__text">Reports &amp; data</span>
+							<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+						</a>
+							<button class="h-nav__link__trigger" data-js-nav-link-trigger>
+								<span class="sr-only">Click to expand menu item</span>
+								<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+							</button>
+					</div>
+						<div class="h-nav__sub-menu" aria-hidden="true" data-js-sub-menu>
+
+<div class="h-reports-nav">
+	<div class="h-reports-nav__main">
+		<h3 class="h4 h-reports-nav__section-heading">Find reports &amp; data by topic</h3>
+		<div class="h-reports-az">
+				<ul class="h-reports-az__list">
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#A" class="h-reports-az__letter-link">
+									A
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#B" class="h-reports-az__letter-link">
+									B
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#C" class="h-reports-az__letter-link">
+									C
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#D" class="h-reports-az__letter-link">
+									D
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#E" class="h-reports-az__letter-link">
+									E
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#F" class="h-reports-az__letter-link">
+									F
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#G" class="h-reports-az__letter-link">
+									G
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#H" class="h-reports-az__letter-link">
+									H
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#I" class="h-reports-az__letter-link">
+									I
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#J" class="h-reports-az__letter-link">
+									J
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#K" class="h-reports-az__letter-link">
+									K
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#L" class="h-reports-az__letter-link">
+									L
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#M" class="h-reports-az__letter-link">
+									M
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#N" class="h-reports-az__letter-link">
+									N
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#O" class="h-reports-az__letter-link">
+									O
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#P" class="h-reports-az__letter-link">
+									P
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#Q" class="h-reports-az__letter-link">
+									Q
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#R" class="h-reports-az__letter-link">
+									R
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#S" class="h-reports-az__letter-link">
+									S
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#T" class="h-reports-az__letter-link">
+									T
+								</a>
+						</li>
+						<li class="h-reports-az__letter h-reports-az__letter--inactive">
+								<span class="h-reports-az__letter-link">
+									U
+								</span>	
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#V" class="h-reports-az__letter-link">
+									V
+								</a>
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#W" class="h-reports-az__letter-link">
+									W
+								</a>
+						</li>
+						<li class="h-reports-az__letter h-reports-az__letter--inactive">
+								<span class="h-reports-az__letter-link">
+									X
+								</span>	
+						</li>
+						<li class="h-reports-az__letter">
+								<a href="/reports-data/a-z-topics#Y" class="h-reports-az__letter-link">
+									Y
+								</a>
+						</li>
+						<li class="h-reports-az__letter h-reports-az__letter--inactive">
+								<span class="h-reports-az__letter-link">
+									Z
+								</span>	
+						</li>
+				</ul>
+
+				<a href="/reports-data/a-z-topics" class="e-pill e-pill--alt h-reports-az__button">
+					See all topics
+					<svg aria-hidden="true" focusable="false" class="i-chevron-right"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+				</a>
+		</div>
+
+			<ul class="h-reports-subnav">
+					<li class="h-reports-subnav__item">
+						<a href="/reports-data/latest-reports" class="h-reports-subnav__item-link">
+							<span class="h-reports-subnav__item-link-text">
+								Latest releases
+								<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							</span>
+						</a>
+					</li>
+					<li class="h-reports-subnav__item">
+						<a href="/reports-data/downloadable-resources" class="h-reports-subnav__item-link">
+							<span class="h-reports-subnav__item-link-text">
+								Educational resources
+								<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="h-reports-nav__listing">
+		<h3 class="h4 h-reports-nav__section-heading">Featured</h3>
+		<ul class="h-reports-links">
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/reports-data/australias-health" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Australia&#x27;s health</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/reports-data/australias-welfare" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Australia&#x27;s welfare</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/reports-data/australias-health-performance" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Australia&#x27;s health performance</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/hospitals" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Hospitals</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/Australias-Disability-Strategy" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Australia&#x2019;s Disability Strategy</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/About-our-data/Linked-data-assets" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Linked data assets</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/reports-data/population-groups/Indigenous-Australians" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">First Nations people</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/suicide-self-harm-monitoring" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Suicide &amp; self-harm monitoring</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/family-domestic-and-sexual-violence" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Family, domestic &amp; sexual violence</span>
+					</a>
+				</li>
+				<li class="h-reports-links__item">
+					<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+					<a href="/reports-data/population-health-monitoring" class="h-reports-links__item-link">
+						<span class="h-reports-links__item-link-text">Australian Centre for Monitoring Population Health</span>
+					</a>
+				</li>
+		</ul>
+	</div>
+</div>
+						</div>
+				</li>
+				<li class="h-nav__list-item" data-js-nav-item>
+					<a href="/about-our-data" class="h-nav__link h-nav__link--desktop" data-js-nav-link itemprop="url">
+						<span class="h-nav__link__text" itemprop="name">About our data</span>
+							<span class="sr-only">Use down arrow to expand</span>
+						<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+							<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+					</a>
+					<div class="h-nav__list-item__device">
+						<a href="/about-our-data" class="h-nav__link h-nav__link--device" data-js-nav-link>
+							<span class="h-nav__link__text">About our data</span>
+							<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+						</a>
+							<button class="h-nav__link__trigger" data-js-nav-link-trigger>
+								<span class="sr-only">Click to expand menu item</span>
+								<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+							</button>
+					</div>
+						<div class="h-nav__sub-menu" aria-hidden="true" data-js-sub-menu>
+								<div class="h-nav__sub-menu__wrapper">
+										<div class="h-nav__sub-menu__cell h-nav__sub-menu--primary">
+											<div class="h-nav__sub-menu__primary">
+												<ul class="h-nav__sub-menu-list" data-js-sub-menu-list data-item-count="10">
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/our-data-collections" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our data collections
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/aihw-data-by-geography" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	AIHW data by geography
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/aihw-data-by-indicators" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	AIHW data by indicators
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/aihw-data-by-sex-and-gender" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	AIHW data by sex and gender
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/accessing-data-through-the-aihw" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Accessing data through the AIHW
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/data-governance" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Data governance
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/accessing-australian-government-data" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Other government data
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/linked-data-assets" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	AIHW linked data assets
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/statistical-glossary" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Statistical terms and concepts
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-our-data/vulnerability-and-disclosure-policy" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Vulnerability and disclosure policy
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+												</ul>
+											</div>
+										</div>
+
+								</div>
+						</div>
+				</li>
+				<li class="h-nav__list-item" data-js-nav-item>
+					<a href="/our-services" class="h-nav__link h-nav__link--desktop" data-js-nav-link itemprop="url">
+						<span class="h-nav__link__text" itemprop="name">Our services</span>
+							<span class="sr-only">Use down arrow to expand</span>
+						<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+							<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+					</a>
+					<div class="h-nav__list-item__device">
+						<a href="/our-services" class="h-nav__link h-nav__link--device" data-js-nav-link>
+							<span class="h-nav__link__text">Our services</span>
+							<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+						</a>
+							<button class="h-nav__link__trigger" data-js-nav-link-trigger>
+								<span class="sr-only">Click to expand menu item</span>
+								<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+							</button>
+					</div>
+						<div class="h-nav__sub-menu" aria-hidden="true" data-js-sub-menu>
+								<div class="h-nav__sub-menu__wrapper">
+										<div class="h-nav__sub-menu__cell h-nav__sub-menu--primary">
+											<div class="h-nav__sub-menu__primary">
+												<ul class="h-nav__sub-menu-list" data-js-sub-menu-list data-item-count="3">
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/our-services/data-integration" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Data integration
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/our-services/metadata-support" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Metadata support
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/our-services/validata" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Validata
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+												</ul>
+											</div>
+										</div>
+
+								</div>
+						</div>
+				</li>
+				<li class="h-nav__list-item" data-js-nav-item>
+					<a href="/about-us" class="h-nav__link h-nav__link--desktop" data-js-nav-link itemprop="url">
+						<span class="h-nav__link__text" itemprop="name">About us</span>
+							<span class="sr-only">Use down arrow to expand</span>
+						<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+							<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+					</a>
+					<div class="h-nav__list-item__device">
+						<a href="/about-us" class="h-nav__link h-nav__link--device" data-js-nav-link>
+							<span class="h-nav__link__text">About us</span>
+							<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+						</a>
+							<button class="h-nav__link__trigger" data-js-nav-link-trigger>
+								<span class="sr-only">Click to expand menu item</span>
+								<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+							</button>
+					</div>
+						<div class="h-nav__sub-menu" aria-hidden="true" data-js-sub-menu>
+								<div class="h-nav__sub-menu__wrapper">
+										<div class="h-nav__sub-menu__cell h-nav__sub-menu--primary">
+											<div class="h-nav__sub-menu__primary">
+												<ul class="h-nav__sub-menu-list" data-js-sub-menu-list data-item-count="17">
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/our-role-organisation-goals" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our role &amp; organisation goals
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/our-people-structure" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our people &amp; structure
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/our-governance" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our governance
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/committees" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our committees
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/our-case-studies" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our impact
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/international-collaboration" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our international role
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/careers" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Careers
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/corporate-publications" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Corporate publications
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/freedom-of-information" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Freedom of Information
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/gifts-benefits-register" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Gifts &amp; benefits register
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/modern-slavery" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Modern slavery
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/privacy-policy" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Privacy
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/public-interest-disclosure" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Public interest disclosure
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/reporting-suspected-fraud" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Reporting suspected fraud
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/scam-warning" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Scam warning
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/submissions" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Submissions to inquiries
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/about-us/tenders" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Tenders
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+												</ul>
+											</div>
+										</div>
+
+								</div>
+						</div>
+				</li>
+				<li class="h-nav__list-item" data-js-nav-item>
+					<a href="/news-media" class="h-nav__link h-nav__link--desktop" data-js-nav-link itemprop="url">
+						<span class="h-nav__link__text" itemprop="name">Newsroom</span>
+							<span class="sr-only">Use down arrow to expand</span>
+						<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+							<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+					</a>
+					<div class="h-nav__list-item__device">
+						<a href="/news-media" class="h-nav__link h-nav__link--device" data-js-nav-link>
+							<span class="h-nav__link__text">Newsroom</span>
+							<svg class="i-indicator icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+						</a>
+							<button class="h-nav__link__trigger" data-js-nav-link-trigger>
+								<span class="sr-only">Click to expand menu item</span>
+								<svg class="i-chevron-down icon h-nav__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+							</button>
+					</div>
+						<div class="h-nav__sub-menu" aria-hidden="true" data-js-sub-menu>
+								<div class="h-nav__sub-menu__wrapper">
+										<div class="h-nav__sub-menu__cell h-nav__sub-menu--primary">
+											<div class="h-nav__sub-menu__primary">
+												<ul class="h-nav__sub-menu-list" data-js-sub-menu-list data-item-count="4">
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/news-media/media-releases" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Media releases
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/news-media/news" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Latest news &amp; events
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/news-media/upcoming-releases" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Upcoming releases
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+														<li class="h-nav__sub-menu-list__item">
+															<a href="/news-media/podcasts" class="h-nav__sub-menu-list__link" itemprop="url">
+																<span class="h-nav__sub-menu-list__text" itemprop="name">
+																	Our podcast &#x2013; Behind the data
+																	<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+																</span>
+															</a>
+														</li>
+												</ul>
+											</div>
+										</div>
+
+								</div>
+						</div>
+				</li>
+		</ul>
+
+		<ul class="h-link-list h-link-list--in-nav">
+		<li class="h-link-list__item">
+			<button type="button" class="h-link-list__link" data-js-header-our-sites aria-haspopup="true" aria-expanded="false" id="headerOurSitesMobile">
+				<span class="h-link-list__link__text">Our sites</span>
+				<svg class="i-chevron-down icon h-link-list__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+			</button>
+			<ul class="h-link-list__subList" aria-labelledby="headerOurSitesMobile">
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.indigenoushpf.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Aboriginal and Torres Strait Islander Health Performance Framework</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://mesothelioma-australia.com/home/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Australian Mesothelioma Registry</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://www.gen-agedcaredata.gov.au" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">GEN Aged Care Data</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.housingdata.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Housing data</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="http://meteor.aihw.gov.au/" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Metadata Online Registry (METEOR)</span>
+						</a>
+					</li>
+					<li class="h-link-list__subList__item">
+						<a class="h-link-list__subList__link" href="https://www.rific.gov.au" target="_blank" rel="noopener noreferrer">
+							<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+							<span class="h-link-list__subList__text">Regional Insights for Indigenous Communities</span>
+						</a>
+					</li>
+			</ul>
+		</li>
+			<li class="h-link-list__item">
+				<a class="h-link-list__link" href="/contact-us">
+					<span class="h-link-list__link__text">Contact us</span>
+				</a>
+			</li>
+			<li class="h-link-list__item">
+				<a class="h-link-list__link" href="/help-tools">
+					<span class="h-link-list__link__text">Help &amp; tools</span>
+				</a>
+			</li>
+		</ul>
+
+		<ul class="h-util-list h-util-list--in-nav">
+			<li class="h-util-list__item h-util-list__item--font-size">
+				<a href="#" class="h-util-list__button h-util-list__button--font-size h-util-list__button--font-size-increase" role="button" data-js-font-size="increase">
+					<svg class="i-font-size-increase icon h-util-list__button__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-font-size-increase"></use></svg>
+					<span class="h-util-list__button__text">Increase text size</span>
+				</a>
+			</li>
+			<li class="h-util-list__item h-util-list__item--font-size">
+				<a href="#" class="h-util-list__button h-util-list__button--font-size h-util-list__button--font-size-decrease" role="button" data-js-font-size="decrease">
+					<svg class="i-font-size-decrease icon h-util-list__button__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-font-size-decrease"></use></svg>
+					<span class="h-util-list__button__text">Decrease text size</span>
+				</a>
+			</li>
+		</ul>
+	</nav>
+</header>
+
+		
+
+        <main class="main" data-js-main id="siteMainContentElement">
+			<!-- SEARCH CRAWLER CONTENT BEGIN -->
+            
+<div class="e-page-header-container">
+	<div class="e-page-content-header">
+		<div class="e-page-content-header__inner">
+			
+<!-- CRAWLER EXCLUDE BEGIN -->
+<nav class="s-breadcrumb" aria-label="Breadcrumbs">
+	<div class="visible-lg visible-xlg">
+		<span class="sr-only">You are here:</span>
+		<span role="list" itemscope itemtype="https://schema.org/BreadcrumbList">
+			<span role="listitem">
+				<a href="/" class="CMSBreadCrumbsLink">Home</a>
+			</span>
+				<svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+
+					<span role="listitem" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+						<a href="/reports-data" class="CMSBreadCrumbsLink" itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="https://www.aihw.gov.au:443/reports-data">
+							<span itemprop="name">Reports &amp; data</span>
+						</a>
+						<meta itemprop="position" content="1" />
+					</span>
+
+			<span role="listitem" class="sr-only" aria-current="page">
+				<span class="CMSBreadCrumbsCurrent">Educational resources</span>
+			</span>
+		</span>
+	</div>
+		<div class="hidden-lg hidden-xlg">
+				<a href="/reports-data" class="s-breadcrumb-device__link">
+					<svg class="i-arrow-up icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-arrow-up"></use></svg>
+					<span class="sr-only">You are here:</span><span class="s-breadcrumb-device__link__text">Go to Reports &amp; data</span>
+				</a>
+		</div>
+</nav>
+<!-- CRAWLER EXCLUDE END -->
+
+
+			<h1 class="e-page-title">Educational resources</h1>
+			
+<!-- CRAWLER EXCLUDE BEGIN -->
+<div class="s-socials" data-socials-wrapper data-socials-title="Educational resources - Australian Institute of Health and Welfare">
+	<button class="s-socials__print" onclick="window.print();return false;">
+        <span class="sr-only">Print this page</span>
+        <svg class="i-print icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-print"></use></svg>
+	</button>
+
+		<button class="s-socials__trigger" data-socials-trigger id="socialSharingTrigger" aria-haspopup="true" aria-expanded="false">
+			<span class="sr-only">Click to open the social media sharing options</span>
+			<span class="s-socials__trigger__text" aria-hidden="true">Share</span>
+			<svg class="i-share icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-share"></use></svg>
+		</button>
+		<div class="s-socials__inner" data-socials-options aria-hidden="true" aria-labelledby="socialSharingTrigger">
+				<a href="https://www.facebook.com/sharer/sharer.php?u=https://www.aihw.gov.au/reports-data/downloadable-resources" class="s-socials__link s-socials__link--facebook">
+					<span class="sr-only">Share via Facebook</span>
+					<svg class="i-facebook icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-facebook"></use></svg>
+				</a>
+				<a href="https://twitter.com/intent/tweet?text=Educational%20resources&amp;url=https://www.aihw.gov.au/reports-data/downloadable-resources" class="s-socials__link s-socials__link--twitter">
+					<span class="sr-only">Share via Twitter</span>
+					<svg class="i-twitter icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-twitter"></use></svg>
+				</a>
+				<a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Educational%20resources&amp;url=https://www.aihw.gov.au/reports-data/downloadable-resources" class="s-socials__link s-socials__link--linkedin">
+					<span class="sr-only">Share via Linkedin</span>
+					<svg class="i-linkedin icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-linkedin"></use></svg>
+				</a>
+				<a href="/cdn-cgi/l/email-protection#3d024e485f57585e49007859485e5c495452535c51180f0d4f584e52484f5e584e1b5c504d065f525944005549494d4e0712124a4a4a135c54554a135a524b135c48124f584d524f494e10595c495c1259524a5351525c595c5f5158104f584e52484f5e584e" class="s-socials__link s-socials__link--email">
+					<span class="sr-only">Share via email</span>
+					<svg class="i-email icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-email"></use></svg>
+				</a>
+		</div>
+</div>
+<!-- CRAWLER EXCLUDE END -->
+
+		</div>
+	</div>
+</div>
+
+<div class="e-page-wrapper">
+	<div class="e-column-content__wrapper">
+		<div class="row">
+			<aside class="col-xs-12 col-lg-3">
+				<div class="e-column-content__side-column" role="navigation">
+					
+
+
+
+
+
+
+
+
+
+<a href="#" class="e-collapsible-toggle hidden-lg hidden-xlg" data-js-collapsible-toggle data-target="[data-js-sidebar-nav]">
+    <svg class="i-menu icon e-collapsible-toggle__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-menu"></use></svg>
+    <svg class="i-close icon e-collapsible-toggle__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+    <span class="e-collapsible-toggle__text" data-js-collapsible-toggle-text data-closed-text="Show navigation" data-open-text="Hide navigation">Show navigation</span>
+</a>
+<div class="e-column-content__side-column__nav-wrapper" data-js-sidebar-nav>
+    <nav class="e-sidebar-nav">
+
+        <ul class="e-sidebar-nav__list">
+				<li class="e-sidebar-nav__list__item" data-js-expand-parent>
+                    <div class="e-sidebar-nav__list__link-wrapper">
+
+                        <a href="/reports-data/a-z-topics" class="e-sidebar-nav__list__link" data-js-expand-parent-link>
+                            <span class="e-sidebar-nav__list__link-text">A-Z topics</span>
+                                <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                        </a>
+                    </div>
+                </li>
+				<li class="e-sidebar-nav__list__item" data-js-expand-parent>
+                    <div class="e-sidebar-nav__list__link-wrapper">
+
+                        <a href="/reports-data/latest-reports" class="e-sidebar-nav__list__link" data-js-expand-parent-link>
+                            <span class="e-sidebar-nav__list__link-text">Latest releases</span>
+                                <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                        </a>
+                    </div>
+                </li>
+				<li class="e-sidebar-nav__list__item is-current on-selected-path is-expanded" data-js-expand-parent>
+                    <div class="e-sidebar-nav__list__link-wrapper">
+
+                        <a href="/reports-data/downloadable-resources" class="e-sidebar-nav__list__link" data-js-expand-parent-link>
+                            <span class="e-sidebar-nav__list__link-text">Educational resources</span>
+                                <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                <svg class="i-indicator icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator"></use></svg>
+                        </a>
+                    </div>
+                </li>
+        </ul>
+    </nav>
+</div>
+
+				</div>
+			</aside>
+			<div class="col-xs-12 col-lg-9">
+				<div class="e-column-content__main-column" role="main">
+					
+
+
+
+
+
+
+
+
+
+<div class="widget widget--one-col-text">
+    <div class="widget__wrapper">
+		<div class="w-one-col-text">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="editable-text">
+<h2>For students, teachers and anybody after quick facts</h2><p>The latest data and information covering a wide range of topic areas (Filter by topic) and type of resource (Filter by resource type) with descriptions about each resource, date of release and a link to the main report for further research.</p><h3>Key curriculum areas</h3><p>Key curriculum areas covered include: health, burden of disease, chronic disease, housing, population groups, social determinants, behavioural risk factors – alcohol, nutrition, illicit drug use, physical activity, smoking, weight and biomedical risk factors – blood pressure, cholesterol, and blood sugar levels.</p>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="s-downloadable-resources e-shows-loading is-loading"
+	 data-js-resources-main-wrapper
+	 data-enable-tag-filter="false"
+	 data-enable-search-term="false"
+	 data-enable-sort-by="true"
+	 data-enable-include-archived="false"
+	 data-enable-date-range="false"
+	 data-enable-topic-filter="true"
+	 data-enable-clear-filters="true"
+	 data-enable-subtopic-filter="true"
+	 data-enable-resourcetype-filter="true"
+	 data-collapsible-filters="true"
+	 data-items-per-page="10"
+	 data-filter-by-current-report="false"
+	 data-filter-by-current-topic="false"
+	 data-filter-by-content-type="true"
+	 data-content-type="resource"
+	 data-filter-by-children-of-current-node="false"
+	 data-order-by-column="Date DESC"
+	 data-report-node-guid=""
+	 data-current-node-id="38"
+	 data-selected-tag-items=""
+	 data-show-description="true"
+	 data-show-report-link="true"
+	 data-show-topics-and-tags="false"
+	 data-show-date="true"
+	 data-show-num-results="false"
+	 data-is-topic-level="true"
+	 data-include-data-reports="false"
+	 data-filter-by-children-of-selected-node=""
+	 data-ignored-resource-guids=""
+	 
+	 >
+
+	<div class="s-downloadable-resources__header">
+
+
+			<a href="/" role="button" class="e-collapsible-toggle is-selected" data-js-collapsible-toggle data-target="[data-js-resources-filter]" aria-expanded="true">
+				<svg class="i-menu icon icon-menu e-collapsible-toggle__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-menu"></use></svg>
+				<svg class="i-close icon icon-close e-collapsible-toggle__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+				<span class="e-collapsible-toggle__text" data-js-collapsible-toggle-text data-closed-text="Show filters" data-open-text="Hide filters">Hide filters</span>
+			</a>
+	</div>
+		<span class="e-loading-element" style="display: none;">
+			<svg class="i-spinner-thick icon icon-spinner-thick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-spinner-thick"></use></svg>
+		</span>
+
+		<div class="s-downloadable-resources__filter" data-js-resources-filter>
+			<div class="s-downloadable-resources__filter-inner">
+				<div class="row row--inline">
+					<div class="col-xs-12">
+						<div class="row">
+								<div class="col-xs-12  s-downloadable-resources__resource-types">
+									<div class="s-downloadable-resources__filter__item">
+										<!-- Resource type -->
+										<fieldset class="e-checkbox-filter">
+											<legend class="sr-only">Filter by educational resource type</legend>
+											<label class="h4 e-checkbox-filter__label s-downloadable-resources__filter__label s-downloadable-resources__filter__label--single-line" aria-hidden="true">
+												Filter by educational resource type
+											</label>
+												<div class="s-downloadable-resources__filter__control" data-js-resourcetype-selection-wrapper>
+													<div class="e-checkbox-filter__items">
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Infographic">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Infographic</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Infographic" data-checkbox data-val="Infographic" id="Infographic">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Data visualisation">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Data visualisation</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Data visualisation" data-checkbox data-val="Data visualisation" id="Data visualisation">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Fact sheet">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Fact sheet</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Fact sheet" data-checkbox data-val="Fact sheet" id="Fact sheet">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="In focus">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">In focus</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="In focus" data-checkbox data-val="In focus" id="In focus">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Presentation">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Presentation</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Presentation" data-checkbox data-val="Presentation" id="Presentation">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Video">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Video</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Video" data-checkbox data-val="Video" id="Video">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Booklet">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Booklet</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Booklet" data-checkbox data-val="Booklet" id="Booklet">
+															</div>
+															<div class="e-checkbox-filter__item" data-js-resourcetype-option>
+																<label class="e-label has-checkbox" data-checkbox-label for="Podcast">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Podcast</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="Podcast" data-checkbox data-val="Podcast" id="Podcast">
+															</div>
+													</div>
+												</div>
+										</fieldset>
+									</div>
+								</div>
+
+								<div class="col-xs-12 col-lg-5">
+									<div class="s-downloadable-resources__filter__item">
+										<div class="e-drop-filter">
+											<div class="e-drop-filter__inner">
+												<label for="ddTopics" class="h4 e-drop-filter__label s-downloadable-resources__filter__label s-downloadable-resources__filter__label--single-line">
+													Filter by topic
+												</label>
+													<div class="s-downloadable-resources__filter__control">
+														<div class="e-select">
+															<select id="ddTopics" class="e-select__field" data-js-topic-selection>
+																<option value="" selected>Show all</option>
+																	<option value="01491d24-775c-418b-92cc-352d97692e03" data-topic-id="59">Adoptions</option>
+																	<option value="9966f434-bd63-4dda-8549-9cebcf1aa278" data-topic-id="35">Aged care</option>
+																	<option value="3854dbb1-7351-4f3b-b293-e08e948fe287" data-topic-id="77">Alcohol</option>
+																	<option value="e90103d5-dbab-4ad3-8cfc-c410ce11769a" data-topic-id="60">Alcohol &amp; other drug treatment services</option>
+																	<option value="d2465c8c-4324-4210-91f8-236151db0b85" data-topic-id="108">Australia&#x27;s Disability Strategy</option>
+																	<option value="af41944c-d5d7-49fa-a6da-6d58acdcc188" data-topic-id="33">Australia&#x27;s health</option>
+																	<option value="70dbddeb-5bb3-43cf-83cb-b649adc8c199" data-topic-id="34">Australia&#x27;s welfare</option>
+																	<option value="78e8ea9a-cbcc-4f0a-99d7-95ad2a05f822" data-topic-id="43">Burden of disease</option>
+																	<option value="778d345b-b024-40d6-bd34-8cb6c6da785b" data-topic-id="39">Cancer</option>
+																	<option value="e7a64a47-7829-4c35-a0ef-f28dec8fcf0e" data-topic-id="61">Cancer screening</option>
+																	<option value="ff6943e4-fa22-49ac-a66a-f52eff85a225" data-topic-id="38">Child protection</option>
+																	<option value="b949ade2-07f6-4632-8123-51e727e1ac8c" data-topic-id="69">Children &amp; youth</option>
+																	<option value="8d4127c5-8148-4bfe-8afe-47cb87c70ec3" data-topic-id="45">Chronic disease</option>
+																	<option value="69b1464f-5256-42fa-8107-80bb53e5a77a" data-topic-id="76">Chronic kidney disease</option>
+																	<option value="f542f16c-8d8f-4371-85d1-921cf2b4c102" data-topic-id="41">Chronic respiratory conditions</option>
+																	<option value="6a79453e-9cf5-47c4-be32-0d46477a0f68" data-topic-id="94">Corporate publications</option>
+																	<option value="bec41107-281e-4e40-93f4-520a7c95e7a4" data-topic-id="107">COVID-19</option>
+																	<option value="2c3e8d71-da01-487e-9093-135df182bfb6" data-topic-id="106">Culturally and linguistically diverse Australians</option>
+																	<option value="012a7b23-747b-4645-94c8-6cdcc1bc4a69" data-topic-id="46">Dementia</option>
+																	<option value="867b84d4-d533-47b9-8967-937292f19bc5" data-topic-id="47">Dental &amp; oral health</option>
+																	<option value="0895f89f-64b5-4095-91c4-7dde99139f6e" data-topic-id="48">Diabetes</option>
+																	<option value="0af49a22-9f99-453b-839c-7d3013417671" data-topic-id="104">Diagnostic services</option>
+																	<option value="582f5a4f-17c3-4c4f-8680-ccf1c5d66eca" data-topic-id="49">Disability</option>
+																	<option value="63ce10f8-e5fa-44bb-8d2f-8d88b5eba5f5" data-topic-id="62">Disability services</option>
+																	<option value="3d8c597a-34ee-4af6-af30-2a4fa6748549" data-topic-id="112">Endometriosis</option>
+																	<option value="0962d3f5-e339-4aa4-9add-e91ff4c161fa" data-topic-id="102">Environment and health</option>
+																	<option value="16392ffd-c68a-4014-b9b1-0fab0e34c4d2" data-topic-id="98">Eye health</option>
+																	<option value="8e4e9f2e-10c1-4372-9d50-da9691242c0a" data-topic-id="79">Family, domestic and sexual violence</option>
+																	<option value="b9d88446-4502-4952-ac9f-064af3d01833" data-topic-id="56">First Nations people</option>
+																	<option value="d70650cb-c71b-414f-b736-dfbbeca2f3f1" data-topic-id="80">Food &amp; nutrition</option>
+																	<option value="cccce3d8-7785-44bb-a5c6-737a9f2a77fc" data-topic-id="97">Geography</option>
+																	<option value="e5460cee-5bf6-4a89-b113-22d8e19fbde1" data-topic-id="53">Health &amp; welfare expenditure</option>
+																	<option value="8b724603-3f61-4e30-b2d2-eaff0ed754c7" data-topic-id="58">Health care quality &amp; performance</option>
+																	<option value="8886b3da-e94c-41fd-9289-ef06ed23920f" data-topic-id="44">Heart, stroke &amp; vascular diseases</option>
+																	<option value="54db3281-a9cf-4759-a64f-3f71da0d25bd" data-topic-id="86">Homelessness services</option>
+																	<option value="c3ba0aa3-2588-4a67-8976-260d8a318cdb" data-topic-id="63">Hospitals</option>
+																	<option value="6dc59a87-3590-4aab-be41-7d6c7ea9fa1f" data-topic-id="64">Housing assistance</option>
+																	<option value="ce010306-0e38-4069-90f1-0ceeddf1e2b4" data-topic-id="81">Illicit use of drugs</option>
+																	<option value="c47db502-794b-489a-9f8b-1167fee06677" data-topic-id="96">Immunisation</option>
+																	<option value="591de7e1-62c4-43a1-b188-8c0b8aac931a" data-topic-id="90">Imported</option>
+																	<option value="47f0f547-28f7-4753-9484-fcd83532d781" data-topic-id="114">Indigenous mental health &amp; suicide prevention</option>
+																	<option value="c80dbdb9-e5a3-4ca2-a245-483ecff50a49" data-topic-id="50">Injury</option>
+																	<option value="28bb5fe9-7409-4e58-a540-e6878f2aa4de" data-topic-id="54">International comparisons</option>
+																	<option value="a0173690-c5bb-4718-b3c3-79cf2e024155" data-topic-id="111">LGBTIQ&#x2B; communities</option>
+																	<option value="b68a2371-e988-40eb-83d1-17bb89a3cb6f" data-topic-id="51">Life expectancy &amp; death</option>
+																	<option value="27af1276-1a8d-4140-bcd5-53351b63e193" data-topic-id="105">Medical specialists</option>
+																	<option value="5eba9747-f9d0-4b46-967d-6644b6eab9b4" data-topic-id="110">Medicare</option>
+																	<option value="d9894ab3-bc6a-4284-a223-16934ff5c8c4" data-topic-id="103">Medicines</option>
+																	<option value="24be8b46-e0fa-4c0f-919b-1331dddc7003" data-topic-id="116">Men&#x27;s health</option>
+																	<option value="2df16941-5d24-477e-8202-1d77639bb1e8" data-topic-id="65">Mental health</option>
+																	<option value="6a32c87d-b917-49de-a481-31c8b5398acb" data-topic-id="71">Mothers &amp; babies</option>
+																	<option value="0623e2f2-f13a-46ff-89d6-cf562e9745c3" data-topic-id="42">Musculoskeletal conditions </option>
+																	<option value="28e821e8-b59a-4390-af34-74f9e27a9e91" data-topic-id="115">Neurological conditions</option>
+																	<option value="3d58687e-26ad-4042-b461-5cfa98ead7ec" data-topic-id="72">Older people</option>
+																	<option value="ddb5220b-5af8-4bde-a262-cf66c06df8db" data-topic-id="82">Overweight &amp; obesity</option>
+																	<option value="9be47dae-f64a-4aa4-a904-75aa5b5bd1c7" data-topic-id="66">Palliative care</option>
+																	<option value="228922fc-633d-4eba-a1e4-62c04e844a82" data-topic-id="73">People in prison</option>
+																	<option value="89e567ab-a989-498f-9346-e9893d165669" data-topic-id="83">Physical activity</option>
+																	<option value="f0969e85-3bb0-474d-b3b9-ba18eb3024cc" data-topic-id="67">Primary health care</option>
+																	<option value="7436b362-d070-4006-b768-9fc8ee7f1a64" data-topic-id="101">Radiotherapy</option>
+																	<option value="23c29aef-ad01-4f52-ac3e-6725bfdcea48" data-topic-id="78">Risk factors</option>
+																	<option value="7a70625d-aa58-4f04-8ae7-7cdb24b5ef7d" data-topic-id="74">Rural &amp; remote Australians</option>
+																	<option value="4a886aa5-88cc-417b-b54c-dfa78028a19e" data-topic-id="113">Sexual &amp; reproductive health</option>
+																	<option value="df315357-426d-4931-b8a9-59545a31673e" data-topic-id="84">Smoking &amp; e-cigarettes</option>
+																	<option value="ba19536b-aec5-407e-b0dc-718866a9a378" data-topic-id="85">Social determinants</option>
+																	<option value="667adad0-00f9-43fb-83c1-90118645600c" data-topic-id="109">Sports injury</option>
+																	<option value="1792fa59-0797-4013-8085-18bb095c4a7c" data-topic-id="100">Suicide &amp; self harm</option>
+																	<option value="1fa3cb10-851e-4e78-856f-50e8443cdb9a" data-topic-id="95">Technical report</option>
+																	<option value="b6372463-ba6f-4c58-a17d-f95a09faffef" data-topic-id="75">Veterans</option>
+																	<option value="8ba0bed1-050b-4600-b239-2402209ebfea" data-topic-id="70">Women&#x27;s health</option>
+																	<option value="da9ff9f3-36e5-425f-b02c-1266a4cb368f" data-topic-id="55">Workforce</option>
+																	<option value="d5701b48-f9a8-4e34-ba6f-e0ecd0b7530b" data-topic-id="68">Youth justice</option>
+															</select>
+															<svg class="i-chevron-down icon icon-chevron-down" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+														</div>
+													</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-xs-12 s-downloadable-resources__subtopic-list col-lg-7" style="display:none;" data-js-subtopic-selection-wrapper>
+									<div class="s-downloadable-resources__filter__item">
+										<fieldset class="e-checkbox-filter">
+											<legend class="sr-only">Filter by subtopic</legend>
+											<span class="h4 e-checkbox-filter__label s-downloadable-resources__filter__label s-downloadable-resources__filter__label--single-line" data-js-subtopic-selection-label aria-hidden="true">
+												Filter by sub topic
+											</span>
+												<div class="s-downloadable-resources__filter__control" data-js-subtopic-selection>
+													<div class="e-checkbox-filter__items">
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="e7a64a47-7829-4c35-a0ef-f28dec8fcf0e">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="11">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Bowel cancer screening</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="21a26bc6-f0ef-45e1-b42c-7e105d2b2f41" data-checkbox data-subtopic-id="11" data-val="21a26bc6-f0ef-45e1-b42c-7e105d2b2f41" id="11">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="e7a64a47-7829-4c35-a0ef-f28dec8fcf0e">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="9">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Breast cancer screening</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="205364f3-36d0-424f-8651-8136fdd20298" data-checkbox data-subtopic-id="9" data-val="205364f3-36d0-424f-8651-8136fdd20298" id="9">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="8ba0bed1-050b-4600-b239-2402209ebfea 24be8b46-e0fa-4c0f-919b-1331dddc7003">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="46">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Cancer</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="f18a4c42-469c-49d1-be17-cfe1fd3e2d7c" data-checkbox data-subtopic-id="46" data-val="f18a4c42-469c-49d1-be17-cfe1fd3e2d7c" id="46">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="8ba0bed1-050b-4600-b239-2402209ebfea 24be8b46-e0fa-4c0f-919b-1331dddc7003">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="45">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Chronic conditions</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="84caf77d-3a40-4233-8011-7d10ae4aed61" data-checkbox data-subtopic-id="45" data-val="84caf77d-3a40-4233-8011-7d10ae4aed61" id="45">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="8ba0bed1-050b-4600-b239-2402209ebfea 24be8b46-e0fa-4c0f-919b-1331dddc7003">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="48">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Mental health</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="2e5d2252-43be-4455-ba0d-49b72c679165" data-checkbox data-subtopic-id="48" data-val="2e5d2252-43be-4455-ba0d-49b72c679165" id="48">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="3854dbb1-7351-4f3b-b293-e08e948fe287 ce010306-0e38-4069-90f1-0ceeddf1e2b4 df315357-426d-4931-b8a9-59545a31673e">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="15">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">National Drug Strategy Household Surveys</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="8d00b1f1-58bd-4ccd-a81d-1781d840e0e8" data-checkbox data-subtopic-id="15" data-val="8d00b1f1-58bd-4ccd-a81d-1781d840e0e8" id="15">
+															</div>
+															<div class="e-checkbox-filter__item" style="display:none;" data-js-subtopic-option data-js-subtopic-topic="24be8b46-e0fa-4c0f-919b-1331dddc7003">
+																<!-- Starts hidden -->
+																<label class="e-label has-checkbox" data-checkbox-label for="49">
+																	<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+																	<span class="e-checkbox-text">Veterans</span>
+																</label>
+																<input class="e-checkbox" type="checkbox" value="8d679804-f4cd-4178-9d37-f9ac633e6f50" data-checkbox data-subtopic-id="49" data-val="8d679804-f4cd-4178-9d37-f9ac633e6f50" id="49">
+															</div>
+													</div>
+												</div>
+										</fieldset>
+									</div>
+								</div>
+								<div class="col-xs-12 s-downloadable-resources__subtopic-list">
+									<div class="s-downloadable-resources__filter__item">
+										<fieldset class="e-checkbox-filter">
+											<legend class="sr-only">Show related topics</legend>
+											<label class="h4 e-checkbox-filter__label s-downloadable-resources__filter__label s-downloadable-resources__filter__label--single-line" aria-hidden="true">
+												Show related topics
+											</label>
+											<div class="s-downloadable-resources__filter__control">
+												<div class="e-checkbox-filter__items">
+													<div class="e-checkbox-filter__item" data-js-show-related-option>
+														<label class="e-label has-checkbox" for="show-related-topic" data-checkbox-label>
+															<svg class="i-tick icon icon-tick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-tick"></use></svg>
+														</label>
+														<input class="e-checkbox" type="checkbox" data-checkbox data-checkbox-show-related id="show-related-topic">
+													</div>
+												</div>
+											</div>
+										</fieldset>
+									</div>
+								</div>
+						</div>
+					</div>
+
+						<div class="col-xs-12">
+							<div class="s-downloadable-resources__filter__item s-downloadable-resources__filter__item--right">
+								<button type="button" class="e-pill e-pill--alt" data-js-clear-filters>Clear filters</button>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="s-downloadable-resources__footer">
+			<div class="row">
+
+					<div class="col-xs-12 col-lg-6 pull-right">
+						<div class="s-downloadable-resources__filter__item">
+							<div class="e-drop-filter">
+								<div class="e-drop-filter__inner">
+									<label for="sortByResources" class="h4 e-drop-filter__label s-downloadable-resources__filter__label">Sort by</label>
+									<div class="s-downloadable-resources__filter__control">
+										<div class="e-select">
+											<select class="e-select__field" data-js-sort-by="">
+												<option value="Date DESC">Release date (newest)</option>
+												<option value="Date ASC">Release date (oldest)</option>
+												<option value="Title ASC">Content Title A-Z</option>
+												<option value="Title DESC">Content Title Z-A</option>
+											</select>
+											<svg class="i-chevron-down icon icon-chevron-down" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-down"></use></svg>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+
+	<div class="s-downloadable-resources__results" data-js-results-wrapper></div>
+
+	<nav class="e-pagination" data-js-pagination-wrapper aria-label="Results pages"></nav>
+</div>
+
+    
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			<!-- SEARCH CRAWLER CONTENT END -->
+
+			<div class="e-main-back-to-top">
+				<button class="e-main-back-to-top__button" aria-hidden="true" tabindex="-1" data-js-back-to-top>
+					Go back to top
+					<svg class="i-arrow-up e-main-back-to-top__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-arrow-up"></use></svg>
+				</button>
+			</div>
+				<button class="e-btn s-feedback-button" data-js-open-modal="#feedback-form-modal" type="button" aria-controls="feedback-form-modal" aria-expanded="false" aria-label="Open website feedback form">Feedback</button>
+        </main>
+
+		
+			
+<footer class="f-wrapper" data-js-footer>
+    <div class="f-back-to-top">
+        <div class="f-back-to-top__inner">
+            <div class="f-back-to-top__cell f-back-to-top__cell--01">
+                <p class="f-back-to-top__last-updated">
+                    Last updated
+                    <time class="f-back-to-top__last-updated__date" datetime="2024-05-29">
+                        29/05/2024
+                    </time>
+                    v1.0
+                </p>
+            </div>
+            <div class="f-back-to-top__cell f-back-to-top__cell--02">
+                <button class="f-back-to-top__cell__button" title="Back to top" data-js-back-to-top>
+                    <span class="visually-hidden">Back to top</span>
+                    <svg class="i-arrow-up icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-arrow-up"></use></svg>
+                </button>
+                <svg class="i-indicator-reversed icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-indicator-reversed"></use></svg>
+            </div>
+        </div>
+    </div>
+
+    <div class="f-main">
+        <div class="f-main__inner">
+            <div class="row">
+                    <div class="col-xs-12 col-sm-3">
+                        <div class="f-quicklinks">
+                            <h3 class="f-heading h3">AIHW</h3>
+                            <ul class="f-list">
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            About us
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/committees">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Our committees
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/our-governance">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Our governance
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/reports-data">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Our reports
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-our-data">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Our data
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/news-media">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Newsroom
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <div class="f-aihw">
+                            <h3 class="f-heading h3">Using AIHW</h3>
+                            <ul class="f-list">
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/help-tools/accessibility">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Accessibility
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/copyright">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Copyright
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/disclaimer">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Disclaimer
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/freedom-of-information">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Freedom of Information
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/indexed-list-of-files">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Indexed list of files
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/privacy-policy">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Privacy
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/help-tools/sitemap">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Site map
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-our-data/vulnerability-and-disclosure-policy">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Vulnerability and disclosure policy
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-sm-3">
+                        <div class="f-help-and-tools">
+                            <h3 class="f-heading h3">Quick links</h3>
+                            <ul class="f-list">
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Home
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/committees/aihw-ethics-committee">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            AIHW Ethics Committee
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-us/careers">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Careers
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/help-tools/support">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Crisis and support services
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-our-data/our-data-collections">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Our data collections
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/our-services/data-integration">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Data integration
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/about-our-data/accessing-data-through-the-aihw/data-on-request">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Data on request
+                                        </a>
+                                    </li>
+                                    <li class="f-list__item">
+                                        <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                        <a class="f-list__link" href="/analyst-portal-sites/analyst-login">
+                                            <svg class="i-chevron-right icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-chevron-right"></use></svg>
+                                            Login
+                                        </a>
+                                    </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                <!-- Logo -->
+                <div class="col-xs-12 col-sm-3">
+                    <div class="f-satellite-sites"></div>
+                    <!-- Social -->
+                    <div class="s-connect-socials">
+                        <div class="s-connect-socials__cell">
+                            <h3 class="s-connect-socials__heading h3">Connect with us</h3>
+                        </div>
+                        <div class="s-connect-socials__cell">
+                                <a href="https://au.linkedin.com/company/australian-institute-of-health-and-welfare" class="s-connect-socials__link" target="_blank" rel="noopener noreferrer">
+                                    <svg class="i-linkedin icon s-connect-socials__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-linkedin"></use></svg>
+                                    <span class="s-connect-socials__link__text">Connect with AIHW on LinkedIn</span>
+                                </a>
+								<a href="https://www.instagram.com/aihw.gov.au/" class="s-connect-socials__link" target="_blank" rel="noopener noreferrer">
+									<svg class="i-instagram icon s-connect-socials__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-instagram"></use></svg>
+									<span class="s-connect-socials__link__text">Follow AIHW on Instagram</span>
+								</a>
+                                <a href="https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug" class="s-connect-socials__link" target="_blank" rel="noopener noreferrer">
+                                    <svg class="i-youtube icon s-connect-socials__link__icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-youtube"></use></svg>
+                                    <span class="s-connect-socials__link__text">Visit AIHW on YouTube</span>
+                                </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="f-copyright">
+        <div class="f-copyright__inner">
+            <p class="f-copyright__text">&copy; Australian Institute of Health and Welfare 2026</p>
+            <img class="f-copyright__creative-commons" loading="lazy" src="/images/footer-creative-commons.svg?v=2" alt="Creative Commons">
+        </div>
+    </div>
+</footer>
+
+		
+    </div>
+
+    <noscript>
+        <section aria-label="Message to users not running Javascript">
+            <p class="noscript-message">
+                This website needs JavaScript enabled in order to work correctly; currently it looks like it is disabled.<br>
+                Please enable JavaScript to use this website as intended.
+            </p>
+        </section>
+    </noscript>
+
+	
+<dialog id="header-search-dialog" class="c-search-dialog" data-search-dialog>
+	<div class="c-search-dialog__header">
+		<button type="button" class="c-search-dialog__header-close" data-search-dialog-close>
+			Close
+			<svg aria-hidden="true" focusable="false" class="i-close"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+		</button>
+		<h2 class="h1 c-search-dialog__heading" data-search-dialog-heading>Search</h2>
+		<form id="header-search-form" action="/search" method="get" class="c-search-form" data-search-dialog-form>
+			<button type="button" class="c-search-form__reset" data-search-dialog-reset>
+				Reset search
+				<svg class="i-arrow-up c-search-form__reset-icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-arrow-up"></use></svg>
+			</button>
+			<div class="c-search-form__field-wrapper">
+				<input type="text" name="searchtext" class="c-search-form__field" aria-label="Start typing a keyword or phrase" placeholder="Start typing a keyword or phrase" autocomplete="off" autofocus data-search-dialog-field data-val="true" data-val-required="You must enter a search term" />
+				<button type="submit" class="c-search-form__field-icon-wrapper">
+					Submit search
+					<svg class="i-search c-search-form__field-icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-search"></use></svg>
+				</button>
+
+				<span class="e-loading-element" style="display: none;">
+					<svg class="i-spinner-thick icon icon-spinner-thick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-spinner-thick"></use></svg>
+				</span>
+			</div>
+		</form>
+
+	</div>
+	<div class="c-search-dialog__content" data-search-dialog-content style="display: none;">
+		<span class="e-loading-element" style="display: none;">
+			<svg class="i-spinner-thick icon icon-spinner-thick" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-spinner-thick"></use></svg>
+		</span>
+
+		<div class="l-search-interstitial" data-search-dialog-interstitial>
+			<p>Keep typing to see search results...</p>
+		</div>
+
+		<div class="l-search-results" data-search-dialog-results>
+            
+<input type="hidden" name="totalResults" value="0" />
+
+
+		</div>
+
+		<div class="l-search-no-results" data-search-dialog-no-results style="display: none;">
+			<div class="l-search-no-results__content">
+				<p class="l-search-no-results__heading">
+					<svg aria-hidden="true" focusable="false" class="i-exclamation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-exclamation"></use></svg>
+					<span>
+						Sorry, we couldn't find any results matching <span class="l-search-no-results__term" data-search-dialog-search-term></span>
+					</span>
+				</p>
+				<div class="l-search-no-results__text editable-text">
+					<p><strong>To help find what you&#39;re looking for:</strong></p>
+
+<ul>
+	<li>Check your spelling and try again</li>
+	<li>using a more general term</li>
+	<li>keep your search term short and simple</li>
+	<li>try looking in <a href="/reports-data/a-z-topics">A-Z topics</a></li>
+</ul>
+
+				</div>
+			</div>
+			<div class="l-search-no-results__aside">
+				<h3 class="l-search-no-results__aside-heading">Other ways to browse</h3>
+
+					<div class="l-search-no-results__aside-group">
+						<p class="l-search-no-results__aside-title">
+							A-Z Topics
+						</p>
+						<ol class="az-nav-list az-nav-list--multiline">
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#A" class="az-nav-list__link">A</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#B" class="az-nav-list__link">B</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#C" class="az-nav-list__link">C</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#D" class="az-nav-list__link">D</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#E" class="az-nav-list__link">E</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#F" class="az-nav-list__link">F</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#G" class="az-nav-list__link">G</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#H" class="az-nav-list__link">H</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#I" class="az-nav-list__link">I</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#J" class="az-nav-list__link">J</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#K" class="az-nav-list__link">K</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#L" class="az-nav-list__link">L</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#M" class="az-nav-list__link">M</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#N" class="az-nav-list__link">N</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#O" class="az-nav-list__link">O</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#P" class="az-nav-list__link">P</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#Q" class="az-nav-list__link">Q</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#R" class="az-nav-list__link">R</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#S" class="az-nav-list__link">S</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#T" class="az-nav-list__link">T</a>
+								</li>
+								<li class="az-nav-list__item is-disabled">
+										<span class="az-nav-list__link">U</span>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#V" class="az-nav-list__link">V</a>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#W" class="az-nav-list__link">W</a>
+								</li>
+								<li class="az-nav-list__item is-disabled">
+										<span class="az-nav-list__link">X</span>
+								</li>
+								<li class="az-nav-list__item">
+										<a href="/reports-data/a-z-topics#Y" class="az-nav-list__link">Y</a>
+								</li>
+								<li class="az-nav-list__item is-disabled">
+										<span class="az-nav-list__link">Z</span>
+								</li>
+						</ol>
+					</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="c-search-dialog__footer" data-search-dialog-footer style="display: none;">
+		<button type="submit" form="header-search-form" class="e-pill e-pill--alt-reversed">View all search results</button>
+		<p role="alert" class="c-search-dialog__summary" data-search-dialog-summary></p>
+	</div>
+</dialog>
+
+
+	
+<div class="c-content-warning-overlay" data-content-warning="">
+</div>
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+
+	
+
+    
+    
+	
+	
+    
+    
+	
+    
+	
+	
+    
+    
+    
+    
+    
+	
+    
+	
+	
+	
+	
+	
+
+		<!-- Siteimprove -->
+		<script type="text/javascript">
+		/*<![CDATA[*/
+		(function () {
+		var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+		sz.src = '//siteimproveanalytics.com/js/siteanalyze_87564.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+		</script>
+		<!-- End Siteimprove -->
+	
+    
+
+    <script src="/scripts/modules/mq.js?v=kaVSK6v3OhaBnZ9Nng1gIgj5Ck3Qi98JoqCQ3pIQQNI" defer></script>
+<script src="/scripts/components/toggleSidebarNav.js?v=xTHZ2mcI75onG2ByE1-8_PRCIjqsFNDvkdm40IwONRg" defer></script>
+<script src="/scripts/modules/site.js?v=1cG9yvVYlsrsGVhOk1bMkQdZAGsAf4AYtyQKiqjFeWU" defer></script>
+<script src="/scripts/components/expandableNav.js?v=rll9O7Z0s3MjALlclTm_HRv2Nzi28Yq0ihvLvg1x51Q" defer></script>
+<script src="/scripts/components/widgets/richText.js?v=MIpIn8DlcnFFsXFeZB8iixuywl780VN6dgQx9WzD-ms" defer></script>
+<script src="/scripts/components/forms.js?v=XBK1KEEi0NcpOtbGI8nJWENy2zLwQLnlnPwUQLgM-RU" defer></script>
+<script src="/scripts/modules/cloneClick.js?v=veK4Ql8enGdTZOrwHeI__RsKSQqZG3Ucm4vIRs0IsWg" defer></script>
+<script src="/scripts/vendors/npm.moment.js?v=gss6CS65VRknVVQnFxibvmwuvvvirtWtVG3NIBKLciA" defer></script>
+<script src="/scripts/vendors/npm.pickadate.js?v=uysXOPKP7XsCT5ZcpJAbfPO3OknyqSrtxh1wF5ne1iQ" defer></script>
+<script src="/scripts/components/datePicker.js?v=fdEDbCPeqBctzoicBpoC4nTObuQuVt5mYVdCx7RerWE" defer></script>
+<script src="/scripts/vendors/npm.mustache.js?v=JidHce6DeoOLbWAFcQz1-4sLUThq5UqTekKjjJzRJ7o" defer></script>
+<script src="/scripts/modules/pagination.js?v=87EzQyrRKn1p1A-LWWmp5tkexCimUGcHzJSy5a-Z3rs" defer></script>
+<script src="/scripts/vendors/npm.corejs-typeahead.js?v=aPxBzMMA9DNX0OyYlr9TG0w6TENduJ6vhejbSxv2oEs" defer></script>
+<script src="/scripts/modules/tags.js?v=_xCOrrAlz-To11Bv18AJZFPavtYkkATOcne9heTX5lw" defer></script>
+<script src="/scripts/utils/debounce.js?v=e0FvBoBw6jeRMK6SJSkd7beP86fM5k94hRxBqwZyhx0" defer></script>
+<script src="/scripts/modules/dataOrResource.js?v=qr5nfLem_AdSvgqZrXSeyXKEy4d3SIXqhkVj5EPw-1E" defer></script>
+<script src="/scripts/components/dataAndResources.js?v=fmDw3nghVK65d2mjecmmq5TdsQAJh3PFgeRIApoqRwM" defer></script>
+<script src="/scripts/vendors/npm.jquery.js?v=shY0q0exfmiadhDWCTpqPpkS8gn6ja9vAyIQpP_oYzE" defer></script>
+<script src="/scripts/modules/accessibility.js?v=2eCfrGGOsw445Elow3qt0f5p5cfLJemOjwj7aNAMh3A" defer></script>
+<script src="/scripts/components/fontSize.js?v=3oaBKWtZnJtlglh6lcaeGG1ZPpYvQv7q43RlG0oEiX8" defer></script>
+<script src="/scripts/vendors/npm.aspnet-client-validation.js?v=u0G2XO6Tryz2GP9cbJpr6iTOjSgk3fr7h4k6nfPIHXA" defer></script>
+<script src="/scripts/components/validation.js?v=GRRU2wv5EYTvfJTRjLlHw8HjmTgZfkCKevYRHaa-SxM" defer></script>
+<script src="/scripts/components/headerOurSites.js?v=zv9wZbPOR5oGrsl3SFbXOsNPan1i1ez7tnuxtiFiU_k" defer></script>
+<script src="/scripts/modules/loading.js?v=U6Js6O5t5guByuoLenkFHdM18ETJM6pHbU9ktRpp_cM" defer></script>
+<script src="/scripts/modules/utils.js?v=ffbqwGwm3SKd-7bRlZnF7Sgj-m7yb6zYfnpb7cbSGdA" defer></script>
+<script src="/scripts/components/mainNav.js?v=iLs9IxEZ5qAq5hX-5BGtwgBijtlPiNxUxDOqguviNEs" defer></script>
+<script src="/scripts/modules/modal.js?v=0xw8cnvNXteN7IBqCjWbqTLIvWJjuQuQEvJvPN0tqqc" defer></script>
+<script src="/scripts/components/noticeBanner.js?v=wu7vavSmVDMBRCkRu3Cl8-1FS4Sy3ni9PWhDUYHcA8o" defer></script>
+<script src="/scripts/modules/projectFunctions.js?v=Ce56Pn3cvWcUt4188vOvj94U2xQQ_H9uR2LLYJXcALU" defer></script>
+<script src="/scripts/vendors/npm.popperjs.core.js?v=sMPMoLBjQSFQ-UnF3-QwwVu-KWJTVS_hvHvjsm8ekKM" defer></script>
+<script src="/scripts/components/richTextEditor.js?v=SiG6V5fQUbxYzPWGYQ9aFM4aQb1HQHcJle79wULpgpk" defer></script>
+<script src="/scripts/components/contentWarning.js?v=1zwOZCkY6cLxtSMjaRW4F9eOXkkKgHgPSugJqOBGmx4" defer></script>
+<script src="/scripts/vendors/npm.tarekraafat.autocomplete.js.js?v=LA7ZwW9VDA4Icd7sGJSjHmU2WAAx-ca5Vdq7fwkezPY" defer></script>
+<script src="/scripts/components/searchAutocomplete.js?v=Q1AbsuI0CJccUD9X4H-23ybTk18PGLdDEsgJ0cPSNJI" defer></script>
+<script src="/scripts/vendors/npm.slide-anim.js?v=vNRMc3VYaTvdSnWCfsJ9qYsSOwbrow3vSERIlYlZ9xU" defer></script>
+<script src="/scripts/components/searchModal.js?v=pvBrQProuxqvBPsC8kJgbsXLZkpaKtgdm747hM2gL-I" defer></script>
+<script src="/scripts/runtime.js?v=1OAvQMVuhevyOy_dfKWzQ6WN0QQDV8bpheF3vQ6QPuo" defer></script>
+<script src="/scripts/scripts.js?v=9LP_7ZUankp9zIYbuiJhBkRDmFZaEcwwn6XInS2pw1U" defer></script>
+	
+
+    
+
+	
+
+<section class="e-modal s-feedback-form-modal" aria-hidden="true" id="feedback-form-modal" style="display: none;" aria-label="Website Feedback Form">
+	<div class="e-modal__inner">
+		<span data-js-modal-first-element tabindex="0"></span>
+		<div class="e-modal__wrapper">
+			<a href="#" role="button" class="e-modal__close-button" title="Close" data-js-close-modal>
+				<span class="visually-hidden">Close</span>
+				<svg class="i-close icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+			</a>
+			<div class="e-modal__content" data-js-modal-content>
+				
+
+
+
+
+
+
+
+<div class="e-form js-recaptcha-form s-feedback-form">
+	<div class="e-form__inner">
+			<div class="e-form__header">
+				<h2>Feedback</h2>
+				<p>
+							We'd love to know any feedback that you have about the AIHW website, its contents or reports.
+						</p>
+			</div>
+		
+
+
+
+
+
+
+
+
+
+
+<form action="/Kentico.Components/en-AU/Kentico.FormWidget/KenticoFormWidget/FormSubmit?formName=Feedback&amp;prefix=form-Feedback-fa23&amp;displayValidationErrors=False" class="e-form__body" data-ktc-ajax-update="form-Feedback-fa23_wrapper-a38babd6-b0eb-4adc-9533-8904a18a2cc0" id="form-Feedback-fa23_wrapper-a38babd6-b0eb-4adc-9533-8904a18a2cc0" method="post" onsubmit="window.kentico.updatableFormHelper.submitForm(event);">
+<div class="row">
+	<div class="col-xs-12 col-sm-6">
+		
+
+
+
+<label class="e-label is-required" for="form-Feedback-fa23_Name_Value">Name</label>
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control e-field is-required" data-ktc-notobserved-element="" data-val="true" data-val-length="Please enter your name" data-val-length-max="100" data-val-required="Please enter a value." id="form-Feedback-fa23_Name_Value" name="form-Feedback-fa23.Name.Value" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Name.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Name" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+	</div>
+	<div class="col-xs-12 col-sm-6">
+		
+
+
+
+<label class="e-label is-required" for="form-Feedback-fa23_Email_Email">Email</label>
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control e-field is-required" data-ktc-notobserved-element="" data-val="true" data-val-email="Please enter a valid email address." data-val-required="Please enter a value." id="form-Feedback-fa23_Email_Email" name="form-Feedback-fa23.Email.Email" type="email" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Email.Email" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Email" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12">
+		
+
+
+
+<label class="e-label is-required" for="form-Feedback-fa23_Comments_Value">Comments</label>
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<textarea class="form-control e-textarea is-required" data-ktc-notobserved-element="" data-val="true" data-val-length="Your message is too long. Please enter a message less than 5000 characters." data-val-length-max="5000" data-val-required="Please enter a value." id="form-Feedback-fa23_Comments_Value" name="form-Feedback-fa23.Comments.Value">
+</textarea>
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Comments.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.Comments" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-12">
+		
+
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" data-val="true" data-val-recaptcha="You must complete the recaptcha" id="form-Feedback-fa23_SecurityCode_Value" name="form-Feedback-fa23.SecurityCode.Value" type="hidden" value="" />	<div id="google-recaptcha-form-Feedback-fa23_SecurityCode_Value" data-recaptcha data-sitekey="6LfEWnIUAAAAAFgHfLhdmYUNCb8srVkKVvtfDtVL" data-size="invisible" data-badge="inline" class="js-g-invisible-recaptcha"></div>
+    <script>
+        function loadRecaptchaScript() {
+
+            if (!window.grecaptcha && !window.recaptchaLoading) {
+                window.recaptchaLoading = true;
+
+                // Add callback
+                window.invisibleRecaptchaOnloadCallback = window.invisibleRecaptchaOnloadCallback || function () {
+                    document.dispatchEvent(new CustomEvent('recaptcha-load'));
+                };
+
+                // Insert script
+                const recaptchaScript = document.createElement('script');
+                recaptchaScript.src = 'https://www.recaptcha.net/recaptcha/api.js?onload=invisibleRecaptchaOnloadCallback&render=explicit';
+                recaptchaScript.async = true;
+                document.head.appendChild(recaptchaScript);
+            }
+        }
+
+        if (document.readyState === 'complete' || document.readyState === 'interactive') {
+            loadRecaptchaScript();
+        } else {
+            window.addEventListener('DOMContentLoaded', loadRecaptchaScript);
+        }
+    </script>
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.SecurityCode" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+	<input type="hidden" value="/reports-data/downloadable-resources" id="form-Feedback-fa23_PageURL_Value" name="form-Feedback-fa23.PageURL.Value" />
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.PageURL.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.PageURL" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+	<input type="hidden" value="Educational resources" id="form-Feedback-fa23_PageTitle_Value" name="form-Feedback-fa23.PageTitle.Value" />
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.PageTitle.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Feedback-fa23.PageTitle" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+
+
+	</div>
+</div>
+	<div class="e-form__footer">
+		<div class="row">
+			<div class="col-xs-6">
+				<p class="e-form__footer-message is-required">Required fields</p>
+			</div>
+			<div class="col-xs-6">
+				<input class="FormButton e-btn submit btn btn-primary" type="submit" value="Submit" />
+			</div>
+		</div>
+	</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Fb9eEzGaaZHujyacyZrwATk8Di8zzprsLzXnXLTSDtD_AoAE1ubDR8xihLSnPfXUC1w_0XhL3MniULvfZ5h2ZzyjQGGsBxBXDX7azeWLLfWq2GlSuJPAv7W6T-CeEJuPJ5lMmu3VUv_F94iyuFyrMg" /><script type="text/javascript">
+if (document.readyState === 'complete') {
+  window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Feedback-fa23_wrapper-a38babd6-b0eb-4adc-9533-8904a18a2cc0","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+} else {
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Feedback-fa23_wrapper-a38babd6-b0eb-4adc-9533-8904a18a2cc0","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+    });
+}</script></form>
+    
+
+
+	</div>
+</div>
+
+    
+
+
+				<span data-js-modal-end-form tabindex="-1"></span>
+				<span data-js-modal-last-element tabindex="0"></span>
+			</div>
+		</div>
+	</div>
+</section>
+	
+<section class="s-oldbrowser" data-js-old-browser-message style="display: none" aria-label="Message to users with an old web browser">
+	<div class="s-oldbrowser__message">
+		<p>The browser you are using to browse this website is outdated and some features may not display properly or be accessible to you. Please use a more recent browser for the best user experience.</p>
+
+	</div>
+	<button data-oldbrowser-close class="s-oldbrowser__close" onclick="this.parentNode.parentNode.removeChild(this.parentNode); window.sessionStorage.setItem('DismissedOldBrowserMessage', 'true'); return false;">
+		<svg class="i-close icon" aria-hidden="true" focusable="false"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/icons/symbol-defs.svg?v=639232644820000000#icon-close"></use></svg>
+		<span class="sr-only">Close</span>
+	</button>
+</section>
+
+</body>
+</html>

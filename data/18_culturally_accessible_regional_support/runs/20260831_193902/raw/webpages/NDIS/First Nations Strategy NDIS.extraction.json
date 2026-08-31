@@ -1,0 +1,463 @@
+{
+  "source_id": "ndis:first-nations-strategy",
+  "title": "First Nations Strategy | NDIS",
+  "publisher": "NDIS",
+  "url": "https://www.ndis.gov.au/strategies/first-nations-strategy",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 17216,
+  "crawl_depth": 0,
+  "seed_url": "https://www.ndis.gov.au/strategies/first-nations-strategy",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#main-content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#block-mainnavigation"
+    },
+    {
+      "text": "new NDIS legislation",
+      "url": "https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "Participant portal (External website)",
+      "url": "https://myndisportal.ndis.gov.au/services/auth/sso/CIAM"
+    },
+    {
+      "text": "Provider portals (External website)",
+      "url": "https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/"
+    },
+    {
+      "text": "Understanding the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis"
+    },
+    {
+      "text": "About the NDIS",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis"
+    },
+    {
+      "text": "Where to begin",
+      "url": "https://www.ndis.gov.au/understanding-ndis/where-begin"
+    },
+    {
+      "text": "People that help you",
+      "url": "https://www.ndis.gov.au/understanding-ndis/people-help-you"
+    },
+    {
+      "text": "Applying",
+      "url": "https://www.ndis.gov.au/applying"
+    },
+    {
+      "text": "Eligibility requirements",
+      "url": "https://www.ndis.gov.au/applying/eligibility-requirements"
+    },
+    {
+      "text": "Gathering evidence",
+      "url": "https://www.ndis.gov.au/applying/gathering-evidence"
+    },
+    {
+      "text": "Application process",
+      "url": "https://www.ndis.gov.au/applying/application-process"
+    },
+    {
+      "text": "Types of assessments",
+      "url": "https://www.ndis.gov.au/applying/types-assessments"
+    },
+    {
+      "text": "Eligibility reassessments",
+      "url": "https://www.ndis.gov.au/applying/eligibility-reassessments"
+    },
+    {
+      "text": "For children",
+      "url": "https://www.ndis.gov.au/applying/children"
+    },
+    {
+      "text": "For participants",
+      "url": "https://www.ndis.gov.au/participants"
+    },
+    {
+      "text": "Creating a plan",
+      "url": "https://www.ndis.gov.au/participants/creating-plan"
+    },
+    {
+      "text": "Working with providers",
+      "url": "https://www.ndis.gov.au/participants/working-providers"
+    },
+    {
+      "text": "Using your funding",
+      "url": "https://www.ndis.gov.au/participants/using-your-funding"
+    },
+    {
+      "text": "Changing your plan",
+      "url": "https://www.ndis.gov.au/participants/changing-your-plan"
+    },
+    {
+      "text": "Home and living",
+      "url": "https://www.ndis.gov.au/participants/home-and-living"
+    },
+    {
+      "text": "Assistive technology",
+      "url": "https://www.ndis.gov.au/participants/assistive-technology"
+    },
+    {
+      "text": "Life transitions",
+      "url": "https://www.ndis.gov.au/participants/life-transitions"
+    },
+    {
+      "text": "For providers",
+      "url": "https://www.ndis.gov.au/providers"
+    },
+    {
+      "text": "Pricing and payments",
+      "url": "https://www.ndis.gov.au/providers/pricing-and-payments"
+    },
+    {
+      "text": "Working as a provider",
+      "url": "https://www.ndis.gov.au/providers/working-provider"
+    },
+    {
+      "text": "Working with participants",
+      "url": "https://www.ndis.gov.au/providers/working-participants"
+    },
+    {
+      "text": "Home and living providers",
+      "url": "https://www.ndis.gov.au/providers/home-and-living-providers"
+    },
+    {
+      "text": "News and events",
+      "url": "https://www.ndis.gov.au/news"
+    },
+    {
+      "text": "Latest events",
+      "url": "https://www.ndis.gov.au/news/events"
+    },
+    {
+      "text": "Latest news",
+      "url": "https://www.ndis.gov.au/news/latest"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.ndis.gov.au/news/media-releases"
+    },
+    {
+      "text": "Stories and videos",
+      "url": "https://www.ndis.gov.au/news/stories"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.ndis.gov.au/news/media"
+    },
+    {
+      "text": "Engage",
+      "url": "https://www.ndis.gov.au/engage"
+    },
+    {
+      "text": "About",
+      "url": "https://www.ndis.gov.au/about-us"
+    },
+    {
+      "text": "About the NDIA",
+      "url": "https://www.ndis.gov.au/about-us/about-ndia"
+    },
+    {
+      "text": "Careers at NDIA",
+      "url": "https://www.ndis.gov.au/about-us/careers-ndia"
+    },
+    {
+      "text": "Changes to the NDIS",
+      "url": "https://www.ndis.gov.au/changes-ndis"
+    },
+    {
+      "text": "Service charter",
+      "url": "https://www.ndis.gov.au/about-us/service-charter"
+    },
+    {
+      "text": "Sharing information",
+      "url": "https://www.ndis.gov.au/about-us/sharing-information"
+    },
+    {
+      "text": "Contact",
+      "url": "https://www.ndis.gov.au/contact"
+    },
+    {
+      "text": "Find us",
+      "url": "https://www.ndis.gov.au/contact/find-us"
+    },
+    {
+      "text": "Office locations",
+      "url": "https://www.ndis.gov.au/contact/locations"
+    },
+    {
+      "text": "Feedback and enquiries",
+      "url": "https://www.ndis.gov.au/contact/feedback-and-enquiries"
+    },
+    {
+      "text": "Reporting fraud",
+      "url": "https://www.ndis.gov.au/contact/reporting-fraud"
+    },
+    {
+      "text": "Other support",
+      "url": "https://www.ndis.gov.au/contact/other-support"
+    },
+    {
+      "text": "Strategies",
+      "url": "https://www.ndis.gov.au/strategies"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fstrategies%2Ffirst-nations-strategy"
+    },
+    {
+      "text": "Save page as PDF",
+      "url": "https://www.ndis.gov.au/print/pdf/node/199"
+    },
+    {
+      "text": "NDIA’s Statement of Commitment to Closing the Gap",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#ndia-s-statement-of-commitment-to-closing-the-gap"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#first-nations-strategy-2025-2030"
+    },
+    {
+      "text": "View the Strategy in Auslan",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#view-the-strategy-in-auslan"
+    },
+    {
+      "text": "Listen to the Strategy in language",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#listen-to-the-strategy-in-language"
+    },
+    {
+      "text": "Developing the NDIS First Nations Strategy",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#developing-the-ndis-first-nations-strategy"
+    },
+    {
+      "text": "Strategic Priorities",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#strategic-priorities"
+    },
+    {
+      "text": "Strategy Implementation Plan",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#strategy-implementation-plan"
+    },
+    {
+      "text": "First Nations Strategy Documents",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy#first-nations-strategy-documents"
+    },
+    {
+      "text": "Statement of Commitment to Closing the Gap",
+      "url": "https://www.ndis.gov.au/media/8493/download?attachment"
+    },
+    {
+      "text": "Statement of Commitment to Closing the Gap",
+      "url": "https://www.ndis.gov.au/media/8492/download?attachment"
+    },
+    {
+      "text": "NDIA Chair’s endorsement",
+      "url": "https://www.ndis.gov.au/media/8494/download?attachment"
+    },
+    {
+      "text": "Media Release",
+      "url": "https://www.ndis.gov.au/news/11466-ndis-commits-stronger-action-closing-gap-first-nations-people-disability"
+    },
+    {
+      "text": "Transcript for ' First Nations Strategy Auslan '",
+      "url": "https://www.ndis.gov.au/media/7415/download"
+    },
+    {
+      "text": "Plain English",
+      "url": "https://www.youtube.com/watch?v=68s2b94l8Xg"
+    },
+    {
+      "text": "Kimberley Kriol",
+      "url": "https://www.youtube.com/watch?v=8roqcvWonsw"
+    },
+    {
+      "text": "Ngaanyatjarra",
+      "url": "https://www.youtube.com/watch?v=R3aUmsPxm9E"
+    },
+    {
+      "text": "Pintupi/Pintupi-Luritja",
+      "url": "https://www.youtube.com/watch?v=hM0vGmVbrg4"
+    },
+    {
+      "text": "Warlpiri",
+      "url": "https://www.youtube.com/watch?v=8WR9HhYN7sw"
+    },
+    {
+      "text": "Wik Mungkan",
+      "url": "https://www.youtube.com/watch?v=-WimOXfs79U&feature=youtu.be"
+    },
+    {
+      "text": "Yumplatok",
+      "url": "https://www.youtube.com/watch?v=7xEtrRC_eOk&feature=youtu.be"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.ndis.gov.au/cdn-cgi/l/email-protection#bdfbf4efeee9f3fce9f4f2f3eeeee9effce9f8fae4fdd3d9d4ce93dad2cb93dcc8"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 (PDF 5.8MB)",
+      "url": "https://www.ndis.gov.au/media/7416/download?attachment"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 (DOCX 3.1KB)",
+      "url": "https://www.ndis.gov.au/media/7417/download?attachment"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 Easy Read (PDF 7.7 MB)",
+      "url": "https://www.ndis.gov.au/media/7418/download?attachment"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 Easy Read (DOCX 64KB)",
+      "url": "https://www.ndis.gov.au/media/7419/download?attachment"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 Summary (PDF 340KB)",
+      "url": "https://www.ndis.gov.au/media/7420/download?attachment"
+    },
+    {
+      "text": "First Nations Strategy 2025-2030 Summary (DOCX 1.2MB)",
+      "url": "https://www.ndis.gov.au/media/7421/download?attachment"
+    },
+    {
+      "text": "Australia's Disability Strategy",
+      "url": "https://www.ndis.gov.au/strategies/australias-disability-strategy-2021-2031"
+    },
+    {
+      "text": "Assistive Technology Strategy",
+      "url": "https://www.ndis.gov.au/strategies/assistive-technology-strategy"
+    },
+    {
+      "text": "Cultural and Linguistic Diversity Strategy",
+      "url": "https://www.ndis.gov.au/strategies/cultural-and-linguistic-diversity-strategy"
+    },
+    {
+      "text": "First Nations Strategy",
+      "url": "https://www.ndis.gov.au/strategies/first-nations-strategy"
+    },
+    {
+      "text": "Participant Employment Strategy",
+      "url": "https://www.ndis.gov.au/strategies/participant-employment-strategy"
+    },
+    {
+      "text": "LGBTIQA+ Strategy",
+      "url": "https://www.ndis.gov.au/strategies/lgbtiqa-strategy"
+    },
+    {
+      "text": "Remote Service Delivery framework",
+      "url": "https://www.ndis.gov.au/strategies/remote-service-delivery-framework"
+    },
+    {
+      "text": "Pricing work plan",
+      "url": "https://www.ndis.gov.au/strategies/pricing-work-plan"
+    },
+    {
+      "text": "Facebook (External website)",
+      "url": "https://www.facebook.com/NDISAus"
+    },
+    {
+      "text": "Instagram (External website)",
+      "url": "https://www.instagram.com/ndis_australia/"
+    },
+    {
+      "text": "LinkedIn (External website)",
+      "url": "https://www.linkedin.com/company/national-disability-insurance-agency"
+    },
+    {
+      "text": "Twitter (External website)",
+      "url": "https://twitter.com/NDIS"
+    },
+    {
+      "text": "YouTube (External website)",
+      "url": "https://www.youtube.com/user/DisabilityCare"
+    },
+    {
+      "text": "Recent website updates",
+      "url": "https://www.ndis.gov.au/recent-content"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.ndis.gov.au/sitemap"
+    },
+    {
+      "text": "eNewsletter sign up (External website)",
+      "url": "https://cloud.email.ndis.gov.au/newsletter-signup"
+    },
+    {
+      "text": "NDIS laws",
+      "url": "https://www.ndis.gov.au/ndis-laws"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.ndis.gov.au/governance"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.ndis.gov.au/publications"
+    },
+    {
+      "text": "Policies, rules and legal",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal"
+    },
+    {
+      "text": "Strategies",
+      "url": "https://www.ndis.gov.au/about-us/strategies"
+    },
+    {
+      "text": "Reference groups",
+      "url": "https://www.ndis.gov.au/reference-groups"
+    },
+    {
+      "text": "Grants and projects",
+      "url": "https://www.ndis.gov.au/grants-and-projects"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright"
+    },
+    {
+      "text": "Disclaimers",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://www.ndis.gov.au/about-us/access-information"
+    },
+    {
+      "text": "Data and research (External website)",
+      "url": "https://dataresearch.ndis.gov.au/"
+    },
+    {
+      "text": "Engage (External website)",
+      "url": "https://engage.ndis.gov.au"
+    },
+    {
+      "text": "Freedom of information",
+      "url": "https://www.ndis.gov.au/about-us/policies/freedom-information"
+    },
+    {
+      "text": "Our guidelines",
+      "url": "https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines"
+    },
+    {
+      "text": "Social media",
+      "url": "https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+    }
+  ],
+  "text": "First Nations Strategy | NDIS Skip to main content Skip to main navigation\n\nFirst Nations Strategy 31/08/2026, 09:00\n\nNotice\n\nWe are updating information on this website to reflect new NDIS legislation . Information on some pages may change.\n\nNDIS 1800 800 110 Webchat\n\n## Site search\n\nSearch\n\n## Portal sign in menu\n\n- Portal sign in Expand Portal sign in sub menu\n\n- Participant portal (External website)\n\n- Provider portals (External website)\n\nMobile Menu\n\n## Main navigation\n\n- Home\n\n- Understanding the NDIS Expand Understanding the NDIS sub menu\n\n- About the NDIS\n\n- Where to begin\n\n- People that help you\n\n- Applying Expand Applying sub menu\n\n- Eligibility requirements\n\n- Gathering evidence\n\n- Application process\n\n- Types of assessments\n\n- Eligibility reassessments\n\n- For children\n\n- For participants Expand For participants sub menu\n\n- Creating a plan\n\n- Working with providers\n\n- Using your funding\n\n- Changing your plan\n\n- Home and living\n\n- Assistive technology\n\n- Life transitions\n\n- For providers Expand For providers sub menu\n\n- Pricing and payments\n\n- Working as a provider\n\n- Working with participants\n\n- Home and living providers\n\n- News and events Expand News and events sub menu\n\n- Latest events\n\n- Latest news\n\n- Media releases\n\n- Stories and videos\n\n- Media\n\n- Engage\n\n- About Expand About sub menu\n\n- About the NDIA\n\n- Careers at NDIA\n\n- Changes to the NDIS\n\n- Service charter\n\n- Sharing information\n\n- Contact Expand Contact sub menu\n\n- Find us\n\n- Office locations\n\n- Feedback and enquiries\n\n- Reporting fraud\n\n- Other support\n\n- Strategies\n\n# First Nations Strategy\n\nListen\n\nPrint this page Save page as PDF\n\n### On this page:\n\n- NDIA’s Statement of Commitment to Closing the Gap\n\n- First Nations Strategy 2025-2030\n\n- View the Strategy in Auslan\n\n- Listen to the Strategy in language\n\n- Developing the NDIS First Nations Strategy\n\n- Strategic Priorities\n\n- Strategy Implementation Plan\n\n- First Nations Strategy Documents\n\nOn this page: 1 - NDIA’s Statement of Commitment to Closing the Gap 2 - First Nations Strategy 2025-2030 3 - View the Strategy in Auslan 4 - Listen to the Strategy in language 5 - Developing the NDIS First Nations Strategy 6 - Strategic Priorities 7 - Strategy Implementation Plan 8 - First Nations Strategy Documents\n\n## NDIA’s Statement of Commitment to Closing the Gap\n\nAs part of our ongoing commitment to delivering a culturally safe NDIS for First Nations people, we have released the NDIA Statement of Commitment to Closing the Gap.\n\nThe National Agreement on Closing the Gap was developed in partnership between Australian Governments and Aboriginal and Torres Strait Islander peak organisations.\n\nThe Statement of Commitment sets out how the NDIA will ensure First Nations people with disability can access the right supports to build independence and shape the life they want.\n\nWith support from the NDIA Board, the Statement drives how the Agency includes and creates a culturally safe NDIS for First Nations people with disability.\n\nAt the NDIA, Closing the Gap is everyone's responsibility.\n\n- Statement of Commitment to Closing the Gap (PDF 5.48 MB)\n\n- Statement of Commitment to Closing the Gap (DOCX 1.66 MB)\n\n- NDIA Chair’s endorsement (DOCX 286.25 KB)\n\n- Media Release\n\n## First Nations Strategy 2025-2030\n\nThe National Disability Insurance Agency (NDIA) is committed to an equitable Australia for First Nations people with disability.\n\nThe NDIS First Nations Strategy 2025-2030 sets out what we will do to improve outcomes for First Nations participants, their families, carers and communities.\n\nIt will guide our actions to make the NDIS more equitable, culturally safe, community-centred and coordinated for First Nations people.\n\nThe First Nations Strategy embeds the knowledge and experiences of First Nations people and reflects First Nations concepts of disability and wellbeing.\n\n## View the Strategy in Auslan\n\nTranscript for ' First Nations Strategy Auslan '\n\n## Listen to the Strategy in language\n\n- Plain English\n\n- Kimberley Kriol\n\n- Ngaanyatjarra\n\n- Pintupi/Pintupi-Luritja\n\n- Warlpiri\n\n- Wik Mungkan\n\n- Yumplatok\n\n## Developing the NDIS First Nations Strategy\n\nWe heard from First Nations people that it was important for the NDIA to listen.\n\nOver the last 10 years, First Nations people with disability, their families, advocates and communities have shared their knowledge, experiences and aspirations with us directly.\n\nFirst Nations people have also shared their experiences at government enquiries like the Royal Commission into the Neglect and Abuse of People with Disability (Disability Royal Commission) and NDIS Review.\n\nWe listened to these voices, experiences and aspirations to develop the First Nations Strategy.\n\n## Strategic Priorities\n\nThe First Nations Strategy identifies 4 priority areas for action.\n\n### Fair and equitable access and support\n\nMaking the NDIS pathway more equitable and culturally safe for First Nations people.\n\n### NDIS ‘our way’ – transformation for power-sharing\n\nBuilding First Nations governance into the NDIA’s decision-making, co-design and operations.\n\n### Working together within and across sectors\n\nBuilding better systems within the NDIS and across sectors, to deliver a better journey and outcomes for First Nations participants.\n\n### Gathering, sharing and revisiting knowledge about meaningful change\n\nTracking change in the experiences and outcomes of First Nations participants and using these learnings to continue improving.\n\n## Strategy Implementation Plan\n\nWe will work with First Nations people and communities to make a plan to put the Strategy into action.\n\nThis is called the implementation plan.\n\nWe will focus on culturally safe, sustainable, and place-based approaches that reflect the voices and leadership of communities.\n\nIf you have any questions you can email us at [email protected]\n\n## First Nations Strategy Documents\n\nDownload the full First Nations Strategy\n\n- First Nations Strategy 2025-2030 (PDF 5.8MB)\n\n- First Nations Strategy 2025-2030 (DOCX 3.1KB)\n\nDownload the First Nations Strategy Easy Read\n\n- First Nations Strategy 2025-2030 Easy Read (PDF 7.7 MB)\n\n- First Nations Strategy 2025-2030 Easy Read (DOCX 64KB)\n\nDownload the First Nations Strategy Summary\n\n- First Nations Strategy 2025-2030 Summary (PDF 340KB)\n\n- First Nations Strategy 2025-2030 Summary (DOCX 1.2MB)\n\n## Main navigation sidebar\n\n### Strategies\n\n- Australia's Disability Strategy\n\n- Assistive Technology Strategy\n\n- Cultural and Linguistic Diversity Strategy\n\n- First Nations Strategy\n\n- Participant Employment Strategy\n\n- LGBTIQA+ Strategy\n\n- Remote Service Delivery framework\n\n- Pricing work plan\n\nThis page current as of\n\n6 May 2026\n\n## Social Menu\n\n- Facebook (External website)\n\n- Instagram (External website)\n\n- LinkedIn (External website)\n\n- Twitter (External website)\n\n- YouTube (External website)\n\n## Footer Menu\n\n- Recent website updates\n\n- Sitemap\n\n- eNewsletter sign up (External website)\n\n- NDIS laws\n\n- Careers\n\n- Governance\n\n- Publications\n\n- Policies, rules and legal\n\n- Reference groups\n\n- Grants and projects\n\n## Copyright Menu\n\n- Privacy\n\n- Accessibility\n\n- Copyright\n\n- Disclaimers\n\n- Access to information\n\n- Data and research (External website)\n\n- Engage (External website)\n\n- Freedom of information\n\n- Our guidelines\n\n- Social media\n\nThe National Disability Insurance Agency acknowledges the Traditional Owners and Custodians of Country throughout Australia and acknowledges their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the Elders past, present and emerging.\n\nAboriginal and Torres Strait Islander readers are advised that this website may contain images, voices and videos of deceased persons.\n\nDeveloped by the National Disability Insurance Agency\n\nhttps://www.ndis.gov.au/strategies/first-nations-strategy\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.ndis.gov.au/strategies/first-nations-strategy#main-content\n\n- Skip to main navigation: https://www.ndis.gov.au/strategies/first-nations-strategy#block-mainnavigation\n\n- new NDIS legislation: https://www.ndis.gov.au/ndis-laws/securing-ndis-future-generations\n\n- NDIS: https://www.ndis.gov.au/\n\n- Participant portal (External website): https://myndisportal.ndis.gov.au/services/auth/sso/CIAM\n\n- Provider portals (External website): https://ciam.ndis.gov.au/am/XUI/?realm=/alpha&authIndexType=service&authIndexValue=Provider%20Portal%20-%20Registration%20and%20Login#/\n\n- Understanding the NDIS: https://www.ndis.gov.au/understanding-ndis\n\n- About the NDIS: https://www.ndis.gov.au/understanding-ndis/about-ndis\n\n- Where to begin: https://www.ndis.gov.au/understanding-ndis/where-begin\n\n- People that help you: https://www.ndis.gov.au/understanding-ndis/people-help-you\n\n- Applying: https://www.ndis.gov.au/applying\n\n- Eligibility requirements: https://www.ndis.gov.au/applying/eligibility-requirements\n\n- Gathering evidence: https://www.ndis.gov.au/applying/gathering-evidence\n\n- Application process: https://www.ndis.gov.au/applying/application-process\n\n- Types of assessments: https://www.ndis.gov.au/applying/types-assessments\n\n- Eligibility reassessments: https://www.ndis.gov.au/applying/eligibility-reassessments\n\n- For children: https://www.ndis.gov.au/applying/children\n\n- For participants: https://www.ndis.gov.au/participants\n\n- Creating a plan: https://www.ndis.gov.au/participants/creating-plan\n\n- Working with providers: https://www.ndis.gov.au/participants/working-providers\n\n- Using your funding: https://www.ndis.gov.au/participants/using-your-funding\n\n- Changing your plan: https://www.ndis.gov.au/participants/changing-your-plan\n\n- Home and living: https://www.ndis.gov.au/participants/home-and-living\n\n- Assistive technology: https://www.ndis.gov.au/participants/assistive-technology\n\n- Life transitions: https://www.ndis.gov.au/participants/life-transitions\n\n- For providers: https://www.ndis.gov.au/providers\n\n- Pricing and payments: https://www.ndis.gov.au/providers/pricing-and-payments\n\n- Working as a provider: https://www.ndis.gov.au/providers/working-provider\n\n- Working with participants: https://www.ndis.gov.au/providers/working-participants\n\n- Home and living providers: https://www.ndis.gov.au/providers/home-and-living-providers\n\n- News and events: https://www.ndis.gov.au/news\n\n- Latest events: https://www.ndis.gov.au/news/events\n\n- Latest news: https://www.ndis.gov.au/news/latest\n\n- Media releases: https://www.ndis.gov.au/news/media-releases\n\n- Stories and videos: https://www.ndis.gov.au/news/stories\n\n- Media: https://www.ndis.gov.au/news/media\n\n- Engage: https://www.ndis.gov.au/engage\n\n- About: https://www.ndis.gov.au/about-us\n\n- About the NDIA: https://www.ndis.gov.au/about-us/about-ndia\n\n- Careers at NDIA: https://www.ndis.gov.au/about-us/careers-ndia\n\n- Changes to the NDIS: https://www.ndis.gov.au/changes-ndis\n\n- Service charter: https://www.ndis.gov.au/about-us/service-charter\n\n- Sharing information: https://www.ndis.gov.au/about-us/sharing-information\n\n- Contact: https://www.ndis.gov.au/contact\n\n- Find us: https://www.ndis.gov.au/contact/find-us\n\n- Office locations: https://www.ndis.gov.au/contact/locations\n\n- Feedback and enquiries: https://www.ndis.gov.au/contact/feedback-and-enquiries\n\n- Reporting fraud: https://www.ndis.gov.au/contact/reporting-fraud\n\n- Other support: https://www.ndis.gov.au/contact/other-support\n\n- Strategies: https://www.ndis.gov.au/strategies\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8973&lang=en_au&readclass=screen-reader&url=https%3A%2F%2Fwww.ndis.gov.au%2Fstrategies%2Ffirst-nations-strategy\n\n- Save page as PDF: https://www.ndis.gov.au/print/pdf/node/199\n\n- NDIA’s Statement of Commitment to Closing the Gap: https://www.ndis.gov.au/strategies/first-nations-strategy#ndia-s-statement-of-commitment-to-closing-the-gap\n\n- First Nations Strategy 2025-2030: https://www.ndis.gov.au/strategies/first-nations-strategy#first-nations-strategy-2025-2030\n\n- View the Strategy in Auslan: https://www.ndis.gov.au/strategies/first-nations-strategy#view-the-strategy-in-auslan\n\n- Listen to the Strategy in language: https://www.ndis.gov.au/strategies/first-nations-strategy#listen-to-the-strategy-in-language\n\n- Developing the NDIS First Nations Strategy: https://www.ndis.gov.au/strategies/first-nations-strategy#developing-the-ndis-first-nations-strategy\n\n- Strategic Priorities: https://www.ndis.gov.au/strategies/first-nations-strategy#strategic-priorities\n\n- Strategy Implementation Plan: https://www.ndis.gov.au/strategies/first-nations-strategy#strategy-implementation-plan\n\n- First Nations Strategy Documents: https://www.ndis.gov.au/strategies/first-nations-strategy#first-nations-strategy-documents\n\n- Statement of Commitment to Closing the Gap: https://www.ndis.gov.au/media/8493/download?attachment\n\n- Statement of Commitment to Closing the Gap: https://www.ndis.gov.au/media/8492/download?attachment\n\n- NDIA Chair’s endorsement: https://www.ndis.gov.au/media/8494/download?attachment\n\n- Media Release: https://www.ndis.gov.au/news/11466-ndis-commits-stronger-action-closing-gap-first-nations-people-disability\n\n- Transcript for ' First Nations Strategy Auslan ': https://www.ndis.gov.au/media/7415/download\n\n- Plain English: https://www.youtube.com/watch?v=68s2b94l8Xg\n\n- Kimberley Kriol: https://www.youtube.com/watch?v=8roqcvWonsw\n\n- Ngaanyatjarra: https://www.youtube.com/watch?v=R3aUmsPxm9E\n\n- Pintupi/Pintupi-Luritja: https://www.youtube.com/watch?v=hM0vGmVbrg4\n\n- Warlpiri: https://www.youtube.com/watch?v=8WR9HhYN7sw\n\n- Wik Mungkan: https://www.youtube.com/watch?v=-WimOXfs79U&feature=youtu.be\n\n- Yumplatok: https://www.youtube.com/watch?v=7xEtrRC_eOk&feature=youtu.be\n\n- [email protected]: https://www.ndis.gov.au/cdn-cgi/l/email-protection#bdfbf4efeee9f3fce9f4f2f3eeeee9effce9f8fae4fdd3d9d4ce93dad2cb93dcc8\n\n- First Nations Strategy 2025-2030 (PDF 5.8MB): https://www.ndis.gov.au/media/7416/download?attachment\n\n- First Nations Strategy 2025-2030 (DOCX 3.1KB): https://www.ndis.gov.au/media/7417/download?attachment\n\n- First Nations Strategy 2025-2030 Easy Read (PDF 7.7 MB): https://www.ndis.gov.au/media/7418/download?attachment\n\n- First Nations Strategy 2025-2030 Easy Read (DOCX 64KB): https://www.ndis.gov.au/media/7419/download?attachment\n\n- First Nations Strategy 2025-2030 Summary (PDF 340KB): https://www.ndis.gov.au/media/7420/download?attachment\n\n- First Nations Strategy 2025-2030 Summary (DOCX 1.2MB): https://www.ndis.gov.au/media/7421/download?attachment\n\n- Australia's Disability Strategy: https://www.ndis.gov.au/strategies/australias-disability-strategy-2021-2031\n\n- Assistive Technology Strategy: https://www.ndis.gov.au/strategies/assistive-technology-strategy\n\n- Cultural and Linguistic Diversity Strategy: https://www.ndis.gov.au/strategies/cultural-and-linguistic-diversity-strategy\n\n- First Nations Strategy: https://www.ndis.gov.au/strategies/first-nations-strategy\n\n- Participant Employment Strategy: https://www.ndis.gov.au/strategies/participant-employment-strategy\n\n- LGBTIQA+ Strategy: https://www.ndis.gov.au/strategies/lgbtiqa-strategy\n\n- Remote Service Delivery framework: https://www.ndis.gov.au/strategies/remote-service-delivery-framework\n\n- Pricing work plan: https://www.ndis.gov.au/strategies/pricing-work-plan\n\n- Facebook (External website): https://www.facebook.com/NDISAus\n\n- Instagram (External website): https://www.instagram.com/ndis_australia/\n\n- LinkedIn (External website): https://www.linkedin.com/company/national-disability-insurance-agency\n\n- Twitter (External website): https://twitter.com/NDIS\n\n- YouTube (External website): https://www.youtube.com/user/DisabilityCare\n\n- Recent website updates: https://www.ndis.gov.au/recent-content\n\n- Sitemap: https://www.ndis.gov.au/sitemap\n\n- eNewsletter sign up (External website): https://cloud.email.ndis.gov.au/newsletter-signup\n\n- NDIS laws: https://www.ndis.gov.au/ndis-laws\n\n- Governance: https://www.ndis.gov.au/governance\n\n- Publications: https://www.ndis.gov.au/publications\n\n- Policies, rules and legal: https://www.ndis.gov.au/policies-rules-and-legal\n\n- Strategies: https://www.ndis.gov.au/about-us/strategies\n\n- Reference groups: https://www.ndis.gov.au/reference-groups\n\n- Grants and projects: https://www.ndis.gov.au/grants-and-projects\n\n- Privacy: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/privacy\n\n- Accessibility: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/accessibility\n\n- Copyright: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/copyright\n\n- Disclaimers: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/disclaimers\n\n- Access to information: https://www.ndis.gov.au/about-us/access-information\n\n- Data and research (External website): https://dataresearch.ndis.gov.au/\n\n- Engage (External website): https://engage.ndis.gov.au\n\n- Freedom of information: https://www.ndis.gov.au/about-us/policies/freedom-information\n\n- Our guidelines: https://www.ndis.gov.au/understanding-ndis/about-ndis/our-guidelines\n\n- Social media: https://www.ndis.gov.au/policies-rules-and-legal/using-our-websites-and-social-media/social-media-terms-use"
+}

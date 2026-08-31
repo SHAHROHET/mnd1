@@ -1,0 +1,407 @@
+{
+  "source_id": "nsw-government:modified-vehicles-disability",
+  "title": "Modified vehicles for people with disability | NSW Government",
+  "publisher": "NSW Government",
+  "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles",
+  "retrieved_at": "2026-08-31",
+  "topic": "Driving, Transport, Travel And Vehicle Modification",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 16585,
+  "crawl_depth": 0,
+  "seed_url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles",
+  "links": [
+    {
+      "text": "Skip to navigation",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#dcs-main-nav"
+    },
+    {
+      "text": "Skip to content",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#main-content"
+    },
+    {
+      "text": "https://www.nsw.gov.au/",
+      "url": "https://www.nsw.gov.au/"
+    },
+    {
+      "text": "MyServiceNSW",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Manage account",
+      "url": "https://account.service.nsw.gov.au/manage"
+    },
+    {
+      "text": "Logout of MyServiceNSW",
+      "url": "https://services.dcu.nsw.gov.au/myaccount/logout?destination=https%3A//www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles"
+    },
+    {
+      "text": "Living in NSW keyboard_arrow_right",
+      "url": "https://www.nsw.gov.au/living-nsw"
+    },
+    {
+      "text": "Aboriginal information and services",
+      "url": "https://www.nsw.gov.au/living-in-nsw/information-for-aboriginal-people"
+    },
+    {
+      "text": "Community services",
+      "url": "https://www.nsw.gov.au/community-services"
+    },
+    {
+      "text": "Driving, boating and transport",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport"
+    },
+    {
+      "text": "Education and training",
+      "url": "https://www.nsw.gov.au/education-and-training"
+    },
+    {
+      "text": "Emergency",
+      "url": "https://www.nsw.gov.au/emergency"
+    },
+    {
+      "text": "Environment, land and water",
+      "url": "https://www.nsw.gov.au/environment-land-and-water"
+    },
+    {
+      "text": "Family and relationships",
+      "url": "https://www.nsw.gov.au/family-and-relationships"
+    },
+    {
+      "text": "Grants and funding",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    },
+    {
+      "text": "Health and wellbeing",
+      "url": "https://www.nsw.gov.au/health-and-wellbeing"
+    },
+    {
+      "text": "Housing and construction",
+      "url": "https://www.nsw.gov.au/housing-and-construction"
+    },
+    {
+      "text": "Legal and justice",
+      "url": "https://www.nsw.gov.au/legal-and-justice"
+    },
+    {
+      "text": "Life Events",
+      "url": "https://www.nsw.gov.au/living-nsw/life-events"
+    },
+    {
+      "text": "Regional and primary industries",
+      "url": "https://www.nsw.gov.au/regional-and-primary-industries"
+    },
+    {
+      "text": "Visas and migration",
+      "url": "https://www.nsw.gov.au/visas-and-migration"
+    },
+    {
+      "text": "NSW school holidays east",
+      "url": "https://www.nsw.gov.au/about-nsw/school-holidays"
+    },
+    {
+      "text": "NSW public holidays east",
+      "url": "https://www.nsw.gov.au/about-nsw/public-holidays"
+    },
+    {
+      "text": "NSW Government east",
+      "url": "https://www.nsw.gov.au/nsw-government"
+    },
+    {
+      "text": "NSW Digital ID east",
+      "url": "https://www.nsw.gov.au/nsw-government/digital-identity-and-cybersecurity/nsw-digital-id"
+    },
+    {
+      "text": "Working and business keyboard_arrow_right",
+      "url": "https://www.nsw.gov.au/working-and-business"
+    },
+    {
+      "text": "Business and economy",
+      "url": "https://www.nsw.gov.au/business-and-economy"
+    },
+    {
+      "text": "Employment",
+      "url": "https://www.nsw.gov.au/employment"
+    },
+    {
+      "text": "Money and taxes",
+      "url": "https://www.nsw.gov.au/money-and-taxes"
+    },
+    {
+      "text": "NSW skills lists east",
+      "url": "https://www.nsw.gov.au/visas-and-migration/skilled-visas/nsw-skills-lists"
+    },
+    {
+      "text": "Department of Customer Service careers east",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/careers"
+    },
+    {
+      "text": "Working interstate east",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/automatic-mutual-recognition"
+    },
+    {
+      "text": "What's happening keyboard_arrow_right",
+      "url": "https://www.nsw.gov.au/whats-happening"
+    },
+    {
+      "text": "About NSW",
+      "url": "https://www.nsw.gov.au/about-nsw"
+    },
+    {
+      "text": "Arts and culture",
+      "url": "https://www.nsw.gov.au/arts-and-culture"
+    },
+    {
+      "text": "Events in NSW",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events"
+    },
+    {
+      "text": "Visiting and exploring NSW",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw"
+    },
+    {
+      "text": "NSW map catalogue east",
+      "url": "https://www.nsw.gov.au/about-nsw/nsw-maps"
+    },
+    {
+      "text": "Visit Sydney east",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/visit-sydney"
+    },
+    {
+      "text": "Visit regional NSW east",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/visit-regional-nsw"
+    },
+    {
+      "text": "Walks near me east",
+      "url": "https://www.nsw.gov.au/visiting-and-exploring-nsw/walks-near-me"
+    },
+    {
+      "text": "Have your say",
+      "url": "https://www.nsw.gov.au/have-your-say"
+    },
+    {
+      "text": "Easy Read",
+      "url": "https://www.nsw.gov.au/easy-read"
+    },
+    {
+      "text": "Driving in NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/driver-and-rider-licences"
+    },
+    {
+      "text": "Health conditions and disability",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/driver-and-rider-licences/health-conditions-and-disability"
+    },
+    {
+      "text": "Driving or riding with disability",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability"
+    },
+    {
+      "text": "Modified vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=11246&lang=en_au&readclass=dcs-readspeaker-target%2crs_read&url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles?language=pa"
+    },
+    {
+      "text": "driving assessments",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/driving-assessments"
+    },
+    {
+      "text": "Find an occupational therapist",
+      "url": "https://www.otaus.com.au/"
+    },
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier",
+      "url": "https://roads-waterways.transport.nsw.gov.au/business-industry/examiners/vsccs/index.html"
+    },
+    {
+      "text": "National Disability Insurance Scheme (NDIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/national-disability-insurance-scheme-ndis"
+    },
+    {
+      "text": "list of providers to make modifications",
+      "url": "https://www.ndis.gov.au/participants/working-providers/find-registered-provider#provider-lists"
+    },
+    {
+      "text": "condition",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/conditions"
+    },
+    {
+      "text": "Vehicle Standards Information No. 21 (VSI.21) - Vehicles modified for people with disabilities (PDF 688.6KB)",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/vsi-21-guidelines-for-modifying-vehicles-for-people-with-disability.pdf"
+    },
+    {
+      "text": "Modified and non-standard vehicles.",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/modified-and-non-standard-vehicles"
+    },
+    {
+      "text": "service centre",
+      "url": "http://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Spinal cord injuries - vehicle modifcation providers",
+      "url": "https://scia.org.au/vehicle-modifications/"
+    },
+    {
+      "text": "Your licence",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/your-licence"
+    },
+    {
+      "text": "Motorcycle riders",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/motorcycle-riders"
+    },
+    {
+      "text": "SMV rider licences",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/smv-rider-licences"
+    },
+    {
+      "text": "SMV Knowledge Test",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/smv-knowledge-test"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/sharer/sharer.php?u=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles"
+    },
+    {
+      "text": "X",
+      "url": "https://twitter.com/intent/tweet/?url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles"
+    },
+    {
+      "text": "Top of page north",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#top"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw"
+    },
+    {
+      "text": "Service NSW locations",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "State services",
+      "url": "https://www.nsw.gov.au/about-nsw/state-services"
+    },
+    {
+      "text": "State flag",
+      "url": "https://www.nsw.gov.au/about-nsw/nsw-protocol/state-flag"
+    },
+    {
+      "text": "About this website",
+      "url": "https://www.nsw.gov.au/nsw-government/about-website"
+    },
+    {
+      "text": "Access to information",
+      "url": "https://www.nsw.gov.au/nsw-government/access-nsw-government-information"
+    },
+    {
+      "text": "Accessibility statement",
+      "url": "https://www.nsw.gov.au/nsw-government/about-website/accessibility-statement"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.nsw.gov.au/nsw-government/about-website/copyright"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.nsw.gov.au/nsw-government/about-website/disclaimer"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.nsw.gov.au/nsw-government/about-website/privacy-statement"
+    },
+    {
+      "text": "NSW Government directory",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory"
+    },
+    {
+      "text": "Departments",
+      "url": "https://www.nsw.gov.au/departments-and-agencies"
+    },
+    {
+      "text": "Cabinet Office",
+      "url": "https://www.nsw.gov.au/the-cabinet-office"
+    },
+    {
+      "text": "Climate Change, Energy, the Environment and Water",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dcceew"
+    },
+    {
+      "text": "Communities and Justice",
+      "url": "https://www.dcj.nsw.gov.au/"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths"
+    },
+    {
+      "text": "Customer Service",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-education"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/premiers-department"
+    },
+    {
+      "text": "Primary Industries and Regional Development",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dpird"
+    },
+    {
+      "text": "Transport",
+      "url": "https://www.transport.nsw.gov.au/"
+    },
+    {
+      "text": "Treasury",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury"
+    },
+    {
+      "text": "The Premier",
+      "url": "https://www.nsw.gov.au/nsw-government/premier-of-nsw"
+    },
+    {
+      "text": "NSW Ministers",
+      "url": "https://www.nsw.gov.au/nsw-government/ministers"
+    },
+    {
+      "text": "Find your local Member of Parliament",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx"
+    },
+    {
+      "text": "Boards and Committees",
+      "url": "https://boards.nsw.gov.au/"
+    },
+    {
+      "text": "Find a job in NSW Government",
+      "url": "https://iworkfor.nsw.gov.au/"
+    },
+    {
+      "text": "NSW Government communications",
+      "url": "https://www.nsw.gov.au/nsw-government/communications"
+    },
+    {
+      "text": "Unsolicited proposals",
+      "url": "https://www.nsw.gov.au/nsw-government/engage-us/unsolicited-proposals"
+    }
+  ],
+  "text": "Modified vehicles for people with disability | NSW Government\n\nSkip to navigation Skip to content\n\nmenu Open Menu\n\nMyServiceNSW\n\nLogged in\n\n- MyServiceNSW\n\n- Manage account\n\n- Logout of MyServiceNSW\n\nclose Close Menu\n\n- Living in NSW keyboard_arrow_right\n\n- close Close Menu\n\n- keyboard_arrow_left Living in NSW Back to previous menu\n\n- Living in NSW east\n\n- Aboriginal information and services\n\n- Community services\n\n- Driving, boating and transport\n\n- Education and training\n\n- Emergency\n\n- Environment, land and water\n\n- Family and relationships\n\n- Grants and funding\n\n- Health and wellbeing\n\n- Housing and construction\n\n- Legal and justice\n\n- Life Events\n\n- Regional and primary industries\n\n- Visas and migration\n\nPopular right now\n\n- NSW school holidays east\n\n- NSW public holidays east\n\n- NSW Government east\n\n- NSW Digital ID east\n\nLiving in NSW\n\n- Working and business keyboard_arrow_right\n\n- keyboard_arrow_left Working and business Back to previous menu\n\n- Working and business east\n\n- Business and economy\n\n- Employment\n\n- Money and taxes\n\n- NSW skills lists east\n\n- Department of Customer Service careers east\n\n- Working interstate east\n\nWorking and business\n\n- What's happening keyboard_arrow_right\n\n- keyboard_arrow_left What's happening Back to previous menu\n\n- What's happening east\n\n- About NSW\n\n- Arts and culture\n\n- Events in NSW\n\n- Visiting and exploring NSW\n\n- NSW public holidays\n\n- NSW school holidays\n\n- NSW map catalogue east\n\n- Visit Sydney east\n\n- Visit regional NSW east\n\n- Walks near me east\n\nWhat's happening\n\n- Have your say\n\n- Easy Read\n\n- Home\n\n- Driving in NSW\n\n- Driver and rider licences\n\n- Health conditions and disability\n\n- Driving or riding with disability\n\n- Modified vehicles\n\n# Modified vehicles for people with disability\n\nVehicle modifications can help you get and keep your licence if you're a person living with disability. Find out more about getting modifications.\n\nListen\n\nOn this page\n\nIt's important to speak to a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier before building or making significant modifications to a vehicle.\n\n## Types of vehicle modifications\n\nIf you have a disability, vehicle modifications can help you drive or be transported in a vehicle comfortably and safely.\n\nCommon modifications may help you:\n\n- get in and out of a vehicle, with or without a wheelchair\n\n- be safely transported while sitting in a wheelchair\n\n- transport your wheelchair without lifting it\n\n- drive the vehicle using specialised aids, appliances or hand controls.\n\n## How to get modifications made\n\n### Talk to an Occupational Therapist\n\nBefore having a vehicle modified, we recommend you book an appointment with a suitably qualified occupational therapist.\n\nOccupational therapists can organise on-and-off-road training and driving assessments .\n\nThey can recommend vehicle modifications and equipment suitable for your specific needs. See Driving assessments for more information.\n\nFind an occupational therapist\n\n### Find a qualified modifier\n\nThe certifier ensures all modifications are assessed and found to be compliant and safe for use in road transport.\n\nThe National Disability Insurance Scheme (NDIS) provides guidance on getting a vehicle modified and a list of providers to make modifications .\n\nYou may also be eligible for funding if you have an endorsed licence. This is when a condition is added to your licence requiring you to use vehicle modifications.\n\nIf you need advice, contact Technical Enquiries at Transport for NSW by phoning 1300 137 302 or emailing technical.enquiries@transport.nsw.gov.au .\n\nInformation about vehicle modification is also available in Vehicle Standards Information No. 21 (VSI.21) - Vehicles modified for people with disabilities (PDF 688.6KB) and Modified and non-standard vehicles.\n\n### Register a modified vehicle\n\nYou need to get a modified or non-standard vehicle certified before you can apply for registration.\n\nIt must be inspected to make sure it doesn't pose a safety risk on the road, and that it complies with legal standards.\n\nSee Modified and non-standard vehicles .\n\n## How it affects your licence\n\nOnce the modification has been made, you may need to pass a vehicle specific disability driving test to get or keep your licence.\n\nSee driving assessments and contact a service centre to find out more about assessments you may need.\n\n### Licence conditions\n\nLicence conditions are legal requirements you must follow when driving or riding.\n\nSometimes a condition is added to your licence relating to vehicle modifications. For example, your licence may have the condition ‘Vehicle to have handbrake operable by left or right hand’ added to it.\n\nIf you're unable to freely rotate your head, you may be required to have wing mirrors or a panoramic or fisheye mirror installed on both sides of your vehicle. This requirement may be added as a licence 'condition'.\n\nSee licence conditions to find out more.\n\nYou will need to visit a service centre to have the conditions added to your licence.\n\n## Related information\n\n- Spinal cord injuries - vehicle modifcation providers\n\nDriving or riding with disability\n\n- Your licence\n\n- Driving assessments\n\n- Motorcycle riders\n\n- SMV rider licences\n\n- SMV Knowledge Test\n\ndownload Download as PDF print Print this page share Share this page\n\n- Facebook\n\n- LinkedIn\n\n- X\n\n- Email mail\n\nTop of page north\n\nThis page is managed by\n\nTransport for NSW\n\nYour rating will help us improve the website.\n\n### Popular\n\n- Service NSW locations\n\n- State services\n\n- State flag\n\n### About this website\n\n- Access to information\n\n- Accessibility statement\n\n- Copyright\n\n- Disclaimer\n\n- Privacy statement\n\n- NSW Government directory\n\n### Departments\n\n- Cabinet Office\n\n- Climate Change, Energy, the Environment and Water\n\n- Communities and Justice\n\n- Creative Industries, Tourism, Hospitality and Sport\n\n- Customer Service\n\n- Education\n\n- Health\n\n- Planning, Housing and Infrastructure\n\n- Premier's Department\n\n- Primary Industries and Regional Development\n\n- Transport\n\n- Treasury\n\n### NSW Government\n\n- The Premier\n\n- NSW Ministers\n\n- Find your local Member of Parliament\n\n- Boards and Committees\n\n- Find a job in NSW Government\n\n- NSW Government communications\n\n- Unsolicited proposals\n\nWe pay respect to the Traditional Custodians and First Peoples of NSW, and acknowledge their continued connection to their country and culture.\n\nCopyright © 2026\n\n\n\n## Links found on page\n\n- Skip to navigation: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#dcs-main-nav\n\n- Skip to content: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#main-content\n\n- https://www.nsw.gov.au/: https://www.nsw.gov.au/\n\n- MyServiceNSW: https://account.service.nsw.gov.au/\n\n- Manage account: https://account.service.nsw.gov.au/manage\n\n- Logout of MyServiceNSW: https://services.dcu.nsw.gov.au/myaccount/logout?destination=https%3A//www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles\n\n- Living in NSW keyboard_arrow_right: https://www.nsw.gov.au/living-nsw\n\n- Aboriginal information and services: https://www.nsw.gov.au/living-in-nsw/information-for-aboriginal-people\n\n- Community services: https://www.nsw.gov.au/community-services\n\n- Driving, boating and transport: https://www.nsw.gov.au/driving-boating-and-transport\n\n- Education and training: https://www.nsw.gov.au/education-and-training\n\n- Emergency: https://www.nsw.gov.au/emergency\n\n- Environment, land and water: https://www.nsw.gov.au/environment-land-and-water\n\n- Family and relationships: https://www.nsw.gov.au/family-and-relationships\n\n- Grants and funding: https://www.nsw.gov.au/grants-and-funding\n\n- Health and wellbeing: https://www.nsw.gov.au/health-and-wellbeing\n\n- Housing and construction: https://www.nsw.gov.au/housing-and-construction\n\n- Legal and justice: https://www.nsw.gov.au/legal-and-justice\n\n- Life Events: https://www.nsw.gov.au/living-nsw/life-events\n\n- Regional and primary industries: https://www.nsw.gov.au/regional-and-primary-industries\n\n- Visas and migration: https://www.nsw.gov.au/visas-and-migration\n\n- NSW school holidays east: https://www.nsw.gov.au/about-nsw/school-holidays\n\n- NSW public holidays east: https://www.nsw.gov.au/about-nsw/public-holidays\n\n- NSW Government east: https://www.nsw.gov.au/nsw-government\n\n- NSW Digital ID east: https://www.nsw.gov.au/nsw-government/digital-identity-and-cybersecurity/nsw-digital-id\n\n- Working and business keyboard_arrow_right: https://www.nsw.gov.au/working-and-business\n\n- Business and economy: https://www.nsw.gov.au/business-and-economy\n\n- Employment: https://www.nsw.gov.au/employment\n\n- Money and taxes: https://www.nsw.gov.au/money-and-taxes\n\n- NSW skills lists east: https://www.nsw.gov.au/visas-and-migration/skilled-visas/nsw-skills-lists\n\n- Department of Customer Service careers east: https://www.nsw.gov.au/departments-and-agencies/customer-service/careers\n\n- Working interstate east: https://www.nsw.gov.au/business-and-economy/licences-and-credentials/automatic-mutual-recognition\n\n- What's happening keyboard_arrow_right: https://www.nsw.gov.au/whats-happening\n\n- About NSW: https://www.nsw.gov.au/about-nsw\n\n- Arts and culture: https://www.nsw.gov.au/arts-and-culture\n\n- Events in NSW: https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events\n\n- Visiting and exploring NSW: https://www.nsw.gov.au/visiting-and-exploring-nsw\n\n- NSW map catalogue east: https://www.nsw.gov.au/about-nsw/nsw-maps\n\n- Visit Sydney east: https://www.nsw.gov.au/visiting-and-exploring-nsw/visit-sydney\n\n- Visit regional NSW east: https://www.nsw.gov.au/visiting-and-exploring-nsw/visit-regional-nsw\n\n- Walks near me east: https://www.nsw.gov.au/visiting-and-exploring-nsw/walks-near-me\n\n- Have your say: https://www.nsw.gov.au/have-your-say\n\n- Easy Read: https://www.nsw.gov.au/easy-read\n\n- Driving in NSW: https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw\n\n- Driver and rider licences: https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/driver-and-rider-licences\n\n- Health conditions and disability: https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw/driver-and-rider-licences/health-conditions-and-disability\n\n- Driving or riding with disability: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability\n\n- Modified vehicles: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=11246&lang=en_au&readclass=dcs-readspeaker-target%2crs_read&url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles?language=pa\n\n- driving assessments: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/driving-assessments\n\n- Find an occupational therapist: https://www.otaus.com.au/\n\n- Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier: https://roads-waterways.transport.nsw.gov.au/business-industry/examiners/vsccs/index.html\n\n- National Disability Insurance Scheme (NDIS): https://www.service.nsw.gov.au/transaction/national-disability-insurance-scheme-ndis\n\n- list of providers to make modifications: https://www.ndis.gov.au/participants/working-providers/find-registered-provider#provider-lists\n\n- condition: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/conditions\n\n- Vehicle Standards Information No. 21 (VSI.21) - Vehicles modified for people with disabilities (PDF 688.6KB): https://www.nsw.gov.au/sites/default/files/2021-03/vsi-21-guidelines-for-modifying-vehicles-for-people-with-disability.pdf\n\n- Modified and non-standard vehicles.: https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/modified-and-non-standard-vehicles\n\n- service centre: http://www.service.nsw.gov.au/service-centre\n\n- Spinal cord injuries - vehicle modifcation providers: https://scia.org.au/vehicle-modifications/\n\n- Your licence: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/your-licence\n\n- Motorcycle riders: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/motorcycle-riders\n\n- SMV rider licences: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/smv-rider-licences\n\n- SMV Knowledge Test: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/smv-knowledge-test\n\n- Facebook: https://facebook.com/sharer/sharer.php?u=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles\n\n- LinkedIn: https://www.linkedin.com/shareArticle?mini=true&url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles\n\n- X: https://twitter.com/intent/tweet/?url=https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles\n\n- Top of page north: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/modified-vehicles#top\n\n- Transport for NSW: https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw\n\n- Service NSW locations: https://www.service.nsw.gov.au/service-centre\n\n- State services: https://www.nsw.gov.au/about-nsw/state-services\n\n- State flag: https://www.nsw.gov.au/about-nsw/nsw-protocol/state-flag\n\n- About this website: https://www.nsw.gov.au/nsw-government/about-website\n\n- Access to information: https://www.nsw.gov.au/nsw-government/access-nsw-government-information\n\n- Accessibility statement: https://www.nsw.gov.au/nsw-government/about-website/accessibility-statement\n\n- Copyright: https://www.nsw.gov.au/nsw-government/about-website/copyright\n\n- Disclaimer: https://www.nsw.gov.au/nsw-government/about-website/disclaimer\n\n- Privacy statement: https://www.nsw.gov.au/nsw-government/about-website/privacy-statement\n\n- NSW Government directory: https://www.service.nsw.gov.au/nswgovdirectory\n\n- Departments: https://www.nsw.gov.au/departments-and-agencies\n\n- Cabinet Office: https://www.nsw.gov.au/the-cabinet-office\n\n- Climate Change, Energy, the Environment and Water: https://www.nsw.gov.au/departments-and-agencies/dcceew\n\n- Communities and Justice: https://www.dcj.nsw.gov.au/\n\n- Creative Industries, Tourism, Hospitality and Sport: https://www.nsw.gov.au/departments-and-agencies/dciths\n\n- Customer Service: https://www.nsw.gov.au/departments-and-agencies/customer-service\n\n- Education: https://www.nsw.gov.au/departments-and-agencies/department-of-education\n\n- Health: https://www.health.nsw.gov.au/\n\n- Planning, Housing and Infrastructure: https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure\n\n- Premier's Department: https://www.nsw.gov.au/departments-and-agencies/premiers-department\n\n- Primary Industries and Regional Development: https://www.nsw.gov.au/departments-and-agencies/dpird\n\n- Transport: https://www.transport.nsw.gov.au/\n\n- Treasury: https://www.nsw.gov.au/departments-and-agencies/nsw-treasury\n\n- The Premier: https://www.nsw.gov.au/nsw-government/premier-of-nsw\n\n- NSW Ministers: https://www.nsw.gov.au/nsw-government/ministers\n\n- Find your local Member of Parliament: https://www.parliament.nsw.gov.au/members/pages/all-members.aspx\n\n- Boards and Committees: https://boards.nsw.gov.au/\n\n- Find a job in NSW Government: https://iworkfor.nsw.gov.au/\n\n- NSW Government communications: https://www.nsw.gov.au/nsw-government/communications\n\n- Unsolicited proposals: https://www.nsw.gov.au/nsw-government/engage-us/unsolicited-proposals"
+}

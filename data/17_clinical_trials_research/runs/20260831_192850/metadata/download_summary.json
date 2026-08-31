@@ -1,0 +1,12 @@
+{
+  "topic_id": "17_clinical_trials_research",
+  "topic_title": "Clinical Trials And Research",
+  "run_id": "20260831_192850",
+  "retrieved_at": "2026-08-31",
+  "run_folder": "C:\\Users\\User1\\Downloads\\MND DATA\\17_clinical_trials_research\\runs\\20260831_192850",
+  "sources_downloaded": 78,
+  "chunks_written": 582,
+  "research_records_written": 8,
+  "failure_count": 3,
+  "failures_path": "C:\\Users\\User1\\Downloads\\MND DATA\\17_clinical_trials_research\\runs\\20260831_192850\\metadata\\download_failures.txt"
+}

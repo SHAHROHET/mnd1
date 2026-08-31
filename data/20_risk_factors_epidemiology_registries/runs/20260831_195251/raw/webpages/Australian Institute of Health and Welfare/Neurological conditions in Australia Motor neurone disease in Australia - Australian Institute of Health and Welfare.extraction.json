@@ -1,0 +1,635 @@
+{
+  "source_id": "aihw:mnd-in-australia",
+  "title": "Neurological conditions in Australia: Motor neurone disease in Australia - Australian Institute of Health and Welfare",
+  "publisher": "Australian Institute of Health and Welfare",
+  "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd",
+  "retrieved_at": "2026-08-31",
+  "topic": "Risk Factors, Epidemiology, Registries And Notification",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 42545,
+  "crawl_depth": 0,
+  "seed_url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd",
+  "links": [
+    {
+      "text": "Aboriginal and Torres Strait Islander Health Performance Framework",
+      "url": "https://www.indigenoushpf.gov.au/"
+    },
+    {
+      "text": "Australian Mesothelioma Registry",
+      "url": "http://mesothelioma-australia.com/home/"
+    },
+    {
+      "text": "GEN Aged Care Data",
+      "url": "http://www.gen-agedcaredata.gov.au"
+    },
+    {
+      "text": "Housing data",
+      "url": "https://www.housingdata.gov.au/"
+    },
+    {
+      "text": "Metadata Online Registry (METEOR)",
+      "url": "http://meteor.aihw.gov.au/"
+    },
+    {
+      "text": "Regional Insights for Indigenous Communities",
+      "url": "https://www.rific.gov.au"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.aihw.gov.au/contact-us"
+    },
+    {
+      "text": "Help & tools",
+      "url": "https://www.aihw.gov.au/help-tools"
+    },
+    {
+      "text": "Increase text size",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd"
+    },
+    {
+      "text": "https://www.aihw.gov.au/",
+      "url": "https://www.aihw.gov.au/"
+    },
+    {
+      "text": "Reports & data Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/reports-data"
+    },
+    {
+      "text": "A",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#T"
+    },
+    {
+      "text": "V",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#W"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#Y"
+    },
+    {
+      "text": "See all topics",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics"
+    },
+    {
+      "text": "Latest releases",
+      "url": "https://www.aihw.gov.au/reports-data/latest-reports"
+    },
+    {
+      "text": "Educational resources",
+      "url": "https://www.aihw.gov.au/reports-data/downloadable-resources"
+    },
+    {
+      "text": "Australia's health",
+      "url": "https://www.aihw.gov.au/reports-data/australias-health"
+    },
+    {
+      "text": "Australia's welfare",
+      "url": "https://www.aihw.gov.au/reports-data/australias-welfare"
+    },
+    {
+      "text": "Australia's health performance",
+      "url": "https://www.aihw.gov.au/reports-data/australias-health-performance"
+    },
+    {
+      "text": "Hospitals",
+      "url": "https://www.aihw.gov.au/hospitals"
+    },
+    {
+      "text": "Australia’s Disability Strategy",
+      "url": "https://www.aihw.gov.au/Australias-Disability-Strategy"
+    },
+    {
+      "text": "Linked data assets",
+      "url": "https://www.aihw.gov.au/About-our-data/Linked-data-assets"
+    },
+    {
+      "text": "First Nations people",
+      "url": "https://www.aihw.gov.au/reports-data/population-groups/Indigenous-Australians"
+    },
+    {
+      "text": "Suicide & self-harm monitoring",
+      "url": "https://www.aihw.gov.au/suicide-self-harm-monitoring"
+    },
+    {
+      "text": "Family, domestic & sexual violence",
+      "url": "https://www.aihw.gov.au/family-domestic-and-sexual-violence"
+    },
+    {
+      "text": "Australian Centre for Monitoring Population Health",
+      "url": "https://www.aihw.gov.au/reports-data/population-health-monitoring"
+    },
+    {
+      "text": "About our data Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/about-our-data"
+    },
+    {
+      "text": "Our data collections",
+      "url": "https://www.aihw.gov.au/about-our-data/our-data-collections"
+    },
+    {
+      "text": "AIHW data by geography",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-geography"
+    },
+    {
+      "text": "AIHW data by indicators",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-indicators"
+    },
+    {
+      "text": "AIHW data by sex and gender",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-sex-and-gender"
+    },
+    {
+      "text": "Accessing data through the AIHW",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw"
+    },
+    {
+      "text": "Data governance",
+      "url": "https://www.aihw.gov.au/about-our-data/data-governance"
+    },
+    {
+      "text": "Other government data",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-australian-government-data"
+    },
+    {
+      "text": "AIHW linked data assets",
+      "url": "https://www.aihw.gov.au/about-our-data/linked-data-assets"
+    },
+    {
+      "text": "Statistical terms and concepts",
+      "url": "https://www.aihw.gov.au/about-our-data/statistical-glossary"
+    },
+    {
+      "text": "Vulnerability and disclosure policy",
+      "url": "https://www.aihw.gov.au/about-our-data/vulnerability-and-disclosure-policy"
+    },
+    {
+      "text": "Our services Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/our-services"
+    },
+    {
+      "text": "Data integration",
+      "url": "https://www.aihw.gov.au/our-services/data-integration"
+    },
+    {
+      "text": "Metadata support",
+      "url": "https://www.aihw.gov.au/our-services/metadata-support"
+    },
+    {
+      "text": "Validata",
+      "url": "https://www.aihw.gov.au/our-services/validata"
+    },
+    {
+      "text": "About us Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/about-us"
+    },
+    {
+      "text": "Our role & organisation goals",
+      "url": "https://www.aihw.gov.au/about-us/our-role-organisation-goals"
+    },
+    {
+      "text": "Our people & structure",
+      "url": "https://www.aihw.gov.au/about-us/our-people-structure"
+    },
+    {
+      "text": "Our governance",
+      "url": "https://www.aihw.gov.au/about-us/our-governance"
+    },
+    {
+      "text": "Our committees",
+      "url": "https://www.aihw.gov.au/about-us/committees"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.aihw.gov.au/about-us/our-case-studies"
+    },
+    {
+      "text": "Our international role",
+      "url": "https://www.aihw.gov.au/about-us/international-collaboration"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.aihw.gov.au/about-us/careers"
+    },
+    {
+      "text": "Corporate publications",
+      "url": "https://www.aihw.gov.au/about-us/corporate-publications"
+    },
+    {
+      "text": "Freedom of Information",
+      "url": "https://www.aihw.gov.au/about-us/freedom-of-information"
+    },
+    {
+      "text": "Gifts & benefits register",
+      "url": "https://www.aihw.gov.au/about-us/gifts-benefits-register"
+    },
+    {
+      "text": "Modern slavery",
+      "url": "https://www.aihw.gov.au/about-us/modern-slavery"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.aihw.gov.au/about-us/privacy-policy"
+    },
+    {
+      "text": "Public interest disclosure",
+      "url": "https://www.aihw.gov.au/about-us/public-interest-disclosure"
+    },
+    {
+      "text": "Reporting suspected fraud",
+      "url": "https://www.aihw.gov.au/about-us/reporting-suspected-fraud"
+    },
+    {
+      "text": "Scam warning",
+      "url": "https://www.aihw.gov.au/about-us/scam-warning"
+    },
+    {
+      "text": "Submissions to inquiries",
+      "url": "https://www.aihw.gov.au/about-us/submissions"
+    },
+    {
+      "text": "Tenders",
+      "url": "https://www.aihw.gov.au/about-us/tenders"
+    },
+    {
+      "text": "Newsroom Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/news-media"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.aihw.gov.au/news-media/media-releases"
+    },
+    {
+      "text": "Latest news & events",
+      "url": "https://www.aihw.gov.au/news-media/news"
+    },
+    {
+      "text": "Upcoming releases",
+      "url": "https://www.aihw.gov.au/news-media/upcoming-releases"
+    },
+    {
+      "text": "Our podcast – Behind the data",
+      "url": "https://www.aihw.gov.au/news-media/podcasts"
+    },
+    {
+      "text": "Neurological conditions",
+      "url": "https://www.aihw.gov.au/reports-data/health-conditions-disability-deaths/neurological-conditions"
+    },
+    {
+      "text": "Share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.aihw.gov.au/reports/neurological-conditions/mnd"
+    },
+    {
+      "text": "Share via Twitter",
+      "url": "https://twitter.com/intent/tweet?text=Neurological%20conditions%20in%20Australia%3A%20Motor%20neurone%20disease%20in%20Australia&url=https://www.aihw.gov.au/reports/neurological-conditions/mnd"
+    },
+    {
+      "text": "Share via Linkedin",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&title=Neurological%20conditions%20in%20Australia%3A%20Motor%20neurone%20disease%20in%20Australia&url=https://www.aihw.gov.au/reports/neurological-conditions/mnd"
+    },
+    {
+      "text": "Share via email",
+      "url": "https://www.aihw.gov.au/cdn-cgi/l/email-protection#16296563747c7375622b58736364797a79717f75777a332426757978727f627f7978653324267f783324265763656264777a7f773325573324265b7962796433242678736364797873332426727f65737765733324267f783324265763656264777a7f7730777b662d7479726f2b7e626266652c393961616138777f7e613871796038776339647366796462653978736364797a79717f75777a3b757978727f627f797865397b7872"
+    },
+    {
+      "text": "Get citation (EndNote)",
+      "url": "https://www.aihw.gov.au/report/endnote?nodeGuid=b616860c-b7a3-472d-b16f-c2407d9fa97a"
+    },
+    {
+      "text": "Neurological conditions in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions"
+    },
+    {
+      "text": "Cerebral palsy in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/cerebral-palsy-in-australia"
+    },
+    {
+      "text": "Epilepsy in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/epilepsy"
+    },
+    {
+      "text": "Functional neurological disorder in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/functional-neurological-disorders"
+    },
+    {
+      "text": "Guillain-Barré syndrome in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/guillain-barre-syndrome-in-australia"
+    },
+    {
+      "text": "Huntington's disease in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/huntingtons-disease-in-australia"
+    },
+    {
+      "text": "Migraine and headaches in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/migraine-and-headache-disorders"
+    },
+    {
+      "text": "Multiple sclerosis in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/multiple-sclerosis-in-australia"
+    },
+    {
+      "text": "Myalgic encephalomyelitis / chronic fatigue syndrome in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/chronic-fatigue-syndrome-in-australia"
+    },
+    {
+      "text": "Myasthenia gravis in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/myasthenia-gravis-in-australia"
+    },
+    {
+      "text": "Parkinson's disease in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/parkinsons-disease-in-australia"
+    },
+    {
+      "text": "How common is motor neurone disease in Australia?",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_prev"
+    },
+    {
+      "text": "Hospitalisations",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_hosp"
+    },
+    {
+      "text": "Emergency department presentations",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_ed"
+    },
+    {
+      "text": "Health-system costs",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_costs"
+    },
+    {
+      "text": "Burden of disease",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_bod"
+    },
+    {
+      "text": "NDIS and aged care",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_aged"
+    },
+    {
+      "text": "Mortality",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_mortality"
+    },
+    {
+      "text": "First Nations people",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_FN"
+    },
+    {
+      "text": "More information and representative organisations",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_organ"
+    },
+    {
+      "text": "Data sources",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_data"
+    },
+    {
+      "text": "Notes",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#notes"
+    },
+    {
+      "text": "Data",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/mnd#data"
+    },
+    {
+      "text": "Technical notes",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/technical-notes"
+    },
+    {
+      "text": "Neurological conditions in Australia",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/about"
+    },
+    {
+      "text": "Figure 2",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/health-services/hospitalisations"
+    },
+    {
+      "text": "Figure 4",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/health-system-costs"
+    },
+    {
+      "text": "Figure 5",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/burden-of-disease"
+    },
+    {
+      "text": "Figure 6",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/mortality"
+    },
+    {
+      "text": "National Health Data Hub",
+      "url": "https://www.aihw.gov.au/reports-data/nhdh"
+    },
+    {
+      "text": "Global Burden of Disease Study (GBD) 2021",
+      "url": "https://vizhub.healthdata.org/gbd-results/"
+    },
+    {
+      "text": "National Hospital Morbidity Database (NHMD)",
+      "url": "https://www.aihw.gov.au/about-our-data/our-data-collections/national-hospitals-data-collection"
+    },
+    {
+      "text": "Surgery and other interventions",
+      "url": "https://www.aihw.gov.au/hospitals/topics/admitted-patient-care/surgery-and-other-interventions"
+    },
+    {
+      "text": "Principal Diagnosis Short List (EPD Short List)",
+      "url": "https://www.ihacpa.gov.au/resources/epd-short-list-twelfth-edition-user-guide"
+    },
+    {
+      "text": "2022–23",
+      "url": "https://www.aihw.gov.au/reports/health-welfare-expenditure/health-system-spending-on-disease-and-injury-aus/contents/about"
+    },
+    {
+      "text": "Health system spending on disease and injury in Australia 2023–24",
+      "url": "https://www.aihw.gov.au/reports/health-welfare-expenditure/health-system-spending-disease-injury-aus-2023-24/contents/about"
+    },
+    {
+      "text": "Australian Burden of Disease Study (ABDS) 2024",
+      "url": "https://www.aihw.gov.au/reports/burden-of-disease/australian-burden-of-disease-study-2024/contents/summary"
+    },
+    {
+      "text": "ABDS 2018",
+      "url": "https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-data-disease-burden/contents/about"
+    },
+    {
+      "text": "Australian National Aged Care Classification (AN-ACC) funding model",
+      "url": "https://www.health.gov.au/our-work/AN-ACC"
+    },
+    {
+      "text": "Data sources",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/technical-notes/data-sources"
+    },
+    {
+      "text": "National Mortality Database (NMD)",
+      "url": "https://www.aihw.gov.au/about-our-data/our-data-collections/national-mortality-database"
+    },
+    {
+      "text": "ABDS 2018",
+      "url": "https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-disease-indigenous/contents/burden-of-disease-in-australia"
+    },
+    {
+      "text": "Healthdirect Australia",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Healthdirect MND webpage",
+      "url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd"
+    },
+    {
+      "text": "MND Australia",
+      "url": "https://www.mndaustralia.org.au/about-us"
+    },
+    {
+      "text": "FightMND",
+      "url": "https://fightmnd.org.au/"
+    },
+    {
+      "text": "Notes",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/notes"
+    },
+    {
+      "text": "Australian Burden of Disease Study 2018: Interactive data on disease burden",
+      "url": "https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-data-disease-burden/contents/summary"
+    },
+    {
+      "text": "Australian Burden of Disease Study 2024",
+      "url": "https://www.aihw.gov.au/reports/burden-of-disease/australian-burden-of-disease-study-2024/contents/interactive-data-on-disease-burden/burden-of-disease-in-australia"
+    },
+    {
+      "text": "GBD Results",
+      "url": "https://www.healthdata.org/data-tools-practices/interactive-visuals/gbd-results"
+    },
+    {
+      "text": "Every moment matters: Addressing the human and economic toll of MND in Australia",
+      "url": "https://www.mndaustralia.org.au/articles/every-moment-matters-new-report-into-economic-impact-of-mnd"
+    },
+    {
+      "text": "Participant datasets",
+      "url": "https://dataresearch.ndis.gov.au/datasets/participant-datasets"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.aihw.gov.au/help-tools/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.aihw.gov.au/copyright"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.aihw.gov.au/disclaimer"
+    },
+    {
+      "text": "Indexed list of files",
+      "url": "https://www.aihw.gov.au/indexed-list-of-files"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.aihw.gov.au/help-tools/sitemap"
+    },
+    {
+      "text": "AIHW Ethics Committee",
+      "url": "https://www.aihw.gov.au/about-us/committees/aihw-ethics-committee"
+    },
+    {
+      "text": "Crisis and support services",
+      "url": "https://www.aihw.gov.au/help-tools/support"
+    },
+    {
+      "text": "Data on request",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw/data-on-request"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.aihw.gov.au/analyst-portal-sites/analyst-login"
+    },
+    {
+      "text": "Connect with AIHW on LinkedIn",
+      "url": "https://au.linkedin.com/company/australian-institute-of-health-and-welfare"
+    },
+    {
+      "text": "Follow AIHW on Instagram",
+      "url": "https://www.instagram.com/aihw.gov.au/"
+    },
+    {
+      "text": "Visit AIHW on YouTube",
+      "url": "https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug"
+    }
+  ],
+  "text": "Neurological conditions in Australia: Motor neurone disease in Australia - Australian Institute of Health and Welfare\n\n- Our sites\n\n- Aboriginal and Torres Strait Islander Health Performance Framework\n\n- Australian Mesothelioma Registry\n\n- GEN Aged Care Data\n\n- Housing data\n\n- Metadata Online Registry (METEOR)\n\n- Regional Insights for Indigenous Communities\n\n- Contact us\n\n- Help & tools\n\n- Increase text size\n\n- Decrease text size\n\nSearch\n\nMenu\n\n- Home\n\n- Reports & data Use down arrow to expand\n\n- Reports & data Click to expand menu item\n\n### Find reports & data by topic\n\n- A\n\n- B\n\n- C\n\n- D\n\n- E\n\n- F\n\n- G\n\n- H\n\n- I\n\n- J\n\n- K\n\n- L\n\n- M\n\n- N\n\n- O\n\n- P\n\n- Q\n\n- R\n\n- S\n\n- T\n\n- U\n\n- V\n\n- W\n\n- X\n\n- Y\n\n- Z\n\nSee all topics\n\n- Latest releases\n\n- Educational resources\n\n### Featured\n\n- Australia's health\n\n- Australia's welfare\n\n- Australia's health performance\n\n- Hospitals\n\n- Australia’s Disability Strategy\n\n- Linked data assets\n\n- First Nations people\n\n- Suicide & self-harm monitoring\n\n- Family, domestic & sexual violence\n\n- Australian Centre for Monitoring Population Health\n\n- About our data Use down arrow to expand\n\n- About our data Click to expand menu item\n\n- Our data collections\n\n- AIHW data by geography\n\n- AIHW data by indicators\n\n- AIHW data by sex and gender\n\n- Accessing data through the AIHW\n\n- Data governance\n\n- Other government data\n\n- AIHW linked data assets\n\n- Statistical terms and concepts\n\n- Vulnerability and disclosure policy\n\n- Our services Use down arrow to expand\n\n- Our services Click to expand menu item\n\n- Data integration\n\n- Metadata support\n\n- Validata\n\n- About us Use down arrow to expand\n\n- About us Click to expand menu item\n\n- Our role & organisation goals\n\n- Our people & structure\n\n- Our governance\n\n- Our committees\n\n- Our impact\n\n- Our international role\n\n- Careers\n\n- Corporate publications\n\n- Freedom of Information\n\n- Gifts & benefits register\n\n- Modern slavery\n\n- Privacy\n\n- Public interest disclosure\n\n- Reporting suspected fraud\n\n- Scam warning\n\n- Submissions to inquiries\n\n- Tenders\n\n- Newsroom Use down arrow to expand\n\n- Newsroom Click to expand menu item\n\n- Media releases\n\n- Latest news & events\n\n- Upcoming releases\n\n- Our podcast – Behind the data\n\nYou are here: Home Reports & data Neurological conditions Motor neurone disease in Australia Motor neurone disease in Australia\n\nYou are here: Go to Neurological conditions\n\nPrint this page Click to open the social media sharing options Share\n\nShare via Facebook Share via Twitter Share via Linkedin Share via email\n\nNeurological conditions in Australia:\n\n# Motor neurone disease in Australia\n\nWeb article\n\nLast updated: 05 Dec 2025\n\nTopic: Neurological conditions\n\nView citation for this report\n\n### Citation\n\nClose\n\nAIHW (Australian Institute of Health and Welfare) (2025) Motor neurone disease in Australia , AIHW, Australian Government, accessed 31 August 2026.\n\nGet citation (EndNote) Copy citation\n\nEnter the email address where you would like the PDF sent. This address will not be used for any other purpose.\n\nSubmit\n\nThis article is part of Neurological conditions in Australia\n\nExplore more articles\n\n- Cerebral palsy in Australia\n\n- Epilepsy in Australia\n\n- Functional neurological disorder in Australia\n\n- Guillain-Barré syndrome in Australia\n\n- Huntington's disease in Australia\n\n- Migraine and headaches in Australia\n\n- Motor neurone disease in Australia This page\n\n- Multiple sclerosis in Australia\n\n- Myalgic encephalomyelitis / chronic fatigue syndrome in Australia\n\n- Myasthenia gravis in Australia\n\n- Parkinson's disease in Australia\n\n### On this page\n\nOn this page\n\n- How common is motor neurone disease in Australia?\n\n- Hospitalisations\n\n- Emergency department presentations\n\n- Health-system costs\n\n- Burden of disease\n\n- NDIS and aged care\n\n- Mortality\n\n- More information and representative organisations\n\n- Data sources\n\n- Notes\n\n- Data\n\nBack to top\n\nWhat is motor neurone disease? Expand\n\nMotor neurone disease (MND) refers to a group of neurological conditions in which the nerve cells that control muscle movement become damaged and begin to die. MND is progressive, meaning that it gets worse with time.\n\nAlthough the cause is often unknown, some theories suggest MND is caused by:\n\n- exposure to environmental toxins and chemicals\n\n- viral infections\n\n- premature ageing of motor neurones\n\n- genetics.\n\nSymptoms of MND can be mild, vary from person to person, and can often impair a person’s talking, breathing, swallowing and ability to walk, stand and hold objects (Healthdirect 2024).\n\n- An estimated 2,800 Australians (8.6 per 100,000 population) were living with MND in 2025\n\n- MND was the underlying cause of 781 deaths in 2023, accounting for 0.4% of all deaths in Australia\n\n- There were 2,100 hospitalisations due to MND in 2023–24, equivalent to 7.9 hospitalisations per 100,000 population\n\n- After adjusting for inflation, total health-system expenditure attributed to MND doubled from 2013–14 to 2023–24\n\nRates and population differences Expand\n\nThis report presents both crude and age-standardised rates , where available.\n\nCrude rates are based on unadjusted data and indicate whether there is a difference between populations without accounting for differences in the age structures of the populations.\n\nAge-standardised rates are based on data that are adjusted to account for differences in the age structures of the populations.\n\nTherefore, a difference between 2 populations in crude rates indicates that the rate differs between them. The differences may be due to any number of factors, including different age structures of the populations. In contrast, a difference between 2 populations in age-standardised rates indicates that the rate differs between them but that this difference is not due to different age-structures.\n\nFor example, a difference in the prevalence rate between males and females indicates that prevalence differs between them, and this difference in prevalence could be due to any number of risk factors, including age. A difference in the age-standardised prevalence rate between males and females indicates that prevalence differs between them and, furthermore, that this difference in prevalence is not due to age.\n\nFor more details about rate calculations see the Technical notes in the Neurological conditions in Australia report.\n\nInteractive visualisations Expand\n\nFor interactive visualisations on hospitalisations , health-system costs, burden of disease and mortality for MND, see Figure 2 , Figure 4 , Figure 5 and Figure 6 , respectively, in the Neurological conditions in Australia report. Change the toggles in the visualisations from “all neurological conditions” to “motor neurone disease”.\n\nFor downloadable data tables, see Data section of this article.\n\nClose all\n\n## How common is motor neurone disease in Australia?\n\nThe best current estimate of the prevalence of motor neurone disease (MND) in Australia comes from the Every moment matters report (MND Australia and Evohealth 2025). The report used data from state MND associations (regarding both the number of people living with MND and the number of deaths due to MND) in combination with the AIHW General Record of Incidence of Mortality (GRIM) dataset (regarding the total number of deaths in Australia due to MND).\n\nIn 2025, almost 2,800 Australians were estimated to be living with MND , equivalent to 10 per 100,000 population .\n\n### Socioeconomic and remoteness areas\n\nThe Every moment matters report did not include prevalence for different socioeconomic and remoteness areas .\n\n### Trends over time\n\nThe Every moment matters report did not include prevalence estimates for past years.\n\nLimitations of the Every moment matters prevalence estimate Expand\n\nThe Every moment matters report (MND Australia and Evohealth 2025) estimated the number of Australians living with MND (the unknown variable) using 3 known variables:\n\n- the number of deaths due to MND based on the less comprehensive registrations data provided by state MND associations\n\n- the number of deaths due to MND based on the more comprehensive GRIM dataset\n\n- the number of people living with MND based on registrations with the State and Territory MND associations.\n\nThe number of people living with MND (prevalence) based on registrations with state MND associations is likely an underestimate of the total number of Australians living with MND, since not all people living with MND would register with MND Associations.\n\nTo determine how much the state MND associations underestimate prevalence, known variables 1 and 2 were used to calculate a ratio that shows the percentage of total deaths in Australia due to MND (that is, from GRIM data) that is captured by the registrations data (that is, number of deaths due to MND) registered with the state MND associations. This percentage was then assumed to be the percentage of the total number of Australians living with MND captured by registrations with the state MND associations.\n\nThe main limitation of this approach is that it assumes that the percentage of all MND deaths which MND associations have in their registries is the same as the percentage of people living with MND in Australia who are registered with MND associations. For example, if there are 100 deaths due to MND and 70 (that is, 70%) of these deaths are recorded by MND associations in their registries, it is assumed that 70% of all people living with MND are registered with MND associations.\n\nThis assumption may not hold because, for example, the national mortality data set (GRIM) may misclassify the cause of death. Deaths due to MND may be recorded as being due to other conditions, which would ultimately result in an underestimation of the true prevalence. Deaths due to other conditions may also be recorded as being due to MND which would result in an overestimation of the true prevalence.\n\nIt is unclear whether and to what extent the prevalence estimate from the Every moment matters report under- or over-estimates the true prevalence.\n\nNonetheless, the Every moment matters report uses Australian data that is recent and covers the entire nation. It thus provides the best current estimate for the prevalence of MND in Australia.\n\nTo produce a prevalence estimate of MND in Australia using different methods, the AIHW is engaged in a collaboration with researchers from the University of Tasmania on a project using linked data from the National Health Data Hub .\n\nPrevalence estimates from GBD 2021 Expand\n\nThe Global Burden of Disease Study (GBD) 2021 (IHME 2025) estimated that 3,300 Australians (13 per 100,0000 population, or 9 per 100,000 population, age-standardised) were living with MND in 2021. The overall prevalence rate of MND was 1.4 times as high among males compared with females (15 and 11 per 100,000 population, respectively, or 11 and 7 per 100,000 population, age-standardised, respectively).\n\nBased on the GBD 2021, between 2013 and 2021, the crude prevalence rate of MND increased slightly from 11 to 13 per 100,000 population – the increase remained after adjusting for different population age structures over time (8.7 to 9.0 per 100,000 population).\n\nHowever, a main limitation of GBD 2021 is that it includes no data inputs for MND prevalence from Australia. Instead, GBD 2021 relied completely on data from other countries and mathematical modelling strategies.\n\n## Hospitalisations\n\nBased on the National Hospital Morbidity Database (NHMD) , in 2023–24:\n\n- there were 2,100 hospitalisations with MND recorded as the principal diagnosis , equivalent to 7.9 hospitalisations per 100,000 population (6.3 per 100,000 population, age-standardised )\n\n- males accounted for more than half (55%) of hospitalisations due to MND (principal diagnosis) and had a rate of hospitalisations (8.8 per 100,000 population) that was 1.3 times as high as females (7 per 100,000 population) – the sex difference remained even after age-standardisation (7.3 and 5.4 hospitalisations per 100,000 population for males and females, respectively)\n\n### The average length of stay (in days) for hospitalisations due to MND was 3.1 times as long as the average length of stay for all hospitalisations in Australia in 2023–24.\n\nIn 2023–24, the age-standardised rate of hospitalisations due to MND:\n\n- varied slightly across socioeconomic areas with no clear trend in rates observed for increasing or decreasing socioeconomic areas – rates ranged from 6.0 per 100,000 population for people living in the highest socioeconomic areas, to 6.9 per 100,000 population for people living in the second highest socioeconomic areas\n\n- was lower for people living in Outer regional areas (5.4 hospitalisations per 100,000 population), compared with people living in Inner regional areas and Major cities (6.5 and 6.6 per 100,000 population, respectively) – there were too few hospitalisations due to MND for people living in Remote and very remote areas to calculate crude or age-standardised rates.\n\nData tables on socioeconomic and remoteness figures are available for download under the Data section of this article.\n\n#### Hospitalisation trends only from 2015–16\n\nFor hospitalisations, there were some anomalies in the data for 2013–14 and 2014–15 that made the statistics for MND seem unreliable. For comparisons over time, we therefore only go back to 2015–16.\n\nBetween 2015–16 and 2023–24, the crude rate of hospitalisations due to MND decreased slightly from 8.4 to 7.9 hospitalisations per 100,000 population. After adjusting for different population age structures over time, the rate decreased more prominently from 7.5 to 6.3 hospitalisations per 100,000 population.\n\nProcedures performed for people hospitalised due to MND Expand\n\nInformation on procedures in the National Hospital Morbidity Database (NHMD) is reported using the Australian Classification of Health Interventions (ACHI) which classifies surgical operations, procedures and other types of interventions performed for the purpose of investigating and/or remedying health state.\n\nIn 2023–24, there were 7,600 procedures for hospitalisations with a principal diagnosis of MND. This equates to around 3.6 procedures per hospitalisation. Almost three quarters (72%) of these were generalised allied health interventions, 3.4% were non-invasive ventilatory support, 3.3% were cerebral anaesthesia and 3% were application, insertion or removal procedures on stomach.\n\nFor more information on surgeries and intervention types, see Surgery and other interventions .\n\n## Emergency department presentations\n\nThe National Non-admitted Patient Emergency Department Care Database (NAPEDC) uses the Principal Diagnosis Short List (EPD Short List) , a set of codes and medical terms derived from ICD-10-AM classifications.\n\nMND emergency department presentations are not recorded separately but are included within the broader “Spinal muscular atrophy” residual category. As a result, it is not possible to determine or report the specific number of emergency department presentations for MND.\n\n## Health-system costs\n\n#### Note on comparing previous health expenditure reports\n\nThe scope of expenditure and methods used in the most recent 2023–24 disease expenditure study (AIHW 2025) are similar to those used in the 2022–23 report however there are changes that have been made that make comparison of data between the 2023–24 report and the 2022–23 report to be done with caution. For more information see the methodology of the Health system spending on disease and injury in Australia 2023–24 report (AIHW 2025).\n\nIn 2023–24:\n\n- an estimated $58.7 million of health-system expenditure was attributed to MND\n\n- public hospital admitted patient services accounted for almost $42.0 million, close to three-quarters (72%) of MND health-system expenditure\n\n- health-system expenditure attributed to MND was 1.5 times higher for males compared with females ($35.0 and $23.7 million respectively).\n\n- 60%\n\n- of the health-system expenditure attributed to MND was for males .\n\nFor more information, see Health system spending on disease and injury in Australia 2023–24 (AIHW 2025).\n\nThe Health system spending on disease and injury in Australia 2023–24 report (AIHW 2025) did not include statistics disaggregated by socioeconomic areas.\n\nThe rate of health-system costs for MND was highest for people living in Outer regional areas ($270,000 per 100,000 population) and lowest for people living in Major cities ($192,000 per 100,000 population). The rate was higher for people living in Inner regional areas ($255,000 per 100,000 population), compared with people living in Remote areas and Very remote areas ($210,000 and $218,000 per 100,000 population, respectively).\n\nAfter adjusting for inflation (reported in constant prices), the total health-system expenditure attributed to MND more than doubled from $24.9 million in 2013–14 to $58.7 million in 2023–24 (AIHW 2025).\n\n## Burden of disease\n\nBurden of disease measures Expand\n\nBurden of disease is measured using the metric of disability-adjusted life years (DALY, also referred to as total burden ). One DALY is one year of healthy life lost due to disease or injury.\n\nDALY caused by living with disease or injury are referred to as non-fatal burden and measured in years lived with disability (YLD) . DALY caused by premature death are referred to as fatal burden and measured in years of life lost (YLL) .\n\nIn 2024:\n\n- MND was responsible for 17,300 DALY, equivalent to 0.6 DALY per 1,000 population (0.5 DALY per 1,000 population, age-standardised) and 0.3% of the total burden in Australia\n\n- MND was the 5 th (single) leading cause of total burden out of the neurological conditions reported in the Australian Burden of Disease Study (ABDS) (AIHW 2024)\n\n- males accounted for more than half (58%) of the total burden attributed to MND\n\n- MND accounted for 0.6% of the fatal disease burden in Australia\n\n- 91%\n\n- of total disease burden attributed to MND was fatal (YLL).\n\n- MND was the 3 rd (single) leading cause of fatal disease burden out of the neurological conditions reported in the ABDS\n\n- over three-quarters (81%) of the total disease burden due to MND was attributed to people in the 55+ age-groups.\n\nFor more information, see Australian Burden of Disease Study (ABDS) 2024 (AIHW 2024).\n\nThe most recent burden of disease statistics disaggregated by socioeconomic and remoteness areas, at the time of writing this report, are from the ABDS 2018 (AIHW 2021).\n\nIn 2018 the age-standardised rate of total disease burden attributed to MND was:\n\n- similar across different socioeconomic areas (between 0.5 and 0.6 DALY per 1,000 population)\n\n- highest for people living in Inner regional and Outer regional areas (both attributed 0.6 DALY per 1,000 population), and lowest for people living in Remote and very remote areas (0.3 DALY per 1,000 population), people living in Major cities were attributed 0.5 DALY per 1,000 population.\n\nBetween 2003 and 2024, the crude DALY rate of MND remained stable at around 0.6 per 1,000 population. After adjusting for different population age structures over time, the DALY rate decreased slightly from 0.6 to 0.5 DALY per 1,000 population.\n\n## NDIS and aged care\n\nAs of 31 March 2025, there were 1,030 registered National Disability Insurance Scheme (NDIS) plans for people with MND listed as the primary or secondary condition, of which 1,020 were plans had MND listed as the primary condition affecting care (NDIS 2025).\n\nThese numbers represent people who are eligible for NDIS funding based on evidence required by the National Disability Insurance Agency, they should not be used as an indication of prevalence.\n\nBased on Aged Care Funding Instrument (ACFI) assessments, between 1 July 2021 and 30 June 2022:\n\n- there were 435 people in permanent residential care with MND listed as a condition affecting care, with a median age of 78 years\n\n- 47% of these were women and 53% were men, with median ages of 79 and 77 years, respectively.\n\nIn October 2022, the Aged Care Funding Instrument (ACFI) was replaced with the Australian National Aged Care Classification (AN-ACC) funding model , which does not capture health condition information. Therefore, the most recent data for this section are from 2021–22, with no further updates. For more information, see the National Aged Care Data Clearinghouse tab in the Data sources page of the Neurological conditions in Australia report.\n\n## Mortality\n\nBased on the National Mortality Database (NMD) , in 2023:\n\n- MND was recorded as the underlying cause of 781 deaths (2.9 deaths per 100,000 population, or 2.3 deaths per 100,000 population, age-standardised) and as an associated cause for 85 deaths (0.3 deaths per 100,000 population, or 0.2 deaths per 100,000 population, age-standardised)\n\n- MND was the underlying cause of 0.4% of all deaths and 6.6% of deaths due to neurological conditions (principal diagnosis)\n\n- the rate of deaths due to MND among males was 1.5 times as high as among females (3.5 and 2.4 per 100,000 population, respectively) – the sex difference increased slightly after age-standardisation (2.9 and 1.8 per 100,000 population for males and females, respectively).\n\n### The age-standardised rate of deaths (per 100,000 population) among males was 1.6 times as high as among females.\n\nIn 2023, the age-standardised mortality rate with MND as the underlying cause:\n\n- was slightly higher for people living in the highest socioeconomic areas (2.5 deaths per 100,000 population), compared with people living in lower socioeconomic areas (between 2.1 and 2.4 deaths per 100,000 population)\n\n- varied by remoteness area, being lower for people living in Outer regional areas (1.7 per 100,000 population), compared with people living in Inner regional areas and Major cities (2.7 and 2.3 per 100,000 population, respectively) – there were too few deaths for people living in Remote and very remote areas to calculated age-standardised rates.\n\nBetween 2013 to 2023, the mortality rate for MND (underlying cause) fluctuated between 2.6 (in 2014) and 3.1 (in 2013 and 2019) deaths per 100,000 population. After adjusting for different population age structures over time, the rate decreased slightly from 2.8 to 2.3 deaths per 100,000 population.\n\n## First Nations people\n\n### How common is motor neurone disease among First Nations people?\n\nThe Every moment matters report (MND Australia and Evohealth 2025) did not include statistics for Aboriginal and Torres Strait Islander (First Nations) people .\n\n### Hospitalisations\n\nFor First Nations people, based on the National Hospital Morbidity Database (NHMD) , in 2023–24 there were 31 hospitalisations due to MND, equivalent to 3 hospitalisations per 100,000 population, with an average length of stay of 18 days.\n\n### Emergency department presentations\n\n### Health-system costs\n\nThe Health system spending on disease and injury in Australia 2023–24 report (AIHW 2025) did not include statistics for First Nations people. AIHW is working to expand the scope of the Health system spending on disease and injury in Australia report in future updates to include spending on First Nations people.\n\n### Burden of disease\n\nThe most recent burden of disease statistics for First Nations people, at the time of writing this report, are from the ABDS 2018 (AIHW 2022).\n\nIn 2018:\n\n- MND was responsible for an estimated 210 DALY, equivalent to 0.4 DALY per 1,000 population (age-standardised)\n\n- males accounted for 62% of the total burden attributed to MND\n\n- most (92%) of the total disease burden attributed to MND for First Nations people was fatal burden.\n\n- 92%\n\n- of the total disease burden attributed to MND among First Nations people was fatal burden.\n\n### Mortality\n\nFor First Nations people, in 2023, there were 13 deaths with MND recorded as the underlying cause of death, equivalent to 1.3 deaths per 100,000 population and accounting for 0.3% of all First Nations deaths.\n\n## More information and representative organisations\n\nHealthdirect Australia is an Australian government-funded service which provides health information and advice. Australians can get advice via an online symptom checker and find nearby health services. The Healthdirect MND webpage provides an overview of epilepsy, its causes, symptoms, and treatment options, along with guidance on managing seizures.\n\nMND Australia is a national peak body of state organisations that support those living with and impacted by MND. The organisation works with state-based MND associations to deliver care, support, and advocacy at a national level, as well as funding research programs to improve health outcomes and care pathways, explore better treatment options, and ultimately find a cure for the disease.\n\nFightMND is an organisation that works to raise awareness and fund research to improve the quality of life and find treatments for those living with MND and to one day find a cure.\n\n## Data sources\n\nFor details about the data sources used in this article, including the condition codes used to extract information about MND from each source (for example, mortality, hospitalisations et cetera), see Data sources in the Neurological conditions in Australia report.\n\n## Notes\n\nAcknowledgements Expand\n\nThe Neurological conditions in Australia 2025 project was undertaken by members of the Chronic Conditions Unit of the Australian Institute of Health and Welfare (AIHW).\n\nThe AIHW acknowledges the ongoing contributions and consultation provided by the Department of Health, Disability and Ageing and the Neurological Conditions Expert Advisory Group. For further information on contributions to the project, see Notes in the Neurological conditions in Australia report.\n\nReferences Expand\n\nAIHW (Australian Institute of Health and Welfare) (2021) Australian Burden of Disease Study 2018: Interactive data on disease burden , AIHW website, accessed 11 September 2025.\n\nAIHW (2022) Australian Burden of Disease Study 2018: Interactive data on disease burden among Aboriginal and Torres Strait Islander people , AIHW website, accessed 5 May 2025.\n\nAIHW (2024) Australian Burden of Disease Study 2024 , AIHW website, accessed 5 May 2025.\n\nAIHW (2025) Health system spending on disease and injury in Australia 2023–24 , AIHW website, accessed 29 October 2025.\n\nHealthdirect (2024) Motor Neurone Disease (MND) , Healthdirect website, accessed 22 May 2025 .\n\nIHME (Institute for Health Metrics and Evaluation) (2025). GBD Results [data set], IHME website, accessed 9 May 2025.\n\nMND Australia and Evohealth (2025) Every moment matters: Addressing the human and economic toll of MND in Australia , MND Australia website, accessed 9 July 2025.\n\nNational Disability Insurance Scheme (NDIS) (2025) Participants by diagnosis: Participants count by diagnosis data [data set], Participant datasets , NDIS website, accessed 21 May 2025.\n\n## Data\n\nGo back to top\n\nFeedback\n\nLast updated 30/04/2026 v100.0\n\n### AIHW\n\n- About us\n\n- Our reports\n\n- Our data\n\n- Newsroom\n\n### Using AIHW\n\n- Accessibility\n\n- Copyright\n\n- Disclaimer\n\n- Indexed list of files\n\n- Site map\n\n### Quick links\n\n- AIHW Ethics Committee\n\n- Crisis and support services\n\n- Data on request\n\n- Login\n\n### Connect with us\n\nConnect with AIHW on LinkedIn Follow AIHW on Instagram Visit AIHW on YouTube\n\n© Australian Institute of Health and Welfare 2026\n\n## Search\n\nReset search\n\nSubmit search\n\nKeep typing to see search results...\n\nSorry, we couldn't find any results matching\n\nTo help find what you're looking for:\n\n- Check your spelling and try again\n\n- using a more general term\n\n- keep your search term short and simple\n\n- try looking in A-Z topics\n\n### Other ways to browse\n\nA-Z Topics\n\nView all search results\n\n## Feedback\n\nWe'd love to know any feedback that you have about the AIHW website, its contents or reports.\n\nName\n\nEmail\n\nComments\n\nRequired fields\n\nThe browser you are using to browse this website is outdated and some features may not display properly or be accessible to you. Please use a more recent browser for the best user experience.\n\n\n\n## Links found on page\n\n- Aboriginal and Torres Strait Islander Health Performance Framework: https://www.indigenoushpf.gov.au/\n\n- Australian Mesothelioma Registry: http://mesothelioma-australia.com/home/\n\n- GEN Aged Care Data: http://www.gen-agedcaredata.gov.au\n\n- Housing data: https://www.housingdata.gov.au/\n\n- Metadata Online Registry (METEOR): http://meteor.aihw.gov.au/\n\n- Regional Insights for Indigenous Communities: https://www.rific.gov.au\n\n- Contact us: https://www.aihw.gov.au/contact-us\n\n- Help & tools: https://www.aihw.gov.au/help-tools\n\n- Increase text size: https://www.aihw.gov.au/reports/neurological-conditions/mnd\n\n- https://www.aihw.gov.au/: https://www.aihw.gov.au/\n\n- Reports & data Use down arrow to expand: https://www.aihw.gov.au/reports-data\n\n- A: https://www.aihw.gov.au/reports-data/a-z-topics#A\n\n- B: https://www.aihw.gov.au/reports-data/a-z-topics#B\n\n- C: https://www.aihw.gov.au/reports-data/a-z-topics#C\n\n- D: https://www.aihw.gov.au/reports-data/a-z-topics#D\n\n- E: https://www.aihw.gov.au/reports-data/a-z-topics#E\n\n- F: https://www.aihw.gov.au/reports-data/a-z-topics#F\n\n- G: https://www.aihw.gov.au/reports-data/a-z-topics#G\n\n- H: https://www.aihw.gov.au/reports-data/a-z-topics#H\n\n- I: https://www.aihw.gov.au/reports-data/a-z-topics#I\n\n- J: https://www.aihw.gov.au/reports-data/a-z-topics#J\n\n- K: https://www.aihw.gov.au/reports-data/a-z-topics#K\n\n- L: https://www.aihw.gov.au/reports-data/a-z-topics#L\n\n- M: https://www.aihw.gov.au/reports-data/a-z-topics#M\n\n- N: https://www.aihw.gov.au/reports-data/a-z-topics#N\n\n- O: https://www.aihw.gov.au/reports-data/a-z-topics#O\n\n- P: https://www.aihw.gov.au/reports-data/a-z-topics#P\n\n- Q: https://www.aihw.gov.au/reports-data/a-z-topics#Q\n\n- R: https://www.aihw.gov.au/reports-data/a-z-topics#R\n\n- S: https://www.aihw.gov.au/reports-data/a-z-topics#S\n\n- T: https://www.aihw.gov.au/reports-data/a-z-topics#T\n\n- V: https://www.aihw.gov.au/reports-data/a-z-topics#V\n\n- W: https://www.aihw.gov.au/reports-data/a-z-topics#W\n\n- Y: https://www.aihw.gov.au/reports-data/a-z-topics#Y\n\n- See all topics: https://www.aihw.gov.au/reports-data/a-z-topics\n\n- Latest releases: https://www.aihw.gov.au/reports-data/latest-reports\n\n- Educational resources: https://www.aihw.gov.au/reports-data/downloadable-resources\n\n- Australia's health: https://www.aihw.gov.au/reports-data/australias-health\n\n- Australia's welfare: https://www.aihw.gov.au/reports-data/australias-welfare\n\n- Australia's health performance: https://www.aihw.gov.au/reports-data/australias-health-performance\n\n- Hospitals: https://www.aihw.gov.au/hospitals\n\n- Australia’s Disability Strategy: https://www.aihw.gov.au/Australias-Disability-Strategy\n\n- Linked data assets: https://www.aihw.gov.au/About-our-data/Linked-data-assets\n\n- First Nations people: https://www.aihw.gov.au/reports-data/population-groups/Indigenous-Australians\n\n- Suicide & self-harm monitoring: https://www.aihw.gov.au/suicide-self-harm-monitoring\n\n- Family, domestic & sexual violence: https://www.aihw.gov.au/family-domestic-and-sexual-violence\n\n- Australian Centre for Monitoring Population Health: https://www.aihw.gov.au/reports-data/population-health-monitoring\n\n- About our data Use down arrow to expand: https://www.aihw.gov.au/about-our-data\n\n- Our data collections: https://www.aihw.gov.au/about-our-data/our-data-collections\n\n- AIHW data by geography: https://www.aihw.gov.au/about-our-data/aihw-data-by-geography\n\n- AIHW data by indicators: https://www.aihw.gov.au/about-our-data/aihw-data-by-indicators\n\n- AIHW data by sex and gender: https://www.aihw.gov.au/about-our-data/aihw-data-by-sex-and-gender\n\n- Accessing data through the AIHW: https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw\n\n- Data governance: https://www.aihw.gov.au/about-our-data/data-governance\n\n- Other government data: https://www.aihw.gov.au/about-our-data/accessing-australian-government-data\n\n- AIHW linked data assets: https://www.aihw.gov.au/about-our-data/linked-data-assets\n\n- Statistical terms and concepts: https://www.aihw.gov.au/about-our-data/statistical-glossary\n\n- Vulnerability and disclosure policy: https://www.aihw.gov.au/about-our-data/vulnerability-and-disclosure-policy\n\n- Our services Use down arrow to expand: https://www.aihw.gov.au/our-services\n\n- Data integration: https://www.aihw.gov.au/our-services/data-integration\n\n- Metadata support: https://www.aihw.gov.au/our-services/metadata-support\n\n- Validata: https://www.aihw.gov.au/our-services/validata\n\n- About us Use down arrow to expand: https://www.aihw.gov.au/about-us\n\n- Our role & organisation goals: https://www.aihw.gov.au/about-us/our-role-organisation-goals\n\n- Our people & structure: https://www.aihw.gov.au/about-us/our-people-structure\n\n- Our governance: https://www.aihw.gov.au/about-us/our-governance\n\n- Our committees: https://www.aihw.gov.au/about-us/committees\n\n- Our impact: https://www.aihw.gov.au/about-us/our-case-studies\n\n- Our international role: https://www.aihw.gov.au/about-us/international-collaboration\n\n- Careers: https://www.aihw.gov.au/about-us/careers\n\n- Corporate publications: https://www.aihw.gov.au/about-us/corporate-publications\n\n- Freedom of Information: https://www.aihw.gov.au/about-us/freedom-of-information\n\n- Gifts & benefits register: https://www.aihw.gov.au/about-us/gifts-benefits-register\n\n- Modern slavery: https://www.aihw.gov.au/about-us/modern-slavery\n\n- Privacy: https://www.aihw.gov.au/about-us/privacy-policy\n\n- Public interest disclosure: https://www.aihw.gov.au/about-us/public-interest-disclosure\n\n- Reporting suspected fraud: https://www.aihw.gov.au/about-us/reporting-suspected-fraud\n\n- Scam warning: https://www.aihw.gov.au/about-us/scam-warning\n\n- Submissions to inquiries: https://www.aihw.gov.au/about-us/submissions\n\n- Tenders: https://www.aihw.gov.au/about-us/tenders\n\n- Newsroom Use down arrow to expand: https://www.aihw.gov.au/news-media\n\n- Media releases: https://www.aihw.gov.au/news-media/media-releases\n\n- Latest news & events: https://www.aihw.gov.au/news-media/news\n\n- Upcoming releases: https://www.aihw.gov.au/news-media/upcoming-releases\n\n- Our podcast – Behind the data: https://www.aihw.gov.au/news-media/podcasts\n\n- Neurological conditions: https://www.aihw.gov.au/reports-data/health-conditions-disability-deaths/neurological-conditions\n\n- Share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.aihw.gov.au/reports/neurological-conditions/mnd\n\n- Share via Twitter: https://twitter.com/intent/tweet?text=Neurological%20conditions%20in%20Australia%3A%20Motor%20neurone%20disease%20in%20Australia&url=https://www.aihw.gov.au/reports/neurological-conditions/mnd\n\n- Share via Linkedin: https://www.linkedin.com/shareArticle?mini=true&title=Neurological%20conditions%20in%20Australia%3A%20Motor%20neurone%20disease%20in%20Australia&url=https://www.aihw.gov.au/reports/neurological-conditions/mnd\n\n- Share via email: https://www.aihw.gov.au/cdn-cgi/l/email-protection#16296563747c7375622b58736364797a79717f75777a332426757978727f627f7978653324267f783324265763656264777a7f773325573324265b7962796433242678736364797873332426727f65737765733324267f783324265763656264777a7f7730777b662d7479726f2b7e626266652c393961616138777f7e613871796038776339647366796462653978736364797a79717f75777a3b757978727f627f797865397b7872\n\n- Get citation (EndNote): https://www.aihw.gov.au/report/endnote?nodeGuid=b616860c-b7a3-472d-b16f-c2407d9fa97a\n\n- Neurological conditions in Australia: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions\n\n- Cerebral palsy in Australia: https://www.aihw.gov.au/reports/neurological-conditions/cerebral-palsy-in-australia\n\n- Epilepsy in Australia: https://www.aihw.gov.au/reports/neurological-conditions/epilepsy\n\n- Functional neurological disorder in Australia: https://www.aihw.gov.au/reports/neurological-conditions/functional-neurological-disorders\n\n- Guillain-Barré syndrome in Australia: https://www.aihw.gov.au/reports/neurological-conditions/guillain-barre-syndrome-in-australia\n\n- Huntington's disease in Australia: https://www.aihw.gov.au/reports/neurological-conditions/huntingtons-disease-in-australia\n\n- Migraine and headaches in Australia: https://www.aihw.gov.au/reports/neurological-conditions/migraine-and-headache-disorders\n\n- Multiple sclerosis in Australia: https://www.aihw.gov.au/reports/neurological-conditions/multiple-sclerosis-in-australia\n\n- Myalgic encephalomyelitis / chronic fatigue syndrome in Australia: https://www.aihw.gov.au/reports/neurological-conditions/chronic-fatigue-syndrome-in-australia\n\n- Myasthenia gravis in Australia: https://www.aihw.gov.au/reports/neurological-conditions/myasthenia-gravis-in-australia\n\n- Parkinson's disease in Australia: https://www.aihw.gov.au/reports/neurological-conditions/parkinsons-disease-in-australia\n\n- How common is motor neurone disease in Australia?: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_prev\n\n- Hospitalisations: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_hosp\n\n- Emergency department presentations: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_ed\n\n- Health-system costs: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_costs\n\n- Burden of disease: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_bod\n\n- NDIS and aged care: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_aged\n\n- Mortality: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_mortality\n\n- First Nations people: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_FN\n\n- More information and representative organisations: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_organ\n\n- Data sources: https://www.aihw.gov.au/reports/neurological-conditions/mnd#MND_data\n\n- Notes: https://www.aihw.gov.au/reports/neurological-conditions/mnd#notes\n\n- Data: https://www.aihw.gov.au/reports/neurological-conditions/mnd#data\n\n- Technical notes: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/technical-notes\n\n- Neurological conditions in Australia: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/about\n\n- Figure 2: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/health-services/hospitalisations\n\n- Figure 4: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/health-system-costs\n\n- Figure 5: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/burden-of-disease\n\n- Figure 6: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/mortality-health-system-costs-burden-of-disease/mortality\n\n- National Health Data Hub: https://www.aihw.gov.au/reports-data/nhdh\n\n- Global Burden of Disease Study (GBD) 2021: https://vizhub.healthdata.org/gbd-results/\n\n- National Hospital Morbidity Database (NHMD): https://www.aihw.gov.au/about-our-data/our-data-collections/national-hospitals-data-collection\n\n- Surgery and other interventions: https://www.aihw.gov.au/hospitals/topics/admitted-patient-care/surgery-and-other-interventions\n\n- Principal Diagnosis Short List (EPD Short List): https://www.ihacpa.gov.au/resources/epd-short-list-twelfth-edition-user-guide\n\n- 2022–23: https://www.aihw.gov.au/reports/health-welfare-expenditure/health-system-spending-on-disease-and-injury-aus/contents/about\n\n- Health system spending on disease and injury in Australia 2023–24: https://www.aihw.gov.au/reports/health-welfare-expenditure/health-system-spending-disease-injury-aus-2023-24/contents/about\n\n- Australian Burden of Disease Study (ABDS) 2024: https://www.aihw.gov.au/reports/burden-of-disease/australian-burden-of-disease-study-2024/contents/summary\n\n- ABDS 2018: https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-data-disease-burden/contents/about\n\n- Australian National Aged Care Classification (AN-ACC) funding model: https://www.health.gov.au/our-work/AN-ACC\n\n- Data sources: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/technical-notes/data-sources\n\n- National Mortality Database (NMD): https://www.aihw.gov.au/about-our-data/our-data-collections/national-mortality-database\n\n- ABDS 2018: https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-disease-indigenous/contents/burden-of-disease-in-australia\n\n- Healthdirect Australia: https://www.healthdirect.gov.au/\n\n- Healthdirect MND webpage: https://www.healthdirect.gov.au/motor-neurone-disease-mnd\n\n- MND Australia: https://www.mndaustralia.org.au/about-us\n\n- FightMND: https://fightmnd.org.au/\n\n- Notes: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/notes\n\n- Australian Burden of Disease Study 2018: Interactive data on disease burden: https://www.aihw.gov.au/reports/burden-of-disease/abds-2018-interactive-data-disease-burden/contents/summary\n\n- Australian Burden of Disease Study 2024: https://www.aihw.gov.au/reports/burden-of-disease/australian-burden-of-disease-study-2024/contents/interactive-data-on-disease-burden/burden-of-disease-in-australia\n\n- GBD Results: https://www.healthdata.org/data-tools-practices/interactive-visuals/gbd-results\n\n- Every moment matters: Addressing the human and economic toll of MND in Australia: https://www.mndaustralia.org.au/articles/every-moment-matters-new-report-into-economic-impact-of-mnd\n\n- Participant datasets: https://dataresearch.ndis.gov.au/datasets/participant-datasets\n\n- Accessibility: https://www.aihw.gov.au/help-tools/accessibility\n\n- Copyright: https://www.aihw.gov.au/copyright\n\n- Disclaimer: https://www.aihw.gov.au/disclaimer\n\n- Indexed list of files: https://www.aihw.gov.au/indexed-list-of-files\n\n- Site map: https://www.aihw.gov.au/help-tools/sitemap\n\n- AIHW Ethics Committee: https://www.aihw.gov.au/about-us/committees/aihw-ethics-committee\n\n- Crisis and support services: https://www.aihw.gov.au/help-tools/support\n\n- Data on request: https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw/data-on-request\n\n- Login: https://www.aihw.gov.au/analyst-portal-sites/analyst-login\n\n- Connect with AIHW on LinkedIn: https://au.linkedin.com/company/australian-institute-of-health-and-welfare\n\n- Follow AIHW on Instagram: https://www.instagram.com/aihw.gov.au/\n\n- Visit AIHW on YouTube: https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug"
+}

@@ -1,0 +1,671 @@
+{
+  "source_id": "healthdirect:rural-and-remote-health",
+  "title": "Rural and remote health | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/rural-and-remote-health",
+  "retrieved_at": "2026-08-31",
+  "topic": "Culturally Accessible And Regional Support",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 28272,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/rural-and-remote-health",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/rural-and-remote-health"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/rural-and-remote-health"
+    },
+    {
+      "text": "Rural and remote Australia",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#rural"
+    },
+    {
+      "text": "What types of health services are available?",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#types"
+    },
+    {
+      "text": "Online and telephone services and support",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#online"
+    },
+    {
+      "text": "Aboriginal and/or Torres Strait Islander peoples' health",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#first-nations"
+    },
+    {
+      "text": "Farming communities",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#farming"
+    },
+    {
+      "text": "Staying healthy",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#staying-healthy"
+    },
+    {
+      "text": "Travelling to health services",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#travel"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#searchGeneralResults"
+    },
+    {
+      "text": "private health insurance",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "Royal Flying Doctor Service",
+      "url": "https://www.flyingdoctor.org.au/"
+    },
+    {
+      "text": "helplines",
+      "url": "https://www.healthdirect.gov.au/mental-health-helplines"
+    },
+    {
+      "text": "apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "online programs",
+      "url": "https://www.healthdirect.gov.au/the-wellbeing-course-online-program"
+    },
+    {
+      "text": "Online therapy",
+      "url": "https://www.healthdirect.gov.au/etherapy"
+    },
+    {
+      "text": "range of mental health services",
+      "url": "https://www.flyingdoctor.org.au/what-we-do/mental-health/"
+    },
+    {
+      "text": "rural and remote mental health",
+      "url": "https://www.healthdirect.gov.au/rural-remote-mental-health"
+    },
+    {
+      "text": "dental care",
+      "url": "https://www.flyingdoctor.org.au/what-we-do/oral-health/"
+    },
+    {
+      "text": "dental health",
+      "url": "https://www.healthdirect.gov.au/dental-care"
+    },
+    {
+      "text": "emergency medical flights",
+      "url": "https://www.flyingdoctor.org.au/what-we-do/aeromedical-retrieval/"
+    },
+    {
+      "text": "emergency flight service",
+      "url": "https://careflight.org/our-work/emergency-rescue-services/"
+    },
+    {
+      "text": "nursing post",
+      "url": "https://www.healthdirect.gov.au/nursing-post"
+    },
+    {
+      "text": "need help now",
+      "url": "https://about.healthdirect.gov.au/need-help-now"
+    },
+    {
+      "text": "virtual health or telehealth",
+      "url": "https://www.healthdirect.gov.au/virtual-care-clinics"
+    },
+    {
+      "text": "My Health Record",
+      "url": "https://www.healthdirect.gov.au/my-health-record"
+    },
+    {
+      "text": "online learning module",
+      "url": "https://www.digitalhealth.gov.au/online-learning-sessions"
+    },
+    {
+      "text": "Aboriginal and/or Torres Strait Islander health services",
+      "url": "https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/"
+    },
+    {
+      "text": "Aboriginal Community Controlled Health Organisation",
+      "url": "https://www.naccho.org.au/locations/"
+    },
+    {
+      "text": "support for Aboriginal and/or Torres Strait Islander carers",
+      "url": "https://www.carerhelp.com.au/Communities/Aboriginal-and-Torres-Strait-Islander"
+    },
+    {
+      "text": "Aboriginal and/or Torres Strait Islander peoples' health",
+      "url": "https://www.healthdirect.gov.au/indigenous-health"
+    },
+    {
+      "text": "health and wellbeing",
+      "url": "https://farmerhealth.org.au/"
+    },
+    {
+      "text": "children living on rural properties",
+      "url": "https://www.pregnancybirthbaby.org.au/parenting-in-the-country"
+    },
+    {
+      "text": "mental health and wellbeing",
+      "url": "https://www.medicarementalhealth.gov.au/living-well/looking-after-wellbeing"
+    },
+    {
+      "text": "travel to your healthcare appointment",
+      "url": "https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment"
+    },
+    {
+      "text": "Patient Assisted Travel Schemes",
+      "url": "https://www.ruralhealth.org.au/wp-content/uploads/2024/09/PATS-Fact-Sheet-and-Guide-2025.pdf"
+    },
+    {
+      "text": "Royal Flying Doctor Service's patient transfers",
+      "url": "https://www.flyingdoctor.org.au/what-we-do/patient-transfers/"
+    },
+    {
+      "text": "patient transfer service",
+      "url": "https://careflight.org/our-work/patient-transport-services-australia/"
+    },
+    {
+      "text": "Angel Flight",
+      "url": "https://www.angelflight.org.au/"
+    },
+    {
+      "text": "Ronald McDonald House",
+      "url": "https://rmhc.org.au/"
+    },
+    {
+      "text": "New South Wales",
+      "url": "https://www.healthdirect.gov.au/new-south-wales-rural-and-remote-health-services"
+    },
+    {
+      "text": "Northern Territory",
+      "url": "https://www.healthdirect.gov.au/northern-territory-rural-and-remote-health-services"
+    },
+    {
+      "text": "Queensland",
+      "url": "https://www.healthdirect.gov.au/queensland-rural-and-remote-health-services"
+    },
+    {
+      "text": "South Australia",
+      "url": "https://www.healthdirect.gov.au/south-australia-rural-and-remote-health-services"
+    },
+    {
+      "text": "Tasmania",
+      "url": "https://www.healthdirect.gov.au/tasmania-rural-and-remote-health-services"
+    },
+    {
+      "text": "Victoria",
+      "url": "https://www.healthdirect.gov.au/victoria-rural-and-remote-health-services"
+    },
+    {
+      "text": "Western Australia",
+      "url": "https://www.healthdirect.gov.au/western-australia-rural-and-remote-health-services"
+    },
+    {
+      "text": "aged care",
+      "url": "https://www.myagedcare.gov.au/support-people-living-rural-and-remote-areas"
+    },
+    {
+      "text": "family and child health services",
+      "url": "https://www.pregnancybirthbaby.org.au/health-services-for-rural-families"
+    },
+    {
+      "text": "disability services",
+      "url": "https://www.ndis.gov.au/participants"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "(Patient assisted travel schemes)",
+      "url": "https://www.ruralhealth.org.au/wp-content/uploads/2024/09/NRHA-2024-pats-fact-sheet-and-guide.pdf"
+    },
+    {
+      "text": "(Rural and remote health)",
+      "url": "https://www.aihw.gov.au/reports/rural-remote-australians/rural-and-remote-health#Profile%20of%20rural%20and%20remote%20Australians"
+    },
+    {
+      "text": "(What we do)",
+      "url": "https://www.flyingdoctor.org.au/what-we-do/"
+    },
+    {
+      "text": "(Telehealth)",
+      "url": "https://www.health.gov.au/topics/health-technologies-and-digital-health/about/telehealth"
+    },
+    {
+      "text": "(Rural & remote Australians)",
+      "url": "https://www.aihw.gov.au/reports-data/population-groups/rural-remote-australians/links-other-information"
+    },
+    {
+      "text": "(My Health Record)",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/whats-inside#information_you_can_add"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/rural-and-remote-health#backToTop"
+    },
+    {
+      "text": "Telehealth",
+      "url": "https://www.healthdirect.gov.au/search-results/Telehealth"
+    },
+    {
+      "text": "Remote health services | NT.GOV.AU To find a remote health clinic go to the Bushtel website. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/remote-health/remote-health-services"
+    },
+    {
+      "text": "Regional, Rural and Remote Community - Rare Awareness Rare Education Portal Rare Disease Resources for the Regional, Rural and Remote Community This collection of helpful links is for those in the regional, rural and remote community who live with rare diseases. These links have been put together as part of the Australian Government’s plan to help people with rare diseases. This plan is called the Read more on Rare Voices Australia website",
+      "url": "https://www.rareportal.org.au/regional-remote-and-rural-community/"
+    },
+    {
+      "text": "Rural and regional healthcare | Better Health Channel Some rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/rural-and-regional-healthcare"
+    },
+    {
+      "text": "CareFlight CareFlight is an Australian aeromedical and education charity with a mission to save lives, speed recovery and serve the community. They have a fleet of fixed and rotary wing aircraft, patient transport vehicles and a team of clinical educators nationally to help deliver their mission. Read more on Partner Organisation website",
+      "url": "https://careflight.org/"
+    },
+    {
+      "text": "National Rural Health Alliance The National Rural Health Alliance represents 44 national organisations working to improve the health and wellbeing of 7 million people in rural and remote Australia. Read more on Partner Organisation website",
+      "url": "https://www.ruralhealth.org.au/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Rural and remote health | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Rural and remote health\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Living in rural and remote areas can make it harder to access to health services.\n\n- Be familiar with health services in your area so you can get help when you need it.\n\n- Virtual care lets you talk to your doctors and other health practitioners over video and phone calls.\n\n- If you need to travel for your medical appointments, you may be eligible for travel and accommodation support.\n\n- Check local state and territory websites to find services near you.\n\n## On this page\n\n- Rural and remote Australia\n\n- What types of health services are available?\n\n- Online and telephone services and support\n\n- Aboriginal and/or Torres Strait Islander peoples' health\n\n- Farming communities\n\n- Staying healthy\n\n- Travelling to health services\n\n- Resources and support\n\n- Related information on Australian websites\n\n## Rural and remote Australia\n\nThe term 'rural and remote' covers all areas outside Australia's major cities. Nearly 1 in every 3 people in Australia live in rural and remote areas .\n\nLiving in rural and remote areas can sometimes mean that health services may be harder to access. Knowing which health services are available in your area will help you prepare for when you need them.\n\nYou may want to consider private health insurance .\n\n## What types of health services are available?\n\nUse the healthdirect Service Finder to find your nearest health services. It includes:\n\n- GPs\n\n- hospitals\n\n- dentists\n\n- opticians\n\n- pharmacies\n\n- psychologists\n\nYou can often find out about health services at your community centre or by talking to local people.\n\nIn some remote regions, fly-in health clinics are available. This includes the Royal Flying Doctor Service , specialists and other health practitioners.\n\n### Mental health and wellbeing\n\nIf you need to talk to someone about your mental health, call Beyond Blue on 1300 22 4636.\n\nThere are often fewer 'in-person' mental health services in rural and remote areas. You can get help through:\n\n- helplines and online chat services\n\n- online communities\n\n- apps and online programs\n\nOnline therapy (eTherapy) offers psychological support and counselling through your computer or phone.\n\nThe Royal Flying Doctor Service also offers a range of mental health services .\n\nLearn more about rural and remote mental health .\n\n### Dental care\n\nIf you live in a rural or remote area, it can be harder to see a dental practitioner.\n\nThe Royal Flying Doctor Service has set up dental care in some remote and rural areas. These can be:\n\n- fly-in fly-out services\n\n- mobile units\n\n- outreach programs\n\nLearn more about dental health .\n\n### Emergency assistance\n\nIn a medical emergency, immediately call triple zero (000) and ask for an ambulance.\n\nIn Australia, the air ambulance services are managed by the state and territory ambulance services. They also partner with groups like CareFlight and the Royal Flying Doctor Service. States and territories may also have their own air ambulances.\n\nThe Royal Flying Doctor Service has 24-hour emergency medical flights in many regions.\n\nCareFlight operates a 24-hour emergency flight service .\n\nIn some parts of rural and remote Australia, you might be close to a nursing post .\n\nFind other emergency contacts on the need help now page.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## Online and telephone services and support\n\nYou can call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria) to speak with a registered nurse. This is a free 24-hour health advice service for non-urgent help.\n\n### Virtual care or telehealth\n\nSome health services offer virtual health or telehealth . Telehealth lets you talk to your health care practitioners by phone or video call.\n\nDepending on your doctor, telehealth may cost a fee or be bulk-billed via Medicare.\n\n### My Health Record\n\nMy Health Record is a secure online summary of your health information. You and your healthcare practitioners can add details to your record.\n\nThis record improves communication between the people looking after you.\n\nYou can do this online learning module to help you understand your My Health Record.\n\n## Aboriginal and/or Torres Strait Islander peoples' health\n\nAboriginal and/or Torres Strait Islander health services are available in all states and territories.\n\nFind an Aboriginal Community Controlled Health Organisation (ACCHO) near you.\n\nRead about support for Aboriginal and/or Torres Strait Islander carers .\n\nLearn more about Aboriginal and/or Torres Strait Islander peoples' health .\n\n## Farming communities\n\nWorking in rural areas, like on farms, can be risky. The National Centre for Farmer Health website has information on health and wellbeing .\n\nYou can also read more on children living on rural properties .\n\n## Staying healthy\n\nIt's important to take care of both your mental and physical health. Learn more about how to look after your mental health and wellbeing .\n\n## Travelling to health services\n\nMaking a plan can help if you need to travel to your healthcare appointment . Try reaching out to one or more of these services below.\n\nPatient Assisted Travel Schemes can help with costs of travel and accommodation.\n\n### Travel\n\nIn Australia the air ambulance services are managed by the state and territory ambulance services. They also partner with groups like CareFlight and RFDS. States and territories may also have their own air ambulances.\n\nYou might be eligible for help through the Royal Flying Doctor Service's patient transfers .\n\nCareFlight also offers a patient transfer service .\n\nAngel Flight can help with some non-emergency flights.\n\n### Accommodation\n\nWhen traveling to city hospitals with a child, Ronald McDonald House might help with accommodation.\n\nIn some regional and capital cities, the Country Women's Association has affordable accommodation.\n\nTo find the best option for you, ask your local health centre or check with the hospital pre-admission staff.\n\n## Resources and support\n\nTo find out more about rural and remote health services in your state or territory, visit the following pages:\n\n- New South Wales\n\n- Northern Territory\n\n- Queensland\n\n- South Australia\n\n- Tasmania\n\n- Victoria\n\n- Western Australia\n\nRead about aged care support in rural and remote areas.\n\nLearn about family and child health services for rural families.\n\nThe NDIS has information about disability services .\n\nInformation for carers is available through Carer Gateway .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nRoyal Flying Doctor Service (Mental health) , National Rural Health Alliance (Patient assisted travel schemes) , Australian Institute of Health and Welfare (Rural and remote health) , Royal Flying Doctor Service (What we do) , Australian Government: Department of Health and Aged Care (Telehealth) , Medicare Mental Health (Looking after your wellbeing) , Australian Institute of Health and Welfare (Rural & remote Australians) , Royal Flying Doctor Service (Oral health) , CareFlight (Emergency and rescue services) , Digihealth.gov.au (My Health Record) , National Centre for Farmer Health (Our mission)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2025\n\nBack To Top\n\n## Related pages\n\n- New South Wales rural and remote health services\n\n- Northern Territory rural and remote health services\n\n- Queensland rural and remote health services\n\n- South Australia rural and remote health services\n\n- Tasmania rural and remote health services\n\n- Travelling to your healthcare appointment\n\n- Victoria rural and remote health services\n\n- Western Australia rural and remote health services\n\n## Search our site for\n\n- Telehealth\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Remote health services | NT.GOV.AU\n\nTo find a remote health clinic go to the Bushtel website.\n\nRead more on NT Health website\n\n### Regional, Rural and Remote Community - Rare Awareness Rare Education Portal\n\nRare Disease Resources for the Regional, Rural and Remote Community This collection of helpful links is for those in the regional, rural and remote community who live with rare diseases. These links have been put together as part of the Australian Government’s plan to help people with rare diseases. This plan is called the\n\nRead more on Rare Voices Australia website\n\n### Rural and regional healthcare | Better Health Channel\n\nSome rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs.\n\nRead more on Better Health Channel website\n\n### CareFlight\n\nCareFlight is an Australian aeromedical and education charity with a mission to save lives, speed recovery and serve the community. They have a fleet of fixed and rotary wing aircraft, patient transport vehicles and a team of clinical educators nationally to help deliver their mission.\n\nRead more on Partner Organisation website\n\n### National Centre for Farmer Health\n\nThe National Centre for Farmer Health (NCFH) is a partnership between Western District Health Service and Deakin University. The Centre is based 300 kilometres west of Melbourne in the agricultural hub of Hamilton, Western Victoria.\n\n### National Rural Health Alliance\n\nThe National Rural Health Alliance represents 44 national organisations working to improve the health and wellbeing of 7 million people in rural and remote Australia.\n\n### Royal Flying Doctor Service\n\nRoyal Flying Doctor Service is one of the largest and most comprehensive aeromedical organisations in the world.\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/rural-and-remote-health\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/rural-and-remote-health\n\n- Please enter your name: https://www.healthdirect.gov.au/rural-and-remote-health#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/rural-and-remote-health#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/rural-and-remote-health#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/rural-and-remote-health#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/rural-and-remote-health\n\n- Rural and remote Australia: https://www.healthdirect.gov.au/rural-and-remote-health#rural\n\n- What types of health services are available?: https://www.healthdirect.gov.au/rural-and-remote-health#types\n\n- Online and telephone services and support: https://www.healthdirect.gov.au/rural-and-remote-health#online\n\n- Aboriginal and/or Torres Strait Islander peoples' health: https://www.healthdirect.gov.au/rural-and-remote-health#first-nations\n\n- Farming communities: https://www.healthdirect.gov.au/rural-and-remote-health#farming\n\n- Staying healthy: https://www.healthdirect.gov.au/rural-and-remote-health#staying-healthy\n\n- Travelling to health services: https://www.healthdirect.gov.au/rural-and-remote-health#travel\n\n- Resources and support: https://www.healthdirect.gov.au/rural-and-remote-health#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/rural-and-remote-health#searchGeneralResults\n\n- private health insurance: https://www.healthdirect.gov.au/private-health-insurance\n\n- Royal Flying Doctor Service: https://www.flyingdoctor.org.au/\n\n- helplines: https://www.healthdirect.gov.au/mental-health-helplines\n\n- apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- online programs: https://www.healthdirect.gov.au/the-wellbeing-course-online-program\n\n- Online therapy: https://www.healthdirect.gov.au/etherapy\n\n- range of mental health services: https://www.flyingdoctor.org.au/what-we-do/mental-health/\n\n- rural and remote mental health: https://www.healthdirect.gov.au/rural-remote-mental-health\n\n- dental care: https://www.flyingdoctor.org.au/what-we-do/oral-health/\n\n- dental health: https://www.healthdirect.gov.au/dental-care\n\n- emergency medical flights: https://www.flyingdoctor.org.au/what-we-do/aeromedical-retrieval/\n\n- emergency flight service: https://careflight.org/our-work/emergency-rescue-services/\n\n- nursing post: https://www.healthdirect.gov.au/nursing-post\n\n- need help now: https://about.healthdirect.gov.au/need-help-now\n\n- virtual health or telehealth: https://www.healthdirect.gov.au/virtual-care-clinics\n\n- My Health Record: https://www.healthdirect.gov.au/my-health-record\n\n- online learning module: https://www.digitalhealth.gov.au/online-learning-sessions\n\n- Aboriginal and/or Torres Strait Islander health services: https://healthinfonet.ecu.edu.au/key-resources/health-professionals/health-workers/map-of-aboriginal-and-islander-healthmedical-services/\n\n- Aboriginal Community Controlled Health Organisation: https://www.naccho.org.au/locations/\n\n- support for Aboriginal and/or Torres Strait Islander carers: https://www.carerhelp.com.au/Communities/Aboriginal-and-Torres-Strait-Islander\n\n- Aboriginal and/or Torres Strait Islander peoples' health: https://www.healthdirect.gov.au/indigenous-health\n\n- health and wellbeing: https://farmerhealth.org.au/\n\n- children living on rural properties: https://www.pregnancybirthbaby.org.au/parenting-in-the-country\n\n- mental health and wellbeing: https://www.medicarementalhealth.gov.au/living-well/looking-after-wellbeing\n\n- travel to your healthcare appointment: https://www.healthdirect.gov.au/travelling-to-your-healthcare-appointment\n\n- Patient Assisted Travel Schemes: https://www.ruralhealth.org.au/wp-content/uploads/2024/09/PATS-Fact-Sheet-and-Guide-2025.pdf\n\n- Royal Flying Doctor Service's patient transfers: https://www.flyingdoctor.org.au/what-we-do/patient-transfers/\n\n- patient transfer service: https://careflight.org/our-work/patient-transport-services-australia/\n\n- Angel Flight: https://www.angelflight.org.au/\n\n- Ronald McDonald House: https://rmhc.org.au/\n\n- New South Wales: https://www.healthdirect.gov.au/new-south-wales-rural-and-remote-health-services\n\n- Northern Territory: https://www.healthdirect.gov.au/northern-territory-rural-and-remote-health-services\n\n- Queensland: https://www.healthdirect.gov.au/queensland-rural-and-remote-health-services\n\n- South Australia: https://www.healthdirect.gov.au/south-australia-rural-and-remote-health-services\n\n- Tasmania: https://www.healthdirect.gov.au/tasmania-rural-and-remote-health-services\n\n- Victoria: https://www.healthdirect.gov.au/victoria-rural-and-remote-health-services\n\n- Western Australia: https://www.healthdirect.gov.au/western-australia-rural-and-remote-health-services\n\n- aged care: https://www.myagedcare.gov.au/support-people-living-rural-and-remote-areas\n\n- family and child health services: https://www.pregnancybirthbaby.org.au/health-services-for-rural-families\n\n- disability services: https://www.ndis.gov.au/participants\n\n- Carer Gateway: https://www.carergateway.gov.au/\n\n- (Patient assisted travel schemes): https://www.ruralhealth.org.au/wp-content/uploads/2024/09/NRHA-2024-pats-fact-sheet-and-guide.pdf\n\n- (Rural and remote health): https://www.aihw.gov.au/reports/rural-remote-australians/rural-and-remote-health#Profile%20of%20rural%20and%20remote%20Australians\n\n- (What we do): https://www.flyingdoctor.org.au/what-we-do/\n\n- (Telehealth): https://www.health.gov.au/topics/health-technologies-and-digital-health/about/telehealth\n\n- (Rural & remote Australians): https://www.aihw.gov.au/reports-data/population-groups/rural-remote-australians/links-other-information\n\n- (My Health Record): https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/whats-inside#information_you_can_add\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/rural-and-remote-health#backToTop\n\n- Telehealth: https://www.healthdirect.gov.au/search-results/Telehealth\n\n- Remote health services | NT.GOV.AU To find a remote health clinic go to the Bushtel website. Read more on NT Health website: https://nt.gov.au/wellbeing/remote-health/remote-health-services\n\n- Regional, Rural and Remote Community - Rare Awareness Rare Education Portal Rare Disease Resources for the Regional, Rural and Remote Community This collection of helpful links is for those in the regional, rural and remote community who live with rare diseases. These links have been put together as part of the Australian Government’s plan to help people with rare diseases. This plan is called the Read more on Rare Voices Australia website: https://www.rareportal.org.au/regional-remote-and-rural-community/\n\n- Rural and regional healthcare | Better Health Channel Some rural patients have to travel to regional centres or metropolitan areas for the healthcare they need. The Victorian Patient Transport Assistance Scheme can subsidise travel and accommodation costs. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/rural-and-regional-healthcare\n\n- CareFlight CareFlight is an Australian aeromedical and education charity with a mission to save lives, speed recovery and serve the community. They have a fleet of fixed and rotary wing aircraft, patient transport vehicles and a team of clinical educators nationally to help deliver their mission. Read more on Partner Organisation website: https://careflight.org/\n\n- National Rural Health Alliance The National Rural Health Alliance represents 44 national organisations working to improve the health and wellbeing of 7 million people in rural and remote Australia. Read more on Partner Organisation website: https://www.ruralhealth.org.au/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

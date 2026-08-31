@@ -1,0 +1,559 @@
+{
+  "source_id": "aihw:chronic-conditions-dashboard-mnd",
+  "title": "Chronic conditions dashboard - Australian Institute of Health and Welfare",
+  "publisher": "Australian Institute of Health and Welfare",
+  "url": "https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard",
+  "retrieved_at": "2026-08-31",
+  "topic": "Risk Factors, Epidemiology, Registries And Notification",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 30199,
+  "crawl_depth": 0,
+  "seed_url": "https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard",
+  "links": [
+    {
+      "text": "Aboriginal and Torres Strait Islander Health Performance Framework",
+      "url": "https://www.indigenoushpf.gov.au/"
+    },
+    {
+      "text": "Australian Mesothelioma Registry",
+      "url": "http://mesothelioma-australia.com/home/"
+    },
+    {
+      "text": "GEN Aged Care Data",
+      "url": "http://www.gen-agedcaredata.gov.au"
+    },
+    {
+      "text": "Housing data",
+      "url": "https://www.housingdata.gov.au/"
+    },
+    {
+      "text": "Metadata Online Registry (METEOR)",
+      "url": "http://meteor.aihw.gov.au/"
+    },
+    {
+      "text": "Regional Insights for Indigenous Communities",
+      "url": "https://www.rific.gov.au"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.aihw.gov.au/contact-us"
+    },
+    {
+      "text": "Help & tools",
+      "url": "https://www.aihw.gov.au/help-tools"
+    },
+    {
+      "text": "Increase text size",
+      "url": "https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard"
+    },
+    {
+      "text": "https://www.aihw.gov.au/",
+      "url": "https://www.aihw.gov.au/"
+    },
+    {
+      "text": "Reports & data Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/reports-data"
+    },
+    {
+      "text": "A",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#T"
+    },
+    {
+      "text": "V",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#W"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics#Y"
+    },
+    {
+      "text": "See all topics",
+      "url": "https://www.aihw.gov.au/reports-data/a-z-topics"
+    },
+    {
+      "text": "Latest releases",
+      "url": "https://www.aihw.gov.au/reports-data/latest-reports"
+    },
+    {
+      "text": "Educational resources",
+      "url": "https://www.aihw.gov.au/reports-data/downloadable-resources"
+    },
+    {
+      "text": "Australia's health",
+      "url": "https://www.aihw.gov.au/reports-data/australias-health"
+    },
+    {
+      "text": "Australia's welfare",
+      "url": "https://www.aihw.gov.au/reports-data/australias-welfare"
+    },
+    {
+      "text": "Australia's health performance",
+      "url": "https://www.aihw.gov.au/reports-data/australias-health-performance"
+    },
+    {
+      "text": "Hospitals",
+      "url": "https://www.aihw.gov.au/hospitals"
+    },
+    {
+      "text": "Australia’s Disability Strategy",
+      "url": "https://www.aihw.gov.au/Australias-Disability-Strategy"
+    },
+    {
+      "text": "Linked data assets",
+      "url": "https://www.aihw.gov.au/About-our-data/Linked-data-assets"
+    },
+    {
+      "text": "First Nations people",
+      "url": "https://www.aihw.gov.au/reports-data/population-groups/Indigenous-Australians"
+    },
+    {
+      "text": "Suicide & self-harm monitoring",
+      "url": "https://www.aihw.gov.au/suicide-self-harm-monitoring"
+    },
+    {
+      "text": "Family, domestic & sexual violence",
+      "url": "https://www.aihw.gov.au/family-domestic-and-sexual-violence"
+    },
+    {
+      "text": "Australian Centre for Monitoring Population Health",
+      "url": "https://www.aihw.gov.au/reports-data/population-health-monitoring"
+    },
+    {
+      "text": "About our data Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/about-our-data"
+    },
+    {
+      "text": "Our data collections",
+      "url": "https://www.aihw.gov.au/about-our-data/our-data-collections"
+    },
+    {
+      "text": "AIHW data by geography",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-geography"
+    },
+    {
+      "text": "AIHW data by indicators",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-indicators"
+    },
+    {
+      "text": "AIHW data by sex and gender",
+      "url": "https://www.aihw.gov.au/about-our-data/aihw-data-by-sex-and-gender"
+    },
+    {
+      "text": "Accessing data through the AIHW",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw"
+    },
+    {
+      "text": "Data governance",
+      "url": "https://www.aihw.gov.au/about-our-data/data-governance"
+    },
+    {
+      "text": "Other government data",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-australian-government-data"
+    },
+    {
+      "text": "AIHW linked data assets",
+      "url": "https://www.aihw.gov.au/about-our-data/linked-data-assets"
+    },
+    {
+      "text": "Statistical terms and concepts",
+      "url": "https://www.aihw.gov.au/about-our-data/statistical-glossary"
+    },
+    {
+      "text": "Vulnerability and disclosure policy",
+      "url": "https://www.aihw.gov.au/about-our-data/vulnerability-and-disclosure-policy"
+    },
+    {
+      "text": "Our services Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/our-services"
+    },
+    {
+      "text": "Data integration",
+      "url": "https://www.aihw.gov.au/our-services/data-integration"
+    },
+    {
+      "text": "Metadata support",
+      "url": "https://www.aihw.gov.au/our-services/metadata-support"
+    },
+    {
+      "text": "Validata",
+      "url": "https://www.aihw.gov.au/our-services/validata"
+    },
+    {
+      "text": "About us Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/about-us"
+    },
+    {
+      "text": "Our role & organisation goals",
+      "url": "https://www.aihw.gov.au/about-us/our-role-organisation-goals"
+    },
+    {
+      "text": "Our people & structure",
+      "url": "https://www.aihw.gov.au/about-us/our-people-structure"
+    },
+    {
+      "text": "Our governance",
+      "url": "https://www.aihw.gov.au/about-us/our-governance"
+    },
+    {
+      "text": "Our committees",
+      "url": "https://www.aihw.gov.au/about-us/committees"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.aihw.gov.au/about-us/our-case-studies"
+    },
+    {
+      "text": "Our international role",
+      "url": "https://www.aihw.gov.au/about-us/international-collaboration"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.aihw.gov.au/about-us/careers"
+    },
+    {
+      "text": "Corporate publications",
+      "url": "https://www.aihw.gov.au/about-us/corporate-publications"
+    },
+    {
+      "text": "Freedom of Information",
+      "url": "https://www.aihw.gov.au/about-us/freedom-of-information"
+    },
+    {
+      "text": "Gifts & benefits register",
+      "url": "https://www.aihw.gov.au/about-us/gifts-benefits-register"
+    },
+    {
+      "text": "Modern slavery",
+      "url": "https://www.aihw.gov.au/about-us/modern-slavery"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.aihw.gov.au/about-us/privacy-policy"
+    },
+    {
+      "text": "Public interest disclosure",
+      "url": "https://www.aihw.gov.au/about-us/public-interest-disclosure"
+    },
+    {
+      "text": "Reporting suspected fraud",
+      "url": "https://www.aihw.gov.au/about-us/reporting-suspected-fraud"
+    },
+    {
+      "text": "Scam warning",
+      "url": "https://www.aihw.gov.au/about-us/scam-warning"
+    },
+    {
+      "text": "Submissions to inquiries",
+      "url": "https://www.aihw.gov.au/about-us/submissions"
+    },
+    {
+      "text": "Tenders",
+      "url": "https://www.aihw.gov.au/about-us/tenders"
+    },
+    {
+      "text": "Newsroom Use down arrow to expand",
+      "url": "https://www.aihw.gov.au/news-media"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.aihw.gov.au/news-media/media-releases"
+    },
+    {
+      "text": "Latest news & events",
+      "url": "https://www.aihw.gov.au/news-media/news"
+    },
+    {
+      "text": "Upcoming releases",
+      "url": "https://www.aihw.gov.au/news-media/upcoming-releases"
+    },
+    {
+      "text": "Our podcast – Behind the data",
+      "url": "https://www.aihw.gov.au/news-media/podcasts"
+    },
+    {
+      "text": "Chronic conditions dashboard",
+      "url": "https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard"
+    },
+    {
+      "text": "Share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard"
+    },
+    {
+      "text": "Share via Twitter",
+      "url": "https://twitter.com/intent/tweet?text=Chronic%20conditions%20dashboard&url=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard"
+    },
+    {
+      "text": "Share via Linkedin",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&title=Chronic%20conditions%20dashboard&url=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard"
+    },
+    {
+      "text": "Share via email",
+      "url": "https://www.aihw.gov.au/cdn-cgi/l/email-protection#c2fdb1b7a0a8a7a1b6ff81aab0adacaba1e7f0f2a1adaca6abb6abadacb1e7f0f2a6a3b1aaa0ada3b0a6e4a3afb2f9a0ada6bbffaab6b6b2b1f8ededb5b5b5eca3abaab5eca5adb4eca3b7edb0a7b2adb0b6b1eda1aab0adacaba1efa6abb1a7a3b1a7eda1aab0adacaba1efa1adaca6abb6abadacb1efa6a3b1aaa0ada3b0a6eda1adaca6abb6abadacb1efa6a3b1aaa0ada3b0a6"
+    },
+    {
+      "text": "here",
+      "url": "https://www.aihw.gov.au/reports/australias-health/chronic-conditions#table1"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/australias-health/chronic-conditions"
+    },
+    {
+      "text": "here",
+      "url": "https://www.aihw.gov.au/reports/chronic-disease/multimorbidity-in-australia/contents/technical-notes"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-disease/multimorbidity-in-australia/contents/summary"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/contents/overview"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-kidney-disease/chronic-kidney-disease/contents/summary"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/summary#prevalence"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-respiratory-conditions/chronic-respiratory-conditions/contents/summary"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/all-diabetes"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/how-common-are-neurological-conditions-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/dementia/dementia-in-aus/contents/summary#Common"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/summary"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/cancer/mesothelioma-in-australia-2024/contents/summary"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-respiratory-conditions/asthma"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-respiratory-conditions/copd"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-respiratory-conditions/allergic-rhinitis-hay-fever"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/type-1-diabetes"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/type-2-diabetes"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/all-heart-stroke-and-vascular-disease/coronary-heart-disease"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/all-heart-stroke-and-vascular-disease/stroke"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/gout#prevalence"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/osteoarthritis#prevalence"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/Osteoporosis/osteopenia-1#prevalence"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/rheumatoid-arthritis#prevalence"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/epilepsy"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/functional-neurological-disorders"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/guillain-barre-syndrome-in-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/migraine-and-headache-disorders"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/myasthenia-gravis-in-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/cerebral-palsy-in-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/chronic-fatigue-syndrome-in-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/huntingtons-disease-in-australia"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/mnd"
+    },
+    {
+      "text": "See report for more information",
+      "url": "https://www.aihw.gov.au/reports/neurological-conditions/parkinsons-disease-in-australia"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.aihw.gov.au/help-tools/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.aihw.gov.au/copyright"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.aihw.gov.au/disclaimer"
+    },
+    {
+      "text": "Indexed list of files",
+      "url": "https://www.aihw.gov.au/indexed-list-of-files"
+    },
+    {
+      "text": "Site map",
+      "url": "https://www.aihw.gov.au/help-tools/sitemap"
+    },
+    {
+      "text": "AIHW Ethics Committee",
+      "url": "https://www.aihw.gov.au/about-us/committees/aihw-ethics-committee"
+    },
+    {
+      "text": "Crisis and support services",
+      "url": "https://www.aihw.gov.au/help-tools/support"
+    },
+    {
+      "text": "Data on request",
+      "url": "https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw/data-on-request"
+    },
+    {
+      "text": "Login",
+      "url": "https://www.aihw.gov.au/analyst-portal-sites/analyst-login"
+    },
+    {
+      "text": "Connect with AIHW on LinkedIn",
+      "url": "https://au.linkedin.com/company/australian-institute-of-health-and-welfare"
+    },
+    {
+      "text": "Follow AIHW on Instagram",
+      "url": "https://www.instagram.com/aihw.gov.au/"
+    },
+    {
+      "text": "Visit AIHW on YouTube",
+      "url": "https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug"
+    }
+  ],
+  "text": "Chronic conditions dashboard - Australian Institute of Health and Welfare\n\n- Our sites\n\n- Aboriginal and Torres Strait Islander Health Performance Framework\n\n- Australian Mesothelioma Registry\n\n- GEN Aged Care Data\n\n- Housing data\n\n- Metadata Online Registry (METEOR)\n\n- Regional Insights for Indigenous Communities\n\n- Contact us\n\n- Help & tools\n\n- Increase text size\n\n- Decrease text size\n\nSearch\n\nMenu\n\n- Home\n\n- Reports & data Use down arrow to expand\n\n- Reports & data Click to expand menu item\n\n### Find reports & data by topic\n\n- A\n\n- B\n\n- C\n\n- D\n\n- E\n\n- F\n\n- G\n\n- H\n\n- I\n\n- J\n\n- K\n\n- L\n\n- M\n\n- N\n\n- O\n\n- P\n\n- Q\n\n- R\n\n- S\n\n- T\n\n- U\n\n- V\n\n- W\n\n- X\n\n- Y\n\n- Z\n\nSee all topics\n\n- Latest releases\n\n- Educational resources\n\n### Featured\n\n- Australia's health\n\n- Australia's welfare\n\n- Australia's health performance\n\n- Hospitals\n\n- Australia’s Disability Strategy\n\n- Linked data assets\n\n- First Nations people\n\n- Suicide & self-harm monitoring\n\n- Family, domestic & sexual violence\n\n- Australian Centre for Monitoring Population Health\n\n- About our data Use down arrow to expand\n\n- About our data Click to expand menu item\n\n- Our data collections\n\n- AIHW data by geography\n\n- AIHW data by indicators\n\n- AIHW data by sex and gender\n\n- Accessing data through the AIHW\n\n- Data governance\n\n- Other government data\n\n- AIHW linked data assets\n\n- Statistical terms and concepts\n\n- Vulnerability and disclosure policy\n\n- Our services Use down arrow to expand\n\n- Our services Click to expand menu item\n\n- Data integration\n\n- Metadata support\n\n- Validata\n\n- About us Use down arrow to expand\n\n- About us Click to expand menu item\n\n- Our role & organisation goals\n\n- Our people & structure\n\n- Our governance\n\n- Our committees\n\n- Our impact\n\n- Our international role\n\n- Careers\n\n- Corporate publications\n\n- Freedom of Information\n\n- Gifts & benefits register\n\n- Modern slavery\n\n- Privacy\n\n- Public interest disclosure\n\n- Reporting suspected fraud\n\n- Scam warning\n\n- Submissions to inquiries\n\n- Tenders\n\n- Newsroom Use down arrow to expand\n\n- Newsroom Click to expand menu item\n\n- Media releases\n\n- Latest news & events\n\n- Upcoming releases\n\n- Our podcast – Behind the data\n\nYou are here: Home Chronic conditions dashboard Chronic conditions dashboard\n\nYou are here: Go to Chronic conditions dashboard\n\nPrint this page Click to open the social media sharing options Share\n\nShare via Facebook Share via Twitter Share via Linkedin Share via email\n\n# Chronic conditions dashboard\n\nThis dashboard forms part of the Chronic conditions dashboard web article\n\nDashboard view: Latest Show more information about the selected view\n\n- Latest\n\n- Age\n\n- Trends\n\n- Remoteness\n\n- Socioeconomic\n\n- Multimorbidity\n\n- Cancer\n\n- Cardiovascular\n\n- Dementia\n\n- Diabetes\n\n- Kidney\n\n- Musculoskeletal\n\n- Neurological\n\n- Respiratory\n\nScroll tabs left Scroll tabs right\n\nMeasure\n\nMeasure:\n\nprevalence incidence\n\nMeasure Detail\n\nMeasure Detail:\n\ncrude rate count\n\nCompare Sexes\n\nCompare Sexes:\n\noff on\n\nChart Zoom\n\nChart Zoom:\n\nEqual Fit\n\ncrude rate age-standardised rate count\n\nprevalence\n\ncrude rate count age-standardised rate\n\n- Zoom in Zoom out\n\n- Show notes\n\n- Show status\n\n- Jump to Jump to Condition group Cancer Chronic kidney disease Chronic respiratory conditions Dementia Diabetes Heart, stroke and vascular disease Musculoskeletal conditions Neurological conditions\n\n- Show/hide Condition group Cancer Chronic kidney disease Chronic respiratory conditions Dementia Diabetes Heart, stroke and vascular disease Musculoskeletal conditions Neurological conditions\n\nShow filter\n\n## Condition group\n\n### All chronic conditions prevalence (crude rate), for all ages, (2022)\n\n- 2022 survey estimates indicated that around 61% of people in Australia (15.4 million) were living with a chronic condition, defined as being diagnosed with at least 1 of 72 select conditions\n\n- Data source: ABS (2023) Microdata: National Health Survey 2022, AIHW analysis of detailed microdata.\n\n- Notes:\n\n- Data reported in this chart include Australians living with at least one of 72 selected long-term health conditions. See here for a list of the selected long-term health conditions.\n\nSee report for more information\n\n### Multimorbidity prevalence (crude rate), for all ages, (2022)\n\n- 2022 survey estimates indicated that around 38% of people in Australia (9.7 million) were living with multimorbidity, defined as being diagnosed with 2 or more of 72 select conditions\n\n- Multimorbidity refers to living with 2 or more chronic conditions at the same time.\n\n- Data reported in this chart include Australians living with 2 or more of 72 selected long-term health conditions. See here for a list of the selected long-term health conditions.\n\n### All cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 5,500 people per 100,000 population (5.5%) were living with cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n- Data source: AIHW Australian Cancer Database 2021\n\n- 40-year prevalence refers to the number of people diagnosed within the 40 years leading up to 31 December of a given year and alive on this date.\n\n### All chronic kidney disease (CKD) prevalence (crude rate), for ages 18+, (2022–24)\n\n- One in seven (14.2%) adults had biomedical signs of chronic kidney disease in 2022–24\n\n- Data source: ABS National Health Measures Survey.\n\n- See report for more information\n\n### All chronic musculoskeletal conditions prevalence (crude rate), for all ages, (2022)\n\n- An estimated 7.3 million people in Australia (29%) were living with at least one chronic musculoskeletal condition in 2022, based on survey data.\n\n- Data source: ABS (2023) National Health Survey 2022.\n\n### All chronic respiratory conditions prevalence (crude rate), for all ages, (2022)\n\n- In 2022, around 34% of people in Australia (8.5 million) were estimated to be living with a chronic respiratory condition\n\n- Data source: ABS (2023) National Health Survey 2022, AIHW analysis of National Health Survey 2022\n\n### All diabetes prevalence (crude rate), for ages 18+, (2022–24)\n\n- In 2022–24, an estimated 1 in 15 (6.5%) Australians aged 18 and over were living with diagnosed diabetes\n\n- Data source: ABS National Health Measures Survey\n\n### All neurological conditions prevalence (crude rate), for all ages, (2022)\n\n- An estimated 2.2 million (8.7%) Australians were living with long-term neurological conditions – almost 1 in 11 Australians\n\n- Data source: ABS (2023) National Health Survey 2022, AIHW analysis of detailed microdata.\n\n### Dementia prevalence (crude rate), for all ages, (2024)\n\n- It was estimated by the AIHW that around 425,000 (1.6%) Australians were living with dementia in 2024. This is equivalent to 16 people with dementia per 1,000 Australians\n\n- Data source: AIHW estimates were derived using prevalence rates from the 2015 World Alzheimer report and Withall et al. 2014, and the ABS 2024 estimated resident population.\n\n### Heart, stroke and vascular disease (HSVD) prevalence (crude rate), for ages 18+, (2022–24)\n\n- In 2022–24, an estimated 6.4% of Australians aged 18 and over were living with HSVD, based on self-reported data\n\n## Cancer\n\n### Brain cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 36 people per 100,000 population (0.036%) were living with brain cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Breast cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 1,100 people per 100,000 population (1.1%) were living with breast cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Cervical cancer 40-YEAR prevalence (crude rate), for females, all ages (2021)\n\n- Around 150 females per 100,000 population (0.15%) were living with cervical cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Colorectal cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 640 people per 100,000 population (0.64%) were living with colorectal cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Leukaemia 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 170 people per 100,000 population (0.17%) were living with leukaemia in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Liver cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 31 people per 100,000 population (0.031%) were living with liver cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Lung cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 170 people per 100,000 population (0.17%) were living with lung cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Lymphoma 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 290 people per 100,000 population (0.29%) were living with lymphoma cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Melanoma of the skin 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 930 people per 100,000 population (0.93%) were living with melanoma of the skin in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Mesothelioma 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 6 people per 100,000 population (0.0056%) were living with mesothelioma in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Non-Hodgkin lymphoma 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 240 people per 100,000 population (0.24%) were living with non-Hodgkin lymphoma in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Pancreatic cancer 40-YEAR prevalence (crude rate), for all ages, (2021)\n\n- Around 32 people per 100,000 population (0.032%) were living with pancreatic cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n### Prostate cancer 40-YEAR prevalence (crude rate), for males, all ages (2021)\n\n- Around 2,300 males per 100,000 population (2.3%) were living with prostate cancer in Australia in 2021, having been diagnosed at some point in the previous 40 years\n\n## Chronic kidney disease\n\n### Chronic kidney disease (CKD) - Stage 1 prevalence (crude rate), for ages 18+, (2022–24)\n\n- One in twenty (5.1%) adults had biomedical signs of stage 1 CKD in 2022–24, a stage with usually no symptoms\n\n### Chronic kidney disease (CKD) - Stage 2 prevalence (crude rate), for ages 18+, (2022–24)\n\n- One in twenty-five (3.9%) adults had biomedical signs of stage 2 CKD in 2022–24, a stage with usually no symptoms\n\n### Chronic kidney disease (CKD) - Stage 3a prevalence (crude rate), for ages 18+, (2022–24)\n\n- One in twenty-five (3.8%) adults had biomedical signs of stage 3a CKD in 2022–24, a stage when a person may start to feel unwell\n\n### Chronic kidney disease (CKD) - Stage 3b,4,5 prevalence (crude rate), for ages 18+, (2022–24)\n\n- In 2022–24, 1.5% of adults had biomedical signs of CKD stages 3b, 4 and 5, which includes progressed CKD and kidney failure\n\n### Kidney failure with replacement therapy (KRT) prevalence (crude rate), for all ages, (2024)\n\n- One in a thousand Australians were living with kidney failure and receiving KRT in 2024\n\n- Data source: Australian and New Zealand Dialysis and Transplant Registry.\n\n## Chronic respiratory conditions\n\n### Asthma prevalence (crude rate), for all ages, (2022)\n\n- In 2022, around 2.8 million (10.8%) people in Australia were estimated to be living with asthma\n\n### Chronic obstructive pulmonary disease (COPD) prevalence (crude rate), for ages 45+, (2022)\n\n- In 2022, 4.8% (496,000) of people aged 45 and over were estimated to be living with COPD\n\n- Data source: ABS (2023) National Health Survey 2022, AIHW analysis of National Health Survey 2022.\n\n### Allergic rhinitis (Hay fever) prevalence (crude rate), for all ages, (2022)\n\n- In 2022, around 6.1 million people (24%) were estimated to have allergic rhinitis\n\n## Dementia\n\n## Diabetes\n\n### Type 1 diabetes prevalence (crude rate), for ages 0–19, (2021)\n\n- In 2021, among children and young people the type 1 diabetes crude prevalence rate was 211 per 100,000 population\n\n- Data source: AIHW analysis of National (insulin-treated) Diabetes Register.\n\n### Type 2 diabetes prevalence (crude rate), for all ages, (2021)\n\n- Almost 1.2 million (4.6%) Australians were living with type 2 diabetes in 2021\n\n- Data source: AIHW analysis of linked National Diabetes Services Scheme and Australasian Paediatric Endocrine Group state-based registers.\n\n## Heart, stroke and vascular disease\n\n### Coronary heart disease (CHD) prevalence (crude rate), for ages 18+, (2022–24)\n\n- In 2022–24, an estimated 3.0% of the adult population self-reported living with CHD\n\n### Stroke prevalence (crude rate), for all ages, (2022)\n\n- In 2022, an estimated 1.7% of Australians has experienced stroke at some time in their lives, based on self-reported data\n\n- Data source: ABS Survey of Disability, Ageing and Carers.\n\n## Musculoskeletal conditions\n\n### Arthritis prevalence (crude rate), for all ages, (2022)\n\n- An estimated 3.7 million people in Australia (15%) were living with arthritis in 2022, based on survey data.\n\n### Back problems prevalence (crude rate), for all ages, (2022)\n\n- An estimated 4.0 million people in Australia (16%) were living with back problems in 2022, based on survey data.\n\n### Gout prevalence (crude rate), for all ages, (2022)\n\n- An estimated 224,000 people in Australia (0.9%) were living with gout in 2022, based on survey data.\n\n### Osteoarthritis prevalence (crude rate), for all ages, (2022)\n\n- An estimated 2.1 million people in Australia (8.3%) were living with osteoarthritis in 2022, based on survey data.\n\n### Osteoporosis/osteopenia prevalence (crude rate), for all ages, (2022)\n\n- 2022 survey estimates indicated that around 850k people in Australia (3.4%) were living with osteoporosis or osteopenia, although prevalence is likely higher as many cases are undiagnosed.\n\n- Because osteoporosis has no overt symptoms, it is often not diagnosed until a fracture occurs. It is therefore difficult to determine the true prevalence of the condition and reported prevalence is likely to be an underestimation.\n\n### Rheumatoid arthritis prevalence (crude rate), for all ages, (2022)\n\n- 2022 survey estimates indicated that around 510k people in Australia (2.0%) were living with rheumatoid arthritis.\n\n## Neurological conditions\n\n### Epilepsy prevalence (crude rate), for all ages, (2017–18)\n\n### Functional neurological disorder prevalence (crude rate), for all ages, (2010–20)\n\n- Data source: Finkelstein et al (2024) Incidence and prevelance of functional reurological disorder: A systematic review. Journal of Neurology, Neurosurgery & Psychiatry.\n\n### Guillain-Barré syndrome prevalence (crude rate), for all ages, (2022)\n\n- Data source: AIHW (2024) Australian Burden of Disease Study 2024\n\n### Migraine prevalence (crude rate), for all ages, (2022)\n\n### Myasthenia gravis prevalence (crude rate), for all ages, (2009)\n\n- Data source: Gattellari et al (2012) A national epidemiological study of Myasthenia Gravis in Australia. European Journal of Neurology.\n\n### Cerebral palsy prevalence (crude rate), for all ages, (2015–16)\n\n- Data source: Australian Cerebral Palsy Register 2025.\n\n### Chronic fatigue syndrome (ME/CFS) prevalence (crude rate), for all ages, (1990–2018)\n\n- Data source: Lim et al (2020) Systematic review and meta analysis of the prevalence of Chronic Fatigue Syndrome/Myalgic Encephalomyelitis (ME/CFS). Journal of Translational Medicine.\n\n### Huntington's disease prevalence (crude rate), for all ages, (2010–22)\n\n- Data source: Medina et al (2022) Prevalence and incidence of Huntington's Disease: An updated systematic review and meta-analysis. Movement Disorders.\n\n### Motor neurone disease prevalence (crude rate), for all ages, (2025)\n\n- Data source: MND Australia and Evohealth (2025) Every moment matters: Addressing the human and economic toll of MND in Australia.\n\n### Multiple sclerosis prevalence (crude rate), for all ages, (2021)\n\n- Data source: MS Australia (2023) Health economic impact of Multiple Scelerosis in Australia in 2021.\n\n### Parkinson's disease prevalence (crude rate), for all ages, (2014)\n\n- Data source: Deloitte Access Economics (2015) Living with Parkinson's Disease: An updated economic analysis 2014. Fight Parkinson's.\n\nClose dialog\n\nGo back to top\n\nFeedback\n\nLast updated 25/08/2026 v30.0\n\nBack to top\n\n### AIHW\n\n- About us\n\n- Our reports\n\n- Our data\n\n- Newsroom\n\n### Using AIHW\n\n- Accessibility\n\n- Copyright\n\n- Disclaimer\n\n- Indexed list of files\n\n- Site map\n\n### Quick links\n\n- AIHW Ethics Committee\n\n- Crisis and support services\n\n- Data on request\n\n- Login\n\n### Connect with us\n\nConnect with AIHW on LinkedIn Follow AIHW on Instagram Visit AIHW on YouTube\n\n© Australian Institute of Health and Welfare 2026\n\nClose\n\n## Search\n\nReset search\n\nSubmit search\n\nKeep typing to see search results...\n\nSorry, we couldn't find any results matching\n\nTo help find what you're looking for:\n\n- Check your spelling and try again\n\n- using a more general term\n\n- keep your search term short and simple\n\n- try looking in A-Z topics\n\n### Other ways to browse\n\nA-Z Topics\n\nView all search results\n\n## Feedback\n\nWe'd love to know any feedback that you have about the AIHW website, its contents or reports.\n\nName\n\nEmail\n\nComments\n\nRequired fields\n\nThe browser you are using to browse this website is outdated and some features may not display properly or be accessible to you. Please use a more recent browser for the best user experience.\n\n\n\n## Links found on page\n\n- Aboriginal and Torres Strait Islander Health Performance Framework: https://www.indigenoushpf.gov.au/\n\n- Australian Mesothelioma Registry: http://mesothelioma-australia.com/home/\n\n- GEN Aged Care Data: http://www.gen-agedcaredata.gov.au\n\n- Housing data: https://www.housingdata.gov.au/\n\n- Metadata Online Registry (METEOR): http://meteor.aihw.gov.au/\n\n- Regional Insights for Indigenous Communities: https://www.rific.gov.au\n\n- Contact us: https://www.aihw.gov.au/contact-us\n\n- Help & tools: https://www.aihw.gov.au/help-tools\n\n- Increase text size: https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard\n\n- https://www.aihw.gov.au/: https://www.aihw.gov.au/\n\n- Reports & data Use down arrow to expand: https://www.aihw.gov.au/reports-data\n\n- A: https://www.aihw.gov.au/reports-data/a-z-topics#A\n\n- B: https://www.aihw.gov.au/reports-data/a-z-topics#B\n\n- C: https://www.aihw.gov.au/reports-data/a-z-topics#C\n\n- D: https://www.aihw.gov.au/reports-data/a-z-topics#D\n\n- E: https://www.aihw.gov.au/reports-data/a-z-topics#E\n\n- F: https://www.aihw.gov.au/reports-data/a-z-topics#F\n\n- G: https://www.aihw.gov.au/reports-data/a-z-topics#G\n\n- H: https://www.aihw.gov.au/reports-data/a-z-topics#H\n\n- I: https://www.aihw.gov.au/reports-data/a-z-topics#I\n\n- J: https://www.aihw.gov.au/reports-data/a-z-topics#J\n\n- K: https://www.aihw.gov.au/reports-data/a-z-topics#K\n\n- L: https://www.aihw.gov.au/reports-data/a-z-topics#L\n\n- M: https://www.aihw.gov.au/reports-data/a-z-topics#M\n\n- N: https://www.aihw.gov.au/reports-data/a-z-topics#N\n\n- O: https://www.aihw.gov.au/reports-data/a-z-topics#O\n\n- P: https://www.aihw.gov.au/reports-data/a-z-topics#P\n\n- Q: https://www.aihw.gov.au/reports-data/a-z-topics#Q\n\n- R: https://www.aihw.gov.au/reports-data/a-z-topics#R\n\n- S: https://www.aihw.gov.au/reports-data/a-z-topics#S\n\n- T: https://www.aihw.gov.au/reports-data/a-z-topics#T\n\n- V: https://www.aihw.gov.au/reports-data/a-z-topics#V\n\n- W: https://www.aihw.gov.au/reports-data/a-z-topics#W\n\n- Y: https://www.aihw.gov.au/reports-data/a-z-topics#Y\n\n- See all topics: https://www.aihw.gov.au/reports-data/a-z-topics\n\n- Latest releases: https://www.aihw.gov.au/reports-data/latest-reports\n\n- Educational resources: https://www.aihw.gov.au/reports-data/downloadable-resources\n\n- Australia's health: https://www.aihw.gov.au/reports-data/australias-health\n\n- Australia's welfare: https://www.aihw.gov.au/reports-data/australias-welfare\n\n- Australia's health performance: https://www.aihw.gov.au/reports-data/australias-health-performance\n\n- Hospitals: https://www.aihw.gov.au/hospitals\n\n- Australia’s Disability Strategy: https://www.aihw.gov.au/Australias-Disability-Strategy\n\n- Linked data assets: https://www.aihw.gov.au/About-our-data/Linked-data-assets\n\n- First Nations people: https://www.aihw.gov.au/reports-data/population-groups/Indigenous-Australians\n\n- Suicide & self-harm monitoring: https://www.aihw.gov.au/suicide-self-harm-monitoring\n\n- Family, domestic & sexual violence: https://www.aihw.gov.au/family-domestic-and-sexual-violence\n\n- Australian Centre for Monitoring Population Health: https://www.aihw.gov.au/reports-data/population-health-monitoring\n\n- About our data Use down arrow to expand: https://www.aihw.gov.au/about-our-data\n\n- Our data collections: https://www.aihw.gov.au/about-our-data/our-data-collections\n\n- AIHW data by geography: https://www.aihw.gov.au/about-our-data/aihw-data-by-geography\n\n- AIHW data by indicators: https://www.aihw.gov.au/about-our-data/aihw-data-by-indicators\n\n- AIHW data by sex and gender: https://www.aihw.gov.au/about-our-data/aihw-data-by-sex-and-gender\n\n- Accessing data through the AIHW: https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw\n\n- Data governance: https://www.aihw.gov.au/about-our-data/data-governance\n\n- Other government data: https://www.aihw.gov.au/about-our-data/accessing-australian-government-data\n\n- AIHW linked data assets: https://www.aihw.gov.au/about-our-data/linked-data-assets\n\n- Statistical terms and concepts: https://www.aihw.gov.au/about-our-data/statistical-glossary\n\n- Vulnerability and disclosure policy: https://www.aihw.gov.au/about-our-data/vulnerability-and-disclosure-policy\n\n- Our services Use down arrow to expand: https://www.aihw.gov.au/our-services\n\n- Data integration: https://www.aihw.gov.au/our-services/data-integration\n\n- Metadata support: https://www.aihw.gov.au/our-services/metadata-support\n\n- Validata: https://www.aihw.gov.au/our-services/validata\n\n- About us Use down arrow to expand: https://www.aihw.gov.au/about-us\n\n- Our role & organisation goals: https://www.aihw.gov.au/about-us/our-role-organisation-goals\n\n- Our people & structure: https://www.aihw.gov.au/about-us/our-people-structure\n\n- Our governance: https://www.aihw.gov.au/about-us/our-governance\n\n- Our committees: https://www.aihw.gov.au/about-us/committees\n\n- Our impact: https://www.aihw.gov.au/about-us/our-case-studies\n\n- Our international role: https://www.aihw.gov.au/about-us/international-collaboration\n\n- Careers: https://www.aihw.gov.au/about-us/careers\n\n- Corporate publications: https://www.aihw.gov.au/about-us/corporate-publications\n\n- Freedom of Information: https://www.aihw.gov.au/about-us/freedom-of-information\n\n- Gifts & benefits register: https://www.aihw.gov.au/about-us/gifts-benefits-register\n\n- Modern slavery: https://www.aihw.gov.au/about-us/modern-slavery\n\n- Privacy: https://www.aihw.gov.au/about-us/privacy-policy\n\n- Public interest disclosure: https://www.aihw.gov.au/about-us/public-interest-disclosure\n\n- Reporting suspected fraud: https://www.aihw.gov.au/about-us/reporting-suspected-fraud\n\n- Scam warning: https://www.aihw.gov.au/about-us/scam-warning\n\n- Submissions to inquiries: https://www.aihw.gov.au/about-us/submissions\n\n- Tenders: https://www.aihw.gov.au/about-us/tenders\n\n- Newsroom Use down arrow to expand: https://www.aihw.gov.au/news-media\n\n- Media releases: https://www.aihw.gov.au/news-media/media-releases\n\n- Latest news & events: https://www.aihw.gov.au/news-media/news\n\n- Upcoming releases: https://www.aihw.gov.au/news-media/upcoming-releases\n\n- Our podcast – Behind the data: https://www.aihw.gov.au/news-media/podcasts\n\n- Chronic conditions dashboard: https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard\n\n- Share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard\n\n- Share via Twitter: https://twitter.com/intent/tweet?text=Chronic%20conditions%20dashboard&url=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard\n\n- Share via Linkedin: https://www.linkedin.com/shareArticle?mini=true&title=Chronic%20conditions%20dashboard&url=https://www.aihw.gov.au/reports/chronic-disease/chronic-conditions-dashboard/conditions-dashboard\n\n- Share via email: https://www.aihw.gov.au/cdn-cgi/l/email-protection#c2fdb1b7a0a8a7a1b6ff81aab0adacaba1e7f0f2a1adaca6abb6abadacb1e7f0f2a6a3b1aaa0ada3b0a6e4a3afb2f9a0ada6bbffaab6b6b2b1f8ededb5b5b5eca3abaab5eca5adb4eca3b7edb0a7b2adb0b6b1eda1aab0adacaba1efa6abb1a7a3b1a7eda1aab0adacaba1efa1adaca6abb6abadacb1efa6a3b1aaa0ada3b0a6eda1adaca6abb6abadacb1efa6a3b1aaa0ada3b0a6\n\n- here: https://www.aihw.gov.au/reports/australias-health/chronic-conditions#table1\n\n- See report for more information: https://www.aihw.gov.au/reports/australias-health/chronic-conditions\n\n- here: https://www.aihw.gov.au/reports/chronic-disease/multimorbidity-in-australia/contents/technical-notes\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-disease/multimorbidity-in-australia/contents/summary\n\n- See report for more information: https://www.aihw.gov.au/reports/cancer/cancer-data-in-australia/contents/overview\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-kidney-disease/chronic-kidney-disease/contents/summary\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/summary#prevalence\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-respiratory-conditions/chronic-respiratory-conditions/contents/summary\n\n- See report for more information: https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/all-diabetes\n\n- See report for more information: https://www.aihw.gov.au/reports/neurological-conditions/neurological-conditions/contents/how-common-are-neurological-conditions-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/dementia/dementia-in-aus/contents/summary#Common\n\n- See report for more information: https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/summary\n\n- See report for more information: https://www.aihw.gov.au/reports/cancer/mesothelioma-in-australia-2024/contents/summary\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-respiratory-conditions/asthma\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-respiratory-conditions/copd\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-respiratory-conditions/allergic-rhinitis-hay-fever\n\n- See report for more information: https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/type-1-diabetes\n\n- See report for more information: https://www.aihw.gov.au/reports/diabetes/diabetes/contents/how-common-is-diabetes/type-2-diabetes\n\n- See report for more information: https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/all-heart-stroke-and-vascular-disease/coronary-heart-disease\n\n- See report for more information: https://www.aihw.gov.au/reports/heart-stroke-vascular-diseases/hsvd-facts/contents/all-heart-stroke-and-vascular-disease/stroke\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/gout#prevalence\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/osteoarthritis#prevalence\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/Osteoporosis/osteopenia-1#prevalence\n\n- See report for more information: https://www.aihw.gov.au/reports/chronic-musculoskeletal-conditions/musculoskeletal-conditions/contents/rheumatoid-arthritis#prevalence\n\n- See report for more information: https://www.aihw.gov.au/reports/epilepsy\n\n- See report for more information: https://www.aihw.gov.au/reports/functional-neurological-disorders\n\n- See report for more information: https://www.aihw.gov.au/reports/guillain-barre-syndrome-in-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/migraine-and-headache-disorders\n\n- See report for more information: https://www.aihw.gov.au/reports/myasthenia-gravis-in-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/cerebral-palsy-in-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/neurological-conditions/chronic-fatigue-syndrome-in-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/huntingtons-disease-in-australia\n\n- See report for more information: https://www.aihw.gov.au/reports/mnd\n\n- See report for more information: https://www.aihw.gov.au/reports/neurological-conditions/parkinsons-disease-in-australia\n\n- Accessibility: https://www.aihw.gov.au/help-tools/accessibility\n\n- Copyright: https://www.aihw.gov.au/copyright\n\n- Disclaimer: https://www.aihw.gov.au/disclaimer\n\n- Indexed list of files: https://www.aihw.gov.au/indexed-list-of-files\n\n- Site map: https://www.aihw.gov.au/help-tools/sitemap\n\n- AIHW Ethics Committee: https://www.aihw.gov.au/about-us/committees/aihw-ethics-committee\n\n- Crisis and support services: https://www.aihw.gov.au/help-tools/support\n\n- Data on request: https://www.aihw.gov.au/about-our-data/accessing-data-through-the-aihw/data-on-request\n\n- Login: https://www.aihw.gov.au/analyst-portal-sites/analyst-login\n\n- Connect with AIHW on LinkedIn: https://au.linkedin.com/company/australian-institute-of-health-and-welfare\n\n- Follow AIHW on Instagram: https://www.instagram.com/aihw.gov.au/\n\n- Visit AIHW on YouTube: https://www.youtube.com/channel/UClGeY8v8epJoYYIIVLASXug"
+}

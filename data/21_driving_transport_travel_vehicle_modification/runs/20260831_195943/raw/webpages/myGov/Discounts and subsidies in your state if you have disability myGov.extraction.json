@@ -1,0 +1,299 @@
+{
+  "source_id": "mygov:disability-discounts-subsidies-state",
+  "title": "Discounts and subsidies in your state if you have disability | myGov",
+  "publisher": "myGov",
+  "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability",
+  "retrieved_at": "2026-08-31",
+  "topic": "Driving, Transport, Travel And Vehicle Modification",
+  "content_type": "text/html;charset=utf-8",
+  "text_character_count": 10141,
+  "crawl_depth": 0,
+  "seed_url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#main"
+    },
+    {
+      "text": "https://my.gov.au/en",
+      "url": "https://my.gov.au/en"
+    },
+    {
+      "text": "Browse",
+      "url": "https://my.gov.au/en/services"
+    },
+    {
+      "text": "Search",
+      "url": "https://my.gov.au/en/search"
+    },
+    {
+      "text": "Help",
+      "url": "https://my.gov.au/en/about/help"
+    },
+    {
+      "text": "Raising kids",
+      "url": "https://my.gov.au/en/services/raising-kids"
+    },
+    {
+      "text": "Living arrangements",
+      "url": "https://my.gov.au/en/services/living-arrangements"
+    },
+    {
+      "text": "Ageing",
+      "url": "https://my.gov.au/en/services/ageing"
+    },
+    {
+      "text": "Work",
+      "url": "https://my.gov.au/en/services/work"
+    },
+    {
+      "text": "Education",
+      "url": "https://my.gov.au/en/services/education"
+    },
+    {
+      "text": "Health and disability",
+      "url": "https://my.gov.au/en/services/health-and-disability"
+    },
+    {
+      "text": "Living with disability",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability"
+    },
+    {
+      "text": "Companion card",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#companion-card"
+    },
+    {
+      "text": "Transport discounts",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#transport-discounts"
+    },
+    {
+      "text": "Mobility parking",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#mobility-parking"
+    },
+    {
+      "text": "Patient travel subsidy",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#patient-travel-subsidy"
+    },
+    {
+      "text": "Other discounts or subsidies",
+      "url": "https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#other-discounts-or-subsidies"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.act.gov.au/community/people-with-disability/companion-card"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.nsw.gov.au/community-services/companion-card"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://ntcompanioncard.org.au/"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.qld.gov.au/disability/out-and-about/subsidies-concessions-passes/companion-card"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.sa.gov.au/topics/care-and-support/disability/companion-card"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.companioncard.tas.gov.au/"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.companioncard.vic.gov.au/"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.wacompanioncard.org.au/"
+    },
+    {
+      "text": "People with disabilities",
+      "url": "https://www.transport.act.gov.au/tickets-and-myway/concessions/disabilities"
+    },
+    {
+      "text": "Taxi Subsidy Scheme",
+      "url": "https://www.revenue.act.gov.au/community-assistance/taxi-subsidy-scheme"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance#transport"
+    },
+    {
+      "text": "Help getting around for seniors and people with a disability",
+      "url": "https://nt.gov.au/driving/public-transport-cycling/help-getting-around"
+    },
+    {
+      "text": "Transport concessions",
+      "url": "https://www.qld.gov.au/community/cost-of-living-support/concessions/transport-concessions"
+    },
+    {
+      "text": "Getting around with a disability or mobility aid",
+      "url": "https://www.sa.gov.au/topics/driving-and-transport/disability"
+    },
+    {
+      "text": "Transport Services Concessions",
+      "url": "https://www.transport.tas.gov.au/public_transport/concessions"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.tas.gov.au/services/health/disability-assistance/"
+    },
+    {
+      "text": "Accessible travel",
+      "url": "https://transport.vic.gov.au/plan-a-journey/accessible-travel"
+    },
+    {
+      "text": "Community transport providers",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupports/community-transport-providers"
+    },
+    {
+      "text": "Transwa Concession",
+      "url": "https://www.transwa.wa.gov.au/fares/concessions#:~:text=If%20you%20are%20aged%2016%20years%20or%20over,to%20a%2050%25%20concession%20on%20all%20Transwa%20services."
+    },
+    {
+      "text": "Travel subsidies",
+      "url": "https://www.transport.wa.gov.au/on-demand-transport/passengers/travel-subsidies"
+    },
+    {
+      "text": "Disability parking permits",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/traffic-and-parking/disability-parking-permits"
+    },
+    {
+      "text": "Mobility parking permits",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits"
+    },
+    {
+      "text": "Disability Parking Permits",
+      "url": "https://www.darwin.nt.gov.au/resident-services/parking/parking-permits/disability-parking-permits"
+    },
+    {
+      "text": "Parking permits",
+      "url": "https://www.qld.gov.au/disability/out-and-about/travel-transport/driving/parking-permits"
+    },
+    {
+      "text": "Disability parking permit",
+      "url": "https://www.sa.gov.au/topics/driving-and-transport/disability/disability-parking-permit"
+    },
+    {
+      "text": "Disability Parking Permits",
+      "url": "https://www.transport.tas.gov.au/public_transport/concessions/disability_parking_permits"
+    },
+    {
+      "text": "Accessible parking permits",
+      "url": "https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/permits/accessible-parking-permits"
+    },
+    {
+      "text": "Apply for an ACROD parking permit",
+      "url": "https://www.wa.gov.au/service/community-services/social-justice-and-equity/apply-acrod-parking-permit"
+    },
+    {
+      "text": "Travelling to and out of Canberra for treatment",
+      "url": "https://www.canberrahealthservices.act.gov.au/before,-during-and-after-your-care/staying-at-canberra-hospital/before-you-arrive/getting-here-and-getting-around/travelling-from-outside-canberra"
+    },
+    {
+      "text": "Isolated Patients Travel and Accommodation Assistance Scheme",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients"
+    },
+    {
+      "text": "Patient Assistance Travel Scheme",
+      "url": "https://nt.gov.au/wellbeing/health-subsidies-support-and-home-visits/patient-assistance-travel-scheme"
+    },
+    {
+      "text": "The Patient Travel Subsidy Scheme",
+      "url": "https://www.qld.gov.au/health/services/travel/subsidies"
+    },
+    {
+      "text": "Patient Assistance Transport Scheme",
+      "url": "https://www.pats.sa.gov.au/"
+    },
+    {
+      "text": "Patient Travel Assistance Scheme",
+      "url": "https://www.health.tas.gov.au/patients/health-costs/ptas"
+    },
+    {
+      "text": "Victorian Patient Transport Assistance Scheme",
+      "url": "https://www.health.vic.gov.au/rural-health/victorian-patient-transport-assistance-scheme-vptas"
+    },
+    {
+      "text": "Patient Assisted Travel Scheme",
+      "url": "https://www.wacountry.health.wa.gov.au/Our-patients/Patient-Assisted-Travel-Scheme-PATS"
+    },
+    {
+      "text": "what support you can get with bills",
+      "url": "https://my.gov.au/en/services/work/managing-the-cost-of-living/managing-household-costs/managing-bills#support-with-bills"
+    },
+    {
+      "text": "About myGov",
+      "url": "https://my.gov.au/content/mygov/en/about"
+    },
+    {
+      "text": "Help using myGov",
+      "url": "https://my.gov.au/content/mygov/en/about/help"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://my.gov.au/content/mygov/en/about/help/contact"
+    },
+    {
+      "text": "Share feedback",
+      "url": "https://my.gov.au/content/mygov/en/about/feedback"
+    },
+    {
+      "text": "myGov User Audit",
+      "url": "https://my.gov.au/content/mygov/audit"
+    },
+    {
+      "text": "Raising kids",
+      "url": "https://my.gov.au/content/mygov/en/services/raising-kids"
+    },
+    {
+      "text": "Living arrangements",
+      "url": "https://my.gov.au/content/mygov/en/services/living-arrangements"
+    },
+    {
+      "text": "Ageing",
+      "url": "https://my.gov.au/content/mygov/en/services/ageing"
+    },
+    {
+      "text": "Work",
+      "url": "https://my.gov.au/content/mygov/en/services/work"
+    },
+    {
+      "text": "Education",
+      "url": "https://my.gov.au/content/mygov/en/services/education"
+    },
+    {
+      "text": "Health and disability",
+      "url": "https://my.gov.au/content/mygov/en/services/health-and-disability"
+    },
+    {
+      "text": "Terms of use",
+      "url": "https://my.gov.au/content/mygov/en/about/terms"
+    },
+    {
+      "text": "Privacy and security",
+      "url": "https://my.gov.au/content/mygov/en/about/privacy-and-security"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://my.gov.au/content/mygov/en/about/copyright"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://my.gov.au/content/mygov/en/about/accessibility"
+    },
+    {
+      "text": "Languages",
+      "url": "https://my.gov.au/content/mygov/en/languages"
+    },
+    {
+      "text": "https://my.gov.au/content/mygov/en",
+      "url": "https://my.gov.au/content/mygov/en"
+    }
+  ],
+  "text": "Discounts and subsidies in your state if you have disability | myGov\n\nSkip to main content\n\nBrowse Search\n\nHelp\n\nRaising kids Living arrangements Ageing Work Education Health and disability\n\nHome Health and disability Living with disability Discounts and subsidies in your state if you have disability\n\n# Discounts and subsidies in your state if you have disability\n\nYour state or territory government can help with discounts and subsidies if you have disability.\n\n## On this page\n\n- Companion card\n\n- Transport discounts\n\n- Mobility parking\n\n- Patient travel subsidy\n\n- Other discounts or subsidies\n\n## Companion card\n\nThe companion card is for people with disability who need a high level of care in the community. If you’re eligible for a companion card, your carer may get free entry into some venues.\n\nFind out more on your state or territory website.\n\nState or territory | Resource\n\nACT | Companion Card\n\nNSW | Companion Card\n\nNT | Companion Card\n\nQld | Companion Card\n\nSA | Companion Card\n\nTas | Companion Card\n\nVic | Companion Card\n\nWA | Companion Card\n\n## Transport discounts\n\nIn your state or territory, you may get:\n\n- cheaper tickets on public transport\n\n- taxi vouchers or subsidies\n\n- subsidies if you need transport for regular medical treatment.\n\nACT | People with disabilities | Taxi Subsidy Scheme\n\nNSW | Disability assistance\n\nNT | Help getting around for seniors and people with a disability\n\nQld | Transport concessions\n\nSA | Getting around with a disability or mobility aid\n\nTas | Transport Services Concessions | Disability assistance\n\nVic | Accessible travel | Community transport providers\n\nWA | Transwa Concession | Travel subsidies\n\n## Mobility parking\n\nIf you have disability, you may be eligible for a parking permit. Find out more on your state or territory website.\n\nACT | Disability parking permits\n\nNSW | Mobility parking permits\n\nNT | Disability Parking Permits\n\nQld | Parking permits\n\nSA | Disability parking permit\n\nTas | Disability Parking Permits\n\nVic | Accessible parking permits\n\nWA | Apply for an ACROD parking permit\n\n## Patient travel subsidy\n\nIf you need to travel a long distance for medical treatment, you may get a subsidy for travel and accommodation.\n\nACT | Travelling to and out of Canberra for treatment\n\nNSW | Isolated Patients Travel and Accommodation Assistance Scheme\n\nNT | Patient Assistance Travel Scheme\n\nQld | The Patient Travel Subsidy Scheme\n\nSA | Patient Assistance Transport Scheme\n\nTas | Patient Travel Assistance Scheme\n\nVic | Victorian Patient Transport Assistance Scheme\n\nWA | Patient Assisted Travel Scheme\n\n## Other discounts or subsidies\n\nIf you have disability, your state or territory may help with your household bills. Find out what support you can get with bills .\n\n#### Thank you for your feedback\n\nPage last updated: 1 December 2025\n\nAbout myGov Help using myGov Contact us Share feedback myGov User Audit Raising kids Living arrangements Ageing Work Education Health and disability Terms of use Privacy and security Copyright Accessibility Languages\n\n\n\n## Links found on page\n\n- Skip to main content: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#main\n\n- https://my.gov.au/en: https://my.gov.au/en\n\n- Browse: https://my.gov.au/en/services\n\n- Search: https://my.gov.au/en/search\n\n- Help: https://my.gov.au/en/about/help\n\n- Raising kids: https://my.gov.au/en/services/raising-kids\n\n- Living arrangements: https://my.gov.au/en/services/living-arrangements\n\n- Ageing: https://my.gov.au/en/services/ageing\n\n- Work: https://my.gov.au/en/services/work\n\n- Education: https://my.gov.au/en/services/education\n\n- Health and disability: https://my.gov.au/en/services/health-and-disability\n\n- Living with disability: https://my.gov.au/en/services/health-and-disability/living-with-disability\n\n- Companion card: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#companion-card\n\n- Transport discounts: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#transport-discounts\n\n- Mobility parking: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#mobility-parking\n\n- Patient travel subsidy: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#patient-travel-subsidy\n\n- Other discounts or subsidies: https://my.gov.au/en/services/health-and-disability/living-with-disability/discounts-and-subsidies-in-your-state-if-you-have-disability#other-discounts-or-subsidies\n\n- Companion Card: https://www.act.gov.au/community/people-with-disability/companion-card\n\n- Companion Card: https://www.nsw.gov.au/community-services/companion-card\n\n- Companion Card: https://ntcompanioncard.org.au/\n\n- Companion Card: https://www.qld.gov.au/disability/out-and-about/subsidies-concessions-passes/companion-card\n\n- Companion Card: https://www.sa.gov.au/topics/care-and-support/disability/companion-card\n\n- Companion Card: https://www.companioncard.tas.gov.au/\n\n- Companion Card: https://www.companioncard.vic.gov.au/\n\n- Companion Card: https://www.wacompanioncard.org.au/\n\n- People with disabilities: https://www.transport.act.gov.au/tickets-and-myway/concessions/disabilities\n\n- Taxi Subsidy Scheme: https://www.revenue.act.gov.au/community-assistance/taxi-subsidy-scheme\n\n- Disability assistance: https://www.service.nsw.gov.au/services/disability-assistance#transport\n\n- Help getting around for seniors and people with a disability: https://nt.gov.au/driving/public-transport-cycling/help-getting-around\n\n- Transport concessions: https://www.qld.gov.au/community/cost-of-living-support/concessions/transport-concessions\n\n- Getting around with a disability or mobility aid: https://www.sa.gov.au/topics/driving-and-transport/disability\n\n- Transport Services Concessions: https://www.transport.tas.gov.au/public_transport/concessions\n\n- Disability assistance: https://www.service.tas.gov.au/services/health/disability-assistance/\n\n- Accessible travel: https://transport.vic.gov.au/plan-a-journey/accessible-travel\n\n- Community transport providers: https://www.betterhealth.vic.gov.au/health/servicesandsupports/community-transport-providers\n\n- Transwa Concession: https://www.transwa.wa.gov.au/fares/concessions#:~:text=If%20you%20are%20aged%2016%20years%20or%20over,to%20a%2050%25%20concession%20on%20all%20Transwa%20services.\n\n- Travel subsidies: https://www.transport.wa.gov.au/on-demand-transport/passengers/travel-subsidies\n\n- Disability parking permits: https://www.accesscanberra.act.gov.au/driving-transport-and-parking/traffic-and-parking/disability-parking-permits\n\n- Mobility parking permits: https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits\n\n- Disability Parking Permits: https://www.darwin.nt.gov.au/resident-services/parking/parking-permits/disability-parking-permits\n\n- Parking permits: https://www.qld.gov.au/disability/out-and-about/travel-transport/driving/parking-permits\n\n- Disability parking permit: https://www.sa.gov.au/topics/driving-and-transport/disability/disability-parking-permit\n\n- Disability Parking Permits: https://www.transport.tas.gov.au/public_transport/concessions/disability_parking_permits\n\n- Accessible parking permits: https://transport.vic.gov.au/road-and-active-transport/road-rules-and-safety/permits/accessible-parking-permits\n\n- Apply for an ACROD parking permit: https://www.wa.gov.au/service/community-services/social-justice-and-equity/apply-acrod-parking-permit\n\n- Travelling to and out of Canberra for treatment: https://www.canberrahealthservices.act.gov.au/before,-during-and-after-your-care/staying-at-canberra-hospital/before-you-arrive/getting-here-and-getting-around/travelling-from-outside-canberra\n\n- Isolated Patients Travel and Accommodation Assistance Scheme: https://www.iptaas.health.nsw.gov.au/for-patients\n\n- Patient Assistance Travel Scheme: https://nt.gov.au/wellbeing/health-subsidies-support-and-home-visits/patient-assistance-travel-scheme\n\n- The Patient Travel Subsidy Scheme: https://www.qld.gov.au/health/services/travel/subsidies\n\n- Patient Assistance Transport Scheme: https://www.pats.sa.gov.au/\n\n- Patient Travel Assistance Scheme: https://www.health.tas.gov.au/patients/health-costs/ptas\n\n- Victorian Patient Transport Assistance Scheme: https://www.health.vic.gov.au/rural-health/victorian-patient-transport-assistance-scheme-vptas\n\n- Patient Assisted Travel Scheme: https://www.wacountry.health.wa.gov.au/Our-patients/Patient-Assisted-Travel-Scheme-PATS\n\n- what support you can get with bills: https://my.gov.au/en/services/work/managing-the-cost-of-living/managing-household-costs/managing-bills#support-with-bills\n\n- About myGov: https://my.gov.au/content/mygov/en/about\n\n- Help using myGov: https://my.gov.au/content/mygov/en/about/help\n\n- Contact us: https://my.gov.au/content/mygov/en/about/help/contact\n\n- Share feedback: https://my.gov.au/content/mygov/en/about/feedback\n\n- myGov User Audit: https://my.gov.au/content/mygov/audit\n\n- Raising kids: https://my.gov.au/content/mygov/en/services/raising-kids\n\n- Living arrangements: https://my.gov.au/content/mygov/en/services/living-arrangements\n\n- Ageing: https://my.gov.au/content/mygov/en/services/ageing\n\n- Work: https://my.gov.au/content/mygov/en/services/work\n\n- Education: https://my.gov.au/content/mygov/en/services/education\n\n- Health and disability: https://my.gov.au/content/mygov/en/services/health-and-disability\n\n- Terms of use: https://my.gov.au/content/mygov/en/about/terms\n\n- Privacy and security: https://my.gov.au/content/mygov/en/about/privacy-and-security\n\n- Copyright: https://my.gov.au/content/mygov/en/about/copyright\n\n- Accessibility: https://my.gov.au/content/mygov/en/about/accessibility\n\n- Languages: https://my.gov.au/content/mygov/en/languages\n\n- https://my.gov.au/content/mygov/en: https://my.gov.au/content/mygov/en"
+}

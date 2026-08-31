@@ -1,0 +1,12 @@
+{
+  "topic_id": "19_genetics_family_risk_testing",
+  "topic_title": "Genetics, Family Risk And Genetic Testing",
+  "run_id": "20260831_194623",
+  "retrieved_at": "2026-08-31",
+  "run_folder": "C:\\Users\\User1\\Downloads\\MND DATA\\19_genetics_family_risk_testing\\runs\\20260831_194623",
+  "sources_downloaded": 10,
+  "chunks_written": 84,
+  "genetics_records_written": 9,
+  "failure_count": 3,
+  "failures_path": "C:\\Users\\User1\\Downloads\\MND DATA\\19_genetics_family_risk_testing\\runs\\20260831_194623\\metadata\\download_failures.txt"
+}

@@ -1,0 +1,703 @@
+{
+  "source_id": "nsw-health:mnd-notifiable-2026",
+  "title": "Minns Labor Government makes motor neurone disease notifiable",
+  "publisher": "NSW Health",
+  "url": "https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx",
+  "retrieved_at": "2026-08-31",
+  "topic": "Risk Factors, Epidemiology, Registries And Notification",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24736,
+  "crawl_depth": 0,
+  "seed_url": "https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx",
+  "links": [
+    {
+      "text": "Skip to content",
+      "url": "https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx#maincontent"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.health.nsw.gov.au/pages/contact.aspx"
+    },
+    {
+      "text": "In an emergency",
+      "url": "https://www.health.nsw.gov.au/emergency"
+    },
+    {
+      "text": "Print Page",
+      "url": "javascript:window.print();"
+    },
+    {
+      "text": "Increase Font Size",
+      "url": "https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.health.nsw.gov.au/careers/Pages/default.aspx"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.health.nsw.gov.au/careers"
+    },
+    {
+      "text": "Search for a job",
+      "url": "https://jobs.health.nsw.gov.au/"
+    },
+    {
+      "text": "Aboriginal workforce - Stepping Up",
+      "url": "http://www.steppingup.health.nsw.gov.au/"
+    },
+    {
+      "text": "Workforce planning and culture",
+      "url": "https://www.health.nsw.gov.au/workforce/Pages/default.aspx"
+    },
+    {
+      "text": "Recruitment initiatives",
+      "url": "https://www.health.nsw.gov.au/careers/Pages/campaigns-and-initiatives.aspx"
+    },
+    {
+      "text": "Map My Health Career",
+      "url": "http://www.mapmycareer.health.nsw.gov.au/Pages/Default.aspx"
+    },
+    {
+      "text": "Remuneration and conditions",
+      "url": "https://www.health.nsw.gov.au/careers/conditions/pages/default.aspx"
+    },
+    {
+      "text": "Training programs",
+      "url": "https://www.health.nsw.gov.au/training/pages/default.aspx"
+    },
+    {
+      "text": "Imagine Rural",
+      "url": "https://www.health.nsw.gov.au/careers/imagine-rural/Pages/default.aspx"
+    },
+    {
+      "text": "Human resources - e-compendium",
+      "url": "https://www.health.nsw.gov.au/careers/hrcompendium/pages/default.aspx"
+    },
+    {
+      "text": "Clinical placements",
+      "url": "https://www.health.nsw.gov.au/careers/student_clearance/pages/default.aspx"
+    },
+    {
+      "text": "For students",
+      "url": "https://www.health.nsw.gov.au/careers/students/Pages/default.aspx"
+    },
+    {
+      "text": "Senior executives",
+      "url": "https://www.health.nsw.gov.au/careers/senior_executive_positions/pages/default.aspx"
+    },
+    {
+      "text": "Recruitment and employment policies",
+      "url": "https://www.health.nsw.gov.au/careers/policies/pages/default.aspx"
+    },
+    {
+      "text": "Medical career planning",
+      "url": "https://www.health.nsw.gov.au/careers/Pages/career-planning.aspx"
+    },
+    {
+      "text": "Public",
+      "url": "https://www.health.nsw.gov.au/public/Pages/default.aspx"
+    },
+    {
+      "text": "Find a hospital or health service",
+      "url": "https://www.health.nsw.gov.au/hospitals/Pages/default.aspx"
+    },
+    {
+      "text": "Find information by health topic",
+      "url": "https://www.health.nsw.gov.au/pages/a2z.aspx"
+    },
+    {
+      "text": "Kids and families",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/Pages/default.aspx"
+    },
+    {
+      "text": "Urgent Care Services",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Pages/urgent-care-services.aspx"
+    },
+    {
+      "text": "Aboriginal health",
+      "url": "https://www.health.nsw.gov.au/aboriginal/pages/default.aspx"
+    },
+    {
+      "text": "Childhood vaccinations",
+      "url": "https://www.health.nsw.gov.au/immunisation/app/pages/default.aspx"
+    },
+    {
+      "text": "Coming into hospital",
+      "url": "https://www.health.nsw.gov.au/hospitals/going_to_hospital/Pages/default.aspx"
+    },
+    {
+      "text": "Disability",
+      "url": "https://www.health.nsw.gov.au/disability/Pages/default.aspx"
+    },
+    {
+      "text": "Common childhood infections",
+      "url": "https://www.health.nsw.gov.au/Infectious/factsheets/Pages/school-exclusion-periods.aspx"
+    },
+    {
+      "text": "Support while in hospital",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Pages/we-are-here-for-you.aspx"
+    },
+    {
+      "text": "Infectious diseases",
+      "url": "https://www.health.nsw.gov.au/Infectious"
+    },
+    {
+      "text": "Primary school dental",
+      "url": "https://www.health.nsw.gov.au/oralhealth/primaryschooldental/Pages/default.aspx"
+    },
+    {
+      "text": "Provide feedback on your experience",
+      "url": "https://www.health.nsw.gov.au/patientconcerns/Pages/default.aspx"
+    },
+    {
+      "text": "LGBTIQ+ health",
+      "url": "https://www.health.nsw.gov.au/lgbtiq-health/Pages/default.aspx"
+    },
+    {
+      "text": "Assisted reproductive technology",
+      "url": "https://www.health.nsw.gov.au/art/Pages/default.aspx"
+    },
+    {
+      "text": "Emergency department waiting times",
+      "url": "https://www.emergencywait.health.nsw.gov.au/"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/Pages/default.aspx"
+    },
+    {
+      "text": "Pregnancy options",
+      "url": "https://www.health.nsw.gov.au/women/pregnancyoptions/Pages/default.aspx"
+    },
+    {
+      "text": "Patient care",
+      "url": "https://www.health.nsw.gov.au/patients/Pages/default.aspx"
+    },
+    {
+      "text": "Public dental services",
+      "url": "https://www.health.nsw.gov.au/oralhealth/Pages/default.aspx"
+    },
+    {
+      "text": "Violence, abuse and neglect",
+      "url": "https://www.health.nsw.gov.au/parvan"
+    },
+    {
+      "text": "Transport for health",
+      "url": "https://www.health.nsw.gov.au/transport/Pages/default.aspx"
+    },
+    {
+      "text": "Palliative care",
+      "url": "https://www.health.nsw.gov.au/palliativecare/Pages/default.aspx"
+    },
+    {
+      "text": "Healthy living",
+      "url": "https://www.health.nsw.gov.au/healthyliving/Pages/default.aspx"
+    },
+    {
+      "text": "Healthy Eating Active Living",
+      "url": "https://www.health.nsw.gov.au/heal/Pages/default.aspx"
+    },
+    {
+      "text": "Immunisation",
+      "url": "https://www.health.nsw.gov.au/immunisation/pages/default.aspx"
+    },
+    {
+      "text": "Emergency preparedness",
+      "url": "https://www.health.nsw.gov.au/emergency_preparedness/pages/default.aspx"
+    },
+    {
+      "text": "Alcohol and other drugs - Your Room",
+      "url": "https://yourroom.health.nsw.gov.au/Pages/home.aspx"
+    },
+    {
+      "text": "Environmental health",
+      "url": "https://www.health.nsw.gov.au/environment/pages/default.aspx"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/services/Pages/support-contact-list.aspx"
+    },
+    {
+      "text": "Beat the heat",
+      "url": "https://www.health.nsw.gov.au/environment/beattheheat/Pages/default.aspx"
+    },
+    {
+      "text": "Quitting vaping",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/electronic-cigarettes.aspx"
+    },
+    {
+      "text": "Community sharps management",
+      "url": "https://www.health.nsw.gov.au/community-sharps/Pages/default.aspx"
+    },
+    {
+      "text": "Bushfires and smoke",
+      "url": "https://www.health.nsw.gov.au/environment/bushfire/Pages/default.aspx"
+    },
+    {
+      "text": "Stopping smoking",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/smoking-health-and-quitting.aspx"
+    },
+    {
+      "text": "Ending HIV",
+      "url": "https://www.health.nsw.gov.au/endinghiv"
+    },
+    {
+      "text": "Storms and floods",
+      "url": "https://www.health.nsw.gov.au/emergency_preparedness/weather/Pages/storms-and-floods.aspx"
+    },
+    {
+      "text": "Sexual health",
+      "url": "https://www.health.nsw.gov.au/sexualhealth/pages/default.aspx"
+    },
+    {
+      "text": "Hepatitis B and C",
+      "url": "https://www.health.nsw.gov.au/hepatitis/Pages/default.aspx"
+    },
+    {
+      "text": "Mosquito borne diseases",
+      "url": "https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/default.aspx"
+    },
+    {
+      "text": "Women's health",
+      "url": "https://www.health.nsw.gov.au/women/Pages/default.aspx"
+    },
+    {
+      "text": "Professionals",
+      "url": "https://www.health.nsw.gov.au/professionals/Pages/default.aspx"
+    },
+    {
+      "text": "Infectious diseases",
+      "url": "https://www.health.nsw.gov.au/Infectious/Pages/default.aspx"
+    },
+    {
+      "text": "Alcohol and other drugs",
+      "url": "https://www.health.nsw.gov.au/aod/Pages/default.aspx"
+    },
+    {
+      "text": "Nursing and midwifery",
+      "url": "https://www.health.nsw.gov.au/nursing/Pages/default.aspx"
+    },
+    {
+      "text": "Pharmaceutical services",
+      "url": "https://www.health.nsw.gov.au/pharmaceutical/Pages/default.aspx"
+    },
+    {
+      "text": "Maternity, child and family health",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/professionals/Pages/default.aspx"
+    },
+    {
+      "text": "Disease notification",
+      "url": "https://www.health.nsw.gov.au/infectious/pages/notification.aspx"
+    },
+    {
+      "text": "Healthy kids",
+      "url": "https://www.health.nsw.gov.au/heal/child/wellbeing"
+    },
+    {
+      "text": "Control guidelines",
+      "url": "https://www.health.nsw.gov.au/Infectious/controlguideline/pages/default.aspx"
+    },
+    {
+      "text": "Tobacco and smoking cessation",
+      "url": "https://www.health.nsw.gov.au/tobacco/pages/default.aspx"
+    },
+    {
+      "text": "Public health legislation",
+      "url": "https://www.health.nsw.gov.au/phact/Pages/default.aspx"
+    },
+    {
+      "text": "Multicultural health",
+      "url": "https://www.health.nsw.gov.au/multicultural/Pages/default.aspx"
+    },
+    {
+      "text": "Clinical ethics",
+      "url": "https://www.health.nsw.gov.au/clinicalethics/Pages/default.aspx"
+    },
+    {
+      "text": "Private health facilities",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Pages/default.aspx"
+    },
+    {
+      "text": "Outpatient referral criteria",
+      "url": "https://www.health.nsw.gov.au/outpatients/referrals/Pages/default.aspx"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.health.nsw.gov.au/research-hub/pages/default.aspx"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.health.nsw.gov.au/research-hub"
+    },
+    {
+      "text": "NSW Health and Medical Research",
+      "url": "https://www.medicalresearch.nsw.gov.au/"
+    },
+    {
+      "text": "Healthcare innovation portal",
+      "url": "https://www.health.nsw.gov.au/innovation/Pages/portal.aspx"
+    },
+    {
+      "text": "New health technologies",
+      "url": "https://www.health.nsw.gov.au/services/technology/Pages/default.aspx"
+    },
+    {
+      "text": "Human tissue",
+      "url": "https://www.health.nsw.gov.au/humantissue/Pages/default.aspx"
+    },
+    {
+      "text": "Data",
+      "url": "https://www.health.nsw.gov.au/data/Pages/default.aspx"
+    },
+    {
+      "text": "HealthStats NSW",
+      "url": "http://www.healthstats.nsw.gov.au/"
+    },
+    {
+      "text": "Population health research and evaluation",
+      "url": "https://www.health.nsw.gov.au/research/pages/default.aspx"
+    },
+    {
+      "text": "Epidemiology and evidence",
+      "url": "https://www.health.nsw.gov.au/epidemiology/Pages/default.aspx"
+    },
+    {
+      "text": "NSW population health surveys",
+      "url": "https://www.health.nsw.gov.au/surveys/Pages/default.aspx"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.health.nsw.gov.au/publications/Pages/default.aspx"
+    },
+    {
+      "text": "Publications",
+      "url": "https://www.health.nsw.gov.au/publications/pages/default.aspx"
+    },
+    {
+      "text": "Latest publications",
+      "url": "https://www.health.nsw.gov.au/publications/pages/publications.aspx"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.health.nsw.gov.au/factsheets/Pages/default.aspx"
+    },
+    {
+      "text": "Multilingual resources",
+      "url": "https://www.mhcs.health.nsw.gov.au/publications"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.health.nsw.gov.au/reports/pages/default.aspx"
+    },
+    {
+      "text": "Safety alerts",
+      "url": "https://www.health.nsw.gov.au/sabs/pages/default.aspx"
+    },
+    {
+      "text": "RSS feeds",
+      "url": "https://www.health.nsw.gov.au/Pages/rss.aspx"
+    },
+    {
+      "text": "Policy and procedure manuals",
+      "url": "https://www.health.nsw.gov.au/policies/manuals/Pages/default.aspx"
+    },
+    {
+      "text": "Policy directives, guidelines and information bulletins",
+      "url": "https://www1.health.nsw.gov.au/pds/Pages/pdslanding.aspx"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.health.nsw.gov.au/media/pages/default.aspx"
+    },
+    {
+      "text": "Media",
+      "url": "https://www.health.nsw.gov.au/media"
+    },
+    {
+      "text": "Media releases",
+      "url": "https://www.health.nsw.gov.au/news"
+    },
+    {
+      "text": "X (formerly Twitter)",
+      "url": "https://x.com/NSWHealth"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://facebook.com/NewSouthWalesHealth"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://au.linkedin.com/company/nsw-health"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/newsouthwaleshealth/"
+    },
+    {
+      "text": "TikTok",
+      "url": "https://www.tiktok.com/@nswhealth"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/NewSouthWalesHealth/featured"
+    },
+    {
+      "text": "About",
+      "url": "https://www.health.nsw.gov.au/about/Pages/default.aspx"
+    },
+    {
+      "text": "About",
+      "url": "https://www.health.nsw.gov.au/about"
+    },
+    {
+      "text": "NSW Health",
+      "url": "https://www.health.nsw.gov.au/about/nswhealth"
+    },
+    {
+      "text": "Strategic directions",
+      "url": "https://www.health.nsw.gov.au/priorities/Pages/default.aspx"
+    },
+    {
+      "text": "NSW Ministry of Health",
+      "url": "https://www.health.nsw.gov.au/about/ministry"
+    },
+    {
+      "text": "Regional health",
+      "url": "https://www.health.nsw.gov.au/regional/Pages/default.aspx"
+    },
+    {
+      "text": "Engaging with NSW Health",
+      "url": "https://www.health.nsw.gov.au/business/pages/default.aspx"
+    },
+    {
+      "text": "Local health districts",
+      "url": "https://www.health.nsw.gov.au/lhd/pages/default.aspx"
+    },
+    {
+      "text": "Future Health",
+      "url": "https://www.health.nsw.gov.au/about/nswhealth/Pages/future-health.aspx"
+    },
+    {
+      "text": "Working at the Ministry of Health",
+      "url": "https://www.health.nsw.gov.au/careers/ministry/Pages/default.aspx"
+    },
+    {
+      "text": "History of medical administration in NSW",
+      "url": "https://www.health.nsw.gov.au/about/history"
+    },
+    {
+      "text": "Climate risk and net zero",
+      "url": "https://www.health.nsw.gov.au/netzero/pages/default.aspx"
+    },
+    {
+      "text": "Our people",
+      "url": "https://www.health.nsw.gov.au/about/ministry/Pages/our-people.aspx"
+    },
+    {
+      "text": "Government Information Public Access Act (GIPA)",
+      "url": "https://www.health.nsw.gov.au/gipaa/pages/default.aspx"
+    },
+    {
+      "text": "Diversity Inclusion Belonging",
+      "url": "https://www.health.nsw.gov.au/workforce/dib/pages/default.aspx"
+    },
+    {
+      "text": "Ministers",
+      "url": "https://www.health.nsw.gov.au/ministers/Pages/default.aspx"
+    },
+    {
+      "text": "Ministers",
+      "url": "https://www.health.nsw.gov.au/ministers"
+    },
+    {
+      "text": "The Hon. Ryan Park MP",
+      "url": "https://www.health.nsw.gov.au/ministers/Pages/health.aspx"
+    },
+    {
+      "text": "The Hon. Rose Jackson, MLC",
+      "url": "https://www.health.nsw.gov.au/ministers/Pages/mentalhealth.aspx"
+    },
+    {
+      "text": "The Hon. David Harris, MP",
+      "url": "https://www.health.nsw.gov.au/ministers/Pages/medical-research.aspx"
+    },
+    {
+      "text": "Home",
+      "url": "https://www.health.nsw.gov.au/Pages/default.aspx"
+    },
+    {
+      "text": "News",
+      "url": "https://www.health.nsw.gov.au/news/Pages/default.aspx"
+    },
+    {
+      "text": "2026",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2026-nsw-health.aspx"
+    },
+    {
+      "text": "2025",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2025-nsw-health.aspx"
+    },
+    {
+      "text": "2024",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2024-nsw-health.aspx"
+    },
+    {
+      "text": "2023",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2023-nsw-health.aspx"
+    },
+    {
+      "text": "2022",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2022-nsw-health.aspx"
+    },
+    {
+      "text": "2021",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2021-nsw-health.aspx"
+    },
+    {
+      "text": "2020",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2020-nsw-health.aspx"
+    },
+    {
+      "text": "2026",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2026-minister-for-health.aspx"
+    },
+    {
+      "text": "2025",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2025-minister-for-health.aspx"
+    },
+    {
+      "text": "2024",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2024-minister-for-health.aspx"
+    },
+    {
+      "text": "2023",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2023-minister-for-health.aspx"
+    },
+    {
+      "text": "2026",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2026-minister-for-mental-health.aspx"
+    },
+    {
+      "text": "2025",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2025-minister-for-mental-health.aspx"
+    },
+    {
+      "text": "2024",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2024-minister-for-mental-health.aspx"
+    },
+    {
+      "text": "2023",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2023-minister-for-mental-health.aspx"
+    },
+    {
+      "text": "2026",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2026-minister-for-medical-research.aspx"
+    },
+    {
+      "text": "2025",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2025-minister-for-medical-research.aspx"
+    },
+    {
+      "text": "2024",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2024-minister-for-medical-research.aspx"
+    },
+    {
+      "text": "2023",
+      "url": "https://www.health.nsw.gov.au/news/Pages/2023-minister-for-medical-research.aspx"
+    },
+    {
+      "text": "Archive",
+      "url": "https://www.health.nsw.gov.au/news/Pages/archive.aspx"
+    },
+    {
+      "text": "healthdirect Australia",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Find a public hospital",
+      "url": "https://parking.health.nsw.gov.au/"
+    },
+    {
+      "text": "Patient care",
+      "url": "https://www.health.nsw.gov.au/patients/pages/default.aspx"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.health.nsw.gov.au/about/nswhealth/pages/structure.aspx"
+    },
+    {
+      "text": "Local health districts",
+      "url": "https://www.health.nsw.gov.au/lhd/Pages/default.aspx"
+    },
+    {
+      "text": "Health topics from A to Z",
+      "url": "https://www.health.nsw.gov.au/Pages/a2z.aspx"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/pages/default.aspx"
+    },
+    {
+      "text": "Safe Script",
+      "url": "https://www.health.nsw.gov.au/safescript"
+    },
+    {
+      "text": "Quit vaping or smoking",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/services-to-help-you-quit.aspx"
+    },
+    {
+      "text": "JMO recruitment",
+      "url": "https://www.health.nsw.gov.au/jmo/pages/default.aspx"
+    },
+    {
+      "text": "Raise It",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Going_To_hospital/Pages/raise-it.aspx"
+    },
+    {
+      "text": "Healthcare anywhere",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Pages/healthdirect.aspx"
+    },
+    {
+      "text": "Respiratory illness",
+      "url": "https://www.health.nsw.gov.au/Infectious/respiratory/Pages/default.aspx"
+    },
+    {
+      "text": "Childhood vaccination",
+      "url": "https://www.health.nsw.gov.au/immunisation/app/Pages/default.aspx"
+    },
+    {
+      "text": "NSW Government",
+      "url": "https://www.nsw.gov.au/"
+    },
+    {
+      "text": "Service NSW",
+      "url": "https://www.service.nsw.gov.au/"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.health.nsw.gov.au/accessibility"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.health.nsw.gov.au/pages/copyright.aspx"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.health.nsw.gov.au/pages/disclaimer.aspx"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.health.nsw.gov.au/pages/privacy.aspx"
+    },
+    {
+      "text": "RSS feeds",
+      "url": "https://www.health.nsw.gov.au/pages/rss.aspx"
+    }
+  ],
+  "text": "Minns Labor Government makes motor neurone disease notifiable\n\nSkip to content\n\n- Contact us\n\n- In an emergency\n\n- Print Page\n\n- Increase Font Size\n\n- Decrease Font Size\n\nMenu\n\nNSW Health\n\n- Careers\n\n## Careers\n\n- Search for a job\n\n- Aboriginal workforce - Stepping Up\n\n- Workforce planning and culture\n\n- Recruitment initiatives\n\n- Map My Health Career\n\n- Remuneration and conditions\n\n- Training programs\n\n- Imagine Rural\n\n- Human resources - e-compendium\n\n- Clinical placements\n\n- For students\n\n- Senior executives\n\n- Recruitment and employment policies\n\n- Medical career planning\n\n- Public\n\n## Public\n\n- Find a hospital or health service\n\n- Find information by health topic\n\n- Kids and families\n\n- Urgent Care Services\n\n- Aboriginal health\n\n- Childhood vaccinations\n\n- Coming into hospital\n\n- Disability\n\n- Common childhood infections\n\n- Support while in hospital\n\n- Infectious diseases\n\n- Primary school dental\n\n- Provide feedback on your experience\n\n- LGBTIQ+ health\n\n- Assisted reproductive technology\n\n- Emergency department waiting times\n\n- Mental health\n\n- Pregnancy options\n\n- Patient care\n\n- Public dental services\n\n- Violence, abuse and neglect\n\n- Transport for health\n\n- Palliative care\n\n- Healthy living\n\n## Healthy living\n\n- Healthy Eating Active Living\n\n- Immunisation\n\n- Emergency preparedness\n\n- Alcohol and other drugs - Your Room\n\n- Environmental health\n\n- Beat the heat\n\n- Quitting vaping\n\n- Community sharps management\n\n- Bushfires and smoke\n\n- Stopping smoking\n\n- Ending HIV\n\n- Storms and floods\n\n- Sexual health\n\n- Hepatitis B and C\n\n- Mosquito borne diseases\n\n- Women's health\n\n- Professionals\n\n## Professionals\n\n- Alcohol and other drugs\n\n- Nursing and midwifery\n\n- Pharmaceutical services\n\n- Maternity, child and family health\n\n- Disease notification\n\n- Healthy kids\n\n- Control guidelines\n\n- Tobacco and smoking cessation\n\n- Public health legislation\n\n- Multicultural health\n\n- Clinical ethics\n\n- Private health facilities\n\n- Outpatient referral criteria\n\n- Research\n\n## Research\n\n- NSW Health and Medical Research\n\n- Healthcare innovation portal\n\n- New health technologies\n\n- Human tissue\n\n- Data\n\n- HealthStats NSW\n\n- Population health research and evaluation\n\n- Epidemiology and evidence\n\n- NSW population health surveys\n\n- Publications\n\n## Publications\n\n- Latest publications\n\n- Fact sheets\n\n- Multilingual resources\n\n- Reports\n\n- Safety alerts\n\n- RSS feeds\n\n- Policy and procedure manuals\n\n- Policy directives, guidelines and information bulletins\n\n- Media\n\n## Media\n\n- Media releases\n\n- X (formerly Twitter)\n\n- Facebook\n\n- LinkedIn\n\n- Instagram\n\n- TikTok\n\n- YouTube\n\n- About\n\n## About\n\n- NSW Health\n\n- Strategic directions\n\n- NSW Ministry of Health\n\n- Regional health\n\n- Engaging with NSW Health\n\n- Local health districts\n\n- Future Health\n\n- Working at the Ministry of Health\n\n- History of medical administration in NSW\n\n- Climate risk and net zero\n\n- Our people\n\n- Government Information Public Access Act (GIPA)\n\n- Diversity Inclusion Belonging\n\n- Ministers\n\n## Ministers\n\n- The Hon. Ryan Park MP\n\n- The Hon. Rose Jackson, MLC\n\n- The Hon. David Harris, MP\n\n# Media Release\n\n- Home\n\n- News\n\n- Minns Labor Government makes motor neurone disease notifiable\n\n- Media releases Currently selected\n\n- 2026\n\n- 2025\n\n- 2024\n\n- 2023\n\n- 2022\n\n- 2021\n\n- 2020\n\n- The Hon. Ryan Park, MP\n\n- The Hon. Rose Jackson, MP\n\n- Archive\n\n# Minns Labor Government makes motor neurone disease notifiable\n\n31 August 2026\n\nContent 1\n\nNSW will become the first jurisdiction in Australia to report cases of people living with motor neurone disease, with the Minns Labor Government making it a notifiable condition from 1 September 2026.\n\nFrom tomorrow, medical practitioners will be required to notify NSW Health of motor neurone disease cases, following the publication of the Public Health Amendment (Motor Neurone Disease) Order 2026.\n\nThis Australian-first initiative will provide NSW Health with a stronger evidence base to better understand motor neurone disease, and may assist with the future planning of healthcare services and funding for research into its potential causes, and possible future treatment options.\n\nMotor neurone disease affects approximately eight in every 100,000 Australians, and 90 per cent of cases occur sporadically, without any apparent reason or family link.\n\nIt is a rare, progressive neurological disorder that causes rapid degeneration of muscle activity and can impair walking, talking, breathing and general functioning. There is no cure for the disease.\n\nA notifiable disease is a medical condition that by law must be reported to NSW Health by medical practitioners, hospitals, laboratories, and schools or childcare facilities, to help prevent and control the spread of certain diseases.\n\nData collected will include the case's full name, address, date of birth, age, gender, Aboriginality, language spoken at home, country of birth, occupation/school, date of onset, date of notification, and date of death if applicable. It will also include details about the referring doctor. The data collected will be kept confidential.\n\nThe Minns Labor Government committed $2 million funding for motor neurone disease research as part of the 2023-24 NSW Budget. This included awarding three research grants to help improve the wellbeing and health outcomes for people living with the disease, and drive advancements in diagnostic tools to improve rates of early detection and referral.\n\nThese research projects are funded until late 2027, with progress reports due later this year.\n\nQuotes attributable to Acting Premier of New South Wales Prue Car:\n\n“Motor Neurone Disease is devastating not only for those diagnosed, but for the family, friends and communities who surround them.\n\n“NSW is leading the country with a change that gives us the chance to properly assess the impact of this disease and use that knowledge to better support our healthcare services.\n\n“This is about building better understanding today so we can work towards treatment options, and a step closer to a future with a potential cure.\"\n\nQuotes attributable to Minister for Health Ryan Park:\n\n“This is a practical step we are taking in the fight against motor neurone disease, and something advocates have been crying out for. Our hope is that by monitoring the disease, we might be able to understand it better.\n\n“There is a reason people call motor neurone disease the beast – it is unrelenting and unforgiving, and it slowly takes away a lot of what people hold dear.\n\n“We hope that by building this knowledge base, our incredible medical researchers and clinicians can do what they do best and develop preventive measures, better treatments, and maybe even a cure.\n\n“We saw what former Australian of the Year Neale Daniher did in his remarkable life to fight against motor neurone disease, and we're seeing what Jai Arrow is doing to combat it now – hopefully this small change can bring us one step closer to eliminating this awful disease.\"\n\nQuotes attributable to Minister for Medical Research David Harris:\n\n“Motor Neurone Disease destroys lives and we don't know its cause or its cure so it's vital we use every means possible to better understand it to one day beat it.\n\n“This Australian-first move to make it a notifiable condition will give our world class medical researchers and doctors critical knowledge to develop better ways to prevent and treat this terrible disease.\n\n“Building an evidence base builds on Minns Labor Government funding of research grants to help improve health and wellbeing outcomes of people living with MND.\"\n\nQuotes attributable to Independent Member for Murray Helen Dalton:\n\n“I have been advocating alongside Professor Dominic Rowe for seven years to make MND notifiable in NSW and to finally see it happen is a huge breakthrough.\n\n“For families in my electorate, this is deeply personal. We have seen alarmingly high rates of MND in parts of the Riverina and for years we have been asking the same question: why?\n\n“We cannot begin to find the cause if we do not have the data. From tomorrow, for the first time, we can start building a clear picture of who is living with this cruel disease and where they are.\n\n“This is a major global win but it is not the finish line.\n\n“We need to make sure every person living with MND is captured so researchers have the information they need to investigate possible causes, improve treatments and, ultimately, help find a cure.\"\n\nQuotes attributable to MND NSW CEO Liam O'Meara:\n\n“The NSW Governments decision to make MND a notifiable disease is a landmark step forward for our community.\n\n“Minister Park deserves real credit for mandating this change and ensuring it didn't get bogged down in lengthy parliamentary process.\n\n“It reflects years of determined advocacy from people like Professor Dominic Rowe, MP Helen Dalton, people with lived experience, their families and the wider MND community who fought to give MND the recognition and authority needed to drive meaningful reform. Better data will help reveal the true patterns of MND, giving us the insight needed to provide better models of care, improve services, strengthen research and ultimately drive progress toward prevention and a cure.\"\n\nQuotes attributable to Professor of Neurology, Macquarie University Dr Dominic Rowe AM:\n\n“It is estimated that 750 people are currently living with MND in NSW. This year, at least 300 people in NSW will be diagnosed with MND, and at least 300 people will die from MND.\n\n“Without understanding the cause, the ability to slow and stop MND remains a pipe dream, and people will continue to die rapidly.\n\n“Identifying who has MND is the first step to understanding the cause of sporadic MND. The register will enable this. It will enable careful research into the environmental causes of MND, without which we will never understand the mechanisms involved.\n\n“All people with MND want to be recognised. They want to be counted. They demand to be studied so that the cause of their disease is understood.\"​\n\nContent 2\n\n###### Patients and public\n\n- healthdirect Australia\n\n- Find a public hospital\n\n- ED waiting times\n\n###### NSW Health\n\n- Our structure\n\n- Your Ministers\n\n###### Publications\n\n- Policies and guidelines\n\n###### Popular links\n\n- Health topics from A to Z\n\n- Safe Script\n\n- Quit vaping or smoking\n\n###### Careers\n\n- JMO recruitment\n\n- Awards and conditions\n\n###### Campaigns\n\n- Raise It\n\n- Healthcare anywhere\n\n- Respiratory illness\n\n- Childhood vaccination\n\nNSW Health acknowledges the people of the many traditional countries and language groups of New South Wales. It acknowledges the wisdom of Elders past and present, and pays respect to all Aboriginal communities of today.\n\n- NSW Government\n\n- Service NSW\n\n- Jobs\n\n- Accessibility\n\n- Copyright\n\n- Disclaimer\n\n- Privacy\n\n\n\n## Links found on page\n\n- Skip to content: https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx#maincontent\n\n- Contact us: https://www.health.nsw.gov.au/pages/contact.aspx\n\n- In an emergency: https://www.health.nsw.gov.au/emergency\n\n- Print Page: javascript:window.print();\n\n- Increase Font Size: https://www.health.nsw.gov.au/news/Pages/20260831_00.aspx\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- Careers: https://www.health.nsw.gov.au/careers/Pages/default.aspx\n\n- Careers: https://www.health.nsw.gov.au/careers\n\n- Search for a job: https://jobs.health.nsw.gov.au/\n\n- Aboriginal workforce - Stepping Up: http://www.steppingup.health.nsw.gov.au/\n\n- Workforce planning and culture: https://www.health.nsw.gov.au/workforce/Pages/default.aspx\n\n- Recruitment initiatives: https://www.health.nsw.gov.au/careers/Pages/campaigns-and-initiatives.aspx\n\n- Map My Health Career: http://www.mapmycareer.health.nsw.gov.au/Pages/Default.aspx\n\n- Remuneration and conditions: https://www.health.nsw.gov.au/careers/conditions/pages/default.aspx\n\n- Training programs: https://www.health.nsw.gov.au/training/pages/default.aspx\n\n- Imagine Rural: https://www.health.nsw.gov.au/careers/imagine-rural/Pages/default.aspx\n\n- Human resources - e-compendium: https://www.health.nsw.gov.au/careers/hrcompendium/pages/default.aspx\n\n- Clinical placements: https://www.health.nsw.gov.au/careers/student_clearance/pages/default.aspx\n\n- For students: https://www.health.nsw.gov.au/careers/students/Pages/default.aspx\n\n- Senior executives: https://www.health.nsw.gov.au/careers/senior_executive_positions/pages/default.aspx\n\n- Recruitment and employment policies: https://www.health.nsw.gov.au/careers/policies/pages/default.aspx\n\n- Medical career planning: https://www.health.nsw.gov.au/careers/Pages/career-planning.aspx\n\n- Public: https://www.health.nsw.gov.au/public/Pages/default.aspx\n\n- Find a hospital or health service: https://www.health.nsw.gov.au/hospitals/Pages/default.aspx\n\n- Find information by health topic: https://www.health.nsw.gov.au/pages/a2z.aspx\n\n- Kids and families: https://www.health.nsw.gov.au/kidsfamilies/Pages/default.aspx\n\n- Urgent Care Services: https://www.health.nsw.gov.au/Hospitals/Pages/urgent-care-services.aspx\n\n- Aboriginal health: https://www.health.nsw.gov.au/aboriginal/pages/default.aspx\n\n- Childhood vaccinations: https://www.health.nsw.gov.au/immunisation/app/pages/default.aspx\n\n- Coming into hospital: https://www.health.nsw.gov.au/hospitals/going_to_hospital/Pages/default.aspx\n\n- Disability: https://www.health.nsw.gov.au/disability/Pages/default.aspx\n\n- Common childhood infections: https://www.health.nsw.gov.au/Infectious/factsheets/Pages/school-exclusion-periods.aspx\n\n- Support while in hospital: https://www.health.nsw.gov.au/Hospitals/Pages/we-are-here-for-you.aspx\n\n- Infectious diseases: https://www.health.nsw.gov.au/Infectious\n\n- Primary school dental: https://www.health.nsw.gov.au/oralhealth/primaryschooldental/Pages/default.aspx\n\n- Provide feedback on your experience: https://www.health.nsw.gov.au/patientconcerns/Pages/default.aspx\n\n- LGBTIQ+ health: https://www.health.nsw.gov.au/lgbtiq-health/Pages/default.aspx\n\n- Assisted reproductive technology: https://www.health.nsw.gov.au/art/Pages/default.aspx\n\n- Emergency department waiting times: https://www.emergencywait.health.nsw.gov.au/\n\n- Mental health: https://www.health.nsw.gov.au/mentalhealth/Pages/default.aspx\n\n- Pregnancy options: https://www.health.nsw.gov.au/women/pregnancyoptions/Pages/default.aspx\n\n- Patient care: https://www.health.nsw.gov.au/patients/Pages/default.aspx\n\n- Public dental services: https://www.health.nsw.gov.au/oralhealth/Pages/default.aspx\n\n- Violence, abuse and neglect: https://www.health.nsw.gov.au/parvan\n\n- Transport for health: https://www.health.nsw.gov.au/transport/Pages/default.aspx\n\n- Palliative care: https://www.health.nsw.gov.au/palliativecare/Pages/default.aspx\n\n- Healthy living: https://www.health.nsw.gov.au/healthyliving/Pages/default.aspx\n\n- Healthy Eating Active Living: https://www.health.nsw.gov.au/heal/Pages/default.aspx\n\n- Immunisation: https://www.health.nsw.gov.au/immunisation/pages/default.aspx\n\n- Emergency preparedness: https://www.health.nsw.gov.au/emergency_preparedness/pages/default.aspx\n\n- Alcohol and other drugs - Your Room: https://yourroom.health.nsw.gov.au/Pages/home.aspx\n\n- Environmental health: https://www.health.nsw.gov.au/environment/pages/default.aspx\n\n- Mental health: https://www.health.nsw.gov.au/mentalhealth/services/Pages/support-contact-list.aspx\n\n- Beat the heat: https://www.health.nsw.gov.au/environment/beattheheat/Pages/default.aspx\n\n- Quitting vaping: https://www.health.nsw.gov.au/tobacco/Pages/electronic-cigarettes.aspx\n\n- Community sharps management: https://www.health.nsw.gov.au/community-sharps/Pages/default.aspx\n\n- Bushfires and smoke: https://www.health.nsw.gov.au/environment/bushfire/Pages/default.aspx\n\n- Stopping smoking: https://www.health.nsw.gov.au/tobacco/Pages/smoking-health-and-quitting.aspx\n\n- Ending HIV: https://www.health.nsw.gov.au/endinghiv\n\n- Storms and floods: https://www.health.nsw.gov.au/emergency_preparedness/weather/Pages/storms-and-floods.aspx\n\n- Sexual health: https://www.health.nsw.gov.au/sexualhealth/pages/default.aspx\n\n- Hepatitis B and C: https://www.health.nsw.gov.au/hepatitis/Pages/default.aspx\n\n- Mosquito borne diseases: https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/default.aspx\n\n- Women's health: https://www.health.nsw.gov.au/women/Pages/default.aspx\n\n- Professionals: https://www.health.nsw.gov.au/professionals/Pages/default.aspx\n\n- Infectious diseases: https://www.health.nsw.gov.au/Infectious/Pages/default.aspx\n\n- Alcohol and other drugs: https://www.health.nsw.gov.au/aod/Pages/default.aspx\n\n- Nursing and midwifery: https://www.health.nsw.gov.au/nursing/Pages/default.aspx\n\n- Pharmaceutical services: https://www.health.nsw.gov.au/pharmaceutical/Pages/default.aspx\n\n- Maternity, child and family health: https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/professionals/Pages/default.aspx\n\n- Disease notification: https://www.health.nsw.gov.au/infectious/pages/notification.aspx\n\n- Healthy kids: https://www.health.nsw.gov.au/heal/child/wellbeing\n\n- Control guidelines: https://www.health.nsw.gov.au/Infectious/controlguideline/pages/default.aspx\n\n- Tobacco and smoking cessation: https://www.health.nsw.gov.au/tobacco/pages/default.aspx\n\n- Public health legislation: https://www.health.nsw.gov.au/phact/Pages/default.aspx\n\n- Multicultural health: https://www.health.nsw.gov.au/multicultural/Pages/default.aspx\n\n- Clinical ethics: https://www.health.nsw.gov.au/clinicalethics/Pages/default.aspx\n\n- Private health facilities: https://www.health.nsw.gov.au/Hospitals/privatehealth/Pages/default.aspx\n\n- Outpatient referral criteria: https://www.health.nsw.gov.au/outpatients/referrals/Pages/default.aspx\n\n- Research: https://www.health.nsw.gov.au/research-hub/pages/default.aspx\n\n- Research: https://www.health.nsw.gov.au/research-hub\n\n- NSW Health and Medical Research: https://www.medicalresearch.nsw.gov.au/\n\n- Healthcare innovation portal: https://www.health.nsw.gov.au/innovation/Pages/portal.aspx\n\n- New health technologies: https://www.health.nsw.gov.au/services/technology/Pages/default.aspx\n\n- Human tissue: https://www.health.nsw.gov.au/humantissue/Pages/default.aspx\n\n- Data: https://www.health.nsw.gov.au/data/Pages/default.aspx\n\n- HealthStats NSW: http://www.healthstats.nsw.gov.au/\n\n- Population health research and evaluation: https://www.health.nsw.gov.au/research/pages/default.aspx\n\n- Epidemiology and evidence: https://www.health.nsw.gov.au/epidemiology/Pages/default.aspx\n\n- NSW population health surveys: https://www.health.nsw.gov.au/surveys/Pages/default.aspx\n\n- Publications: https://www.health.nsw.gov.au/publications/Pages/default.aspx\n\n- Publications: https://www.health.nsw.gov.au/publications/pages/default.aspx\n\n- Latest publications: https://www.health.nsw.gov.au/publications/pages/publications.aspx\n\n- Fact sheets: https://www.health.nsw.gov.au/factsheets/Pages/default.aspx\n\n- Multilingual resources: https://www.mhcs.health.nsw.gov.au/publications\n\n- Reports: https://www.health.nsw.gov.au/reports/pages/default.aspx\n\n- Safety alerts: https://www.health.nsw.gov.au/sabs/pages/default.aspx\n\n- RSS feeds: https://www.health.nsw.gov.au/Pages/rss.aspx\n\n- Policy and procedure manuals: https://www.health.nsw.gov.au/policies/manuals/Pages/default.aspx\n\n- Policy directives, guidelines and information bulletins: https://www1.health.nsw.gov.au/pds/Pages/pdslanding.aspx\n\n- Media: https://www.health.nsw.gov.au/media/pages/default.aspx\n\n- Media: https://www.health.nsw.gov.au/media\n\n- Media releases: https://www.health.nsw.gov.au/news\n\n- X (formerly Twitter): https://x.com/NSWHealth\n\n- Facebook: https://facebook.com/NewSouthWalesHealth\n\n- LinkedIn: https://au.linkedin.com/company/nsw-health\n\n- Instagram: https://www.instagram.com/newsouthwaleshealth/\n\n- TikTok: https://www.tiktok.com/@nswhealth\n\n- YouTube: https://www.youtube.com/user/NewSouthWalesHealth/featured\n\n- About: https://www.health.nsw.gov.au/about/Pages/default.aspx\n\n- About: https://www.health.nsw.gov.au/about\n\n- NSW Health: https://www.health.nsw.gov.au/about/nswhealth\n\n- Strategic directions: https://www.health.nsw.gov.au/priorities/Pages/default.aspx\n\n- NSW Ministry of Health: https://www.health.nsw.gov.au/about/ministry\n\n- Regional health: https://www.health.nsw.gov.au/regional/Pages/default.aspx\n\n- Engaging with NSW Health: https://www.health.nsw.gov.au/business/pages/default.aspx\n\n- Local health districts: https://www.health.nsw.gov.au/lhd/pages/default.aspx\n\n- Future Health: https://www.health.nsw.gov.au/about/nswhealth/Pages/future-health.aspx\n\n- Working at the Ministry of Health: https://www.health.nsw.gov.au/careers/ministry/Pages/default.aspx\n\n- History of medical administration in NSW: https://www.health.nsw.gov.au/about/history\n\n- Climate risk and net zero: https://www.health.nsw.gov.au/netzero/pages/default.aspx\n\n- Our people: https://www.health.nsw.gov.au/about/ministry/Pages/our-people.aspx\n\n- Government Information Public Access Act (GIPA): https://www.health.nsw.gov.au/gipaa/pages/default.aspx\n\n- Diversity Inclusion Belonging: https://www.health.nsw.gov.au/workforce/dib/pages/default.aspx\n\n- Ministers: https://www.health.nsw.gov.au/ministers/Pages/default.aspx\n\n- Ministers: https://www.health.nsw.gov.au/ministers\n\n- The Hon. Ryan Park MP: https://www.health.nsw.gov.au/ministers/Pages/health.aspx\n\n- The Hon. Rose Jackson, MLC: https://www.health.nsw.gov.au/ministers/Pages/mentalhealth.aspx\n\n- The Hon. David Harris, MP: https://www.health.nsw.gov.au/ministers/Pages/medical-research.aspx\n\n- Home: https://www.health.nsw.gov.au/Pages/default.aspx\n\n- News: https://www.health.nsw.gov.au/news/Pages/default.aspx\n\n- 2026: https://www.health.nsw.gov.au/news/Pages/2026-nsw-health.aspx\n\n- 2025: https://www.health.nsw.gov.au/news/Pages/2025-nsw-health.aspx\n\n- 2024: https://www.health.nsw.gov.au/news/Pages/2024-nsw-health.aspx\n\n- 2023: https://www.health.nsw.gov.au/news/Pages/2023-nsw-health.aspx\n\n- 2022: https://www.health.nsw.gov.au/news/Pages/2022-nsw-health.aspx\n\n- 2021: https://www.health.nsw.gov.au/news/Pages/2021-nsw-health.aspx\n\n- 2020: https://www.health.nsw.gov.au/news/Pages/2020-nsw-health.aspx\n\n- 2026: https://www.health.nsw.gov.au/news/Pages/2026-minister-for-health.aspx\n\n- 2025: https://www.health.nsw.gov.au/news/Pages/2025-minister-for-health.aspx\n\n- 2024: https://www.health.nsw.gov.au/news/Pages/2024-minister-for-health.aspx\n\n- 2023: https://www.health.nsw.gov.au/news/Pages/2023-minister-for-health.aspx\n\n- 2026: https://www.health.nsw.gov.au/news/Pages/2026-minister-for-mental-health.aspx\n\n- 2025: https://www.health.nsw.gov.au/news/Pages/2025-minister-for-mental-health.aspx\n\n- 2024: https://www.health.nsw.gov.au/news/Pages/2024-minister-for-mental-health.aspx\n\n- 2023: https://www.health.nsw.gov.au/news/Pages/2023-minister-for-mental-health.aspx\n\n- 2026: https://www.health.nsw.gov.au/news/Pages/2026-minister-for-medical-research.aspx\n\n- 2025: https://www.health.nsw.gov.au/news/Pages/2025-minister-for-medical-research.aspx\n\n- 2024: https://www.health.nsw.gov.au/news/Pages/2024-minister-for-medical-research.aspx\n\n- 2023: https://www.health.nsw.gov.au/news/Pages/2023-minister-for-medical-research.aspx\n\n- Archive: https://www.health.nsw.gov.au/news/Pages/archive.aspx\n\n- healthdirect Australia: https://www.healthdirect.gov.au/\n\n- Find a public hospital: https://parking.health.nsw.gov.au/\n\n- Patient care: https://www.health.nsw.gov.au/patients/pages/default.aspx\n\n- Our structure: https://www.health.nsw.gov.au/about/nswhealth/pages/structure.aspx\n\n- Local health districts: https://www.health.nsw.gov.au/lhd/Pages/default.aspx\n\n- Health topics from A to Z: https://www.health.nsw.gov.au/Pages/a2z.aspx\n\n- Mental health: https://www.health.nsw.gov.au/mentalhealth/pages/default.aspx\n\n- Safe Script: https://www.health.nsw.gov.au/safescript\n\n- Quit vaping or smoking: https://www.health.nsw.gov.au/tobacco/Pages/services-to-help-you-quit.aspx\n\n- JMO recruitment: https://www.health.nsw.gov.au/jmo/pages/default.aspx\n\n- Raise It: https://www.health.nsw.gov.au/Hospitals/Going_To_hospital/Pages/raise-it.aspx\n\n- Healthcare anywhere: https://www.health.nsw.gov.au/Hospitals/Pages/healthdirect.aspx\n\n- Respiratory illness: https://www.health.nsw.gov.au/Infectious/respiratory/Pages/default.aspx\n\n- Childhood vaccination: https://www.health.nsw.gov.au/immunisation/app/Pages/default.aspx\n\n- NSW Government: https://www.nsw.gov.au/\n\n- Service NSW: https://www.service.nsw.gov.au/\n\n- Accessibility: https://www.health.nsw.gov.au/accessibility\n\n- Copyright: https://www.health.nsw.gov.au/pages/copyright.aspx\n\n- Disclaimer: https://www.health.nsw.gov.au/pages/disclaimer.aspx\n\n- Privacy: https://www.health.nsw.gov.au/pages/privacy.aspx\n\n- RSS feeds: https://www.health.nsw.gov.au/pages/rss.aspx"
+}
