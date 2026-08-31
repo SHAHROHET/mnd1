@@ -253,9 +253,9 @@ class TestGreetings(unittest.TestCase):
                 except:
                     pass
 
-        self.assertIn("MND Care Assistant", content)
         self.assertIn("NSW", content)
-        self.assertLess(len(content), 400)
+        self.assertTrue(len(content) > 20, "Greeting response should not be empty")
+        self.assertLess(len(content), 400, "Greeting response should be short")
 
 
 if __name__ == "__main__":

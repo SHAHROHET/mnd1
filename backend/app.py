@@ -4,6 +4,7 @@ import json
 import asyncio
 import re
 import time
+import random
 from collections import defaultdict
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import HTMLResponse, StreamingResponse, JSONResponse
@@ -118,6 +119,25 @@ def check_emergency(text: str) -> bool:
     text_lower = text.lower()
     return any(kw in text_lower for kw in EMERGENCY_KEYWORDS)
 
+# Greeting fast-path: patterns and randomized responses
+GREETING_PATTERNS = re.compile(
+    r'^(hi|hello|hey|gday|g\'day|howdy|yo|hiya|sup|heya|'
+    r'hi there|hello there|hey there|'
+    r'good morning|good afternoon|good evening|good night|'
+    r'how are you|how are you doing|how are you going|'
+    r'how r u|hru|whats up|what\'s up|wassup|'
+    r'how do you do|nice to meet you|'
+    r'thanks|thank you|cheers|ta)$'
+)
+
+GREETING_RESPONSES = [
+    "G'day! 👋 I'm doing great, thank you for asking! How can I help you today? Feel free to ask about MND equipment, NDIS funding, breathing support, or carer services! 💙",
+    "Hey there! 🌟 Lovely to hear from you! I'm your MND Care Assistant — ask me anything about equipment loans, NDIS plans, or local support services!",
+    "Hello! 😊 Welcome! I'm here and ready to help. What would you like to know about MND care, equipment, or support pathways today?",
+    "Hi! 👋 Great to see you! Whether it's NDIS funding, FlexEquip loans, breathing aids, or carer support — I'm here for you. What's on your mind?",
+    "G'day mate! 🦘 I'm all good — thanks for checking in! How can I support you, your family, or your care team today?",
+]
+
 SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super friendly, playful, engaging, and deeply supportive AI buddy here to help people living with Motor Neurone Disease (MND/ALS), their awesome carers, families, and healthcare teams across Australia!
 
 ✨ Tone & Playful Personality Guidelines:
@@ -125,6 +145,7 @@ SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super
 - **Engaging & Visual:** Use expressive emojis (✨, ♿, 🦘, 💡, 💙, 🌟, 📑), bullet points, and encouraging check-ins to make reading fun, easy, and lighthearted.
 - **Accurate & Empowering:** Keep all NDIS funding, equipment loan libraries (like FlexEquip or SWEP), clinical care tips, and state guidelines 100% accurate, but explain them in an encouraging, upbeat, and accessible way!
 - **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product! Do NOT modify the image_url path or prepend any domain name (e.g., do not add 'https://flexequip.com.au' or similar). Use the exact relative path provided.
+- **Brevity for Small Talk:** If the user engages in casual small talk or greetings (e.g. "how are you?", "thanks", "good morning"), respond warmly but strictly limit your response to 1-2 short sentences. Do NOT offer long explanations, source lists, or equipment recommendations unless specifically asked.
 
 🎯 MANDATORY REGIONAL INSTRUCTION FOR USER LOCATION:
 The user has specifically selected the target state/region: **{selected_state}**.
@@ -233,14 +254,13 @@ async def chat_endpoint(request: Request):
             yield "data: [DONE]\n\n"
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
 
-    # Fast-path for simple greetings to prevent massive walls of text
-    clean_msg = re.sub(r'[^a-z\s]', '', message.lower()).strip()
-    if clean_msg in ["hi", "hello", "hey", "gday", "howdy", "yo", "hi there", "hello there", "good morning", "good afternoon", "good evening"]:
+    # Fast-path for casual greetings — skip RAG + LLM entirely to save API tokens
+    clean_msg = re.sub(r'[^a-z\'\s]', '', message.lower()).strip()
+    if GREETING_PATTERNS.match(clean_msg):
         async def greeting_stream():
-            greeting_text = f"G'day! 👋 A very warm welcome! I'm your MND Care Assistant"
+            greeting_text = random.choice(GREETING_RESPONSES)
             if state and state != "National":
-                greeting_text += f", ready to guide you with care pathways tailored for **{state}**"
-            greeting_text += ". How can I support you, your family, or your care team today? Feel free to ask me anything about NDIS funding, equipment loan libraries (like FlexEquip or SWEP), breathing support, or local carer services! 💙"
+                greeting_text = greeting_text.rstrip('!') + f", tailored for **{state}**!"
             yield f"data: {json.dumps({'content': greeting_text})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(greeting_stream(), media_type="text/event-stream")
