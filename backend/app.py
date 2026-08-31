@@ -233,6 +233,18 @@ async def chat_endpoint(request: Request):
             yield "data: [DONE]\n\n"
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
 
+    # Fast-path for simple greetings to prevent massive walls of text
+    clean_msg = re.sub(r'[^a-z\s]', '', message.lower()).strip()
+    if clean_msg in ["hi", "hello", "hey", "gday", "howdy", "yo", "hi there", "hello there", "good morning", "good afternoon", "good evening"]:
+        async def greeting_stream():
+            greeting_text = f"G'day! 👋 A very warm welcome! I'm your MND Care Assistant"
+            if state and state != "National":
+                greeting_text += f", ready to guide you with care pathways tailored for **{state}**"
+            greeting_text += ". How can I support you, your family, or your care team today? Feel free to ask me anything about NDIS funding, equipment loan libraries (like FlexEquip or SWEP), breathing support, or local carer services! 💙"
+            yield f"data: {json.dumps({'content': greeting_text})}\n\n"
+            yield "data: [DONE]\n\n"
+        return StreamingResponse(greeting_stream(), media_type="text/event-stream")
+
     is_emergency = check_emergency(message)
     
     # Perform RAG retrieval with strict state filtering

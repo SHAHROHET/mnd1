@@ -223,5 +223,40 @@ class TestRateLimiter(unittest.TestCase):
         del _rate_store[test_ip]
 
 
+class TestGreetings(unittest.TestCase):
+    """Greeting detection fast-path tests."""
+
+    def test_greeting_is_detected_and_handled(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import app
+        from fastapi.testclient import TestClient
+
+        client = TestClient(app)
+        response = client.post("/api/chat", json={
+            "message": "hello",
+            "state": "NSW"
+        })
+        self.assertEqual(response.status_code, 200)
+        
+        content = ""
+        for chunk in response.iter_lines():
+            # Decode bytes to string
+            chunk_str = chunk.decode("utf-8") if isinstance(chunk, bytes) else chunk
+            if chunk_str.startswith("data: "):
+                data_str = chunk_str[6:]
+                if data_str.strip() == "[DONE]":
+                    break
+                import json
+                try:
+                    parsed = json.loads(data_str)
+                    content += parsed.get("content", "")
+                except:
+                    pass
+
+        self.assertIn("MND Care Assistant", content)
+        self.assertIn("NSW", content)
+        self.assertLess(len(content), 400)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
