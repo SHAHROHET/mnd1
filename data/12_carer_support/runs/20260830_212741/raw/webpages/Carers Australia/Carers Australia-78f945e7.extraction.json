@@ -1,0 +1,443 @@
+{
+  "source_id": "carers-australia:medicine-safety-checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication",
+  "title": "Carers Australia",
+  "publisher": "Carers Australia",
+  "url": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication",
+  "retrieved_at": "2026-08-30",
+  "topic": "Carer Support",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 20226,
+  "crawl_depth": 1,
+  "seed_url": "https://www.carersaustralia.com.au/",
+  "links": [
+    {
+      "text": "Carers Australia",
+      "url": "https://www.carersaustralia.com.au/"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/about-us/contact-us/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.carersaustralia.com.au/about-us/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/contact-us/"
+    },
+    {
+      "text": "Our Mission",
+      "url": "https://www.carersaustralia.com.au/about-us/our-mission/"
+    },
+    {
+      "text": "What We Do",
+      "url": "https://www.carersaustralia.com.au/about-us/what-we-do/"
+    },
+    {
+      "text": "Our Member Organisations",
+      "url": "https://www.carersaustralia.com.au/about-us/our-member-organisations/"
+    },
+    {
+      "text": "Our CEO",
+      "url": "https://www.carersaustralia.com.au/about-us/our-ceo/"
+    },
+    {
+      "text": "Our History",
+      "url": "https://www.carersaustralia.com.au/about-us/our-history/"
+    },
+    {
+      "text": "Feedback and Complaints",
+      "url": "https://www.carersaustralia.com.au/about-us/feedback-and-complaints/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.carersaustralia.com.au/donate/"
+    },
+    {
+      "text": "Constitution",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/our-constitution/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.carersaustralia.com.au/about-us/board-of-directors/"
+    },
+    {
+      "text": "Governor-General",
+      "url": "https://www.carersaustralia.com.au/about-us/governor-general/"
+    },
+    {
+      "text": "Annual Reports & Strategies",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/"
+    },
+    {
+      "text": "About Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/"
+    },
+    {
+      "text": "Who Is a Carer?",
+      "url": "https://www.carersaustralia.com.au/about-carers/who-is-a-carer/"
+    },
+    {
+      "text": "Young Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/young-carers/"
+    },
+    {
+      "text": "Aboriginal & Torres Strait Islander Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/"
+    },
+    {
+      "text": "Culturally & Linguistically Diverse Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/"
+    },
+    {
+      "text": "Carers In the Workplace",
+      "url": "https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/"
+    },
+    {
+      "text": "Carer Wellbeing Survey",
+      "url": "https://www.carersaustralia.com.au/carer-wellbeing-survey/"
+    },
+    {
+      "text": "Carer Offers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-offers/"
+    },
+    {
+      "text": "Information for Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-gateway/"
+    },
+    {
+      "text": "Digital Health Literacy",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/"
+    },
+    {
+      "text": "Early Childhood Intervention",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/"
+    },
+    {
+      "text": "Mainstream and Community Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/"
+    },
+    {
+      "text": "NDIS and Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/"
+    },
+    {
+      "text": "Reviewing Your NDIS Plan",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/"
+    },
+    {
+      "text": "Other NDIS Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/"
+    },
+    {
+      "text": "Advance Care Planning and Advance Care Directives",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/"
+    },
+    {
+      "text": "Palliative Care and End-of-Life Care",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/"
+    },
+    {
+      "text": "Caring For Someone With Dementia",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/"
+    },
+    {
+      "text": "Centrelink Payments For Carers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/"
+    },
+    {
+      "text": "Programs & Projects",
+      "url": "https://www.carersaustralia.com.au/programs-projects/"
+    },
+    {
+      "text": "Young Carers Network",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/young-carers-network/"
+    },
+    {
+      "text": "Carer-Inclusive Workplace Initiative",
+      "url": "https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/"
+    },
+    {
+      "text": "Defence and Veteran Carers Network",
+      "url": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network/"
+    },
+    {
+      "text": "Mindfulness on Demand",
+      "url": "https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/"
+    },
+    {
+      "text": "SANE Forums",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/sane-forums/"
+    },
+    {
+      "text": "Women Who Care",
+      "url": "https://www.carersaustralia.com.au/programs-projects/women-who-care/"
+    },
+    {
+      "text": "Medicine Safety",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/"
+    },
+    {
+      "text": "Caring for someone living with pain and taking opioids",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/"
+    },
+    {
+      "text": "Opioid Medicines Information Pack and Checklist",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/"
+    },
+    {
+      "text": "Smoking cessation, nicotine products and e-cigarettes",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/"
+    },
+    {
+      "text": "Policy & Advocacy",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/"
+    },
+    {
+      "text": "Submissions",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/submissions/"
+    },
+    {
+      "text": "Position Statements",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/position-statements/"
+    },
+    {
+      "text": "Carer Recognition Inquiry",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/"
+    },
+    {
+      "text": "Federal budget: what it means for carers",
+      "url": "https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/"
+    },
+    {
+      "text": "Federal Election: carers can’t quit",
+      "url": "https://www.carersaustralia.com.au/federal-election-carers-cant-quit/"
+    },
+    {
+      "text": "Superannuation",
+      "url": "https://www.carersaustralia.com.au/superannuation/"
+    },
+    {
+      "text": "Caring Costs Us",
+      "url": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us/"
+    },
+    {
+      "text": "Research & Reports",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/research-reports/"
+    },
+    {
+      "text": "Factsheets",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/factsheets/"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.carersaustralia.com.au/get-involved/"
+    },
+    {
+      "text": "National Carer Strategy",
+      "url": "https://www.carersaustralia.com.au/national-carer-strategy/"
+    },
+    {
+      "text": "News Articles",
+      "url": "https://www.carersaustralia.com.au/news-media/news-articles/"
+    },
+    {
+      "text": "Our Newsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/our-newsletter/"
+    },
+    {
+      "text": "Media Releases",
+      "url": "https://www.carersaustralia.com.au/news-media/media-releases/"
+    },
+    {
+      "text": "Subscribe to the eNewsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/"
+    },
+    {
+      "text": "Media Contact",
+      "url": "https://www.carersaustralia.com.au/news-media/media-contact/"
+    },
+    {
+      "text": "Secret Life of Carers podcast",
+      "url": "https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/"
+    },
+    {
+      "text": "Videos",
+      "url": "https://www.carersaustralia.com.au/news-media/videos/"
+    },
+    {
+      "text": "Our Staff",
+      "url": "https://www.carersaustralia.com.au/?page_id=47"
+    },
+    {
+      "text": "Programs and Projects",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/"
+    },
+    {
+      "text": "My Health Record – Authorised and Nominated Representatives",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/"
+    },
+    {
+      "text": "News & Media",
+      "url": "https://www.carersaustralia.com.au/news-media/"
+    },
+    {
+      "text": "factsheet 1",
+      "url": "https://www.carersaustralia.com.au/opioids-information/factsheet-1-how-do-i-know-if-the-person-im-caring-for-is-taking-opioid-medicines/"
+    },
+    {
+      "text": "factsheet 2",
+      "url": "https://www.carersaustralia.com.au/opioids-information/factsheet-2-how-can-i-support-the-person-im-caring-for-with-taking-their-opioid-medicines/"
+    },
+    {
+      "text": "Factsheet 3 : How can I identify if a person I’m caring for is not using their opioid medicines safely?",
+      "url": "https://www.carersaustralia.com.au/opioids-information/factsheet-3-how-can-i-identify-if-a-person-im-caring-for-is-not-using-their-opioid-medicine-safely-and-what-can-i-do-to-help/"
+    },
+    {
+      "text": "Factsheet 4 : Will the person I’m caring for still have access to opioid medicines?",
+      "url": "https://www.carersaustralia.com.au/opioids-information/factsheet-4-will-the-person-im-caring-for-still-have-access-to-opioid-medicines/"
+    },
+    {
+      "text": "Factsheet 5 : How can I help someone living with pain?",
+      "url": "https://www.carersaustralia.com.au/opioids-information/factsheet-5-how-can-i-help-someone-living-with-pain/"
+    },
+    {
+      "text": "Carers Gatewa",
+      "url": "https://www.carergateway.gov.au/help-advice/working-health-services"
+    },
+    {
+      "text": "Question Prompt List",
+      "url": "https://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Question prompt list.pdf."
+    },
+    {
+      "text": "Handling Medications",
+      "url": "https://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Medication template %26 handling medications.pdf."
+    },
+    {
+      "text": "NPS MedicineWise,",
+      "url": "https://www.nps.org.au/"
+    },
+    {
+      "text": "Pain Australia",
+      "url": "https://www.painaustralia.org.au/"
+    },
+    {
+      "text": "National Pain Week",
+      "url": "http://www.nationalpainweek.org.au/"
+    },
+    {
+      "text": "Australian Pain Management Association",
+      "url": "https://www.painmanagement.org.au/"
+    },
+    {
+      "text": "Chronic Pain Australia",
+      "url": "http://chronicpainaustralia.org.au/index.php"
+    },
+    {
+      "text": "Palliative Care Australia",
+      "url": "https://palliativecare.org.au/wp-content/uploads/2015/05/PCA002_Asking-Questions-Can-Help_FA.pdf"
+    },
+    {
+      "text": "HealthDirect",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Think Patient Think Carer",
+      "url": "https://www.nslhd.health.nsw.gov.au/carer/documents/NS11895-E GP Guide - Think Patient - Think Carer.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2021/05/20210425-CarersAustralia-Checklist-A4.pdf"
+    },
+    {
+      "text": "Download",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2021/05/20210425-Information-bundle-Checklist-factsheets.pdf"
+    },
+    {
+      "text": "Medicines Safety",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/medicine-safety/"
+    },
+    {
+      "text": "Factsheet 1: How do I know if the person I’m caring for is taking opioid medicines?",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/factsheet-1-how-do-i-know-if-the-person-im-caring-for-is-taking-opioid-medicines/"
+    },
+    {
+      "text": "Factsheet 2: How can I support the person I’m caring for with taking their opioid medicines?",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/factsheet-2-how-can-i-support-the-person-im-caring-for-with-taking-their-opioid-medicines/"
+    },
+    {
+      "text": "Factsheet 3: How can I identify if a person I’m caring for is not using their opioid medicine safely, and what can I do to help?",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/factsheet-3-how-can-i-identify-if-a-person-im-caring-for-is-not-using-their-opioid-medicine-safely-and-what-can-i-do-to-help/"
+    },
+    {
+      "text": "Factsheet 4: Will the person I’m caring for still have access to opioid medicines?",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/factsheet-4-will-the-person-im-caring-for-still-have-access-to-opioid-medicines/"
+    },
+    {
+      "text": "Factsheet 5: How can I help someone living with pain?",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/factsheet-5-how-can-i-help-someone-living-with-pain/"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#a6c5c7c7e6c5c7d4c3d4d5c7d3d5d2d4c7cacfc788c5c9cb88c7d3"
+    },
+    {
+      "text": "PO Box 5300, Braddon ACT 2612",
+      "url": "https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612"
+    },
+    {
+      "text": "Registered Charity",
+      "url": "https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile"
+    },
+    {
+      "text": "https://www.facebook.com/CarersAus/",
+      "url": "https://www.facebook.com/CarersAus/"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg",
+      "url": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg"
+    },
+    {
+      "text": "https://www.instagram.com/carers_australia/?hl=en",
+      "url": "https://www.instagram.com/carers_australia/?hl=en"
+    },
+    {
+      "text": "https://www.linkedin.com/company/27133792",
+      "url": "https://www.linkedin.com/company/27133792"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.carersaustralia.com.au/disclaimer/"
+    },
+    {
+      "text": "Privacy Policy and Terms of Use",
+      "url": "https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.carersaustralia.com.au/sitemap/"
+    },
+    {
+      "text": "Staff Login",
+      "url": "https://www.carersaustralia.com.au/wp-admin/"
+    },
+    {
+      "text": "Coordinate",
+      "url": "https://coordinate.com.au"
+    }
+  ],
+  "text": "# Carers Australia\n\n## Carer Gateway - 1800 422 737\n\nText size\n\nContact Us\n\n- About Us\n\n#### About Us\n\n- Who we are, what we do, and information about our organisation.\n\n- Contact Us\n\n- Our Organisation\n\n- Our Mission\n\n- What We Do\n\n- Our Member Organisations\n\n- Our CEO\n\n- Our History\n\n- Feedback and Complaints\n\n- Donate\n\n- Our Governance\n\n- Constitution\n\n- Board of Directors\n\n- Governor-General\n\n- Annual Reports & Strategies\n\n- About Carers\n\n#### About Carers\n\n- Key information about carers and how they can be supported.\n\n- Who Is a Carer?\n\n- Young Carers\n\n- Aboriginal & Torres Strait Islander Carers\n\n- Culturally & Linguistically Diverse Carers\n\n- Carers In the Workplace\n\n- Carer Wellbeing Survey\n\n- Carer Offers\n\n- Information for Carers\n\n#### Information for Carers\n\n- Providing a range of information and supports to carers, such as NDIS, Aged Care and advanced care planning.\n\n- Carer Gateway\n\n- Carer Discounts and Concessions\n\n- Digital Health Literacy\n\n- Disability and NDIS\n\n- Early Childhood Intervention\n\n- Mainstream and Community Supports\n\n- NDIS and Carers\n\n- Reviewing Your NDIS Plan\n\n- Other NDIS Supports\n\n- End of Life Care\n\n- Advance Care Planning and Advance Care Directives\n\n- Palliative Care and End-of-Life Care\n\n- Aged Care\n\n- My Aged Care\n\n- Caring For Someone With Dementia\n\n- Government\n\n- Centrelink Payments For Carers\n\n- Programs & Projects\n\n#### Programs & Projects\n\n- Services we provide for carers, including advocacy, advice, and information.\n\n- Young Carers Network\n\n- Programs\n\n- Carer-Inclusive Workplace Initiative\n\n- Defence and Veteran Carers Network\n\n- Projects\n\n- Mindfulness on Demand\n\n- SANE Forums\n\n- Women Who Care\n\n- Medicine Safety\n\n- Caring for someone living with pain and taking opioids\n\n- Opioid Medicines Information Pack and Checklist\n\n- Smoking cessation, nicotine products and e-cigarettes\n\n- Policy & Advocacy\n\n#### Policy & Advocacy\n\n- Advocacy, engagement and research focused on achieving increased recognition and support for carers.\n\n- Submissions & Positions\n\n- Submissions\n\n- Position Statements\n\n- Carer Recognition Inquiry\n\n- Federal budget: what it means for carers\n\n- Federal Election: carers can’t quit\n\n- Research & Resources\n\n- Superannuation\n\n- Caring Costs Us\n\n- Research & Reports\n\n- Factsheets\n\n- Get Involved\n\n- National Carer Strategy\n\n- News & Media\n\n#### News & Media\n\n- News & Articles\n\n- News Articles\n\n- Our Newsletter\n\n- Media Releases\n\n- Subscribe to the eNewsletter\n\n- Media Centre\n\n- Media Contact\n\n- Secret Life of Carers podcast\n\n- Videos\n\n- Our Constitution\n\n- Our Staff\n\n- Programs and Projects\n\n- My Health Record – Authorised and Nominated Representatives\n\nHome | Medicine Safety | Checklist – Are you a carer for someone living with pain? Do you want to learn more about their opioid pain medication?\n\n# Checklist – Are you a carer for someone living with pain? Do you want to learn more about their opioid pain medication?\n\nWhat’s on this page\n\nQuestions to ask the doctor or pharmacist List of the factsheets available from Carers Australia More resources that may help carers of people taking pain medicines can be found on these websites Download resources\n\n## Questions to ask the doctor or pharmacist\n\nIf you’re a carer for someone living with pain or someone who takes pain medication, it’s important to find out if their medicines contain opioids. Opioids are powerful medicines. Strong and effective when used as directed by the doctor (see factsheet 1 ). But, they can come with a risk of harm including side-effects or even dependence (see factsheet 2 ).\n\nThe doctor or pharmacist should be happy to answer any questions you may have about opioids.\n\nBelow are some suggestions to help you during these conversations. Feel free to add more if you or the person you care for have other questions.\n\n1. The person I’m a carer for takes strong pain medication – is it an opioid?\n\nAre there other medicines that should NOT be taken while using the opioid? (including over-the-counter medicines).\n\n2. How can I support the person I’m caring for to take their opioid medicines safely?\n\n- How much of the medicine should they take and in what form?\n\n- How often do they need to take the medication?\n\n- How long should they take it for?\n\n3. What are the potential side effects or danger signs of taking opioids?\n\nWhat should I do if the person I’m caring for experiences side effects or I see danger signs?\n\n4. How do I talk to the person I’m caring for about the risks or concerns I might have about their medication?\n\nI’m worried the person I’m caring for is not taking opioids correctly. How can I talk to them about this or is there someone who can help?\n\n5. Where can I find more information about opioid medicines?\n\nIs there an information leaflet available?\n\n6. Are there other medicine options to reduce pain that don’t contain opioids?\n\nAre there non-medication options, e.g. lifestyle changes, massage, etc.?\n\n7. What could happen if the person I’m caring for suddenly stops taking their opioids?\n\nWhen should they stop their opioid medication?\n\n8. Is there anyone who can offer me any advice or support to look after myself while caring for someone living with pain or using pain medications?\n\nHow do I manage my own wellbeing?\n\n## List of the factsheets available from Carers Australia\n\n- Factsheet 1 : How do I know if the person I’m caring for is taking opioid medicines?\n\n- Factsheet 2 : How can I support the person I’m caring for with taking their opioid medicines?\n\n- Factsheet 3 : How can I identify if a person I’m caring for is not using their opioid medicines safely?\n\n- Factsheet 4 : Will the person I’m caring for still have access to opioid medicines?\n\n- Factsheet 5 : How can I help someone living with pain?\n\n## More resources that may help carers of people taking pain medicines can be found on these websites\n\n- Carers Gatewa y\n\n- Carer Help\n\n- Question Prompt List ,\n\n- Handling Medications .\n\n- NPS MedicineWise,\n\n- Pain Australia ,\n\n- National Pain Week ,\n\n- Australian Pain Management Association ,\n\n- Chronic Pain Australia ,\n\n- Palliative Care Australia (Questions PDF),\n\n- HealthDirect (Question Builder).\n\n- Think Patient Think Carer (NSW Health PDF).\n\n## Download resources\n\n###### Factsheet\n\n##### Checklist: Are you a carer for someone living with pain? Do you want to learn more about their opioid pain medication?\n\n7 May 2021 – 348.66 KB\n\nDownload\n\n##### Information pack – Opioids checklist and factsheets\n\n7 May 2021 – 1.72 MB\n\nRelated topics\n\nMedicines Safety Caring for someone living with pain and taking opioids Smoking cessation, nicotine products and e-cigarettes Factsheet 1: How do I know if the person I’m caring for is taking opioid medicines? Factsheet 2: How can I support the person I’m caring for with taking their opioid medicines? Factsheet 3: How can I identify if a person I’m caring for is not using their opioid medicine safely, and what can I do to help? Factsheet 4: Will the person I’m caring for still have access to opioid medicines? Factsheet 5: How can I help someone living with pain? Checklist – Are you a carer for someone living with pain? Do you want to learn more about their opioid pain medication?\n\n###### Contact Us\n\n[email protected]\n\nPO Box 5300, Braddon ACT 2612\n\nRegistered Charity\n\n###### Subscribe to our fortnightly newsletter\n\n- X/Twitter\n\n- This field is for validation purposes and should be left unchanged.\n\n- First Name *\n\n- Last Name *\n\n- Email Address *\n\n- CAPTCHA\n\n- This field is hidden when viewing the form\n\n- CA Subscriber\n\nSubscribe\n\nCarers Australia acknowledges Aboriginal and Torres Strait Islander peoples and communities as the traditional custodians of the land we work on and pay our respects to elders past and present. As an inclusive organisation we celebrate people of all backgrounds, genders, cultures, and abilities.\n\nDisclaimer\n\nPrivacy Policy and Terms of Use\n\nSitemap\n\nStaff Login\n\n© Copyright 2026 Carers Australia Limited - ABN 12231938308\n\nSite by Coordinate\n\n## Your Story is Important to Us\n\n- Comments\n\n- Your name *\n\n- Enter Email Confirm Email\n\n- State *\n\n- Select state ACT NSW VIC QLD NT WA TAS\n\n- Postcode *\n\n- Tell us your story *\n\n- Check the box that best describes you *\n\n- Carer of defence member or veteran\n\n- Defence member or veteran providing unpaid care\n\n- Unpaid carer\n\n- Other\n\n- Remain anonymous (please note any use of the information you give us will be de-identified when 'Yes' is selected) *\n\n- Yes\n\n- No\n\n## Permission to contact *\n\n## CAPTCHA\n\nSubmit\n\nClose\n\n\n\n## Links found on page\n\n- Carers Australia: https://www.carersaustralia.com.au/\n\n- https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication: https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication\n\n- Contact Us: https://www.carersaustralia.com.au/about-us/contact-us/\n\n- About Us: https://www.carersaustralia.com.au/about-us/\n\n- Contact Us: https://www.carersaustralia.com.au/contact-us/\n\n- Our Mission: https://www.carersaustralia.com.au/about-us/our-mission/\n\n- What We Do: https://www.carersaustralia.com.au/about-us/what-we-do/\n\n- Our Member Organisations: https://www.carersaustralia.com.au/about-us/our-member-organisations/\n\n- Our CEO: https://www.carersaustralia.com.au/about-us/our-ceo/\n\n- Our History: https://www.carersaustralia.com.au/about-us/our-history/\n\n- Feedback and Complaints: https://www.carersaustralia.com.au/about-us/feedback-and-complaints/\n\n- Donate: https://www.carersaustralia.com.au/donate/\n\n- Constitution: https://www.carersaustralia.com.au/submissions-reports/our-constitution/\n\n- Board of Directors: https://www.carersaustralia.com.au/about-us/board-of-directors/\n\n- Governor-General: https://www.carersaustralia.com.au/about-us/governor-general/\n\n- Annual Reports & Strategies: https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/\n\n- About Carers: https://www.carersaustralia.com.au/about-carers/\n\n- Who Is a Carer?: https://www.carersaustralia.com.au/about-carers/who-is-a-carer/\n\n- Young Carers: https://www.carersaustralia.com.au/about-carers/young-carers/\n\n- Aboriginal & Torres Strait Islander Carers: https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/\n\n- Culturally & Linguistically Diverse Carers: https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/\n\n- Carers In the Workplace: https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/\n\n- Carer Wellbeing Survey: https://www.carersaustralia.com.au/carer-wellbeing-survey/\n\n- Carer Offers: https://www.carersaustralia.com.au/support-for-carers/carer-offers/\n\n- Information for Carers: https://www.carersaustralia.com.au/information-for-carers/\n\n- Carer Gateway: https://www.carersaustralia.com.au/support-for-carers/carer-gateway/\n\n- Digital Health Literacy: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/\n\n- Early Childhood Intervention: https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/\n\n- Mainstream and Community Supports: https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/\n\n- NDIS and Carers: https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/\n\n- Reviewing Your NDIS Plan: https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/\n\n- Other NDIS Supports: https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/\n\n- Advance Care Planning and Advance Care Directives: https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/\n\n- Palliative Care and End-of-Life Care: https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/\n\n- My Aged Care: https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/\n\n- Caring For Someone With Dementia: https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/\n\n- Centrelink Payments For Carers: https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/\n\n- Programs & Projects: https://www.carersaustralia.com.au/programs-projects/\n\n- Young Carers Network: https://www.carersaustralia.com.au/information-for-carers/young-carers-network/\n\n- Carer-Inclusive Workplace Initiative: https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/\n\n- Defence and Veteran Carers Network: https://www.carersaustralia.com.au/programs-projects/defence-carers-network/\n\n- Mindfulness on Demand: https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/\n\n- SANE Forums: https://www.carersaustralia.com.au/support-for-carers/sane-forums/\n\n- Women Who Care: https://www.carersaustralia.com.au/programs-projects/women-who-care/\n\n- Medicine Safety: https://www.carersaustralia.com.au/medicine-safety/\n\n- Caring for someone living with pain and taking opioids: https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/\n\n- Opioid Medicines Information Pack and Checklist: https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/\n\n- Smoking cessation, nicotine products and e-cigarettes: https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/\n\n- Policy & Advocacy: https://www.carersaustralia.com.au/policy-advocacy/\n\n- Submissions: https://www.carersaustralia.com.au/submissions-reports/submissions/\n\n- Position Statements: https://www.carersaustralia.com.au/submissions-reports/position-statements/\n\n- Carer Recognition Inquiry: https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/\n\n- Federal budget: what it means for carers: https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/\n\n- Federal Election: carers can’t quit: https://www.carersaustralia.com.au/federal-election-carers-cant-quit/\n\n- Superannuation: https://www.carersaustralia.com.au/superannuation/\n\n- Caring Costs Us: https://www.carersaustralia.com.au/programs-projects/caring-costs-us/\n\n- Research & Reports: https://www.carersaustralia.com.au/submissions-reports/research-reports/\n\n- Factsheets: https://www.carersaustralia.com.au/submissions-reports/factsheets/\n\n- Get Involved: https://www.carersaustralia.com.au/get-involved/\n\n- National Carer Strategy: https://www.carersaustralia.com.au/national-carer-strategy/\n\n- News Articles: https://www.carersaustralia.com.au/news-media/news-articles/\n\n- Our Newsletter: https://www.carersaustralia.com.au/news-media/our-newsletter/\n\n- Media Releases: https://www.carersaustralia.com.au/news-media/media-releases/\n\n- Subscribe to the eNewsletter: https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/\n\n- Media Contact: https://www.carersaustralia.com.au/news-media/media-contact/\n\n- Secret Life of Carers podcast: https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/\n\n- Videos: https://www.carersaustralia.com.au/news-media/videos/\n\n- Our Staff: https://www.carersaustralia.com.au/?page_id=47\n\n- Programs and Projects: https://www.carersaustralia.com.au/support-for-carers/\n\n- My Health Record – Authorised and Nominated Representatives: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/\n\n- News & Media: https://www.carersaustralia.com.au/news-media/\n\n- factsheet 1: https://www.carersaustralia.com.au/opioids-information/factsheet-1-how-do-i-know-if-the-person-im-caring-for-is-taking-opioid-medicines/\n\n- factsheet 2: https://www.carersaustralia.com.au/opioids-information/factsheet-2-how-can-i-support-the-person-im-caring-for-with-taking-their-opioid-medicines/\n\n- Factsheet 3 : How can I identify if a person I’m caring for is not using their opioid medicines safely?: https://www.carersaustralia.com.au/opioids-information/factsheet-3-how-can-i-identify-if-a-person-im-caring-for-is-not-using-their-opioid-medicine-safely-and-what-can-i-do-to-help/\n\n- Factsheet 4 : Will the person I’m caring for still have access to opioid medicines?: https://www.carersaustralia.com.au/opioids-information/factsheet-4-will-the-person-im-caring-for-still-have-access-to-opioid-medicines/\n\n- Factsheet 5 : How can I help someone living with pain?: https://www.carersaustralia.com.au/opioids-information/factsheet-5-how-can-i-help-someone-living-with-pain/\n\n- Carers Gatewa: https://www.carergateway.gov.au/help-advice/working-health-services\n\n- Question Prompt List: https://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Question prompt list.pdf.\n\n- Handling Medications: https://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Medication template %26 handling medications.pdf.\n\n- NPS MedicineWise,: https://www.nps.org.au/\n\n- Pain Australia: https://www.painaustralia.org.au/\n\n- National Pain Week: http://www.nationalpainweek.org.au/\n\n- Australian Pain Management Association: https://www.painmanagement.org.au/\n\n- Chronic Pain Australia: http://chronicpainaustralia.org.au/index.php\n\n- Palliative Care Australia: https://palliativecare.org.au/wp-content/uploads/2015/05/PCA002_Asking-Questions-Can-Help_FA.pdf\n\n- HealthDirect: https://www.healthdirect.gov.au/question-builder\n\n- Think Patient Think Carer: https://www.nslhd.health.nsw.gov.au/carer/documents/NS11895-E GP Guide - Think Patient - Think Carer.pdf\n\n- Download: https://www.carersaustralia.com.au/wp-content/uploads/2021/05/20210425-CarersAustralia-Checklist-A4.pdf\n\n- Download: https://www.carersaustralia.com.au/wp-content/uploads/2021/05/20210425-Information-bundle-Checklist-factsheets.pdf\n\n- Medicines Safety: https://www.carersaustralia.com.au/medicine-safety/medicine-safety/\n\n- Factsheet 1: How do I know if the person I’m caring for is taking opioid medicines?: https://www.carersaustralia.com.au/medicine-safety/factsheet-1-how-do-i-know-if-the-person-im-caring-for-is-taking-opioid-medicines/\n\n- Factsheet 2: How can I support the person I’m caring for with taking their opioid medicines?: https://www.carersaustralia.com.au/medicine-safety/factsheet-2-how-can-i-support-the-person-im-caring-for-with-taking-their-opioid-medicines/\n\n- Factsheet 3: How can I identify if a person I’m caring for is not using their opioid medicine safely, and what can I do to help?: https://www.carersaustralia.com.au/medicine-safety/factsheet-3-how-can-i-identify-if-a-person-im-caring-for-is-not-using-their-opioid-medicine-safely-and-what-can-i-do-to-help/\n\n- Factsheet 4: Will the person I’m caring for still have access to opioid medicines?: https://www.carersaustralia.com.au/medicine-safety/factsheet-4-will-the-person-im-caring-for-still-have-access-to-opioid-medicines/\n\n- Factsheet 5: How can I help someone living with pain?: https://www.carersaustralia.com.au/medicine-safety/factsheet-5-how-can-i-help-someone-living-with-pain/\n\n- [email protected]: https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#a6c5c7c7e6c5c7d4c3d4d5c7d3d5d2d4c7cacfc788c5c9cb88c7d3\n\n- PO Box 5300, Braddon ACT 2612: https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612\n\n- Registered Charity: https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile\n\n- https://www.facebook.com/CarersAus/: https://www.facebook.com/CarersAus/\n\n- https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg: https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg\n\n- https://www.instagram.com/carers_australia/?hl=en: https://www.instagram.com/carers_australia/?hl=en\n\n- https://www.linkedin.com/company/27133792: https://www.linkedin.com/company/27133792\n\n- Disclaimer: https://www.carersaustralia.com.au/disclaimer/\n\n- Privacy Policy and Terms of Use: https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/\n\n- Sitemap: https://www.carersaustralia.com.au/sitemap/\n\n- Staff Login: https://www.carersaustralia.com.au/wp-admin/\n\n- Coordinate: https://coordinate.com.au"
+}

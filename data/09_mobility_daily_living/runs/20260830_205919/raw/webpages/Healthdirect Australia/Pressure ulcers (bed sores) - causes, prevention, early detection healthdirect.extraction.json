@@ -1,0 +1,563 @@
+{
+  "source_id": "healthdirect:pressure-injuries",
+  "title": "Pressure ulcers (bed sores) - causes, prevention, early detection | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mobility And Daily Living",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24348,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/pressure-sores-and-ulcers"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/pressure-sores-and-ulcers"
+    },
+    {
+      "text": "What are pressure ulcers or sores?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#what-is"
+    },
+    {
+      "text": "What symptoms are related to pressure ulcers?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#symptoms"
+    },
+    {
+      "text": "What causes pressure ulcers?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#caused"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#doctor"
+    },
+    {
+      "text": "How are pressure ulcers diagnosed?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#diagnosed"
+    },
+    {
+      "text": "How are pressure ulcers treated?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#treated"
+    },
+    {
+      "text": "Can pressure ulcers be prevented?",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#prevented"
+    },
+    {
+      "text": "Complications of pressure ulcers",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#complications"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#searchGeneralResults"
+    },
+    {
+      "text": "skin",
+      "url": "https://www.healthdirect.gov.au/skin"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "spinal injury",
+      "url": "https://www.healthdirect.gov.au/back-injuries"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "incontinence",
+      "url": "https://www.healthdirect.gov.au/incontinence"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "antibiotics",
+      "url": "https://www.healthdirect.gov.au/antibiotics"
+    },
+    {
+      "text": "Keep active",
+      "url": "https://www.healthdirect.gov.au/physical-activity-guidelines-for-older-adults"
+    },
+    {
+      "text": "Eat a variety of nutritious foods",
+      "url": "https://www.healthdirect.gov.au/balanced-diet"
+    },
+    {
+      "text": "Avoid smoking",
+      "url": "https://www.healthdirect.gov.au/quit-smoking-vaping"
+    },
+    {
+      "text": "cellulitis",
+      "url": "https://www.healthdirect.gov.au/cellulitis"
+    },
+    {
+      "text": "septicaemia",
+      "url": "https://www.healthdirect.gov.au/sepsis-septicaemia"
+    },
+    {
+      "text": "osteomyelitis",
+      "url": "https://www.healthdirect.gov.au/osteomyelitis"
+    },
+    {
+      "text": "preventing pressure ulcers",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/eating-to-prevent-and-treat-pressure-injuries"
+    },
+    {
+      "text": "Carer Gateway website",
+      "url": "https://www.myagedcare.gov.au/caring-someone"
+    },
+    {
+      "text": "(Pressure injuries)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Ulcer%20and%20Wound%20Management&topicfile=pressure-injuries&guidelinename=Ulcer%20and%20Wound%20Management&sectionId=toc_d1e420#toc_d1e420"
+    },
+    {
+      "text": "(Pressure ulcers)",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/pressure+ulcers/pressure+ulcers"
+    },
+    {
+      "text": "(Pressure injury staging guide)",
+      "url": "https://www.rch.org.au/uploadedFiles/Main/Content/rchcpg/hospital_clinical_guideline_index/Appendix%201%20-%20Pressure%20Injury%20Staging%20Guide%20(2).pdf"
+    },
+    {
+      "text": "(Pressure ulcers)",
+      "url": "https://www.nhsinform.scot/illnesses-and-conditions/skin-hair-and-nails/pressure-ulcers/"
+    },
+    {
+      "text": "(Pressure ulcers (pressure sores))",
+      "url": "https://www.nhs.uk/conditions/pressure-sores/"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/pressure-sores-and-ulcers#backToTop"
+    },
+    {
+      "text": "Skin Ulcers",
+      "url": "https://www.healthdirect.gov.au/search-results/Skin Ulcers"
+    },
+    {
+      "text": "Pressure sores | Better Health Channel Pressure sores can be difficult to treat and may lead to serious complications. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pressure-sores"
+    },
+    {
+      "text": "Kids Health Info : Pressure injury prevention Read more on Royal Children's Hospital website",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Pressure_injury_prevention/"
+    },
+    {
+      "text": "Pressure Injuries and Ulcerations Identifying the wound type, setting a clear aim for management and then selecting a product or device remains the mainstay of wound management. There are, of course, many other factors to be considered when addressing patients with wounds, and reviewing a wound in isolation from these other factors may lead to poor healing progress. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/pressure-injuries-and-ulcerations"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Pressure ulcers (bed sores) - causes, prevention, early detection | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Pressure ulcers (bed sores)\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Pressure ulcers develop when an area of skin is damaged due to constant pressure or friction.\n\n- They are also known as bed sores, pressure sores or decubitus ulcers.\n\n- Pressure ulcers can form when you can’t move due to age, illness, disability or frailty.\n\n- Pressure ulcers are preventable, so it’s important to check your skin 2 times each day for early changes.\n\n- Try to move or change position in your bed or chair often to prevent pressure sores from developing — ask a carer for help if you need it.\n\n## On this page\n\n- What are pressure ulcers or sores?\n\n- What symptoms are related to pressure ulcers?\n\n- What causes pressure ulcers?\n\n- When should I see my doctor?\n\n- How are pressure ulcers diagnosed?\n\n- How are pressure ulcers treated?\n\n- Can pressure ulcers be prevented?\n\n- Complications of pressure ulcers\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What are pressure ulcers or sores?\n\nPressure ulcers develop when your skin and the tissue beneath your skin becomes damaged due to constant pressure.\n\nThey are also called bed sores, pressure injuries, pressure sores and decubitus ulcers.\n\nPressure ulcers can appear on any part of your body that is under pressure for a long time. They can happen very quickly if you’re unwell or not able to move easily.\n\nPressure ulcers can range in severity from patches of discoloured skin to open wounds.\n\n## What symptoms are related to pressure ulcers?\n\nEarly signs of a pressure ulcer are:\n\n- red areas\n\n- blistered or bruised-looking skin\n\n- shiny areas\n\n- warm or hard patches\n\n- broken or cracked skin\n\nYou should check your whole body twice a day.\n\nPressure ulcers most often form on parts of your body that aren’t covered by a large amount of body fat. Pay particular attention to bony areas such as your:\n\n- shoulders or shoulder blades\n\n- elbows\n\n- back of your head\n\n- rims of your ears\n\n- knees, ankles, heels or toes\n\n- spine\n\n- buttocks (tailbone)\n\nYou may need someone to help you with this, especially if you have reduced mobility.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n### Pressure ulcer severity\n\nYou might hear medical staff use a grading system to describe the severity of your pressure ulcers. The higher the number the more severe the pressure ulcer is. So, Stage 1 is less severe, while an ulcer can progressively increase in severity to Stage 4.\n\nThe 4 stages of pressure ulcers are:\n\nStage 1 | The skin is red, but not broken. When you press the skin, it does not turn white.\n\nStage 2 | There is some damage to the outer layer of skin. The pressure ulcer looks like a shallow, open wound with a reddish-pink centre. It can also look like a blister that may or may not have opened.\n\nStage 3 | There is full loss or damage of the skin. The wound looks quite deep but is still limited to the skin layers.\n\nStage 4 | There is full loss or damage of the skin. The wound is deep and goes all the way to the underlying bone, tendon or muscle.\n\n## What causes pressure ulcers?\n\nPressure ulcers form when sustained pressure is placed on a particular part of your body.\n\nThis pressure interrupts the blood supply to your skin. Blood contains oxygen and nutrients that keep your tissue healthy. When your blood supply is disrupted, the tissue is damaged and will eventually die.\n\nOnce an ulcer has developed, it can easily become infected by bacteria. This is because the lack of blood supply means that your skin is also no longer getting white blood cells. White blood cells help us to fight infections.\n\nPeople with normal mobility do not develop pressure ulcers.\n\n### What can increase my risk of developing pressure ulcers?\n\nYou are at greater risk of developing pressure ulcers if you have mobility problems. This may be due to illness or surgery — for example due to stroke , spinal injury or dementia .\n\nOther risk factors for pressure ulcers are:\n\n- poor nutrition\n\n- older age — over 70 years\n\n- incontinence\n\n- a health condition that can affect your blood supply — such as diabetes\n\n- a health condition that makes your skin vulnerable to damage\n\n- a serious mental health condition\n\n## When should I see my doctor?\n\nIt’s important to see a doctor if you or someone you care for has a pressure ulcer.\n\nUlcers are best managed early on. So, watch out for early signs of pressure ulcers. Contact your doctor if you notice any changes to your skin.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How are pressure ulcers diagnosed?\n\nYour doctor will be able to diagnose a pressure ulcer by looking at it.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## How are pressure ulcers treated?\n\nYour treatment will depend on how bad your pressure ulcer is. You may just need to change your position regularly or use a special cushion or mattress. Or you may need to use dressings to protect your skin.\n\n### Other treatment options\n\nYou may need antibiotics if your ulcer becomes infected.\n\nSome people will need debridement. This is a procedure used to clean the wound and remove any damaged tissue.\n\n## Can pressure ulcers be prevented?\n\nIt’s important to try and prevent pressure ulcers.\n\nTo protect your skin and prevent pressure ulcers, the following will help:\n\n- Keep active and move as much as you can.\n\n- Eat a variety of nutritious foods , including plenty of fruits and vegetables.\n\n- Drink plenty of fluids to make sure you are hydrated.\n\n- Avoid smoking because this reduces blood flow to your skin.\n\n- Avoid firm massage, especially over bony areas.\n\nIf you have difficulty moving, you may need help from your family, carer or other health team member.\n\n### Caring for your skin\n\nThere are several things that will help you care for your skin:\n\n- Instead of soap, use a mild cleanser and dry the skin gently afterwards.\n\n- Apply moisturisers if your skin is dry, flaky or seems to crack easily.\n\n- Use barrier cream in skin folds.\n\n- Use warm (not hot) water when having a bath or shower.\n\n### Changing position\n\nIt’s important to move around as often as you are able. Continuous pressure on the same areas can lead to a pressure ulcer developing quickly.\n\nTry to change position every 30 minutes. If you can, stand up and walk around.\n\nIf you can’t stand, lean forward or move side to side in your chair for 2 minutes. This takes the pressure off your bottom and hips.\n\nTry to avoid slumping or sliding forward in your chair.\n\nYour healthcare team may use a range of special equipment to help reduce pressure, such as a special cushion.\n\n## Complications of pressure ulcers\n\nPressure ulcers can be painful and decrease your quality of life.\n\nIt’s possible that an infection may spread from the pressure ulcer to your:\n\n- skin ( cellulitis )\n\n- blood ( septicaemia )\n\n- muscle\n\n- bone ( osteomyelitis )\n\nSometimes complications from pressure ulcers can be life-threatening.\n\nIt's important to recognise pressure ulcers early and to act quickly to prevent complications.\n\n## Resources and support\n\nFor more information and support, try these resources:\n\n- The Health Translations website has information on preventing pressure ulcers in languages other than English.\n\n- See the Carer Gateway website for information on caring for someone with reduced mobility.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nTherapeutic Guidelines (Pressure injuries) , SA Health (Pressure ulcers) , The Royal Children's Hospital Melbourne (Pressure injury staging guide) , NHS Inform (Pressure ulcers) , NHS (Pressure ulcers (pressure sores))\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: July 2024\n\nBack To Top\n\n## Search our site for\n\n- Skin Ulcers\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Pressure sores | Better Health Channel\n\nPressure sores can be difficult to treat and may lead to serious complications.\n\nRead more on Better Health Channel website\n\n### Pressure ulcers | SA Health\n\nPressure ulcers can cause skin damage, particularly if your skin is moist or if you suffer from poor circulation or poor sensation in your skin.\n\nRead more on SA Health website\n\n### Kids Health Info : Pressure injury prevention\n\nRead more on Royal Children's Hospital website\n\nShow more\n\n### Pressure Injuries and Ulcerations\n\nIdentifying the wound type, setting a clear aim for management and then selecting a product or device remains the mainstay of wound management. There are, of course, many other factors to be considered when addressing patients with wounds, and reviewing a wound in isolation from these other factors may lead to poor healing progress.\n\nRead more on Ausmed Education website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/pressure-sores-and-ulcers\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/pressure-sores-and-ulcers\n\n- Please enter your name: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/pressure-sores-and-ulcers\n\n- What are pressure ulcers or sores?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#what-is\n\n- What symptoms are related to pressure ulcers?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#symptoms\n\n- What causes pressure ulcers?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#caused\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#doctor\n\n- How are pressure ulcers diagnosed?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#diagnosed\n\n- How are pressure ulcers treated?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#treated\n\n- Can pressure ulcers be prevented?: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#prevented\n\n- Complications of pressure ulcers: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#complications\n\n- Resources and support: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#searchGeneralResults\n\n- skin: https://www.healthdirect.gov.au/skin\n\n- stroke: https://www.healthdirect.gov.au/stroke\n\n- spinal injury: https://www.healthdirect.gov.au/back-injuries\n\n- dementia: https://www.healthdirect.gov.au/dementia\n\n- incontinence: https://www.healthdirect.gov.au/incontinence\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- antibiotics: https://www.healthdirect.gov.au/antibiotics\n\n- Keep active: https://www.healthdirect.gov.au/physical-activity-guidelines-for-older-adults\n\n- Eat a variety of nutritious foods: https://www.healthdirect.gov.au/balanced-diet\n\n- Avoid smoking: https://www.healthdirect.gov.au/quit-smoking-vaping\n\n- cellulitis: https://www.healthdirect.gov.au/cellulitis\n\n- septicaemia: https://www.healthdirect.gov.au/sepsis-septicaemia\n\n- osteomyelitis: https://www.healthdirect.gov.au/osteomyelitis\n\n- preventing pressure ulcers: https://www.healthtranslations.vic.gov.au/resources/eating-to-prevent-and-treat-pressure-injuries\n\n- Carer Gateway website: https://www.myagedcare.gov.au/caring-someone\n\n- (Pressure injuries): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Ulcer%20and%20Wound%20Management&topicfile=pressure-injuries&guidelinename=Ulcer%20and%20Wound%20Management&sectionId=toc_d1e420#toc_d1e420\n\n- (Pressure ulcers): https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/conditions/pressure+ulcers/pressure+ulcers\n\n- (Pressure injury staging guide): https://www.rch.org.au/uploadedFiles/Main/Content/rchcpg/hospital_clinical_guideline_index/Appendix%201%20-%20Pressure%20Injury%20Staging%20Guide%20(2).pdf\n\n- (Pressure ulcers): https://www.nhsinform.scot/illnesses-and-conditions/skin-hair-and-nails/pressure-ulcers/\n\n- (Pressure ulcers (pressure sores)): https://www.nhs.uk/conditions/pressure-sores/\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/pressure-sores-and-ulcers#backToTop\n\n- Skin Ulcers: https://www.healthdirect.gov.au/search-results/Skin Ulcers\n\n- Pressure sores | Better Health Channel Pressure sores can be difficult to treat and may lead to serious complications. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/pressure-sores\n\n- Kids Health Info : Pressure injury prevention Read more on Royal Children's Hospital website: https://www.rch.org.au/kidsinfo/fact_sheets/Pressure_injury_prevention/\n\n- Pressure Injuries and Ulcerations Identifying the wound type, setting a clear aim for management and then selecting a product or device remains the mainstay of wound management. There are, of course, many other factors to be considered when addressing patients with wounds, and reviewing a wound in isolation from these other factors may lead to poor healing progress. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/pressure-injuries-and-ulcerations\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

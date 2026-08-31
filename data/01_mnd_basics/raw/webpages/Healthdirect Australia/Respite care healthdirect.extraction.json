@@ -1,0 +1,675 @@
+{
+  "source_id": "healthdirect-australia:respite-care",
+  "title": "Respite care | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/respite-care",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 31455,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/respite-care"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/respite-care"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/respite-care#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/respite-care#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/respite-care#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/respite-care#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/respite-care"
+    },
+    {
+      "text": "What is respite care?",
+      "url": "https://www.healthdirect.gov.au/respite-care#what-is"
+    },
+    {
+      "text": "When might I need to use respite care?",
+      "url": "https://www.healthdirect.gov.au/respite-care#when"
+    },
+    {
+      "text": "What are the types of respite care?",
+      "url": "https://www.healthdirect.gov.au/respite-care#types"
+    },
+    {
+      "text": "How can I get respite care for the person I care for?",
+      "url": "https://www.healthdirect.gov.au/respite-care#get"
+    },
+    {
+      "text": "How much does respite care cost?",
+      "url": "https://www.healthdirect.gov.au/respite-care#cost"
+    },
+    {
+      "text": "Making the most of respite care",
+      "url": "https://www.healthdirect.gov.au/respite-care#most"
+    },
+    {
+      "text": "Can I use respite care if I am caring for someone with dementia?",
+      "url": "https://www.healthdirect.gov.au/respite-care#caring"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/respite-care#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/respite-care#searchGeneralResults"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/help-and-support/caring-me/available-support-carers/what-respite"
+    },
+    {
+      "text": "residential respite",
+      "url": "https://www.myagedcare.gov.au/types-care/respite-care#residential-respite"
+    },
+    {
+      "text": "emergency care",
+      "url": "https://www.carergateway.gov.au/your-life-carer/preparing-future/preparing-emergencies/emergency-care-plan"
+    },
+    {
+      "text": "Transition care",
+      "url": "https://www.myagedcare.gov.au/aged-care-programs/transition-care"
+    },
+    {
+      "text": "physiotherapy",
+      "url": "https://www.healthdirect.gov.au/physiotherapy"
+    },
+    {
+      "text": "occupational therapy",
+      "url": "https://www.healthdirect.gov.au/occupational-therapy"
+    },
+    {
+      "text": "speech therapy",
+      "url": "https://www.healthdirect.gov.au/speech-pathology"
+    },
+    {
+      "text": "dietetics",
+      "url": "https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "podiatry",
+      "url": "https://www.healthdirect.gov.au/podiatrist"
+    },
+    {
+      "text": "counselling",
+      "url": "https://www.healthdirect.gov.au/counsellors-and-counselling"
+    },
+    {
+      "text": "social work",
+      "url": "https://www.healthdirect.gov.au/social-workers"
+    },
+    {
+      "text": "Department of Veterans' Affairs",
+      "url": "https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services/short-term-care/respite-care"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "register online",
+      "url": "https://www.myagedcare.gov.au/apply-online"
+    },
+    {
+      "text": "assessment",
+      "url": "https://www.myagedcare.gov.au/how-apply-assessment"
+    },
+    {
+      "text": "government services",
+      "url": "https://www.healthdirect.gov.au/aged-care-services"
+    },
+    {
+      "text": "National Disability Insurance Scheme",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? The Pain Question Planner can help you create a list of questions for your doctor.",
+      "url": "https://www.healthdirect.gov.au/pain-question-planner"
+    },
+    {
+      "text": "Commonwealth Home Support Programme",
+      "url": "https://www.myagedcare.gov.au/aged-care-programs/commonwealth-home-support-program"
+    },
+    {
+      "text": "aged care home",
+      "url": "https://www.healthdirect.gov.au/residential-aged-care"
+    },
+    {
+      "text": "costs of respite care for people aged over 65",
+      "url": "https://www.myagedcare.gov.au/short-term-care-costs-and-fees"
+    },
+    {
+      "text": "search tool",
+      "url": "https://www.myagedcare.gov.au/find-a-provider"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/"
+    },
+    {
+      "text": "Aboriginal and/or Torres Strait Islander peoples",
+      "url": "https://www.myagedcare.gov.au/support-aboriginal-and-torres-strait-islander-people"
+    },
+    {
+      "text": "languages other than English",
+      "url": "https://www.myagedcare.gov.au/accessible-all"
+    },
+    {
+      "text": "resources",
+      "url": "https://www.swslhd.health.nsw.gov.au/carers/translations.html"
+    },
+    {
+      "text": "(Respite care)",
+      "url": "https://www.myagedcare.gov.au/short-term-care/respite-care"
+    },
+    {
+      "text": "(Apply for an assessment)",
+      "url": "https://www.myagedcare.gov.au/assessment"
+    },
+    {
+      "text": "(What to consider)",
+      "url": "https://www.myagedcare.gov.au/find-provider/what-consider"
+    },
+    {
+      "text": "(Am I eligible?)",
+      "url": "https://www.myagedcare.gov.au/am-i-eligible"
+    },
+    {
+      "text": "(Prepare for your assessment)",
+      "url": "https://www.myagedcare.gov.au/assessment/prepare-your-assessment"
+    },
+    {
+      "text": "(What happens after assessment)",
+      "url": "https://www.myagedcare.gov.au/assessment/what-happens-after-assessment"
+    },
+    {
+      "text": "(Commonwealth Home Support Programme)",
+      "url": "https://www.myagedcare.gov.au/help-at-home/commonwealth-home-support-programme"
+    },
+    {
+      "text": "(What is burnout?)",
+      "url": "https://au.reachout.com/challenges-and-coping/stress/what-is-burnout"
+    },
+    {
+      "text": "(Respite care)",
+      "url": "https://www.dementia.org.au/living-dementia/care-options/respite-care"
+    },
+    {
+      "text": "(“Respite” or taking a break)",
+      "url": "https://www.carersnsw.org.au/services-and-support/other-services/respite"
+    },
+    {
+      "text": "(Improving access to aged residential respite care)",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2020/07/final-residential-respite-care-report-2-1.pdf"
+    },
+    {
+      "text": "(How we can help carers)",
+      "url": "https://www.ndis.gov.au/understanding/families-and-carers/how-we-can-help-carers"
+    },
+    {
+      "text": "(My Aged Care assessment services)",
+      "url": "https://www.health.vic.gov.au/ageing-and-aged-care/my-aged-care-assessment-services"
+    },
+    {
+      "text": "(Respite care)",
+      "url": "https://www.dva.gov.au/get-support/providers/programs-services/veterans-home-care/respite-care"
+    },
+    {
+      "text": "(Transition care)",
+      "url": "https://www.myagedcare.gov.au/short-term-care/transition-care"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/respite-care#backToTop"
+    },
+    {
+      "text": "Carers",
+      "url": "https://www.healthdirect.gov.au/search-results/Carers"
+    },
+    {
+      "text": "Disabilities",
+      "url": "https://www.healthdirect.gov.au/search-results/Disabilities"
+    },
+    {
+      "text": "Aged care facilities",
+      "url": "https://www.healthdirect.gov.au/search-results/Aged care facilities"
+    },
+    {
+      "text": "Residential care",
+      "url": "https://www.healthdirect.gov.au/search-results/Residential care"
+    },
+    {
+      "text": "Respite - Carers Tasmania We can help you to explore options and plan flexible respite that best meets both your needs and the needs of the person you are caring for. Read more on Carers TAS website",
+      "url": "https://carerstas.org/how-can-we-help/respite/"
+    },
+    {
+      "text": "Respite care | NT.GOV.AU Respite care services for Central Australia and the Top End. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/health-subsidies-support-and-home-visits/respite-care"
+    },
+    {
+      "text": "Respite | Disability Gateway Information and services to help people with disability, their family, friends and carers, to find the support they need in Australia Read more on Disability Gateway website",
+      "url": "https://www.disabilitygateway.gov.au/health-wellbeing/respite"
+    },
+    {
+      "text": "Respite care for your child with disability, autism or ADHD Respite care is when someone cares for your child with disability, autism, ADHD or other needs. It’s good for you and your child. Find out how to get respite. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/disability/services-support/support/respite-care"
+    },
+    {
+      "text": "Respite Services - Carers NT Read more on Carers NT website",
+      "url": "https://www.carersnt.asn.au/services/respite-services/"
+    },
+    {
+      "text": "Emergency Respite – Carers SA Read more on Carers SA website",
+      "url": "https://www.carerssa.com.au/services/emergency-respite/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Respite care | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Respite care\n\n13-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Respite care provides a temporary break for carers and the people they care for.\n\n- If you're caring for someone, you can use respite care for a short break to unwind or take care of personal matters, or for overnight or extended periods to go on holiday.\n\n- Respite care is usually organised in advance, but you can access emergency respite care if you get sick or are suddenly not available to provide care.\n\n- Respite care can be offered in your home or in a community centre, respite cottage or aged care residential home.\n\n- The person you care for will need to have an assessment to access respite services that are partly or fully funded by the government.\n\n## On this page\n\n- What is respite care?\n\n- When might I need to use respite care?\n\n- What are the types of respite care?\n\n- How can I get respite care for the person I care for?\n\n- How much does respite care cost?\n\n- Making the most of respite care\n\n- Can I use respite care if I am caring for someone with dementia?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is respite care?\n\nRespite care is when someone else takes care of the person you usually care for, so that you can take a break.\n\nRespite care provides an organised, temporary break both for the carer and the person they care for. Letting someone else do the caring for a few hours or days has benefits for both of you.\n\nSometimes carers get physically and emotionally tired. It's important that you can have a break so you can be a better carer.\n\nRespite care also benefits people who receive care. This includes children or adults with disability, people with mental illness or dementia , or older people who are frail. It gives them an opportunity to meet new people, do new activities and have fun.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## When might I need to use respite care?\n\nIf you are a carer you might use respite care if you want to go on holiday, attend to everyday activities or just relax. Signs that you might need a break include:\n\n- feeling tired all the time\n\n- difficulty concentrating and getting things done\n\n- getting annoyed easily\n\n- not wanting to do things you used to enjoy\n\n- getting into arguments more often than before\n\nRespite care can last from a few hours to a few weeks. You can organise regular respite care or you might want to have respite care now and again.\n\nSometimes you might need emergency respite care. You may get sick or need to go to hospital and can no longer provide care.\n\n## What are the types of respite care?\n\nFamily, friends or professional aged care or disability services can give respite care. There are many different types of respite services. The type you choose depends on your situation and what services are available in your area.\n\n### In-home respite care\n\nIn-home respite means the person who provides respite care comes to your home. This type of respite care can happen during the day or overnight.\n\n### Centre-based day respite\n\nCentre-based day respite usually happens at a day centre or club. It offers activities and outings for the person receiving care. It gives them the chance to socialise with other people in a safe environment.\n\nDay respite may include transport to and from the centre.\n\n### Overnight or weekend respite\n\nThis type of respite care may be provided in different settings. It can include the home of a host family or a respite ‘cottage-style' house.\n\n### Residential respite care\n\nIf the person you care for needs help every day, you may consider residential respite care. This involves a short stay in a care home, while you have a break for a few days or longer.\n\nResidential respite care can be planned or arranged in an emergency. To organise this type of respite care, the person receiving care needs to have an assessment in advance — to check that they are eligible — and to find a place that suits their needs.\n\n### Emergency respite care\n\nIf you need emergency respite care in your home, call the Carer Gateway on 1800 422 737.\n\nIf you suddenly can't take care of the person that you usually care for, emergency respite care can help you. You might need emergency respite care if:\n\n- you have a major illness\n\n- there is an urgent event that makes it difficult for you to provide care\n\nWhen you call, you might need to give some information. This is to make sure the right type of care is given.\n\nIf you need emergency respite care in an aged care home (known as residential respite ), the person you care for needs to have had an assessment. This is to check if they are eligible.\n\nIf they haven't had this assessment, they might still be able to get short term care in an emergency.\n\nIt's a good idea to make a plan for emergency care before it's needed. So, someone else knows what to do if you can't provide care.\n\n### Transition care\n\nTransition care is for people who have been in hospital and are ready to go home. But they still need more help than usual.\n\nTransition care provides short-term care focused on therapies like:\n\n- physiotherapy\n\n- occupational therapy\n\n- speech therapy\n\n- dietetics\n\n- podiatry\n\n- counselling\n\n- social work\n\n- nursing support\n\n- personal care\n\n## How can I get respite care for the person I care for?\n\nThe person you care for may need an assessment to get some types of respite care. Assessments help to work out how much help the person you care for needs. It also helps work out the type of services they are eligible for.\n\nFor most types of respite care, contact an organisation nearby that provides the type of care needed. Check if they have a place available for the person you care for.\n\nIf the person you care for has a veteran gold or white card, they may be able to get respite care through the Department of Veterans' Affairs .\n\n### If the person you care for is aged 65 years or over\n\nIf you the person you care for is aged 65 years or over, My Aged Care may be able to provide respite care. Aboriginal and/or Torres Strait Islander peoples are eligible from 50 years of age.\n\nThe person you care for will need to:\n\n- Register with My Aged Care and provide information about their needs. They can register online or call My Aged Care on 1800 200 422 .\n\n- Meet with an assessor. The assessor will usually make an appointment to visit the person you care for in their home.\n\n- Have an assessment .\n\nIf the person you care for needs:\n\n- A low level of care, they will meet with an assessor from a Regional Assessment Service (RAS).\n\n- A higher level of care, they will meet with a doctor, nurse, social worker or other healthcare professional from an Aged Care Assessment Team (ACAT, or ACAS in Victoria) for a more in-depth assessment.\n\nThe assessment will mainly be about the type of help they need. The assessor can give you and the person you care for information about the services that are available nearby. It can take from a few weeks to a few months to have an assessment, so it's worth planning ahead.\n\nThey may also ask the person you care for, for permission to talk to their doctor.\n\nOnce the assessment is finished, they will receive a letter to let them know:\n\n- if they are eligible to receive government services\n\n- what type of services they are approved to receive\n\nYou can appeal the ACAT decision if you're not happy with the assessment outcome.\n\n### If the person you care for is aged under 65 years\n\nIf you care for a person with disability and they are aged under 65 years, they can use their National Disability Insurance Scheme (NDIS) package to support respite care.\n\nYou will need to talk to a Local Area Coordinator about including respite in the package to check which services are available in your area.\n\nIf the person you care for is not an NDIS participant, visit the NDIS or call 1800 800 110 to see if they are eligible.\n\nASK YOUR DOCTOR — Preparing for an appointment? The Pain Question Planner can help you create a list of questions for your doctor.\n\n## How much does respite care cost?\n\nSome respite services are free. Other respite services need to be paid for, either partly or fully, by the person getting care.\n\nThe costs will depend on:\n\n- their situation\n\n- what type of care they need\n\n- how long they will spend in respite care\n\n- which services they choose\n\nIf the person you care for receives community-based respite care, it may be funded by the government's Commonwealth Home Support Programme . If they can afford it, they will be asked to contribute to some of the cost.\n\nIf the person you care for receives residential respite care in an aged care home , they will have to pay a basic daily fee and sometimes a booking fee. The maximum basic daily fee for respite is set at 85% of the age pension.\n\nFind out more about costs of respite care for people aged over 65 years.\n\n## Making the most of respite care\n\nIt's important to plan ahead to make respite a positive experience for the person you are caring for. This might mean:\n\n- telling respite staff clearly about the needs of the person you care for\n\n- telling respite staff about the likes and dislikes of the person you care for\n\n- starting with small breaks and building up to longer breaks to give both of you confidence about the experience\n\n- talking to other people in a similar situation about what has worked for them\n\n## Can I use respite care if I am caring for someone with dementia?\n\nIf you are caring for a person with dementia , they might have difficulty adjusting to a new environment. Sometimes they may not wish to leave their family or home for a break. They may behave in a way that's not usual for them when using respite care or afterwards.\n\nThese problems are not unusual and should not stop you taking a break.\n\nIt's often a good idea to seek help and support, such as respite care, early in your caring role. This way, you and the person you care for will have an easier time getting used to respite care.\n\n## Resources and support\n\nVisit Carer Gateway or call 1800 422 737 to find out about respite services in your area or for help getting emergency respite care.\n\nUse the My Aged Care search tool to find respite services in your area. You can register online or call My Aged Care on 1800 200 422 .\n\nServices like My Aged Care or the National Disability Insurance Scheme (NDIS) may support respite care for the person you care for.\n\nDementia Australia offers support, information, education and counselling for people with dementia, their carers and family. To find out more, call the National Dementia Helpline on 1800 100 500 .\n\nLearn about support available for Aboriginal and/or Torres Strait Islander peoples through My Aged Care\n\n### Languages other than English?\n\n- My Aged Care has information available in languages other than English .\n\n- If you speak a language other than English, you can call the Translating and Interpreting Service (TIS) on 131 450. They can help you talk to My Aged Care or with an aged care provider about services for the person you care for.\n\n- Carer Information and Support has resources available in languages other than English. These resources explain how to access carer services and support, such as Carer Gateway, Centrelink and My Aged Care.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nMy Aged Care (Respite care) , My Aged Care (Apply for an assessment) , My Aged Care (What to consider) , My Aged Care (Am I eligible?) , My Aged Care (Prepare for your assessment) , My Aged Care (What happens after assessment) , My Aged Care (Short-term care costs and fees) , My Aged Care (Commonwealth Home Support Programme) , Carer Gateway (What is respite?) , ReachOut (What is burnout?) , Dementia Australia (Respite care) , Carers Australia NSW (“Respite” or taking a break) , Carers Australia (Improving access to aged residential respite care) , NDIS (How we can help carers) , Victoria Department of Health (My Aged Care assessment services) , Department of Veterans’ Affairs (Respite care) , Carer Gateway (Making an emergency care plan) , My Aged Care (Transition care)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: July 2025\n\nBack To Top\n\n## Search our site for\n\n- Carers\n\n- Disabilities\n\n- Aged care facilities\n\n- Residential care\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### “Respite” or Taking a Break | Carers NSW\n\nThis page contains information about taking breaks from your caring role.\n\nRead more on Carers NSW website\n\n### Respite - Carers Tasmania\n\nWe can help you to explore options and plan flexible respite that best meets both your needs and the needs of the person you are caring for.\n\nRead more on Carers TAS website\n\n### Respite care | NT.GOV.AU\n\nRespite care services for Central Australia and the Top End.\n\nRead more on NT Health website\n\n### Respite | Disability Gateway\n\nInformation and services to help people with disability, their family, friends and carers, to find the support they need in Australia\n\nRead more on Disability Gateway website\n\n### Respite care | Dementia Australia\n\nRespite care is a form of short-term, temporary professional care for a person living with dementia.\n\nRead more on Dementia Australia website\n\n### Respite care for your child with disability, autism or ADHD\n\nRespite care is when someone cares for your child with disability, autism, ADHD or other needs. It’s good for you and your child. Find out how to get respite.\n\nRead more on raisingchildren.net.au website\n\n### Respite Services - Carers NT\n\nRead more on Carers NT website\n\n### Emergency Respite – Carers SA\n\nRead more on Carers SA website\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/respite-care\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/respite-care\n\n- Please enter your name: https://www.healthdirect.gov.au/respite-care#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/respite-care#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/respite-care#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/respite-care#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/respite-care\n\n- What is respite care?: https://www.healthdirect.gov.au/respite-care#what-is\n\n- When might I need to use respite care?: https://www.healthdirect.gov.au/respite-care#when\n\n- What are the types of respite care?: https://www.healthdirect.gov.au/respite-care#types\n\n- How can I get respite care for the person I care for?: https://www.healthdirect.gov.au/respite-care#get\n\n- How much does respite care cost?: https://www.healthdirect.gov.au/respite-care#cost\n\n- Making the most of respite care: https://www.healthdirect.gov.au/respite-care#most\n\n- Can I use respite care if I am caring for someone with dementia?: https://www.healthdirect.gov.au/respite-care#caring\n\n- Resources and support: https://www.healthdirect.gov.au/respite-care#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/respite-care#searchGeneralResults\n\n- dementia: https://www.healthdirect.gov.au/dementia\n\n- Carer Gateway: https://www.carergateway.gov.au/help-and-support/caring-me/available-support-carers/what-respite\n\n- residential respite: https://www.myagedcare.gov.au/types-care/respite-care#residential-respite\n\n- emergency care: https://www.carergateway.gov.au/your-life-carer/preparing-future/preparing-emergencies/emergency-care-plan\n\n- Transition care: https://www.myagedcare.gov.au/aged-care-programs/transition-care\n\n- physiotherapy: https://www.healthdirect.gov.au/physiotherapy\n\n- occupational therapy: https://www.healthdirect.gov.au/occupational-therapy\n\n- speech therapy: https://www.healthdirect.gov.au/speech-pathology\n\n- dietetics: https://www.healthdirect.gov.au/dietitians\n\n- podiatry: https://www.healthdirect.gov.au/podiatrist\n\n- counselling: https://www.healthdirect.gov.au/counsellors-and-counselling\n\n- social work: https://www.healthdirect.gov.au/social-workers\n\n- Department of Veterans' Affairs: https://www.dva.gov.au/what-we-help-with/care-at-home-and-aged-care-services/short-term-care/respite-care\n\n- My Aged Care: https://www.myagedcare.gov.au/\n\n- register online: https://www.myagedcare.gov.au/apply-online\n\n- assessment: https://www.myagedcare.gov.au/how-apply-assessment\n\n- government services: https://www.healthdirect.gov.au/aged-care-services\n\n- National Disability Insurance Scheme: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis\n\n- NDIS: https://www.ndis.gov.au/\n\n- ASK YOUR DOCTOR — Preparing for an appointment? The Pain Question Planner can help you create a list of questions for your doctor.: https://www.healthdirect.gov.au/pain-question-planner\n\n- Commonwealth Home Support Programme: https://www.myagedcare.gov.au/aged-care-programs/commonwealth-home-support-program\n\n- aged care home: https://www.healthdirect.gov.au/residential-aged-care\n\n- costs of respite care for people aged over 65: https://www.myagedcare.gov.au/short-term-care-costs-and-fees\n\n- search tool: https://www.myagedcare.gov.au/find-a-provider\n\n- Dementia Australia: https://www.dementia.org.au/\n\n- Aboriginal and/or Torres Strait Islander peoples: https://www.myagedcare.gov.au/support-aboriginal-and-torres-strait-islander-people\n\n- languages other than English: https://www.myagedcare.gov.au/accessible-all\n\n- resources: https://www.swslhd.health.nsw.gov.au/carers/translations.html\n\n- (Respite care): https://www.myagedcare.gov.au/short-term-care/respite-care\n\n- (Apply for an assessment): https://www.myagedcare.gov.au/assessment\n\n- (What to consider): https://www.myagedcare.gov.au/find-provider/what-consider\n\n- (Am I eligible?): https://www.myagedcare.gov.au/am-i-eligible\n\n- (Prepare for your assessment): https://www.myagedcare.gov.au/assessment/prepare-your-assessment\n\n- (What happens after assessment): https://www.myagedcare.gov.au/assessment/what-happens-after-assessment\n\n- (Commonwealth Home Support Programme): https://www.myagedcare.gov.au/help-at-home/commonwealth-home-support-programme\n\n- (What is burnout?): https://au.reachout.com/challenges-and-coping/stress/what-is-burnout\n\n- (Respite care): https://www.dementia.org.au/living-dementia/care-options/respite-care\n\n- (“Respite” or taking a break): https://www.carersnsw.org.au/services-and-support/other-services/respite\n\n- (Improving access to aged residential respite care): https://www.carersaustralia.com.au/wp-content/uploads/2020/07/final-residential-respite-care-report-2-1.pdf\n\n- (How we can help carers): https://www.ndis.gov.au/understanding/families-and-carers/how-we-can-help-carers\n\n- (My Aged Care assessment services): https://www.health.vic.gov.au/ageing-and-aged-care/my-aged-care-assessment-services\n\n- (Respite care): https://www.dva.gov.au/get-support/providers/programs-services/veterans-home-care/respite-care\n\n- (Transition care): https://www.myagedcare.gov.au/short-term-care/transition-care\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/respite-care#backToTop\n\n- Carers: https://www.healthdirect.gov.au/search-results/Carers\n\n- Disabilities: https://www.healthdirect.gov.au/search-results/Disabilities\n\n- Aged care facilities: https://www.healthdirect.gov.au/search-results/Aged care facilities\n\n- Residential care: https://www.healthdirect.gov.au/search-results/Residential care\n\n- Respite - Carers Tasmania We can help you to explore options and plan flexible respite that best meets both your needs and the needs of the person you are caring for. Read more on Carers TAS website: https://carerstas.org/how-can-we-help/respite/\n\n- Respite care | NT.GOV.AU Respite care services for Central Australia and the Top End. Read more on NT Health website: https://nt.gov.au/wellbeing/health-subsidies-support-and-home-visits/respite-care\n\n- Respite | Disability Gateway Information and services to help people with disability, their family, friends and carers, to find the support they need in Australia Read more on Disability Gateway website: https://www.disabilitygateway.gov.au/health-wellbeing/respite\n\n- Respite care for your child with disability, autism or ADHD Respite care is when someone cares for your child with disability, autism, ADHD or other needs. It’s good for you and your child. Find out how to get respite. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/disability/services-support/support/respite-care\n\n- Respite Services - Carers NT Read more on Carers NT website: https://www.carersnt.asn.au/services/respite-services/\n\n- Emergency Respite – Carers SA Read more on Carers SA website: https://www.carerssa.com.au/services/emergency-respite/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

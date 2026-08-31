@@ -1,0 +1,427 @@
+{
+  "source_id": "carers-australia:programs-projects-defence-carers-network",
+  "title": "Carers Australia",
+  "publisher": "Carers Australia",
+  "url": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network",
+  "retrieved_at": "2026-08-30",
+  "topic": "Carer Support",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 16790,
+  "crawl_depth": 1,
+  "seed_url": "https://www.carersaustralia.com.au/",
+  "links": [
+    {
+      "text": "Carers Australia",
+      "url": "https://www.carersaustralia.com.au/"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network",
+      "url": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/about-us/contact-us/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.carersaustralia.com.au/about-us/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/contact-us/"
+    },
+    {
+      "text": "Our Mission",
+      "url": "https://www.carersaustralia.com.au/about-us/our-mission/"
+    },
+    {
+      "text": "What We Do",
+      "url": "https://www.carersaustralia.com.au/about-us/what-we-do/"
+    },
+    {
+      "text": "Our Member Organisations",
+      "url": "https://www.carersaustralia.com.au/about-us/our-member-organisations/"
+    },
+    {
+      "text": "Our CEO",
+      "url": "https://www.carersaustralia.com.au/about-us/our-ceo/"
+    },
+    {
+      "text": "Our History",
+      "url": "https://www.carersaustralia.com.au/about-us/our-history/"
+    },
+    {
+      "text": "Feedback and Complaints",
+      "url": "https://www.carersaustralia.com.au/about-us/feedback-and-complaints/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.carersaustralia.com.au/donate/"
+    },
+    {
+      "text": "Constitution",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/our-constitution/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.carersaustralia.com.au/about-us/board-of-directors/"
+    },
+    {
+      "text": "Governor-General",
+      "url": "https://www.carersaustralia.com.au/about-us/governor-general/"
+    },
+    {
+      "text": "Annual Reports & Strategies",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/"
+    },
+    {
+      "text": "About Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/"
+    },
+    {
+      "text": "Who Is a Carer?",
+      "url": "https://www.carersaustralia.com.au/about-carers/who-is-a-carer/"
+    },
+    {
+      "text": "Young Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/young-carers/"
+    },
+    {
+      "text": "Aboriginal & Torres Strait Islander Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/"
+    },
+    {
+      "text": "Culturally & Linguistically Diverse Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/"
+    },
+    {
+      "text": "Carers In the Workplace",
+      "url": "https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/"
+    },
+    {
+      "text": "Carer Wellbeing Survey",
+      "url": "https://www.carersaustralia.com.au/carer-wellbeing-survey/"
+    },
+    {
+      "text": "Carer Offers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-offers/"
+    },
+    {
+      "text": "Information for Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-gateway/"
+    },
+    {
+      "text": "Digital Health Literacy",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/"
+    },
+    {
+      "text": "Early Childhood Intervention",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/"
+    },
+    {
+      "text": "Mainstream and Community Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/"
+    },
+    {
+      "text": "NDIS and Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/"
+    },
+    {
+      "text": "Reviewing Your NDIS Plan",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/"
+    },
+    {
+      "text": "Other NDIS Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/"
+    },
+    {
+      "text": "Advance Care Planning and Advance Care Directives",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/"
+    },
+    {
+      "text": "Palliative Care and End-of-Life Care",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/"
+    },
+    {
+      "text": "Caring For Someone With Dementia",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/"
+    },
+    {
+      "text": "Centrelink Payments For Carers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/"
+    },
+    {
+      "text": "Programs & Projects",
+      "url": "https://www.carersaustralia.com.au/programs-projects/"
+    },
+    {
+      "text": "Young Carers Network",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/young-carers-network/"
+    },
+    {
+      "text": "Carer-Inclusive Workplace Initiative",
+      "url": "https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/"
+    },
+    {
+      "text": "Defence and Veteran Carers Network",
+      "url": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network/"
+    },
+    {
+      "text": "Mindfulness on Demand",
+      "url": "https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/"
+    },
+    {
+      "text": "SANE Forums",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/sane-forums/"
+    },
+    {
+      "text": "Women Who Care",
+      "url": "https://www.carersaustralia.com.au/programs-projects/women-who-care/"
+    },
+    {
+      "text": "Medicine Safety",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/"
+    },
+    {
+      "text": "Caring for someone living with pain and taking opioids",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/"
+    },
+    {
+      "text": "Opioid Medicines Information Pack and Checklist",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/"
+    },
+    {
+      "text": "Smoking cessation, nicotine products and e-cigarettes",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/"
+    },
+    {
+      "text": "Policy & Advocacy",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/"
+    },
+    {
+      "text": "Submissions",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/submissions/"
+    },
+    {
+      "text": "Position Statements",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/position-statements/"
+    },
+    {
+      "text": "Carer Recognition Inquiry",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/"
+    },
+    {
+      "text": "Federal budget: what it means for carers",
+      "url": "https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/"
+    },
+    {
+      "text": "Federal Election: carers can’t quit",
+      "url": "https://www.carersaustralia.com.au/federal-election-carers-cant-quit/"
+    },
+    {
+      "text": "Superannuation",
+      "url": "https://www.carersaustralia.com.au/superannuation/"
+    },
+    {
+      "text": "Caring Costs Us",
+      "url": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us/"
+    },
+    {
+      "text": "Research & Reports",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/research-reports/"
+    },
+    {
+      "text": "Factsheets",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/factsheets/"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.carersaustralia.com.au/get-involved/"
+    },
+    {
+      "text": "National Carer Strategy",
+      "url": "https://www.carersaustralia.com.au/national-carer-strategy/"
+    },
+    {
+      "text": "News Articles",
+      "url": "https://www.carersaustralia.com.au/news-media/news-articles/"
+    },
+    {
+      "text": "Our Newsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/our-newsletter/"
+    },
+    {
+      "text": "Media Releases",
+      "url": "https://www.carersaustralia.com.au/news-media/media-releases/"
+    },
+    {
+      "text": "Subscribe to the eNewsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/"
+    },
+    {
+      "text": "Media Contact",
+      "url": "https://www.carersaustralia.com.au/news-media/media-contact/"
+    },
+    {
+      "text": "Secret Life of Carers podcast",
+      "url": "https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/"
+    },
+    {
+      "text": "Videos",
+      "url": "https://www.carersaustralia.com.au/news-media/videos/"
+    },
+    {
+      "text": "Our Staff",
+      "url": "https://www.carersaustralia.com.au/?page_id=47"
+    },
+    {
+      "text": "Programs and Projects",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/"
+    },
+    {
+      "text": "My Health Record – Authorised and Nominated Representatives",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/"
+    },
+    {
+      "text": "News & Media",
+      "url": "https://www.carersaustralia.com.au/news-media/"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2023/04/1.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2023/04/1.png"
+    },
+    {
+      "text": "2019 ADF Families Survey",
+      "url": "https://www.defence.gov.au/adf-members-families/partners-dependants/family-programs/adf-families-survey"
+    },
+    {
+      "text": "Department of Defence’s Family Support Funding Program",
+      "url": "https://www.defence.gov.au/adf-members-families/partners-dependants/community-programs/family-support-funding-program"
+    },
+    {
+      "text": "The Secret Life of Carers",
+      "url": "https://open.spotify.com/show/2skckNFOaFSA3iiUJkjRMS"
+    },
+    {
+      "text": "support services",
+      "url": "https://www.defence.gov.au/adf-members-families/health-well-being/support-services"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carersnsw.org.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carersact.org.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carersvictoria.org.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carerssa.com.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carerswa.asn.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carersnt.asn.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.carerstas.org/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://carersqld.com.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.legacy.com.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.openarms.org.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://soldieron.org.au/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://www.mentalhealthcarersaustralia.org.au/Web/Web/Contents/about-us.aspx?hkey=5064bbba-8363-45ed-96d6-f3a84bfc35bb"
+    },
+    {
+      "text": "Open Group",
+      "url": "https://www.facebook.com/groups/479545613178465/"
+    },
+    {
+      "text": "Visit Website",
+      "url": "https://resoluteready.com/"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#94f7f5f5d4f7f5e6f1e6e7f5e1e7e0e6f5f8fdf5baf7fbf9baf5e1"
+    },
+    {
+      "text": "PO Box 5300, Braddon ACT 2612",
+      "url": "https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612"
+    },
+    {
+      "text": "Registered Charity",
+      "url": "https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile"
+    },
+    {
+      "text": "https://www.facebook.com/CarersAus/",
+      "url": "https://www.facebook.com/CarersAus/"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg",
+      "url": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg"
+    },
+    {
+      "text": "https://www.instagram.com/carers_australia/?hl=en",
+      "url": "https://www.instagram.com/carers_australia/?hl=en"
+    },
+    {
+      "text": "https://www.linkedin.com/company/27133792",
+      "url": "https://www.linkedin.com/company/27133792"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.carersaustralia.com.au/disclaimer/"
+    },
+    {
+      "text": "Privacy Policy and Terms of Use",
+      "url": "https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.carersaustralia.com.au/sitemap/"
+    },
+    {
+      "text": "Staff Login",
+      "url": "https://www.carersaustralia.com.au/wp-admin/"
+    },
+    {
+      "text": "Coordinate",
+      "url": "https://coordinate.com.au"
+    }
+  ],
+  "text": "# Carers Australia\n\n## Carer Gateway - 1800 422 737\n\nText size\n\nContact Us\n\n- About Us\n\n#### About Us\n\n- Who we are, what we do, and information about our organisation.\n\n- Contact Us\n\n- Our Organisation\n\n- Our Mission\n\n- What We Do\n\n- Our Member Organisations\n\n- Our CEO\n\n- Our History\n\n- Feedback and Complaints\n\n- Donate\n\n- Our Governance\n\n- Constitution\n\n- Board of Directors\n\n- Governor-General\n\n- Annual Reports & Strategies\n\n- About Carers\n\n#### About Carers\n\n- Key information about carers and how they can be supported.\n\n- Who Is a Carer?\n\n- Young Carers\n\n- Aboriginal & Torres Strait Islander Carers\n\n- Culturally & Linguistically Diverse Carers\n\n- Carers In the Workplace\n\n- Carer Wellbeing Survey\n\n- Carer Offers\n\n- Information for Carers\n\n#### Information for Carers\n\n- Providing a range of information and supports to carers, such as NDIS, Aged Care and advanced care planning.\n\n- Carer Gateway\n\n- Carer Discounts and Concessions\n\n- Digital Health Literacy\n\n- Disability and NDIS\n\n- Early Childhood Intervention\n\n- Mainstream and Community Supports\n\n- NDIS and Carers\n\n- Reviewing Your NDIS Plan\n\n- Other NDIS Supports\n\n- End of Life Care\n\n- Advance Care Planning and Advance Care Directives\n\n- Palliative Care and End-of-Life Care\n\n- Aged Care\n\n- My Aged Care\n\n- Caring For Someone With Dementia\n\n- Government\n\n- Centrelink Payments For Carers\n\n- Programs & Projects\n\n#### Programs & Projects\n\n- Services we provide for carers, including advocacy, advice, and information.\n\n- Young Carers Network\n\n- Programs\n\n- Carer-Inclusive Workplace Initiative\n\n- Defence and Veteran Carers Network\n\n- Projects\n\n- Mindfulness on Demand\n\n- SANE Forums\n\n- Women Who Care\n\n- Medicine Safety\n\n- Caring for someone living with pain and taking opioids\n\n- Opioid Medicines Information Pack and Checklist\n\n- Smoking cessation, nicotine products and e-cigarettes\n\n- Policy & Advocacy\n\n#### Policy & Advocacy\n\n- Advocacy, engagement and research focused on achieving increased recognition and support for carers.\n\n- Submissions & Positions\n\n- Submissions\n\n- Position Statements\n\n- Carer Recognition Inquiry\n\n- Federal budget: what it means for carers\n\n- Federal Election: carers can’t quit\n\n- Research & Resources\n\n- Superannuation\n\n- Caring Costs Us\n\n- Research & Reports\n\n- Factsheets\n\n- Get Involved\n\n- National Carer Strategy\n\n- News & Media\n\n#### News & Media\n\n- News & Articles\n\n- News Articles\n\n- Our Newsletter\n\n- Media Releases\n\n- Subscribe to the eNewsletter\n\n- Media Centre\n\n- Media Contact\n\n- Secret Life of Carers podcast\n\n- Videos\n\n- Our Constitution\n\n- Our Staff\n\n- Programs and Projects\n\n- My Health Record – Authorised and Nominated Representatives\n\nHome | Programs & Projects | Defence and Veteran Carers Network\n\n# Defence and Veteran Carers Network\n\nWhat’s on this page\n\nPodcast: The Secret Life of Carers We want to hear your story Getting the support you need as a carer Carer supports in your State or Territory Support organisations you may already know\n\nCarers Australia recognises the vital role that carers play in supporting Defence members, as well as the Australian Defence Force (ADF) members who provide unpaid care.\n\nMany carers don’t realise they are one. In particular, carers within the ADF and those who care for current and former ADF members are often overlooked and under-identified.\n\nFollowing the findings of the 2019 ADF Families Survey , the Department of Defence’s Family Support Funding Program funded Carers Australia to provide information and support to current and former ADF members and their families, where the current or ex-serving member is a carer, is being cared for, or has been impacted by the caring role.\n\nThe aim of this page is to connect individuals, families and communities to support and resources, and provide an advocacy platform for this unique group of carers.\n\n## Podcast: The Secret Life of Carers\n\nIn Season Four of The Secret Life of Carers , we focus on defence members and their partner and/or carers. Julia Michel (founder of The Home Post community) who will share her expertise and lived experience as a defence partner and carer.\n\n## We want to hear your story\n\nWe are collecting stories to highlight the voices of current and former ADF members who provide care and those who care for ADF personnel and veterans, to help raise awareness of the important role you play and the unique challenges you face.\n\nYour story could help other people better identify as a carer and access support and services to help navigate their role.\n\nShare Your Story .\n\n## Getting the support you need as a carer\n\nAround one in eight of the over half a million Australians who have served or are currently serving in the ADF have a partner, parent, sibling or child who provides care and support for them because of disability, long-term health conditions or old age.\n\nThis is a significantly higher rate than the rest of the Australian population, because of higher rates of long-term health issues in ADF personnel and veterans.\n\nAlthough the Department of Defence offers some support services around the caring role, external supports might be more appropriate for your situation. Unfortunately, carers within the ADF often incorrectly feel they cannot get additional external support and generally do not seek it out.\n\n## Carer supports in your State or Territory\n\nMore information\n\nCarer Gateway\n\nVisit Website\n\nCarers New South Wales\n\nCarers Australian Capital Territory\n\nCarers Victoria\n\nCarers South Australia\n\nCarers Western Australia\n\nCarers Northern Territory\n\nCarers Tasmania\n\nCarers Queensland\n\n## Support organisations you may already know\n\nLegacy\n\nOpen Arms\n\nSoldier On\n\nMental Health Carers Australia\n\nFacebook group for Defence and Veteran Partner & Carers Support Group\n\nOpen Group\n\nResolute Ready\n\nRelated topics\n\nDefence and Veteran Carers Network Mindfulness on Demand Women Who Care Caring Costs Us Digital Health Literacy Carer-Inclusive Workplace Initiative\n\n###### Contact Us\n\n[email protected]\n\nPO Box 5300, Braddon ACT 2612\n\nRegistered Charity\n\n###### Subscribe to our fortnightly newsletter\n\n- Name\n\n- This field is for validation purposes and should be left unchanged.\n\n- First Name *\n\n- Last Name *\n\n- Email Address *\n\n- CAPTCHA\n\n- This field is hidden when viewing the form\n\n- CA Subscriber\n\nSubscribe\n\nCarers Australia acknowledges Aboriginal and Torres Strait Islander peoples and communities as the traditional custodians of the land we work on and pay our respects to elders past and present. As an inclusive organisation we celebrate people of all backgrounds, genders, cultures, and abilities.\n\nDisclaimer\n\nPrivacy Policy and Terms of Use\n\nSitemap\n\nStaff Login\n\n© Copyright 2026 Carers Australia Limited - ABN 12231938308\n\nSite by Coordinate\n\n## Your Story is Important to Us\n\n- Email\n\n- Your name *\n\n- Enter Email Confirm Email\n\n- State *\n\n- Select state ACT NSW VIC QLD NT WA TAS\n\n- Postcode *\n\n- Tell us your story *\n\n- Check the box that best describes you *\n\n- Carer of defence member or veteran\n\n- Defence member or veteran providing unpaid care\n\n- Unpaid carer\n\n- Other\n\n- Remain anonymous (please note any use of the information you give us will be de-identified when 'Yes' is selected) *\n\n- Yes\n\n- No\n\n## Permission to contact *\n\n## CAPTCHA\n\nSubmit\n\nClose\n\n\n\n## Links found on page\n\n- Carers Australia: https://www.carersaustralia.com.au/\n\n- https://www.carersaustralia.com.au/programs-projects/defence-carers-network: https://www.carersaustralia.com.au/programs-projects/defence-carers-network\n\n- Contact Us: https://www.carersaustralia.com.au/about-us/contact-us/\n\n- About Us: https://www.carersaustralia.com.au/about-us/\n\n- Contact Us: https://www.carersaustralia.com.au/contact-us/\n\n- Our Mission: https://www.carersaustralia.com.au/about-us/our-mission/\n\n- What We Do: https://www.carersaustralia.com.au/about-us/what-we-do/\n\n- Our Member Organisations: https://www.carersaustralia.com.au/about-us/our-member-organisations/\n\n- Our CEO: https://www.carersaustralia.com.au/about-us/our-ceo/\n\n- Our History: https://www.carersaustralia.com.au/about-us/our-history/\n\n- Feedback and Complaints: https://www.carersaustralia.com.au/about-us/feedback-and-complaints/\n\n- Donate: https://www.carersaustralia.com.au/donate/\n\n- Constitution: https://www.carersaustralia.com.au/submissions-reports/our-constitution/\n\n- Board of Directors: https://www.carersaustralia.com.au/about-us/board-of-directors/\n\n- Governor-General: https://www.carersaustralia.com.au/about-us/governor-general/\n\n- Annual Reports & Strategies: https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/\n\n- About Carers: https://www.carersaustralia.com.au/about-carers/\n\n- Who Is a Carer?: https://www.carersaustralia.com.au/about-carers/who-is-a-carer/\n\n- Young Carers: https://www.carersaustralia.com.au/about-carers/young-carers/\n\n- Aboriginal & Torres Strait Islander Carers: https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/\n\n- Culturally & Linguistically Diverse Carers: https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/\n\n- Carers In the Workplace: https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/\n\n- Carer Wellbeing Survey: https://www.carersaustralia.com.au/carer-wellbeing-survey/\n\n- Carer Offers: https://www.carersaustralia.com.au/support-for-carers/carer-offers/\n\n- Information for Carers: https://www.carersaustralia.com.au/information-for-carers/\n\n- Carer Gateway: https://www.carersaustralia.com.au/support-for-carers/carer-gateway/\n\n- Digital Health Literacy: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/\n\n- Early Childhood Intervention: https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/\n\n- Mainstream and Community Supports: https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/\n\n- NDIS and Carers: https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/\n\n- Reviewing Your NDIS Plan: https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/\n\n- Other NDIS Supports: https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/\n\n- Advance Care Planning and Advance Care Directives: https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/\n\n- Palliative Care and End-of-Life Care: https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/\n\n- My Aged Care: https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/\n\n- Caring For Someone With Dementia: https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/\n\n- Centrelink Payments For Carers: https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/\n\n- Programs & Projects: https://www.carersaustralia.com.au/programs-projects/\n\n- Young Carers Network: https://www.carersaustralia.com.au/information-for-carers/young-carers-network/\n\n- Carer-Inclusive Workplace Initiative: https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/\n\n- Defence and Veteran Carers Network: https://www.carersaustralia.com.au/programs-projects/defence-carers-network/\n\n- Mindfulness on Demand: https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/\n\n- SANE Forums: https://www.carersaustralia.com.au/support-for-carers/sane-forums/\n\n- Women Who Care: https://www.carersaustralia.com.au/programs-projects/women-who-care/\n\n- Medicine Safety: https://www.carersaustralia.com.au/medicine-safety/\n\n- Caring for someone living with pain and taking opioids: https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/\n\n- Opioid Medicines Information Pack and Checklist: https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/\n\n- Smoking cessation, nicotine products and e-cigarettes: https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/\n\n- Policy & Advocacy: https://www.carersaustralia.com.au/policy-advocacy/\n\n- Submissions: https://www.carersaustralia.com.au/submissions-reports/submissions/\n\n- Position Statements: https://www.carersaustralia.com.au/submissions-reports/position-statements/\n\n- Carer Recognition Inquiry: https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/\n\n- Federal budget: what it means for carers: https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/\n\n- Federal Election: carers can’t quit: https://www.carersaustralia.com.au/federal-election-carers-cant-quit/\n\n- Superannuation: https://www.carersaustralia.com.au/superannuation/\n\n- Caring Costs Us: https://www.carersaustralia.com.au/programs-projects/caring-costs-us/\n\n- Research & Reports: https://www.carersaustralia.com.au/submissions-reports/research-reports/\n\n- Factsheets: https://www.carersaustralia.com.au/submissions-reports/factsheets/\n\n- Get Involved: https://www.carersaustralia.com.au/get-involved/\n\n- National Carer Strategy: https://www.carersaustralia.com.au/national-carer-strategy/\n\n- News Articles: https://www.carersaustralia.com.au/news-media/news-articles/\n\n- Our Newsletter: https://www.carersaustralia.com.au/news-media/our-newsletter/\n\n- Media Releases: https://www.carersaustralia.com.au/news-media/media-releases/\n\n- Subscribe to the eNewsletter: https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/\n\n- Media Contact: https://www.carersaustralia.com.au/news-media/media-contact/\n\n- Secret Life of Carers podcast: https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/\n\n- Videos: https://www.carersaustralia.com.au/news-media/videos/\n\n- Our Staff: https://www.carersaustralia.com.au/?page_id=47\n\n- Programs and Projects: https://www.carersaustralia.com.au/support-for-carers/\n\n- My Health Record – Authorised and Nominated Representatives: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/\n\n- News & Media: https://www.carersaustralia.com.au/news-media/\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2023/04/1.png: https://www.carersaustralia.com.au/wp-content/uploads/2023/04/1.png\n\n- 2019 ADF Families Survey: https://www.defence.gov.au/adf-members-families/partners-dependants/family-programs/adf-families-survey\n\n- Department of Defence’s Family Support Funding Program: https://www.defence.gov.au/adf-members-families/partners-dependants/community-programs/family-support-funding-program\n\n- The Secret Life of Carers: https://open.spotify.com/show/2skckNFOaFSA3iiUJkjRMS\n\n- support services: https://www.defence.gov.au/adf-members-families/health-well-being/support-services\n\n- Visit Website: https://www.carergateway.gov.au/\n\n- Visit Website: https://www.carersnsw.org.au/\n\n- Visit Website: https://www.carersact.org.au/\n\n- Visit Website: https://www.carersvictoria.org.au/\n\n- Visit Website: https://www.carerssa.com.au/\n\n- Visit Website: https://www.carerswa.asn.au/\n\n- Visit Website: https://www.carersnt.asn.au/\n\n- Visit Website: https://www.carerstas.org/\n\n- Visit Website: https://carersqld.com.au/\n\n- Visit Website: https://www.legacy.com.au/\n\n- Visit Website: https://www.openarms.org.au/\n\n- Visit Website: https://soldieron.org.au/\n\n- Visit Website: https://www.mentalhealthcarersaustralia.org.au/Web/Web/Contents/about-us.aspx?hkey=5064bbba-8363-45ed-96d6-f3a84bfc35bb\n\n- Open Group: https://www.facebook.com/groups/479545613178465/\n\n- Visit Website: https://resoluteready.com/\n\n- [email protected]: https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#94f7f5f5d4f7f5e6f1e6e7f5e1e7e0e6f5f8fdf5baf7fbf9baf5e1\n\n- PO Box 5300, Braddon ACT 2612: https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612\n\n- Registered Charity: https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile\n\n- https://www.facebook.com/CarersAus/: https://www.facebook.com/CarersAus/\n\n- https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg: https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg\n\n- https://www.instagram.com/carers_australia/?hl=en: https://www.instagram.com/carers_australia/?hl=en\n\n- https://www.linkedin.com/company/27133792: https://www.linkedin.com/company/27133792\n\n- Disclaimer: https://www.carersaustralia.com.au/disclaimer/\n\n- Privacy Policy and Terms of Use: https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/\n\n- Sitemap: https://www.carersaustralia.com.au/sitemap/\n\n- Staff Login: https://www.carersaustralia.com.au/wp-admin/\n\n- Coordinate: https://coordinate.com.au"
+}

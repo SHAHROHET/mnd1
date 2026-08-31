@@ -1,0 +1,3347 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<title>MND Australia</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="canonical" href="https://www.mndaustralia.org.au/" />
+
+		<meta property="og:url" content="https://www.mndaustralia.org.au/" />
+		<meta property="og:title" content="MND Australia" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="" />
+		<meta property="og:image" content="" />
+		<meta property="og:locale" content="en_AU" />
+		<meta property="og:site_name" content="MND Australia" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:image" content="" />
+		<meta name="twitter:description" content="" />
+		<meta name="twitter:title" content="MND Australia" />
+		<meta name="twitter:site" content="@mnd" />
+		<meta name="twitter:creator" content="@mnd" />
+
+		<link rel="icon" href="/dist/img/favicon.ico?v=1.0.036">
+		<link rel="apple-touch-icon" href="/dist/img/apple-touch-icon.png?v=1.0.036">
+
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Shippori+Mincho:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+
+		<link rel="stylesheet" href="/dist/styles/main.css?v=1.0.036">
+
+			<link rel="preconnect" href="https://challenges.cloudflare.com" />
+
+
+		<!-- Hotjar Tracking Code for Site 6443782 (name missing) -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:6443782,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X6XEN019KX"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
+	gtag("config", "G-X6XEN019KX");
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != "dataLayer" ? "&l=" + l : "";
+		j.async = true;
+		j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, "script", "dataLayer", "GTM-T3M6F85");
+</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+	(function () {
+		// =========================================================
+		// MAIN LOGIC
+		// =========================================================
+		function wrapWords() {
+			// 1. Fetch words from the body attribute
+			const wordsAttr = document.body.getAttribute("data-reciteme-ignored-words");
+
+			// Safety check: if attribute is missing or empty, stop.
+			if (!wordsAttr) return;
+
+			// 2. Process the string into an array
+			// We split by comma, trim whitespace (e.g., " word " -> "word"),
+			// and filter out empty entries.
+			const wordsToWrap = wordsAttr
+				.split(",")
+				.map((w) => w.trim())
+				.filter((w) => w.length > 0);
+
+			if (wordsToWrap.length === 0) return;
+
+			// 3. Prepare Regex
+			// Escape special regex characters
+			const escapedWords = wordsToWrap.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+
+			// Create Regex with word boundaries (\b)
+			// CHANGED: Removed 'i' flag. Used 'g' only to make it CASE SENSITIVE.
+			const regex = new RegExp(`\\b(${escapedWords.join("|")})\\b`, "g");
+
+			// 4. TreeWalker to find text nodes
+			const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+
+			const textNodes = [];
+			let node;
+
+			// Collect valid text nodes
+			while ((node = walker.nextNode())) {
+				const parentTag = node.parentNode.tagName.toUpperCase();
+				// Skip scripts, styles, textareas, and already wrapped elements
+				if (parentTag !== "SCRIPT" && parentTag !== "STYLE" && parentTag !== "TEXTAREA" && node.parentNode.getAttribute("data-recite-translate-skip") !== "true") {
+					textNodes.push(node);
+				}
+			}
+
+			// 5. Apply the wrapping
+			textNodes.forEach((textNode) => {
+				const text = textNode.nodeValue;
+
+				if (regex.test(text)) {
+					const fragment = document.createDocumentFragment();
+					let lastIndex = 0;
+					regex.lastIndex = 0;
+					let match;
+
+					while ((match = regex.exec(text)) !== null) {
+						const before = text.slice(lastIndex, match.index);
+						if (before) fragment.appendChild(document.createTextNode(before));
+
+						// Create the wrapper span
+						const span = document.createElement("span");
+						span.setAttribute("data-recite-translate-skip", "true");
+						span.textContent = match[0];
+						fragment.appendChild(span);
+
+						lastIndex = regex.lastIndex;
+					}
+
+					const remaining = text.slice(lastIndex);
+					if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+					textNode.parentNode.replaceChild(fragment, textNode);
+				}
+			});
+		}
+
+		// =========================================================
+		// EXECUTION
+		// =========================================================
+		if (document.readyState === "complete" || document.readyState === "interactive") {
+			wrapWords();
+		} else {
+			window.addEventListener("DOMContentLoaded", wrapWords);
+		}
+	})();
+</script>
+
+<script>
+	var serviceUrl = "//uswestapi.reciteme.com/asset/js?key=";
+	var serviceKey = "c9229e6aa634865dcc54bd17b62f554a5d2e5293";
+	var options = {
+		Dom: {
+			word_filters: {
+				mnd: "m.n.d",
+			},
+		},
+	}; // Options can be added as needed
+	var autoLoad = false;
+	var enableFragment = "#reciteEnable";
+	var loaded = [],
+		frag = !1;
+	window.location.hash === enableFragment && (frag = !0);
+	function loadScript(c, b) {
+		var a = document.createElement("script");
+		a.type = "text/javascript";
+		a.readyState
+			? (a.onreadystatechange = function () {
+					if ("loaded" == a.readyState || "complete" == a.readyState) ((a.onreadystatechange = null), void 0 != b && b());
+				})
+			: void 0 != b &&
+				(a.onload = function () {
+					b();
+				});
+		a.src = c;
+		document.getElementsByTagName("head")[0].appendChild(a);
+	}
+	function _rc(c) {
+		c += "=";
+		for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) {
+			for (var d = b[a]; " " == d.charAt(0); ) d = d.substring(1, d.length);
+			if (0 == d.indexOf(c)) return d.substring(c.length, d.length);
+		}
+		return null;
+	}
+	function loadService(c) {
+		for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++) if (loaded[a] == b) return;
+		loaded.push(b);
+		loadScript(serviceUrl + serviceKey, function () {
+			"function" === typeof _reciteLoaded && _reciteLoaded();
+			"function" == typeof c && c();
+			Recite.load(options);
+			Recite.Event.subscribe("Recite:load", function () {
+				Recite.enable();
+			});
+		});
+	}
+	"true" == _rc("Recite.Persist") && loadService();
+	if ((autoLoad && "false" != _rc("Recite.Persist")) || frag)
+		document.addEventListener
+			? document.addEventListener("DOMContentLoaded", function (c) {
+					loadService();
+				})
+			: loadService();
+	function _reciteLoaded() {
+		Recite.Event.subscribe("Controls:loaded", function () {
+			Recite.Dom.setOptions({ word_filters: { mnd: "m.n.d" } });
+		});
+		document.querySelectorAll('[href^="tel:"], .phone').forEach(function (e) {
+			e.setAttribute("data-recite-translate-skip", true);
+		});
+
+		Recite.Event.subscribe("Translate:complete", function () {
+			document.querySelectorAll('.ktc-checkbox, [href^="tel:"]').forEach(function (e) {
+				e.setAttribute("dir", "ltr");
+			});
+		});
+	}
+</script>
+
+<script>
+	(function () {
+		var STORAGE_KEY = "reciteAccessibilityIntroAt";
+		var ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+		function shouldRedirectToAccessibility() {
+			try {
+				var stored = localStorage.getItem(STORAGE_KEY);
+				if (!stored) return true;
+				var elapsed = Date.now() - parseInt(stored, 10);
+				return isNaN(elapsed) || elapsed >= ONE_WEEK_MS;
+			} catch (e) {
+				return true;
+			}
+		}
+
+		function markAccessibilityIntroSeen() {
+			try {
+				localStorage.setItem(STORAGE_KEY, String(Date.now()));
+			} catch (e) {}
+		}
+
+		function enableReciteOnCurrentPage() {
+			if (typeof loadService === "function") {
+				loadService();
+			}
+		}
+
+		function redirectToAccessibility() {
+			markAccessibilityIntroSeen();
+			if (window.location.pathname === "/accessibility") {
+				window.location.href = "/accessibility?t=" + Date.now() + "#reciteEnable";
+			} else {
+				window.location.href = "/accessibility#reciteEnable";
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", function () {
+			document.querySelectorAll(".enableRecite").forEach(function (element) {
+				element.addEventListener("click", function (event) {
+					if (event.preventDefault) event.preventDefault();
+					if (shouldRedirectToAccessibility()) {
+						redirectToAccessibility();
+					} else {
+						enableReciteOnCurrentPage();
+					}
+				});
+			});
+		});
+
+		if (window.location.pathname === "/accessibility" && window.location.hash === "#reciteEnable") {
+			document.addEventListener("DOMContentLoaded", function () {
+				markAccessibilityIntroSeen();
+				loadService();
+				if (typeof Recite !== "undefined") {
+					Recite.Event.subscribe("Recite:load", function () {
+						window.history.replaceState(null, null, window.location.pathname);
+					});
+				} else {
+					setTimeout(function () {
+						if (window.location.hash === "#reciteEnable") {
+							window.history.replaceState(null, null, window.location.pathname);
+						}
+					}, 1000);
+				}
+			});
+		}
+	})();
+</script>
+
+<style>
+@media print {
+.page-banner {
+margin-bottom: 0!important;
+}
+
+#recite-header {
+display: none;
+}
+
+body, header {
+top: 0 !important;
+}
+
+div.h-100 {
+height: auto !important;
+}
+
+.page-sidebar, .mobile-sidebar-dropdown, .page-sidebar-rating {
+display: none !important;
+}
+}
+
+.enableRecite {
+display: flex;
+align-items: center;
+}
+
+.accordion-button--link{
+font-weight: 400;
+}
+
+.accordion-button--link:after {
+display: none;
+}
+</style>
+		
+	</head>
+
+	<body class="header-transparent" data-reciteme-ignored-words="">
+
+		  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3M6F85"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<script>
+(function() {
+    // =========================================================
+    // MAIN LOGIC
+    // =========================================================
+    function wrapWords() {
+        // 1. Fetch words from the body attribute
+        const wordsAttr = document.body.getAttribute('data-reciteme-ignored-words');
+
+        // Safety check: if attribute is missing or empty, stop.
+        if (!wordsAttr) return;
+
+        // 2. Process the string into an array
+        // We split by comma, trim whitespace (e.g., " word " -> "word"), 
+        // and filter out empty entries.
+        const wordsToWrap = wordsAttr
+            .split(',')
+            .map(w => w.trim())
+            .filter(w => w.length > 0);
+
+        if (wordsToWrap.length === 0) return;
+
+        // 3. Prepare Regex
+        // Escape special regex characters
+        const escapedWords = wordsToWrap.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        
+        // Create Regex with word boundaries (\b) and case-insensitivity (i)
+        const regex = new RegExp(`\\b(${escapedWords.join('|')})\\b`, 'gi');
+
+        // 4. TreeWalker to find text nodes
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const textNodes = [];
+        let node;
+
+        // Collect valid text nodes
+        while (node = walker.nextNode()) {
+            const parentTag = node.parentNode.tagName.toUpperCase();
+            // Skip scripts, styles, textareas, and already wrapped elements
+            if (parentTag !== 'SCRIPT' && 
+                parentTag !== 'STYLE' && 
+                parentTag !== 'TEXTAREA' &&
+                node.parentNode.getAttribute('data-recite-translate-skip') !== 'true') {
+                textNodes.push(node);
+            }
+        }
+
+        // 5. Apply the wrapping
+        textNodes.forEach(textNode => {
+            const text = textNode.nodeValue;
+            
+            if (regex.test(text)) {
+                const fragment = document.createDocumentFragment();
+                let lastIndex = 0;
+                regex.lastIndex = 0;
+                let match;
+
+                while ((match = regex.exec(text)) !== null) {
+                    const before = text.slice(lastIndex, match.index);
+                    if (before) fragment.appendChild(document.createTextNode(before));
+
+                    // Create the wrapper span
+                    const span = document.createElement('span');
+                    span.setAttribute('data-recite-translate-skip', 'true');
+                    span.textContent = match[0]; 
+                    fragment.appendChild(span);
+
+                    lastIndex = regex.lastIndex;
+                }
+
+                const remaining = text.slice(lastIndex);
+                if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+                textNode.parentNode.replaceChild(fragment, textNode);
+            }
+        });
+    }
+
+    // =========================================================
+    // EXECUTION
+    // =========================================================
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        wrapWords();
+    } else {
+        window.addEventListener('DOMContentLoaded', wrapWords);
+    }
+})();
+</script>
+		
+
+		<header class="site-header header-transparent">
+			
+
+
+<div class="print-logo">
+	<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+</div>
+
+<div class="subheader-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12">
+				<div class="d-flex justify-content-end">
+					
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+					<ul>
+						<li>
+							<button class="btn btn-link text-white py-1 enableRecite" id="enableRecite1"><img src="/dist/img/a-icon-white.png" class="me-1" style="height: 20px; width: auto;" alt="Language and accessibility">Language and accessibility</button>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="header-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12 d-flex align-items-center justify-content-between position-static">
+				<a href="/" class="header-logo">
+					<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+					<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="logo-transparent" alt="MNDA Logo">
+				</a>
+				<div class="header-nav">
+					<div class="desktop-menu hide-mobile">
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+					</div>
+					<div class="mobile-menu hide-desktop px-4">
+						<div class="mobile-search-menu d-flex mb-4">
+							<input type="text" class="header-mobile-search-input w-100 mb-0" placeholder="What would you like to search for?">
+							<button class="btn btn-link header-mobile-search-submit"><i class="fa-solid fa-search"></i></button>
+						</div>
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3 me-2 enableRecite" id="enableRecite2">
+							<img src="/dist/img/a-icon-orange.png" class="me-2" style="height: 16px; width: auto;" alt="Language and accessibility">
+							<span>Language and accessibility</span>
+						</button>
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3">
+							<i class="fa-solid fa-phone me-2"></i>
+							<span>Get Support</span>
+						</button>
+					</div>
+					<div class="header-submenu get-support-menu hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-12 submenu-wrapper">
+				<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+				<div class="menu-card">
+					<div class="menu-card-title h2 mb-3">Get support</div>
+					<div class="menu-card-content">Call the number below to get directly connected to the local MND association in your State</div>
+					<div class="d-flex align-items-center rounded-lg bg-blue border border-white px-3 px-lg-4 py-3 mt-4 mb-xl-0 mb-4">
+						<img src="/dist/img/australia.svg" class="h-auto" alt="Australia Map">
+						<div class="ps-4 ps-xl-5">
+							<a href="tel:1800 777 175" class="h4 text-white mb-1"><span class="phone">1800 777 175</span></a>
+							<div class="text-white">9am to 4:30pm Monday to Friday</div>
+						</div>
+					</div>
+				</div>
+				<div class="support-contact-container">
+					<div class="accordion" id="accordionContact1">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact1" aria-expanded="false" aria-controls="contentContact1"><span data-recite-translate-skip="true">Australian Capital Territory</span></button>
+							</h2>
+							<div id="contentContact1" class="accordion-collapse collapse" data-bs-parent="#accordionContact1">
+								<div class="accordion-body text-md">
+									<p>(MND services in the <span data-recite-translate-skip="true">ACT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#bfd6d1d9d0d3d6d1daffd2d1dbd1ccc891d0cdd891deca" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact5">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact5" aria-expanded="false" aria-controls="contentContact5"><span data-recite-translate-skip="true">South Australia</span></button>
+							</h2>
+							<div id="contentContact5" class="accordion-collapse collapse" data-bs-parent="#accordionContact5">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">66 Hughes Street, Mile End SA 5031</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 2087 Hilton Plaza SA 5033</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndsa.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#6a070b03061e05500b0e0703042a07040e190b4405180d440b1f" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact2">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact2" aria-expanded="false" aria-controls="contentContact2"><span data-recite-translate-skip="true">New South Wales</span></button>
+							</h2>
+							<div id="contentContact2" class="accordion-collapse collapse" data-bs-parent="#accordionContact2">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital,Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#8ce5e2eae3e0e5e2e9cce1e2e8e2fffba2e3feeba2edf9" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact6">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact6" aria-expanded="false" aria-controls="contentContact6"><span data-recite-translate-skip="true">Tasmania</span></button>
+							</h2>
+							<div id="contentContact6" class="accordion-collapse collapse" data-bs-parent="#accordionContact6">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in <span data-recite-translate-skip="true">Tasmania</span> are provided by <span data-recite-translate-skip="true">MND Victoria</span>)</p>
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndatas.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#e78e898188a78a898386938694c9869489c98692" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact3">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact3" aria-expanded="false" aria-controls="contentContact3"><span data-recite-translate-skip="true">Northern Territory</span></button>
+							</h2>
+							<div id="contentContact3" class="accordion-collapse collapse" data-bs-parent="#accordionContact3">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in the <span data-recite-translate-skip="true">NT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005, Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#deb7b0b8b1b2b7b0bb9eb3b0bab0ada9f0b1acb9f0bfab" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact7">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact7" aria-expanded="false" aria-controls="contentContact7"><span data-recite-translate-skip="true">Victoria</span></button>
+							</h2>
+							<div id="contentContact7" class="accordion-collapse collapse" data-bs-parent="#accordionContact7">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mnd.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#ec85828a83ac818288c2839e8bc28d99" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact4">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact4" aria-expanded="false" aria-controls="contentContact4"><span data-recite-translate-skip="true">Queensland</span></button>
+							</h2>
+							<div id="contentContact4" class="accordion-collapse collapse" data-bs-parent="#accordionContact4">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">1/89 Factory Road, Oxley QLD 4075</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 470, Inala QLD 4077</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndqld.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#adc4c3cbc2edc0c3c9ccdc83c2dfca83ccd8" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact8">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact8" aria-expanded="false" aria-controls="contentContact8"><span data-recite-translate-skip="true">Western Australia</span></button>
+							</h2>
+							<div id="contentContact8" class="accordion-collapse collapse" data-bs-parent="#accordionContact8">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Unit 1, 184 Raleigh Street, Carlisle WA 6101</span></p>
+									<p>Post: as above</p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndawa.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#8aebeee7e3e4cae7e4eeebfdeba4ebf9e4a4ebff" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="header-submenu search-menu bg-light hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-xl-8 offset-2 d-flex justify-content-center align-items-center">
+				<div class="search-container w-100">
+					<p class="fw-bold">Search</p>
+					<div class="d-flex">
+						<input type="text" class="form-control header-desktop-search-input w-100 px-3 mb-0" placeholder="What would you like to search for?">
+						<button class="btn btn-orange header-desktop-search-submit ms-3">Search</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="header-actions">
+					<button class="btn btn-outline-orange align-items-center btn-header-support">
+						<i class="fa-solid fa-phone me-2"></i>
+						<span>Get Support</span>
+					</button>
+					<button class="btn btn-link p-0 d-none d-xs-inline-block d-xl-none me-1 enableRecite" id="enableRecite3">
+						<img src="/dist/img/a-icon-blue.png" style="height: 34px; width: auto;" alt="Language and accessibility">
+					</button>
+						<a href="https://donate.mndaustralia.org.au/" class="btn btn-orange align-items-center ms-0 btn-header-donate">
+							<i class="fa-solid fa-heart me-2"></i>
+							<span>Donate</span>
+						</a>
+					<button class="btn btn-light bg-light align-items-center justify-content-center p-0 rounded-circle btn-header-search">
+						<i class="fa-solid fa-search"></i>
+					</button>
+					<button class="btn btn-link align-items-center justify-content-center p-0 btn-header-toggle">
+						<i class="fa-solid fa-bars"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</header>
+
+
+		<main>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-fluid pt-0 pb-0 px-0  ">
+        <div class="row gx-0 ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+
+	<div class="banner-slider-container swiper header-transparent">
+		<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<div class="banner-slide desktop-bg-contain mobile-bg-contain" style="color: #ffffff; background-color: #2254a0; --desktop-image: url('/getmedia/74e40cbb-f8fa-4f19-bd68-d858888afb80/National-Conference-2026-homepage-banner-(5)-(1).png?width=1920&amp;height=1025&amp;ext=.png'); --mobile-image: url('/getmedia/9f881b14-0cb9-476a-b032-1bf829b85baf/National-Conference-banner-mobile-(1).png?width=768&amp;height=1561&amp;ext=.png');">
+						<div class="content-wrapper">
+							<div class="content display-3 text-white">
+								<p>Registrations now open for the National MND Conference 2026</p>
+
+									<div class="btn-container">
+											<a href="https://mnd-national-conference-2026.eventsairsite.com/" class="btn btn-outline-white">Learn more</a>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="banner-slide desktop-bg-contain mobile-bg-contain" style="color: #ffffff; background-color: #2254a0; --desktop-image: url('/getmedia/25c93921-5b22-4769-84c6-7dd112432bb3/Webinar-navigating-the-NDIS-(3)-(1).png?width=1920&amp;height=1025&amp;ext=.png'); --mobile-image: url('/getmedia/cac0c06b-3ea5-48bf-bfd6-6d991fb90010/Webinar-navigating-ndis-mobile-banner.png?width=768&amp;height=1561&amp;ext=.png');">
+						<div class="content-wrapper">
+							<div class="content display-3 text-white">
+								<p>Webinar: Navigating the NDIS<br>
+Weds 24 Aug | 12–1.30pm AEST</p>
+
+									<div class="btn-container">
+											<a href="https://us06web.zoom.us/webinar/register/WN_gc_WXpL5SDK1HDinAOHdog#/registration" class="btn btn-outline-white">Register now</a>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="banner-slide desktop-bg-contain mobile-bg-contain" style="color: #ffffff; background-color: #2254a0; --desktop-image: url('/getmedia/8ecf704a-40bc-40fa-a4a5-030361b3a77a/Research-grants-2027-open-homepage-banner-(1).png?width=1920&amp;height=1025&amp;ext=.png'); --mobile-image: url('/getmedia/e1281ec2-8e2b-42a4-b387-c6b527662a63/Research-grants-oopen-homepage-mobiile-(1).png?width=768&amp;height=1561&amp;ext=.png');">
+						<div class="content-wrapper">
+							<div class="content display-3 text-white">
+								<p>Research Grant Applications Open</p>
+									<div class="btn-container">
+											<a href="/articles/mnd-research-grants-2027-now-open" class="btn btn-outline-white">Learn more</a>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="banner-slide desktop-bg-contain mobile-bg-contain" style="color: #ffffff; background-color: #2254a0; --desktop-image: url('/getmedia/4762722f-cb72-47a4-8808-4e244dc07a07/Speech-and-communication-resources-(1).png?width=1920&amp;height=1025&amp;ext=.png'); --mobile-image: url('/getmedia/f940e2cb-b708-43b3-b7f3-6f13beea238d/Sppech-and-comm-banner-(1).png?width=768&amp;height=1561&amp;ext=.png');">
+						<div class="content-wrapper">
+							<div class="content display-3 text-white">
+								<p>New resources available to support speech and communication in MND</p>
+
+									<div class="btn-container">
+											<a href="/mnd-connect/living-with-mnd/speech-communication" class="btn btn-outline-white">Learn more</a>
+									</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="banner-slide desktop-bg-contain mobile-bg-contain" style="color: #ffffff; background-color: #2254a0; --desktop-image: url('/getmedia/9346b63a-acd6-4aa3-a86e-caec52168a72/home-banner-desktop-3.png?width=1920&amp;height=1088&amp;ext=.png'); --mobile-image: url('/getmedia/c5af1521-69b1-48aa-8f18-840128063725/home-banner-mobile-3.png?width=768&amp;height=1561&amp;ext=.png');">
+						<div class="content-wrapper">
+							<div class="content display-3 text-white">
+								<p>Australia’s national peak body for motor neurone disease care, advocacy &amp; research</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<div class="slide-controls">
+			<div class="swiper-button-prev"><i class="fa-solid fa-arrow-left"></i></div>
+  			<div class="swiper-pagination"></div>
+			<div class="swiper-button-next"><i class="fa-solid fa-arrow-right"></i></div>
+		</div>
+	</div>
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" overlap-bg"
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-7   ">
+        <div class="row gx-3 gy-3 ">
+                    <div class="col-md-6 col-lg-3">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="rich-text-block p-3 mt-0 mb-0 shadow-none rounded-3 text-start justify-content-start h-100 d-flex justify-content-between flex-column" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+        <div class="content">
+            <div style="font-size: 1rem"><p>I have recently been diagnosed with MND</p></div>
+        </div>
+
+        <div class="btn-container mt-3 text-start justify-content-start">
+                <a href="/mnd-connect/what-is-mnd/newly-diagnosed" class="btn w-100 btn-orange">Learn More <i class="fa-solid fa-arrow-right ms-2"></i></a>
+
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="rich-text-block p-3 mt-0 mb-0 shadow-none rounded-3 text-start justify-content-start h-100 d-flex justify-content-between flex-column" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+        <div class="content">
+            <p>I am a family member, carer or friend</p>
+        </div>
+
+        <div class="btn-container mt-3 text-start justify-content-start">
+                <a href="/mnd-connect/support-for-carers-family-friends" class="btn w-100 btn-orange">Learn More <i class="fa-solid fa-arrow-right ms-2"></i></a>
+
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="rich-text-block p-3 mt-0 mb-0 shadow-none rounded-3 text-start justify-content-start h-100 d-flex justify-content-between flex-column" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+        <div class="content">
+            <p>I am a health professional or service provider</p>
+        </div>
+
+        <div class="btn-container mt-3 text-start justify-content-start">
+                <a href="/mnd-connect/for-health-professionals-service-providers" class="btn w-100 btn-orange">Learn More <i class="fa-solid fa-arrow-right ms-2"></i></a>
+
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="rich-text-block p-3 mt-0 mb-0 shadow-none rounded-3 text-start justify-content-start h-100 d-flex justify-content-between flex-column" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+        <div class="content">
+            <p style="text-align: left">I want to support MND Australia</p>
+        </div>
+
+        <div class="btn-container mt-3 text-start justify-content-start">
+                <a href="/get-involved" class="btn w-100 btn-orange">Learn More <i class="fa-solid fa-arrow-right ms-2"></i></a>
+
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row none ">
+                    <div class="col-md-6 col-lg-8">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><h2 class="display-4" id="isPasted">Learn about MND</h2><p class="lead" id="isPasted">Explore information for people living with MND, carers, family and friends.</p></div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="mt-1 mb-0">
+	<div class="btn-container flex-wrap gap-lg justify-content-md-end">
+			<a href="/mnd-connect/information-resources" class="btn btn-md btn-outline-orange ">
+				View all resources
+			</a>
+
+
+	</div>
+</div>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-4   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/193246de-d9d6-460d-b357-6d7f1f21f84f/MNDAus_EOLG_Illustrations11.jpg">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Learn how MND affects the body</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/what-is-mnd/newly-diagnosed" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/d42cce03-e780-4f1c-93cf-d5eee4f02d83/icon-5.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Take your next steps after diagnosis</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/living-with-mnd" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/a6db11e3-eadd-42ec-8da5-5372aa29c919/MNDAus_EOLG_Illustrations14.jpg">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Find ways to live well with MND</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/support-for-carers-family-friends" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/0349525a-d8b5-4b36-8679-90f483ea103b/MNDAus_EOLG_Illustrations6.jpg">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Get the support you need as a carer</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/information-resources" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/6323ea0b-a608-4da8-817b-ed5f1dfeaf0b/icon-3.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Read and watch practical information</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/find-services" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/9ff26633-0134-4a9e-919d-49b89aa16998/MNDAus_EOLG_Illustrations15.jpg">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Find services and support near you</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row none ">
+                    <div class="col-md-6 col-lg-8">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><h2 class="display-4" id="isPasted">Ways to get involved</h2><p class="lead" id="isPasted">Explore ways to keep connected and involved in the Australian MND community.</p></div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+						<div class="h-100 ">
+                        	
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-4   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/get-involved/national-mnd-lived-experience-network" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/2c87606c-7b49-45da-98fe-a9dc187ef644/icon-2.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Engage with the National MND Lived Experience Network</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/research/mnd-registry" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/be6f05ab-0b01-434d-bf60-5991e887ce03/MindAus-icon.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Register for the MiNDAUS MND Registry</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/research/clinical-trials" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/21018d49-51a6-4c4d-8a04-0525ecb4e5fc/icon-6.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Participate in clinical trials and research studies</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-7   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/get-involved/advocatingforchange" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/ca3b626c-dadb-47d1-a44a-ee9b2a93afa5/icon-9.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Take action – advocate for change</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/articles" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/b7dcab45-4f47-4a3c-b672-3342cb736aaf/MNDAus_EOLG_Illustrations30.jpg">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Read our latest news and stories</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<a href="/mnd-connect/for-health-professionals-service-providers" class="cta-card p-3 mt-0 mb-0 shadow-none rounded-3 h-100" style="background: #FFFFFF; border: 1px solid #FFFFFF;">
+	<img src="/getmedia/a3767594-274b-4aa8-b2f4-695cba3c0698/icon-4.png">
+        <div class="content">
+            <div style="font-size: 1rem"><p>Resources for health &amp; care professionals</p></div>
+        </div>
+	<div class="arrow" style="color: #DF6C32;">
+		<i class="fa-solid fa-arrow-right"></i>
+	</div>
+</a>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-7 pb-3   ">
+        <div class="row none ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><h2 class="display-4" style="text-align: center">Access care and support near you</h2><p class="lead" style="text-align: center">The State MND Associations provide support for people living with MND, their families and their carers.</p></div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-0   ">
+        <div class="row none ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+    <div class="Interactive-Map-Container" id="map">
+        <div class="Interactive-Map">
+            <div class="map-wrapper">
+                <img class="Full-Interactive-Map" src="/dist/img/InteractiveMap/InteractiveMap.png" usemap="#map"
+                     alt="Image Map">
+                <map name="map" class="map" id="map">
+                        <area shape="poly" class="state-area" id="VIC-Area"
+                              data-region-id="VIC"
+                              data-original-coords="947.75,850.00,947.25,1018.00,947.25,1018.00,947.25,1018.00,959.50,1028.25,959.50,1028.25,959.50,1028.25,969.25,1027.00,969.25,1027.00,969.25,1027.00,974.25,1022.50,974.25,1022.50,974.25,1022.50,984.50,1029.75,984.50,1029.75,984.50,1029.75,1003.25,1031.75,1003.25,1031.75,1003.25,1031.75,1016.75,1041.25,1016.75,1041.25,1016.75,1041.25,1035.75,1046.25,1035.75,1046.25,1035.75,1046.25,1053.00,1037.75,1053.00,1037.75,1053.00,1037.75,1064.50,1027.25,1064.50,1027.25,1064.50,1027.25,1071.75,1017.00,1071.75,1017.00,1071.75,1017.00,1075.50,1011.75,1075.50,1011.75,1075.50,1011.75,1083.25,1018.50,1083.25,1018.50,1083.25,1018.50,1079.75,1024.50,1079.75,1024.50,1079.75,1024.50,1076.50,1031.50,1076.50,1031.50,1076.50,1031.50,1087.75,1036.25,1087.75,1036.25,1087.75,1036.25,1105.25,1039.00,1105.25,1039.00,1105.25,1039.00,1113.75,1051.00,1113.75,1051.00,1113.75,1051.00,1125.50,1057.00,1125.50,1057.00,1125.50,1057.00,1132.50,1060.50,1132.50,1060.50,1132.50,1060.50,1136.25,1048.00,1136.25,1048.00,1136.25,1048.00,1164.00,1024.25,1164.00,1024.25,1164.00,1024.25,1182.75,1013.25,1182.75,1013.25,1182.75,1013.25,1194.50,1007.75,1194.50,1007.75,1194.50,1007.75,1215.75,1005.50,1215.75,1005.50,1215.75,1005.50,1241.00,997.00,1241.00,997.00,1241.00,997.00,1248.25,989.50,1248.25,989.50,1248.25,989.50,1188.50,957.75,1188.50,957.75,1188.50,957.75,1184.25,930.00,1184.25,930.00,1184.25,930.00,1175.50,924.75,1175.50,924.75,1175.50,924.75,1161.50,926.75,1161.50,926.75,1161.50,926.75,1148.75,930.25,1148.75,930.25,1148.75,930.25,1131.75,926.75,1131.75,926.75,1131.75,926.75,1110.25,927.00,1110.25,927.00,1110.25,927.00,1089.75,921.75,1089.75,921.75,1089.75,921.75,1077.75,928.75,1077.75,928.75,1077.75,928.75,1064.00,925.75,1064.00,925.75,1064.00,925.75,1049.75,908.25,1049.75,908.25,1049.75,908.25,1037.75,900.00,1037.75,900.00,1037.75,900.00,1029.50,886.50,1029.50,886.50,1029.50,886.50,1021.00,874.75,1021.00,874.75,1021.00,874.75,1010.00,872.00,1010.00,872.00,1010.00,872.00,1000.25,876.25,1000.25,876.25,1000.25,876.25,993.00,863.50,993.00,863.50,993.00,863.50,989.75,856.75,989.75,856.75,989.75,856.75,980.50,852.50,980.50,852.50,980.50,852.50,967.25,851.00,967.25,851.00,967.25,851.00,955.25,851.00,955.25,851.00,955.25,851.00,947.75,850.00,947.75,850.00" alt="VIC">
+                        <area shape="poly" class="state-area" id="ACT-Area"
+                              data-region-id="ACT"
+                              data-original-coords="1210.62,907.56,1212.81,898.56,1212.81,898.56,1212.81,898.56,1218.00,896.19,1218.00,896.19,1218.00,896.19,1225.56,895.81,1225.56,895.81,1225.56,895.81,1228.62,898.12,1228.62,898.12,1228.62,898.12,1227.44,901.12,1227.44,901.12,1227.44,901.12,1224.06,903.75,1224.06,903.75,1224.06,903.75,1222.50,909.50,1222.50,909.50,1222.50,909.50,1222.06,915.62,1222.06,915.62,1222.06,915.62,1222.00,921.06,1222.00,921.06,1222.00,921.06,1218.38,922.25,1218.38,922.25,1218.38,922.25,1214.88,918.94,1214.88,918.94,1214.88,918.94,1212.56,914.62,1212.56,914.62,1212.56,914.62,1211.06,911.00,1211.06,911.00,1211.06,911.00,1210.62,907.56,1210.62,907.56" alt="ACT">
+                        <area shape="poly" class="state-area" id="NSW-Area"
+                              data-region-id="NSW"
+                              data-original-coords="949.64,654.00,1214.75,653.25,1214.75,653.25,1214.75,653.25,1235.75,637.75,1235.75,637.75,1235.75,637.75,1259.00,637.75,1259.00,637.75,1259.00,637.75,1294.50,650.25,1294.50,650.25,1294.50,650.25,1303.00,656.50,1303.00,656.50,1303.00,656.50,1315.25,649.75,1315.25,649.75,1315.25,649.75,1321.75,640.75,1321.75,640.75,1321.75,640.75,1338.75,628.00,1338.75,628.00,1338.75,628.00,1355.75,628.25,1355.75,628.25,1355.75,628.25,1368.25,624.75,1368.25,624.75,1368.25,624.75,1362.75,668.25,1362.75,668.25,1362.75,668.25,1349.75,716.25,1349.75,716.25,1349.75,716.25,1339.75,761.75,1339.75,761.75,1339.75,761.75,1310.75,802.75,1310.75,802.75,1310.75,802.75,1290.75,840.00,1290.75,840.00,1290.75,840.00,1277.25,866.75,1277.25,866.75,1277.25,866.75,1275.00,887.00,1275.00,887.00,1275.00,887.00,1260.00,913.25,1260.00,913.25,1260.00,913.25,1249.00,960.75,1249.00,960.75,1249.00,960.75,1247.00,987.50,1247.00,987.50,1247.00,987.50,1191.75,960.00,1191.75,960.00,1191.75,960.00,1184.50,932.75,1184.50,932.75,1184.50,932.75,1150.25,928.50,1150.25,928.50,1150.25,928.50,1123.25,927.25,1123.25,927.25,1123.25,927.25,1088.00,921.75,1088.00,921.75,1088.00,921.75,1065.25,922.00,1065.25,922.00,1065.25,922.00,1034.25,897.75,1034.25,897.75,1034.25,897.75,1023.00,876.75,1023.00,876.75,1023.00,876.75,985.00,851.75,985.00,851.75,985.00,851.75,947.45,848.36,947.45,848.36,947.45,848.36,949.64,654.00,949.64,654.00" alt="NSW">
+                        <area shape="poly" class="state-area" id="NT-Area"
+                              data-region-id="NT"
+                              data-original-coords="542.00,541.33,846.00,541.33,846.00,541.33,846.00,541.33,848.00,206.67,848.00,206.67,848.00,206.67,820.00,186.00,820.00,186.00,820.00,186.00,810.00,172.00,810.00,172.00,810.00,172.00,786.00,167.33,786.00,167.33,786.00,167.33,758.00,148.00,758.00,148.00,758.00,148.00,773.33,124.67,773.33,124.67,773.33,124.67,777.33,116.67,777.33,116.67,777.33,116.67,793.33,126.00,793.33,126.00,793.33,126.00,812.00,127.33,812.00,127.33,812.00,127.33,808.00,112.00,808.00,112.00,808.00,112.00,794.00,107.33,794.00,107.33,794.00,107.33,788.00,115.33,788.00,115.33,788.00,115.33,778.00,112.67,778.00,112.67,778.00,112.67,773.33,97.33,773.33,97.33,773.33,97.33,792.67,92.00,792.67,92.00,792.67,92.00,813.33,61.33,813.33,61.33,813.33,61.33,786.67,49.33,786.67,49.33,786.67,49.33,792.00,37.33,792.00,37.33,792.00,37.33,804.00,28.67,804.00,28.67,804.00,28.67,802.67,18.00,802.67,18.00,802.67,18.00,786.00,33.33,786.00,33.33,786.00,33.33,778.00,50.67,778.00,50.67,778.00,50.67,738.00,52.67,738.00,52.67,738.00,52.67,682.67,39.33,682.67,39.33,682.67,39.33,658.00,20.00,658.00,20.00,658.00,20.00,636.67,23.33,636.67,23.33,636.67,23.33,585.33,25.33,585.33,25.33,585.33,25.33,574.67,42.00,574.67,42.00,574.67,42.00,612.00,45.33,612.00,45.33,612.00,45.33,627.33,34.67,627.33,34.67,627.33,34.67,642.00,33.33,642.00,33.33,642.00,33.33,660.00,50.00,660.00,50.00,660.00,50.00,622.00,58.00,622.00,58.00,622.00,58.00,593.33,72.00,593.33,72.00,593.33,72.00,578.67,93.33,578.67,93.33,578.67,93.33,562.67,121.33,562.67,121.33,562.67,121.33,557.33,145.33,557.33,145.33,557.33,145.33,542.67,147.33,542.67,147.33,542.67,147.33,542.00,541.33,542.00,541.33" alt="NT">
+                        <area shape="poly" class="state-area" id="QLD-Area"
+                              data-region-id="QLD"
+                              data-original-coords="947.33,654.00,1218.67,654.00,1218.67,654.00,1218.67,654.00,1231.33,641.33,1231.33,641.33,1231.33,641.33,1261.33,638.00,1261.33,638.00,1261.33,638.00,1300.00,658.00,1300.00,658.00,1300.00,658.00,1316.00,649.33,1316.00,649.33,1316.00,649.33,1326.67,632.00,1326.67,632.00,1326.67,632.00,1368.67,623.33,1368.67,623.33,1368.67,623.33,1368.67,596.67,1368.67,596.67,1368.67,596.67,1359.33,583.33,1359.33,583.33,1359.33,583.33,1353.33,542.00,1353.33,542.00,1353.33,542.00,1361.33,504.00,1361.33,504.00,1361.33,504.00,1356.00,494.67,1356.00,494.67,1356.00,494.67,1336.67,511.33,1336.67,511.33,1336.67,511.33,1313.33,477.33,1313.33,477.33,1313.33,477.33,1286.67,451.33,1286.67,451.33,1286.67,451.33,1274.67,414.67,1274.67,414.67,1274.67,414.67,1243.33,409.33,1243.33,409.33,1243.33,409.33,1210.00,348.67,1210.00,348.67,1210.00,348.67,1192.00,326.67,1192.00,326.67,1192.00,326.67,1136.67,294.67,1136.67,294.67,1136.67,294.67,1124.00,270.67,1124.00,270.67,1124.00,270.67,1116.67,235.33,1116.67,235.33,1116.67,235.33,1098.00,198.00,1098.00,198.00,1098.00,198.00,1087.33,146.00,1087.33,146.00,1087.33,146.00,1067.33,125.33,1067.33,125.33,1067.33,125.33,1036.00,124.00,1036.00,124.00,1036.00,124.00,1021.33,60.67,1021.33,60.67,1021.33,60.67,1009.33,36.00,1009.33,36.00,1009.33,36.00,986.67,4.00,986.67,4.00,986.67,4.00,970.00,52.67,970.00,52.67,970.00,52.67,962.67,103.33,962.67,103.33,962.67,103.33,960.00,167.33,960.00,167.33,960.00,167.33,942.67,222.00,942.67,222.00,942.67,222.00,908.00,242.67,908.00,242.67,908.00,242.67,879.33,218.67,879.33,218.67,879.33,218.67,901.33,201.33,901.33,201.33,901.33,201.33,886.67,201.33,886.67,201.33,886.67,201.33,872.00,214.67,872.00,214.67,872.00,214.67,846.67,206.67,846.67,206.67,846.67,206.67,846.00,541.33,846.00,541.33,846.00,541.33,947.33,542.00,947.33,542.00,947.33,542.00,947.33,654.00,947.33,654.00" alt="QLD">
+                        <area shape="poly" class="state-area" id="SA-Area"
+                              data-region-id="SA"
+                              data-original-coords="542.75,541.00,947.64,541.27,947.64,541.27,947.64,541.27,947.45,1016.91,947.45,1016.91,947.45,1016.91,937.50,1013.50,937.50,1013.50,937.50,1013.50,923.50,1005.00,923.50,1005.00,923.50,1005.00,909.00,986.50,909.00,986.50,909.00,986.50,903.00,974.50,903.00,974.50,903.00,974.50,906.50,960.50,906.50,960.50,906.50,960.50,900.50,939.50,900.50,939.50,900.50,939.50,889.50,923.50,889.50,923.50,889.50,923.50,872.50,912.00,872.50,912.00,872.50,912.00,863.50,912.00,863.50,912.00,863.50,912.00,846.00,924.50,846.00,924.50,846.00,924.50,826.00,930.00,826.00,930.00,826.00,930.00,800.50,929.50,800.50,929.50,800.50,929.50,798.00,920.00,798.00,920.00,798.00,920.00,832.50,911.00,832.50,911.00,832.50,911.00,854.00,905.50,854.00,905.50,854.00,905.50,861.00,880.50,861.00,880.50,861.00,880.50,850.00,862.50,850.00,862.50,850.00,862.50,836.50,891.50,836.50,891.50,836.50,891.50,809.50,900.00,809.50,900.00,809.50,900.00,812.50,885.00,812.50,885.00,812.50,885.00,824.50,878.00,824.50,878.00,824.50,878.00,839.00,830.00,839.00,830.00,839.00,830.00,839.50,797.50,839.50,797.50,839.50,797.50,819.00,834.00,819.00,834.00,819.00,834.00,781.50,886.00,781.50,886.00,781.50,886.00,764.50,883.50,764.50,883.50,764.50,883.50,746.50,868.50,746.50,868.50,746.50,868.50,745.50,840.00,745.50,840.00,745.50,840.00,722.00,814.00,722.00,814.00,722.00,814.00,713.50,788.50,713.50,788.50,713.50,788.50,687.00,776.00,687.00,776.00,687.00,776.00,652.50,769.00,652.50,769.00,652.50,769.00,613.50,751.50,613.50,751.50,613.50,751.50,542.00,758.00,542.00,758.00,542.00,758.00,542.75,541.00,542.75,541.00" alt="SA">
+                        <area shape="poly" class="state-area" id="TAS-Area"
+                              data-region-id="TAS"
+                              data-original-coords="1067.25,1133.50,1070.75,1157.25,1070.75,1157.25,1070.75,1157.25,1083.00,1179.50,1083.00,1179.50,1083.00,1179.50,1088.25,1202.75,1088.25,1202.75,1088.25,1202.75,1092.75,1216.25,1092.75,1216.25,1092.75,1216.25,1102.25,1234.25,1102.25,1234.25,1102.25,1234.25,1110.50,1246.50,1110.50,1246.50,1110.50,1246.50,1116.50,1252.00,1116.50,1252.00,1116.50,1252.00,1129.50,1255.75,1129.50,1255.75,1129.50,1255.75,1144.75,1256.00,1144.75,1256.00,1144.75,1256.00,1156.50,1253.00,1156.50,1253.00,1156.50,1253.00,1160.50,1250.50,1160.50,1250.50,1160.50,1250.50,1160.50,1244.00,1160.50,1244.00,1160.50,1244.00,1166.00,1234.25,1166.00,1234.25,1166.00,1234.25,1181.75,1239.25,1181.75,1239.25,1181.75,1239.25,1182.75,1214.25,1182.75,1214.25,1182.75,1214.25,1183.75,1196.00,1183.75,1196.00,1183.75,1196.00,1192.00,1190.75,1192.00,1190.75,1192.00,1190.75,1193.00,1154.75,1193.00,1154.75,1193.00,1154.75,1187.50,1132.25,1187.50,1132.25,1187.50,1132.25,1190.50,1122.50,1190.50,1122.50,1190.50,1122.50,1195.75,1116.75,1195.75,1116.75,1195.75,1116.75,1193.50,1105.50,1193.50,1105.50,1193.50,1105.50,1190.50,1094.75,1190.50,1094.75,1190.50,1094.75,1182.25,1084.50,1182.25,1084.50,1182.25,1084.50,1178.25,1081.25,1178.25,1081.25,1178.25,1081.25,1176.25,1094.25,1176.25,1094.25,1176.25,1094.25,1178.25,1103.00,1178.25,1103.00,1178.25,1103.00,1182.50,1108.75,1182.50,1108.75,1182.50,1108.75,1183.50,1119.25,1183.50,1119.25,1183.50,1119.25,1188.50,1121.25,1188.50,1121.25,1188.50,1121.25,1185.50,1131.00,1185.50,1131.00,1185.50,1131.00,1166.50,1135.50,1166.50,1135.50,1166.50,1135.50,1144.75,1141.25,1144.75,1141.25,1144.75,1141.25,1116.25,1144.50,1116.25,1144.50,1116.25,1144.50,1095.50,1134.00,1095.50,1134.00,1095.50,1134.00,1081.50,1124.50,1081.50,1124.50,1081.50,1124.50,1077.75,1116.75,1077.75,1116.75,1077.75,1116.75,1070.75,1116.75,1070.75,1116.75,1070.75,1116.75,1049.75,1099.25,1049.75,1099.25,1049.75,1099.25,1050.00,1082.00,1050.00,1082.00,1050.00,1082.00,1042.75,1078.75,1042.75,1078.75,1042.75,1078.75,1040.25,1094.00,1040.25,1094.00,1040.25,1094.00,1042.50,1101.75,1042.50,1101.75,1042.50,1101.75,1048.75,1101.50,1048.75,1101.50,1048.75,1101.50,1070.75,1120.50,1070.75,1120.50,1070.75,1120.50,1067.25,1133.50,1067.25,1133.50" alt="TAS">
+                        <area shape="poly" class="state-area" id="WA-Area"
+                              data-region-id="WA"
+                              data-original-coords="542.00,147.33,542.33,758.67,542.33,758.67,542.33,758.67,504.50,773.50,504.50,773.50,504.50,773.50,466.50,780.00,466.50,780.00,466.50,780.00,441.00,780.50,441.00,780.50,441.00,780.50,431.00,787.50,431.00,787.50,431.00,787.50,411.50,798.50,411.50,798.50,411.50,798.50,378.00,810.00,378.00,810.00,378.00,810.00,360.50,841.00,360.50,841.00,360.50,841.00,302.50,845.00,302.50,845.00,302.50,845.00,242.50,845.00,242.50,845.00,242.50,845.00,181.50,883.50,181.50,883.50,181.50,883.50,105.50,886.50,105.50,886.50,105.50,886.50,75.50,860.00,75.50,860.00,75.50,860.00,69.50,830.50,69.50,830.50,69.50,830.50,90.50,795.00,90.50,795.00,90.50,795.00,87.00,748.50,87.00,748.50,87.00,748.50,69.00,700.00,69.00,700.00,69.00,700.00,51.50,630.00,51.50,630.00,51.50,630.00,25.50,576.00,25.50,576.00,25.50,576.00,1.50,533.00,1.50,533.00,1.50,533.00,22.50,529.50,22.50,529.50,22.50,529.50,37.00,553.00,37.00,553.00,37.00,553.00,43.50,543.00,43.50,543.00,43.50,543.00,17.00,480.50,17.00,480.50,17.00,480.50,28.50,433.00,28.50,433.00,28.50,433.00,38.50,391.00,38.50,391.00,38.50,391.00,109.00,355.50,109.00,355.50,109.00,355.50,131.00,343.50,131.00,343.50,131.00,343.50,193.50,332.00,193.50,332.00,193.50,332.00,259.00,316.00,259.00,316.00,259.00,316.00,292.00,286.00,292.00,286.00,292.00,286.00,315.50,263.50,315.50,263.50,315.50,263.50,315.50,228.00,315.50,228.00,315.50,228.00,343.50,200.00,343.50,200.00,343.50,200.00,391.00,167.00,391.00,167.00,391.00,167.00,412.50,137.50,412.50,137.50,412.50,137.50,449.50,120.00,449.50,120.00,449.50,120.00,481.50,115.00,481.50,115.00,481.50,115.00,514.50,147.50,514.50,147.50,514.50,147.50,542.00,147.33,542.00,147.33" alt="WA">
+                </map>
+            </div>
+            <div class="map-hover-elements">
+                    <img class="hover-element" id="Hover-VIC"
+                         src="/dist/img/InteractiveMap/HoverVIC.png" alt="VIC"
+                         data-region-id="VIC">
+                    <img class="hover-element" id="Hover-ACT"
+                         src="/dist/img/InteractiveMap/HoverACT.png" alt="ACT"
+                         data-region-id="ACT">
+                    <img class="hover-element" id="Hover-NSW"
+                         src="/dist/img/InteractiveMap/HoverNSW.png" alt="NSW"
+                         data-region-id="NSW">
+                    <img class="hover-element" id="Hover-NT"
+                         src="/dist/img/InteractiveMap/HoverNT.png" alt="NT"
+                         data-region-id="NT">
+                    <img class="hover-element" id="Hover-QLD"
+                         src="/dist/img/InteractiveMap/HoverQLD.png" alt="QLD"
+                         data-region-id="QLD">
+                    <img class="hover-element" id="Hover-SA"
+                         src="/dist/img/InteractiveMap/HoverSA.png" alt="SA"
+                         data-region-id="SA">
+                    <img class="hover-element" id="Hover-TAS"
+                         src="/dist/img/InteractiveMap/HoverTAS.png" alt="TAS"
+                         data-region-id="TAS">
+                    <img class="hover-element" id="Hover-WA"
+                         src="/dist/img/InteractiveMap/HoverWA.png" alt="WA"
+                         data-region-id="WA">
+            </div>
+            <div class="map-landmarks">
+                    <img id="selection-VIC" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="VIC"
+                         data-left="0.75" data-top="0.7125">
+                    <img id="VIC" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="VIC"
+                         data-left="0.75" data-top="0.7125">
+                    <img id="selection-ACT" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="ACT"
+                         data-left="0.85" data-top="0.65">
+                    <img id="ACT" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="ACT"
+                         data-left="0.85" data-top="0.65">
+                    <img id="selection-NSW" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="NSW"
+                         data-left="0.8" data-top="0.575">
+                    <img id="NSW" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="NSW"
+                         data-left="0.8" data-top="0.575">
+                    <img id="selection-NT" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="NT"
+                         data-left="0.475" data-top="0.225">
+                    <img id="NT" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="NT"
+                         data-left="0.475" data-top="0.225">
+                    <img id="selection-QLD" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="QLD"
+                         data-left="0.775" data-top="0.325">
+                    <img id="QLD" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="QLD"
+                         data-left="0.775" data-top="0.325">
+                    <img id="selection-SA" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="SA"
+                         data-left="0.5125" data-top="0.4825">
+                    <img id="SA" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="SA"
+                         data-left="0.5125" data-top="0.4825">
+                    <img id="selection-TAS" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="TAS"
+                         data-left="0.7825" data-top="0.875">
+                    <img id="TAS" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="TAS"
+                         data-left="0.7825" data-top="0.875">
+                    <img id="selection-WA" class="landmark-selection"
+                         src="/dist/img/InteractiveMap/SelectedLandmark.png" alt="WA"
+                         data-left="0.2" data-top="0.375">
+                    <img id="WA" class="landmark"
+                         src="/dist/img/InteractiveMap/UnselectedLandmark.png" alt="WA"
+                         data-left="0.2" data-top="0.375">
+            </div>
+        </div>
+        <div class="sidebar">
+                    <div class="VIC-sidebar sidebar-container">
+                            <h3 class="title">MND Victoria</h3>
+
+                            <p class="description">265 Canterbury Rd, Canterbury Vic 3126<br />
+<br />
+Post: PO Box 23, Canterbury 3126</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mnd.org.au" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#335a5d555c735e5d571d5c41541d5246" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="ACT-sidebar sidebar-container">
+                            <h3 class="title">MND Australian Capital Territory</h3>
+
+                            <p class="description"><p>(MND services in the ACT are provided by MND NSW)</p>
+
+<p>Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</p>
+
+<p>Post: Locked Bag 5005, Gladesville NSW 1675</p>
+</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndnsw.org.au/" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#20494e464f4c494e45604d4e444e53570e4f52470e4155" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="NSW-sidebar sidebar-container">
+                            <h3 class="title">MND New South Wales</h3>
+
+                            <p class="description"><p>Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</p>
+
+<p>Post: Locked Bag 5005, Gladesville NSW 1675</p>
+</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndnsw.org.au/" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#fb92959d949792959ebb96959f95888cd594899cd59a8e" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="NT-sidebar sidebar-container">
+                            <h3 class="title">MND Northern Territory</h3>
+
+                            <p class="description"><p>(MND services in the NT are provided by MND NSW)</p>
+
+<p>Building<span style="font-size: 1.125rem;">&nbsp;4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+
+<p>Post: Locked Bag 5005, Gladesville NSW 1675</p>
+</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndnsw.org.au/" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#e38a8d858c8f8a8d86a38e8d878d9094cd8c9184cd8296" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="QLD-sidebar sidebar-container">
+                            <h3 class="title">MND Queensland</h3>
+
+                            <p class="description"><p>1/89 Factory Road, Oxley QLD 4075<br />
+<br />
+Post: PO Box 470, Inala QLD 4077</p>
+</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndaq.org.au" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#ed84838b82ad8083898c9cc3829f8ac38c98" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="SA-sidebar sidebar-container">
+                            <h3 class="title">MND South Australia</h3>
+
+                            <p class="description">66 Hughes Street, Mile End SA 5031<br />
+<br />
+Post: PO Box 2087 Hilton Plaza SA 5033</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndsa.org.au" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#bddcd9d0d4d3fdd0d3d9cedc93d2cfda93dcc8" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="TAS-sidebar sidebar-container">
+                            <h3 class="title">MND Tasmania</h3>
+
+                            <p class="description">(MND services in Tasmania are provided by MND&nbsp;Victoria)<br />
+<br />
+265 Canterbury Rd, Canterbury Vic 3126<br />
+<br />
+Post: PO Box 23, Canterbury 3126</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndatas.asn.au" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#c3aaada5ac83aeada7a2b7a2b0eda2b0adeda2b6" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+                    <div class="WA-sidebar sidebar-container">
+                            <h3 class="title">MND Western Australia</h3>
+
+                            <p class="description">Unit 1, 184 Raleigh Street, Carlisle&nbsp;WA 6101<br />
+<br />
+Post: as above</p>
+
+                            <p class="phone">T: <a href="tel:1800 777 175">1800 777 175</a></p>
+
+                            <a href="https://www.mndawa.asn.au" class="site-btn" target="_blank">
+                                <i class="fa-solid fa-display"></i> Visit website
+                            </a>
+
+                            <a href="/cdn-cgi/l/email-protection#6302070e0a0d230e0d070214024d02100d4d0216" class="email-btn">
+                                <i class="fa-regular fa-envelope"></i> Send a message
+                            </a>
+                    </div>
+        </div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-7 pb-0   ">
+        <div class="row none ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <h2 class="display-4 mb-0" id="isPasted" style="text-align: center">Until there’s a cure, there’s care</h2>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="MNDVideo" class="anchor-link anchor-section "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-4 pb-7   ">
+        <div class="row none ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+
+<div class="mt-0 mb-0 rounded-5 overflow-hidden">
+	<div class="vid-fluid">
+				<iframe src="https://www.youtube.com/embed/riO2VXM7GQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-7 pb-4   ">
+        <div class="row none ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <h2 class="display-4 mb-0" id="isPasted" style="text-align: center">Our impact</h2>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #e8f3ff; 
+        background-color: #e8f3ff;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-7   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="mt-0 mb-1">
+	<div class="img-normal text-center">
+		<img src="/getmedia/23f4600a-11d3-4de5-be6e-75ffc1c84ca4/icon-10.png" alt="" style="width: 120px;">
+	</div>
+</div> 
+    
+
+
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <div style="font-size: 1rem"><p style="text-align: center" class="text-xl"><span style="color: rgba(2, 86, 161, 1)">$</span> <span class="counter counter-fast" style="color: rgba(2, 86, 161, 1)">52</span> <span style="color: rgba(2, 86, 161, 1); font-size: 1.25rem">million</span></p><p style="text-align: center" class="lead">invested in research to find treatments and a cure for motor neurone disease</p></div>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="mt-0 mb-1">
+	<div class="img-normal text-center">
+		<img src="/getmedia/5cc85cca-1408-4a62-9c2a-23991e69e114/icon-11.png" alt="" style="width: 120px;">
+	</div>
+</div> 
+    
+
+
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <p id="isPasted" style="text-align: center" class="text-xl"><span class="counter counter-fast" style="color: rgba(2, 86, 161, 1)">2,688</span></p><p class="lead" style="text-align: center">Australians currently living with MND who we support through investment in research, care and advocacy</p>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="mt-0 mb-1">
+	<div class="img-normal text-center">
+		<img src="/getmedia/9f3fbf11-699e-47d8-889b-7fd51ea3340f/icon-12.png" alt="" style="width: 120px;">
+	</div>
+</div> 
+    
+
+
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <p id="isPasted" style="text-align: center" class="text-xl"><span class="counter counter-fast" style="color: rgba(2, 86, 161, 1)">150+</span></p><p class="lead" style="text-align: center">evidence-based MND information materials developed to advance care and quality of life</p>
+    </div>
+
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #2254a0; 
+        background-color: #2254a0;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-7 pb-7   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-6 col-lg-4">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <h2 class="display-4"><span style="color: rgba(255, 255, 255, 1)">Latest News</span></h2><p><span style="color: rgba(255, 255, 255, 1)">Stay up to date with the latest in MND news, research updates, media releases, and stories from those living with MND.&nbsp;</span></p>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+<div class="mt-2 mb-0">
+	<div class="btn-container flex-wrap gap-lg justify-content-md-start">
+			<a href="/articles" class="btn btn-md btn-outline-white ">
+				View All
+			</a>
+
+
+	</div>
+</div>
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-8">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+	<div class="page-listing">
+			<div class="news-slider-container slider-dots swiper" data-columns-tablet="2" data-columns-desktop="2">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide h-100">
+						<div class="page-tile">
+							<div class="img-wrapper">
+								<img src="/getmedia/293908ac-aefd-4e33-9b11-920f880fb2e7/Support-at-home-media-release-tile-(1).png?width=600&amp;height=400&amp;ext=.png&amp;maxsidesize=600&amp;resizemode=force" alt="MND data raises questions over Government claim of fairer aged care assessments Image">
+							</div>
+							<div class="content-wrapper">
+								<div class="news-category">
+										<span>Media Release</span>
+								</div>
+								<div class="content">
+									<p class="content-title h5">MND data raises questions over Government claim of fairer aged care assessments</p>
+									<div class="content-description">
+										<div class="content-date">
+18 August 2026										</div>
+										<a href="https://www.mndaustralia.org.au/articles/mnd-data-raises-questions-over-government-claim-of-fairer-aged-care-assessments" class="btn btn-orange">
+											Read More <i class="fa-solid fa-arrow-right ms-2"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide h-100">
+						<div class="page-tile">
+							<div class="img-wrapper">
+								<img src="/getmedia/6699a7d6-50e3-4ae6-baf8-148eb2e051e5/webinar-navigating-the-NDIS-(1).png?width=600&amp;height=400&amp;ext=.png&amp;maxsidesize=600&amp;resizemode=force" alt="Webinar: Navigating the NDIS Image">
+							</div>
+							<div class="content-wrapper">
+								<div class="news-category">
+										<span>News</span>
+								</div>
+								<div class="content">
+									<p class="content-title h5">Webinar: Navigating the NDIS</p>
+									<div class="content-description">
+										<div class="content-date">
+12 August 2026										</div>
+										<a href="https://www.mndaustralia.org.au/articles/webinar-navigating-the-ndis" class="btn btn-orange">
+											Read More <i class="fa-solid fa-arrow-right ms-2"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide h-100">
+						<div class="page-tile">
+							<div class="img-wrapper">
+								<img src="/dist/img/placeholders/news-placeholder.jpg?maxsidesize=600&amp;resizemode=force" alt="Understanding tofersen (Qalsody) and SOD1- associated MND Image">
+							</div>
+							<div class="content-wrapper">
+								<div class="news-category">
+										<span>News</span>
+								</div>
+								<div class="content">
+									<p class="content-title h5">Understanding tofersen (Qalsody) and SOD1- associated MND</p>
+									<div class="content-description">
+										<div class="content-date">
+10 August 2026										</div>
+										<a href="https://www.mndaustralia.org.au/articles/understanding-tofersen-(qalsody)-and-sod1-associated-mnd" class="btn btn-orange">
+											Read More <i class="fa-solid fa-arrow-right ms-2"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide h-100">
+						<div class="page-tile">
+							<div class="img-wrapper">
+								<img src="/dist/img/placeholders/news-placeholder.jpg?maxsidesize=600&amp;resizemode=force" alt="Hiring: Independent Board Director (Living with Motor Neurone Disease) Image">
+							</div>
+							<div class="content-wrapper">
+								<div class="news-category">
+										<span>News</span>
+								</div>
+								<div class="content">
+									<p class="content-title h5">Hiring: Independent Board Director (Living with Motor Neurone Disease)</p>
+									<div class="content-description">
+										<div class="content-date">
+03 August 2026										</div>
+										<a href="https://www.mndaustralia.org.au/articles/independent-board-director-(living-with-motor-neurone-disease)" class="btn btn-orange">
+											Read More <i class="fa-solid fa-arrow-right ms-2"></i>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="slide-controls">
+					<div class="swiper-button-prev"><i class="fa-solid fa-arrow-left"></i></div>
+					<div class="swiper-pagination"></div>
+					<div class="swiper-button-next"><i class="fa-solid fa-arrow-right"></i></div>
+				</div>
+			</div>
+	</div>
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+				<div class="bg-light footer-subscribe">
+					<div class="container-xl pt-5 pb-4">
+						<div class="row gy-4">
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+							<div class="fr-view">
+								<h2 class="display-4">Keep in touch</h2><p class="lead">
+									Get the latest news about MND research,
+									<br>care &amp; advocacy right in your inbox.
+								</p>
+							</div>
+							</div>
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+								
+
+
+
+
+
+
+
+
+
+
+<div id="form-Subscribe-a5bc_wrapper-53ae0f9e-67e6-4d35-b800-c699dfafd57c"><form action="/Kentico.Components/en-AU/Kentico.FormWidget/KenticoFormWidget/FormSubmit?formName=Subscribe&amp;prefix=form-Subscribe-a5bc&amp;displayValidationErrors=False" data-ktc-ajax-update="form-Subscribe-a5bc_wrapper-53ae0f9e-67e6-4d35-b800-c699dfafd57c" id="form-Subscribe-a5bc" method="post" onsubmit="window.kentico.updatableFormHelper.submitForm(event);">
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-74adf57f-2af9-4991-97ef-ed02c455d89b" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-a5bc_FirstName_Value" name="form-Subscribe-a5bc.FirstName.Value" placeholder="First Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.FirstName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.FirstName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-a5bc_LastName_Value" name="form-Subscribe-a5bc.LastName.Value" placeholder="Last Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.LastName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.LastName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-2a34d185-dd8c-466b-ad2a-606ef7c170e6" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-12">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-a5bc_Email_Email" name="form-Subscribe-a5bc.Email.Email" placeholder="Email" type="email" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.Email.Email" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.Email" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+    <div class="form-field form-field--turnstile visually-hidden"
+         data-form-turnstile-root
+         data-form-turnstile-sitekey="0x4AAAAAADeRPpMNkYxjKUuq"
+         data-form-turnstile-theme="auto"
+         data-form-turnstile-execution="execute"
+         data-form-turnstile-input-id="form-Subscribe-a5bc_FormTurnstile_TurnstileResponse"
+         data-form-turnstile-managed="true">
+        <input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-a5bc_FormTurnstile_TurnstileResponse" name="form-Subscribe-a5bc.FormTurnstile.TurnstileResponse" type="hidden" value="" />
+        <div data-form-turnstile-container></div>
+        <div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div>
+    </div>
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-a5bc.FormTurnstile" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+<input type="submit" value="Submit" /><input name="__RequestVerificationToken" type="hidden" value="CfDJ8BaJsa1WysJCmp7B4D0IyqDbBfAcXLNOb7YOcwqxlmfiN4BmYIrP95U1fZD-sG6AzbK2U43cNm_xeJYgu_J-8OnW2uS2soVikLZF8_HSTuwq8j91LWnpu-wsXNIoVJVSdRgpWOrIjdQvBskLp9hrNsM" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+if (document.readyState === 'complete') {
+  window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-a5bc","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+} else {
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-a5bc","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+    });
+}</script></form></div>
+    
+
+
+							</div>
+						</div>
+					</div>
+				</div>			
+		</main>
+
+		<footer class="site-footer">
+			
+
+
+
+
+<div class="container-xl">
+	<div class="row">
+		<div class="col-12">
+			<div class="footer-top">
+				<div class="row gy-4">
+					<div class="col-xl-2">
+						<a href="/">
+							<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="footer-logo" alt="MND Logo">
+						</a>
+					</div>
+					<div class="col-xl-6 offset-xl-1">
+						<div class="row gy-4">
+							<div class="col-sm-6">
+								<p class="menu-header">Information for</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/living-with-mnd" target="">People living with MND</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/support-for-carers-family-friends" target="">Family members and carers</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/for-health-professionals-service-providers" target="">Health professionals</a>
+            </li>
+            <li>
+                    <a href="/get-involved" target="">Supporting MND Australia</a>
+            </li>
+    </ul>
+
+							</div>
+							<div class="col-sm-6">
+								<p class="menu-header">Popular links</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd" target="">What is MND?</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/types-of-mnd" target="">Types of MND</a>
+            </li>
+            <li>
+                    <a href="/research" target="">MND research</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/find-services" target="">Find services and support</a>
+            </li>
+            <li>
+                    <a href="/get-involved/national-mnd-lived-experience-network" target="">MND Lived Experience Network</a>
+            </li>
+    </ul>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<img src="/getmedia/1b2620fd-0448-4f01-8144-210f321f87f0/footer-partners.png?width=318&amp;height=222&amp;ext=.png" alt="MND Parnter Logos">
+					</div>
+				</div>
+			</div>
+			<div class="footer-middle">
+				
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/contact-us" target="">Contact Us</a>
+            </li>
+            <li>
+                    <a href="/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf" target="">Privacy Policy</a>
+            </li>
+            <li>
+                    <a href="/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf" target="">Whistleblower policy</a>
+            </li>
+            <li>
+                    <a href="/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU" target="">Terms & conditions</a>
+            </li>
+            <li>
+                    <a href="/sitemap" target=""> Site map</a>
+            </li>
+    </ul>
+
+			</div>
+
+			<div class="footer-bottom">
+				<div class="row">
+					<div class="col-xl-10">
+						<p class="footer-text">©MND Australia 2025</p>
+						<p class="footer-text">MND Australia would like to advise Aboriginal and Torres Strait Islander users that this website may contain images or names of deceased persons.</p>
+					</div>
+					<div class="col-xl-2">
+						<div class="social-menu">
+							<a href="https://www.facebook.com/mndaustralia" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#facebook"></use>
+								</svg>
+							</a>
+							<a href="https://www.instagram.com/mnd_australia/?hl=en" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#instagram"></use>
+								</svg>
+							</a>
+							<a href="https://www.youtube.com/user/MNDAust" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#youtube"></use>
+								</svg>
+							</a>
+							<a href="https://www.linkedin.com/company/2181170/admin/" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#linkedin"></use>
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		</footer>
+
+		<div class="toast-container position-fixed bottom-0 start-50 translate-middle-x py-2 d-flex justify-content-center align-items-center">
+			<div id="copyToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true" style="max-width: calc(90% - 2rem);">
+				<div class="toast-body border d-flex align-items-center justify-content-between">
+					<b>Link copied to clipboard</b> <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+				</div>
+			</div>
+		</div>
+
+		<div class="overlay-bg"></div>
+
+		<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript">
+window.kentico = window.kentico || {};
+window.kentico.builder = {}; 
+window.kentico.builder.useJQuery = true;</script><script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+		
+
+		<script src="/dist/scripts/main.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-segmentation.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-pdf-print.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-submit-loading.js?v=1.0.036"></script>
+			<script>
+				window.MNDTurnstile = {
+					enabled: true,
+					siteKey: "0x4AAAAAADeRPpMNkYxjKUuq",
+					theme: "auto",
+					execution: "execute"
+				};
+			</script>
+			<script src="/dist/scripts/form-turnstile.js?v=1.0.036"></script>
+
+		<script src="/dist/vue/js/app.eff72682.js"></script>
+		<script src="/dist/vue/js/chunk-vendors.e48da9d1.js"></script>
+
+		
+		
+	<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon='{"version":"2024.11.0","token":"662ec7845dfb47fcaa3eaf3731c790af","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

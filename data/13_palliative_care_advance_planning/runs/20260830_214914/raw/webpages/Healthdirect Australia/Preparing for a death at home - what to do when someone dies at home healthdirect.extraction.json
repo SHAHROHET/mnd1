@@ -1,0 +1,671 @@
+{
+  "source_id": "healthdirect:death-at-home",
+  "title": "Preparing for a death at home - what to do when someone dies at home | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home",
+  "retrieved_at": "2026-08-30",
+  "topic": "Palliative Care And Advance Care Planning",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 37917,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/preparing-for-a-death-at-home"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/preparing-for-a-death-at-home"
+    },
+    {
+      "text": "How do I prepare for a coming death at home?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#prepare"
+    },
+    {
+      "text": "What legal documents do I need to prepare for a death at home?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#legal-documents"
+    },
+    {
+      "text": "What should I do after a death at home?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#after-death"
+    },
+    {
+      "text": "When is a death referred to the coroner?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#coroner"
+    },
+    {
+      "text": "What should I do in the days and weeks after a death at home?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#weeks-after-death"
+    },
+    {
+      "text": "How do I arrange a funeral?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#funeral"
+    },
+    {
+      "text": "Which organisations should I notify after a death?",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#notify"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#searchGeneralResults"
+    },
+    {
+      "text": "end-of-life",
+      "url": "https://www.healthdirect.gov.au/end-of-life-health"
+    },
+    {
+      "text": "dying",
+      "url": "https://www.healthdirect.gov.au/the-physical-process-of-dying"
+    },
+    {
+      "text": "palliative care",
+      "url": "https://www.healthdirect.gov.au/palliative-care"
+    },
+    {
+      "text": "Palliative Care Australia",
+      "url": "https://palliativecare.org.au/"
+    },
+    {
+      "text": "wills and powers of attorney",
+      "url": "https://moneysmart.gov.au/manage-your-money-in-retirement/get-help-in-retirement/wills-and-powers-of-attorney"
+    },
+    {
+      "text": "guardianship and power of attorney",
+      "url": "https://www.carergateway.gov.au/tips/difference-between-guardianship"
+    },
+    {
+      "text": "advance care planning",
+      "url": "https://www.advancecareplanning.org.au/"
+    },
+    {
+      "text": "grief",
+      "url": "https://www.healthdirect.gov.au/understanding-anticipatory-grief"
+    },
+    {
+      "text": "what to do when someone dies at home",
+      "url": "https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0004/359338/LDOL-When-Someone-Dies-at-Home.PDF"
+    },
+    {
+      "text": "Grieving",
+      "url": "https://www.healthdirect.gov.au/grief-loss"
+    },
+    {
+      "text": "have payments and services",
+      "url": "https://www.servicesaustralia.gov.au/what-help-available-when-loved-one-dies?context=60101"
+    },
+    {
+      "text": "practical guide to the funeral process",
+      "url": "https://afda.org.au/wp-content/uploads/2020/08/285837-AFDA-WhatDoIDo_8pp_FINAL.pdf"
+    },
+    {
+      "text": "births, deaths and marriages register",
+      "url": "https://www.servicesaustralia.gov.au/what-to-do-when-loved-one-dies?context=60101#a2"
+    },
+    {
+      "text": "what to do following a death",
+      "url": "https://www.humanservices.gov.au/individuals/subjects/what-do-following-death"
+    },
+    {
+      "text": "end-of-life caring",
+      "url": "https://www.carergateway.gov.au/your-life-carer/end-life-caring"
+    },
+    {
+      "text": "Griefline",
+      "url": "https://griefline.org.au/"
+    },
+    {
+      "text": "loss and grief",
+      "url": "https://toolkit.lifeline.org.au/topics/grief-loss/what-is-grief"
+    },
+    {
+      "text": "The Compassionate Friends Australia",
+      "url": "https://tcfa.org.au/"
+    },
+    {
+      "text": "what to do after death",
+      "url": "https://www.cancercouncil.com.au/cancer-information/advanced-cancer/end-of-life/for-carers/after-the-death/"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/support-and-services/families-and-friends/taking-care-of-yourself/coping-after-the-death-of-someone-with-dementia"
+    },
+    {
+      "text": "healthdirect helpline",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "CareSearch website",
+      "url": "https://www.caresearch.com.au/tabid/7201/Default.aspx"
+    },
+    {
+      "text": "Australian Indigenous HealthInfoNet",
+      "url": "https://healthinfonet.ecu.edu.au/learn/health-system/palliative-care/"
+    },
+    {
+      "text": "(Who to tell when someone dies)",
+      "url": "https://www.servicesaustralia.gov.au/who-to-tell-when-someone-dies?context=60101"
+    },
+    {
+      "text": "(How to get palliative care)",
+      "url": "https://www.health.gov.au/topics/palliative-care/about-palliative-care/how-to-get-palliative-care"
+    },
+    {
+      "text": "(What to expect when a loved one wants to die at home)",
+      "url": "https://nwmphn.org.au/news/what-to-expect-when-a-loved-one-wants-to-die-at-home"
+    },
+    {
+      "text": "(Wills and powers of attorney)",
+      "url": "https://moneysmart.gov.au/living-in-retirement/wills-and-powers-of-attorney"
+    },
+    {
+      "text": "(What to do when a loved one dies)",
+      "url": "https://www.servicesaustralia.gov.au/what-to-do-when-loved-one-dies?context=60101"
+    },
+    {
+      "text": "(Arranging a funeral)",
+      "url": "https://afda.org.au/arranging-2"
+    },
+    {
+      "text": "(Reportable Deaths)",
+      "url": "https://www.coronerscourt.vic.gov.au/report-death-or-fire/reportable-deaths"
+    },
+    {
+      "text": "(Who to tell when someone dies)",
+      "url": "https://my.gov.au/en/services/health-and-disability/experiencing-the-death-of-a-loved-one/who-to-tell-that-someone-has-died"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/preparing-for-a-death-at-home#backToTop"
+    },
+    {
+      "text": "Terminal Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Terminal Disease"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.healthdirect.gov.au/search-results/Bereavement"
+    },
+    {
+      "text": "Understanding the dying process Information for families to help them work through some of the difficult questions and issues around what happens when someone dies. Read more on WA Health website",
+      "url": "https://www.healthywa.wa.gov.au/Articles/U_Z/Understanding-the-dying-process"
+    },
+    {
+      "text": "Voluntary assisted dying (VAD) Voluntary assisted dying (VAD) refers to asking for medical help to end your life if you have a disease or illness that is so severe it is going to cause your death and your suffering cannot be relieved in a manner tolerable to you. Read more on WA Health website",
+      "url": "https://www.healthywa.wa.gov.au/Articles/U_Z/Voluntary-assisted-dying"
+    },
+    {
+      "text": "Voluntary assisted dying | Queensland Health Voluntary Assisted Dying enables certain individuals who are suffering and dying to choose the timing and circumstances of their death. Read more on Queensland Health website",
+      "url": "https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/voluntary-assisted-dying"
+    },
+    {
+      "text": "Voluntary assisted dying in NSW Voluntary assisted dying is a choice available to an eligible person who is approaching the end of their life. Read more on NSW Health website",
+      "url": "https://www.health.nsw.gov.au/voluntary-assisted-dying/Pages/default.aspx"
+    },
+    {
+      "text": "At the end – dying explained | betterhealth.vic.gov.au betterhealth.vic.gov.au Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/At-the-end-dying-explained"
+    },
+    {
+      "text": "Voluntary assisted dying | Better Health Channel Victoria is the first state in Australia to pass voluntary assisted dying laws. The Voluntary Assisted Dying Act (2017) provides a safe legal framework for people who are suffering and dying to choose the manner and timing of their death. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/servicesandsupport/voluntary-assisted-dying"
+    },
+    {
+      "text": "Voluntary assisted dying | Tasmanian Department of Health Find information about voluntary assisted dying in Tasmania. Read more on Tasmanian Department of Health and Human Services website",
+      "url": "https://www.health.tas.gov.au/health-topics/voluntary-assisted-dying-1"
+    },
+    {
+      "text": "Accessing voluntary assisted dying in the ACT - ACT Government Information about planning, discussing and preparing for the end of life, including voluntary assisted dying. Read more on ACT Health website",
+      "url": "https://www.act.gov.au/health/end-of-life-and-palliative-care/accessing-voluntary-assisted-dying-in-the-act"
+    },
+    {
+      "text": "Coping With Grief After Voluntary Assisted Dying: A Guide For Family And Friends | Griefline If you are grieving for someone who accessed voluntary assisted dying, you may feel a range of emotions and challenges. This resource offers practical information and guidance to help you cope. Read more on Griefline website",
+      "url": "https://griefline.org.au/resources/coping-with-grief-after-voluntary-assisted-dying-a-guide-for-family-and-friends/"
+    },
+    {
+      "text": "Death and grieving | Carer Gateway Grief is a natural response to any loss. That loss might be a death, or it might be for the loss of the person as you knew them. If you’re grieving, remember that you’re not alone and help is available. Read more on Carer Gateway website",
+      "url": "https://www.carergateway.gov.au/your-life-carer/end-life-caring/death-grieving"
+    },
+    {
+      "text": "Voluntary Assisted Dying Voluntary Assisted Dying (VAD) is legal in Australia, helping residents to make informed end-of-life choices. Aged care staff can support residents with information and respectful discussions. Read more on palliAGED website",
+      "url": "https://www.palliaged.com.au/improving-care/communication/voluntary-assisted-dying/"
+    },
+    {
+      "text": "RACGP - Voluntary assisted dying in aged care Voluntary assisted dying (VAD) refers to the assistance provided to a person by a health practitioner to end their life. Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/voluntary-assisted-dying-in-aged-care"
+    },
+    {
+      "text": "End of Life Law - Voluntary Assisted Dying -FAQs Frequently asked questions about voluntary assisted dying Read more on End of Life Directions for Aged Care website",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/FAQs"
+    },
+    {
+      "text": "End of Life Law - Voluntary Assisted Dying - Factsheets These factsheets focus on the roles, and legal rights and obligations of health professionals and residential facilities in relation to voluntary assisted dying (VAD). Read more on End of Life Directions for Aged Care website",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Factsheets"
+    },
+    {
+      "text": "Voluntary Assisted Dying - Clinical Decisions - General Practitioner - Health Professionals General practitioners can choose to participate in voluntary assisted dying. Read about the obligations for individuals and organisations involved in the process for each state in Australia. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Health-Professionals/General-Practitioner/Clinical-Decisions/Voluntary-Assisted-Dying/"
+    },
+    {
+      "text": "Voluntary Assisted Dying | Living with illness | Patients and Carers | Community Voluntary Assisted Dying (VAD) lets eligible people with a life-limiting illness choose to end life, differing from palliative care's focus on comfort. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Community/Patients-and-Carers/Living-with-Illness/Voluntary-Assisted-Dying/"
+    },
+    {
+      "text": "Terminal / End-of-Life Care - The Dying Patient - Nurses - Health Professionals Explore how quality end-of-life care supports a dignified death through symptom management, anticipatory planning, and treatment withdrawal decisions. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Health-Professionals/Nurses/The-Dying-Patient/Terminal-End-of-Life-Care/"
+    },
+    {
+      "text": "Understanding the Dying Process in Palliative Care Recognising signs that a patient is nearing death is an essential part of providing high-quality care. Appropriate recognition ensures that trained health professionals can work collaboratively with all members of the care team to confidently discontinue any treatments that may be burdensome in the last days of life, as well as provide care that optimises the patient’s wellbeing and respects their values and preferences. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dying-process"
+    },
+    {
+      "text": "Fire Safety in Your Client’s Home Most house fires are preventable. In order to prevent harm, serious injury or death from fire, you must be able to identify and address fire hazards or risks in clients’ homes. Furthermore, clients should be adequately educated on how to minimise fire hazards and respond to an emergency situation. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/fire-safety-home"
+    },
+    {
+      "text": "Dehydration, Hyperthermia and Heatstroke: Caring for Older Adults in Summer In Australia, heatwaves have caused more deaths than any other natural disaster. With older adults over 65 being one of the high-risk groups for hyperthermia (along with babies and young children, pregnant people and those with certain conditions), knowing how to appropriately care for your older clients during the warmer months is crucial. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/nursing-older-adults-in-summer"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Preparing for a death at home - what to do when someone dies at home | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Preparing for a death at home\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf a person's death is unexpected and they did not have a terminal illness, call triple zero (000) and ask for an ambulance.\n\n## Key facts\n\n- If someone you are caring for chooses to die at home, they should first speak to their doctor or palliative care team to create an appropriate plan.\n\n- Encourage the person you are caring for to have all their legal documents in place.\n\n- After an expected death at home, call the person's doctor or palliative care team.\n\n- There are many resources for carers to help with funeral planning and other arrangements after someone has died.\n\n- Support is available to help carers to cope emotionally during the grieving process.\n\n## On this page\n\n- How do I prepare for a coming death at home?\n\n- What legal documents do I need to prepare for a death at home?\n\n- What should I do after a death at home?\n\n- When is a death referred to the coroner?\n\n- What should I do in the days and weeks after a death at home?\n\n- How do I arrange a funeral?\n\n- Which organisations should I notify after a death?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## How do I prepare for a coming death at home?\n\nMany people prefer to die at home in familiar surroundings. For those in end-of-life care, their home can provide a sense of freedom, peace and privacy.\n\nYou may be caring for someone at home who has a terminal condition and is dying . This article gives you advice on how to prepare for a death at home.\n\nIf the person you care for knows they are dying, they should talk to their doctor or palliative care team about how that might happen and what they want.\n\nTheir doctor or palliative care team may ask them:\n\n- Do they want to die at home?\n\n- Do they want to be resuscitated, if possible?\n\n- Are there other family members or friends who need to be informed?\n\nThey should either involve you in the discussion or tell you afterward, so you know what to expect.\n\nPalliative Care Australia can help you find palliative care providers near you.\n\n### Caring for someone who is dying\n\nTry to make the person you're caring for comfortable. Treat them with dignity and compassion. Try to keep them as free of pain as possible.\n\nIf they know they are dying, they might want to talk about their life. They might also want to be left in silence. Let them lead the way.\n\nThe person you are caring for may have medical problems. If they have severe pain or other symptoms, call the doctor or palliative care team for advice.\n\nIt's a good idea to arrange for someone to come to your home to support you during your loved one's final days or hours. This person may be a close relative, a friend or a nurse.\n\n## What legal documents do I need to prepare for a death at home?\n\nIdeally, the person you care for will already have legal documents in place, such as those described below.\n\n### Death at home documents\n\nYour doctor can help by providing you with 'death at home' documents, such as a letter telling the ambulance service the person is expected to die and should not be resuscitated.\n\n### A will\n\nA will states how you want your belongings distributed after your death. Follow the link to find out more about wills and powers of attorney .\n\n### Enduring power of attorney\n\nAn enduring power of attorney states who can make legal and financial decisions for you if you can't do it yourself.\n\n### Appointing an enduring guardian\n\nAn enduring guardian is someone who can make decisions about your medical care and lifestyle if you can't do it yourself. An enduring guardian should be someone who you trust and know well. This person should be named in your enduring guardianship documents.\n\nFind out more about guardianship and power of attorney .\n\n### Advance care planning\n\nAdvance care planning is the process of planning for your current and future health care.\n\nAdvance care plans are not legally binding. Your doctor can discuss advance care planning with you and your family.\n\n### Advance care directive\n\nTo formalise your advance care plan, you should write an advance care directive. This is also known as an advance health directive, or a living will.\n\nThe forms for writing advance care directives vary between states and territories. Follow the link to find out more about advance care planning in your state or territory (or call 1300 208 582 for advice).\n\n### What if these documents are not available?\n\nIf these arrangements are not in place for the person you are caring for, you can see if there is time to arrange them now. It is especially important to organise a will. Dying without a will can create problems and upset for family members.\n\n## What should I do after a death at home?\n\nThe death of a person you have been caring for can be difficult to deal with. It is natural to feel grief and a mix of emotions. Try to stay calm — reach out to a family member or friend if you would like support. There is no legal requirement for you to contact anyone straight away. You do not need to contact the ambulance or police for an expected home death.\n\nWhen you are ready, call the person's doctor or palliative care team. They can arrange for a doctor to visit to confirm the person's death and issue a medical certificate of cause of death. If there is no doctor available, an authorised nurse or paramedic can complete a verification of death form.\n\nIf they die during the night you can wait until the morning before calling a doctor.\n\nRead more on what to do when someone dies at home .\n\n## When is a death referred to the coroner?\n\nIf the doctor cannot confirm the cause of death, they will have to call the police. The police refer 'reportable deaths' to the coroner. These include when the person has died:\n\n- violently or unnaturally\n\n- unusually or in suspicious circumstances\n\n- unexpectedly\n\n- after an accident, injury or surgery\n\nThe coroner can ask for a post-mortem or autopsy to decide the cause of death.\n\n## What should I do in the days and weeks after a death at home?\n\nFirst, be kind to yourself. You will probably be feeling a whole range of emotions and will find it hard to concentrate. Grieving can take a long time and each person's experience is unique. It is important to look after your own physical and mental health.\n\nGet support from family and friends. If you feel comfortable, allow people to help if they offer.\n\nServices Australia have payments and services that may help you after someone has died.\n\n## How do I arrange a funeral?\n\nCall a funeral director to collect the person's body and arrange the funeral.\n\nThey will pass on the doctor's certificate, noting the cause of death, to the state or territory Registry of Births, Deaths and Marriages. The registry then issues a death certificate.\n\nThe funeral director will follow the wishes of the deceased person and their family. This includes whether they want to have a cremation or burial. Visit the Australian Funeral Directors Association page for a practical guide to the funeral process .\n\nYou may not want to use a funeral director. In this case, the person taking charge of the funeral must register the death. Visit the Services Australia page on births, deaths and marriages register in your state or territory.\n\n## Which organisations should I notify after a death?\n\nAfter someone dies, you will need to notify many people and organisations, including:\n\n- their bank\n\n- their superannuation fund\n\n- the Australian Taxation Office\n\nSee the Services Australia page on what to do following a death for details of social and financial support.\n\n## Resources and support\n\n- Carer Gateway has information on end-of-life caring and support via 1800 422 737 to discuss your situation.\n\n- Griefline provides support online and on 1300 845 745 .\n\n- Lifeline offers support on 13 11 14 and online about loss and grief .\n\n- The Compassionate Friends Australia offers support after the death of a child on 1300 064 068 .\n\n- Cancer Council has information on facing end of life and what to do after death or via their support and information line on 13 11 20 .\n\n- Dementia Australia can help with coping after the death of someone with dementia online or by calling 1800 100 500 .\n\nFor help finding the right services, call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available 24 hours a day, 7 days a week.\n\nIf you need to speak to a doctor or mental health professional, use the Service Finder to find one nearest to you.\n\n### Other languages\n\nVisit the CareSearch website for links to palliative care and end-of-life information in different languages.\n\n### Aboriginal and/or Torres Strait Islander peoples\n\nThe Australian Indigenous HealthInfoNet provides resources about palliative and end-of-life care.\n\n#### Source s :\n\nServices Australia (Who to tell when someone dies) , Department of Health and Aged Care (How to get palliative care) , North Western Melbourne (What to expect when a loved one wants to die at home) , Moneysmart (Wills and powers of attorney) , Services Australia (What to do when a loved one dies) , NSW Government, Clinical Excellence Commission (When someone dies at home) , Australian Funeral Directors Association (Arranging a funeral) , Coroners Court of Victoria (Reportable Deaths) , myGov (Who to tell when someone dies)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: September 2024\n\nBack To Top\n\n## Related pages\n\n- The process of dying\n\n## Search our site for\n\n- Terminal Disease\n\n- Bereavement\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Understanding the dying process\n\nInformation for families to help them work through some of the difficult questions and issues around what happens when someone dies.\n\nRead more on WA Health website\n\n### Voluntary assisted dying (VAD)\n\nVoluntary assisted dying (VAD) refers to asking for medical help to end your life if you have a disease or illness that is so severe it is going to cause your death and your suffering cannot be relieved in a manner tolerable to you.\n\n### Voluntary assisted dying | Queensland Health\n\nVoluntary Assisted Dying enables certain individuals who are suffering and dying to choose the timing and circumstances of their death.\n\nRead more on Queensland Health website\n\n### Voluntary assisted dying in NSW\n\nVoluntary assisted dying is a choice available to an eligible person who is approaching the end of their life.\n\nRead more on NSW Health website\n\n### At the end – dying explained | betterhealth.vic.gov.au\n\nbetterhealth.vic.gov.au\n\nRead more on Better Health Channel website\n\n### Voluntary assisted dying | Better Health Channel\n\nVictoria is the first state in Australia to pass voluntary assisted dying laws. The Voluntary Assisted Dying Act (2017) provides a safe legal framework for people who are suffering and dying to choose the manner and timing of their death.\n\n### Voluntary assisted dying | Tasmanian Department of Health\n\nFind information about voluntary assisted dying in Tasmania.\n\nRead more on Tasmanian Department of Health and Human Services website\n\n### Accessing voluntary assisted dying in the ACT - ACT Government\n\nInformation about planning, discussing and preparing for the end of life, including voluntary assisted dying.\n\nRead more on ACT Health website\n\n### Coping With Grief After Voluntary Assisted Dying: A Guide For Family And Friends | Griefline\n\nIf you are grieving for someone who accessed voluntary assisted dying, you may feel a range of emotions and challenges. This resource offers practical information and guidance to help you cope.\n\nRead more on Griefline website\n\n### Death and grieving | Carer Gateway\n\nGrief is a natural response to any loss. That loss might be a death, or it might be for the loss of the person as you knew them. If you’re grieving, remember that you’re not alone and help is available.\n\nRead more on Carer Gateway website\n\nShow more\n\n### Voluntary Assisted Dying\n\nVoluntary Assisted Dying (VAD) is legal in Australia, helping residents to make informed end-of-life choices. Aged care staff can support residents with information and respectful discussions.\n\nRead more on palliAGED website\n\n### RACGP - Voluntary assisted dying in aged care\n\nVoluntary assisted dying (VAD) refers to the assistance provided to a person by a health practitioner to end their life.\n\nRead more on RACGP website\n\n### End of Life Law - Voluntary Assisted Dying -FAQs\n\nFrequently asked questions about voluntary assisted dying\n\nRead more on End of Life Directions for Aged Care website\n\n### End of Life Law - Voluntary Assisted Dying - Factsheets\n\nThese factsheets focus on the roles, and legal rights and obligations of health professionals and residential facilities in relation to voluntary assisted dying (VAD).\n\n### Voluntary Assisted Dying - Clinical Decisions - General Practitioner - Health Professionals\n\nGeneral practitioners can choose to participate in voluntary assisted dying. Read about the obligations for individuals and organisations involved in the process for each state in Australia.\n\nRead more on CareSearch website\n\n### Voluntary Assisted Dying | Living with illness | Patients and Carers | Community\n\nVoluntary Assisted Dying (VAD) lets eligible people with a life-limiting illness choose to end life, differing from palliative care's focus on comfort.\n\n### Terminal / End-of-Life Care - The Dying Patient - Nurses - Health Professionals\n\nExplore how quality end-of-life care supports a dignified death through symptom management, anticipatory planning, and treatment withdrawal decisions.\n\n### Understanding the Dying Process in Palliative Care\n\nRecognising signs that a patient is nearing death is an essential part of providing high-quality care. Appropriate recognition ensures that trained health professionals can work collaboratively with all members of the care team to confidently discontinue any treatments that may be burdensome in the last days of life, as well as provide care that optimises the patient’s wellbeing and respects their values and preferences.\n\nRead more on Ausmed Education website\n\n### Fire Safety in Your Client’s Home\n\nMost house fires are preventable. In order to prevent harm, serious injury or death from fire, you must be able to identify and address fire hazards or risks in clients’ homes. Furthermore, clients should be adequately educated on how to minimise fire hazards and respond to an emergency situation.\n\n### Dehydration, Hyperthermia and Heatstroke: Caring for Older Adults in Summer\n\nIn Australia, heatwaves have caused more deaths than any other natural disaster. With older adults over 65 being one of the high-risk groups for hyperthermia (along with babies and young children, pregnant people and those with certain conditions), knowing how to appropriately care for your older clients during the warmer months is crucial.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/preparing-for-a-death-at-home\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/preparing-for-a-death-at-home\n\n- Please enter your name: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/preparing-for-a-death-at-home\n\n- How do I prepare for a coming death at home?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#prepare\n\n- What legal documents do I need to prepare for a death at home?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#legal-documents\n\n- What should I do after a death at home?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#after-death\n\n- When is a death referred to the coroner?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#coroner\n\n- What should I do in the days and weeks after a death at home?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#weeks-after-death\n\n- How do I arrange a funeral?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#funeral\n\n- Which organisations should I notify after a death?: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#notify\n\n- Resources and support: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#searchGeneralResults\n\n- end-of-life: https://www.healthdirect.gov.au/end-of-life-health\n\n- dying: https://www.healthdirect.gov.au/the-physical-process-of-dying\n\n- palliative care: https://www.healthdirect.gov.au/palliative-care\n\n- Palliative Care Australia: https://palliativecare.org.au/\n\n- wills and powers of attorney: https://moneysmart.gov.au/manage-your-money-in-retirement/get-help-in-retirement/wills-and-powers-of-attorney\n\n- guardianship and power of attorney: https://www.carergateway.gov.au/tips/difference-between-guardianship\n\n- advance care planning: https://www.advancecareplanning.org.au/\n\n- grief: https://www.healthdirect.gov.au/understanding-anticipatory-grief\n\n- what to do when someone dies at home: https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0004/359338/LDOL-When-Someone-Dies-at-Home.PDF\n\n- Grieving: https://www.healthdirect.gov.au/grief-loss\n\n- have payments and services: https://www.servicesaustralia.gov.au/what-help-available-when-loved-one-dies?context=60101\n\n- practical guide to the funeral process: https://afda.org.au/wp-content/uploads/2020/08/285837-AFDA-WhatDoIDo_8pp_FINAL.pdf\n\n- births, deaths and marriages register: https://www.servicesaustralia.gov.au/what-to-do-when-loved-one-dies?context=60101#a2\n\n- what to do following a death: https://www.humanservices.gov.au/individuals/subjects/what-do-following-death\n\n- end-of-life caring: https://www.carergateway.gov.au/your-life-carer/end-life-caring\n\n- Griefline: https://griefline.org.au/\n\n- loss and grief: https://toolkit.lifeline.org.au/topics/grief-loss/what-is-grief\n\n- The Compassionate Friends Australia: https://tcfa.org.au/\n\n- what to do after death: https://www.cancercouncil.com.au/cancer-information/advanced-cancer/end-of-life/for-carers/after-the-death/\n\n- Dementia Australia: https://www.dementia.org.au/support-and-services/families-and-friends/taking-care-of-yourself/coping-after-the-death-of-someone-with-dementia\n\n- healthdirect helpline: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- CareSearch website: https://www.caresearch.com.au/tabid/7201/Default.aspx\n\n- Australian Indigenous HealthInfoNet: https://healthinfonet.ecu.edu.au/learn/health-system/palliative-care/\n\n- (Who to tell when someone dies): https://www.servicesaustralia.gov.au/who-to-tell-when-someone-dies?context=60101\n\n- (How to get palliative care): https://www.health.gov.au/topics/palliative-care/about-palliative-care/how-to-get-palliative-care\n\n- (What to expect when a loved one wants to die at home): https://nwmphn.org.au/news/what-to-expect-when-a-loved-one-wants-to-die-at-home\n\n- (Wills and powers of attorney): https://moneysmart.gov.au/living-in-retirement/wills-and-powers-of-attorney\n\n- (What to do when a loved one dies): https://www.servicesaustralia.gov.au/what-to-do-when-loved-one-dies?context=60101\n\n- (Arranging a funeral): https://afda.org.au/arranging-2\n\n- (Reportable Deaths): https://www.coronerscourt.vic.gov.au/report-death-or-fire/reportable-deaths\n\n- (Who to tell when someone dies): https://my.gov.au/en/services/health-and-disability/experiencing-the-death-of-a-loved-one/who-to-tell-that-someone-has-died\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/preparing-for-a-death-at-home#backToTop\n\n- Terminal Disease: https://www.healthdirect.gov.au/search-results/Terminal Disease\n\n- Bereavement: https://www.healthdirect.gov.au/search-results/Bereavement\n\n- Understanding the dying process Information for families to help them work through some of the difficult questions and issues around what happens when someone dies. Read more on WA Health website: https://www.healthywa.wa.gov.au/Articles/U_Z/Understanding-the-dying-process\n\n- Voluntary assisted dying (VAD) Voluntary assisted dying (VAD) refers to asking for medical help to end your life if you have a disease or illness that is so severe it is going to cause your death and your suffering cannot be relieved in a manner tolerable to you. Read more on WA Health website: https://www.healthywa.wa.gov.au/Articles/U_Z/Voluntary-assisted-dying\n\n- Voluntary assisted dying | Queensland Health Voluntary Assisted Dying enables certain individuals who are suffering and dying to choose the timing and circumstances of their death. Read more on Queensland Health website: https://www.health.qld.gov.au/clinical-practice/guidelines-procedures/voluntary-assisted-dying\n\n- Voluntary assisted dying in NSW Voluntary assisted dying is a choice available to an eligible person who is approaching the end of their life. Read more on NSW Health website: https://www.health.nsw.gov.au/voluntary-assisted-dying/Pages/default.aspx\n\n- At the end – dying explained | betterhealth.vic.gov.au betterhealth.vic.gov.au Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/At-the-end-dying-explained\n\n- Voluntary assisted dying | Better Health Channel Victoria is the first state in Australia to pass voluntary assisted dying laws. The Voluntary Assisted Dying Act (2017) provides a safe legal framework for people who are suffering and dying to choose the manner and timing of their death. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/servicesandsupport/voluntary-assisted-dying\n\n- Voluntary assisted dying | Tasmanian Department of Health Find information about voluntary assisted dying in Tasmania. Read more on Tasmanian Department of Health and Human Services website: https://www.health.tas.gov.au/health-topics/voluntary-assisted-dying-1\n\n- Accessing voluntary assisted dying in the ACT - ACT Government Information about planning, discussing and preparing for the end of life, including voluntary assisted dying. Read more on ACT Health website: https://www.act.gov.au/health/end-of-life-and-palliative-care/accessing-voluntary-assisted-dying-in-the-act\n\n- Coping With Grief After Voluntary Assisted Dying: A Guide For Family And Friends | Griefline If you are grieving for someone who accessed voluntary assisted dying, you may feel a range of emotions and challenges. This resource offers practical information and guidance to help you cope. Read more on Griefline website: https://griefline.org.au/resources/coping-with-grief-after-voluntary-assisted-dying-a-guide-for-family-and-friends/\n\n- Death and grieving | Carer Gateway Grief is a natural response to any loss. That loss might be a death, or it might be for the loss of the person as you knew them. If you’re grieving, remember that you’re not alone and help is available. Read more on Carer Gateway website: https://www.carergateway.gov.au/your-life-carer/end-life-caring/death-grieving\n\n- Voluntary Assisted Dying Voluntary Assisted Dying (VAD) is legal in Australia, helping residents to make informed end-of-life choices. Aged care staff can support residents with information and respectful discussions. Read more on palliAGED website: https://www.palliaged.com.au/improving-care/communication/voluntary-assisted-dying/\n\n- RACGP - Voluntary assisted dying in aged care Voluntary assisted dying (VAD) refers to the assistance provided to a person by a health practitioner to end their life. Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/voluntary-assisted-dying-in-aged-care\n\n- End of Life Law - Voluntary Assisted Dying -FAQs Frequently asked questions about voluntary assisted dying Read more on End of Life Directions for Aged Care website: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/FAQs\n\n- End of Life Law - Voluntary Assisted Dying - Factsheets These factsheets focus on the roles, and legal rights and obligations of health professionals and residential facilities in relation to voluntary assisted dying (VAD). Read more on End of Life Directions for Aged Care website: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Factsheets\n\n- Voluntary Assisted Dying - Clinical Decisions - General Practitioner - Health Professionals General practitioners can choose to participate in voluntary assisted dying. Read about the obligations for individuals and organisations involved in the process for each state in Australia. Read more on CareSearch website: https://www.caresearch.com.au/Health-Professionals/General-Practitioner/Clinical-Decisions/Voluntary-Assisted-Dying/\n\n- Voluntary Assisted Dying | Living with illness | Patients and Carers | Community Voluntary Assisted Dying (VAD) lets eligible people with a life-limiting illness choose to end life, differing from palliative care's focus on comfort. Read more on CareSearch website: https://www.caresearch.com.au/Community/Patients-and-Carers/Living-with-Illness/Voluntary-Assisted-Dying/\n\n- Terminal / End-of-Life Care - The Dying Patient - Nurses - Health Professionals Explore how quality end-of-life care supports a dignified death through symptom management, anticipatory planning, and treatment withdrawal decisions. Read more on CareSearch website: https://www.caresearch.com.au/Health-Professionals/Nurses/The-Dying-Patient/Terminal-End-of-Life-Care/\n\n- Understanding the Dying Process in Palliative Care Recognising signs that a patient is nearing death is an essential part of providing high-quality care. Appropriate recognition ensures that trained health professionals can work collaboratively with all members of the care team to confidently discontinue any treatments that may be burdensome in the last days of life, as well as provide care that optimises the patient’s wellbeing and respects their values and preferences. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dying-process\n\n- Fire Safety in Your Client’s Home Most house fires are preventable. In order to prevent harm, serious injury or death from fire, you must be able to identify and address fire hazards or risks in clients’ homes. Furthermore, clients should be adequately educated on how to minimise fire hazards and respond to an emergency situation. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/fire-safety-home\n\n- Dehydration, Hyperthermia and Heatstroke: Caring for Older Adults in Summer In Australia, heatwaves have caused more deaths than any other natural disaster. With older adults over 65 being one of the high-risk groups for hyperthermia (along with babies and young children, pregnant people and those with certain conditions), knowing how to appropriately care for your older clients during the warmer months is crucial. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/nursing-older-adults-in-summer\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

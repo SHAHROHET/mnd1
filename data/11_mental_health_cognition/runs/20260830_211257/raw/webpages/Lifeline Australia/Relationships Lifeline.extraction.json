@@ -1,0 +1,607 @@
+{
+  "source_id": "lifeline-australia:get-help-support-toolkit-topics-relationships",
+  "title": "Relationships | Lifeline",
+  "publisher": "Lifeline Australia",
+  "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 62054,
+  "crawl_depth": 2,
+  "seed_url": "https://www.lifeline.org.au/get-help/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#main-content"
+    },
+    {
+      "text": "Call us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/131114"
+    },
+    {
+      "text": "Chat with us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/chat"
+    },
+    {
+      "text": "Text us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/text"
+    },
+    {
+      "text": "https://www.lifeline.org.au/",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "I’m thinking about suicide",
+      "url": "https://www.lifeline.org.au/get-help/im-thinking-about-suicide"
+    },
+    {
+      "text": "I want to talk to someone",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone"
+    },
+    {
+      "text": "I'm worried about someone",
+      "url": "https://www.lifeline.org.au/get-help/im-worried-about-someone"
+    },
+    {
+      "text": "I want to explore my options",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-explore-my-options"
+    },
+    {
+      "text": "Get help home",
+      "url": "https://www.lifeline.org.au/get-help"
+    },
+    {
+      "text": "Call us 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/131114"
+    },
+    {
+      "text": "Chat to us Support 24/7 ● Service online",
+      "url": "https://www.lifeline.org.au/chat"
+    },
+    {
+      "text": "Text us 0477 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/text"
+    },
+    {
+      "text": "Crisis support",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.lifeline.org.au/get-help/services/counselling"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/service-finder"
+    },
+    {
+      "text": "Workplace & community training",
+      "url": "https://www.lifeline.org.au/get-help/services/workplace-and-community-training"
+    },
+    {
+      "text": "Services home",
+      "url": "https://www.lifeline.org.au/get-help/services"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics"
+    },
+    {
+      "text": "Techniques & guides",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps"
+    },
+    {
+      "text": "Safety planning",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/safety-planning"
+    },
+    {
+      "text": "Community perspectives",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets"
+    },
+    {
+      "text": "Support Toolkit home",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit"
+    },
+    {
+      "text": "Sleep and mental health",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health"
+    },
+    {
+      "text": "Journaling your thoughts and feelings",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and"
+    },
+    {
+      "text": "How to do a digital detox",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox"
+    },
+    {
+      "text": "Helping friends and family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "About Cognitive Behavioural Therapy (CBT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums"
+    },
+    {
+      "text": "Real stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories"
+    },
+    {
+      "text": "Hear from others home",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others"
+    },
+    {
+      "text": "Listen to Joe's story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.lifeline.org.au/get-involved/donate"
+    },
+    {
+      "text": "Donate to Lifeline",
+      "url": "https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline"
+    },
+    {
+      "text": "Donate in memory",
+      "url": "https://inmemory.lifeline.org.au"
+    },
+    {
+      "text": "Leave a gift in your Will",
+      "url": "https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://www.lifeline.org.au/get-involved/fundraising"
+    },
+    {
+      "text": "Fundraise for Lifeline",
+      "url": "https://fundraise.lifeline.org.au/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.lifeline.org.au/get-involved/events"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer"
+    },
+    {
+      "text": "Become a crisis supporter",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter"
+    },
+    {
+      "text": "Community volunteering",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer-in-your-community"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://www.lifeline.org.au/get-involved/partner-with-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.lifeline.org.au/about-us"
+    },
+    {
+      "text": "Who we are",
+      "url": "https://www.lifeline.org.au/about-us/who-we-are"
+    },
+    {
+      "text": "Our strategy",
+      "url": "https://www.lifeline.org.au/about-us/our-strategy"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.lifeline.org.au/about-us/our-services"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.lifeline.org.au/about-us/our-impact"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.lifeline.org.au/about-us/our-structure"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.lifeline.org.au/about-us/governance"
+    },
+    {
+      "text": "Lived experience framework",
+      "url": "https://www.lifeline.org.au/about-us/lived-experience"
+    },
+    {
+      "text": "Our research",
+      "url": "https://www.lifeline.org.au/about/our-research"
+    },
+    {
+      "text": "Data & statistics",
+      "url": "https://www.lifeline.org.au/about/our-research/data-and-statistics"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.lifeline.org.au/about/our-research/research-and-reports"
+    },
+    {
+      "text": "Our partners",
+      "url": "https://www.lifeline.org.au/about/our-partners"
+    },
+    {
+      "text": "Government supporters",
+      "url": "https://www.lifeline.org.au/about/our-partners/government-supporters"
+    },
+    {
+      "text": "Corporate partners",
+      "url": "https://www.lifeline.org.au/about/our-partners/our-corporate-partners"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.lifeline.org.au/about/contact-us"
+    },
+    {
+      "text": "Lifeline locations",
+      "url": "https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you"
+    },
+    {
+      "text": "News & media",
+      "url": "https://www.lifeline.org.au/about/news-and-media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.lifeline.org.au/about/careers"
+    },
+    {
+      "text": "Shop merchandise",
+      "url": "https://lifelineaustralia.infoservices.com.au"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://fundraise.lifeline.org.au"
+    },
+    {
+      "text": "Urgent Crisis Support",
+      "url": "https://www.lifeline.org.au/urgent-crisis-support"
+    },
+    {
+      "text": "English",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships"
+    },
+    {
+      "text": "Importance of relationships",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#importance-of-relationships"
+    },
+    {
+      "text": "Common problems",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#common-problems-in-relationships"
+    },
+    {
+      "text": "Signs & effects",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#signs-and-effects-of-problems-in-relationships"
+    },
+    {
+      "text": "Short-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#short-term-help-for-relationships"
+    },
+    {
+      "text": "Long-term help",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#long-term-help-for-relationships"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#tools-and-apps-for-relationships"
+    },
+    {
+      "text": "Support services",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#support-services-for-relationships"
+    },
+    {
+      "text": "For friends & family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#for-friends-and-family-relationships"
+    },
+    {
+      "text": "connected",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections"
+    },
+    {
+      "text": "self-esteem",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/stress"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.lifeline.org.au/topics/depression/feelings-and-effects-of-depression"
+    },
+    {
+      "text": "loneliness",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/loneliness"
+    },
+    {
+      "text": "problematic",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/common-problems-in-relationships"
+    },
+    {
+      "text": "Click here to download, save, or print our relationships fact sheet",
+      "url": "https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-relationships-fact-sheet_0.pdf"
+    },
+    {
+      "text": "difficult conversations",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#tips-for-having-difficult-conversations"
+    },
+    {
+      "text": "financial stress",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/financial-stress"
+    },
+    {
+      "text": "problem gambling",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/problem-gambling"
+    },
+    {
+      "text": "support options",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/support-services-for-financial-stress"
+    },
+    {
+      "text": "https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress"
+    },
+    {
+      "text": "self-care",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/anxiety"
+    },
+    {
+      "text": "Click here for tips and advice to make your long-distance relationship work",
+      "url": "https://www.relationshipsnsw.org.au/blog/long-distance-relationships-tips/"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lachies-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lachies-story"
+    },
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/domestic-and-family-violence"
+    },
+    {
+      "text": "signs and effects page",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships"
+    },
+    {
+      "text": "Domestic and Family Violence Helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/1800respect"
+    },
+    {
+      "text": "Lifeline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support"
+    },
+    {
+      "text": "relationship problems",
+      "url": "https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships"
+    },
+    {
+      "text": "Depression",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/depression"
+    },
+    {
+      "text": "Panic attacks",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/panic-attacks"
+    },
+    {
+      "text": "Self-harm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/self-harm"
+    },
+    {
+      "text": "Substance misuse",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/substance-misuse"
+    },
+    {
+      "text": "Suicidal thoughts",
+      "url": "https://toolkit.lifeline.org.au/topics/suicide/feelings-and-effects-of-suicide#thoughts"
+    },
+    {
+      "text": "Lifeline",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/contacting-lifeline-guide"
+    },
+    {
+      "text": "people convince themselves",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#understanding-why-we-stay"
+    },
+    {
+      "text": "Talking to someone you trust",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust"
+    },
+    {
+      "text": "Speaking with a therapist",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/what-to-expect-in-your-first-therapy-session"
+    },
+    {
+      "text": "healthy relationships",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships"
+    },
+    {
+      "text": "Managing emotions",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#managing-emotions"
+    },
+    {
+      "text": "Seeking support",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#reaching-out-for-support"
+    },
+    {
+      "text": "Making tough decisions",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#making-tough-decisions"
+    },
+    {
+      "text": "long-term help",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#moving-on-after-a-relationship-ends"
+    },
+    {
+      "text": "build and maintain healthy relationships",
+      "url": "https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships"
+    },
+    {
+      "text": "grounding technique",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques"
+    },
+    {
+      "text": "Relationships Australia",
+      "url": "https://www.lifeline.org.au/get-help/national-services/relationships-australia"
+    },
+    {
+      "text": "support service",
+      "url": "https://www.lifeline.org.au/topics/relationships/support-services-for-relationships"
+    },
+    {
+      "text": "support services",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/support-services-for-relationships"
+    },
+    {
+      "text": "Relationships Australia",
+      "url": "https://www.relationships.org.au/support/#Find-a-service"
+    },
+    {
+      "text": "connection",
+      "url": "https://www.lifeline.org.au/topics/relationships/importance-of-relationships"
+    },
+    {
+      "text": "signs to look for",
+      "url": "https://www.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships"
+    },
+    {
+      "text": "Tips for building healthy relationships",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#tips-for-building-healthy-relationships"
+    },
+    {
+      "text": "How to learn and grow from past relationships",
+      "url": "https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#thinking-about-future-relationships"
+    },
+    {
+      "text": "abuse or violence",
+      "url": "https://www.lifeline.org.au/topics/domestic-and-family-violence/signs-and-effects-of-domestic-and-family-violence"
+    },
+    {
+      "text": "Better Man online program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/better-man"
+    },
+    {
+      "text": "grieving",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics/grief-loss"
+    },
+    {
+      "text": "self-care box",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box"
+    },
+    {
+      "text": "Mental Health Treatment Plan",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to"
+    },
+    {
+      "text": "Finding the therapist that’s right for you",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-the-right-therapist"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/meetup",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/meetup"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/full-stop-australia",
+      "url": "https://www.lifeline.org.au/get-help/national-services/full-stop-australia"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/kids-helpline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/kids-helpline"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mensline-australia",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mensline-australia"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/mens-referral-service",
+      "url": "https://www.lifeline.org.au/get-help/national-services/mens-referral-service"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/dont-become-that-man",
+      "url": "https://www.lifeline.org.au/get-help/national-services/dont-become-that-man"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/family-drug-support",
+      "url": "https://www.lifeline.org.au/get-help/national-services/family-drug-support"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/find-another-service"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://www.lifeline.org.au/get-involved"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://www.lifeline.org.au/about/reconciliation-action-plan"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.lifeline.org.au/policies"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.lifeline.org.au/policies/privacy-policy"
+    },
+    {
+      "text": "Language",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support"
+    },
+    {
+      "text": "https://www.facebook.com/LifelineAustralia/",
+      "url": "https://www.facebook.com/LifelineAustralia/"
+    },
+    {
+      "text": "https://www.instagram.com/lifelineaustralia/",
+      "url": "https://www.instagram.com/lifelineaustralia/"
+    },
+    {
+      "text": "https://au.linkedin.com/company/lifeline-australia",
+      "url": "https://au.linkedin.com/company/lifeline-australia"
+    },
+    {
+      "text": "https://x.com/LifelineAust",
+      "url": "https://x.com/LifelineAust"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw",
+      "url": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+    }
+  ],
+  "text": "Relationships | Lifeline Skip to main content\n\nIf life is in danger, call Triple Zero (000)\n\nCall us ● Chat with us ● Text us ●\n\n- Get help\n\n- Help starts here\n\n- I’m thinking about suicide\n\n- I want to talk to someone\n\n- I'm worried about someone\n\n- I want to explore my options\n\n- Get help home\n\nCall us 13 11 14\n\n● Service online\n\nChat to us Support 24/7\n\nText us 0477 13 11 14\n\nServices\n\n- Crisis support\n\n- Counselling\n\n- Service Finder\n\n- Workplace & community training\n\n- Services home\n\nChat with us Support 24/7\n\nSupport Toolkit\n\n- Topics\n\n- Techniques & guides\n\n- Tools & apps\n\n- Safety planning\n\n- Community perspectives\n\n- Fact sheets\n\n- Support Toolkit home\n\nSleep and mental health\n\nJournaling your thoughts and feelings\n\nHow to do a digital detox\n\nHelping friends and family\n\nAbout Cognitive Behavioural Therapy (CBT)\n\nHear from others\n\n- Forums\n\n- Real stories\n\n- Hear from others home\n\nListen to Joe's story\n\n- Get involved\n\n- Donate\n\n- Donate to Lifeline\n\n- Donate in memory\n\n- Leave a gift in your Will\n\nFundraise\n\n- Fundraise for Lifeline\n\n- Events\n\nVolunteer\n\n- Become a crisis supporter\n\n- Community volunteering\n\nPartner with us\n\nBecome a Crisis Supporter Explore\n\n- About\n\n- About us\n\n- Who we are\n\n- Our strategy\n\n- Our services\n\n- Our impact\n\n- Our structure\n\n- Governance\n\n- Lived experience framework\n\nOur research\n\n- Data & statistics\n\n- Research & reports\n\nOur partners\n\n- Government supporters\n\n- Corporate partners\n\nContact us Lifeline locations News & media Careers Shop merchandise\n\nVolunteer Fundraise\n\nDonate\n\nSearch\n\nGet help\n\nContact us\n\nLifeline locations\n\nNews & media\n\nCareers\n\nShop merchandise\n\nDonate Volunteer\n\nUrgent Crisis Support\n\n## What can we help you find?\n\nClose\n\n# Get Help\n\nIf life is in danger, call 000.\n\nCall us\n\nChat with us\n\nText us\n\nExplore our services\n\nTranslation notice: Lifeline Crisis Support is delivered in English. This page was translated automatically and may not be fully accurate. Spot an issue? Let us know\n\nShare feedback about automatic translation accuracy.\n\nBreadcrumb\n\nBack to Topics\n\n- Home\n\n- Support Toolkit\n\n- Relationships\n\nTranslate\n\n- English\n\n- Mandarin 普通话\n\n- Cantonese (廣東話)\n\n- Arabic (عربى)\n\n- Vietnamese\n\n- Punjabi\n\n- Hindi\n\n- Greek\n\n- Italian\n\n- Spanish\n\n- Nepali\n\n# Relationships\n\nLearn about the importance of healthy relationships and knowing when there’s a problem.\n\nQuick exit\n\nJump to\n\nImportance of relationships Common problems Signs & effects Short-term help Long-term help Tools & apps Support services For friends & family\n\n## Importance of relationships\n\nOpen\n\n### Understanding relationships\n\nRelationships are one of the most important parts of being human. Not only do we rely on them for our mental and emotional wellbeing, we depend on them for our survival.\n\nJust like having food and shelter are basic physical needs, feeling connected and loved are basic emotional needs.\n\nFeeling connected isn’t about the number of friends you have, or how many people follow you on social media. It’s about how comfortable and supported you feel by the people in your life and how safe you feel in their presence.\n\n### Feeling connected to others helps us:\n\n- Feel a sense of belonging\n\n- Develop healthy self-esteem\n\n- Manage our stress levels\n\n- Find support during tough times\n\n- Lower anxiety and depression symptoms\n\n- Prevent loneliness .\n\nStudies show that if we feel more socially connected to our family, friends, and community, we are more likely to be happier, physically healthier, live longer, and experience fewer mental health challenges.\n\n'Even though our need for social connection is important, it isn’t a reason to rush into or stay in a relationship that isn’t respectful, genuine, and most importantly, safe.'\n\nRelationships that are continuously problematic or just don’t feel ‘right’, can make us:\n\n- Sad\n\n- Distressed\n\n- Overwhelmed\n\n- Lonely\n\n- Experience low self-esteem .\n\nKeep in mind that there’s no such thing as a ‘perfect relationship’.\n\nWe’re all going to have moments when we disagree with or feel hurt by a friend, family member, colleague, or intimate partner.\n\nThe key is knowing if and how the problem(s) should be solved.\n\nClick here to download, save, or print our relationships fact sheet .\n\nClose section\n\n## Common problems\n\n### Common relationship problems\n\nWhile any type of relationship can impact how we feel, our intimate relationships tend to have the biggest influence. This is why it can be so overwhelming when a relationship with a partner is continuously problematic or if it ends altogether.\n\nIf you’re experiencing problems, one of the first steps you can take when thinking about working on them or ending your relationship is understanding what a happy and healthy relationship looks like.\n\n### Happy and healthy relationships are those with:\n\n- Open and honest communication\n\n- Mutual trust and respect\n\n- Independence\n\n- Mutually respected boundaries\n\n- Shared values\n\n- Space for difficult conversations\n\n- Safe emotional and physical connection.\n\nWhen something feels wrong in a relationship, it’s usually because one or more of the above has been damaged or is missing entirely.\n\nFeeling unhappy or unsettled in your relationship can take a big toll on your mental health and wellbeing.\n\nOn top of potentially feeling sad, worried, or angry, relationship problems can also leave you feeling frustrated and confused because it’s not always easy to link your feelings to a specific cause.\n\nA lot of things can cause problems in relationships, including past relationships, dishonesty, broken trust, financial stress , and communication challenges.\n\nScroll down to learn more about common relationship problems.\n\n### Early relationship experiences\n\nOur earliest relationships, especially the ones we formed with our parents or caregivers, play a big role in how we relate to others.\n\nIf we grow up without strong family connections, it can mean that we aren’t exposed to the skills and qualities it takes to maintain healthy relationships.\n\nEarly relationship role models can help us learn how to:\n\n- Disagree respectfully\n\n- Resolve disputes without anger\n\n- Apologise if we regret how we behaved\n\n- Express our feelings and needs\n\n- Set and maintain boundaries.\n\n### Past intimate relationships\n\nThe experiences we had in past intimate relationships can both positively and negatively influence our future relationships.\n\nIf the relationship was healthy and ended on good terms, you’ll likely take key learnings into your next one. If the relationship was problematic or ended suddenly, you may find yourself struggling to feel safe and secure.\n\nFor example, if you were cheated on in a previous relationship, you might have trust and jealousy concerns in your current one even if your partner hasn’t given you a reason to suspect they’re being unfaithful.\n\n### Communication challenges\n\nWe can’t connect if we can’t communicate.\n\nIf people don't feel like they’re able to openly say what they need and want, it makes it hard for them to listen to what the other person needs and wants.\n\nYou don’t have to agree with what each other is saying, but you do need to make the effort to try and understand it.\n\nIn a relationship, poor communication can leave you feeling like:\n\n- You’re not being heard or listened to\n\n- Your thoughts and feelings are dismissed\n\n- You can’t express yourself clearly\n\n- You’re afraid to share your opinions and ideas\n\n- You and/or the other person avoid difficult conversations\n\n- There’s never a positive outcome or solution after a discussion or argument.\n\n### Issues with boundaries\n\nBoundaries are personal rules for how you expect to be treated. They're important because they help you recognise when someone goes too far.\n\nWhen a boundary gets crossed, it can lead to relationship problems.\n\nFor example, say one of your boundaries is making sure your home is quiet after 8 pm because you like to get good sleep. One evening, your partner or roommate brings friends home after a late dinner. They’re speaking loudly, laughing, and playing music, which causes you to wake up. You’re frustrated with the other person because you’ve expressed how important sleep is to you and now feel like your boundary has been crossed.\n\nSharing your boundaries may feel awkward at first, but doing so is important for the future of your relationship.\n\n### Finances\n\nFinances can be a significant source of conflict in a relationship. There may be differing views and habits surrounding money or financial stress .\n\nFor example, a couple might disagree on how much to save, what to spend money on, or how to manage debts.\n\nMoney can cause even bigger relationship problems if:\n\n- You and your partner have significantly different incomes\n\n- You and/or your partner are dealing with financial stress or problem gambling\n\n- One partner has financial control over the other by limiting their capacity to earn or access money.\n\nIf issues such as financial stress , problem gambling , or financial abuse become too challenging, there are a range of support options available.\n\nTopic\n\n### What is financial stress?\n\n5 minutes read\n\nHelps with Understanding Financial stress\n\n### Codependency\n\nCodependency occurs when a person puts the needs of another before their own and, as a result, becomes emotionally, socially, financially, and/or physically reliant on the relationship.\n\nFor example, if your sole focus is ensuring your partner’s happiness, sense of self-worth, and professional success, codependency can look like:\n\n- Allowing your partner to make all major decisions\n\n- Constantly worrying about your partner’s happiness\n\n- Feeling like you need to solve your partner’s problems\n\n- Sacrificing your own personal and professional needs\n\n- Not making time for self-care .\n\nIf you’re in a codependent relationship, it’s normal to experience low self-esteem , stress , and anxiety . It’s also normal to feel trapped and like there’s no way out.\n\nIt may be hard to believe it in the present moment, but there are ways you can improve or leave a codependent relationship.\n\n### Cheating\n\nIt doesn’t matter if it is emotional or physical, one time or 100 times, cheating can be a very painful experience.\n\nIf you were the one who cheated, you may feel guilty, ashamed, and distressed. If you’ve been cheated on, you may feel hurt, angry, and confused.\n\nAll of these feelings and reactions are normal after experiencing cheating. You may also:\n\n- Question your partner’s love and the time you spent together\n\n- Question your self-worth and experience low self-esteem\n\n- Feel lost and unsure if you should fight for the relationship or not\n\n- Be too ashamed or embarrassed to reach out to anyone\n\n- Experience isolation and loneliness .\n\nEven though cheating is a completely valid reason to end a relationship, you may also choose to engage in a difficult conversation to try and work through the betrayal.\n\nRemember, this is your journey and the decision about how you want to move forward is yours.\n\n### Long-distance relationships\n\nIt doesn’t matter if it’s a temporary or a long-term arrangement, long-distance relationships can present many challenges.\n\nCommon long-distance relationship problems include issues like:\n\n- Lack of physical and emotional intimacy\n\n- Difficulty communicating (especially if you’re in different time zones)\n\n- Jealousy and trust issues\n\n- The cost of travelling to see each other\n\n- Feeling like your life is ‘on hold’\n\n- Impatience or frustration regarding plans to eventually live together.\n\nCouples in FIFO (fly in, fly out) situations, or those who need to travel for extended periods, may experience many of these issues.\n\nClick here for tips and advice to make your long-distance relationship work .\n\nReal Story\n\n### Lachie's Story\n\nLachie Samuel is a former FIFO mining worker, flying in and out of some of the most remote, desolate places in Australia, places where male suicide and mental health issues are rife.\n\n30 minutes read\n\nHelps with Anxiety Depression\n\n### Domestic and family violence\n\nDomestic and family violence is responsible for a number of serious and never-acceptable relationship problems.\n\nRecognising a domestic and family violence situation can be challenging, especially when you're the one being abused.\n\nThis is because those who choose to engage in domestic and family violence can deliberately:\n\n- Make you feel like you deserve how you’re being treated\n\n- Attempt to ‘normalise’ their behaviour\n\n- Blame external factors, such as stress, substances, or you for ‘causing’ the abuse\n\n- Convince you that the abuse was an isolated incident and won’t happen again.\n\nA reliable indicator of any type of abuse is how you feel.\n\nYou may feel on edge, notice physical signs of stress , or find yourself withdrawing from the people and activities you used to care about.\n\nIt's not always easy to know if there's a problem with your relationship.\n\nVisit our signs and effects page to learn about things you can look out for.\n\nIf you feel like you’re experiencing domestic and family violence, you deserve support and there are people who want to help.\n\nYou can call the Domestic and Family Violence Helpline on 1800 737 732 anytime. And remember, Lifeline is always here. If life is in danger, call 000.\n\n## Signs & effects\n\n### Signs there might be a problem in your relationship\n\nRemember, there’s no such thing as a ‘perfect relationship’.\n\nIt’s normal and healthy to experience challenges and conflicts that come with the ups and downs of life. However, it can become unhealthy when these challenges and conflicts occur frequently or last for extended periods.\n\nBeing aware of what it feels like to experience relationship problems can help you recognise them early. This way, you can approach issues as they come up and try to resolve them before they get worse.\n\nWhen you’re in a healthy relationship, you should feel:\n\n- Valued and respected\n\n- Comfortable expressing your opinions\n\n- Encouraged to try new things\n\n- Free to have a life outside of the relationship\n\n- Supported through challenging times\n\n- Physically and emotionally safe.\n\n### What does an unhealthy relationship feel like?\n\nAn unhealthy or problematic relationship, on the other hand, can make you feel and notice a range of different emotions, thought patterns, and physical changes.\n\n### Common feelings\n\n- Unwanted and unloved\n\n- Disrespected and undervalued\n\n- Isolated and lonely\n\n- Irritable and angry\n\n- Sad and hopeless\n\n- Guilty and ashamed\n\n- Worried and afraid.\n\n'Just because you can’t explain the feeling you’re experiencing, doesn’t mean it isn’t valid.'\n\n### Common physical changes\n\n- Difficulty sleeping\n\n- Changes in appetite\n\n- Fatigue and brain fog\n\n- Upset stomach\n\n- Headaches or migraines\n\n- Stiff neck and tense muscles\n\n- Frequent cold and flu symptoms\n\n- Changes to your hair and skin\n\n- An irregular menstrual cycle.\n\nEven though we tend to look to our minds for answers, our body often gives us signs that something isn’t right.\n\nRemember, it’s both normal and healthy to experience negative emotions every now and then.\n\nHowever, your relationship shouldn’t leave you feeling constantly bad, sad, worried, hopeless, or afraid.\n\nIn extreme cases, a problematic relationship can lead people to experience:\n\n- Low self-esteem\n\n- Anxiety\n\n- Depression\n\n- Panic attacks\n\n- Self-harm\n\n- Substance misuse\n\n- Suicidal thoughts .\n\nAt Lifeline , we've supported many Australians who have experienced mental health challenges. If you’d like to connect with us , we are always here for you 24 hours a day, 7 days a week via phone , text and chat .\n\nIf you’re feeling off and you’re not sure why, take some time to think about what that feeling might mean.\n\nSometimes, people convince themselves that things are all okay in their relationship, but still can’t shake a gut feeling that something’s wrong.\n\nTo gain clarity, you can try:\n\n- Journaling your thoughts and feelings\n\n- Talking to someone you trust\n\n- Speaking with a therapist .\n\nIt’s also always okay to contact a support service for guidance.\n\nIf those aren’t options for you at the moment, you can contact Lifeline 24 hours a day, 7 days a week.\n\nTechniques & Guides\n\n### Talk to someone you trust\n\nWhen you’re feeling out of your depth and overwhelmed, opening up to someone you trust can take some weight off your shoulders.\n\nHelps with Finding Support Connection\n\n### Signs you're in an abusive relationship\n\nIt’s important to acknowledge that a problematic relationship isn’t the same as an abusive relationship. Abuse is a form of domestic and family violence .\n\n### Signs you may be experiencing domestic and family violence\n\nYou may be experiencing domestic and family violence if you're experiencing any of the following:\n\n- Constantly worrying about how your partner will react to what you do or say\n\n- Feeling like you have little control over where you can go and who you can see\n\n- Having zero or limited access to money and/or not being allowed to work\n\n- Being fearful of getting hurt or injured due to past physical abuse or threats of violence\n\n- Believing you’re trapped and that there’s no way out\n\n- Having frequent thoughts such as: ‘I can’t do anything right’ or ‘I want to leave, but I don’t know how’.\n\nIf you suspect you’re in a domestic and family violence situation, you deserve support and there are people who want to help .\n\nIf you feel like you’re in a domestic and family violence situation, you deserve support and there are people who want to help.\n\nYou can call the Domestic and Family Violence Helpline on 1800 737 732 anytime. And remember, Lifeline is always here. If life is in danger, call 000 .\n\n### Signs there's a problem in your relationship with yourself\n\nWhile it’s important to build healthy relationships with others, the most important relationship you’ll ever have is the one you have with yourself.\n\nIf you don’t feel like you like, trust, value, or believe in yourself, it can be difficult to have healthy relationships with others or leave an unhealthy relationship.\n\nYou may want to work on your relationship with yourself if you:\n\n- Experience low self-esteem\n\n- Don’t give yourself permission to practise self-care\n\n- Always put the needs and wants of others above your own\n\n- Use alcohol and/or substances to feel better.\n\nWe all have the right to feel good about ourselves and our relationships. It doesn’t matter how trapped, overwhelmed, or guilty you might feel.\n\nIt’s okay to know and say, ‘I deserve better.’\n\nIf you’re looking for ways to have healthy, ongoing relationships, you can visit our long-term help section.\n\n## Short-term help\n\n### Working on your relationship in the short term\n\nRelationships are a lot like jigsaw puzzles. Each person brings their own unique pieces, assembly strategy, experience, and level of commitment to the table.\n\nSometimes a ‘relationship puzzle’ comes together easily; both people like to start by finding all the edge pieces and won’t give up until they can see the complete picture.\n\nOther times, the pieces can be more difficult to put together. This can be because one person cares more than the other, there are pieces that don’t seem to fit, or there are pieces missing altogether.\n\nIn the same way that it can take a lot of time and effort to complete a puzzle, relationships require patience, dedication, and cooperation to make them work.\n\nOn this page, you’ll find tips for:\n\n- Managing emotions\n\n- Seeking support\n\n- Understanding why we stay\n\n- Making tough decisions\n\n- Having difficult conversations .\n\nIf you're looking for information on how to move forward after a relationship ends or ways to build healthy relationships, you can visit our long-term help page.\n\nScroll down to learn more.\n\n### Managing emotions\n\nOne of the ways we build and maintain healthy relationships is by having open and honest conversations about how we’re feeling and expressing what we need to feel safe, loved, respected, and secure.\n\nThese conversations can be really hard when the relationship has faced challenges and emotions are high. It’s normal to feel angry, scared, or worried about the other person’s reaction and feel a sense of desperation to get your point across.\n\nBecause our body’s natural stress response to perceived threats is fight, flight, or freeze mode, it’s also normal to find yourself mentally and physically overwhelmed by emotions.\n\n### When in fight, flight, or freeze mode, you might:\n\n- Storm away\n\n- Slam doors\n\n- Yell or use name-calling\n\n- Say something you regret\n\n- Shut down and say nothing.\n\nFight, flight, or freeze mode is the way our body responds when it thinks we are in a threatening situation. It is there to protect us, but can also make us overreact in situations that aren’t actually a threat.\n\nFor example, your brain might respond to a heated argument the same way it would if a bear entered your living room.\n\nOur fight, flight, or freeze response is automatic, meaning it’s not something we consciously make happen. If our brain senses danger, it’s going to let us know (physically and emotionally) and we are going to do all we can to protect ourselves.\n\nBelow is a short video explaining the fight, flight, or freeze response.\n\n### Tips for managing emotions\n\nThankfully, there are ways you can manage your emotions, calm your body, and regain control in the moment.\n\n#### When emotions are high, you can:\n\n- Try to identify if you’ve gone into fight, flight, or freeze mode: If you have, ask yourself if your response is appropriate for your current situation. If it’s not, remind yourself that you’re safe, which will help your body calm back down.\n\n- Name what you’re feeling: If possible, get clear on what it is you’re actually feeling. Sometimes we react defensively or become angry when we actually feel sad, hurt or unloved. Journaling is a great way to help you work out what you’re feeling and why.\n\n- Pause before responding: Try to pause between your reaction and action. This can help you avoid saying something you might regret later and give you time to understand and express how you feel. For example, you can count down slowly from 30 or ask for 20 minutes to process the conversation.\n\n- Take the conversation outside: Walking, nature, and being side by side with someone (rather than face-to-face) are three ways to reduce stress and feel better!\n\n- Take deep breaths: Using a grounding technique like deep breathing can help calm your mind, lower your heart rate, and reduce muscle tension. An easy breathing exercise to try is box breathing. Watch the video below to try it now.\n\n### Reaching out for support\n\nFinding ways to work through your relationship or deciding to leave your relationship isn’t something you have to do on your own.\n\nIn fact, asking a trusted friend for their honest opinion or bringing in an external third party (like a therapist ) can help you see or realise things you might be missing or avoiding.\n\nIt can also be helpful to reach out to a relationship support service like Relationships Australia .\n\nSupport Service\n\n### Relationships Australia\n\nRelationships Australia offers a broad range of free or low-cost relationship counselling services, wellbeing programs, and online learning resources to individuals, couples, families, and organisations. Call 1300 364 277.\n\nHelps with Relationships\n\nKeep in mind that it can be extremely hard to accept that something might be wrong in your relationship. It’s okay if you need time to reflect and think about what to do.\n\n### When you're ready, you can try:\n\n- Seeing a psychologist\n\n- Speaking with your partner about seeing a relationship counsellor\n\n- Reaching out to a relationship support service .\n\nIf you feel like you don’t have someone to reach out to or would like to talk to someone now, Lifeline is here for you.\n\nYou can call , text , or chat with us 24 hours a day, 7 days a week.\n\n### Understanding why we stay\n\nMore often than not, our relationships are a really big part of our lives.\n\nLosing them can feel like we are losing a part of ourselves. That’s why it makes sense if we struggle to give them up or accept that things are really over.\n\nBut the truth is - there are a lot of unhappy people staying in unhappy relationships when they don’t have to.\n\n### Why can it be difficult to leave an unhealthy relationship?\n\n- Financial dependence: You might feel like you can’t leave because you don’t have enough money or earning capacity.\n\n- Family pressure: If you have children, you might feel pressure to stay in a relationship or marriage ‘for the kids’.\n\n- Stigma: You might feel embarrassed and/or ashamed by a relationship breakdown, separation or divorce.\n\n- Religious/cultural norms: You might fear not being in a relationship and/or leaving a relationship due to the pressures and expectations from your community.\n\n- Social norms: You might feel like you have to keep certain relationships ‘because they’re family’ or because you’re worried about reactions from peers.\n\n### Making tough decisions\n\nIt doesn’t matter what hurdle, roadblock, or guilt trip may lay in front of you, no relationship is ever worth sacrificing your mental and physical health and wellbeing.\n\nEven though it might not always feel like it, you do have a choice and you deserve to choose what is best for your happiness and wellbeing.\n\nRegardless of whether you decide to stay and work on your relationship, or make the difficult decision to leave, it probably won’t be easy, but you don’t have to do it alone. There are support services that can help.\n\n- Attending couples counselling\n\n- Contacting a free relationship counselling service like Relationships Australia\n\n- Learning ways to have difficult conversations with your partner\n\n- Getting help to leave a domestic and family violence situation.\n\n### Tips for having difficult conversations\n\nDifficult conversations are an important way we create healthy relationships and work on or end unhealthy relationships.\n\nIt’s normal to want to avoid difficult conversations. They can be stressful and uncomfortable.\n\nHowever, if you’re avoiding them because you don’t feel psychologically and/or physically safe to have a conversation with your partner, you may be experiencing domestic and family violence.\n\nClick here to learn more and where you can find support .\n\n### Ways to improve communication in your relationship\n\n- Actively listen: Listen to understand the other person, and not just to respond. Try not to interrupt or respond before you have all the information.\n\n- Validate their feelings: When someone feels understood, they're not only more likely to stay calm, but they’ll be able to listen better, too. You can try saying things like: ‘I get why you feel that way’ or ‘I can see this is hard for you’.\n\n- Ask for what you need to feel heard: You can ask the other person to consider your side by saying, ‘Please think about where I’m coming from. Let's find a solution that works for both of us’.\n\n- Avoid accusing or blaming: Using words that accuse or point fingers can make someone feel like they're in trouble. This often starts with ‘you’ and uses words like ‘never’ or ‘always.’ Saying things like, ‘You never listen’ can feel like an attack and make things worse.\n\n- Use ‘I’ statements: One way to avoid accusing or blaming language is to express how you feel with ‘I’ statements. For example: Instead of: ‘You never do the dishes!’, you could try: ‘I feel like I’m not getting enough support at dinner time. Do you think you could help out by washing the dishes?’’\n\n- Stay focused on the issue at hand: Sometimes we find ourselves arguing about one thing but it’s actually something else that we’re upset about. For example, you and your partner are arguing because they came home late. In reality, you feel like your partner hasn't been respecting you lately and this is another example of that. Taking time to journal your thoughts and feelings can help you see things more clearly. It’s also helpful to express that you feel hurt and suggest how things could go differently next time.\n\n- Take accountability: Apologising for your actions can be tough because it can mean admitting you made a mistake, or facing uncomfortable emotions, like guilt. However, you can’t have a healthy relationship if you can’t take accountability. By demonstrating accountability, you’ll make it feel safe for the other person to be accountable, too.\n\n- Knowing when you’re not getting anywhere: If emotions are too high or there are deeper communication issues beyond this interaction, you can always end the conversation or suggest having it with a third party or counsellor present.\n\nTo learn more tips for building healthy relationships or healing after a breakup, visit our long-term help page .\n\n## Long-term help\n\n### Building healthy relationships for the long term\n\nThe connection we feel from our relationships is important for our mental and physical wellbeing.\n\nThis is why we want to make sure we’re working on building healthy relationships and letting go of those that are causing us unhappiness or harm.\n\nMovies and social media can make us think that a healthy and happy relationship happens easily and doesn’t need to be worked on. In reality, healthy and happy relationships are the ones where both people continuously put in the effort to make it work.\n\nThis process can take a lot of time, effort, patience, and emotional commitment. In some cases, it may also require you to have difficult conversations and make tough decisions over and over again.\n\n'Just because a relationship experiences problems from time to time, doesn’t mean it isn’t healthy.'\n\nConflict is normal and a key way we can learn and grow together. It’s when problems go on for too long that things can become unhealthy.\n\nIf you suspect you’re in an unhealthy relationship, you can learn about common relationship problems or read about some of the signs to look for .\n\nIf you feel like you’re in a healthy relationship but would like some help in making it better, have a look at our tips below.\n\nOn this page, you’ll find:\n\n- Tips for building healthy relationships\n\n- Tips for moving on after a relationship ends\n\n- How to learn and grow from past relationships .\n\n### Tips for building healthy relationships\n\n### Look after yourself first\n\nRemember, the most important relationship you’ll ever have is the one you have with yourself. When you’re not feeling good about yourself or the world around you, it can be difficult to show up for someone else.\n\nIt doesn’t matter if you’re just starting a relationship, working through a relationship problem, or thinking about ending a relationship, you deserve to prioritise yourself.\n\nThis means:\n\n- Prioritising self-care\n\n- Protecting your self-esteem\n\n- Setting and maintaining boundaries\n\n- Asking for help if things become too much.\n\n### Self-esteem and mental health\n\nSelf-esteem can impact every area of our lives, including our mental health. In this article, you'll learn what exactly self-esteem is, why it matters, as well as practical things you can do to start raising your self-esteem.\n\n7 minutes read\n\nHelps with Depression Relationships\n\n### Practise your communication style\n\nNobody expects you to get things right 100% of the time. This includes how you respond to things and communicate with others.\n\nOne of the best ways to build healthy relationships is by learning and practising the way you communicate.\n\nThis can look like:\n\n- Actively listening to understand how the other person is feeling\n\n- Asking open-ended questions that allow you to get more information and insight\n\n- Giving the other person your full attention and showing them respect\n\n- Ensuring that you’re expressing your wants and needs.\n\n### Be open to difficult conversations\n\nDifficult conversations can be uncomfortable in relationships, but they’re necessary for us to be able to grow, resolve conflicts, and live in a way that feels right for both people.\n\nIn order to maintain and care for healthy relationships, you should be able to:\n\n- Express your feelings and hope for the future to the other person\n\n- Confront the other person about hurtful or harmful behaviour\n\n- Let the other person know if they’ve crossed a boundary\n\n- Share information that either positively or negatively impacts your relationship.\n\nWhen you keep something that’s bothering you bottled up, it can fester and turn into anger or resentment. Alternatively, sharing what’s making us happy can create an even better connection.\n\n### Reflect on the positives\n\nWhen things feel rocky, it’s easy to focus on what’s wrong with the relationship.\n\nA healthy and effective way to balance things back out is to revisit all the positive aspects of your relationship.\n\nFor example, you could:\n\n- Write a list of why you’re grateful for the other person\n\n- Look through photos of past positive memories and think about what made you so happy\n\n- If it feels right for you, you can also take the opportunity to connect with the other person by sharing your gratitude list or looking at the photos together.\n\nIf you’re a man using abuse or violence in relationships and are here because you want to explore options for changing your behaviour, you may want to try the Better Man online program . It's free, self-led, and a positive first step.\n\nTools & Apps\n\n### Better Man\n\nBetter Man is a free self-led online program that helps men reflect on their relationships and make positive changes to their behaviour.\n\nHelps with Domestic and family violence Relationships\n\n### Moving on after a relationship ends\n\nIt doesn’t matter if you had a relationship for 6 months or 60 years, when it ends it can feel like the hardest thing you’ve ever faced.\n\nIn some cases, when we lose a relationship, we can lose more than the connection with that person.\n\nWe can also lose things like our:\n\n- Identity\n\n- Social life\n\n- Financial security\n\n- Self-esteem\n\n- Time with children.\n\nEven if the relationship was unhealthy, it’s normal to feel a range of conflicting emotions when it ends. You might be relieved and feel ‘free’, while also feeling angry, sad, and like you’re grieving .\n\nGrief , as all-consuming and uncomfortable as it can be, is a way to accept the closing of one chapter, be open to the next, and make sense of your new world.\n\n'Grieving your relationship and the future you thought you were going to have is a healthy part of the healing process.'\n\nIf you don’t give yourself permission to take the time needed to heal and move forward, you may run the risk of ignoring or numbing your pain.\n\n### This can look like:\n\n- Turning to drugs and alcohol or self-harming\n\n- Distracting yourself with a new relationship\n\n- Putting all of your energy into school or work\n\n- Going back to an unhealthy relationship.\n\nIt can be hard to believe that you’ll ever feel better, but a combination of time, self-care , and seeking support will help you move forward and come out the other side.\n\nWhen you’re hurting, it can impact your self-esteem and be difficult to think about what to do to feel better in the moment.\n\nHaving a personalised self-care box can be helpful. You can also speak to your GP about getting a Mental Health Treatment Plan if you feel like it’s not getting any better.\n\n### Creating a self-care box\n\nSelf-care can help you cope with challenging times by ensuring your emotional, physical, and social needs are being met. In this article, we detail how having a self-care box can be a valuable mental health and wellbeing tool.\n\n6 minutes read\n\nHelps with Distress Overwhelm\n\nRemember, you don't have to go through this on your own.\n\n### Thinking about future relationships\n\nIf you’re feeling strong enough, reflecting on past relationships can be a helpful way to learn, grow, and prepare for new relationships.\n\nReflecting can look different for everyone, but a few things you can consider are:\n\n- Finding the therapist that’s right for you .\n\nSupport Guide\n\n### Finding the right therapist\n\nLearn how to choose a therapist in Australia with our step-by-step guide. Find out where to look, what questions to ask, and how to find the right fit.\n\nHelps with Therapy Treatment\n\nIt can be helpful to think about:\n\n- What worked in the relationship\n\n- What didn’t work in the relationship\n\n- What your needs are\n\n- What your boundaries are\n\n- How you best handle and respond to conflict.\n\nAs much as we need to feel connected to others, rushing into a new intimate relationship or staying in an unhealthy one is not as important as your emotional safety and wellbeing.\n\nRemember, you can always build social connections that aren’t intimate.\n\n### Building social connections\n\nHaving strong social connections is one of the most important factors for our mental health. Here we bring you how to get started on building new connections.\n\n5 read\n\nHelps with Loneliness Connection\n\nIf that doesn’t feel like an option for you at the moment, and you are feeling like you want to connect with someone, Lifeline is here.\n\n## Tools & apps\n\n### Tools and apps for relationships\n\nTaking care of your mental health and wellbeing is the first step to having healthy relationships .\n\nBelow are tools and apps that can help you manage emotions, build connections, and gain clarity about your relationships.\n\n### Calm\n\nCalm is a mindfulness, meditation, and music app that offers guided tracks, sleep stories, and other techniques that can help you improve your wellbeing, boost your mood, manage stress and anxiety, get better sleep, and more.\n\nHelps with Stress Anxiety\n\n### Smiling Mind\n\nSmiling Mind is a mindfulness and meditation app that helps kids, teens, and adults improve their wellbeing and achieve specific mental health goals like better sleep, reduced stress, stronger relationships, and more.\n\n### Meetup\n\nMeetup is a free social networking platform where you can discover online and in-person events to meet new people, learn new things, find support, get out of your comfort zone, and pursue your passions.\n\n## Support services\n\n### Relationship support services\n\nBelow are support services that can help with managing relationship problems .\n\n### Lifeline Crisis Support\n\nLifeline is a free and confidential one-to-one support service for anyone feeling overwhelmed, distressed or having difficulty staying safe.\n\nHelps with Suicidality Safety Planning\n\n### 1800RESPECT\n\n1800RESPECT is a free and confidential 24/7 counselling, information, and referral service for anyone in Australia impacted by domestic and family violence. Call 1800 737 732.\n\nHelps with Domestic and family violence\n\n### Full Stop Australia\n\nAvailable 24/7 via telephone and online chat, Full Stop is a free and confidential counselling service for anyone impacted by domestic and family violence. Call 1800 385 578.\n\n### Kids Helpline\n\nKids Helpline is a free and confidential 24/7 phone and online chat counselling service for kids, teens and young people. Call 1800 551 800.\n\nHelps with Family Bullying\n\n### MensLine Australia\n\nMensLine Australia provides free 24/7 counselling, information, and referrals for men with relationship, mental health, and wellbeing concerns. Call 1300 789 978.\n\nHelps with Relationships Mental Health\n\n### Men’s Referral Service\n\nMen’s Referral Service is a free and confidential 24/7 counselling, information, and referral service for men using violence and abuse in their relationships.\n\n### Don't Become That Man\n\nDon't Become That Man helps men understand and manage their controlling behaviour patterns and actions before they escalate to violence.\n\n### Family Drug Support\n\nFamily Drug Support is a 24/7 support service that provides information, online resources, and counselling for friends and family members of anyone struggling with alcohol and drug misuse. Call 1300 368 186.\n\nHelps with Substance misuse\n\n### Search for more services\n\nUse the Lifeline Service Finder to search for more local and national services available to help support you.\n\n### Lifeline Service Finder\n\nLifeline's Service Finder is an online directory of free or low-cost health and community services in Australia. Search for GPs, counsellors, material support and much more.\n\nHelps with Finding support\n\n## For friends & family\n\n### Understanding relationships and how you can help\n\nSeeing a loved one in a problematic relationship or hurting after a relationship breakdown can be painful, frustrating, confronting, and in some cases, extremely concerning.\n\nIt can be difficult to know what to do, what to say, or if you can even help.\n\nAs challenging as it might be, staying connected and offering your support is really important if and when they decide to reach out.\n\nIf you’re concerned about a loved one’s physical or emotional safety ...\n\nYou may want to reach out to the Domestic and Family Violence Helpline on 1800 737 732 for guidance. If life is in danger, call 000 .\n\n### Offering support\n\nWhen a loved one confides in you about their relationship problems , it likely took a lot of courage for them to do so.\n\nWhile you may feel protective or want to jump in with solutions, the best thing you can do is listen with an open mind, offer support without judgement or criticism, and ask them how to best help.\n\nIf your loved one is in or has come out of an unhealthy relationship, they may be experiencing low self-esteem and may:\n\n- Stop prioritising and practising self-care\n\n- Not feel capable of ‘surviving’ outside of the relationship\n\n- Consider going back to the relationship out of fear\n\n- Lose confidence and motivation\n\n- Feel unworthy of love and fulfilment.\n\n'One of the best things you can do to offer support is to build them up. Let them know they matter and that you care about them.'\n\nHere are a few more things to keep in mind when you’re trying to help a loved one in or recently out of an unhealthy relationship:\n\n### Listen to what they really need\n\nIt’s in our nature to want to fix things or take pain away, but more often than not, people really just want to be heard and have their feelings validated.\n\nInstead of giving ‘solutions’, offering your opinion, or saying things like, ‘At least you have the rest of your life to find someone,’ try phrases like:\n\n- ‘I can understand why you’re so upset.’\n\n- ‘You must be exhausted from dealing with this.’\n\n- 'This must be really difficult for you.'\n\nIf it feels appropriate, you can ask:\n\n‘Would you like me to help you come up with a few ideas for what to do or would you like me to just keep listening?’\n\nBy asking the other person what they need, they’ll be able to guide you to the type of support they’re actually looking for.\n\n### Be patient\n\nKeep in mind that while it might be easy for you to see issues that may be occurring in your loved one’s relationship, and a clear way forward, people often need to come to conclusions in their own way and in their own time.\n\nWhen communicating with your loved one, you can:\n\n- Acknowledge that leaving a relationship is really hard\n\n- Build up their self-esteem by reminding them of their strengths\n\n- Reassure them that you’ll be there for them no matter what.\n\n### Help them prioritise their wellbeing\n\nWhen someone you care about is experiencing major relationship problems, they might stop prioritising self-care .\n\nEncouraging them to eat well, get enough sleep, exercise regularly, and maintain friendships can make a big difference to their mental and physical health and wellbeing.\n\nSome ways you might be able to help:\n\n- Drop off meals\n\n- Go for a walk with them\n\n- Offer to take something off their plate\n\n- Suggest doing a hobby or activity they enjoy.\n\nIt’s also a good idea to be mindful of showing empathy, not sympathy.\n\nBelow is a short animation that does a great job explaining why.\n\n### Taking action\n\nIf it seems like your loved one is struggling to cope or you’re worried about their mental health, you can encourage them to reach out for professional support.\n\nKeep in mind that this might involve having a difficult conversation with them. Try to approach the subject with care, respecting their feelings and trying to avoid putting pressure on them if they're not ready.\n\n### What happens if they shut down?\n\nEven if it feels useless, let them know that you'll be there when they’re ready.\n\nBy reminding them of your presence and support, you’re setting up a safe environment for them to reach out when the time is right for them.\n\nIt may take a long time for them to turn to you, but if possible - keep reminding them that you’re there.\n\n### If they accept your support, you can offer to help them by:\n\n- Researching professional support options in their area\n\n- Scheduling an initial appointment for them\n\n- Accompanying them to their first appointment\n\n- Listening to them and encouraging them throughout the process.\n\n### What to do if you're concerned about a loved one's safety\n\nIf you’re worried that your loved one might be experiencing domestic and family violence and are concerned for their safety, you can always call the Domestic and Family Violence Helpline on 1800 737 732 for guidance. If life is in danger, call 000 .\n\nRemember, abuse isn’t always physical and it can escalate quickly.\n\nIf you're feeling helpless about the situation, or are worried about breaching your loved one’s confidentiality, Lifeline is always here for you.\n\n### Contacting Lifeline – Guide\n\nLearn how Lifeline can support you, what to expect when you reach out, and the different ways to connect with a crisis supporter.\n\nHelps with Taking steps Finding Support\n\nRemember, looking after others takes a lot out of you. It's okay to take time to make sure you're prioritsing and practising your own self-care .\n\n#### Was this page helpful?\n\nYour feedback helps us improve our site for people like you.\n\nWe’d love to hear why! Tell us more\n\n## Help starts here\n\nSupport looks different for everyone. Use the drop down bar to find what feels right for you.\n\nHow can we help?\n\n- I'm thinking about suicide\n\nBack to top\n\nVisit Lifeline Australia\n\n- Training\n\n- Volunteer\n\n- Fundraise\n\n- About Lifeline\n\n- Find a Lifeline Centre\n\n- Contact us\n\nReconciliation Action Plan\n\nLived Experience Framework\n\nLifeline pays its respects to the traditional custodians across the lands on which we work, and acknowledge their elders past and present.\n\nLifeline pays deep respect to people who have personal experiences of crisis and suicide. They are the reason our organisation and services exist.\n\nLifeline is committed to providing a safe, culturally appropriate, and inclusive service for all people, regardless of their ethnicity, faith, disability, sexuality, or gender identity.\n\n- Policies\n\n- Terms of Use\n\n- Privacy\n\n- Accessibility\n\n- Language\n\nLifeline is a registered ACNC charity. ABN: 84 081 031 263. RTO Registration Code 88036. Copyright © 2025 Lifeline Australia. All rights reserved.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#main-content\n\n- Call us ●: https://www.lifeline.org.au/get-help/services/131114\n\n- Chat with us ●: https://www.lifeline.org.au/get-help/services/chat\n\n- Text us ●: https://www.lifeline.org.au/get-help/services/text\n\n- https://www.lifeline.org.au/: https://www.lifeline.org.au/\n\n- I’m thinking about suicide: https://www.lifeline.org.au/get-help/im-thinking-about-suicide\n\n- I want to talk to someone: https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone\n\n- I'm worried about someone: https://www.lifeline.org.au/get-help/im-worried-about-someone\n\n- I want to explore my options: https://www.lifeline.org.au/get-help/i-want-to-explore-my-options\n\n- Get help home: https://www.lifeline.org.au/get-help\n\n- Call us 13 11 14 ● Service online: https://www.lifeline.org.au/131114\n\n- Chat to us Support 24/7 ● Service online: https://www.lifeline.org.au/chat\n\n- Text us 0477 13 11 14 ● Service online: https://www.lifeline.org.au/text\n\n- Crisis support: https://www.lifeline.org.au/get-help/services/crisis-support\n\n- Counselling: https://www.lifeline.org.au/get-help/services/counselling\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/service-finder\n\n- Workplace & community training: https://www.lifeline.org.au/get-help/services/workplace-and-community-training\n\n- Services home: https://www.lifeline.org.au/get-help/services\n\n- Topics: https://www.lifeline.org.au/get-help/support-toolkit/topics\n\n- Techniques & guides: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps\n\n- Safety planning: https://www.lifeline.org.au/get-help/support-toolkit/safety-planning\n\n- Community perspectives: https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives\n\n- Fact sheets: https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets\n\n- Support Toolkit home: https://www.lifeline.org.au/get-help/support-toolkit\n\n- Sleep and mental health: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health\n\n- Journaling your thoughts and feelings: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and\n\n- How to do a digital detox: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox\n\n- Helping friends and family: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health\n\n- About Cognitive Behavioural Therapy (CBT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt\n\n- Forums: https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums\n\n- Real stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories\n\n- Hear from others home: https://www.lifeline.org.au/get-help/hear-from-others\n\n- Listen to Joe's story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story\n\n- Donate: https://www.lifeline.org.au/get-involved/donate\n\n- Donate to Lifeline: https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline\n\n- Donate in memory: https://inmemory.lifeline.org.au\n\n- Leave a gift in your Will: https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will\n\n- Fundraise: https://www.lifeline.org.au/get-involved/fundraising\n\n- Fundraise for Lifeline: https://fundraise.lifeline.org.au/\n\n- Events: https://www.lifeline.org.au/get-involved/events\n\n- Volunteer: https://www.lifeline.org.au/get-involved/volunteer\n\n- Become a crisis supporter: https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter\n\n- Community volunteering: https://www.lifeline.org.au/get-involved/volunteer-in-your-community\n\n- Partner with us: https://www.lifeline.org.au/get-involved/partner-with-us\n\n- About us: https://www.lifeline.org.au/about-us\n\n- Who we are: https://www.lifeline.org.au/about-us/who-we-are\n\n- Our strategy: https://www.lifeline.org.au/about-us/our-strategy\n\n- Our services: https://www.lifeline.org.au/about-us/our-services\n\n- Our impact: https://www.lifeline.org.au/about-us/our-impact\n\n- Our structure: https://www.lifeline.org.au/about-us/our-structure\n\n- Governance: https://www.lifeline.org.au/about-us/governance\n\n- Lived experience framework: https://www.lifeline.org.au/about-us/lived-experience\n\n- Our research: https://www.lifeline.org.au/about/our-research\n\n- Data & statistics: https://www.lifeline.org.au/about/our-research/data-and-statistics\n\n- Research & reports: https://www.lifeline.org.au/about/our-research/research-and-reports\n\n- Our partners: https://www.lifeline.org.au/about/our-partners\n\n- Government supporters: https://www.lifeline.org.au/about/our-partners/government-supporters\n\n- Corporate partners: https://www.lifeline.org.au/about/our-partners/our-corporate-partners\n\n- Contact us: https://www.lifeline.org.au/about/contact-us\n\n- Lifeline locations: https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you\n\n- News & media: https://www.lifeline.org.au/about/news-and-media\n\n- Careers: https://www.lifeline.org.au/about/careers\n\n- Shop merchandise: https://lifelineaustralia.infoservices.com.au\n\n- Fundraise: https://fundraise.lifeline.org.au\n\n- Urgent Crisis Support: https://www.lifeline.org.au/urgent-crisis-support\n\n- English: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships\n\n- Importance of relationships: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#importance-of-relationships\n\n- Common problems: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#common-problems-in-relationships\n\n- Signs & effects: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#signs-and-effects-of-problems-in-relationships\n\n- Short-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#short-term-help-for-relationships\n\n- Long-term help: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#long-term-help-for-relationships\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#tools-and-apps-for-relationships\n\n- Support services: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#support-services-for-relationships\n\n- For friends & family: https://www.lifeline.org.au/get-help/support-toolkit/topics/relationships#for-friends-and-family-relationships\n\n- connected: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/building-social-connections\n\n- self-esteem: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-esteem-and-mental-health\n\n- stress: https://www.lifeline.org.au/get-help/support-toolkit/topics/stress\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety\n\n- depression: https://www.lifeline.org.au/topics/depression/feelings-and-effects-of-depression\n\n- loneliness: https://www.lifeline.org.au/get-help/support-toolkit/topics/loneliness\n\n- problematic: https://toolkit.lifeline.org.au/topics/relationships/common-problems-in-relationships\n\n- Click here to download, save, or print our relationships fact sheet: https://www.lifeline.org.au/sites/default/files/2025-11/lifeline-australia-relationships-fact-sheet_0.pdf\n\n- difficult conversations: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#tips-for-having-difficult-conversations\n\n- financial stress: https://www.lifeline.org.au/get-help/support-toolkit/topics/financial-stress\n\n- problem gambling: https://www.lifeline.org.au/get-help/support-toolkit/topics/problem-gambling\n\n- support options: https://www.lifeline.org.au/topics/financial-stress/support-services-for-financial-stress\n\n- https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress: https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress\n\n- self-care: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing\n\n- anxiety: https://www.lifeline.org.au/get-help/support-toolkit/topics/anxiety\n\n- Click here for tips and advice to make your long-distance relationship work: https://www.relationshipsnsw.org.au/blog/long-distance-relationships-tips/\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lachies-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/lachies-story\n\n- Domestic and family violence: https://www.lifeline.org.au/get-help/support-toolkit/topics/domestic-and-family-violence\n\n- signs and effects page: https://toolkit.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships\n\n- Domestic and Family Violence Helpline: https://www.lifeline.org.au/get-help/national-services/1800respect\n\n- Lifeline: https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support\n\n- relationship problems: https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships\n\n- Depression: https://www.lifeline.org.au/get-help/support-toolkit/topics/depression\n\n- Panic attacks: https://www.lifeline.org.au/get-help/support-toolkit/topics/panic-attacks\n\n- Self-harm: https://www.lifeline.org.au/get-help/support-toolkit/topics/self-harm\n\n- Substance misuse: https://www.lifeline.org.au/get-help/support-toolkit/topics/substance-misuse\n\n- Suicidal thoughts: https://toolkit.lifeline.org.au/topics/suicide/feelings-and-effects-of-suicide#thoughts\n\n- Lifeline: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/contacting-lifeline-guide\n\n- people convince themselves: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#understanding-why-we-stay\n\n- Talking to someone you trust: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust\n\n- Speaking with a therapist: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/what-to-expect-in-your-first-therapy-session\n\n- healthy relationships: https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships\n\n- Managing emotions: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#managing-emotions\n\n- Seeking support: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#reaching-out-for-support\n\n- Making tough decisions: https://toolkit.lifeline.org.au/topics/relationships/short-term-help-for-relationships#making-tough-decisions\n\n- long-term help: https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#moving-on-after-a-relationship-ends\n\n- build and maintain healthy relationships: https://www.lifeline.org.au/topics/relationships/long-term-help-for-relationships\n\n- grounding technique: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques\n\n- Relationships Australia: https://www.lifeline.org.au/get-help/national-services/relationships-australia\n\n- support service: https://www.lifeline.org.au/topics/relationships/support-services-for-relationships\n\n- support services: https://toolkit.lifeline.org.au/topics/relationships/support-services-for-relationships\n\n- Relationships Australia: https://www.relationships.org.au/support/#Find-a-service\n\n- connection: https://www.lifeline.org.au/topics/relationships/importance-of-relationships\n\n- signs to look for: https://www.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships\n\n- Tips for building healthy relationships: https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#tips-for-building-healthy-relationships\n\n- How to learn and grow from past relationships: https://toolkit.lifeline.org.au/topics/relationships/long-term-help-for-relationships#thinking-about-future-relationships\n\n- abuse or violence: https://www.lifeline.org.au/topics/domestic-and-family-violence/signs-and-effects-of-domestic-and-family-violence\n\n- Better Man online program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/better-man\n\n- grieving: https://www.lifeline.org.au/get-help/support-toolkit/topics/grief-loss\n\n- self-care box: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/creating-a-self-care-box\n\n- Mental Health Treatment Plan: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to\n\n- Finding the therapist that’s right for you: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-the-right-therapist\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/meetup: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/meetup\n\n- https://www.lifeline.org.au/get-help/national-services/full-stop-australia: https://www.lifeline.org.au/get-help/national-services/full-stop-australia\n\n- https://www.lifeline.org.au/get-help/national-services/kids-helpline: https://www.lifeline.org.au/get-help/national-services/kids-helpline\n\n- https://www.lifeline.org.au/get-help/national-services/mensline-australia: https://www.lifeline.org.au/get-help/national-services/mensline-australia\n\n- https://www.lifeline.org.au/get-help/national-services/mens-referral-service: https://www.lifeline.org.au/get-help/national-services/mens-referral-service\n\n- https://www.lifeline.org.au/get-help/national-services/dont-become-that-man: https://www.lifeline.org.au/get-help/national-services/dont-become-that-man\n\n- https://www.lifeline.org.au/get-help/national-services/family-drug-support: https://www.lifeline.org.au/get-help/national-services/family-drug-support\n\n- https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder: https://www.lifeline.org.au/get-help/national-services/lifeline-service-finder\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/find-another-service\n\n- Get involved: https://www.lifeline.org.au/get-involved\n\n- Reconciliation Action Plan: https://www.lifeline.org.au/about/reconciliation-action-plan\n\n- Policies: https://www.lifeline.org.au/policies\n\n- Privacy: https://www.lifeline.org.au/policies/privacy-policy\n\n- Language: https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support\n\n- https://www.facebook.com/LifelineAustralia/: https://www.facebook.com/LifelineAustralia/\n\n- https://www.instagram.com/lifelineaustralia/: https://www.instagram.com/lifelineaustralia/\n\n- https://au.linkedin.com/company/lifeline-australia: https://au.linkedin.com/company/lifeline-australia\n\n- https://x.com/LifelineAust: https://x.com/LifelineAust\n\n- https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw: https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+}

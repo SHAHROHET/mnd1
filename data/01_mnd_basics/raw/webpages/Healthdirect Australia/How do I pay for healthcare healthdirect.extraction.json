@@ -1,0 +1,751 @@
+{
+  "source_id": "healthdirect-australia:how-do-i-pay-for-healthcare",
+  "title": "How do I pay for healthcare? | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 41188,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "(Arabic) العربية",
+      "url": "https://www.healthdirect.gov.au/ar/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "বাংলা (Bengali)",
+      "url": "https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "简体中文 (Simplified Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hans/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "繁體中文 (Traditional Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hant/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "Tiếng Việt (Vietnamese)",
+      "url": "https://www.healthdirect.gov.au/vi/how-do-i-pay-for-healthcare"
+    },
+    {
+      "text": "How do I pay for healthcare in Australia?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#how"
+    },
+    {
+      "text": "What is Medicare?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#medicare"
+    },
+    {
+      "text": "What services does Medicare cover?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#services"
+    },
+    {
+      "text": "Are dental services covered by Medicare?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#dental"
+    },
+    {
+      "text": "How much of my doctor's fee is covered by Medicare?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#doctor-fee"
+    },
+    {
+      "text": "How do I pay for tests or scans?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#tests-and-scans"
+    },
+    {
+      "text": "How do I pay for medicines?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#medicines"
+    },
+    {
+      "text": "Does Medicare cover my healthcare if I need to go to hospital?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#hospital"
+    },
+    {
+      "text": "Are ambulance services free in Australia?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#ambulance"
+    },
+    {
+      "text": "What is private health insurance, and should I buy it?",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#private"
+    },
+    {
+      "text": "Resources and Support",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#searchGeneralResults"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "enrol for Medicare",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092"
+    },
+    {
+      "text": "reciprocal healthcare agreement",
+      "url": "https://www.servicesaustralia.gov.au/when-reciprocal-health-care-agreements-apply-and-you-visit-australia?context=22481"
+    },
+    {
+      "text": "private health insurance",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "eligible for Medicare",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#whocan"
+    },
+    {
+      "text": "bulk bills",
+      "url": "https://www.healthdirect.gov.au/bulk-billing-for-medical-services"
+    },
+    {
+      "text": "public hospital",
+      "url": "https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems"
+    },
+    {
+      "text": "allied health",
+      "url": "https://www.healthdirect.gov.au/allied-health"
+    },
+    {
+      "text": "Team Care Arrangement or a GP Management Plan",
+      "url": "https://www.servicesaustralia.gov.au/prepare-gpmp-tcas-or-mhcc?context=20"
+    },
+    {
+      "text": "Medicare Benefit Scheme",
+      "url": "https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home"
+    },
+    {
+      "text": "what's covered by Medicare",
+      "url": "https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092"
+    },
+    {
+      "text": "dental procedures",
+      "url": "https://www.healthdirect.gov.au/guide-to-dental-procedures"
+    },
+    {
+      "text": "your child is eligible",
+      "url": "https://www.servicesaustralia.gov.au/child-dental-benefits-schedule"
+    },
+    {
+      "text": "how to pay for dental costs",
+      "url": "https://www.healthdirect.gov.au/cost-of-dental-care"
+    },
+    {
+      "text": "how to make a claim",
+      "url": "https://www.servicesaustralia.gov.au/medicare-claims?context=60092"
+    },
+    {
+      "text": "Medicare Safety Net",
+      "url": "https://www.healthdirect.gov.au/medicare-safety-net"
+    },
+    {
+      "text": "blood",
+      "url": "https://www.healthdirect.gov.au/blood-testing"
+    },
+    {
+      "text": "urine",
+      "url": "https://www.healthdirect.gov.au/urine-tests"
+    },
+    {
+      "text": "biopsy tests",
+      "url": "https://www.healthdirect.gov.au/biopsy"
+    },
+    {
+      "text": "x-rays,",
+      "url": "https://www.healthdirect.gov.au/x-rays"
+    },
+    {
+      "text": "CT scans",
+      "url": "https://www.healthdirect.gov.au/ct-scan"
+    },
+    {
+      "text": "MRI scans",
+      "url": "https://www.healthdirect.gov.au/magnetic-resonance-imaging-mri"
+    },
+    {
+      "text": "PET scans",
+      "url": "https://www.healthdirect.gov.au/pet-scan"
+    },
+    {
+      "text": "help to manage the costs of tests",
+      "url": "https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092"
+    },
+    {
+      "text": "paying for diagnostic tests and scans",
+      "url": "https://www.healthdirect.gov.au/paying-for-diagnostic-testing"
+    },
+    {
+      "text": "Pharmaceutical Benefits Scheme",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs"
+    },
+    {
+      "text": "the current fees",
+      "url": "https://www.pbs.gov.au/info/healthpro/explanatory-notes/front/fee"
+    },
+    {
+      "text": "PBS Safety Net",
+      "url": "https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs#safety-net"
+    },
+    {
+      "text": "reduce your costs",
+      "url": "https://www.dva.gov.au/get-support/health-support/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/reducing-medicine-costs-under-safety-net-scheme"
+    },
+    {
+      "text": "PBS Safety Net",
+      "url": "https://www.servicesaustralia.gov.au/when-you-spend-lot-pbs-medicines?context=22016"
+    },
+    {
+      "text": "NPS MedicineWise website",
+      "url": "https://www.nps.org.au/consumers/keeping-your-medicines-costs-down"
+    },
+    {
+      "text": "privatehealth.gov.au",
+      "url": "https://www.privatehealth.gov.au/"
+    },
+    {
+      "text": "Indigenous Access Program",
+      "url": "https://www.servicesaustralia.gov.au/indigenous-access-program"
+    },
+    {
+      "text": "Indigenous Access Line",
+      "url": "https://www.health.gov.au/contacts/services-australia-indigenous-access-line"
+    },
+    {
+      "text": "in your location",
+      "url": "https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092"
+    },
+    {
+      "text": "birth of your baby are be covered",
+      "url": "https://www.servicesaustralia.gov.au/medicare-services-for-conceiving-pregnancy-and-birth?context=60092"
+    },
+    {
+      "text": "Pregnancy, Birth and Baby",
+      "url": "https://www.pregnancybirthbaby.org.au/"
+    },
+    {
+      "text": "(Mental health care and Medicare)",
+      "url": "https://www.servicesaustralia.gov.au/mental-health-care-and-medicare?context=60092"
+    },
+    {
+      "text": "(Bulk Billing)",
+      "url": "https://www.servicesaustralia.gov.au/bulk-billing?context=60092#a2"
+    },
+    {
+      "text": "(Private health insurance and Medicare)",
+      "url": "https://www.servicesaustralia.gov.au/private-health-insurance-and-medicare?context=60092"
+    },
+    {
+      "text": "(Ambulance)",
+      "url": "https://privatehealth.gov.au/health_insurance/what_is_covered/ambulance.htm"
+    },
+    {
+      "text": "(5. The Safety Net Scheme)",
+      "url": "https://www.pbs.gov.au/info/healthpro/explanatory-notes/section1/Section_1_5_Explanatory_Notes"
+    },
+    {
+      "text": "(The Australian health system)",
+      "url": "https://www.health.gov.au/about-us/the-australian-health-system"
+    },
+    {
+      "text": "(About private health insurance)",
+      "url": "https://www.health.gov.au/topics/private-health-insurance/about-private-health-insurance#benefits-of-private-health-insurance"
+    },
+    {
+      "text": "(Government dental care)",
+      "url": "https://www.teeth.org.au/government-dental-care"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#backToTop"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/search-results/Medicare"
+    },
+    {
+      "text": "Health Insurance",
+      "url": "https://www.healthdirect.gov.au/search-results/Health Insurance"
+    },
+    {
+      "text": "Bulk Billing",
+      "url": "https://www.healthdirect.gov.au/search-results/Bulk Billing"
+    },
+    {
+      "text": "Medicare Through Medicare, the Australian Government helps with the costs of some in-hospital and out-of-hospital services. Read more on WA Health website",
+      "url": "https://www.healthywa.wa.gov.au/Articles/J_M/Medicare"
+    },
+    {
+      "text": "Oral healthcare - myDr.com.au Oral health problems include tooth decay, gum disease, mouth ulcers, halitosis, childhood teething and oral thrush. Read more on myDoctor website",
+      "url": "https://mydr.com.au/pharmacy-care/oral-healthcare/"
+    },
+    {
+      "text": "Enrolling your baby in Medicare - Medicare - Services Australia You can enrol your baby when you claim some family payments or by using a form. Read more on Medicare website",
+      "url": "https://www.servicesaustralia.gov.au/enrolling-your-baby-medicare?context=60092"
+    },
+    {
+      "text": "Healthcare & treatment - Arthritis Australia Blood tests for arthritis Learn about the blood tests used to diagnose and monitor arthritis, and what your results can tell you […] Read more on Arthritis Australia website",
+      "url": "https://arthritisaustralia.org.au/living-with-arthritis/treatment-and-care/healthcare-treatments/"
+    },
+    {
+      "text": "Sleep | Medicare Mental Health Getting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/living-well/sleep"
+    },
+    {
+      "text": "Medicare | Better Health Channel betterhealth.vic.gov.au Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/serviceprofiles/medicare-service"
+    },
+    {
+      "text": "Dogs in Healthcare Settings You may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dogs-in-healthcare"
+    },
+    {
+      "text": "Active Listening in Healthcare Effective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/active-listening-in-healthcare"
+    },
+    {
+      "text": "Spiritual Considerations in Healthcare In the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/spiritual-considerations-in-healthcare"
+    },
+    {
+      "text": "Avoiding Burnout in Healthcare The word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/tips-for-avoiding-burnout"
+    },
+    {
+      "text": "Healthcare Rights - Diversity - Community Learn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services. Read more on CareSearch website",
+      "url": "https://www.caresearch.com.au/Community/Diversity/Healthcare-Rights/"
+    },
+    {
+      "text": "Healthcare Rights and Informed Consent All clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/healthcare-rights-and-informed-consent"
+    },
+    {
+      "text": "Policies and Procedures in Healthcare Policies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/policies-and-procedures-in-healthcare"
+    },
+    {
+      "text": "Surveillance of Healthcare-Associated Infections Healthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/hai-surveillance"
+    },
+    {
+      "text": "Conducting Performance Appraisals in Healthcare As a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/conducting-performance-appraisals-in-healthcare"
+    },
+    {
+      "text": "Workforce Immunisation for Healthcare Staff Due to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/workforce-immunisation"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "How do I pay for healthcare? | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# How do I pay for healthcare?\n\n12-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nSelect language: (Arabic) العربية , বাংলা (Bengali) , 简体中文 (Simplified Chinese) , 繁體中文 (Traditional Chinese) , Tiếng Việt (Vietnamese)\n\n## Key facts\n\n- Medicare is the Australian government’s insurance scheme that helps Australians pay for healthcare.\n\n- If you are eligible for a Medicare number, you can access a range of healthcare services for free or at a lower cost.\n\n- The Medicare system has 3 parts: hospital, medical and pharmaceutical.\n\n- Not all health services are covered by Medicare.\n\n- You can pay for private health insurance to help cover the cost of some services that are not covered by Medicare.\n\n## On this page\n\n- How do I pay for healthcare in Australia?\n\n- What is Medicare?\n\n- What services does Medicare cover?\n\n- Are dental services covered by Medicare?\n\n- How much of my doctor's fee is covered by Medicare?\n\n- How do I pay for tests or scans?\n\n- How do I pay for medicines?\n\n- Does Medicare cover my healthcare if I need to go to hospital?\n\n- Are ambulance services free in Australia?\n\n- What is private health insurance, and should I buy it?\n\n- Resources and Support\n\n- Related information on Australian websites\n\n## How do I pay for healthcare in Australia?\n\nThe Australian health system helps to provide Australians with safe and affordable health care. Medicare and the public hospital system allow eligible people to access public hospitals, health services and some prescription medicines for free or at a low cost. Private health insurance policies can provide extra coverage outside of the public system.\n\n## What is Medicare?\n\nMedicare is a government insurance scheme that helps Australians pay for healthcare. Find out how you can enrol for Medicare on the Services Australia website.\n\nMedicare is available to:\n\n- Australian citizens\n\n- New Zealand citizens\n\n- Australian permanent residents\n\n- people who are applying for permanent residency (some conditions apply)\n\n- a temporary resident covered by a ministerial order\n\n- citizens or permanent residents of Norfolk Island, Cocos (Keeling) Islands, Christmas Island or Lord Howe Island\n\nIf you are visiting Australia, you may be eligible for Medicare benefits if you come from a country that has a reciprocal healthcare agreement with Australia.\n\nIf you are a visitor from a country that does not have a healthcare agreement with Australia, you should consider buying private health insurance to cover the costs of medical treatment in Australia.\n\nYou can check whether you are eligible for Medicare on the Services Australia website.\n\n## What services does Medicare cover?\n\nMedicare covers a range of healthcare services for free or at a lower cost, including:\n\n- Seeing a doctor or specialist : If your doctor bulk bills , Medicare will pay for your appointment (including telehealth appointments). If your doctor does not bulk bill , you will need to pay for the appointment and then claim part of the cost (called a rebate) back from Medicare.\n\n- Going to hospital: If you are a public patient accessing care in a public hospital , Medicare will cover your costs. If you go to the emergency department of a public hospital, Medicare will pay for everything. If you are a private patient in hospital, Medicare may cover some of your costs.\n\n- Tests and scans: Medicare pays for a range of tests, including x-rays and pathology tests, if your doctor or pathology collection centre bulk bills.\n\n- Eye tests: Medicare pays for eye tests, if the optometrist chooses to bulk bill. Not all optometrists bulk bill. If you are under 65 years of age, you can claim an eye test once every 3 years. People over 65 years of age can claim once a year.\n\n- Mental health services: You can claim a Medicare rebate for up to 10 individual sessions and 10 group sessions each calendar year with a mental health professional. To do this, you need a mental health treatment plan and referral from your doctor. Medicare may only cover part of the cost, as health professionals set their own fees.\n\n- Other support: Medicare covers the costs for some long-term conditions, allied health services and prescription medicines. Services are covered based on your health needs. If you have a chronic or complex health condition that results in extra health costs, talk to your doctor for more information. You may be eligible for a Team Care Arrangement or a GP Management Plan to help with these costs.\n\nMedicare does not generally pay for out-of-hospital services that are not on the Medicare Benefit Scheme (MBS), such as physiotherapy and podiatry.\n\nRead more about what's covered by Medicare on the Services Australia website.\n\n## Are dental services covered by Medicare?\n\nMedicare only pays for dental procedures if you are eligible for care at a public dental clinic. Generally, you must pay yourself. Many people use private health insurance to help them pay for dental services.\n\nMedicare covers some of the costs of dental care for some children under a scheme called the Child Dental Benefits Schedule. Find out if your child is eligible .\n\nRead more here about how to pay for dental costs .\n\n## How much of my doctor's fee is covered by Medicare?\n\nMedicare will cover some or all of the fee that you are charged by your doctor - this is called a ‘Medicare benefit’.\n\nSome doctors bulk bill. This is when your doctor charges the same fee as the benefit. If your doctor bulk bills, Medicare covers the full cost of the visit, which is paid directly to your doctor. This means you do not have to pay your doctor a fee for the visit.\n\nIf the doctor does not bulk bill, you will need to pay for the consultation yourself, and claim part of the cost back from Medicare. The amount covered by Medicare is the ‘benefit’, and extra amount you need to cover yourself is known as the ‘gap fee’.\n\nAt some doctor’s offices, they can submit an electronic claim for your Medicare benefit automatically when you pay for the visit. After processing, the Medicare benefit is then paid into your bank account. Ask your doctor if they provide this service.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\nIf you see a medical specialist, you can only claim a Medicare benefit if you have a current referral from your GP.\n\nLearn how to make a claim on the Services Australia website.\n\nIf you spend a lot of money on out-of-hospital medical visits or tests, you may be eligible for the Medicare Safety Net . This means you will receive a higher Medicare benefit.\n\n## How do I pay for tests or scans?\n\nYour doctor might refer you for tests or scans to find out more about your health. Medicare sometimes covers the costs of these if you have a referral.\n\n- Pathology tests: Tests such as blood , urine or biopsy tests are usually covered by Medicare. Many are bulk billed.\n\n- Images and scans: These include x-rays, CT scans , MRI scans , PET scans and ultrasounds. For many of these tests, Medicare covers part or all of the cost.\n\nThere are also some free screening tests available in Australia, including screening for breast cancer, bowel cancer, eye tests and hearing tests. Get help to manage the costs of tests on the Services Australia website.\n\nNot all tests are covered by the MBS. Read more here about paying for diagnostic tests and scans .\n\n## How do I pay for medicines?\n\nThe Australian Government helps with the cost of some prescription medicines through the Pharmaceutical Benefits Scheme (PBS).\n\nMost of the cost of PBS medicines is covered by Medicare but you will still need to pay part of the cost (known as the co-payment). The amount of the co-payment changes on 1 January each year, in line with the Consumer Price Index (CPI). You can check the current fees on pbs.gov.au.\n\nIf you spend a lot of money on PBS medicines, the PBS Safety Net can reduce your costs after you have spent a certain amount on medicines each calendar year. Read more about the PBS Safety Net on the Services Australia website.\n\nIf your prescription medicine is not listed on the PBS, you will need to pay the full cost. You can read more about keeping your medicine costs down on the NPS MedicineWise website .\n\n## Does Medicare cover my healthcare if I need to go to hospital?\n\nIf you treatment in hospital, you can choose to receive care in a public or a private hospital. Read more about the public and private hospital systems .\n\nAnyone with a Medicare number can get free treatment as a public patient in a public hospital. However, you might need to join a waiting list before receiving some treatments or procedures in a public hospital.\n\nIf you call an ambulance, it’s likely you will be taken to a public hospital emergency department.\n\n## Are ambulance services free in Australia?\n\nMedicare does not cover the cost of ambulance services.\n\nThe fee for ambulance services in Australia varies between states and territories. Queensland and Tasmania provide free ambulance trips. People in other parts of Australia must pay, unless they have ambulance cover through their private health insurance or pay for an ambulance subscription. If you have private health insurance, it may cover some or all of the cost.\n\nFor more information about ambulance cover arrangements in your state or territory, see privatehealth.gov.au .\n\n## What is private health insurance, and should I buy it?\n\nPrivate health insurance can help to pay for some of the costs that are not covered by Medicare. Depending on your policy, private health insurance covers some or all of the costs of:\n\n- treatment in a public hospital as a private patient\n\n- treatment in a private hospital, with the doctor of your choice\n\n- some health services not covered by Medicare such as physiotherapy, dental and optical\n\nPrivate health insurance also helps you access some hospital services more quickly.\n\nIf you can, you should take out private health insurance to help cover more services and out-of-pocket costs. Read more about private health insurance on privatehealth.gov.au .\n\n## Resources and Support\n\n### Looking for information for Aboriginal and/or Torres Islander people?\n\n- Read more about available health services and Medicare benefits as part of the Indigenous Access Program\n\n- Call the Indigenous Access Line on 1800 556 955 for help with a Medicare services or payment.\n\n### Looking for information for rural and remote Australians?\n\n- Check how you can access Medicare and bulk billed appointments in your location on the Services Australia website.\n\n### Looking for information about Medicare, pregnancy and birth?\n\n- Find out what fertility treatments, routine ultrasounds and tests, and hospital fees surrounding the birth of your baby are be covered by Medicare on the Services Australia website.\n\n- You can find helpful information about the costs involved and those covered by public and private health insurance on the Pregnancy, Birth and Baby\n\n#### Source s :\n\nServices Australia (Health care and Medicare) , Services Australia (Screening, tests and scans) , Services Australia (Mental health care and Medicare) , Services Australia (Child Dental Benefits Schedule) , Services Australia (Bulk Billing) , Services Australia (Private health insurance and Medicare) , Private Health (Ambulance) , Department of Health and Aged Care (5. The Safety Net Scheme) , Department of Health and Aged Care (Pharmaceutical Benefits) , Department of Health and Aged Care (The Australian health system) , Department of Health and Aged Care (About private health insurance) , Teeth.org.au (Government dental care) , NPS Medicinewise (Keeping your medicines costs down) , Services Australia (Enrolling in Medicare)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: June 2024\n\nBack To Top\n\n## Related pages\n\n- Paying for diagnostic testing\n\n## Search our site for\n\n- Medicare\n\n- Health Insurance\n\n- Bulk Billing\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Medicare\n\nThrough Medicare, the Australian Government helps with the costs of some in-hospital and out-of-hospital services.\n\nRead more on WA Health website\n\n### Health care and Medicare - Medicare - Services Australia\n\nHow you can get affordable health care and access our services.\n\nRead more on Medicare website\n\n### Oral healthcare - myDr.com.au\n\nOral health problems include tooth decay, gum disease, mouth ulcers, halitosis, childhood teething and oral thrush.\n\nRead more on myDoctor website\n\n### Mental health care and Medicare - Medicare - Services Australia\n\nWe can help you with the cost of some mental health treatments.\n\n### Enrolling your baby in Medicare - Medicare - Services Australia\n\nYou can enrol your baby when you claim some family payments or by using a form.\n\n### Healthcare & treatment - Arthritis Australia\n\nBlood tests for arthritis Learn about the blood tests used to diagnose and monitor arthritis, and what your results can tell you […]\n\nRead more on Arthritis Australia website\n\n### Screening, tests and scans covered by Medicare - Medicare - Services Australia\n\nYou may be able to access preventive cancer screening programs. We can also help with the cost of a range of tests and scans.\n\n### Medicare services for conceiving, pregnancy and birth - Medicare - Services Australia\n\nWe can cover some or all of the health care costs of having a baby.\n\n### Sleep | Medicare Mental Health\n\nGetting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood.\n\nRead more on Medicare Mental Health website\n\n### Medicare | Better Health Channel\n\nbetterhealth.vic.gov.au\n\nRead more on Better Health Channel website\n\nShow more\n\n### Dogs in Healthcare Settings\n\nYou may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience.\n\nRead more on Ausmed Education website\n\n### Active Listening in Healthcare\n\nEffective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication.\n\n### Spiritual Considerations in Healthcare\n\nIn the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs.\n\n### Avoiding Burnout in Healthcare\n\nThe word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field.\n\n### Healthcare Rights - Diversity - Community\n\nLearn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services.\n\nRead more on CareSearch website\n\n### Healthcare Rights and Informed Consent\n\nAll clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures.\n\n### Policies and Procedures in Healthcare\n\nPolicies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks.\n\n### Surveillance of Healthcare-Associated Infections\n\nHealthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented.\n\n### Conducting Performance Appraisals in Healthcare\n\nAs a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal.\n\n### Workforce Immunisation for Healthcare Staff\n\nDue to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare\n\n- Please enter your name: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare\n\n- (Arabic) العربية: https://www.healthdirect.gov.au/ar/how-do-i-pay-for-healthcare\n\n- বাংলা (Bengali): https://www.healthdirect.gov.au/bn/how-do-i-pay-for-healthcare\n\n- 简体中文 (Simplified Chinese): https://www.healthdirect.gov.au/zh-hans/how-do-i-pay-for-healthcare\n\n- 繁體中文 (Traditional Chinese): https://www.healthdirect.gov.au/zh-hant/how-do-i-pay-for-healthcare\n\n- Tiếng Việt (Vietnamese): https://www.healthdirect.gov.au/vi/how-do-i-pay-for-healthcare\n\n- How do I pay for healthcare in Australia?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#how\n\n- What is Medicare?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#medicare\n\n- What services does Medicare cover?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#services\n\n- Are dental services covered by Medicare?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#dental\n\n- How much of my doctor's fee is covered by Medicare?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#doctor-fee\n\n- How do I pay for tests or scans?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#tests-and-scans\n\n- How do I pay for medicines?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#medicines\n\n- Does Medicare cover my healthcare if I need to go to hospital?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#hospital\n\n- Are ambulance services free in Australia?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#ambulance\n\n- What is private health insurance, and should I buy it?: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#private\n\n- Resources and Support: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#searchGeneralResults\n\n- Medicare: https://www.healthdirect.gov.au/what-is-medicare\n\n- enrol for Medicare: https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092\n\n- reciprocal healthcare agreement: https://www.servicesaustralia.gov.au/when-reciprocal-health-care-agreements-apply-and-you-visit-australia?context=22481\n\n- private health insurance: https://www.healthdirect.gov.au/private-health-insurance\n\n- eligible for Medicare: https://www.servicesaustralia.gov.au/enrolling-medicare?context=60092#whocan\n\n- bulk bills: https://www.healthdirect.gov.au/bulk-billing-for-medical-services\n\n- public hospital: https://www.healthdirect.gov.au/understanding-the-public-and-private-hospital-systems\n\n- allied health: https://www.healthdirect.gov.au/allied-health\n\n- Team Care Arrangement or a GP Management Plan: https://www.servicesaustralia.gov.au/prepare-gpmp-tcas-or-mhcc?context=20\n\n- Medicare Benefit Scheme: https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Home\n\n- what's covered by Medicare: https://www.servicesaustralia.gov.au/health-care-and-medicare?context=60092\n\n- dental procedures: https://www.healthdirect.gov.au/guide-to-dental-procedures\n\n- your child is eligible: https://www.servicesaustralia.gov.au/child-dental-benefits-schedule\n\n- how to pay for dental costs: https://www.healthdirect.gov.au/cost-of-dental-care\n\n- how to make a claim: https://www.servicesaustralia.gov.au/medicare-claims?context=60092\n\n- Medicare Safety Net: https://www.healthdirect.gov.au/medicare-safety-net\n\n- blood: https://www.healthdirect.gov.au/blood-testing\n\n- urine: https://www.healthdirect.gov.au/urine-tests\n\n- biopsy tests: https://www.healthdirect.gov.au/biopsy\n\n- x-rays,: https://www.healthdirect.gov.au/x-rays\n\n- CT scans: https://www.healthdirect.gov.au/ct-scan\n\n- MRI scans: https://www.healthdirect.gov.au/magnetic-resonance-imaging-mri\n\n- PET scans: https://www.healthdirect.gov.au/pet-scan\n\n- help to manage the costs of tests: https://www.servicesaustralia.gov.au/screening-tests-and-scans-covered-medicare?context=60092\n\n- paying for diagnostic tests and scans: https://www.healthdirect.gov.au/paying-for-diagnostic-testing\n\n- Pharmaceutical Benefits Scheme: https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs\n\n- the current fees: https://www.pbs.gov.au/info/healthpro/explanatory-notes/front/fee\n\n- PBS Safety Net: https://www.healthdirect.gov.au/pharmaceutical-benefits-scheme-pbs#safety-net\n\n- reduce your costs: https://www.dva.gov.au/get-support/health-support/help-cover-healthcare-costs/manage-medicine-and-keep-costs-down/reducing-medicine-costs-under-safety-net-scheme\n\n- PBS Safety Net: https://www.servicesaustralia.gov.au/when-you-spend-lot-pbs-medicines?context=22016\n\n- NPS MedicineWise website: https://www.nps.org.au/consumers/keeping-your-medicines-costs-down\n\n- privatehealth.gov.au: https://www.privatehealth.gov.au/\n\n- Indigenous Access Program: https://www.servicesaustralia.gov.au/indigenous-access-program\n\n- Indigenous Access Line: https://www.health.gov.au/contacts/services-australia-indigenous-access-line\n\n- in your location: https://www.servicesaustralia.gov.au/medicare-services-for-rural-and-remote-australians?context=60092\n\n- birth of your baby are be covered: https://www.servicesaustralia.gov.au/medicare-services-for-conceiving-pregnancy-and-birth?context=60092\n\n- Pregnancy, Birth and Baby: https://www.pregnancybirthbaby.org.au/\n\n- (Mental health care and Medicare): https://www.servicesaustralia.gov.au/mental-health-care-and-medicare?context=60092\n\n- (Bulk Billing): https://www.servicesaustralia.gov.au/bulk-billing?context=60092#a2\n\n- (Private health insurance and Medicare): https://www.servicesaustralia.gov.au/private-health-insurance-and-medicare?context=60092\n\n- (Ambulance): https://privatehealth.gov.au/health_insurance/what_is_covered/ambulance.htm\n\n- (5. The Safety Net Scheme): https://www.pbs.gov.au/info/healthpro/explanatory-notes/section1/Section_1_5_Explanatory_Notes\n\n- (The Australian health system): https://www.health.gov.au/about-us/the-australian-health-system\n\n- (About private health insurance): https://www.health.gov.au/topics/private-health-insurance/about-private-health-insurance#benefits-of-private-health-insurance\n\n- (Government dental care): https://www.teeth.org.au/government-dental-care\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/how-do-i-pay-for-healthcare#backToTop\n\n- Medicare: https://www.healthdirect.gov.au/search-results/Medicare\n\n- Health Insurance: https://www.healthdirect.gov.au/search-results/Health Insurance\n\n- Bulk Billing: https://www.healthdirect.gov.au/search-results/Bulk Billing\n\n- Medicare Through Medicare, the Australian Government helps with the costs of some in-hospital and out-of-hospital services. Read more on WA Health website: https://www.healthywa.wa.gov.au/Articles/J_M/Medicare\n\n- Oral healthcare - myDr.com.au Oral health problems include tooth decay, gum disease, mouth ulcers, halitosis, childhood teething and oral thrush. Read more on myDoctor website: https://mydr.com.au/pharmacy-care/oral-healthcare/\n\n- Enrolling your baby in Medicare - Medicare - Services Australia You can enrol your baby when you claim some family payments or by using a form. Read more on Medicare website: https://www.servicesaustralia.gov.au/enrolling-your-baby-medicare?context=60092\n\n- Healthcare & treatment - Arthritis Australia Blood tests for arthritis Learn about the blood tests used to diagnose and monitor arthritis, and what your results can tell you […] Read more on Arthritis Australia website: https://arthritisaustralia.org.au/living-with-arthritis/treatment-and-care/healthcare-treatments/\n\n- Sleep | Medicare Mental Health Getting enough sleep is one of the best ways to get the most out of your daily activities and improve your mood. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/living-well/sleep\n\n- Medicare | Better Health Channel betterhealth.vic.gov.au Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/serviceprofiles/medicare-service\n\n- Dogs in Healthcare Settings You may be overjoyed to hear that interacting with dogs can have a variety of health benefits. However, before you invite man’s best friend into your care facility, several considerations need to be made to ensure that clients, volunteers, visitors, staff and dogs can all have a safe and enjoyable experience. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dogs-in-healthcare\n\n- Active Listening in Healthcare Effective communication is, of course, necessary to all types of work. It could be argued, however, that in healthcare there is more to lose (such as a person’s life) in the event of poor communication. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/active-listening-in-healthcare\n\n- Spiritual Considerations in Healthcare In the wake of an illness or injury, the role of spirituality in a person's life is likely only to intensify and make itself more apparent. It’s every person's right to maintain their identity and expect inclusive care throughout their patient journey. This article is intended to help you to navigate conversations and requests regarding your patient's spiritual beliefs. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/spiritual-considerations-in-healthcare\n\n- Avoiding Burnout in Healthcare The word 'burnout' can mean many things. Stress, fatigue, irritation with yourself or others, hunger, a loss of inspiration or a combination of these can all be symptoms of burnout. Burnout often occurs in those who have high-stress jobs or tend to view their career as a priority, though anybody can experience it. Healthcare workers fall into this high-stress category, and burnout is an all-too-common term in our field. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/tips-for-avoiding-burnout\n\n- Healthcare Rights - Diversity - Community Learn about your right to inclusive, person-centred end-of-life care and how intersectionality may impact access to palliative care services. Read more on CareSearch website: https://www.caresearch.com.au/Community/Diversity/Healthcare-Rights/\n\n- Healthcare Rights and Informed Consent All clients have the right to receive safe, appropriate care that respects their privacy and autonomy. An essential component of this is adequately informing clients about the care they are receiving and ensuring they provide informed consent for any treatments or procedures. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/healthcare-rights-and-informed-consent\n\n- Policies and Procedures in Healthcare Policies and procedures are the first things an organisation should establish in order to operate effectively. Policies are rules, guidelines and principles that communicate an organisation’s culture, values and philosophies. Procedures provide step-by-step instructions for routine tasks and allocate people to be responsible for certain tasks. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/policies-and-procedures-in-healthcare\n\n- Surveillance of Healthcare-Associated Infections Healthcare-associated infections (HAIs) are the most common complication for hospitalised patients in Australia, with approximately 165,000 cases annually. These infections, which can occur in any healthcare setting, cause unnecessary pain and suffering for the patient, prolong hospital stays and add to the cost of care. However, through HAI surveillance, approximately one-third of cases can be prevented. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/hai-surveillance\n\n- Conducting Performance Appraisals in Healthcare As a manager conducting performance appraisals, it is important to make sure the process is vibrant and collaborative. This Article explores a few ways that you can ensure that both parties get the most out of a performance appraisal. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/conducting-performance-appraisals-in-healthcare\n\n- Workforce Immunisation for Healthcare Staff Due to the nature of their work, healthcare workers are at increased risk of encountering, contracting and spreading vaccine-preventable diseases. To protect their staff and the patients in their care, particularly those who are vulnerable (e.g. young children, pregnant patients and older adults), health service organisations are expected to maintain a workforce immunisation program and encourage all staff to be vaccinated. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/workforce-immunisation\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

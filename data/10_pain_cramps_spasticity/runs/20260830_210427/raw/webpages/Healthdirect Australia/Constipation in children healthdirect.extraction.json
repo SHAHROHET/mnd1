@@ -1,0 +1,651 @@
+{
+  "source_id": "healthdirect-australia:constipation-in-children",
+  "title": "Constipation in children | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/constipation-in-children",
+  "retrieved_at": "2026-08-30",
+  "topic": "Pain, Cramps And Spasticity",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 30313,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/constipation",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/constipation-in-children"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/constipation-in-children"
+    },
+    {
+      "text": "What is constipation?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#what-is"
+    },
+    {
+      "text": "What are the symptoms of constipation in children?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#symptoms"
+    },
+    {
+      "text": "What causes constipation in children?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#causes"
+    },
+    {
+      "text": "How is constipation diagnosed in children?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#diagnosis"
+    },
+    {
+      "text": "When should my child see a doctor?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#doctor"
+    },
+    {
+      "text": "How is constipation treated?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#treatment"
+    },
+    {
+      "text": "What are the complications of constipation in children?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#complications"
+    },
+    {
+      "text": "Can constipation in children be prevented?",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#prevention"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#searchGeneralResults"
+    },
+    {
+      "text": "Constipation",
+      "url": "https://www.healthdirect.gov.au/constipation"
+    },
+    {
+      "text": "eating solid foods",
+      "url": "https://www.pregnancybirthbaby.org.au/introducing-solid-food"
+    },
+    {
+      "text": "toilet training",
+      "url": "https://www.pregnancybirthbaby.org.au/toilet-training"
+    },
+    {
+      "text": "breastfed",
+      "url": "https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby"
+    },
+    {
+      "text": "bottle-fed",
+      "url": "https://www.pregnancybirthbaby.org.au/bottle-feeding-your-baby"
+    },
+    {
+      "text": "bloated",
+      "url": "https://www.healthdirect.gov.au/bloating"
+    },
+    {
+      "text": "anal fissure",
+      "url": "https://www.healthdirect.gov.au/anal-fissure"
+    },
+    {
+      "text": "water",
+      "url": "https://www.healthdirect.gov.au/drinking-water-and-your-health"
+    },
+    {
+      "text": "processed foods",
+      "url": "https://www.healthdirect.gov.au/blog/ultra-processed-foods-what-are-they-and-which-ones-should-i-avoid"
+    },
+    {
+      "text": "thyroid deficiency",
+      "url": "https://www.healthdirect.gov.au/hypothyroidism"
+    },
+    {
+      "text": "feel your child's abdomen",
+      "url": "https://www.healthdirect.gov.au/physical-examination-by-a-doctor"
+    },
+    {
+      "text": "x-ray",
+      "url": "https://www.healthdirect.gov.au/x-rays"
+    },
+    {
+      "text": "blood test",
+      "url": "https://www.healthdirect.gov.au/blood-tests-a-z"
+    },
+    {
+      "text": "faecal incontinence",
+      "url": "https://www.healthdirect.gov.au/faecal-incontinence"
+    },
+    {
+      "text": "child health nurse",
+      "url": "https://www.pregnancybirthbaby.org.au/child-health-nurse"
+    },
+    {
+      "text": "fever",
+      "url": "https://www.healthdirect.gov.au/fever-and-high-temperature-in-children"
+    },
+    {
+      "text": "vomiting",
+      "url": "https://www.healthdirect.gov.au/vomiting-in-children"
+    },
+    {
+      "text": "blood in their stool",
+      "url": "https://www.healthdirect.gov.au/blood-in-stool"
+    },
+    {
+      "text": "high-fibre foods",
+      "url": "https://www.healthdirect.gov.au/high-fibre-foods-and-diet"
+    },
+    {
+      "text": "Laxatives",
+      "url": "https://www.healthdirect.gov.au/laxatives"
+    },
+    {
+      "text": "pharmacist",
+      "url": "https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist"
+    },
+    {
+      "text": "constipation and incontinence in children",
+      "url": "https://www.continence.org.au/children"
+    },
+    {
+      "text": "Continence Health Australia",
+      "url": "https://www.continence.org.au/"
+    },
+    {
+      "text": "Sydney Children's Hospital Network",
+      "url": "https://www.schn.health.nsw.gov.au/"
+    },
+    {
+      "text": "signs and symptoms of constipation in children",
+      "url": "https://www.schn.health.nsw.gov.au/constipation-factsheet"
+    },
+    {
+      "text": "The Royal Children's Hospital Melbourne",
+      "url": "https://www.rch.org.au/home/"
+    },
+    {
+      "text": "constipation in children",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Constipation"
+    },
+    {
+      "text": "Health Translations Victoria",
+      "url": "https://www.healthtranslations.vic.gov.au/"
+    },
+    {
+      "text": "fact sheet on constipation",
+      "url": "https://www.healthtranslations.vic.gov.au/resources/constipation"
+    },
+    {
+      "text": "brochure on constipation",
+      "url": "https://www.continence.org.au/resource/constipation-hard-poo?v=10432"
+    },
+    {
+      "text": "(Kids Health Information 2020 - Constipation)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Constipation/"
+    },
+    {
+      "text": "(Constipation – Emergency management in children)",
+      "url": "https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/constipation"
+    },
+    {
+      "text": "(Managing Chronic Constipation and Soiling in Children)",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/df66d762-6c89-491f-b9b0-c989955142f6/Chronic+constipation+and+soiling+in+children%2C++management+of+-+Consumer+Health+Information+-+Paediatrics+FMC.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-df66d762-6c89-491f-b9b0-c989955142f6-pz9.MF-"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/constipation-in-children#backToTop"
+    },
+    {
+      "text": "Anal Fissure",
+      "url": "https://www.healthdirect.gov.au/search-results/Anal Fissure"
+    },
+    {
+      "text": "Dietary Fibre",
+      "url": "https://www.healthdirect.gov.au/search-results/Dietary Fibre"
+    },
+    {
+      "text": "Laxatives",
+      "url": "https://www.healthdirect.gov.au/search-results/Laxatives"
+    },
+    {
+      "text": "Constipation in children Constipation in children is common and is not usually serious. Learn more about the symptoms, causes and treatment of constipation in children. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/constipation-in-children"
+    },
+    {
+      "text": "Constipation | Faecal incontinence| Continence Health Australia (formerly the Continence Foundation of Australia) Constipation is the passing of hard, dry bowel motions (stools) that may be infrequent or difficult to pass. Dietary tips for managing constipation Read more on Continence Health Australia website",
+      "url": "https://www.continence.org.au/types-incontinence/faecal-incontinence/constipation"
+    },
+    {
+      "text": "Constipation Constipation is when you have difficulty passing stools (poo), need to strain when going to the toilet or have infrequent bowel movements. Read more on WA Health website",
+      "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Constipation"
+    },
+    {
+      "text": "Constipation | Better Health Channel Most cases of constipation are treated by eating a diet high in fibre, drinking more fluids, and exercising daily. Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/constipation"
+    },
+    {
+      "text": "Constipation and children | Better Health Channel A healthy diet, plenty of fluids, exercise and regular toilet habits can help relieve constipation in children Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/constipation-and-children"
+    },
+    {
+      "text": "Constipation: causes and symptoms - myDr.com.au What is constipation? Find out about symptoms, causes, risk factors and diagnosis. Plus, when you should seek medical advice. Read more on myDoctor website",
+      "url": "https://mydr.com.au/gastrointestinal-health/constipation-causes-and-symptoms/"
+    },
+    {
+      "text": "Constipation: treatment options - myDr.com.au Find out the treatment options for constipation. What's suitable for you will depend on the cause, severity and duration of your constipation. Read more on myDoctor website",
+      "url": "https://mydr.com.au/gastrointestinal-health/constipation-treatment-options/"
+    },
+    {
+      "text": "Constipation in children - myDr.com.au When children are constipated, they have stools that are hard, dry and difficult (or painful) to pass. Constipation in kids is usually behavioural and caused by their decision to delay going to the toilet. Read more on myDoctor website",
+      "url": "https://mydr.com.au/kids-teens-health/constipation-in-children/"
+    },
+    {
+      "text": "Constipation during pregnancy Constipation is common during pregnancy. Learn about the causes, and how you can prevent or reduce symptoms, both before and during your pregnancy. Read more on Pregnancy,Birth & Baby website",
+      "url": "https://www.pregnancybirthbaby.org.au/constipation-during-pregnancy"
+    },
+    {
+      "text": "Managing Constipation in the Older Adult Constipation is often defined as having fewer than three bowel movements a week. It also encompasses the passing of hard, dry bowel motions or straining to defecate. Constipation can usually be prevented and treated by maintaining a high-fibre diet, increasing water intake and exercising regularly. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/constipation-in-the-older-adult"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Constipation in children | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Constipation in children\n\n7-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Your child may be constipated if, for more than 2 weeks, they have hard stool (poo) or do not go to the toilet regularly.\n\n- Symptoms of constipation in children include looking uncomfortable during a bowel movement and having abdominal (tummy) pain.\n\n- Children can become constipated if they don't eat enough fibre or have a diet high in processed foods.\n\n- See your doctor if your child has faecal incontinence (passing stool when they don't mean to) or blood in their stool.\n\n- Simple changes in diet and healthy bowel habits can help treat constipation in children.\n\n## On this page\n\n- What is constipation?\n\n- What are the symptoms of constipation in children?\n\n- What causes constipation in children?\n\n- How is constipation diagnosed in children?\n\n- When should my child see a doctor?\n\n- How is constipation treated?\n\n- What are the complications of constipation in children?\n\n- Can constipation in children be prevented?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is constipation?\n\nYour child may be constipated if, for more than 2 weeks, they:\n\n- have hard stool (poo)\n\n- don't go to the toilet regularly\n\n- don't completely empty their bowel during a bowel movement\n\nConstipation occurs in around 1 in every 10 children. It's more common for children to become constipated when they:\n\n- start eating solid foods\n\n- are toilet training\n\n- have a change in routine, such as when they start school\n\n### What is normal for children?\n\nNormal bowel habits for children vary:\n\n- Babies who are breastfed may have a bowel movement as often as after each feed, or as little as once a week.\n\n- Babies who are bottle-fed and older children will usually have a bowel movement at least once every 1 to 3 days.\n\n## What are the symptoms of constipation in children?\n\nSymptoms of constipation in children include:\n\n- looking uncomfortable during a bowel movement\n\n- being irritable or upset\n\n- having abdominal (tummy) pain that comes and goes\n\n- having less of an appetite than normal\n\n- passing stool in their underwear\n\n- being bloated\n\nThey might do things to stop a bowel movement, such as:\n\n- crossing their legs tightly\n\n- squatting\n\n- refusing to sit on the toilet\n\n- hiding when they need to do a bowel movement\n\nSome children who are constipated may have an anal fissure . This is a small split in their anus (bottom) that causes pain and bleeding. This occurs because they have been straining (pushing hard) to pass a bowel movement.\n\nIt's common for babies under 6 months of age to strain when passing stool. This is part of learning how to co-ordinate a bowel movement and does not always mean they are constipated.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## What causes constipation in children?\n\nChildren can become constipated if they:\n\n- don't eat enough fibre\n\n- don't drink enough water\n\n- take certain medicines\n\n- have a diet high in processed foods\n\n- have a diet high in dairy products\n\nChildren may hold back bowel movements instead of going when they need to go. This can happen if it's been painful for them to poo before. 'Holding on' can make constipation worse.\n\nA change in environment can cause constipation in children. This may affect:\n\n- toddlers during toilet training\n\n- older children when they are starting school\n\nSome children become constipated because of a medical condition, such as:\n\n- a thyroid deficiency\n\n- coeliac disease\n\n- cows milk allergy\n\n## How is constipation diagnosed in children?\n\nA doctor can diagnose constipation. They will ask about your child's symptoms and behaviour such as:\n\n- when the symptoms started\n\n- what their stool looks like\n\n- if bowel movements are painful\n\n- if your child has had any recent changes in diet, such as starting solid food\n\nYour doctor may feel your child's abdomen (tummy) and look at their bottom.\n\n### Tests\n\nMost children won't need further tests to diagnose constipation.\n\nIf your child has severe constipation, or your doctor wants to better understand what is causing the constipation, they might recommend:\n\n- an abdominal x-ray — this can check for a large build-up of stool\n\n- a blood test — this can check for a medical condition that may be causing constipation\n\n## When should my child see a doctor?\n\nYou should see a doctor if your child:\n\n- hasn't had a bowel movement in one week\n\n- has faecal incontinence (passes stool when they don't mean to)\n\n- has symptoms that are not improving with simple diet changes\n\n- is in pain\n\nSee your doctor or child health nurse if your child is less than 12 months old and you think they are constipated.\n\n### When to seek urgent care\n\nYou should seek emergency care if your child has constipation as well as:\n\n- fever\n\n- vomiting\n\n- blood in their stool\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How is constipation treated?\n\nTreatment of constipation in children will depend on the cause.\n\n### Self-care at home\n\nConstipation in children can often be managed at home with lifestyle changes.\n\nFor toddlers and older children, adding high-fibre foods to their diet can help manage constipation:\n\n- Offer your child prune juice — try mixing it with another juice or freezing it into icy poles to make it taste better.\n\n- Add psyllium husk fibre to your child's food as a natural fibre supplement.\n\n- Encourage your child to eat 3 servings of vegetables and 2 servings of fruit per day.\n\n- Choose wholemeal bread instead of white bread.\n\nChanging formula may help formula-fed babies with constipation.\n\n### Medicines for constipation\n\nLaxatives are a type of medicine that can be used to help treat constipation. Laxatives are not recommended for children without medical advice.\n\nAsk your doctor or pharmacist if laxatives are right for your child.\n\n### Other treatment options\n\nOther treatment options include:\n\n- suppositories — these are small tablets that are placed into your child's rectum (bottom) to help a bowel movement occur. Your doctor may recommend this if your child has severe constipation.\n\n- bowel irrigation — if your child is severely constipated they may need to be admitted to hospital to have their bowel emptied.\n\n## What are the complications of constipation in children?\n\nLong-term constipation can cause faecal incontinence . This is because constipation makes the nerves in the bowel less sensitive, so your child may not feel the urge to go to the toilet.\n\nSpeak to your doctor if your child has symptoms of faecal incontinence.\n\n## Can constipation in children be prevented?\n\nEncourage your child to have healthy bowel habits to help prevent constipation:\n\n- Set aside toilet time every day. This will encourage your child to have regular visits to the toilet.\n\n- Offer your child a foot stool or a toilet ring to help them sit in the right position on the toilet.\n\n- Praise your child when they sit on the toilet, even if they don't have a bowel movement.\n\n- Talk with your child if they are worried about going to the toilet. For older children, make sure they have easy access to toilets at pre-school or school.\n\nOther lifestyle measures can help prevent constipation, such making sure your child:\n\n- has a diet high in fibre\n\n- drinks plenty of fluids\n\n- is active each day\n\n## Resources and support\n\nTo learn more about constipation and incontinence in children , visit the Continence Health Australia page.\n\nThe Sydney Children's Hospital Network offers a factsheet on the signs and symptoms of constipation in children .\n\n### Languages other than English\n\nThe Royal Children's Hospital Melbourne has a fact sheet on constipation in children in multiple languages.\n\nHealth Translations Victoria offers a fact sheet on constipation in languages other than English.\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\nFor Aboriginal and/or Torres Strait Islander peoples living in rural and remote communities, Continence Health Australia offers a brochure on constipation . This explains:\n\n- what constipation is\n\n- why it can cause urinary and faecal incontinence\n\n- how to prevent it\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nThe Royal Children’s Hospital Melbourne (Kids Health Information 2020 - Constipation) , Children’s Health Queensland (Constipation – Emergency management in children) , The Sydney Children’s Hospital Network (Constipation factsheet) , Managing Chronic Constipation and Soiling in Children (Managing Chronic Constipation and Soiling in Children)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: December 2025\n\nBack To Top\n\n## Related pages\n\n- Constipation\n\n## Search our site for\n\n- Anal Fissure\n\n- Dietary Fibre\n\n- Laxatives\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Constipation in children\n\nConstipation in children is common and is not usually serious. Learn more about the symptoms, causes and treatment of constipation in children.\n\nRead more on Pregnancy,Birth & Baby website\n\n### Constipation | Faecal incontinence| Continence Health Australia (formerly the Continence Foundation of Australia)\n\nConstipation is the passing of hard, dry bowel motions (stools) that may be infrequent or difficult to pass. Dietary tips for managing constipation\n\nRead more on Continence Health Australia website\n\n### Constipation\n\nConstipation is when you have difficulty passing stools (poo), need to strain when going to the toilet or have infrequent bowel movements.\n\nRead more on WA Health website\n\n### Constipation | Better Health Channel\n\nMost cases of constipation are treated by eating a diet high in fibre, drinking more fluids, and exercising daily.\n\nRead more on Better Health Channel website\n\n### Constipation and children | Better Health Channel\n\nA healthy diet, plenty of fluids, exercise and regular toilet habits can help relieve constipation in children\n\n### Constipation: causes and symptoms - myDr.com.au\n\nWhat is constipation? Find out about symptoms, causes, risk factors and diagnosis. Plus, when you should seek medical advice.\n\nRead more on myDoctor website\n\n### Constipation: treatment options - myDr.com.au\n\nFind out the treatment options for constipation. What's suitable for you will depend on the cause, severity and duration of your constipation.\n\n### Constipation in children - myDr.com.au\n\nWhen children are constipated, they have stools that are hard, dry and difficult (or painful) to pass. Constipation in kids is usually behavioural and caused by their decision to delay going to the toilet.\n\n### Kids Health Info : Constipation\n\nRead more on Royal Children's Hospital website\n\n### Constipation during pregnancy\n\nConstipation is common during pregnancy. Learn about the causes, and how you can prevent or reduce symptoms, both before and during your pregnancy.\n\nShow more\n\n### Managing Constipation in the Older Adult\n\nConstipation is often defined as having fewer than three bowel movements a week. It also encompasses the passing of hard, dry bowel motions or straining to defecate. Constipation can usually be prevented and treated by maintaining a high-fibre diet, increasing water intake and exercising regularly.\n\nRead more on Ausmed Education website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/constipation-in-children\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/constipation-in-children\n\n- Please enter your name: https://www.healthdirect.gov.au/constipation-in-children#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/constipation-in-children#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/constipation-in-children#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/constipation-in-children#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/constipation-in-children\n\n- What is constipation?: https://www.healthdirect.gov.au/constipation-in-children#what-is\n\n- What are the symptoms of constipation in children?: https://www.healthdirect.gov.au/constipation-in-children#symptoms\n\n- What causes constipation in children?: https://www.healthdirect.gov.au/constipation-in-children#causes\n\n- How is constipation diagnosed in children?: https://www.healthdirect.gov.au/constipation-in-children#diagnosis\n\n- When should my child see a doctor?: https://www.healthdirect.gov.au/constipation-in-children#doctor\n\n- How is constipation treated?: https://www.healthdirect.gov.au/constipation-in-children#treatment\n\n- What are the complications of constipation in children?: https://www.healthdirect.gov.au/constipation-in-children#complications\n\n- Can constipation in children be prevented?: https://www.healthdirect.gov.au/constipation-in-children#prevention\n\n- Resources and support: https://www.healthdirect.gov.au/constipation-in-children#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/constipation-in-children#searchGeneralResults\n\n- Constipation: https://www.healthdirect.gov.au/constipation\n\n- eating solid foods: https://www.pregnancybirthbaby.org.au/introducing-solid-food\n\n- toilet training: https://www.pregnancybirthbaby.org.au/toilet-training\n\n- breastfed: https://www.pregnancybirthbaby.org.au/breastfeeding-your-baby\n\n- bottle-fed: https://www.pregnancybirthbaby.org.au/bottle-feeding-your-baby\n\n- bloated: https://www.healthdirect.gov.au/bloating\n\n- anal fissure: https://www.healthdirect.gov.au/anal-fissure\n\n- water: https://www.healthdirect.gov.au/drinking-water-and-your-health\n\n- processed foods: https://www.healthdirect.gov.au/blog/ultra-processed-foods-what-are-they-and-which-ones-should-i-avoid\n\n- thyroid deficiency: https://www.healthdirect.gov.au/hypothyroidism\n\n- feel your child's abdomen: https://www.healthdirect.gov.au/physical-examination-by-a-doctor\n\n- x-ray: https://www.healthdirect.gov.au/x-rays\n\n- blood test: https://www.healthdirect.gov.au/blood-tests-a-z\n\n- faecal incontinence: https://www.healthdirect.gov.au/faecal-incontinence\n\n- child health nurse: https://www.pregnancybirthbaby.org.au/child-health-nurse\n\n- fever: https://www.healthdirect.gov.au/fever-and-high-temperature-in-children\n\n- vomiting: https://www.healthdirect.gov.au/vomiting-in-children\n\n- blood in their stool: https://www.healthdirect.gov.au/blood-in-stool\n\n- high-fibre foods: https://www.healthdirect.gov.au/high-fibre-foods-and-diet\n\n- Laxatives: https://www.healthdirect.gov.au/laxatives\n\n- pharmacist: https://www.healthdirect.gov.au/getting-the-most-out-of-your-pharmacist\n\n- constipation and incontinence in children: https://www.continence.org.au/children\n\n- Continence Health Australia: https://www.continence.org.au/\n\n- Sydney Children's Hospital Network: https://www.schn.health.nsw.gov.au/\n\n- signs and symptoms of constipation in children: https://www.schn.health.nsw.gov.au/constipation-factsheet\n\n- The Royal Children's Hospital Melbourne: https://www.rch.org.au/home/\n\n- constipation in children: https://www.rch.org.au/kidsinfo/fact_sheets/Constipation\n\n- Health Translations Victoria: https://www.healthtranslations.vic.gov.au/\n\n- fact sheet on constipation: https://www.healthtranslations.vic.gov.au/resources/constipation\n\n- brochure on constipation: https://www.continence.org.au/resource/constipation-hard-poo?v=10432\n\n- (Kids Health Information 2020 - Constipation): https://www.rch.org.au/kidsinfo/fact_sheets/Constipation/\n\n- (Constipation – Emergency management in children): https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/constipation\n\n- (Managing Chronic Constipation and Soiling in Children): https://www.sahealth.sa.gov.au/wps/wcm/connect/df66d762-6c89-491f-b9b0-c989955142f6/Chronic+constipation+and+soiling+in+children%2C++management+of+-+Consumer+Health+Information+-+Paediatrics+FMC.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-df66d762-6c89-491f-b9b0-c989955142f6-pz9.MF-\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/constipation-in-children#backToTop\n\n- Anal Fissure: https://www.healthdirect.gov.au/search-results/Anal Fissure\n\n- Dietary Fibre: https://www.healthdirect.gov.au/search-results/Dietary Fibre\n\n- Laxatives: https://www.healthdirect.gov.au/search-results/Laxatives\n\n- Constipation in children Constipation in children is common and is not usually serious. Learn more about the symptoms, causes and treatment of constipation in children. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/constipation-in-children\n\n- Constipation | Faecal incontinence| Continence Health Australia (formerly the Continence Foundation of Australia) Constipation is the passing of hard, dry bowel motions (stools) that may be infrequent or difficult to pass. Dietary tips for managing constipation Read more on Continence Health Australia website: https://www.continence.org.au/types-incontinence/faecal-incontinence/constipation\n\n- Constipation Constipation is when you have difficulty passing stools (poo), need to strain when going to the toilet or have infrequent bowel movements. Read more on WA Health website: https://www.healthywa.wa.gov.au/Articles/A_E/Constipation\n\n- Constipation | Better Health Channel Most cases of constipation are treated by eating a diet high in fibre, drinking more fluids, and exercising daily. Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/constipation\n\n- Constipation and children | Better Health Channel A healthy diet, plenty of fluids, exercise and regular toilet habits can help relieve constipation in children Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/constipation-and-children\n\n- Constipation: causes and symptoms - myDr.com.au What is constipation? Find out about symptoms, causes, risk factors and diagnosis. Plus, when you should seek medical advice. Read more on myDoctor website: https://mydr.com.au/gastrointestinal-health/constipation-causes-and-symptoms/\n\n- Constipation: treatment options - myDr.com.au Find out the treatment options for constipation. What's suitable for you will depend on the cause, severity and duration of your constipation. Read more on myDoctor website: https://mydr.com.au/gastrointestinal-health/constipation-treatment-options/\n\n- Constipation in children - myDr.com.au When children are constipated, they have stools that are hard, dry and difficult (or painful) to pass. Constipation in kids is usually behavioural and caused by their decision to delay going to the toilet. Read more on myDoctor website: https://mydr.com.au/kids-teens-health/constipation-in-children/\n\n- Constipation during pregnancy Constipation is common during pregnancy. Learn about the causes, and how you can prevent or reduce symptoms, both before and during your pregnancy. Read more on Pregnancy,Birth & Baby website: https://www.pregnancybirthbaby.org.au/constipation-during-pregnancy\n\n- Managing Constipation in the Older Adult Constipation is often defined as having fewer than three bowel movements a week. It also encompasses the passing of hard, dry bowel motions or straining to defecate. Constipation can usually be prevented and treated by maintaining a high-fibre diet, increasing water intake and exercising regularly. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/constipation-in-the-older-adult\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -1,0 +1,755 @@
+{
+  "source_id": "healthdirect-australia:introduction-to-disability-services-and-the-ndis",
+  "title": "Disability services and the NDIS | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 40209,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/caring-for-others",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis"
+    },
+    {
+      "text": "What is the National Disability Insurance Scheme (NDIS)?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#what-is"
+    },
+    {
+      "text": "Who is eligible for the NDIS?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#eligible"
+    },
+    {
+      "text": "What support is funded by the NDIS?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#funded"
+    },
+    {
+      "text": "How do I plan my NDIS funded support?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#plan"
+    },
+    {
+      "text": "How do I use my NDIS plan?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#use"
+    },
+    {
+      "text": "Where is the NDIS available?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#where"
+    },
+    {
+      "text": "What support is available for people who can't access the NDIS?",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#support"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#searchGeneralResults"
+    },
+    {
+      "text": "National Disability Insurance Scheme",
+      "url": "https://www.ndis.gov.au/"
+    },
+    {
+      "text": "Government's National Disability Insurance Agency (NDIA)",
+      "url": "https://www.ndis.gov.au/understanding/what-ndis/whos-delivering-ndis/national-disability-insurance-agency"
+    },
+    {
+      "text": "whether you are eligible",
+      "url": "https://www.ndis.gov.au/applying-access-ndis/am-i-eligible"
+    },
+    {
+      "text": "disability services and allied healthcare",
+      "url": "https://www.healthdirect.gov.au/disability-services-and-allied-health-care"
+    },
+    {
+      "text": "respite",
+      "url": "https://www.healthdirect.gov.au/respite-care"
+    },
+    {
+      "text": "types of supports",
+      "url": "https://www.ndis.gov.au/understanding/supports-funded-ndis"
+    },
+    {
+      "text": "controlling your own funding",
+      "url": "https://www.ndis.gov.au/participants/using-your-plan/self-management"
+    },
+    {
+      "text": "in your state or territory",
+      "url": "https://www.ndis.gov.au/understanding/ndis-each-state"
+    },
+    {
+      "text": "NDIS website",
+      "url": "https://www.ndis.gov.au/applying-access-ndis"
+    },
+    {
+      "text": "community and other government services",
+      "url": "https://www.ndis.gov.au/applying-access-ndis/how-apply/receiving-your-access-decision/support-people-who-are-not-eligible"
+    },
+    {
+      "text": "mobility allowance",
+      "url": "https://www.servicesaustralia.gov.au/mobility-allowance"
+    },
+    {
+      "text": "Disability Employment Services",
+      "url": "https://www.dss.gov.au/disability-employment-services/resource/des-participant-information-pack"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "Disability Gateway",
+      "url": "https://www.disabilitygateway.gov.au/"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "The NDIS early childhood approach",
+      "url": "https://www.ndis.gov.au/understanding/families-and-carers/early-childhood-approach-children-younger-9"
+    },
+    {
+      "text": "contact NDIS",
+      "url": "https://www.ndis.gov.au/contact"
+    },
+    {
+      "text": "offices and contacts in your area",
+      "url": "https://www.ndis.gov.au/contact/locations"
+    },
+    {
+      "text": "Carers Australia",
+      "url": "https://www.carersact.org.au/for-carers/support-for-carers/"
+    },
+    {
+      "text": "information on disability services",
+      "url": "https://www.act.gov.au/community/people-with-disability"
+    },
+    {
+      "text": "disability support services",
+      "url": "https://www.nsw.gov.au/community-services/support-for-people-disability"
+    },
+    {
+      "text": "disability services and advocacy services",
+      "url": "https://nt.gov.au/wellbeing/disability-services/access-to-disability-services-in-nt"
+    },
+    {
+      "text": "People with disability",
+      "url": "https://www.qld.gov.au/disability"
+    },
+    {
+      "text": "information on disability",
+      "url": "https://www.sa.gov.au/topics/care-and-support/disability"
+    },
+    {
+      "text": "Tasmanian Government has Disability Services and programs",
+      "url": "https://www.dpac.tas.gov.au/divisions/cpp/community-and-disability-services"
+    },
+    {
+      "text": "NDIS and disability services and support in Victoria",
+      "url": "https://www.vic.gov.au/ndis-disability-services-and-support-victoria"
+    },
+    {
+      "text": "disability support services",
+      "url": "https://www.wa.gov.au/organisation/department-of-communities/disability-support-services"
+    },
+    {
+      "text": "Translating and Interpreting Service",
+      "url": "https://www.ndis.gov.au/languages"
+    },
+    {
+      "text": "First Nations NDIS experiences",
+      "url": "https://www.naccho.org.au/disability/"
+    },
+    {
+      "text": "Aboriginal Community Controlled Health Organisation (ACCHO) or Affiliate",
+      "url": "https://www.naccho.org.au/locations/"
+    },
+    {
+      "text": "(Am I Eligible?)",
+      "url": "https://ndis.gov.au/applying-access-ndis/am-i-eligible"
+    },
+    {
+      "text": "(How the NDIS works)",
+      "url": "https://www.ndis.gov.au/understanding/how-ndis-works"
+    },
+    {
+      "text": "(Setting goals)",
+      "url": "https://www.ndis.gov.au/participants/creating-your-plan/setting-goals"
+    },
+    {
+      "text": "(How we can help carers)",
+      "url": "https://www.ndis.gov.au/understanding/families-and-carers/how-we-can-help-carers"
+    },
+    {
+      "text": "(The early childhood approach for children younger than 9)",
+      "url": "https://ndis.gov.au/understanding/families-and-carers/early-childhood-approach-children-younger-9"
+    },
+    {
+      "text": "(Building skills and getting a job)",
+      "url": "https://www.ndis.gov.au/participants/finding-keeping-and-changing-jobs/building-skills-and-getting-job"
+    },
+    {
+      "text": "(National Disability Insurance Scheme Act 2013)",
+      "url": "https://www.legislation.gov.au/C2013A00020/latest/text"
+    },
+    {
+      "text": "(Home modifications explained)",
+      "url": "https://www.ndis.gov.au/participants/home-and-living/home-modifications-explained"
+    },
+    {
+      "text": "(Requesting home and living supports)",
+      "url": "https://www.ndis.gov.au/participants/home-and-living/requesting-home-and-living-supports"
+    },
+    {
+      "text": "(Transport funding)",
+      "url": "https://www.ndis.gov.au/participants/creating-your-plan/plan-budget-and-rules/transport-funding"
+    },
+    {
+      "text": "(Support budgets in your plan)",
+      "url": "https://www.ndis.gov.au/participants/using-your-plan/managing-your-plan/support-budgets-your-plan"
+    },
+    {
+      "text": "(Supports and services funded by the NDIS)",
+      "url": "https://www.ndis.gov.au/providers/becoming-ndis-provider/am-i-ready/supports-and-services-funded-ndis"
+    },
+    {
+      "text": "(Your plan implementation meeting)",
+      "url": "https://improvements.ndis.gov.au/participants/using-your-plan/your-plan-implementation-meeting"
+    },
+    {
+      "text": "(How can we help you start using your plan?)",
+      "url": "https://ourguidelines.ndis.gov.au/your-plan-menu/your-plan/how-can-we-help-you-start-using-your-plan"
+    },
+    {
+      "text": "(Changes to NDIS legislation)",
+      "url": "https://www.ndis.gov.au/changes-ndis-legislation"
+    },
+    {
+      "text": "(National Disability Insurance Scheme Information for general practitioners)",
+      "url": "https://www.racgp.org.au/FSDEDEV/media/documents/Running%20a%20practice/Practice%20resources/NDIS-information-for-general-practitioners.pdf"
+    },
+    {
+      "text": "(My Aged Care)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/my-aged-care"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#backToTop"
+    },
+    {
+      "text": "Early Intervention",
+      "url": "https://www.healthdirect.gov.au/search-results/Early Intervention"
+    },
+    {
+      "text": "Rehabilitation",
+      "url": "https://www.healthdirect.gov.au/search-results/Rehabilitation"
+    },
+    {
+      "text": "Assistance Dogs",
+      "url": "https://www.healthdirect.gov.au/search-results/Assistance Dogs"
+    },
+    {
+      "text": "Mobility Aids",
+      "url": "https://www.healthdirect.gov.au/search-results/Mobility Aids"
+    },
+    {
+      "text": "Disabilities",
+      "url": "https://www.healthdirect.gov.au/search-results/Disabilities"
+    },
+    {
+      "text": "Residential care",
+      "url": "https://www.healthdirect.gov.au/search-results/Residential care"
+    },
+    {
+      "text": "Occupational Therapy",
+      "url": "https://www.healthdirect.gov.au/search-results/Occupational Therapy"
+    },
+    {
+      "text": "NDIS for Mental Health - Finding North The NDIS provides funding and supports to people across Australia with permanent disabilities, including psychosocial disabilities. The funding provided by the NDIS is designed to enhance your functional abilities and promote social and economic participation. Read more on Finding North website",
+      "url": "https://findingnorth.org.au/get-help/ndis/"
+    },
+    {
+      "text": "Help with the NDIS - for Adult Siblings | Sibings Australia The NDIS is Australia’s first national scheme for people with disability which provides funding to individuals eligible to participate. Read more on Siblings Australia website",
+      "url": "https://siblingsaustralia.org.au/siblings/adults/ndis/"
+    },
+    {
+      "text": "Disability services | NT.GOV.AU Disability services, equipment, concessions and subsidies, access to community facilities, remote residents. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/disability-services"
+    },
+    {
+      "text": "NDIS | Epilepsy Action Australia Get help if you are living with epilepsy and qualify for the NDIS. Read more on Epilepsy Action Australia website",
+      "url": "https://www.epilepsy.org.au/how-we-can-help/ndis/"
+    },
+    {
+      "text": "NDIS & funding | Autism: What next? Explore funding options and follow the getting started guide to the National Disability Insurance Scheme (NDIS). Read more on Autism Awareness Australia website",
+      "url": "https://www.autismwhatnext.com.au/explore/adults/ndis-and-funding"
+    },
+    {
+      "text": "Funding and the NDIS for young children | Autism Awareness Australia Information on accessing NDIS funding and support for young autistic children. Read more on Autism Awareness Australia website",
+      "url": "https://www.autismawareness.com.au/understanding-autism/funding-and-the-ndis-for-young-autistic-children"
+    },
+    {
+      "text": "Disability services | Better Health Channel betterhealth.vic.gov.au Read more on Better Health Channel website",
+      "url": "https://www.betterhealth.vic.gov.au/servicesandsupport/disability-services"
+    },
+    {
+      "text": "Supports that are not NDIS supports for children The NDIS doesn’t fund supports that children can get from community, government and other services. This guide outlines supports that are not NDIS supports. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/autism/therapies-services/support/child-disability-support-non-NDIS"
+    },
+    {
+      "text": "Disability services & support | Raising Children Network Need help with child disability services? Here are articles and videos about services and support, working with professionals, and early interventions. Read more on raisingchildren.net.au website",
+      "url": "https://raisingchildren.net.au/disability/services-support"
+    },
+    {
+      "text": "Quality Management: NDIS Provider Governance and Management Providers of National Disability Insurance Scheme (NDIS) services are expected to meet specific criteria relating to quality management. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/ndis-quality-management"
+    },
+    {
+      "text": "Management of Waste: NDIS Provision of Supports Environment Waste management is a requirement of the NDIS Practice Standards under Core Module 4: Provision of Supports Environment. This Practice Standard aims to protect clients, providers and other parties from hazardous healthcare waste during the provision of supports and services to minimise the risk of harm. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/management-of-waste-ndis"
+    },
+    {
+      "text": "Privacy and Dignity: NDIS Provider Rights and Responsibilities Privacy and dignity is a requirement of the NDIS Practice Standards under Core Module 1: Rights and Responsibilities. This Practice Standard aims to ensure that NDIS participants receive supports that respect their dignity and right to privacy. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/privacy-and-dignity-ndis"
+    },
+    {
+      "text": "Complex Bowel Care: NDIS High Intensity Daily Personal Activities and Support Skills Descriptors Bowel care is a routine component of personal support. However, NDIS participants at risk of severe constipation or faecal incontinence may require complex bowel care from support workers with a more specialised skill set. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/complex-bowel-care"
+    },
+    {
+      "text": "Human Resource Management: NDIS Provider Governance and Management Human resources refers to all of the people who make up an organisation’s workforce. Under the NDIS, workers are considered to be any people who are employed or engaged to deliver NDIS supports and services, whether they be paid or unpaid. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/human-resource-management-ndis"
+    },
+    {
+      "text": "Information Management: NDIS Provider Governance and Operational Management Information management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that providers manage health information in a way that ensures it is identifiable, accurately recorded, up-to-date and confidential. Furthermore, this information should be easily accessed by participants and appropriately used in the delivery of supports. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/information-management-ndis"
+    },
+    {
+      "text": "Feedback and Complaints Management: NDIS Provider Governance and Operational Management Feedback and complaints management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that all NDIS participants are informed about and able to access the provider’s complaints management and resolution system. Furthermore, the provider should welcome, acknowledge, respect and properly manage all feedback and complaints. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/feedback-and-complaints-ndis"
+    },
+    {
+      "text": "The NDIS Practice Standards Explained The NDIS Practice Standards work alongside the NDIS Code of Conduct to establish the benchmark of performance, quality and safety that NDIS providers should meet in their delivery of supports and services. In other words, the NDIS Practice Standards help to inform NDIS participants (i.e. NDIS funding recipients) about the quality they should be expecting from the supports and services they receive. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/ndis-standards"
+    },
+    {
+      "text": "Urinary Catheter Support: NDIS High Intensity Daily Personal Activities Urinary catheter management is a requirement of the NDIS Practice Standards under the High Intensity Daily Personal Activities Module. This Practice Standard aims to ensure that NDIS participants who require a catheter receive appropriate catheter management that is relevant and proportionate to their individual needs. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/urinary-catheter-management-ndis"
+    },
+    {
+      "text": "NDIS Support Planning Providers of National Disability Insurance Scheme (NDIS) services must ensure that supports are appropriately planned, reviewed and updated in collaboration with NDIS participants and their changing needs and preferences. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/ndis-support-planning"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Disability services and the NDIS | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Disability services and the NDIS\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- There are government-funded services available to support people living with disability.\n\n- The National Disability Insurance Scheme (NDIS) provides funding support to Australians who meet certain criteria.\n\n- People who are eligible to receive support through the NDIS are called 'participants'.\n\n## On this page\n\n- What is the National Disability Insurance Scheme (NDIS)?\n\n- Who is eligible for the NDIS?\n\n- What support is funded by the NDIS?\n\n- How do I plan my NDIS funded support?\n\n- How do I use my NDIS plan?\n\n- Where is the NDIS available?\n\n- What support is available for people who can't access the NDIS?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is the National Disability Insurance Scheme (NDIS)?\n\nIf you are living with disability, there are government-funded services available to support you.\n\nThe National Disability Insurance Scheme (NDIS) supports Australians who:\n\n- are aged between 9 and 65 years of age\n\n- have a life-long, permanent or significant disability\n\nThe NDIS is run by the Australian Government's National Disability Insurance Agency (NDIA) .\n\nThe NDIS is jointly funded and governed by the Australian Government and the states and territories.\n\n## Who is eligible for the NDIS?\n\nTo access support through the NDIS, you will need to:\n\n- live in Australia\n\n- be an Australian citizen or have a permanent visa\n\n- be between 9 years and 65 years old\n\n- have a disability caused by a permanent impairment\n\n- need support now to manage your daily life activities\n\nPermanent impairments can be intellectual, cognitive, neurological, sensory, physical or psychosocial.\n\nYou can read more about these requirements and check whether you are eligible on the NDIS website .\n\n## What support is funded by the NDIS?\n\nThe NDIS can help support your access to disability services and allied healthcare .\n\nSome of the supports funded by the NDIS may include:\n\n- daily life activities\n\n- transport to take part in community, social, work and daily life activities\n\n- workplace help\n\n- help with household tasks\n\n- home modifications\n\n- mobility equipment\n\n- respite\n\nThe support you can get will depend on your needs and whether it is listed as NDIS supports. In some cases you may be able to request support not on the list, known as substitute support.\n\nYou can read more about the types of supports funded.\n\n## How do I plan my NDIS funded support?\n\nPeople who meet the NDIS requirements are called 'participants'. Every participant will get help to create an NDIS plan. Carers and family members can also help with the NDIS planning.\n\nEvery NDIS participant has an individual plan. This is developed based on many things, including:\n\n- where you live\n\n- who supports you now\n\n- your goals\n\nYour goals may be big or small. Goals might be:\n\n- getting a job\n\n- learning new skills\n\n- meeting new people\n\n- building friendships\n\n- connecting with family\n\nThe NDIS may provide funding for supports that can help you overcome challenges and achieve your goals.\n\n## How do I use my NDIS plan?\n\nOnce your NDIS plan is approved, the NDIS may arrange a meeting to put your plan into action. At the meeting you will talk about how to use your plan. It will happen within 4 weeks of your plan being approved.\n\nYou can decide to:\n\n- control your own NDIS funds\n\n- choose someone else to manage your plan\n\nRead more about controlling your own funding . This gives you the chance to decide which supports you buy.\n\n## Where is the NDIS available?\n\nThe NDIS is available across Australia. Visit the NDIS website for details about the NDIS in your state or territory . You can access the NDIS by visiting your nearest NDIS office or using the NDIS website .\n\n## What support is available for people who can't access the NDIS?\n\nIf your NDIS request is denied, you can challenge the decision (also called an appeal). Your GP can help you with the challenge.\n\nPeople who are not eligible for the NDIS can still get help to access community and other government services . These can include:\n\n- mobility allowance to help with travelling for study or work\n\n- the Disability Employment Services (DES) to help with finding work\n\n- support for your carer through Carer Gateway\n\nYou can find more information on supports through Disability Gateway .\n\n### Older people\n\nIf you're aged 65 years or older, disability support is given through My Aged Care .\n\n### Children younger than 9\n\nThe NDIS early childhood approach supports children younger than 9 years and their families.\n\nIt helps you access the right support if your child is under 9 years of age with:\n\n- developmental delay, or concerns about their development\n\n- disability\n\nThe early childhood approach can help you:\n\n- find out about supports that may help your child\n\n- access the support you need\n\n- increase your child's ability to do activities they need or want to do\n\n- increase your child's inclusion and participation in settings such as childcare or recreational activities\n\n- connect with support services like parent support groups\n\n## Resources and support\n\nYou can contact NDIS on 1800 800 110 or use the live chat through their website. You can also search for offices and contacts in your area .\n\nYou can visit the National Disability Gateway if you need help finding and getting disability services across Australia. You can call the Disability Gateway on 1800 643 787.\n\nCarers Australia has information on disability and the NDIS and has member organisations in each state and territory. You can call the Carer Gateway on 1800 422 737.\n\n### State and territory resources and support\n\n- Australian Capital Territory — the ACT Government Community Services has information on disability services .\n\n- New South Wales — find disability support services for help with housing, transport, sport and recreation.\n\n- Northern Territory — disability services and advocacy services can be found through the NT government.\n\n- Queensland — People with disability living in Queensland can find information on support and the NDIS through the Queensland Government.\n\n- South Australia — the SA government has information on disability\n\n- Tasmania — the Tasmanian Government has Disability Services and programs .\n\n- Victoria — NDIS and disability services and support in Victoria has information for people with disability.\n\n- Western Australia — the Government of Western Australia has disability support services for people with a disability, their families and carers.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n### Languages other than English\n\nIf English is not your first language, you can call the Translating and Interpreting Service on 131 450.\n\nThe NDIS has factsheets available in many community languages .\n\n### Information for Aboriginal and/or Torres Strait Islander peoples\n\nThe National Aboriginal Community Controlled Health Organisation has resources and videos about First Nations NDIS experiences with the NDIS.\n\nFind an Aboriginal Community Controlled Health Organisation (ACCHO) or Affiliate near you.\n\n#### Source s :\n\nNational Disability Insurance Agency (Am I Eligible?) , National Disability Insurance Scheme (How the NDIS works) , National Disability Insurance Scheme (Setting goals) , National Disability Insurance Scheme (How we can help carers) , National Disability Insurance Scheme (The early childhood approach for children younger than 9) , National Disability Insurance Scheme (Building skills and getting a job) , Department of Health (National Disability Insurance Scheme Act 2013) , National Disability Insurance Scheme (Home modifications explained) , National Disability Insurance Scheme (Requesting home and living supports) , National Disability Insurance Scheme (Transport funding) , National Disability Insurance Scheme (Support budgets in your plan) , National Disability Insurance Scheme (Supports and services funded by the NDIS) , National Disability Insurance Scheme (Your plan implementation meeting) , National Disability Insurance Scheme (How can we help you start using your plan?) , National Disability Insurance Scheme (Changes to NDIS legislation) , Royal Australian College of General Practitioners (National Disability Insurance Scheme Information for general practitioners) , RACGP Silver Book (My Aged Care) , National Disability Insurance Scheme (Applying to access the NDIS)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2025\n\nBack To Top\n\n## Search our site for\n\n- Early Intervention\n\n- Rehabilitation\n\n- Assistance Dogs\n\n- Mobility Aids\n\n- Disabilities\n\n- Residential care\n\n- Occupational Therapy\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### NDIS for Mental Health - Finding North\n\nThe NDIS provides funding and supports to people across Australia with permanent disabilities, including psychosocial disabilities. The funding provided by the NDIS is designed to enhance your functional abilities and promote social and economic participation.\n\nRead more on Finding North website\n\n### Help with the NDIS - for Adult Siblings | Sibings Australia\n\nThe NDIS is Australia’s first national scheme for people with disability which provides funding to individuals eligible to participate.\n\nRead more on Siblings Australia website\n\n### Access to disability services in NT | NT.GOV.AU\n\nInformation about the National Disability Insurance Scheme (NDIS) in the Northern Territory and where to find services if you're ineligible for the NDIS.\n\nRead more on NT Health website\n\n### Disability services | NT.GOV.AU\n\nDisability services, equipment, concessions and subsidies, access to community facilities, remote residents.\n\n### NDIS | Epilepsy Action Australia\n\nGet help if you are living with epilepsy and qualify for the NDIS.\n\nRead more on Epilepsy Action Australia website\n\n### NDIS & funding | Autism: What next?\n\nExplore funding options and follow the getting started guide to the National Disability Insurance Scheme (NDIS).\n\nRead more on Autism Awareness Australia website\n\n### Funding and the NDIS for young children | Autism Awareness Australia\n\nInformation on accessing NDIS funding and support for young autistic children.\n\n### Disability services | Better Health Channel\n\nbetterhealth.vic.gov.au\n\nRead more on Better Health Channel website\n\n### Supports that are not NDIS supports for children\n\nThe NDIS doesn’t fund supports that children can get from community, government and other services. This guide outlines supports that are not NDIS supports.\n\nRead more on raisingchildren.net.au website\n\n### Disability services & support | Raising Children Network\n\nNeed help with child disability services? Here are articles and videos about services and support, working with professionals, and early interventions.\n\nShow more\n\n### Quality Management: NDIS Provider Governance and Management\n\nProviders of National Disability Insurance Scheme (NDIS) services are expected to meet specific criteria relating to quality management.\n\nRead more on Ausmed Education website\n\n### Management of Waste: NDIS Provision of Supports Environment\n\nWaste management is a requirement of the NDIS Practice Standards under Core Module 4: Provision of Supports Environment. This Practice Standard aims to protect clients, providers and other parties from hazardous healthcare waste during the provision of supports and services to minimise the risk of harm.\n\n### Privacy and Dignity: NDIS Provider Rights and Responsibilities\n\nPrivacy and dignity is a requirement of the NDIS Practice Standards under Core Module 1: Rights and Responsibilities. This Practice Standard aims to ensure that NDIS participants receive supports that respect their dignity and right to privacy.\n\n### Complex Bowel Care: NDIS High Intensity Daily Personal Activities and Support Skills Descriptors\n\nBowel care is a routine component of personal support. However, NDIS participants at risk of severe constipation or faecal incontinence may require complex bowel care from support workers with a more specialised skill set.\n\n### Human Resource Management: NDIS Provider Governance and Management\n\nHuman resources refers to all of the people who make up an organisation’s workforce. Under the NDIS, workers are considered to be any people who are employed or engaged to deliver NDIS supports and services, whether they be paid or unpaid.\n\n### Information Management: NDIS Provider Governance and Operational Management\n\nInformation management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that providers manage health information in a way that ensures it is identifiable, accurately recorded, up-to-date and confidential. Furthermore, this information should be easily accessed by participants and appropriately used in the delivery of supports.\n\n### Feedback and Complaints Management: NDIS Provider Governance and Operational Management\n\nFeedback and complaints management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that all NDIS participants are informed about and able to access the provider’s complaints management and resolution system. Furthermore, the provider should welcome, acknowledge, respect and properly manage all feedback and complaints.\n\n### The NDIS Practice Standards Explained\n\nThe NDIS Practice Standards work alongside the NDIS Code of Conduct to establish the benchmark of performance, quality and safety that NDIS providers should meet in their delivery of supports and services. In other words, the NDIS Practice Standards help to inform NDIS participants (i.e. NDIS funding recipients) about the quality they should be expecting from the supports and services they receive.\n\n### Urinary Catheter Support: NDIS High Intensity Daily Personal Activities\n\nUrinary catheter management is a requirement of the NDIS Practice Standards under the High Intensity Daily Personal Activities Module. This Practice Standard aims to ensure that NDIS participants who require a catheter receive appropriate catheter management that is relevant and proportionate to their individual needs.\n\n### NDIS Support Planning\n\nProviders of National Disability Insurance Scheme (NDIS) services must ensure that supports are appropriately planned, reviewed and updated in collaboration with NDIS participants and their changing needs and preferences.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis\n\n- Please enter your name: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis\n\n- What is the National Disability Insurance Scheme (NDIS)?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#what-is\n\n- Who is eligible for the NDIS?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#eligible\n\n- What support is funded by the NDIS?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#funded\n\n- How do I plan my NDIS funded support?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#plan\n\n- How do I use my NDIS plan?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#use\n\n- Where is the NDIS available?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#where\n\n- What support is available for people who can't access the NDIS?: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#support\n\n- Resources and support: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#searchGeneralResults\n\n- National Disability Insurance Scheme: https://www.ndis.gov.au/\n\n- Government's National Disability Insurance Agency (NDIA): https://www.ndis.gov.au/understanding/what-ndis/whos-delivering-ndis/national-disability-insurance-agency\n\n- whether you are eligible: https://www.ndis.gov.au/applying-access-ndis/am-i-eligible\n\n- disability services and allied healthcare: https://www.healthdirect.gov.au/disability-services-and-allied-health-care\n\n- respite: https://www.healthdirect.gov.au/respite-care\n\n- types of supports: https://www.ndis.gov.au/understanding/supports-funded-ndis\n\n- controlling your own funding: https://www.ndis.gov.au/participants/using-your-plan/self-management\n\n- in your state or territory: https://www.ndis.gov.au/understanding/ndis-each-state\n\n- NDIS website: https://www.ndis.gov.au/applying-access-ndis\n\n- community and other government services: https://www.ndis.gov.au/applying-access-ndis/how-apply/receiving-your-access-decision/support-people-who-are-not-eligible\n\n- mobility allowance: https://www.servicesaustralia.gov.au/mobility-allowance\n\n- Disability Employment Services: https://www.dss.gov.au/disability-employment-services/resource/des-participant-information-pack\n\n- Carer Gateway: https://www.carergateway.gov.au/\n\n- Disability Gateway: https://www.disabilitygateway.gov.au/\n\n- My Aged Care: https://www.myagedcare.gov.au/\n\n- The NDIS early childhood approach: https://www.ndis.gov.au/understanding/families-and-carers/early-childhood-approach-children-younger-9\n\n- contact NDIS: https://www.ndis.gov.au/contact\n\n- offices and contacts in your area: https://www.ndis.gov.au/contact/locations\n\n- Carers Australia: https://www.carersact.org.au/for-carers/support-for-carers/\n\n- information on disability services: https://www.act.gov.au/community/people-with-disability\n\n- disability support services: https://www.nsw.gov.au/community-services/support-for-people-disability\n\n- disability services and advocacy services: https://nt.gov.au/wellbeing/disability-services/access-to-disability-services-in-nt\n\n- People with disability: https://www.qld.gov.au/disability\n\n- information on disability: https://www.sa.gov.au/topics/care-and-support/disability\n\n- Tasmanian Government has Disability Services and programs: https://www.dpac.tas.gov.au/divisions/cpp/community-and-disability-services\n\n- NDIS and disability services and support in Victoria: https://www.vic.gov.au/ndis-disability-services-and-support-victoria\n\n- disability support services: https://www.wa.gov.au/organisation/department-of-communities/disability-support-services\n\n- Translating and Interpreting Service: https://www.ndis.gov.au/languages\n\n- First Nations NDIS experiences: https://www.naccho.org.au/disability/\n\n- Aboriginal Community Controlled Health Organisation (ACCHO) or Affiliate: https://www.naccho.org.au/locations/\n\n- (Am I Eligible?): https://ndis.gov.au/applying-access-ndis/am-i-eligible\n\n- (How the NDIS works): https://www.ndis.gov.au/understanding/how-ndis-works\n\n- (Setting goals): https://www.ndis.gov.au/participants/creating-your-plan/setting-goals\n\n- (How we can help carers): https://www.ndis.gov.au/understanding/families-and-carers/how-we-can-help-carers\n\n- (The early childhood approach for children younger than 9): https://ndis.gov.au/understanding/families-and-carers/early-childhood-approach-children-younger-9\n\n- (Building skills and getting a job): https://www.ndis.gov.au/participants/finding-keeping-and-changing-jobs/building-skills-and-getting-job\n\n- (National Disability Insurance Scheme Act 2013): https://www.legislation.gov.au/C2013A00020/latest/text\n\n- (Home modifications explained): https://www.ndis.gov.au/participants/home-and-living/home-modifications-explained\n\n- (Requesting home and living supports): https://www.ndis.gov.au/participants/home-and-living/requesting-home-and-living-supports\n\n- (Transport funding): https://www.ndis.gov.au/participants/creating-your-plan/plan-budget-and-rules/transport-funding\n\n- (Support budgets in your plan): https://www.ndis.gov.au/participants/using-your-plan/managing-your-plan/support-budgets-your-plan\n\n- (Supports and services funded by the NDIS): https://www.ndis.gov.au/providers/becoming-ndis-provider/am-i-ready/supports-and-services-funded-ndis\n\n- (Your plan implementation meeting): https://improvements.ndis.gov.au/participants/using-your-plan/your-plan-implementation-meeting\n\n- (How can we help you start using your plan?): https://ourguidelines.ndis.gov.au/your-plan-menu/your-plan/how-can-we-help-you-start-using-your-plan\n\n- (Changes to NDIS legislation): https://www.ndis.gov.au/changes-ndis-legislation\n\n- (National Disability Insurance Scheme Information for general practitioners): https://www.racgp.org.au/FSDEDEV/media/documents/Running%20a%20practice/Practice%20resources/NDIS-information-for-general-practitioners.pdf\n\n- (My Aged Care): https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/silver-book-part-c/my-aged-care\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/introduction-to-disability-services-and-the-ndis#backToTop\n\n- Early Intervention: https://www.healthdirect.gov.au/search-results/Early Intervention\n\n- Rehabilitation: https://www.healthdirect.gov.au/search-results/Rehabilitation\n\n- Assistance Dogs: https://www.healthdirect.gov.au/search-results/Assistance Dogs\n\n- Mobility Aids: https://www.healthdirect.gov.au/search-results/Mobility Aids\n\n- Disabilities: https://www.healthdirect.gov.au/search-results/Disabilities\n\n- Residential care: https://www.healthdirect.gov.au/search-results/Residential care\n\n- Occupational Therapy: https://www.healthdirect.gov.au/search-results/Occupational Therapy\n\n- NDIS for Mental Health - Finding North The NDIS provides funding and supports to people across Australia with permanent disabilities, including psychosocial disabilities. The funding provided by the NDIS is designed to enhance your functional abilities and promote social and economic participation. Read more on Finding North website: https://findingnorth.org.au/get-help/ndis/\n\n- Help with the NDIS - for Adult Siblings | Sibings Australia The NDIS is Australia’s first national scheme for people with disability which provides funding to individuals eligible to participate. Read more on Siblings Australia website: https://siblingsaustralia.org.au/siblings/adults/ndis/\n\n- Disability services | NT.GOV.AU Disability services, equipment, concessions and subsidies, access to community facilities, remote residents. Read more on NT Health website: https://nt.gov.au/wellbeing/disability-services\n\n- NDIS | Epilepsy Action Australia Get help if you are living with epilepsy and qualify for the NDIS. Read more on Epilepsy Action Australia website: https://www.epilepsy.org.au/how-we-can-help/ndis/\n\n- NDIS & funding | Autism: What next? Explore funding options and follow the getting started guide to the National Disability Insurance Scheme (NDIS). Read more on Autism Awareness Australia website: https://www.autismwhatnext.com.au/explore/adults/ndis-and-funding\n\n- Funding and the NDIS for young children | Autism Awareness Australia Information on accessing NDIS funding and support for young autistic children. Read more on Autism Awareness Australia website: https://www.autismawareness.com.au/understanding-autism/funding-and-the-ndis-for-young-autistic-children\n\n- Disability services | Better Health Channel betterhealth.vic.gov.au Read more on Better Health Channel website: https://www.betterhealth.vic.gov.au/servicesandsupport/disability-services\n\n- Supports that are not NDIS supports for children The NDIS doesn’t fund supports that children can get from community, government and other services. This guide outlines supports that are not NDIS supports. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/autism/therapies-services/support/child-disability-support-non-NDIS\n\n- Disability services & support | Raising Children Network Need help with child disability services? Here are articles and videos about services and support, working with professionals, and early interventions. Read more on raisingchildren.net.au website: https://raisingchildren.net.au/disability/services-support\n\n- Quality Management: NDIS Provider Governance and Management Providers of National Disability Insurance Scheme (NDIS) services are expected to meet specific criteria relating to quality management. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/ndis-quality-management\n\n- Management of Waste: NDIS Provision of Supports Environment Waste management is a requirement of the NDIS Practice Standards under Core Module 4: Provision of Supports Environment. This Practice Standard aims to protect clients, providers and other parties from hazardous healthcare waste during the provision of supports and services to minimise the risk of harm. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/management-of-waste-ndis\n\n- Privacy and Dignity: NDIS Provider Rights and Responsibilities Privacy and dignity is a requirement of the NDIS Practice Standards under Core Module 1: Rights and Responsibilities. This Practice Standard aims to ensure that NDIS participants receive supports that respect their dignity and right to privacy. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/privacy-and-dignity-ndis\n\n- Complex Bowel Care: NDIS High Intensity Daily Personal Activities and Support Skills Descriptors Bowel care is a routine component of personal support. However, NDIS participants at risk of severe constipation or faecal incontinence may require complex bowel care from support workers with a more specialised skill set. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/complex-bowel-care\n\n- Human Resource Management: NDIS Provider Governance and Management Human resources refers to all of the people who make up an organisation’s workforce. Under the NDIS, workers are considered to be any people who are employed or engaged to deliver NDIS supports and services, whether they be paid or unpaid. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/human-resource-management-ndis\n\n- Information Management: NDIS Provider Governance and Operational Management Information management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that providers manage health information in a way that ensures it is identifiable, accurately recorded, up-to-date and confidential. Furthermore, this information should be easily accessed by participants and appropriately used in the delivery of supports. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/information-management-ndis\n\n- Feedback and Complaints Management: NDIS Provider Governance and Operational Management Feedback and complaints management is a requirement of the NDIS Practice Standards under Core Module 2: Provider Governance and Operational Management. This Practice Standard aims to ensure that all NDIS participants are informed about and able to access the provider’s complaints management and resolution system. Furthermore, the provider should welcome, acknowledge, respect and properly manage all feedback and complaints. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/feedback-and-complaints-ndis\n\n- The NDIS Practice Standards Explained The NDIS Practice Standards work alongside the NDIS Code of Conduct to establish the benchmark of performance, quality and safety that NDIS providers should meet in their delivery of supports and services. In other words, the NDIS Practice Standards help to inform NDIS participants (i.e. NDIS funding recipients) about the quality they should be expecting from the supports and services they receive. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/ndis-standards\n\n- Urinary Catheter Support: NDIS High Intensity Daily Personal Activities Urinary catheter management is a requirement of the NDIS Practice Standards under the High Intensity Daily Personal Activities Module. This Practice Standard aims to ensure that NDIS participants who require a catheter receive appropriate catheter management that is relevant and proportionate to their individual needs. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/urinary-catheter-management-ndis\n\n- NDIS Support Planning Providers of National Disability Insurance Scheme (NDIS) services must ensure that supports are appropriately planned, reviewed and updated in collaboration with NDIS participants and their changing needs and preferences. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/ndis-support-planning\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

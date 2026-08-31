@@ -1,0 +1,25 @@
+{
+  "topic_id": "09_mobility_daily_living",
+  "topic_title": "Mobility And Daily Living",
+  "retrieved_at": "2026-08-30",
+  "sources_downloaded": 20,
+  "mobility_records_written": 6,
+  "chunks_written": 388,
+  "failures": [],
+  "skipped_pdf_links": [
+    "https://www.mndassociation.org/app/uploads/2021/07/Personal-Care-with-MND.pdf",
+    "https://www.mndassociation.org/sites/default/files/2023-08/P12%20Information%20for%20dental%20teams.pdf",
+    "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf",
+    "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf",
+    "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU",
+    "https://www.health.qld.gov.au/__data/assets/pdf_file/0025/432853/guidelines-mobility-aids.pdf",
+    "https://www.health.qld.gov.au/__data/assets/pdf_file/0028/435169/guidelines-bathing-toileting.pdf",
+    "https://www.health.qld.gov.au/__data/assets/pdf_file/0021/433173/guidelines-hoists-slings.pdf",
+    "https://www.health.qld.gov.au/__data/assets/pdf_file/0033/1139199/guidelines-PRSS.pdf",
+    "https://swep.bhs.org.au/files/404/Supplier_Quotation_Templateupdated_25th_Feb_21.pdf"
+  ],
+  "crawl_mode": "same-site mobility and daily living crawl",
+  "max_pages_per_publisher": 45,
+  "max_crawl_depth": 2,
+  "output_root": "C:\\Users\\User1\\Downloads\\MND DATA\\09_mobility_daily_living\\runs\\20260830_205919"
+}

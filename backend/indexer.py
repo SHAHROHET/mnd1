@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-METADATA_DIR = os.path.join(BASE_DIR, "metadata")
+METADATA_DIR = os.path.join(BASE_DIR, "data", "metadata")
 CACHE_FILE = os.path.join(BASE_DIR, "backend", "index_cache.pkl")
 
 STATE_SYNONYMS = {

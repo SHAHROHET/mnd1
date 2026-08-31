@@ -1,0 +1,1071 @@
+{
+  "source_id": "eldac:end-of-life-law",
+  "title": "End of Life Law - ELDAC",
+  "publisher": "ELDAC",
+  "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/V",
+  "retrieved_at": "2026-08-30",
+  "topic": "Palliative Care And Advance Care Planning",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 34178,
+  "crawl_depth": 0,
+  "seed_url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/V",
+  "links": [
+    {
+      "text": "https://www.eldac.com.au/",
+      "url": "https://www.eldac.com.au/"
+    },
+    {
+      "text": "Our Care Model",
+      "url": "https://www.eldac.com.au/Our-Care-Model"
+    },
+    {
+      "text": "Understanding Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care"
+    },
+    {
+      "text": "Addressing the Standards",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Addressing-the-Standards"
+    },
+    {
+      "text": "Advance Care Planning",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Advance-Care-Planning"
+    },
+    {
+      "text": "Recognise End of Life",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Recognise-End-of-Life"
+    },
+    {
+      "text": "Assess Palliative Care Needs",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Assess-Palliative-Care-Needs"
+    },
+    {
+      "text": "Provide Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Provide-Palliative-Care"
+    },
+    {
+      "text": "Work Together",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Work-Together"
+    },
+    {
+      "text": "Respond to Deterioration",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Respond-to-Deterioration"
+    },
+    {
+      "text": "Manage Dying",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Manage-Dying"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Bereavement"
+    },
+    {
+      "text": "About You",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You"
+    },
+    {
+      "text": "I am a Care Worker",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Care-Worker"
+    },
+    {
+      "text": "I am a Nurse",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Nurse"
+    },
+    {
+      "text": "I am a GP or Nurse Practitioner",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-GP-or-Nurse-Practitioner"
+    },
+    {
+      "text": "I am an Allied Health Professional",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-an-Allied-Health-Professional"
+    },
+    {
+      "text": "I am an Educator",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-an-Educator"
+    },
+    {
+      "text": "I am a Service Manager",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Service-Manager"
+    },
+    {
+      "text": "I am Family/Carer",
+      "url": "https://www.eldac.com.au/Our-Care-Model/About-You/I-am-Family-Carer"
+    },
+    {
+      "text": "Our Toolkits",
+      "url": "https://www.eldac.com.au/Our-Toolkits"
+    },
+    {
+      "text": "Primary Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care"
+    },
+    {
+      "text": "Clinical Action",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action"
+    },
+    {
+      "text": "Advance Care Planning",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Advance-Care-Planning"
+    },
+    {
+      "text": "Recognise End of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Recognise-End-of-Life"
+    },
+    {
+      "text": "Assess Palliative Care Needs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Assess-Palliative-Care-Needs"
+    },
+    {
+      "text": "Provide Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care"
+    },
+    {
+      "text": "Understand Your Responsibilities",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Understand-Your-Responsibilities"
+    },
+    {
+      "text": "Manage Symptoms",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Manage-Symptoms"
+    },
+    {
+      "text": "Serious Complications and Emergencies",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Serious-Complications-and-Emergencies"
+    },
+    {
+      "text": "Manage Medications",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Manage-Medications"
+    },
+    {
+      "text": "Procedures and Investigations",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Procedures-and-Investigations"
+    },
+    {
+      "text": "Diverse Settings",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Diverse-Settings"
+    },
+    {
+      "text": "Diverse Population Groups",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Diverse-Population-Groups"
+    },
+    {
+      "text": "Syringe Drivers",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Syringe-Drivers"
+    },
+    {
+      "text": "Information and Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Information-and-Resources"
+    },
+    {
+      "text": "Work Together",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Work-Together"
+    },
+    {
+      "text": "Respond to Deterioration",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Respond-to-Deterioration"
+    },
+    {
+      "text": "Manage Dying",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Manage-Dying"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Bereavement"
+    },
+    {
+      "text": "Business and Practice Management",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management"
+    },
+    {
+      "text": "Funding Streams",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams"
+    },
+    {
+      "text": "Medicare Benefits Scheme",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/Medicare-Benefits-Scheme"
+    },
+    {
+      "text": "General Practice in Aged Care Incentive",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/General-Practice-in-Aged-Care-Incentive"
+    },
+    {
+      "text": "MyMedicare",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/MyMedicare"
+    },
+    {
+      "text": "Digital Tools",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools"
+    },
+    {
+      "text": "My Health Record",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/My-Health-Record"
+    },
+    {
+      "text": "HealthPathways",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/HealthPathways"
+    },
+    {
+      "text": "ELDAC Digital Dashboard",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/ELDAC-Digital-Dashboard"
+    },
+    {
+      "text": "Older Person, Family and Carer Support",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support"
+    },
+    {
+      "text": "Information and Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Information-and-Resources"
+    },
+    {
+      "text": "Feedback Mechanisms",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Feedback-Mechanisms"
+    },
+    {
+      "text": "Caring for Diverse Populations",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Caring-for-Diverse-Populations"
+    },
+    {
+      "text": "Team Support",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Team-Support"
+    },
+    {
+      "text": "Organisational Support",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Organisational-Support"
+    },
+    {
+      "text": "Continuing Professional Development",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development"
+    },
+    {
+      "text": "For Nurses",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-Nurses"
+    },
+    {
+      "text": "For GPs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-GPs"
+    },
+    {
+      "text": "For Practice Managers",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-Practice-Managers"
+    },
+    {
+      "text": "Home Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care"
+    },
+    {
+      "text": "Clinical Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care"
+    },
+    {
+      "text": "Advance Care Planning",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Advance-Care-Planning"
+    },
+    {
+      "text": "Recognise End of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Recognise-End-of-Life"
+    },
+    {
+      "text": "Assess Palliative Care Needs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Assess-Palliative-Care-Needs"
+    },
+    {
+      "text": "Provide Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Provide-Palliative-Care"
+    },
+    {
+      "text": "Work Together",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Work-Together"
+    },
+    {
+      "text": "Respond to Deterioration",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Respond-to-Deterioration"
+    },
+    {
+      "text": "Manage Dying",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Manage-Dying"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Bereavement"
+    },
+    {
+      "text": "Assess Your Knowledge",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Assess-Your-Knowledge"
+    },
+    {
+      "text": "Organisational Support",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support"
+    },
+    {
+      "text": "Getting Started",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Getting-Started"
+    },
+    {
+      "text": "Quality Improvement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Quality-Improvement"
+    },
+    {
+      "text": "Aged Care Act",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Aged-Care-Act"
+    },
+    {
+      "text": "Strengthened Aged Care Quality Standards",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Strengthened-Aged-Care-Quality-Standards"
+    },
+    {
+      "text": "Funding",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Funding"
+    },
+    {
+      "text": "Practice Exemplars",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Practice-Exemplars"
+    },
+    {
+      "text": "Residential Aged Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care"
+    },
+    {
+      "text": "Clinical Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care"
+    },
+    {
+      "text": "Advance Care Planning",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Advance-Care-Planning"
+    },
+    {
+      "text": "Recognise End of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Recognise-End-of-Life"
+    },
+    {
+      "text": "Assess Palliative Care Needs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Assess-Palliative-Care-Needs"
+    },
+    {
+      "text": "Provide Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Provide-Palliative-Care"
+    },
+    {
+      "text": "Work Together",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Work-Together"
+    },
+    {
+      "text": "Respond to Deterioration",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Respond-to-Deterioration"
+    },
+    {
+      "text": "Manage Dying",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Manage-Dying"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Bereavement"
+    },
+    {
+      "text": "Assess Your Knowledge",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Assess-Your-Knowledge"
+    },
+    {
+      "text": "Organisational Support",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support"
+    },
+    {
+      "text": "Getting Started",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Getting-Started"
+    },
+    {
+      "text": "Quality Improvement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Quality-Improvement"
+    },
+    {
+      "text": "Aged Care Act",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Aged-Care-Act"
+    },
+    {
+      "text": "Aged Care Quality Standards",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Aged-Care-Quality-Standards"
+    },
+    {
+      "text": "Funding",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Funding"
+    },
+    {
+      "text": "Practice Exemplars",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Practice-Exemplars"
+    },
+    {
+      "text": "End of Life Law",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law"
+    },
+    {
+      "text": "Overview of End of Life Law in Australia",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia"
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia/FAQs"
+    },
+    {
+      "text": "State and Territory End of Life Law",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia/State-and-Territory-End-of-Life-Law"
+    },
+    {
+      "text": "Capacity and Consent to Medical Treatment",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Overview"
+    },
+    {
+      "text": "Factsheets",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Factsheets"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Case-Study"
+    },
+    {
+      "text": "Advance Care Directives",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Case-Study"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Resources"
+    },
+    {
+      "text": "Substitute Decision-Making",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Case-Study"
+    },
+    {
+      "text": "Withholding and Withdrawing Life-Sustaining Medical Treatment",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Case-Study"
+    },
+    {
+      "text": "Legal Protection for Administering Pain and Symptom Relief",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Case-Study"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Resources"
+    },
+    {
+      "text": "Futile or Non-Beneficial Treatment",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Case-Study"
+    },
+    {
+      "text": "Urgent Medical Treatment",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Case-Study"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Resources"
+    },
+    {
+      "text": "Managing Disputes about Medical Treatment Decision-Making",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making"
+    },
+    {
+      "text": "Factsheet",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Factsheet"
+    },
+    {
+      "text": "Mythbusters",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Mythbusters"
+    },
+    {
+      "text": "Case Study",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Case-Study"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Resources"
+    },
+    {
+      "text": "Voluntary Assisted Dying",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Overview"
+    },
+    {
+      "text": "Factsheets",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Factsheets"
+    },
+    {
+      "text": "FAQs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/FAQs"
+    },
+    {
+      "text": "Resources",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Resources"
+    },
+    {
+      "text": "Linkages",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages"
+    },
+    {
+      "text": "Why a Toolkit on Linkages",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/Why-a-Toolkit-on-Linkages"
+    },
+    {
+      "text": "Plan – Identifying and Preparing",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/Plan-Identifying-and-Preparing"
+    },
+    {
+      "text": "Do – Implementing",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/Do-Implementing"
+    },
+    {
+      "text": "Check – Assessing and Revising",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/Check-Assessing-and-Revising"
+    },
+    {
+      "text": "Act – Sustaining",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/Act-Sustaining"
+    },
+    {
+      "text": "References",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Linkages/References"
+    },
+    {
+      "text": "Dementia",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia"
+    },
+    {
+      "text": "Clinical Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care"
+    },
+    {
+      "text": "Advance Care Planning",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Advance-Care-Planning"
+    },
+    {
+      "text": "Recognise End of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Recognise-End-of-Life"
+    },
+    {
+      "text": "Assess Palliative Care Needs",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Assess-Palliative-Care-Needs"
+    },
+    {
+      "text": "Provide Palliative Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Provide-Palliative-Care"
+    },
+    {
+      "text": "Work Together",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Work-Together"
+    },
+    {
+      "text": "Respond to Deterioration",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Respond-to-Deterioration"
+    },
+    {
+      "text": "Manage Dying",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Manage-Dying"
+    },
+    {
+      "text": "Bereavement",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Bereavement"
+    },
+    {
+      "text": "Assess Your Knowledge",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Assess-Your-Knowledge"
+    },
+    {
+      "text": "Practice Exemplars",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Dementia/Practice-Exemplars"
+    },
+    {
+      "text": "Allied Health",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health"
+    },
+    {
+      "text": "About This Toolkit",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/About-This-Toolkit"
+    },
+    {
+      "text": "End of Life Care in Aged Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/About-This-Toolkit/End-of-Life-Care-in-Aged-Care"
+    },
+    {
+      "text": "Practising in Aged Care",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care"
+    },
+    {
+      "text": "Allied Health Team",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Allied-Health-Team"
+    },
+    {
+      "text": "Practice Tools",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Practice-Tools"
+    },
+    {
+      "text": "Referral Pathways",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Referral-Pathways"
+    },
+    {
+      "text": "Funding Allied Health Services",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Funding-Allied-Health-Services"
+    },
+    {
+      "text": "Supporting older adults with disability funding",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Funding-Allied-Health-Services/Supporting-older-adults-with-disability-funding"
+    },
+    {
+      "text": "Telehealth",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Telehealth"
+    },
+    {
+      "text": "Allied Health Regulatory Bodies",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Allied-Health-Regulatory-Bodies"
+    },
+    {
+      "text": "Guidance and Research",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research"
+    },
+    {
+      "text": "Discipline specific evidence",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research/Discipline-specific-evidence"
+    },
+    {
+      "text": "Useful Websites",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research/Useful-Websites"
+    },
+    {
+      "text": "Hot Topics",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics"
+    },
+    {
+      "text": "Hot Topic 1 - EDAR",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-1-EDAR"
+    },
+    {
+      "text": "Hot Topic 2 - VAD",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-2-VAD"
+    },
+    {
+      "text": "Hot Topic 3 - End-of-Life Conversations",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-3-End-of-Life-Conversations"
+    },
+    {
+      "text": "Hot Topic 4 - My Health Record",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-4-My-Health-Record"
+    },
+    {
+      "text": "Managing Risk",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk"
+    },
+    {
+      "text": "Principles of Risk Management",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Principles-of-Risk-Management"
+    },
+    {
+      "text": "Nutrition and Hydration",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Overview"
+    },
+    {
+      "text": "Personal Preferences",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Personal-Preferences"
+    },
+    {
+      "text": "Ongoing Assessment",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Ongoing-Assessment"
+    },
+    {
+      "text": "Support the Person",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Support-the-Person"
+    },
+    {
+      "text": "The Last Days of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/The-Last-Days-of-Life"
+    },
+    {
+      "text": "Good Communication",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Good-Communication"
+    },
+    {
+      "text": "Medication Management",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Overview"
+    },
+    {
+      "text": "Personal Preferences",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Personal-Preferences"
+    },
+    {
+      "text": "Medication Needs, Goals and Preferences",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Medication-Needs-Goals-and-Preferences"
+    },
+    {
+      "text": "Changes in Symptoms",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Changes-in-Symptoms"
+    },
+    {
+      "text": "Managing Pain at End of Life",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Managing-Pain-at-End-of-Life"
+    },
+    {
+      "text": "Good Communication",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Good-Communication"
+    },
+    {
+      "text": "Transfers",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers"
+    },
+    {
+      "text": "Overview",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Overview"
+    },
+    {
+      "text": "Personal Preferences",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Personal-Preferences"
+    },
+    {
+      "text": "Unintended and Unnecessary Transfers",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Unintended-and-Unnecessary-Transfers"
+    },
+    {
+      "text": "Planning, Risk Assessment and Communication",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Planning-Risk-Assessment-and-Communication"
+    },
+    {
+      "text": "Continuity of Care Between Settings",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Continuity-of-Care-Between-Settings"
+    },
+    {
+      "text": "Toolkit Educational Videos",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Toolkit-Educational-Videos"
+    },
+    {
+      "text": "Service Development",
+      "url": "https://www.eldac.com.au/Service-Development"
+    },
+    {
+      "text": "Linkages Program",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program"
+    },
+    {
+      "text": "Expressions of Interest",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Expressions-of-Interest"
+    },
+    {
+      "text": "Linkage Strategies",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Linkage-Strategies"
+    },
+    {
+      "text": "Case Stories",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Case-Stories"
+    },
+    {
+      "text": "Participating Sites",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites"
+    },
+    {
+      "text": "QLD",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/QLD"
+    },
+    {
+      "text": "NSW",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/NSW"
+    },
+    {
+      "text": "ACT",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/ACT"
+    },
+    {
+      "text": "VIC",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/VIC"
+    },
+    {
+      "text": "TAS",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/TAS"
+    },
+    {
+      "text": "SA",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/SA"
+    },
+    {
+      "text": "NT",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/NT"
+    },
+    {
+      "text": "WA",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/WA"
+    },
+    {
+      "text": "Linkages Program 2024 Showcase",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase"
+    },
+    {
+      "text": "2024 Showcase Presentations",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase/2024-Showcase-Presentations"
+    },
+    {
+      "text": "2023 Showcase Presentations",
+      "url": "https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase/2023-Showcase-Presentations"
+    },
+    {
+      "text": "PaCE Aged Care",
+      "url": "https://www.eldac.com.au/Service-Development/PaCE-Aged-Care"
+    },
+    {
+      "text": "ELDAC Education",
+      "url": "https://www.eldac.com.au/Service-Development/ELDAC-Education"
+    },
+    {
+      "text": "Podcast series",
+      "url": "https://www.eldac.com.au/Service-Development/ELDAC-Education/Podcast-series"
+    },
+    {
+      "text": "Webinars",
+      "url": "https://www.eldac.com.au/Service-Development/ELDAC-Education/Webinars"
+    },
+    {
+      "text": "Our Products",
+      "url": "https://www.eldac.com.au/Our-Products"
+    },
+    {
+      "text": "Digital Dashboard",
+      "url": "https://www.eldac.com.au/Our-Products/Digital-Dashboard"
+    },
+    {
+      "text": "Dashboard History",
+      "url": "https://www.eldac.com.au/Our-Products/Digital-Dashboard/Dashboard-History"
+    },
+    {
+      "text": "Our Diversity",
+      "url": "https://www.eldac.com.au/Our-Products/Our-Diversity"
+    },
+    {
+      "text": "Diverse Needs of Older People",
+      "url": "https://www.eldac.com.au/Our-Products/Our-Diversity/Diverse-Needs-of-Older-People"
+    },
+    {
+      "text": "Diversity at End of Life Matters",
+      "url": "https://www.eldac.com.au/Our-Products/Our-Diversity/Diversity-at-End-of-Life-Matters"
+    },
+    {
+      "text": "Support for Services",
+      "url": "https://www.eldac.com.au/Our-Products/Our-Diversity/Support-for-Services"
+    },
+    {
+      "text": "Diversity Resources",
+      "url": "https://www.eldac.com.au/Our-Products/Our-Diversity/Diversity-Resources"
+    },
+    {
+      "text": "Home Care App",
+      "url": "https://www.eldac.com.au/Our-Products/Home-Care-App"
+    },
+    {
+      "text": "Home Care Search Filter",
+      "url": "https://www.eldac.com.au/Our-Products/Home-Care-Search-Filter"
+    },
+    {
+      "text": "ProSeek",
+      "url": "https://www.eldac.com.au/Our-Products/ProSeek"
+    },
+    {
+      "text": "Self-care Room",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room"
+    },
+    {
+      "text": "Raise Your Understanding",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Raise-Your-Understanding"
+    },
+    {
+      "text": "Grab and Grow",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Grab-and-Grow"
+    },
+    {
+      "text": "Pause and Reflect",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Pause-and-Reflect"
+    },
+    {
+      "text": "Time to Plan",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Time-to-Plan"
+    },
+    {
+      "text": "Cope with Death and Dying",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Cope-with-Death-and-Dying"
+    },
+    {
+      "text": "For Organisations",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/For-Organisations"
+    },
+    {
+      "text": "Explore Resources",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/Explore-Resources"
+    },
+    {
+      "text": "About the Self-Care Room",
+      "url": "https://www.eldac.com.au/Our-Products/Self-care-Room/About-the-Self-Care-Room"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.eldac.com.au/About-Us"
+    },
+    {
+      "text": "Our Team",
+      "url": "https://www.eldac.com.au/About-Us/Our-Team"
+    },
+    {
+      "text": "Common Terms",
+      "url": "https://www.eldac.com.au/About-Us/Common-Terms"
+    },
+    {
+      "text": "Abbreviations",
+      "url": "https://www.eldac.com.au/About-Us/Abbreviations"
+    },
+    {
+      "text": "Publications and Presentations",
+      "url": "https://www.eldac.com.au/About-Us/Publications-and-Presentations"
+    },
+    {
+      "text": "News",
+      "url": "https://www.eldac.com.au/About-Us/News"
+    },
+    {
+      "text": "Blogs",
+      "url": "https://www.eldac.com.au/About-Us/News/Blogs"
+    },
+    {
+      "text": "Download Resources",
+      "url": "https://www.eldac.com.au/About-Us/Download-Resources"
+    },
+    {
+      "text": "Order Print Resources",
+      "url": "https://www.eldac.com.au/About-Us/Order-Print-Resources"
+    },
+    {
+      "text": "X",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/V#gomenuef4689ab72"
+    },
+    {
+      "text": "Print",
+      "url": "javascript: window.print();"
+    },
+    {
+      "text": "Watch the toolkit full video",
+      "url": "https://www.eldac.com.au/Our-Toolkits/Toolkit-Educational-Videos#Legal"
+    },
+    {
+      "text": "State and Territory End of Life Law",
+      "url": "https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law//Overview-of-End-of-Life-Law-in-Australia/State-and-Territory-End-of-Life-Law"
+    },
+    {
+      "text": "https://www.linkedin.com/company/eldac-aged-care/",
+      "url": "https://www.linkedin.com/company/eldac-aged-care/"
+    },
+    {
+      "text": "https://www.facebook.com/ELDAC.agedcare/",
+      "url": "https://www.facebook.com/ELDAC.agedcare/"
+    },
+    {
+      "text": "https://vimeo.com/eldac",
+      "url": "https://vimeo.com/eldac"
+    },
+    {
+      "text": "envelope icon",
+      "url": "https://eldac.us17.list-manage.com/subscribe?u=8d924f9643aeef9f22488fea6&id=163be74c69"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.eldac.com.au/Privacy"
+    },
+    {
+      "text": "Terms Of Use",
+      "url": "https://www.eldac.com.au/Terms"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.eldac.com.au/Home/-Privacy-Statement"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.eldac.com.au/Home/Terms-and-Conditions"
+    }
+  ],
+  "text": "End of Life Law - ELDAC\n\n|\n\nQuery Submit\n\nAll Documents Webpage Blog\n\n- Home\n\n- Our Care Model\n\n- Understanding Palliative Care\n\n- Addressing the Standards\n\n- Advance Care Planning\n\n- Recognise End of Life\n\n- Assess Palliative Care Needs\n\n- Provide Palliative Care\n\n- Work Together\n\n- Respond to Deterioration\n\n- Manage Dying\n\n- Bereavement\n\n- About You\n\n- I am a Care Worker\n\n- I am a Nurse\n\n- I am a GP or Nurse Practitioner\n\n- I am an Allied Health Professional\n\n- I am an Educator\n\n- I am a Service Manager\n\n- I am Family/Carer\n\n- Our Toolkits\n\n- Primary Care\n\n- Clinical Action\n\n- Understand Your Responsibilities\n\n- Manage Symptoms\n\n- Serious Complications and Emergencies\n\n- Manage Medications\n\n- Procedures and Investigations\n\n- Diverse Settings\n\n- Diverse Population Groups\n\n- Syringe Drivers\n\n- Information and Resources\n\n- Business and Practice Management\n\n- Funding Streams\n\n- Medicare Benefits Scheme\n\n- General Practice in Aged Care Incentive\n\n- MyMedicare\n\n- Digital Tools\n\n- My Health Record\n\n- HealthPathways\n\n- ELDAC Digital Dashboard\n\n- Older Person, Family and Carer Support\n\n- Feedback Mechanisms\n\n- Caring for Diverse Populations\n\n- Team Support\n\n- Organisational Support\n\n- Continuing Professional Development\n\n- For Nurses\n\n- For GPs\n\n- For Practice Managers\n\n- Home Care\n\n- Clinical Care\n\n- Assess Your Knowledge\n\n- Getting Started\n\n- Quality Improvement\n\n- Aged Care Act\n\n- Strengthened Aged Care Quality Standards\n\n- Funding\n\n- Practice Exemplars\n\n- Residential Aged Care\n\n- Aged Care Quality Standards\n\n- End of Life Law\n\n- Overview of End of Life Law in Australia\n\n- FAQs\n\n- State and Territory End of Life Law\n\n- Capacity and Consent to Medical Treatment\n\n- Overview\n\n- Factsheets\n\n- Mythbusters\n\n- Case Study\n\n- Advance Care Directives\n\n- Factsheet\n\n- Resources\n\n- Substitute Decision-Making\n\n- Withholding and Withdrawing Life-Sustaining Medical Treatment\n\n- Legal Protection for Administering Pain and Symptom Relief\n\n- Futile or Non-Beneficial Treatment\n\n- Urgent Medical Treatment\n\n- Managing Disputes about Medical Treatment Decision-Making\n\n- Voluntary Assisted Dying\n\n- Linkages\n\n- Why a Toolkit on Linkages\n\n- Plan – Identifying and Preparing\n\n- Do – Implementing\n\n- Check – Assessing and Revising\n\n- Act – Sustaining\n\n- References\n\n- Dementia\n\n- Allied Health\n\n- About This Toolkit\n\n- End of Life Care in Aged Care\n\n- Practising in Aged Care\n\n- Allied Health Team\n\n- Practice Tools\n\n- Referral Pathways\n\n- Funding Allied Health Services\n\n- Supporting older adults with disability funding\n\n- Telehealth\n\n- Allied Health Regulatory Bodies\n\n- Guidance and Research\n\n- Discipline specific evidence\n\n- Useful Websites\n\n- Hot Topics\n\n- Hot Topic 1 - EDAR\n\n- Hot Topic 2 - VAD\n\n- Hot Topic 3 - End-of-Life Conversations\n\n- Hot Topic 4 - My Health Record\n\n- Managing Risk\n\n- Principles of Risk Management\n\n- Nutrition and Hydration\n\n- Personal Preferences\n\n- Ongoing Assessment\n\n- Support the Person\n\n- The Last Days of Life\n\n- Good Communication\n\n- Medication Management\n\n- Medication Needs, Goals and Preferences\n\n- Changes in Symptoms\n\n- Managing Pain at End of Life\n\n- Transfers\n\n- Unintended and Unnecessary Transfers\n\n- Planning, Risk Assessment and Communication\n\n- Continuity of Care Between Settings\n\n- Toolkit Educational Videos\n\n- Service Development\n\n- Linkages Program\n\n- Expressions of Interest\n\n- Linkage Strategies\n\n- Case Stories\n\n- Participating Sites\n\n- QLD\n\n- NSW\n\n- ACT\n\n- VIC\n\n- TAS\n\n- SA\n\n- NT\n\n- WA\n\n- Linkages Program 2024 Showcase\n\n- 2024 Showcase Presentations\n\n- 2023 Showcase Presentations\n\n- PaCE Aged Care\n\n- ELDAC Education\n\n- Podcast series\n\n- Webinars\n\n- Our Products\n\n- Digital Dashboard\n\n- Dashboard History\n\n- Our Diversity\n\n- Diverse Needs of Older People\n\n- Diversity at End of Life Matters\n\n- Support for Services\n\n- Diversity Resources\n\n- Home Care App\n\n- Home Care Search Filter\n\n- ProSeek\n\n- Self-care Room\n\n- Raise Your Understanding\n\n- Grab and Grow\n\n- Pause and Reflect\n\n- Time to Plan\n\n- Cope with Death and Dying\n\n- For Organisations\n\n- Explore Resources\n\n- About the Self-Care Room\n\n- About Us\n\n- Our Team\n\n- Common Terms\n\n- Abbreviations\n\n- Publications and Presentations\n\n- News\n\n- Blogs\n\n- Download Resources\n\n- Order Print Resources\n\nX\n\n### End of Life Law\n\nOur Toolkits > End of Life Law\n\nPrint\n\n# End of Life Law Toolkit\n\nProvides practical information about the law at end of life for the aged care sector. It contains useful resources on end of life legal issues commonly encountered in aged care.\n\nWatch the toolkit full video\n\n## Overview of End of Life Law in Australia\n\n## Capacity and Consent to Medical Treatment\n\n## Advance Care Directives\n\n## Substitute Decision-Making\n\n## Withholding and Withdrawing Life-Sustaining\n\n## Legal Protection for Administering Pain and Symptom Relief\n\n## Futile or\n\nNon-Beneficial Treatment\n\n## Urgent Medical Treatment\n\n## Managing Disputes about Medical Treatment Decision-Making\n\n## Voluntary Assisted Dying\n\n## Frequently Asked Questions (FAQs)\n\n## State and Territory End of Life Law\n\nELDAC is funded by the Australian\n\nGovernment Department of Health, Disability and Ageing\n\nFollow ELDAC\n\nSign up to Newsletter\n\nenvelope icon\n\nContact us\n\neldac.project@flinders.edu.au\n\nCopyright 2026 by ELDAC | Privacy Statement | Terms Of Use\n\nCopyright ELDAC 2025 | Privacy Statement | Terms and Conditions\n\nPage last updated: 21 March 2025\n\n\n\n## Links found on page\n\n- https://www.eldac.com.au/: https://www.eldac.com.au/\n\n- Our Care Model: https://www.eldac.com.au/Our-Care-Model\n\n- Understanding Palliative Care: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care\n\n- Addressing the Standards: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Addressing-the-Standards\n\n- Advance Care Planning: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Advance-Care-Planning\n\n- Recognise End of Life: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Recognise-End-of-Life\n\n- Assess Palliative Care Needs: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Assess-Palliative-Care-Needs\n\n- Provide Palliative Care: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Provide-Palliative-Care\n\n- Work Together: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Work-Together\n\n- Respond to Deterioration: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Respond-to-Deterioration\n\n- Manage Dying: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Manage-Dying\n\n- Bereavement: https://www.eldac.com.au/Our-Care-Model/Understanding-Palliative-Care/Bereavement\n\n- About You: https://www.eldac.com.au/Our-Care-Model/About-You\n\n- I am a Care Worker: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Care-Worker\n\n- I am a Nurse: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Nurse\n\n- I am a GP or Nurse Practitioner: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-GP-or-Nurse-Practitioner\n\n- I am an Allied Health Professional: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-an-Allied-Health-Professional\n\n- I am an Educator: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-an-Educator\n\n- I am a Service Manager: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-a-Service-Manager\n\n- I am Family/Carer: https://www.eldac.com.au/Our-Care-Model/About-You/I-am-Family-Carer\n\n- Our Toolkits: https://www.eldac.com.au/Our-Toolkits\n\n- Primary Care: https://www.eldac.com.au/Our-Toolkits/Primary-Care\n\n- Clinical Action: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action\n\n- Advance Care Planning: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Advance-Care-Planning\n\n- Recognise End of Life: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Recognise-End-of-Life\n\n- Assess Palliative Care Needs: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Assess-Palliative-Care-Needs\n\n- Provide Palliative Care: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care\n\n- Understand Your Responsibilities: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Understand-Your-Responsibilities\n\n- Manage Symptoms: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Manage-Symptoms\n\n- Serious Complications and Emergencies: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Serious-Complications-and-Emergencies\n\n- Manage Medications: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Manage-Medications\n\n- Procedures and Investigations: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Procedures-and-Investigations\n\n- Diverse Settings: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Diverse-Settings\n\n- Diverse Population Groups: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Diverse-Population-Groups\n\n- Syringe Drivers: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Syringe-Drivers\n\n- Information and Resources: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Provide-Palliative-Care/Information-and-Resources\n\n- Work Together: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Work-Together\n\n- Respond to Deterioration: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Respond-to-Deterioration\n\n- Manage Dying: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Manage-Dying\n\n- Bereavement: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Clinical-Action/Bereavement\n\n- Business and Practice Management: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management\n\n- Funding Streams: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams\n\n- Medicare Benefits Scheme: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/Medicare-Benefits-Scheme\n\n- General Practice in Aged Care Incentive: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/General-Practice-in-Aged-Care-Incentive\n\n- MyMedicare: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Funding-Streams/MyMedicare\n\n- Digital Tools: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools\n\n- My Health Record: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/My-Health-Record\n\n- HealthPathways: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/HealthPathways\n\n- ELDAC Digital Dashboard: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Digital-Tools/ELDAC-Digital-Dashboard\n\n- Older Person, Family and Carer Support: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support\n\n- Information and Resources: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Information-and-Resources\n\n- Feedback Mechanisms: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Feedback-Mechanisms\n\n- Caring for Diverse Populations: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Older-Person-Family-and-Carer-Support/Caring-for-Diverse-Populations\n\n- Team Support: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Team-Support\n\n- Organisational Support: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Business-and-Practice-Management/Organisational-Support\n\n- Continuing Professional Development: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development\n\n- For Nurses: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-Nurses\n\n- For GPs: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-GPs\n\n- For Practice Managers: https://www.eldac.com.au/Our-Toolkits/Primary-Care/Continuing-Professional-Development/For-Practice-Managers\n\n- Home Care: https://www.eldac.com.au/Our-Toolkits/Home-Care\n\n- Clinical Care: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care\n\n- Advance Care Planning: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Advance-Care-Planning\n\n- Recognise End of Life: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Recognise-End-of-Life\n\n- Assess Palliative Care Needs: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Assess-Palliative-Care-Needs\n\n- Provide Palliative Care: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Provide-Palliative-Care\n\n- Work Together: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Work-Together\n\n- Respond to Deterioration: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Respond-to-Deterioration\n\n- Manage Dying: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Manage-Dying\n\n- Bereavement: https://www.eldac.com.au/Our-Toolkits/Home-Care/Clinical-Care/Bereavement\n\n- Assess Your Knowledge: https://www.eldac.com.au/Our-Toolkits/Home-Care/Assess-Your-Knowledge\n\n- Organisational Support: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support\n\n- Getting Started: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Getting-Started\n\n- Quality Improvement: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Quality-Improvement\n\n- Aged Care Act: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Aged-Care-Act\n\n- Strengthened Aged Care Quality Standards: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Strengthened-Aged-Care-Quality-Standards\n\n- Funding: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Funding\n\n- Practice Exemplars: https://www.eldac.com.au/Our-Toolkits/Home-Care/Organisational-Support/Practice-Exemplars\n\n- Residential Aged Care: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care\n\n- Clinical Care: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care\n\n- Advance Care Planning: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Advance-Care-Planning\n\n- Recognise End of Life: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Recognise-End-of-Life\n\n- Assess Palliative Care Needs: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Assess-Palliative-Care-Needs\n\n- Provide Palliative Care: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Provide-Palliative-Care\n\n- Work Together: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Work-Together\n\n- Respond to Deterioration: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Respond-to-Deterioration\n\n- Manage Dying: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Manage-Dying\n\n- Bereavement: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Clinical-Care/Bereavement\n\n- Assess Your Knowledge: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Assess-Your-Knowledge\n\n- Organisational Support: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support\n\n- Getting Started: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Getting-Started\n\n- Quality Improvement: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Quality-Improvement\n\n- Aged Care Act: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Aged-Care-Act\n\n- Aged Care Quality Standards: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Aged-Care-Quality-Standards\n\n- Funding: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Funding\n\n- Practice Exemplars: https://www.eldac.com.au/Our-Toolkits/Residential-Aged-Care/Organisational-Support/Practice-Exemplars\n\n- End of Life Law: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law\n\n- Overview of End of Life Law in Australia: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia\n\n- FAQs: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia/FAQs\n\n- State and Territory End of Life Law: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Overview-of-End-of-Life-Law-in-Australia/State-and-Territory-End-of-Life-Law\n\n- Capacity and Consent to Medical Treatment: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment\n\n- Overview: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Overview\n\n- Factsheets: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Factsheets\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Capacity-and-Consent-to-Medical-Treatment/Case-Study\n\n- Advance Care Directives: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Case-Study\n\n- Resources: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Advance-Care-Directives/Resources\n\n- Substitute Decision-Making: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Substitute-Decision-Making/Case-Study\n\n- Withholding and Withdrawing Life-Sustaining Medical Treatment: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Withholding-and-Withdrawing-Life-Sustaining-Medical-Treatment/Case-Study\n\n- Legal Protection for Administering Pain and Symptom Relief: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Case-Study\n\n- Resources: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Legal-Protection-for-Administering-Pain-and-Symptom-Relief/Resources\n\n- Futile or Non-Beneficial Treatment: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Futile-or-Non-Beneficial-Treatment/Case-Study\n\n- Urgent Medical Treatment: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Case-Study\n\n- Resources: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Urgent-Medical-Treatment/Resources\n\n- Managing Disputes about Medical Treatment Decision-Making: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making\n\n- Factsheet: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Factsheet\n\n- Mythbusters: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Mythbusters\n\n- Case Study: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Case-Study\n\n- Resources: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Managing-Disputes-about-Medical-Treatment-Decision-Making/Resources\n\n- Voluntary Assisted Dying: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying\n\n- Overview: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Overview\n\n- Factsheets: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Factsheets\n\n- FAQs: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/FAQs\n\n- Resources: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/Voluntary-Assisted-Dying/Resources\n\n- Linkages: https://www.eldac.com.au/Our-Toolkits/Linkages\n\n- Why a Toolkit on Linkages: https://www.eldac.com.au/Our-Toolkits/Linkages/Why-a-Toolkit-on-Linkages\n\n- Plan – Identifying and Preparing: https://www.eldac.com.au/Our-Toolkits/Linkages/Plan-Identifying-and-Preparing\n\n- Do – Implementing: https://www.eldac.com.au/Our-Toolkits/Linkages/Do-Implementing\n\n- Check – Assessing and Revising: https://www.eldac.com.au/Our-Toolkits/Linkages/Check-Assessing-and-Revising\n\n- Act – Sustaining: https://www.eldac.com.au/Our-Toolkits/Linkages/Act-Sustaining\n\n- References: https://www.eldac.com.au/Our-Toolkits/Linkages/References\n\n- Dementia: https://www.eldac.com.au/Our-Toolkits/Dementia\n\n- Clinical Care: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care\n\n- Advance Care Planning: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Advance-Care-Planning\n\n- Recognise End of Life: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Recognise-End-of-Life\n\n- Assess Palliative Care Needs: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Assess-Palliative-Care-Needs\n\n- Provide Palliative Care: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Provide-Palliative-Care\n\n- Work Together: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Work-Together\n\n- Respond to Deterioration: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Respond-to-Deterioration\n\n- Manage Dying: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Manage-Dying\n\n- Bereavement: https://www.eldac.com.au/Our-Toolkits/Dementia/Clinical-Care/Bereavement\n\n- Assess Your Knowledge: https://www.eldac.com.au/Our-Toolkits/Dementia/Assess-Your-Knowledge\n\n- Practice Exemplars: https://www.eldac.com.au/Our-Toolkits/Dementia/Practice-Exemplars\n\n- Allied Health: https://www.eldac.com.au/Our-Toolkits/Allied-Health\n\n- About This Toolkit: https://www.eldac.com.au/Our-Toolkits/Allied-Health/About-This-Toolkit\n\n- End of Life Care in Aged Care: https://www.eldac.com.au/Our-Toolkits/Allied-Health/About-This-Toolkit/End-of-Life-Care-in-Aged-Care\n\n- Practising in Aged Care: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care\n\n- Allied Health Team: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Allied-Health-Team\n\n- Practice Tools: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Practice-Tools\n\n- Referral Pathways: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Referral-Pathways\n\n- Funding Allied Health Services: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Funding-Allied-Health-Services\n\n- Supporting older adults with disability funding: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Funding-Allied-Health-Services/Supporting-older-adults-with-disability-funding\n\n- Telehealth: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Telehealth\n\n- Allied Health Regulatory Bodies: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Practising-in-Aged-Care/Allied-Health-Regulatory-Bodies\n\n- Guidance and Research: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research\n\n- Discipline specific evidence: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research/Discipline-specific-evidence\n\n- Useful Websites: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Guidance-and-Research/Useful-Websites\n\n- Hot Topics: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics\n\n- Hot Topic 1 - EDAR: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-1-EDAR\n\n- Hot Topic 2 - VAD: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-2-VAD\n\n- Hot Topic 3 - End-of-Life Conversations: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-3-End-of-Life-Conversations\n\n- Hot Topic 4 - My Health Record: https://www.eldac.com.au/Our-Toolkits/Allied-Health/Hot-Topics/Hot-Topic-4-My-Health-Record\n\n- Managing Risk: https://www.eldac.com.au/Our-Toolkits/Managing-Risk\n\n- Principles of Risk Management: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Principles-of-Risk-Management\n\n- Nutrition and Hydration: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration\n\n- Overview: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Overview\n\n- Personal Preferences: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Personal-Preferences\n\n- Ongoing Assessment: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Ongoing-Assessment\n\n- Support the Person: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Support-the-Person\n\n- The Last Days of Life: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/The-Last-Days-of-Life\n\n- Good Communication: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Nutrition-and-Hydration/Good-Communication\n\n- Medication Management: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management\n\n- Overview: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Overview\n\n- Personal Preferences: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Personal-Preferences\n\n- Medication Needs, Goals and Preferences: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Medication-Needs-Goals-and-Preferences\n\n- Changes in Symptoms: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Changes-in-Symptoms\n\n- Managing Pain at End of Life: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Managing-Pain-at-End-of-Life\n\n- Good Communication: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Medication-Management/Good-Communication\n\n- Transfers: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers\n\n- Overview: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Overview\n\n- Personal Preferences: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Personal-Preferences\n\n- Unintended and Unnecessary Transfers: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Unintended-and-Unnecessary-Transfers\n\n- Planning, Risk Assessment and Communication: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Planning-Risk-Assessment-and-Communication\n\n- Continuity of Care Between Settings: https://www.eldac.com.au/Our-Toolkits/Managing-Risk/Transfers/Continuity-of-Care-Between-Settings\n\n- Toolkit Educational Videos: https://www.eldac.com.au/Our-Toolkits/Toolkit-Educational-Videos\n\n- Service Development: https://www.eldac.com.au/Service-Development\n\n- Linkages Program: https://www.eldac.com.au/Service-Development/Linkages-Program\n\n- Expressions of Interest: https://www.eldac.com.au/Service-Development/Linkages-Program/Expressions-of-Interest\n\n- Linkage Strategies: https://www.eldac.com.au/Service-Development/Linkages-Program/Linkage-Strategies\n\n- Case Stories: https://www.eldac.com.au/Service-Development/Linkages-Program/Case-Stories\n\n- Participating Sites: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites\n\n- QLD: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/QLD\n\n- NSW: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/NSW\n\n- ACT: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/ACT\n\n- VIC: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/VIC\n\n- TAS: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/TAS\n\n- SA: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/SA\n\n- NT: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/NT\n\n- WA: https://www.eldac.com.au/Service-Development/Linkages-Program/Participating-Sites/WA\n\n- Linkages Program 2024 Showcase: https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase\n\n- 2024 Showcase Presentations: https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase/2024-Showcase-Presentations\n\n- 2023 Showcase Presentations: https://www.eldac.com.au/Service-Development/Linkages-Program/Linkages-Program-2024-Showcase/2023-Showcase-Presentations\n\n- PaCE Aged Care: https://www.eldac.com.au/Service-Development/PaCE-Aged-Care\n\n- ELDAC Education: https://www.eldac.com.au/Service-Development/ELDAC-Education\n\n- Podcast series: https://www.eldac.com.au/Service-Development/ELDAC-Education/Podcast-series\n\n- Webinars: https://www.eldac.com.au/Service-Development/ELDAC-Education/Webinars\n\n- Our Products: https://www.eldac.com.au/Our-Products\n\n- Digital Dashboard: https://www.eldac.com.au/Our-Products/Digital-Dashboard\n\n- Dashboard History: https://www.eldac.com.au/Our-Products/Digital-Dashboard/Dashboard-History\n\n- Our Diversity: https://www.eldac.com.au/Our-Products/Our-Diversity\n\n- Diverse Needs of Older People: https://www.eldac.com.au/Our-Products/Our-Diversity/Diverse-Needs-of-Older-People\n\n- Diversity at End of Life Matters: https://www.eldac.com.au/Our-Products/Our-Diversity/Diversity-at-End-of-Life-Matters\n\n- Support for Services: https://www.eldac.com.au/Our-Products/Our-Diversity/Support-for-Services\n\n- Diversity Resources: https://www.eldac.com.au/Our-Products/Our-Diversity/Diversity-Resources\n\n- Home Care App: https://www.eldac.com.au/Our-Products/Home-Care-App\n\n- Home Care Search Filter: https://www.eldac.com.au/Our-Products/Home-Care-Search-Filter\n\n- ProSeek: https://www.eldac.com.au/Our-Products/ProSeek\n\n- Self-care Room: https://www.eldac.com.au/Our-Products/Self-care-Room\n\n- Raise Your Understanding: https://www.eldac.com.au/Our-Products/Self-care-Room/Raise-Your-Understanding\n\n- Grab and Grow: https://www.eldac.com.au/Our-Products/Self-care-Room/Grab-and-Grow\n\n- Pause and Reflect: https://www.eldac.com.au/Our-Products/Self-care-Room/Pause-and-Reflect\n\n- Time to Plan: https://www.eldac.com.au/Our-Products/Self-care-Room/Time-to-Plan\n\n- Cope with Death and Dying: https://www.eldac.com.au/Our-Products/Self-care-Room/Cope-with-Death-and-Dying\n\n- For Organisations: https://www.eldac.com.au/Our-Products/Self-care-Room/For-Organisations\n\n- Explore Resources: https://www.eldac.com.au/Our-Products/Self-care-Room/Explore-Resources\n\n- About the Self-Care Room: https://www.eldac.com.au/Our-Products/Self-care-Room/About-the-Self-Care-Room\n\n- About Us: https://www.eldac.com.au/About-Us\n\n- Our Team: https://www.eldac.com.au/About-Us/Our-Team\n\n- Common Terms: https://www.eldac.com.au/About-Us/Common-Terms\n\n- Abbreviations: https://www.eldac.com.au/About-Us/Abbreviations\n\n- Publications and Presentations: https://www.eldac.com.au/About-Us/Publications-and-Presentations\n\n- News: https://www.eldac.com.au/About-Us/News\n\n- Blogs: https://www.eldac.com.au/About-Us/News/Blogs\n\n- Download Resources: https://www.eldac.com.au/About-Us/Download-Resources\n\n- Order Print Resources: https://www.eldac.com.au/About-Us/Order-Print-Resources\n\n- X: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law/V#gomenuef4689ab72\n\n- Print: javascript: window.print();\n\n- Watch the toolkit full video: https://www.eldac.com.au/Our-Toolkits/Toolkit-Educational-Videos#Legal\n\n- State and Territory End of Life Law: https://www.eldac.com.au/Our-Toolkits/End-of-Life-Law//Overview-of-End-of-Life-Law-in-Australia/State-and-Territory-End-of-Life-Law\n\n- https://www.linkedin.com/company/eldac-aged-care/: https://www.linkedin.com/company/eldac-aged-care/\n\n- https://www.facebook.com/ELDAC.agedcare/: https://www.facebook.com/ELDAC.agedcare/\n\n- https://vimeo.com/eldac: https://vimeo.com/eldac\n\n- envelope icon: https://eldac.us17.list-manage.com/subscribe?u=8d924f9643aeef9f22488fea6&id=163be74c69\n\n- Privacy Statement: https://www.eldac.com.au/Privacy\n\n- Terms Of Use: https://www.eldac.com.au/Terms\n\n- Privacy Statement: https://www.eldac.com.au/Home/-Privacy-Statement\n\n- Terms and Conditions: https://www.eldac.com.au/Home/Terms-and-Conditions"
+}

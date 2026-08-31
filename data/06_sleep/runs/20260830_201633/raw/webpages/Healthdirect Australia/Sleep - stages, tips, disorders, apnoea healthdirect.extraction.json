@@ -1,0 +1,715 @@
+{
+  "source_id": "healthdirect:sleep",
+  "title": "Sleep - stages, tips, disorders, apnoea | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/sleep",
+  "retrieved_at": "2026-08-30",
+  "topic": "Sleep",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 37275,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/sleep",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/sleep#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/sleep#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/sleep#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/sleep#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "What is sleep?",
+      "url": "https://www.healthdirect.gov.au/sleep#what-is"
+    },
+    {
+      "text": "What are the stages of sleep?",
+      "url": "https://www.healthdirect.gov.au/sleep#stages"
+    },
+    {
+      "text": "Why is sleep important?",
+      "url": "https://www.healthdirect.gov.au/sleep#why"
+    },
+    {
+      "text": "How much sleep do I need?",
+      "url": "https://www.healthdirect.gov.au/sleep#how-much"
+    },
+    {
+      "text": "What can happen if you don’t get enough sleep?",
+      "url": "https://www.healthdirect.gov.au/sleep#not-enough"
+    },
+    {
+      "text": "How can I improve my sleep?",
+      "url": "https://www.healthdirect.gov.au/sleep#improve-sleep"
+    },
+    {
+      "text": "How do I sleep well if I’m a shiftworker?",
+      "url": "https://www.healthdirect.gov.au/sleep#shift-work"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/sleep#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/sleep#searchGeneralResults"
+    },
+    {
+      "text": "disorders",
+      "url": "https://www.healthdirect.gov.au/sleep-disorders"
+    },
+    {
+      "text": "wellbeing",
+      "url": "https://www.healthdirect.gov.au/mental-health-and-wellbeing"
+    },
+    {
+      "text": "jet lag",
+      "url": "https://www.healthdirect.gov.au/jet-lag"
+    },
+    {
+      "text": "memories",
+      "url": "https://www.healthdirect.gov.au/worried-about-your-memory"
+    },
+    {
+      "text": "cognitive abilities",
+      "url": "https://www.healthdirect.gov.au/cognitive-impairment"
+    },
+    {
+      "text": "immune system strong",
+      "url": "https://www.healthdirect.gov.au/immune-system"
+    },
+    {
+      "text": "heart",
+      "url": "https://www.healthdirect.gov.au/heart"
+    },
+    {
+      "text": "blood vessels",
+      "url": "https://www.healthdirect.gov.au/blood-and-blood-vessels"
+    },
+    {
+      "text": "appetite",
+      "url": "https://www.healthdirect.gov.au/changes-to-your-appetite"
+    },
+    {
+      "text": "Children",
+      "url": "https://www.healthdirect.gov.au/sleep-tips-for-children"
+    },
+    {
+      "text": "teenagers",
+      "url": "https://www.healthdirect.gov.au/teenagers-health"
+    },
+    {
+      "text": "chronic diseases",
+      "url": "https://www.healthdirect.gov.au/management-of-chronic-conditions"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "heart disease,",
+      "url": "https://www.healthdirect.gov.au/heart-and-cardiovascular-conditions"
+    },
+    {
+      "text": "high blood pressure",
+      "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "your doctor",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "relaxation technique",
+      "url": "https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/how-alcohol-affects-your-health"
+    },
+    {
+      "text": "tea, coffee and caffeinated soft drinks",
+      "url": "https://www.healthdirect.gov.au/caffeine"
+    },
+    {
+      "text": "cigarettes",
+      "url": "https://www.healthdirect.gov.au/quit-smoking-vaping"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.healthdirect.gov.au/anxiety"
+    },
+    {
+      "text": "Sleeping pills",
+      "url": "https://www.healthdirect.gov.au/safe-use-of-sleeping-pills"
+    },
+    {
+      "text": "insomnia",
+      "url": "https://www.healthdirect.gov.au/insomnia"
+    },
+    {
+      "text": "sleep apnoea",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "MindSpot’s Sleep Course",
+      "url": "https://www.mindspot.org.au/treatments/sleep-course/"
+    },
+    {
+      "text": "Sleep Health Foundation",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-categories/basics-of-sleep"
+    },
+    {
+      "text": "Gidget Foundation Australia",
+      "url": "https://www.gidgetfoundation.org.au"
+    },
+    {
+      "text": "improving your sleep during pregnancy",
+      "url": "https://www.gidgetfoundation.org.au/becoming-a-parent/sleep-during-pregnancy"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/get-support/talk-to-a-counsellor"
+    },
+    {
+      "text": "Sleep Disorders Australia",
+      "url": "https://www.sleepoz.org.au"
+    },
+    {
+      "text": "sleep and shiftwork",
+      "url": "https://www.sleepoz.org.au/_files/ugd/a1218b_c4407544dfda4045a32b4665d0583879.pdf"
+    },
+    {
+      "text": "Transcultural Mental Health Centre (TMHC) Practical Guide Series",
+      "url": "https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/multilingual-resources-by-title/a-practical-guide-series"
+    },
+    {
+      "text": "(Facts about sleep)",
+      "url": "https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Sleep/Sleep---Information-Sheets/Sleep-Information-Sheet---01---Facts-About-Sleep.pdf"
+    },
+    {
+      "text": "(Dreaming)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/dreaming"
+    },
+    {
+      "text": "(Shift Work)",
+      "url": "https://www.sleepoz.org.au/_files/ugd/a1218b_3f6e2c5734574c6b8ffec703d07d4fdb.pdf"
+    },
+    {
+      "text": "(Shift Work)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-categories/shift-work"
+    },
+    {
+      "text": "(Good sleep = good health)",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Healthy%20Sleep/Good%20sleep%20good%20health"
+    },
+    {
+      "text": "(Insomnia Management Kit Sleep: Facts and hygiene)",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/da8f7a004033fcc699a4bbd30eb2c8cd/5+-+Sleep+facts+and+hygiene+2017.pdf"
+    },
+    {
+      "text": "(Workplace health, safety and wellbeing)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-categories/workplace-health-safety-wellbeing"
+    },
+    {
+      "text": "(Good sleep habits)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/sleep-hygiene-good-sleep-habits"
+    },
+    {
+      "text": "(Drowsy Driving)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/drowsy-driving"
+    },
+    {
+      "text": "(Facts About Sleep)",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-topics/facts-about-sleep"
+    },
+    {
+      "text": "(Sleep problems as a risk factor for chronic conditions)",
+      "url": "https://www.aihw.gov.au/getmedia/7e520067-05f1-4160-a38f-520bac8fc96a/aihw-phe-296.pdf"
+    },
+    {
+      "text": "(1 in 4 young Australians aren’t satisfied with their sleep)",
+      "url": "https://www.usc.edu.au/about/unisc-news/news-archive/2023/july/1-in-4-young-australians-aren-t-satisfied-with-their-sleep"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/sleep#backToTop"
+    },
+    {
+      "text": "Insomnia",
+      "url": "https://www.healthdirect.gov.au/search-results/Insomnia"
+    },
+    {
+      "text": "Sleep Disorders",
+      "url": "https://www.healthdirect.gov.au/search-results/Sleep Disorders"
+    },
+    {
+      "text": "Sleep Study - St Vincent's Lung Health Information about sleep studies. Read more on St Vincent's Hospital Lung Health website",
+      "url": "https://www.svhlunghealth.com.au/procedures/tests/sleep-study"
+    },
+    {
+      "text": "WWWT Worksheets/Strategies: Enough sleep Babies need good sleep as much as they need good nutrition. While asleep, babies rest, grow and develop. Under-slept babies tend to cry more, to be difficult to comfort and difficult to play with, and therefore do not learn well. The baby needs help to learn to sleep for at least two cycles during the day sleeps, to increase the length of night time sleeps, and to have adequate total sleep in twenty-four hours. Read more on What Were We Thinking! website",
+      "url": "https://www.whatwerewethinking.org.au/parents/enough-sleep"
+    },
+    {
+      "text": "Sleep issues | Fact sheet | Synapse Lack of sleep has a negative effect on our ability to think, mood, energy levels and appetite. The average person needs around eight hours sleep a night or will suffer from decreased concentration, energy and many other problems. Read more on Synapse website",
+      "url": "https://synapse.org.au/fact-sheet/sleeping-issues-after-a-brain-injury/"
+    },
+    {
+      "text": "Sleep bub safe | ACCC Product Safety Sleep bub safe resources aim to support Aboriginal and Torres Strait Islander families and carers with information to help bub sleep safe. Read more on ACCC Product Safety website",
+      "url": "https://www.productsafety.gov.au/about-us/our-campaigns/sleep-bub-safe"
+    },
+    {
+      "text": "How to Protect Your Sleep During Stressful Times sleepless nights have become the silent side effect of our stressful, busy lives. Here's how to protect your sleep in stressful times. Read more on This Way Up website",
+      "url": "https://thiswayup.org.au/resources/how-to-protect-your-sleep-during-stressful-times"
+    },
+    {
+      "text": "The Importance of Getting Good Sleep Has your sleep been unsatisfying on more nights than not? Here is the importance of good sleep Read more on This Way Up website",
+      "url": "https://thiswayup.org.au/resources/the-importance-of-good-sleep"
+    },
+    {
+      "text": "Sleep - WellMob Our bodies and brains need a good night sleep to repair, grow and give us energy for a new day. There are lots of things we can do to make sure we get enough sleep to feel deadly! Read more on WellMob website",
+      "url": "https://wellmob.org.au/e-health-topics/body/sleep/"
+    },
+    {
+      "text": "Baby Sleep Tips | Karitane Settling & Routine Advice Learn how to support your baby’s sleep with Karitane. Get expert advice on sleep patterns, settling techniques, and bedtime routines. Read more on Karitane website",
+      "url": "https://karitane.com.au/baby/baby-sleep/"
+    },
+    {
+      "text": "Dementia-related Sleep Disturbances and Sundowning Sleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dementia-related-sleep-disturbances"
+    },
+    {
+      "text": "Sleep Management: How to Advise Patients Our bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/sleep-management"
+    },
+    {
+      "text": "RACGP - Sleep and sleep-related disorders Sufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/miscellaneous/sleep-and-sleep-related-disorders"
+    },
+    {
+      "text": "Safe Sleep And Safer Pregnancy Overview Page For Professionals Resources, support and Information to support Health Professionals and Early Childhood Educators Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/"
+    },
+    {
+      "text": "Safe Sleep FAQs For Health Professionals Whether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-health-professionals/"
+    },
+    {
+      "text": "Safe Sleep FAQs For Early Childhood Educators These Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals. Read more on Red Nose information for Health Professionals website",
+      "url": "https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-early-childhood-educators/"
+    },
+    {
+      "text": "Sleep and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website",
+      "url": "https://www.orygen.org.au/Training/Resources/Physical-and-sexual-health/Fact-sheets/Sleep-young-people"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Sleep - stages, tips, disorders, apnoea | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Sleep\n\n10-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Sleep is an essential function for all humans and animals, just like air, water and food.\n\n- Sleep is important for your physical and emotional health and wellbeing.\n\n- Your sleep consists of cycles lasting 90 minutes, divided into 2 stages — rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep.\n\n- If you do not get enough sleep, you are at an increased risk of developing some chronic (long term) health conditions, having a stroke and having impaired reaction times, which makes driving very dangerous.\n\n- Adopting good sleep habits can help you get more sleep and improve the quality of your sleep.\n\n## On this page\n\n- What is sleep?\n\n- What are the stages of sleep?\n\n- Why is sleep important?\n\n- How much sleep do I need?\n\n- What can happen if you don’t get enough sleep?\n\n- How can I improve my sleep?\n\n- How do I sleep well if I’m a shiftworker?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is sleep?\n\nSleep is an essential function for all humans and animals, just like breathing and eating. When you sleep, your state of consciousness and responsiveness are temporarily reduced. Your body is mostly still, but your brain is active. When you sleep, your body goes through different processes that promote physical and emotional health and mental restoration.\n\nChronic sleep disturbances or disorders can have negative effects on your wellbeing and health.\n\nYour body’s circadian rhythm (or, internal biological ‘clock’) control when you feel sleepy and when you’re typically awake. If this system is disrupted — such as due to shiftwork or jet lag — you can experience sleep problems.\n\nSleep problems are common. Up to 1 in 4 young Australians are unsatisfied with their sleep. Fortunately, there are things you can do to improve your sleep.\n\n## What are the stages of sleep?\n\nYour sleep is divided into cycles that last for about 90 minutes.\n\nEach cycle is made up of 2 main phases:\n\n- rapid eye movement (REM) sleep\n\n- non-rapid eye movement (NREM) sleep\n\nDuring REM sleep:\n\n- your eyes move rapidly\n\n- your mind is very active — most vivid dreaming occurs during this stage\n\n- this stage is important for learning and creating new memories\n\nDuring NREM sleep:\n\n- you are in a deep sleep and more difficult to awaken\n\n- your body temperature drops, muscles relax and your heart rate slows\n\nAdults usually spend about 20% of their night REM sleep and the remaining 80% in NREM sleep. Babies spend at least half of their sleep time in REM sleep.\n\n## Why is sleep important?\n\nSleep is essential for your physical health and emotional wellbeing. It has many vital functions and allows your body to:\n\n- repair and regenerate tissues\n\n- consolidate memories\n\n- support your cognitive abilities such as your attention, learning and problem solving\n\n- regulate your emotions, mood and wellbeing\n\n- keep your immune system strong\n\n- keep your heart and blood vessels healthy\n\n- control your appetite and weight\n\n## How much sleep do I need?\n\nThe amount of sleep you need varies with your age, lifestyle, genetics and any individual factors.\n\nMost adults need about 7 to 9 hours of sleep each night to feel refreshed and to function at their best the next day.\n\nChildren and teenagers need more sleep than adults. As teenagers get older, they need less sleep. Most people’s sleep needs stabilise at around 20 years old.\n\nOlder people spend more time in bed, but sleep more lightly for shorter spans of time. They usually need the same amount of sleep they needed in their younger adult life.\n\n## What can happen if I do not get enough sleep?\n\nLack of sleep can have a significant impact on your short-term functioning and your long-term health.\n\nIn the short-term you may notice the following:\n\n- Your ability to concentrate and mood maybe be affected, you may be more irritable, snappy or teary — this can impact your personal and professional relationships.\n\n- You may find that you’re less productive, your ability to make decision may be slower, and your safety at work may be affected.\n\n- You may have slower reaction times, which can affect your ability to drive safely.\n\nIn the long-term, sleep deprivation can increase your risk of:\n\n- premature death\n\n- developing or worsening chronic diseases such as diabetes , heart disease, and high blood pressure\n\n- having a stroke\n\n- infections\n\n- depression\n\nSleep problems can affect your health and safety. If you’re feeling sleep deprived, see your doctor for advice.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## How can I improve my sleep?\n\nYou can improve your sleep by practicing sleep hygiene. Sleep hygiene is a set of habits and environmental factors that you can change. While you cannot make yourself fall sleep, there are changes you can make to increase your chance of getting a good night’s rest.\n\n### Stick to regular sleep patterns\n\nHelp your body establish a healthy sleep routine by going to bed and waking up at around the same time each day.\n\n### Spend the right amount of time in bed\n\nLimit your time in bed to no more than 8 hours.\n\nIf it takes you a long time to fall asleep, try going to bed later.\n\nDo not stay in bed if you are wide awake — get up and engage in a calming activity, such as reading, and avoid screens.\n\n### Use your bed for sleep, not screens\n\nComputers, phones and TV can disrupt your sleep. Your mind needs to associate being in bed with sleeping rather than watching TV or using your phone or computer.\n\n### Relax before bed\n\nEstablish a ‘buffer zone’ before bedtime when you’re not trying to solve any problems or plan the next day.\n\nFind a relaxation technique that works for you. Avoid using your computer or phone during your ‘bedtime buffer zone’.\n\n### Be comfortable in your bedroom\n\n- Your room should be the right temperature, quiet and dark.\n\n- Make sure you have comfortable bedding.\n\n- Try to keep known stressors out of your bedroom — for example, any work tools or laptops.\n\n### Avoid alcohol, caffeine and cigarettes\n\nAvoid alcohol for at least 4 hours before bed. Alcohol might initially make you sleepy. It can also disrupt your sleep cycles leading to a poorer quality sleep.\n\nAvoid tea, coffee and caffeinated soft drinks for at least 3 to 7 hours before going to bed.\n\nAvoid cigarettes for at least 2 hours before going to bed. Nicotine is a stimulant and can stop you from sleeping well.\n\n### Don’t nap\n\nSleeping during the day can make it more difficult to fall asleep at night.\n\nIf you really need to nap, limit your nap to 20 minutes.\n\nMake sure you’re awake for at least 4 hours before going back to bed.\n\n### Don’t watch the clock\n\nIf you can’t sleep, checking the time can heighten your anxiety about not sleeping. If possible, take your clock out of your bedroom.\n\n### Avoid sleeping pills\n\nSleeping pills don’t usually address the causes of poor sleep. Sleeping pills should only be prescribed by a trusted doctor who fully understands the reasons why you might be struggling to get good quality sleep.\n\nIf you have been prescribed sleeping pills, use them for as short as period as possible, and try to address any underlying causes of your sleep difficulties.\n\n### Ask for help if you need it\n\nIf you regularly wake up not feeling refreshed, usually feel restless in bed, have trouble getting to sleep or find that being tired is affecting your mood, see your doctor.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\nSteps you can take to help improve your sleep.\n\n## How do I sleep well if I’m a shiftworker?\n\nAs a shiftworker, your work hours do not follow a traditional daytime work schedule. You may be working against your natural circadian cycle which disrupts your sleep patterns. This can have a negative impact on your physical and mental health.\n\nShiftworkers often report difficulty sleeping during the day. They are more tired during and after their shifts. This can result in a poorer work performance. Therefore, it is important to establish healthy sleeping habits as much as possible.\n\nIf you are a shiftworker, here are some tips to help you sleep better:\n\n- Prioritise sleep — make time to get enough sleep and try to go to bed and wake up at the same time every day if your work allows it.\n\n- Make sure people know not to disturb you while you are trying to sleep.\n\n- Make your bedroom quiet by using ear plugs or a white noise machine or device application (app) to muffle sound.\n\n- Remove all distractions, phone calls and lights.\n\n- Avoid caffeine, sleeping pills, alcohol or nicotine before bed.\n\n- Sleep before you work rather than earlier in your day.\n\n- Expose yourself to light in the evening and during the night to help you stay alert.\n\n## Resources and support\n\nIf you think you might suffer from a sleep disorder, such as insomnia or sleep apnoea , seek advice from your doctor.\n\n- MindSpot’s Sleep Course is a free, therapist-assisted online program designed to help you improve your sleep.\n\n- Learn more about sleep at the Sleep Health Foundation .\n\n- Visit Gidget Foundation Australia for more information on improving your sleep during pregnancy .\n\n- Contact Beyond Blue if you’re struggling with depression or anxiety.\n\n- Visit Sleep Disorders Australia for more information on sleep and shiftwork .\n\n- For practical information in a range of community languages about getting a good night’s sleep visit Transcultural Mental Health Centre (TMHC) Practical Guide Series .\n\n#### Source s :\n\nSleep Health Foundation (Basics of sleep) , Centre For Clinical Interventions (Facts about sleep) , Sleep Health Foundation (Dreaming) , Sleep Disorders Australia (Shift Work) , Sleep Health Foundation (Shift Work) , SA Health (Good sleep = good health) , Drug and Alcohol Services South Australia (Insomnia Management Kit Sleep: Facts and hygiene) , Sleep Health Foundation (Workplace health, safety and wellbeing) , Sleep Heath Foundation (Good sleep habits) , Sleep Health Foundation (Drowsy Driving) , Sleep Health Foundation (Facts About Sleep) , Australian Institute of Health and Welfare (Sleep problems as a risk factor for chronic conditions) , University of Sunshine Coast Australia (1 in 4 young Australians aren’t satisfied with their sleep)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: November 2023\n\nBack To Top\n\n## Related pages\n\n- Sleep tips for children\n\n## Search our site for\n\n- Insomnia\n\n- Sleep Disorders\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Sleep Hygiene: Good Sleep Habits | Sleep Health Foundation\n\nThis is a fact sheet on Sleep Hygiene and Good Habits. There are many ways you can improve your sleep habits and achieve quality sleep.\n\nRead more on Sleep Health Foundation website\n\n### Sleep Study - St Vincent's Lung Health\n\nInformation about sleep studies.\n\nRead more on St Vincent's Hospital Lung Health website\n\n### Changes to sleep during pregnancy\n\nAlthough it is recommended that pregnant women get 7-9 hours sleep per night, it’s common for women to experience disrupted sleep patterns at various stages throughout their pregnancy. Studies show that pregnant women experience less sleep, increased wakefulness, and excessive daytime sleepiness, with around 80% of women reporting poor sleep throughout pregnancy.\n\nRead more on Gidget Foundation Australia website\n\n### WWWT Worksheets/Strategies: Enough sleep\n\nBabies need good sleep as much as they need good nutrition. While asleep, babies rest, grow and develop. Under-slept babies tend to cry more, to be difficult to comfort and difficult to play with, and therefore do not learn well. The baby needs help to learn to sleep for at least two cycles during the day sleeps, to increase the length of night time sleeps, and to have adequate total sleep in twenty-four hours.\n\nRead more on What Were We Thinking! website\n\n### Sleep issues | Fact sheet | Synapse\n\nLack of sleep has a negative effect on our ability to think, mood, energy levels and appetite. The average person needs around eight hours sleep a night or will suffer from decreased concentration, energy and many other problems.\n\nRead more on Synapse website\n\n### Sleep bub safe | ACCC Product Safety\n\nSleep bub safe resources aim to support Aboriginal and Torres Strait Islander families and carers with information to help bub sleep safe.\n\nRead more on ACCC Product Safety website\n\n### How to Protect Your Sleep During Stressful Times\n\nsleepless nights have become the silent side effect of our stressful, busy lives. Here's how to protect your sleep in stressful times.\n\nRead more on This Way Up website\n\n### The Importance of Getting Good Sleep\n\nHas your sleep been unsatisfying on more nights than not? Here is the importance of good sleep\n\n### Sleep - WellMob\n\nOur bodies and brains need a good night sleep to repair, grow and give us energy for a new day. There are lots of things we can do to make sure we get enough sleep to feel deadly!\n\nRead more on WellMob website\n\n### Baby Sleep Tips | Karitane Settling & Routine Advice\n\nLearn how to support your baby’s sleep with Karitane. Get expert advice on sleep patterns, settling techniques, and bedtime routines.\n\nRead more on Karitane website\n\nShow more\n\n### Dementia-related Sleep Disturbances and Sundowning\n\nSleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses.\n\nRead more on Ausmed Education website\n\n### Sleep Management: How to Advise Patients\n\nOur bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives.\n\n### RACGP - Sleep and sleep-related disorders\n\nSufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders\n\nRead more on RACGP website\n\n### Safe Sleep And Safer Pregnancy Overview Page For Professionals\n\nResources, support and Information to support Health Professionals and Early Childhood Educators\n\nRead more on Red Nose information for Health Professionals website\n\n### Safe Sleep FAQs For Health Professionals\n\nWhether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers\n\n### Safe Sleep FAQs For Early Childhood Educators\n\nThese Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals.\n\n### Sleep and young people - Orygen, Revolution in Mind\n\nOur Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation.\n\nRead more on Orygen website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/sleep\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep\n\n- Please enter your name: https://www.healthdirect.gov.au/sleep#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/sleep#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/sleep#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/sleep#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep\n\n- What is sleep?: https://www.healthdirect.gov.au/sleep#what-is\n\n- What are the stages of sleep?: https://www.healthdirect.gov.au/sleep#stages\n\n- Why is sleep important?: https://www.healthdirect.gov.au/sleep#why\n\n- How much sleep do I need?: https://www.healthdirect.gov.au/sleep#how-much\n\n- What can happen if you don’t get enough sleep?: https://www.healthdirect.gov.au/sleep#not-enough\n\n- How can I improve my sleep?: https://www.healthdirect.gov.au/sleep#improve-sleep\n\n- How do I sleep well if I’m a shiftworker?: https://www.healthdirect.gov.au/sleep#shift-work\n\n- Resources and support: https://www.healthdirect.gov.au/sleep#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/sleep#searchGeneralResults\n\n- disorders: https://www.healthdirect.gov.au/sleep-disorders\n\n- wellbeing: https://www.healthdirect.gov.au/mental-health-and-wellbeing\n\n- jet lag: https://www.healthdirect.gov.au/jet-lag\n\n- memories: https://www.healthdirect.gov.au/worried-about-your-memory\n\n- cognitive abilities: https://www.healthdirect.gov.au/cognitive-impairment\n\n- immune system strong: https://www.healthdirect.gov.au/immune-system\n\n- heart: https://www.healthdirect.gov.au/heart\n\n- blood vessels: https://www.healthdirect.gov.au/blood-and-blood-vessels\n\n- appetite: https://www.healthdirect.gov.au/changes-to-your-appetite\n\n- Children: https://www.healthdirect.gov.au/sleep-tips-for-children\n\n- teenagers: https://www.healthdirect.gov.au/teenagers-health\n\n- chronic diseases: https://www.healthdirect.gov.au/management-of-chronic-conditions\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- heart disease,: https://www.healthdirect.gov.au/heart-and-cardiovascular-conditions\n\n- high blood pressure: https://www.healthdirect.gov.au/high-blood-pressure-hypertension\n\n- stroke: https://www.healthdirect.gov.au/stroke\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- your doctor: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- relaxation technique: https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief\n\n- alcohol: https://www.healthdirect.gov.au/how-alcohol-affects-your-health\n\n- tea, coffee and caffeinated soft drinks: https://www.healthdirect.gov.au/caffeine\n\n- cigarettes: https://www.healthdirect.gov.au/quit-smoking-vaping\n\n- anxiety: https://www.healthdirect.gov.au/anxiety\n\n- Sleeping pills: https://www.healthdirect.gov.au/safe-use-of-sleeping-pills\n\n- insomnia: https://www.healthdirect.gov.au/insomnia\n\n- sleep apnoea: https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- MindSpot’s Sleep Course: https://www.mindspot.org.au/treatments/sleep-course/\n\n- Sleep Health Foundation: https://www.sleephealthfoundation.org.au/sleep-categories/basics-of-sleep\n\n- Gidget Foundation Australia: https://www.gidgetfoundation.org.au\n\n- improving your sleep during pregnancy: https://www.gidgetfoundation.org.au/becoming-a-parent/sleep-during-pregnancy\n\n- Beyond Blue: https://www.beyondblue.org.au/get-support/talk-to-a-counsellor\n\n- Sleep Disorders Australia: https://www.sleepoz.org.au\n\n- sleep and shiftwork: https://www.sleepoz.org.au/_files/ugd/a1218b_c4407544dfda4045a32b4665d0583879.pdf\n\n- Transcultural Mental Health Centre (TMHC) Practical Guide Series: https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/multilingual-resources-by-title/a-practical-guide-series\n\n- (Facts about sleep): https://www.cci.health.wa.gov.au/~/media/CCI/Mental-Health-Professionals/Sleep/Sleep---Information-Sheets/Sleep-Information-Sheet---01---Facts-About-Sleep.pdf\n\n- (Dreaming): https://www.sleephealthfoundation.org.au/sleep-topics/dreaming\n\n- (Shift Work): https://www.sleepoz.org.au/_files/ugd/a1218b_3f6e2c5734574c6b8ffec703d07d4fdb.pdf\n\n- (Shift Work): https://www.sleephealthfoundation.org.au/sleep-categories/shift-work\n\n- (Good sleep = good health): https://www.sahealth.sa.gov.au/wps/wcm/connect/Public%20Content/SA%20Health%20Internet/Healthy%20Living/Healthy%20Sleep/Good%20sleep%20good%20health\n\n- (Insomnia Management Kit Sleep: Facts and hygiene): https://www.sahealth.sa.gov.au/wps/wcm/connect/da8f7a004033fcc699a4bbd30eb2c8cd/5+-+Sleep+facts+and+hygiene+2017.pdf\n\n- (Workplace health, safety and wellbeing): https://www.sleephealthfoundation.org.au/sleep-categories/workplace-health-safety-wellbeing\n\n- (Good sleep habits): https://www.sleephealthfoundation.org.au/sleep-topics/sleep-hygiene-good-sleep-habits\n\n- (Drowsy Driving): https://www.sleephealthfoundation.org.au/sleep-topics/drowsy-driving\n\n- (Facts About Sleep): https://www.sleephealthfoundation.org.au/sleep-topics/facts-about-sleep\n\n- (Sleep problems as a risk factor for chronic conditions): https://www.aihw.gov.au/getmedia/7e520067-05f1-4160-a38f-520bac8fc96a/aihw-phe-296.pdf\n\n- (1 in 4 young Australians aren’t satisfied with their sleep): https://www.usc.edu.au/about/unisc-news/news-archive/2023/july/1-in-4-young-australians-aren-t-satisfied-with-their-sleep\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/sleep#backToTop\n\n- Insomnia: https://www.healthdirect.gov.au/search-results/Insomnia\n\n- Sleep Disorders: https://www.healthdirect.gov.au/search-results/Sleep Disorders\n\n- Sleep Study - St Vincent's Lung Health Information about sleep studies. Read more on St Vincent's Hospital Lung Health website: https://www.svhlunghealth.com.au/procedures/tests/sleep-study\n\n- WWWT Worksheets/Strategies: Enough sleep Babies need good sleep as much as they need good nutrition. While asleep, babies rest, grow and develop. Under-slept babies tend to cry more, to be difficult to comfort and difficult to play with, and therefore do not learn well. The baby needs help to learn to sleep for at least two cycles during the day sleeps, to increase the length of night time sleeps, and to have adequate total sleep in twenty-four hours. Read more on What Were We Thinking! website: https://www.whatwerewethinking.org.au/parents/enough-sleep\n\n- Sleep issues | Fact sheet | Synapse Lack of sleep has a negative effect on our ability to think, mood, energy levels and appetite. The average person needs around eight hours sleep a night or will suffer from decreased concentration, energy and many other problems. Read more on Synapse website: https://synapse.org.au/fact-sheet/sleeping-issues-after-a-brain-injury/\n\n- Sleep bub safe | ACCC Product Safety Sleep bub safe resources aim to support Aboriginal and Torres Strait Islander families and carers with information to help bub sleep safe. Read more on ACCC Product Safety website: https://www.productsafety.gov.au/about-us/our-campaigns/sleep-bub-safe\n\n- How to Protect Your Sleep During Stressful Times sleepless nights have become the silent side effect of our stressful, busy lives. Here's how to protect your sleep in stressful times. Read more on This Way Up website: https://thiswayup.org.au/resources/how-to-protect-your-sleep-during-stressful-times\n\n- The Importance of Getting Good Sleep Has your sleep been unsatisfying on more nights than not? Here is the importance of good sleep Read more on This Way Up website: https://thiswayup.org.au/resources/the-importance-of-good-sleep\n\n- Sleep - WellMob Our bodies and brains need a good night sleep to repair, grow and give us energy for a new day. There are lots of things we can do to make sure we get enough sleep to feel deadly! Read more on WellMob website: https://wellmob.org.au/e-health-topics/body/sleep/\n\n- Baby Sleep Tips | Karitane Settling & Routine Advice Learn how to support your baby’s sleep with Karitane. Get expert advice on sleep patterns, settling techniques, and bedtime routines. Read more on Karitane website: https://karitane.com.au/baby/baby-sleep/\n\n- Dementia-related Sleep Disturbances and Sundowning Sleep issues are among the most challenging dementia symptoms to manage. Up to 25% of people with mild or moderate dementia and 50% of people with severe dementia are affected by sleep disturbances, with these issues worsening as the condition progresses. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dementia-related-sleep-disturbances\n\n- Sleep Management: How to Advise Patients Our bodies need long periods of sleep in order to restore and rejuvenate, repair tissue, grow muscle and synthesise hormones, among other important processes. It is worth emphasising the importance of sleep to your patients. Sleep deprivation will not only hinder the healing process but may also introduce other significant health problems into their lives. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/sleep-management\n\n- RACGP - Sleep and sleep-related disorders Sufficient and good-quality sleep is essential for health and wellbeing. In prevalence studies, nearly half (48%) of all Australian adults report at least two sleep-related problems, such as inadequate sleep or sleep disorders Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/preventive-activities-in-general-practice/miscellaneous/sleep-and-sleep-related-disorders\n\n- Safe Sleep And Safer Pregnancy Overview Page For Professionals Resources, support and Information to support Health Professionals and Early Childhood Educators Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/\n\n- Safe Sleep FAQs For Health Professionals Whether you're a GP, midwife, nurse, or allied health worker, your advice can make a powerful difference to the families you support. We’ve compiled answers Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-health-professionals/\n\n- Safe Sleep FAQs For Early Childhood Educators These Safe Sleep FAQs offer clear, evidence-based answers to common questions about safe sleep and rest practices in childcare settings. Creating a safe sleep environment is a vital responsibility for early learning professionals. Read more on Red Nose information for Health Professionals website: https://rednose.org.au/for-professionals/overview/safe-sleep-and-safer-pregnancy/safe-sleep-faqs-for-early-childhood-educators/\n\n- Sleep and young people - Orygen, Revolution in Mind Our Skills & Knowledge Division concentrates on growing the capacity of Australia’s youth mental health workforce with an emphasis on accessible expertise and innovation. Read more on Orygen website: https://www.orygen.org.au/Training/Resources/Physical-and-sexual-health/Fact-sheets/Sleep-young-people\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

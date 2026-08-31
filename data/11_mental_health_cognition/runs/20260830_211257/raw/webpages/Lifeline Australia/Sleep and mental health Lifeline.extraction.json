@@ -1,0 +1,523 @@
+{
+  "source_id": "lifeline-australia:get-help-support-toolkit-techniques-and-guides-sleep-and-mental-health",
+  "title": "Sleep and mental health | Lifeline",
+  "publisher": "Lifeline Australia",
+  "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 38153,
+  "crawl_depth": 1,
+  "seed_url": "https://www.lifeline.org.au/get-help/",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health#main-content"
+    },
+    {
+      "text": "Call us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/131114"
+    },
+    {
+      "text": "Chat with us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/chat"
+    },
+    {
+      "text": "Text us ●",
+      "url": "https://www.lifeline.org.au/get-help/services/text"
+    },
+    {
+      "text": "https://www.lifeline.org.au/",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "I’m thinking about suicide",
+      "url": "https://www.lifeline.org.au/get-help/im-thinking-about-suicide"
+    },
+    {
+      "text": "I want to talk to someone",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone"
+    },
+    {
+      "text": "I'm worried about someone",
+      "url": "https://www.lifeline.org.au/get-help/im-worried-about-someone"
+    },
+    {
+      "text": "I want to explore my options",
+      "url": "https://www.lifeline.org.au/get-help/i-want-to-explore-my-options"
+    },
+    {
+      "text": "Get help home",
+      "url": "https://www.lifeline.org.au/get-help"
+    },
+    {
+      "text": "Call us 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/131114"
+    },
+    {
+      "text": "Chat to us Support 24/7 ● Service online",
+      "url": "https://www.lifeline.org.au/chat"
+    },
+    {
+      "text": "Text us 0477 13 11 14 ● Service online",
+      "url": "https://www.lifeline.org.au/text"
+    },
+    {
+      "text": "Crisis support",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support"
+    },
+    {
+      "text": "Counselling",
+      "url": "https://www.lifeline.org.au/get-help/services/counselling"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/service-finder"
+    },
+    {
+      "text": "Workplace & community training",
+      "url": "https://www.lifeline.org.au/get-help/services/workplace-and-community-training"
+    },
+    {
+      "text": "Services home",
+      "url": "https://www.lifeline.org.au/get-help/services"
+    },
+    {
+      "text": "Topics",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/topics"
+    },
+    {
+      "text": "Techniques & guides",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides"
+    },
+    {
+      "text": "Tools & apps",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps"
+    },
+    {
+      "text": "Safety planning",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/safety-planning"
+    },
+    {
+      "text": "Community perspectives",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives"
+    },
+    {
+      "text": "Fact sheets",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets"
+    },
+    {
+      "text": "Support Toolkit home",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit"
+    },
+    {
+      "text": "Sleep and mental health",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health"
+    },
+    {
+      "text": "Journaling your thoughts and feelings",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and"
+    },
+    {
+      "text": "How to do a digital detox",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox"
+    },
+    {
+      "text": "Helping friends and family",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health"
+    },
+    {
+      "text": "About Cognitive Behavioural Therapy (CBT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt"
+    },
+    {
+      "text": "Forums",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums"
+    },
+    {
+      "text": "Real stories",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories"
+    },
+    {
+      "text": "Hear from others home",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others"
+    },
+    {
+      "text": "Listen to Joe's story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.lifeline.org.au/get-involved/donate"
+    },
+    {
+      "text": "Donate to Lifeline",
+      "url": "https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline"
+    },
+    {
+      "text": "Donate in memory",
+      "url": "https://inmemory.lifeline.org.au"
+    },
+    {
+      "text": "Leave a gift in your Will",
+      "url": "https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://www.lifeline.org.au/get-involved/fundraising"
+    },
+    {
+      "text": "Fundraise for Lifeline",
+      "url": "https://fundraise.lifeline.org.au/"
+    },
+    {
+      "text": "Events",
+      "url": "https://www.lifeline.org.au/get-involved/events"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer"
+    },
+    {
+      "text": "Become a crisis supporter",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter"
+    },
+    {
+      "text": "Community volunteering",
+      "url": "https://www.lifeline.org.au/get-involved/volunteer-in-your-community"
+    },
+    {
+      "text": "Partner with us",
+      "url": "https://www.lifeline.org.au/get-involved/partner-with-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.lifeline.org.au/about-us"
+    },
+    {
+      "text": "Who we are",
+      "url": "https://www.lifeline.org.au/about-us/who-we-are"
+    },
+    {
+      "text": "Our strategy",
+      "url": "https://www.lifeline.org.au/about-us/our-strategy"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.lifeline.org.au/about-us/our-services"
+    },
+    {
+      "text": "Our impact",
+      "url": "https://www.lifeline.org.au/about-us/our-impact"
+    },
+    {
+      "text": "Our structure",
+      "url": "https://www.lifeline.org.au/about-us/our-structure"
+    },
+    {
+      "text": "Governance",
+      "url": "https://www.lifeline.org.au/about-us/governance"
+    },
+    {
+      "text": "Lived experience framework",
+      "url": "https://www.lifeline.org.au/about-us/lived-experience"
+    },
+    {
+      "text": "Our research",
+      "url": "https://www.lifeline.org.au/about/our-research"
+    },
+    {
+      "text": "Data & statistics",
+      "url": "https://www.lifeline.org.au/about/our-research/data-and-statistics"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.lifeline.org.au/about/our-research/research-and-reports"
+    },
+    {
+      "text": "Our partners",
+      "url": "https://www.lifeline.org.au/about/our-partners"
+    },
+    {
+      "text": "Government supporters",
+      "url": "https://www.lifeline.org.au/about/our-partners/government-supporters"
+    },
+    {
+      "text": "Corporate partners",
+      "url": "https://www.lifeline.org.au/about/our-partners/our-corporate-partners"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.lifeline.org.au/about/contact-us"
+    },
+    {
+      "text": "Lifeline locations",
+      "url": "https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you"
+    },
+    {
+      "text": "News & media",
+      "url": "https://www.lifeline.org.au/about/news-and-media"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.lifeline.org.au/about/careers"
+    },
+    {
+      "text": "Shop merchandise",
+      "url": "https://lifelineaustralia.infoservices.com.au"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://fundraise.lifeline.org.au"
+    },
+    {
+      "text": "Urgent Crisis Support",
+      "url": "https://www.lifeline.org.au/urgent-crisis-support"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.lifeline.org.au/topics/stress/what-is-stress"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/what-is-anxiety"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.lifeline.org.au/topics/depression/what-is-depression"
+    },
+    {
+      "text": "financial stress",
+      "url": "https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress"
+    },
+    {
+      "text": "relationship problems",
+      "url": "https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships"
+    },
+    {
+      "text": "loss of a loved one",
+      "url": "https://www.lifeline.org.au/topics/grief-loss/what-is-grief"
+    },
+    {
+      "text": "insomnia",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/insomnia-2"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety"
+    },
+    {
+      "text": "panic attacks",
+      "url": "https://www.lifeline.org.au/topics/panic-attacks/symptoms-of-a-panic-attack"
+    },
+    {
+      "text": "psychosis",
+      "url": "https://www.lifeline.org.au/topics/psychotic-illness/feelings-and-effects-of-psychosis"
+    },
+    {
+      "text": "Loneliness",
+      "url": "https://www.lifeline.org.au/topics/loneliness/what-is-loneliness"
+    },
+    {
+      "text": "psychosis",
+      "url": "https://www.lifeline.org.au/topics/psychotic-illness/what-is-psychosis"
+    },
+    {
+      "text": "Suicidal thoughts",
+      "url": "https://www.lifeline.org.au/topics/suicide/what-is-suicide"
+    },
+    {
+      "text": "SleepHealth Foundation website",
+      "url": "https://www.sleephealthfoundation.org.au/all-sleep-disorders"
+    },
+    {
+      "text": "restless leg syndrome",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/restless-legs-syndrome"
+    },
+    {
+      "text": "sleep apnoea",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/central-sleep-apnoea-csa"
+    },
+    {
+      "text": "excessive daytime sleepiness",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/excessive-daytime-sleepiness"
+    },
+    {
+      "text": "contact Lifeline",
+      "url": "https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support"
+    },
+    {
+      "text": "text",
+      "url": "https://www.lifeline.org.au/crisis-text/"
+    },
+    {
+      "text": "chat",
+      "url": "https://www.lifeline.org.au/crisis-chat/"
+    },
+    {
+      "text": "ending a relationship",
+      "url": "https://www.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships"
+    },
+    {
+      "text": "sleep tips for parents and caregivers",
+      "url": "https://toolkit.lifeline.org.au/articles/techniques/sleep-and-mental-health#sleep-tips-for-parents-and-caregivers"
+    },
+    {
+      "text": "Contact Tresillian",
+      "url": "https://www.lifeline.org.au/get-help/national-services/tresillian"
+    },
+    {
+      "text": "Mental Health Treatment Plan",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to"
+    },
+    {
+      "text": "intrusive thoughts",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts"
+    },
+    {
+      "text": "trauma",
+      "url": "https://www.lifeline.org.au/topics/trauma/about-trauma"
+    },
+    {
+      "text": "common mental health challenges by clicking here",
+      "url": "https://toolkit.lifeline.org.au/topics"
+    },
+    {
+      "text": "Learn tips for talking to someone you trust",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust"
+    },
+    {
+      "text": "withdrawal tips",
+      "url": "https://www.lifeline.org.au/topics/substance-misuse/short-term-help-for-substance-misuse"
+    },
+    {
+      "text": "self-care",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing"
+    },
+    {
+      "text": "family breakdown",
+      "url": "https://www.lifeline.org.au/topics/relationships/importance-of-relationships"
+    },
+    {
+      "text": "acceptance and commitment therapy (ACT)",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act"
+    },
+    {
+      "text": "Click here to learn tips for finding the therapist that's right for you",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-the-right-therapist"
+    },
+    {
+      "text": "grounding technique",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques"
+    },
+    {
+      "text": "Calm",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm"
+    },
+    {
+      "text": "Smiling Mind",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind"
+    },
+    {
+      "text": "Rain Rain Sleep",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/rain-rain-sleep-sounds"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity"
+    },
+    {
+      "text": "try a brief meditation",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation"
+    },
+    {
+      "text": "Centre of Perinatal Excellence (COPE) website",
+      "url": "https://www.cope.org.au/new-parents/first-weeks/lack-sleep/"
+    },
+    {
+      "text": "Gidget Foundation",
+      "url": "https://www.lifeline.org.au/get-help/national-services/gidget-foundation"
+    },
+    {
+      "text": "sleep apnoea",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-categories/sleep-apnoea"
+    },
+    {
+      "text": "This Way Up's Insomnia Program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/insomnia-program"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/davinas-story",
+      "url": "https://www.lifeline.org.au/get-help/hear-from-others/real-stories/davinas-story"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/mycompass",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/mycompass"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/anxiety-worry-program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/anxiety-worry-program"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program",
+      "url": "https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program"
+    },
+    {
+      "text": "https://www.lifeline.org.au/get-help/national-services/panda",
+      "url": "https://www.lifeline.org.au/get-help/national-services/panda"
+    },
+    {
+      "text": "Service Finder",
+      "url": "https://www.lifeline.org.au/get-help/services/find-another-service"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://www.lifeline.org.au/get-involved"
+    },
+    {
+      "text": "Reconciliation Action Plan",
+      "url": "https://www.lifeline.org.au/about/reconciliation-action-plan"
+    },
+    {
+      "text": "Policies",
+      "url": "https://www.lifeline.org.au/policies"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.lifeline.org.au/policies/privacy-policy"
+    },
+    {
+      "text": "Language",
+      "url": "https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support"
+    },
+    {
+      "text": "https://www.facebook.com/LifelineAustralia/",
+      "url": "https://www.facebook.com/LifelineAustralia/"
+    },
+    {
+      "text": "https://www.instagram.com/lifelineaustralia/",
+      "url": "https://www.instagram.com/lifelineaustralia/"
+    },
+    {
+      "text": "https://au.linkedin.com/company/lifeline-australia",
+      "url": "https://au.linkedin.com/company/lifeline-australia"
+    },
+    {
+      "text": "https://x.com/LifelineAust",
+      "url": "https://x.com/LifelineAust"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw",
+      "url": "https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+    }
+  ],
+  "text": "Sleep and mental health | Lifeline Skip to main content\n\nIf life is in danger, call Triple Zero (000)\n\nCall us ● Chat with us ● Text us ●\n\n- Get help\n\n- Help starts here\n\n- I’m thinking about suicide\n\n- I want to talk to someone\n\n- I'm worried about someone\n\n- I want to explore my options\n\n- Get help home\n\nCall us 13 11 14\n\n● Service online\n\nChat to us Support 24/7\n\nText us 0477 13 11 14\n\nServices\n\n- Crisis support\n\n- Counselling\n\n- Service Finder\n\n- Workplace & community training\n\n- Services home\n\nChat with us Support 24/7\n\nSupport Toolkit\n\n- Topics\n\n- Techniques & guides\n\n- Tools & apps\n\n- Safety planning\n\n- Community perspectives\n\n- Fact sheets\n\n- Support Toolkit home\n\nSleep and mental health\n\nJournaling your thoughts and feelings\n\nHow to do a digital detox\n\nHelping friends and family\n\nAbout Cognitive Behavioural Therapy (CBT)\n\nHear from others\n\n- Forums\n\n- Real stories\n\n- Hear from others home\n\nListen to Joe's story\n\n- Get involved\n\n- Donate\n\n- Donate to Lifeline\n\n- Donate in memory\n\n- Leave a gift in your Will\n\nFundraise\n\n- Fundraise for Lifeline\n\n- Events\n\nVolunteer\n\n- Become a crisis supporter\n\n- Community volunteering\n\nPartner with us\n\nBecome a Crisis Supporter Explore\n\n- About\n\n- About us\n\n- Who we are\n\n- Our strategy\n\n- Our services\n\n- Our impact\n\n- Our structure\n\n- Governance\n\n- Lived experience framework\n\nOur research\n\n- Data & statistics\n\n- Research & reports\n\nOur partners\n\n- Government supporters\n\n- Corporate partners\n\nContact us Lifeline locations News & media Careers Shop merchandise\n\nVolunteer Fundraise\n\nDonate\n\nSearch\n\nGet help\n\nContact us\n\nLifeline locations\n\nNews & media\n\nCareers\n\nShop merchandise\n\nDonate Volunteer\n\nUrgent Crisis Support\n\n## What can we help you find?\n\nClose\n\n# Get Help\n\nIf life is in danger, call 000.\n\nCall us\n\nChat with us\n\nText us\n\nExplore our services\n\nTranslation notice: Lifeline Crisis Support is delivered in English. This page was translated automatically and may not be fully accurate. Spot an issue? Let us know\n\nShare feedback about automatic translation accuracy.\n\nBreadcrumb\n\nBack to Techniques and guides\n\n- Home\n\n- Support Toolkit\n\n- Techniques and guides\n\n- Sleep and mental health\n\nTranslate\n\n- English\n\n- Mandarin 普通话\n\n- Cantonese (廣東話)\n\n- Arabic (عربى)\n\n- Vietnamese\n\n- Punjabi\n\n- Hindi\n\n- Greek\n\n- Italian\n\n- Spanish\n\n- Nepali\n\n# Sleep and mental health\n\nImproving your sleep can also improve your mental health. Learn about common sleep problems, tips for creating healthy sleep habits, and strategies for falling asleep.\n\n15 minutes\n\nHelps with Sleep Anxiety Depression\n\n## How does sleep impact mental health?\n\nJust like with food and water, we rely on sleep to survive. And just like how getting the right amount of the right foods impacts our overall health, so does the quantity and quality of our sleep.\n\nFor example, getting enough quality sleep can boost our mood and make it easier to deal with stress , while poor sleep can cause us to feel irritable and make it harder to deal with stress. If you have a mental health condition like anxiety or depression , poor sleep can also make it harder to manage symptoms.\n\nSleep and mental health are closely connected, which is why it's common to struggle with your sleep if you're experiencing mental health challenges and struggle with your mental health if you're experiencing sleep problems.\n\nIf you’re having trouble sleeping, you’re not alone. Nearly half of all Australians report experiencing at least two sleep-related problems. Challenges like financial stress , relationship problems , and the loss of a loved one can be overwhelming. When you're going through a tough time, it makes sense if you’re also finding it hard to sleep at night.\n\nRegardless of what might be negatively impacting your sleep, there are a lot of things you can do to improve it. And when you do, you'll likely notice your mental health and overall wellbeing improve, too.\n\nScroll down to learn more.\n\n## Signs of poor sleep\n\nSleep problems include things like:\n\n- Difficulty falling or staying asleep (depending on the severity, this can be called insomnia )\n\n- Difficulty waking up or getting out of bed\n\n- Feeling exhausted even when you’ve slept through the night\n\n- Sleeping an excessive amount\n\n- Being unable to sleep due to symptoms associated with mental health conditions like anxiety , panic attacks , or psychosis .\n\nSleep problems occur for all kinds of reasons and impact everyone differently. Not always, but generally, if your sleep problems become a continuous pattern, they can impact both your physical and mental health.\n\n### Mental and emotional effects\n\nPoor sleep can lead to:\n\n- Difficulty concentrating\n\n- Memory problems\n\n- Brain fog\n\n- Irritability and anger\n\n- Feeling ‘flat’ or sad\n\n- Loneliness and isolation\n\n- Sleep deprivation (this is when you have poor sleep for a prolonged period of time)\n\n- Feelings of anxiety and depression\n\n- Symptoms of psychosis\n\n- Suicidal thoughts .\n\n### Physical effects\n\n- Headaches\n\n- Physical exhaustion\n\n- Appetite and/or weight changes\n\n- Frequent colds and other illnesses\n\n- Dependence on stimulant substances like caffeine\n\n- Clumsiness/prone to accidents\n\n- Increased risk of health problems like high blood pressure, diabetes, heart disease, heart attack, stroke, and kidney disease.\n\n### Looking for help with a diagnosed sleep condition?\n\nIf yes, you may want to visit the SleepHealth Foundation website . You'll find fact sheets on common sleep conditions, such as insomnia , restless leg syndrome , sleep apnoea , and excessive daytime sleepiness , as well as information on where to find further support.\n\nIf your condition is making you feel overwhelmed or distressed, you may find other areas of the Support Toolkit helpful. And, of course, you can contact Lifeline 24 hours a day, 7 days a week via 13 11 14 , text , and chat .\n\n## Why can't I sleep?\n\nIt’s normal to have temporary sleep problems if you’re stressed or experiencing significant life events like moving homes, changing jobs, or ending a relationship .\n\nIf, over time, you find that those sleep problems stick around, it can be helpful to start looking at your habits, lifestyle, environment, physical health problems, and/or mental health as potential reasons.\n\nWhile a Coke in the afternoon might not seem like a big deal, the caffeine may be the thing that’s keeping you up at night. Or maybe you have great habits in place to protect your sleep but your mind won’t seem to calm down.\n\nBelow, you’ll find lists of common causes of sleep problems. Check them out and see what may apply to you.\n\n### Common sleep disruptors\n\n### A note to parents and caregivers\n\nThere are a number of things that can make it hard to sleep as a parent or caregiver, and it's not your fault if you're struggling to get enough quality sleep. The important thing is that you're being kind to yourself and giving yourself permission to make the most of any sleep you can get.\n\nIf you’re struggling to sleep and would like support, you can:\n\n- Read our sleep tips for parents and caregivers\n\n- Contact Tresillian for advice, parenting guides, and in-person support\n\n- Book an appointment with a GP to make a Mental Health Treatment Plan\n\nIf those don’t feel like options for you at the moment, you can always contact Lifeline . We're here for you 24 hours a day, 7 days a week via 13 11 14 , text , and chat . If life is in danger, call 000 .\n\n### How do existing mental health challenges impact sleep?\n\nIf you’re currently experiencing challenges with your mental health, some of the symptoms associated with those challenges might be impacting your ability to sleep.\n\nFor example, your sleep might be impacted by:\n\n- Worries, concerns, or intrusive thoughts\n\n- Difficulty physically or mentally calming down\n\n- Panic attacks\n\n- Seeing things or hearing sounds that aren’t there\n\n- Psychiatric medication (starting, taking or stopping).\n\nIt’s really common for mental health challenges like anxiety , depression , stress , psychosis , and trauma to result in sleep challenges, and it’s nothing to feel bad about. The good news is that no matter what symptom(s) you’re experiencing, your sleep can and will get better.\n\nTo get a clearer idea of how your sleep might be impacted, you can explore our information and resources on some of the most common mental health challenges by clicking here .\n\nNot getting enough sleep can leave you feeling overwhelmed, distressed, and alone.\n\nIf you’re struggling to cope and would like support, you can:\n\n- Learn tips for talking to someone you trust\n\n- Make an appointment with a GP\n\n- Contact Lifeline . We're here for you 24 hours a day, 7 days a week via 13 11 14 , text , and chat .\n\nIf life is in danger, call 000 .\n\n## Tips for improving sleep habits\n\nNo matter what the underlying cause is, improving your sleep is always possible.\n\nIt can be helpful to think of sleep as working for your mind and body in the same way that a phone charger works. The longer you leave it on charge, the better it will perform the next day. So, how much sleep do you need to be ‘fully charged’?\n\nIt’s recommended that adults get at least 7 hours of sleep a night.\n\nDepending on what’s happening in your life, you may need more than that. For example, if you’re fighting a cold, grieving a loss , recovering from a medical procedure, or in a highly stressful period of your life, you may need to go to bed earlier or sleep in a bit later.\n\nBelow, you'll find practical tips for improving your sleep habits.\n\n### Form sleep-friendly habits\n\n### Adopt a sleep-friendly lifestyle\n\n### Limit or avoid alcohol and/or nicotine\n\nZero alcohol is best for sleep. If you drink, try not to have more than 2 standard drinks and consume them at least 3 hours before bed. And if possible, have at least 3-4 alcohol-free nights a week.\n\nBecause nicotine is a stimulant, it should be limited or avoided altogether. Remember, withdrawal from nicotine can be something that contributes to sleep difficulty, so make sure you have some of these withdrawal tips to rely on if you are decreasing or ceasing your use of nicotine.\n\n### Limit or avoid caffeine\n\nAim for only one caffeinated drink a day and avoid caffeine 8-10 hours before bed. If you’re still struggling to sleep, try not to consume caffeine at all. It’s a good idea to check food and drink for hidden caffeine as it can be found in things like decaf coffee, tea, green tea, chocolate, and health supplements.\n\n### Move your body regularly\n\nExercising for 30 minutes a day can increase the quality of your sleep and the total sleep time. This doesn’t need to be intense exercise. It can be anything from a walk around the local park to a gym class.\n\n### Minimise screen time\n\nIdeally, avoid your phone and other devices at least one hour before bed. If you must use it, use night or dark mode, adjust brightness or use silent, flight, or do not disturb mode.\n\n### Create a sleep-friendly environment\n\n### Get the right room temperature\n\nIt can be difficult to sleep if you’re too hot or cold. The ideal temperature is 19-22 degrees Celsius.\n\nTo create a more comfortable sleep environment, you can try using a fan or heater, choosing different bedding or pyjamas, or opening a window.\n\n### Make it dark and quiet\n\nOnce the sun has gone down, turn off overhead lights, use lamps with warm white globes, and minimise noise in your bedroom if possible.\n\nThis creates a calming environment that can help you fall asleep more easily. If you’re bothered by glowing lights from electronics, you can turn them to face away from you.\n\n### Use an eye mask and earplugs\n\nEye masks and earplugs can block out additional light and noise, which can help minimise distraction. They're especially good to pack if you need to travel for work or are staying in a new environment.\n\n### Keep your bedroom for sleep\n\nTry to avoid using your bedroom for work or other stimulating activities. If you live in a small space and need to work in your bedroom, create a boundary between your work area and sleep area. If possible, you can use a room divider or curtain.\n\n### Check in with your mental health\n\n### Prioritise and practise self-care\n\nWhen we’re feeling overwhelmed by work, relationships , or other parts of life, self-care is often the first thing to go. However, it’s important to make time for it because it can help reduce stress and lead to better sleep.\n\nYou can learn more in our self-care for mental health and wellbeing article below.\n\n### Find practical ways to reduce and manage stress\n\nOn top of making time for self-care activities , you may want to consider taking bigger steps to feel less stressed.\n\nThis could mean:\n\n- Separating work and personal time by letting others know when you are and aren’t available\n\n- Sharing tasks at home or asking for additional help\n\n- Using organisation strategies to break up tasks into smaller steps.\n\n### Take time to process significant experiences\n\nIf you’ve experienced something significant in life, like the loss of a loved one , a career change, a traumatic event , or a family breakdown , it makes sense if you’re worrying at bedtime, waking up throughout the night, and feeling generally overwhelmed.\n\nIt’s important that you’re giving yourself time to grieve and heal or connecting with people you trust for support. If you don’t feel like you have someone to talk to, you can always contact Lifeline via 13 11 14 , text , and chat .\n\n### Consider seeing a professional therapist\n\nIf you think your sleep problems may be connected to your mental health, therapy can be a helpful way to work through your thoughts and feelings.\n\nCognitive behavioural therapy (CBT) and acceptance and commitment therapy (ACT) can give you strategies for coping with stress and reframing experiences, which may help if you’re experiencing sleep difficulties.\n\nClick here to learn tips for finding the therapist that's right for you .\n\n## Strategies for falling asleep\n\nOne of the most common challenges of falling asleep is a busy mind. It doesn’t matter how tired you might be; thoughts, to-do lists, and worries about the future seem to love showing up as soon as your head hits the pillow.\n\nIf a racing mind is keeping you up, a sleep strategy like visualisation can help you relax.\n\nScroll down to learn more strategies for falling asleep.\n\n### Try deep breathing\n\nDeep breathing is a grounding technique that can help you feel calm and relaxed. While there are a number of ways to do this, a great one for sleep is the box breathing technique.\n\nYou can try it now by clicking play on the video below.\n\n### Do a body scan\n\nA body scan (sometimes called progressive muscle relaxation) is a grounding technique that helps you relax by intentionally tensing and releasing different muscle groups, making you feel calmer and more at ease.\n\nHow to do a body scan:\n\n- Lie comfortably on your back\n\n- Focus on one muscle group (such as your toes)\n\n- On your inhale, tense your toes as hard as you can and hold for 5 - 10 seconds\n\n- On your exhale, fully release your toes, allowing yourself to notice the changing sensations\n\n- Continue by tensing and relaxing each muscle group as you move up your body.\n\n- If you want to feel even more relaxed, you can repeat the steps.\n\nIf you'd like guidance, you can find guided body scans on mindfulness apps like Calm and Smiling Mind .\n\n### Listen to something to calm your mind\n\nWhether you’re trying to sleep in a noisy area or have noisy thoughts, a great way to quiet the mind is by listening to something calming.\n\nYou can try listening to:\n\n- Guided imagery tracks\n\n- White noise (a consistent, steady sound that masks other noises - you can find many white noise recordings online. Be sure to have your phone facing down if the light remains on).\n\n- Ambient sounds\n\n- Soft music\n\n- Sleep stories.\n\nDepending on your preference, you can find many free versions of the above on YouTube, podcast platforms, or apps like Rain Rain Sleep , Calm and Smiling Mind .\n\n### Label and let go of thoughts\n\nIf your mind is racing with thoughts, try labelling each one as either ‘past’ or ‘future’ before imagining it go away. You can picture your thoughts as grains of sand washing away, bubbles popping, clouds floating away, or leaves flowing down a river.\n\nFor example:\n\n- Imagine each of your thoughts as a grain of sand on the beach\n\n- Each time a thought comes up, label it as ‘past’ or ‘future’\n\n- Picture a wave washing the sand grain away, leaving a smooth, calm beach.\n\nTechniques & Guides\n\n### A CBT-based thought challenging activity\n\nOur thoughts have a powerful impact on our emotions and behaviour. Try this CBT-based activity to help you to manage your thoughts and emotions more effectively.\n\n6 minutes read\n\nHelps with Anxiety Depression\n\n### Play the alphabet name game\n\nStart at the beginning of the alphabet and try to think of five names for each letter. Keep going until you fall asleep.\n\n- Anna, Amanda, Alfred, Aaron, Amy\n\n- Brett, Brent, Barry, Betty, Beatrice\n\n- Charlotte, Cathay, Caroline, Charlie, Christopher, etc.\n\n### List or think of something in order\n\nListing something like the alphabet can help distract your mind from usual stressors, making it easier to relax and fall asleep.\n\nYou can try:\n\n- Listing everything you did throughout the day in reverse\n\n- Naming the months of the year forwards and then backwards\n\n- Going through the process of making your favourite meal.\n\n### Get up and start over\n\nIf you feel like you’re nowhere close to sleep, that’s okay. Try not to get frustrated. Gently get out of your bed and do something calming for 20-30 minutes.\n\nYou could:\n\n- Go to a dimly lit, quiet area where you can relax\n\n- Listen to soothing music, do some box breathing, or try a brief meditation\n\n- When you feel sleepy, go back to bed\n\n- If needed, you can repeat your sleep routine.\n\nKeep in mind that everyone is different. The sleep strategies that work for someone else may not work for you and that’s okay. The main this is that you keep experimenting and ask for help when needed.\n\n### Tips for going back to sleep in the middle of the night\n\nWaking up in the middle of the night is one of the most common sleep problems, especially if you’re a parent or caregiver.\n\nIf possible:\n\n- Stay in bed (or get back in bed after settling your child)\n\n- Don’t pick up your phone/tablet\n\n- Avoid clock-watching (it can make you feel anxious)\n\n- Use the toilet or have a small drink of water\n\n- Try a sleep strategy from above to relax your mind\n\n- Rest assured that as long as you’re lying still, your body is still getting rest.\n\n### Sleep tips for parents and caregivers\n\nParenting is a hugely challenging experience, even when you get enough sleep. Doing it with poor sleep, which is extremely common during this time, can make everything feel extra overwhelming and unmanageable.\n\nRemember, sleep deprivation can heavily impact your mental health and wellbeing. It’s important you’re putting on your own oxygen mask before helping others.\n\n- If possible, try to sleep when the baby is asleep. It can be difficult to sleep during the day but even just lying down and closing your eyes can help you regain some energy.\n\n- Choose sleep over household chores. When it comes to priorities, sleep is much more important than a clean kitchen. It’s okay to let household chores temporarily fall by the wayside or be outsourced to others.\n\n- Place the bassinet or cot near your bed. This can make it easier to tend to the baby and quicker to get back to sleep.\n\n- Share overnight baby duties. If possible, alternate who is on call to tend to the baby at night. This can allow you to catch up on previous sleep loss.\n\n- Live a sleep-friendly lifestyle and form sleep-friendly habits\n\n- Try a sleep technique to help relax your mind and fall asleep.\n\n### If you and/or your children are having trouble sleeping, help is available.\n\nYou can:\n\n- Visit the Centre of Perinatal Excellence (COPE) website to learn more about lack of sleep with a baby\n\n- Connect with Tresillian ( 1300 272 736 ) for free advice, parenting guides, and support (in-person services are available in NSW, ACT, and VIC)\n\n- Reach out to the Gidget Foundation for perinatal mental health support.\n\n## When to reach out for support\n\nIf you feel like you’ve made significant changes but are still struggling to get quality sleep, you may want to consider speaking with a GP. They can help you rule out any underlying issues or medical reasons and connect you with the right sleep help.\n\nFor example, a GP can:\n\n- See how your lack of sleep is impacting your overall health\n\n- Check your medications/ supplements to see if an ingredient is causing problems. (If something you’re taking contains an ingredient preventing sleep, it doesn’t mean you have to stop taking it. You might just adjust the time you take it.)\n\n- Request blood work to check for any issues\n\n- Suggest you have a sleep study to rule out sleep conditions like sleep apnoea\n\n- Recommend self-led support options like This Way Up's Insomnia Program\n\n- Refer you to a sleep clinic. If your sleep problems are due to a child in your care, they may connect you with a sleep clinic like Tresillian , which specialises in helping parents and carers with baby settling and routines.\n\n- Work with you on a Mental Health Treatment Plan to access subsidised professional mental health therapies.\n\nReal Story\n\n### Davina's Story\n\nDavina, a journalist and mother of two, shares her story of battling anxiety, post-traumatic stress disorder (PTSD), postnatal depression, and suicidal thoughts.\n\n22 minutes read\n\nHelps with Anxiety & Depression Trauma\n\n## Tools and apps\n\nBelow, you’ll find tools and apps that can help you create a sleep-friendly lifestyle, build sleep-friendly habits, and find the help you need to manage stress and other mental health challenges.\n\nTools & Apps\n\n### Rain Rain Sleep Sounds\n\nRain Rain® is a free app that offers sounds and music to help improve sleep, increase focus, and manage mental health challenges like stress and anxiety.\n\nHelps with Sleep Anxiety\n\n### Calm\n\nCalm is a mindfulness, meditation, and music app that offers guided tracks, sleep stories, and other techniques that can help you improve your wellbeing, boost your mood, manage stress and anxiety, get better sleep, and more.\n\nHelps with Stress Anxiety\n\n### Smiling Mind\n\nSmiling Mind is a mindfulness and meditation app that helps kids, teens, and adults improve their wellbeing and achieve specific mental health goals like better sleep, reduced stress, stronger relationships, and more.\n\n### Daybreak\n\nDaybreak is a confidential app that can help you quit or change your relationship with alcohol by helping you track your drinks, set goals, complete habit-changing activities, and access online community support.\n\nHelps with Alcohol\n\n### Insomnia Program\n\nLearn practical, step-by-step strategies for understanding and managing chronic sleep problems.\n\nHelps with Sleep problems Insomnia\n\n### myCompass\n\nmyCompass is a free, self-paced mental health online program that teaches you evidence-based strategies to recognise and manage symptoms associated with anxiety, depression, and stress.\n\n### PTSD Program\n\nMental Health Online’s PTSD Program teaches you about post-traumatic stress disorder as well as skills and strategies you can use to manage it. It’s designed to help you feel better right now and in the long term.\n\nHelps with Trauma\n\n### Anxiety & Worry Program\n\nMental Health Online’s Anxiety & Worry Program can help you understand anxiety and teach you skills and strategies to manage it.\n\nHelps with Anxiety Worry\n\n### Depression & Anxiety Program\n\nMental Health Online’s Depression & Anxiety Program teaches you strategies to manage the symptoms of depression and anxiety at the same time. It’s designed to help you feel better right now and in the long term.\n\nHelps with Depression Anxiety\n\n## Support services\n\nSupport Service\n\n### Lifeline Crisis Support\n\nLifeline is a free and confidential one-to-one support service for anyone feeling overwhelmed, distressed or having difficulty staying safe.\n\nHelps with Suicidality Safety Planning\n\n### Tresillian\n\nTresillian offers early parenting support via phone, online, and in-person services. They can help with things like breastfeeding and sleep, as well as mental health challenges like postnatal depression and anxiety. Call 1300 272 736.\n\n### PANDA\n\nPANDA (Perinatal Anxiety & Depression Australia) supports the mental health of parents and families during pregnancy and in their first year of parenthood.\n\nHelps with Anxiety & Depression Psychosis\n\n### Gidget Foundation\n\nGidget Foundation offers a range of in-person, telehealth, and virtual services to support the emotional wellbeing of expectant and new parents and those struggling with grief and loss.\n\nOn this page\n\n#### Was this page helpful?\n\nYour feedback helps us improve our site for people like you.\n\nWe’d love to hear why! Tell us more\n\n## Help starts here\n\nSupport looks different for everyone. Use the drop down bar to find what feels right for you.\n\nHow can we help?\n\n- I'm thinking about suicide\n\nBack to top\n\nVisit Lifeline Australia\n\n- Training\n\n- Volunteer\n\n- Fundraise\n\n- About Lifeline\n\n- Find a Lifeline Centre\n\n- Contact us\n\nReconciliation Action Plan\n\nLived Experience Framework\n\nLifeline pays its respects to the traditional custodians across the lands on which we work, and acknowledge their elders past and present.\n\nLifeline pays deep respect to people who have personal experiences of crisis and suicide. They are the reason our organisation and services exist.\n\nLifeline is committed to providing a safe, culturally appropriate, and inclusive service for all people, regardless of their ethnicity, faith, disability, sexuality, or gender identity.\n\n- Policies\n\n- Terms of Use\n\n- Privacy\n\n- Accessibility\n\n- Language\n\nLifeline is a registered ACNC charity. ABN: 84 081 031 263. RTO Registration Code 88036. Copyright © 2025 Lifeline Australia. All rights reserved.\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health#main-content\n\n- Call us ●: https://www.lifeline.org.au/get-help/services/131114\n\n- Chat with us ●: https://www.lifeline.org.au/get-help/services/chat\n\n- Text us ●: https://www.lifeline.org.au/get-help/services/text\n\n- https://www.lifeline.org.au/: https://www.lifeline.org.au/\n\n- I’m thinking about suicide: https://www.lifeline.org.au/get-help/im-thinking-about-suicide\n\n- I want to talk to someone: https://www.lifeline.org.au/get-help/i-want-to-talk-to-someone\n\n- I'm worried about someone: https://www.lifeline.org.au/get-help/im-worried-about-someone\n\n- I want to explore my options: https://www.lifeline.org.au/get-help/i-want-to-explore-my-options\n\n- Get help home: https://www.lifeline.org.au/get-help\n\n- Call us 13 11 14 ● Service online: https://www.lifeline.org.au/131114\n\n- Chat to us Support 24/7 ● Service online: https://www.lifeline.org.au/chat\n\n- Text us 0477 13 11 14 ● Service online: https://www.lifeline.org.au/text\n\n- Crisis support: https://www.lifeline.org.au/get-help/services/crisis-support\n\n- Counselling: https://www.lifeline.org.au/get-help/services/counselling\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/service-finder\n\n- Workplace & community training: https://www.lifeline.org.au/get-help/services/workplace-and-community-training\n\n- Services home: https://www.lifeline.org.au/get-help/services\n\n- Topics: https://www.lifeline.org.au/get-help/support-toolkit/topics\n\n- Techniques & guides: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides\n\n- Tools & apps: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps\n\n- Safety planning: https://www.lifeline.org.au/get-help/support-toolkit/safety-planning\n\n- Community perspectives: https://www.lifeline.org.au/get-help/support-toolkit/community-perspectives\n\n- Fact sheets: https://www.lifeline.org.au/get-help/support-toolkit/fact-sheets\n\n- Support Toolkit home: https://www.lifeline.org.au/get-help/support-toolkit\n\n- Sleep and mental health: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/sleep-and-mental-health\n\n- Journaling your thoughts and feelings: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/journaling-for-mental-health-how-it-helps-and\n\n- How to do a digital detox: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-do-a-digital-detox\n\n- Helping friends and family: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/how-to-talk-to-someone-about-their-mental-health\n\n- About Cognitive Behavioural Therapy (CBT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/cognitive-behavioural-therapy-cbt\n\n- Forums: https://www.lifeline.org.au/get-help/hear-from-others/discussion-forums\n\n- Real stories: https://www.lifeline.org.au/get-help/hear-from-others/real-stories\n\n- Hear from others home: https://www.lifeline.org.au/get-help/hear-from-others\n\n- Listen to Joe's story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/joes-story\n\n- Donate: https://www.lifeline.org.au/get-involved/donate\n\n- Donate to Lifeline: https://www.lifeline.org.au/get-involved/donate/donate-to-lifeline\n\n- Donate in memory: https://inmemory.lifeline.org.au\n\n- Leave a gift in your Will: https://www.lifeline.org.au/get-involved/donate/leave-a-gift-in-your-will\n\n- Fundraise: https://www.lifeline.org.au/get-involved/fundraising\n\n- Fundraise for Lifeline: https://fundraise.lifeline.org.au/\n\n- Events: https://www.lifeline.org.au/get-involved/events\n\n- Volunteer: https://www.lifeline.org.au/get-involved/volunteer\n\n- Become a crisis supporter: https://www.lifeline.org.au/get-involved/volunteer/volunteer-as-a-crisis-supporter\n\n- Community volunteering: https://www.lifeline.org.au/get-involved/volunteer-in-your-community\n\n- Partner with us: https://www.lifeline.org.au/get-involved/partner-with-us\n\n- About us: https://www.lifeline.org.au/about-us\n\n- Who we are: https://www.lifeline.org.au/about-us/who-we-are\n\n- Our strategy: https://www.lifeline.org.au/about-us/our-strategy\n\n- Our services: https://www.lifeline.org.au/about-us/our-services\n\n- Our impact: https://www.lifeline.org.au/about-us/our-impact\n\n- Our structure: https://www.lifeline.org.au/about-us/our-structure\n\n- Governance: https://www.lifeline.org.au/about-us/governance\n\n- Lived experience framework: https://www.lifeline.org.au/about-us/lived-experience\n\n- Our research: https://www.lifeline.org.au/about/our-research\n\n- Data & statistics: https://www.lifeline.org.au/about/our-research/data-and-statistics\n\n- Research & reports: https://www.lifeline.org.au/about/our-research/research-and-reports\n\n- Our partners: https://www.lifeline.org.au/about/our-partners\n\n- Government supporters: https://www.lifeline.org.au/about/our-partners/government-supporters\n\n- Corporate partners: https://www.lifeline.org.au/about/our-partners/our-corporate-partners\n\n- Contact us: https://www.lifeline.org.au/about/contact-us\n\n- Lifeline locations: https://www.lifeline.org.au/about/find-a-lifeline-centre-near-you\n\n- News & media: https://www.lifeline.org.au/about/news-and-media\n\n- Careers: https://www.lifeline.org.au/about/careers\n\n- Shop merchandise: https://lifelineaustralia.infoservices.com.au\n\n- Fundraise: https://fundraise.lifeline.org.au\n\n- Urgent Crisis Support: https://www.lifeline.org.au/urgent-crisis-support\n\n- stress: https://www.lifeline.org.au/topics/stress/what-is-stress\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/what-is-anxiety\n\n- depression: https://www.lifeline.org.au/topics/depression/what-is-depression\n\n- financial stress: https://www.lifeline.org.au/topics/financial-stress/what-is-financial-stress\n\n- relationship problems: https://www.lifeline.org.au/topics/relationships/common-problems-in-relationships\n\n- loss of a loved one: https://www.lifeline.org.au/topics/grief-loss/what-is-grief\n\n- insomnia: https://www.sleephealthfoundation.org.au/sleep-disorders/insomnia-2\n\n- anxiety: https://www.lifeline.org.au/topics/anxiety/feelings-and-effects-of-anxiety\n\n- panic attacks: https://www.lifeline.org.au/topics/panic-attacks/symptoms-of-a-panic-attack\n\n- psychosis: https://www.lifeline.org.au/topics/psychotic-illness/feelings-and-effects-of-psychosis\n\n- Loneliness: https://www.lifeline.org.au/topics/loneliness/what-is-loneliness\n\n- psychosis: https://www.lifeline.org.au/topics/psychotic-illness/what-is-psychosis\n\n- Suicidal thoughts: https://www.lifeline.org.au/topics/suicide/what-is-suicide\n\n- SleepHealth Foundation website: https://www.sleephealthfoundation.org.au/all-sleep-disorders\n\n- restless leg syndrome: https://www.sleephealthfoundation.org.au/sleep-disorders/restless-legs-syndrome\n\n- sleep apnoea: https://www.sleephealthfoundation.org.au/sleep-disorders/central-sleep-apnoea-csa\n\n- excessive daytime sleepiness: https://www.sleephealthfoundation.org.au/sleep-disorders/excessive-daytime-sleepiness\n\n- contact Lifeline: https://www.lifeline.org.au/get-help/national-services/lifeline-crisis-support\n\n- text: https://www.lifeline.org.au/crisis-text/\n\n- chat: https://www.lifeline.org.au/crisis-chat/\n\n- ending a relationship: https://www.lifeline.org.au/topics/relationships/signs-and-effects-of-problems-in-relationships\n\n- sleep tips for parents and caregivers: https://toolkit.lifeline.org.au/articles/techniques/sleep-and-mental-health#sleep-tips-for-parents-and-caregivers\n\n- Contact Tresillian: https://www.lifeline.org.au/get-help/national-services/tresillian\n\n- Mental Health Treatment Plan: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/mental-health-care-plan-what-it-covers-and-how-to\n\n- intrusive thoughts: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/managing-intrusive-thoughts\n\n- trauma: https://www.lifeline.org.au/topics/trauma/about-trauma\n\n- common mental health challenges by clicking here: https://toolkit.lifeline.org.au/topics\n\n- Learn tips for talking to someone you trust: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/talk-to-someone-you-trust\n\n- withdrawal tips: https://www.lifeline.org.au/topics/substance-misuse/short-term-help-for-substance-misuse\n\n- self-care: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/self-care-for-mental-health-and-wellbeing\n\n- family breakdown: https://www.lifeline.org.au/topics/relationships/importance-of-relationships\n\n- acceptance and commitment therapy (ACT): https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/acceptance-and-commitment-therapy-act\n\n- Click here to learn tips for finding the therapist that's right for you: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-the-right-therapist\n\n- grounding technique: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/finding-relief-through-grounding-techniques\n\n- Calm: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/calm\n\n- Smiling Mind: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/smiling-mind\n\n- Rain Rain Sleep: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/rain-rain-sleep-sounds\n\n- https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/a-cbt-based-thought-challenging-activity\n\n- try a brief meditation: https://www.lifeline.org.au/get-help/support-toolkit/techniques-and-guides/an-introduction-to-meditation\n\n- Centre of Perinatal Excellence (COPE) website: https://www.cope.org.au/new-parents/first-weeks/lack-sleep/\n\n- Gidget Foundation: https://www.lifeline.org.au/get-help/national-services/gidget-foundation\n\n- sleep apnoea: https://www.sleephealthfoundation.org.au/sleep-categories/sleep-apnoea\n\n- This Way Up's Insomnia Program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/insomnia-program\n\n- https://www.lifeline.org.au/get-help/hear-from-others/real-stories/davinas-story: https://www.lifeline.org.au/get-help/hear-from-others/real-stories/davinas-story\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/daybreak\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/mycompass: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/mycompass\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/ptsd-program\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/anxiety-worry-program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/anxiety-worry-program\n\n- https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program: https://www.lifeline.org.au/get-help/support-toolkit/tools-and-apps/depression-anxiety-program\n\n- https://www.lifeline.org.au/get-help/national-services/panda: https://www.lifeline.org.au/get-help/national-services/panda\n\n- Service Finder: https://www.lifeline.org.au/get-help/services/find-another-service\n\n- Get involved: https://www.lifeline.org.au/get-involved\n\n- Reconciliation Action Plan: https://www.lifeline.org.au/about/reconciliation-action-plan\n\n- Policies: https://www.lifeline.org.au/policies\n\n- Privacy: https://www.lifeline.org.au/policies/privacy-policy\n\n- Language: https://www.lifeline.org.au/get-help/services/crisis-support/language-translation-accessibility-support\n\n- https://www.facebook.com/LifelineAustralia/: https://www.facebook.com/LifelineAustralia/\n\n- https://www.instagram.com/lifelineaustralia/: https://www.instagram.com/lifelineaustralia/\n\n- https://au.linkedin.com/company/lifeline-australia: https://au.linkedin.com/company/lifeline-australia\n\n- https://x.com/LifelineAust: https://x.com/LifelineAust\n\n- https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw: https://www.youtube.com/channel/UC_Rhz-XoVbo02fNrHQZQQHw"
+}

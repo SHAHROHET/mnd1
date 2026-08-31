@@ -1,0 +1,327 @@
+{
+  "source_id": "mnd-qld:home",
+  "title": "MND Queensland - Support and specialist services for people impacted by a Motor Neurone Disease (MND) diagnosis",
+  "publisher": "MND Queensland",
+  "url": "https://mndaq.org.au/Home.aspx",
+  "retrieved_at": "2026-08-29",
+  "topic": "Australian support services",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 9564,
+  "crawl_depth": 0,
+  "seed_url": "https://mndaq.org.au/Home.aspx",
+  "links": [
+    {
+      "text": "Login",
+      "url": "https://mndaq.org.au/Home.aspx"
+    },
+    {
+      "text": "Forgot your password?",
+      "url": "https://mndaq.org.au/account/retrieve-password"
+    },
+    {
+      "text": "https://mndaq.org.au/cart",
+      "url": "https://mndaq.org.au/cart"
+    },
+    {
+      "text": "Login",
+      "url": "https://mndaq.org.au/account"
+    },
+    {
+      "text": "https://www.facebook.com/MNDQLD",
+      "url": "https://www.facebook.com/MNDQLD"
+    },
+    {
+      "text": "https://twitter.com/mndqueensland",
+      "url": "https://twitter.com/mndqueensland"
+    },
+    {
+      "text": "https://www.linkedin.com/company/mndqld",
+      "url": "https://www.linkedin.com/company/mndqld"
+    },
+    {
+      "text": "https://www.instagram.com/mndqld/",
+      "url": "https://www.instagram.com/mndqld/"
+    },
+    {
+      "text": "https://www.youtube.com/@mndqld",
+      "url": "https://www.youtube.com/@mndqld"
+    },
+    {
+      "text": "javascript:void(0)",
+      "url": "javascript:void(0)"
+    },
+    {
+      "text": "News",
+      "url": "https://mndaq.org.au/news"
+    },
+    {
+      "text": "Events",
+      "url": "https://mndaq.org.au/events"
+    },
+    {
+      "text": "Webinars",
+      "url": "https://mndaq.org.au/page/68/mnd-qld"
+    },
+    {
+      "text": "Contact",
+      "url": "https://mndaq.org.au/page/76/contact"
+    },
+    {
+      "text": "https://mndaq.org.au/",
+      "url": "https://mndaq.org.au/"
+    },
+    {
+      "text": "Get MND support",
+      "url": "https://mndaq.org.au/page/104/get-support"
+    },
+    {
+      "text": "What is Motor Neurone Disease (MND)",
+      "url": "https://mndaq.org.au/page/64/what-is-mnd"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://mndaq.org.au/page/65/symptoms"
+    },
+    {
+      "text": "Diagnosis and Tests",
+      "url": "https://mndaq.org.au/page/66/diagnosis-and-tests"
+    },
+    {
+      "text": "Facts and Figures",
+      "url": "https://mndaq.org.au/page/67/facts-and-figures"
+    },
+    {
+      "text": "Research",
+      "url": "https://mndaq.org.au/page/69/research"
+    },
+    {
+      "text": "Save our Speech Study",
+      "url": "https://mndaq.org.au/page/122/save-our-speech-study"
+    },
+    {
+      "text": "National Advocacy",
+      "url": "https://mndaq.org.au/page/70/national-advocacy"
+    },
+    {
+      "text": "Just Diagnosed",
+      "url": "https://mndaq.org.au/page/71/just-diagnosed"
+    },
+    {
+      "text": "I have MND",
+      "url": "https://mndaq.org.au/page/72/i-have-mnd"
+    },
+    {
+      "text": "Living Better",
+      "url": "https://mndaq.org.au/page/73/living-better"
+    },
+    {
+      "text": "Treatment and Care",
+      "url": "https://mndaq.org.au/page/74/treatment-and-care"
+    },
+    {
+      "text": "Entitlements and Benefits",
+      "url": "https://mndaq.org.au/page/75/entitlements-and-benefits"
+    },
+    {
+      "text": "Familial MND and Genetic Testing",
+      "url": "https://mndaq.org.au/page/79/familial-mnd-and-genetic-testing"
+    },
+    {
+      "text": "For Family and Friends",
+      "url": "https://mndaq.org.au/page/95/for-family-and-friends"
+    },
+    {
+      "text": "Information Resources",
+      "url": "https://mndaq.org.au/page/96/information-resources"
+    },
+    {
+      "text": "MiNDAUS",
+      "url": "https://www.mndaq.org.au/page/129/mindaus"
+    },
+    {
+      "text": "MND Advisors",
+      "url": "https://mndaq.org.au/page/97/mnd-advisors"
+    },
+    {
+      "text": "NDIS Support Coordination",
+      "url": "https://mndaq.org.au/page/98/ndis-support-coordination"
+    },
+    {
+      "text": "Equipment",
+      "url": "https://mndaq.org.au/page/99/equipment"
+    },
+    {
+      "text": "Speech Pathology",
+      "url": "https://mndaq.org.au/page/101/speech-pathology"
+    },
+    {
+      "text": "Occupational Therapy",
+      "url": "https://mndaq.org.au/page/102/occupational-therapy"
+    },
+    {
+      "text": "Physiotherapy",
+      "url": "https://mndaq.org.au/page/114/physiotherapy"
+    },
+    {
+      "text": "Voice Banking Clinic",
+      "url": "https://mndaq.org.au/page/112/voice-banking-clinic"
+    },
+    {
+      "text": "Legacy Program",
+      "url": "https://mndaq.org.au/page/103/legacy"
+    },
+    {
+      "text": "Support Groups",
+      "url": "https://mndaq.org.au/page/100/support-groups"
+    },
+    {
+      "text": "Multidisciplinary Care",
+      "url": "https://mndaq.org.au/page/109/multidisciplinary-care"
+    },
+    {
+      "text": "Equipment Repair Service",
+      "url": "https://mndaq.org.au/page/120/equipment-repair-service"
+    },
+    {
+      "text": "Education",
+      "url": "https://mndaq.org.au/page/119/education"
+    },
+    {
+      "text": "Carers",
+      "url": "https://www.mndqld.org.au/page/144/carersprogram"
+    },
+    {
+      "text": "C - Connection",
+      "url": "https://mndaq.org.au/page/145/c-connection"
+    },
+    {
+      "text": "A - Advice",
+      "url": "https://mndaq.org.au/page/146/a-advice"
+    },
+    {
+      "text": "R - Resources",
+      "url": "https://mndaq.org.au/page/147/r-resources"
+    },
+    {
+      "text": "E - Education",
+      "url": "https://mndaq.org.au/page/148/e-education"
+    },
+    {
+      "text": "R - Respite",
+      "url": "https://mndaq.org.au/page/149/r-respite"
+    },
+    {
+      "text": "S - Support",
+      "url": "https://mndaq.org.au/page/150/s-support-emotional-and-financial"
+    },
+    {
+      "text": "Information for Healthcare Professionals",
+      "url": "https://mndaq.org.au/page/105/healthcare-professionals-"
+    },
+    {
+      "text": "Information Resources",
+      "url": "https://mndaq.org.au/page/96/information-resources#healthcare"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.mndaq.org.au/page/88/getinvolved"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.mndqld.org.au/donations"
+    },
+    {
+      "text": "Fundraise",
+      "url": "https://mndaq.org.au/page/134/fundraise"
+    },
+    {
+      "text": "Give in Memory",
+      "url": "https://mndaq.org.au/page/87/give-in-memory"
+    },
+    {
+      "text": "Leave a Bequest",
+      "url": "https://mndaq.org.au/page/86/leave-a-bequest"
+    },
+    {
+      "text": "Buy Merchandise",
+      "url": "https://mndaq.org.au/store"
+    },
+    {
+      "text": "Sponsor An Event",
+      "url": "https://mndaq.org.au/page/159/sponsor"
+    },
+    {
+      "text": "Volunteer",
+      "url": "https://mndaq.org.au/page/85/volunteer"
+    },
+    {
+      "text": "Membership",
+      "url": "https://mndaq.org.au/page/84/membership"
+    },
+    {
+      "text": "About Us",
+      "url": "https://mndaq.org.au/page/83/overview"
+    },
+    {
+      "text": "Our History",
+      "url": "https://mndaq.org.au/page/82/our-history"
+    },
+    {
+      "text": "Management Committee",
+      "url": "https://mndaq.org.au/page/81/our-board"
+    },
+    {
+      "text": "Our Sponsors",
+      "url": "https://mndaq.org.au/page/80/our-sponsors"
+    },
+    {
+      "text": "Strategic Plans",
+      "url": "https://mndaq.org.au/page/78/strategic-plan"
+    },
+    {
+      "text": "Publications",
+      "url": "https://mndaq.org.au/page/106/publications"
+    },
+    {
+      "text": "Work With Us",
+      "url": "https://mndaq.org.au/page/77/work-with-us"
+    },
+    {
+      "text": "Donate now",
+      "url": "https://www.mndqld.org.au/campaign/123/autumn-appeal?utm_source=Autumn%20Appeal%20Website%20header&utm_medium=Email&utm_campaign=Email%20header"
+    },
+    {
+      "text": "Register Now",
+      "url": "https://events.humanitix.com/cornflowers-and-butterflies?_gl=1*1pikaa9*_gcl_au*MTE1NjIxODYwNS4xNzc1NjI0MDky*_ga*MjEzNzY2MTUxMi4xNzc1NjI0MDky*_ga_LHKW5FR9N6*czE3NzYyMTg2MjkkbzQkZzEkdDE3NzYyMjA5NzgkajE2JGwwJGgw"
+    },
+    {
+      "text": "Click for more",
+      "url": "https://www.mndaq.org.au/page/99/equipment"
+    },
+    {
+      "text": "Find out how",
+      "url": "https://www.mndqld.org.au/page/88/getinvolved"
+    },
+    {
+      "text": "Get involved",
+      "url": "https://mndaq.org.au/page/88/fundraise-get-involved"
+    },
+    {
+      "text": "fundraise",
+      "url": "https://www.mndaq.org.au/page/134/fundraise"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://mndaq.org.au/page/2/privacy"
+    },
+    {
+      "text": "Complaints & Feedback",
+      "url": "https://mndaq.org.au/page/110/complaints-feedback"
+    },
+    {
+      "text": "https://www.pixo.com.au/",
+      "url": "https://www.pixo.com.au/"
+    }
+  ],
+  "text": "MND Queensland - Support and specialist services for people impacted by a Motor Neurone Disease (MND) diagnosis\n\n### Login\n\nIf you have an account please sign in to continue\n\nLogin Forgot your password?\n\nAn account is a great way to keep track and manage your activity within our site.\n\nIf you have already entered your email address and created a password while completing a form within our site, it is likely you have an account. You should have received an email to confirm this.\n\nDialog Box\n\nLogin\n\n- News\n\n- Events\n\n- Webinars\n\n- Contact\n\nDonate Get MND support\n\n- About MND\n\n- What is Motor Neurone Disease (MND)\n\n- Symptoms\n\n- Diagnosis and Tests\n\n- Facts and Figures\n\n- MND QLD Webinars\n\n- Research\n\n- Save our Speech Study\n\n- National Advocacy\n\n- Living with MND\n\n- Just Diagnosed\n\n- I have MND\n\n- Living Better\n\n- Treatment and Care\n\n- Entitlements and Benefits\n\n- Familial MND and Genetic Testing\n\n- For Family and Friends\n\n- Information Resources\n\n- MiNDAUS\n\n- Support\n\n- MND Advisors\n\n- NDIS Support Coordination\n\n- Equipment\n\n- Speech Pathology\n\n- Occupational Therapy\n\n- Physiotherapy\n\n- Voice Banking Clinic\n\n- Legacy Program\n\n- Support Groups\n\n- Multidisciplinary Care\n\n- Equipment Repair Service\n\n- Education\n\n- Carers\n\n- C - Connection\n\n- A - Advice\n\n- R - Resources\n\n- E - Education\n\n- R - Respite\n\n- S - Support\n\n- Health Providers\n\n- Information for Healthcare Professionals\n\n- Get Involved\n\n- Donate\n\n- Fundraise\n\n- Give in Memory\n\n- Leave a Bequest\n\n- Buy Merchandise\n\n- Join an Event\n\n- Sponsor An Event\n\n- Volunteer\n\n- Membership\n\n- About Us\n\n- Overview\n\n- Our History\n\n- Management Committee\n\n- Our Sponsors\n\n- Strategic Plans\n\n- Publications\n\n- Work With Us\n\n- Contact Us\n\nAutumn Appeal 2026\n\nPlease give to help families impacted by Motor Neurone Disease.\n\nDonate now\n\nCornflowers and Butterflies\n\nGlobal MND Awareness Day\n\nRegister Now\n\nHave you been diagnosed with MND?\n\nWe’re here for you if you’ve been diagnosed with Motor Neurone Disease and offer a range of services and supports. Click here to find out more.\n\nGet Support\n\nEquipment Hire Service\n\nShort or long-term hire of mobility equipment and assistive technology for people with MND\n\nClick for more\n\nGet involved\n\nSupport people with MND by donating, holding your own fundraiser, attending an event, becoming a member, buying MND merchandise, leaving a bequest and more...\n\nFind out how\n\n#### MND Queensland is a leading organisation wholly focussed on supporting people living with Motor Neurone Disease and their families, friends, and carers.\n\nWe offer understanding and practical assistance by delivering information, education and specialist support services.\n\n###### I have motor neurone disease\n\n###### I'm a carer or family member\n\n###### I'm a healthcare professional\n\nFind information\n\n###### I want to get involved with MND QLD\n\n### Upcoming Events View all events\n\n##### Walk to Defeat MND Brisbane 2026\n\nWalk to Defeat MND Brisbane will take place at New Farm Park, on 24 May 2026. The goal is to increase awareness about the impacts of Motor Neurone Disease (MND) and help raise vital funds for Queenslanders with MND.\n\nSunday 24 May 2026\n\nNew Farm Park, 1042 Brunswick St, New Farm, QLD\n\nView Event\n\n##### Townsville MND Support Group Meeting\n\nJoin our free in person MND support group meeting for people with MND, their families and carers\n\nWednesday 3 Jun 2026\n\nRiverway Library, 103-141 Duckworth Street, Garbutt, QLD, 4814, Thuringowa Central, QLD\n\n##### Toowoomba Support Group Meeting\n\nPicnic Point Cafe, 164 Tourist Rd, Rangeville, QLD\n\n## Access our care and support services\n\nOur services support you at every step, from a free helpline and access to specialist health advisors, all the way to help navigating the NDIS to ensure you receive MND-appropriate care.\n\nCall our free helpline service 1800 777 175\n\nGet Support Just Diagnosed\n\n## Be a champion by raising awareness!\n\nYou could host a fundraiser or attend one of our events to be a champion for Queenslanders impacted by MND by raising awareness and vital funds. You don't need any event or fundraising experience.\n\nOr simply attend our events and join us in amping up the Cornflower Spirit!\n\nfundraise fundraising events\n\n1800 777 175 (OR 07 3372 9004)\n\ninfo@mndqld.org.au\n\n1/89 Factory Road, Oxley, QLD, 4075\n\n© 2026 MND Queensland\n\n- Privacy\n\n- Complaints & Feedback\n\nDonate\n\n\n\n## Links found on page\n\n- Login: https://mndaq.org.au/Home.aspx\n\n- Forgot your password?: https://mndaq.org.au/account/retrieve-password\n\n- https://mndaq.org.au/cart: https://mndaq.org.au/cart\n\n- Login: https://mndaq.org.au/account\n\n- https://www.facebook.com/MNDQLD: https://www.facebook.com/MNDQLD\n\n- https://twitter.com/mndqueensland: https://twitter.com/mndqueensland\n\n- https://www.linkedin.com/company/mndqld: https://www.linkedin.com/company/mndqld\n\n- https://www.instagram.com/mndqld/: https://www.instagram.com/mndqld/\n\n- https://www.youtube.com/@mndqld: https://www.youtube.com/@mndqld\n\n- javascript:void(0): javascript:void(0)\n\n- News: https://mndaq.org.au/news\n\n- Events: https://mndaq.org.au/events\n\n- Webinars: https://mndaq.org.au/page/68/mnd-qld\n\n- Contact: https://mndaq.org.au/page/76/contact\n\n- https://mndaq.org.au/: https://mndaq.org.au/\n\n- Get MND support: https://mndaq.org.au/page/104/get-support\n\n- What is Motor Neurone Disease (MND): https://mndaq.org.au/page/64/what-is-mnd\n\n- Symptoms: https://mndaq.org.au/page/65/symptoms\n\n- Diagnosis and Tests: https://mndaq.org.au/page/66/diagnosis-and-tests\n\n- Facts and Figures: https://mndaq.org.au/page/67/facts-and-figures\n\n- Research: https://mndaq.org.au/page/69/research\n\n- Save our Speech Study: https://mndaq.org.au/page/122/save-our-speech-study\n\n- National Advocacy: https://mndaq.org.au/page/70/national-advocacy\n\n- Just Diagnosed: https://mndaq.org.au/page/71/just-diagnosed\n\n- I have MND: https://mndaq.org.au/page/72/i-have-mnd\n\n- Living Better: https://mndaq.org.au/page/73/living-better\n\n- Treatment and Care: https://mndaq.org.au/page/74/treatment-and-care\n\n- Entitlements and Benefits: https://mndaq.org.au/page/75/entitlements-and-benefits\n\n- Familial MND and Genetic Testing: https://mndaq.org.au/page/79/familial-mnd-and-genetic-testing\n\n- For Family and Friends: https://mndaq.org.au/page/95/for-family-and-friends\n\n- Information Resources: https://mndaq.org.au/page/96/information-resources\n\n- MiNDAUS: https://www.mndaq.org.au/page/129/mindaus\n\n- MND Advisors: https://mndaq.org.au/page/97/mnd-advisors\n\n- NDIS Support Coordination: https://mndaq.org.au/page/98/ndis-support-coordination\n\n- Equipment: https://mndaq.org.au/page/99/equipment\n\n- Speech Pathology: https://mndaq.org.au/page/101/speech-pathology\n\n- Occupational Therapy: https://mndaq.org.au/page/102/occupational-therapy\n\n- Physiotherapy: https://mndaq.org.au/page/114/physiotherapy\n\n- Voice Banking Clinic: https://mndaq.org.au/page/112/voice-banking-clinic\n\n- Legacy Program: https://mndaq.org.au/page/103/legacy\n\n- Support Groups: https://mndaq.org.au/page/100/support-groups\n\n- Multidisciplinary Care: https://mndaq.org.au/page/109/multidisciplinary-care\n\n- Equipment Repair Service: https://mndaq.org.au/page/120/equipment-repair-service\n\n- Education: https://mndaq.org.au/page/119/education\n\n- Carers: https://www.mndqld.org.au/page/144/carersprogram\n\n- C - Connection: https://mndaq.org.au/page/145/c-connection\n\n- A - Advice: https://mndaq.org.au/page/146/a-advice\n\n- R - Resources: https://mndaq.org.au/page/147/r-resources\n\n- E - Education: https://mndaq.org.au/page/148/e-education\n\n- R - Respite: https://mndaq.org.au/page/149/r-respite\n\n- S - Support: https://mndaq.org.au/page/150/s-support-emotional-and-financial\n\n- Information for Healthcare Professionals: https://mndaq.org.au/page/105/healthcare-professionals-\n\n- Information Resources: https://mndaq.org.au/page/96/information-resources#healthcare\n\n- Get Involved: https://www.mndaq.org.au/page/88/getinvolved\n\n- Donate: https://www.mndqld.org.au/donations\n\n- Fundraise: https://mndaq.org.au/page/134/fundraise\n\n- Give in Memory: https://mndaq.org.au/page/87/give-in-memory\n\n- Leave a Bequest: https://mndaq.org.au/page/86/leave-a-bequest\n\n- Buy Merchandise: https://mndaq.org.au/store\n\n- Sponsor An Event: https://mndaq.org.au/page/159/sponsor\n\n- Volunteer: https://mndaq.org.au/page/85/volunteer\n\n- Membership: https://mndaq.org.au/page/84/membership\n\n- About Us: https://mndaq.org.au/page/83/overview\n\n- Our History: https://mndaq.org.au/page/82/our-history\n\n- Management Committee: https://mndaq.org.au/page/81/our-board\n\n- Our Sponsors: https://mndaq.org.au/page/80/our-sponsors\n\n- Strategic Plans: https://mndaq.org.au/page/78/strategic-plan\n\n- Publications: https://mndaq.org.au/page/106/publications\n\n- Work With Us: https://mndaq.org.au/page/77/work-with-us\n\n- Donate now: https://www.mndqld.org.au/campaign/123/autumn-appeal?utm_source=Autumn%20Appeal%20Website%20header&utm_medium=Email&utm_campaign=Email%20header\n\n- Register Now: https://events.humanitix.com/cornflowers-and-butterflies?_gl=1*1pikaa9*_gcl_au*MTE1NjIxODYwNS4xNzc1NjI0MDky*_ga*MjEzNzY2MTUxMi4xNzc1NjI0MDky*_ga_LHKW5FR9N6*czE3NzYyMTg2MjkkbzQkZzEkdDE3NzYyMjA5NzgkajE2JGwwJGgw\n\n- Click for more: https://www.mndaq.org.au/page/99/equipment\n\n- Find out how: https://www.mndqld.org.au/page/88/getinvolved\n\n- Get involved: https://mndaq.org.au/page/88/fundraise-get-involved\n\n- fundraise: https://www.mndaq.org.au/page/134/fundraise\n\n- Privacy: https://mndaq.org.au/page/2/privacy\n\n- Complaints & Feedback: https://mndaq.org.au/page/110/complaints-feedback\n\n- https://www.pixo.com.au/: https://www.pixo.com.au/"
+}

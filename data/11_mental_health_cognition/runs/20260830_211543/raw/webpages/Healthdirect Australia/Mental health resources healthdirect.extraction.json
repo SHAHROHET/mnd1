@@ -1,0 +1,999 @@
+{
+  "source_id": "healthdirect:mental-health-resources",
+  "title": "Mental health resources | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/mental-health-resources",
+  "retrieved_at": "2026-08-30",
+  "topic": "Mental Health And Cognition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 46588,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/mental-health-resources",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/mental-health-resources"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/mental-health-resources"
+    },
+    {
+      "text": "What is mental health?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#what-is"
+    },
+    {
+      "text": "Why is good mental health important?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#important"
+    },
+    {
+      "text": "What things can affect mental health?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#affect"
+    },
+    {
+      "text": "How can I improve my mental health and wellbeing?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#wellbeing"
+    },
+    {
+      "text": "Where can I get help if I am feeling suicidal?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#suicidal"
+    },
+    {
+      "text": "Where can I find support for mental health issues?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#issues"
+    },
+    {
+      "text": "Where can I find support for mental health conditions?",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#conditions"
+    },
+    {
+      "text": "Additional resources",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#searchGeneralResults"
+    },
+    {
+      "text": "Good mental health",
+      "url": "https://www.healthdirect.gov.au/good-mental-health"
+    },
+    {
+      "text": "life's challenges",
+      "url": "https://www.healthdirect.gov.au/dealing-with-life-events"
+    },
+    {
+      "text": "positive relationships",
+      "url": "https://www.healthdirect.gov.au/building-and-maintaining-healthy-relationships"
+    },
+    {
+      "text": "mental illness",
+      "url": "https://www.healthdirect.gov.au/mental-illness"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.healthdirect.gov.au/stress"
+    },
+    {
+      "text": "work-related stress",
+      "url": "https://www.healthdirect.gov.au/work-related-stress"
+    },
+    {
+      "text": "self-talk",
+      "url": "https://www.healthdirect.gov.au/self-talk"
+    },
+    {
+      "text": "low self-esteem",
+      "url": "https://www.healthdirect.gov.au/self-esteem"
+    },
+    {
+      "text": "hormones",
+      "url": "https://www.healthdirect.gov.au/hormones"
+    },
+    {
+      "text": "isolated",
+      "url": "https://www.healthdirect.gov.au/loneliness-isolation-mental-health"
+    },
+    {
+      "text": "bullying and harassment",
+      "url": "https://www.healthdirect.gov.au/bullying-and-harassment"
+    },
+    {
+      "text": "alcohol and drug abuse",
+      "url": "https://www.healthdirect.gov.au/substance-abuse"
+    },
+    {
+      "text": "financial worries or stress",
+      "url": "https://www.healthdirect.gov.au/financial-stress"
+    },
+    {
+      "text": "relationship issues",
+      "url": "https://www.healthdirect.gov.au/domestic-violence-and-abusive-relationships"
+    },
+    {
+      "text": "grief and loss",
+      "url": "https://www.healthdirect.gov.au/grief-loss"
+    },
+    {
+      "text": "exercising",
+      "url": "https://www.healthdirect.gov.au/exercise-and-mental-health"
+    },
+    {
+      "text": "eating a healthy diet",
+      "url": "https://www.healthdirect.gov.au/healthy-eating"
+    },
+    {
+      "text": "sleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "drugs or alcohol",
+      "url": "https://www.healthdirect.gov.au/drugs-and-alcohol"
+    },
+    {
+      "text": "relaxing",
+      "url": "https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief"
+    },
+    {
+      "text": "seek help and support",
+      "url": "https://www.healthdirect.gov.au/mental-health-where-to-get-help"
+    },
+    {
+      "text": "mental health plan",
+      "url": "https://www.healthdirect.gov.au/mental-health-treatment-plan"
+    },
+    {
+      "text": "Australian Mental Health Services",
+      "url": "https://www.healthdirect.gov.au/australian-mental-health-services"
+    },
+    {
+      "text": "Lifeline",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "text 0477 13 11 14",
+      "url": "https://www.lifeline.org.au/crisis-text/"
+    },
+    {
+      "text": "chat online",
+      "url": "https://www.lifeline.org.au/crisis-chat/"
+    },
+    {
+      "text": "Suicide Call Back Service",
+      "url": "https://www.suicidecallbackservice.org.au/"
+    },
+    {
+      "text": "ReachOut",
+      "url": "https://au.reachout.com/articles/10-tips-for-improving-your-self-esteem"
+    },
+    {
+      "text": "Headspace",
+      "url": "https://www.headspace.com/articles/how-to-improve-self-esteem"
+    },
+    {
+      "text": "https://www.healthdirect.gov.au/mental-health-services-infographic",
+      "url": "https://www.healthdirect.gov.au/mental-health-services-infographic"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://forums.beyondblue.org.au/"
+    },
+    {
+      "text": "Breakup Shakeup",
+      "url": "https://au.reachout.com/tools-and-apps/breakup-shakeup"
+    },
+    {
+      "text": "e-couch",
+      "url": "https://ecouch.com.au/"
+    },
+    {
+      "text": "Mensline Australia",
+      "url": "https://mensline.org.au/"
+    },
+    {
+      "text": "1800Respect",
+      "url": "https://www.1800respect.org.au/"
+    },
+    {
+      "text": "Relationships Australia",
+      "url": "https://relationships.org.au/"
+    },
+    {
+      "text": "bullying",
+      "url": "https://www.healthdirect.gov.au/bullying"
+    },
+    {
+      "text": "sexual harassment",
+      "url": "https://www.healthdirect.gov.au/sexual-harassment"
+    },
+    {
+      "text": "sexual assault",
+      "url": "https://www.healthdirect.gov.au/sexual-assault-and-rape"
+    },
+    {
+      "text": "1800Respect",
+      "url": "https://www.1800respect.org.au/services"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/"
+    },
+    {
+      "text": "Struggles with work",
+      "url": "https://www.healthdirect.gov.au/workplace-mental-health"
+    },
+    {
+      "text": "Headspace website",
+      "url": "https://headspace.org.au/services/work-and-study-support/"
+    },
+    {
+      "text": "Headspace",
+      "url": "https://headspace.org.au/explore-topics/for-young-people/mental-health-disclosure-at-work/"
+    },
+    {
+      "text": "Black Dog Institute",
+      "url": "https://www.blackdoginstitute.org.au/education-services/workplaces/workplace-programs/"
+    },
+    {
+      "text": "Employee Assistance Program (EAP)",
+      "url": "https://eapaa.org.au/site/"
+    },
+    {
+      "text": "ReachOut",
+      "url": "https://au.reachout.com/articles/quiz-whats-your-at-home-study-style"
+    },
+    {
+      "text": "Headspace",
+      "url": "https://headspace.org.au/explore-topics/for-young-people/prepare-for-exams/"
+    },
+    {
+      "text": "Money Smart",
+      "url": "https://moneysmart.gov.au/"
+    },
+    {
+      "text": "Centrelink",
+      "url": "https://www.humanservices.gov.au/individuals/services/centrelink/crisis-payment"
+    },
+    {
+      "text": "Ask Izzy",
+      "url": "https://www.askizzy.org.au/"
+    },
+    {
+      "text": "St Vincent de Paul Society",
+      "url": "https://www.vinnies.org.au/"
+    },
+    {
+      "text": "The Salvation Army",
+      "url": "https://www.salvationarmy.org.au/need-help/financial-assistance/"
+    },
+    {
+      "text": "National Alcohol and Other Drug Hotline",
+      "url": "https://toolkit.lifeline.org.au/articles/support/national-alcohol-other-drug-hotline"
+    },
+    {
+      "text": "Family Drug Support",
+      "url": "https://www.fds.org.au/"
+    },
+    {
+      "text": "Counselling Online",
+      "url": "https://www.counsellingonline.org.au/"
+    },
+    {
+      "text": "Alcoholics Anonymous Australia",
+      "url": "https://aa.org.au/"
+    },
+    {
+      "text": "Narcotics Anonymous Australia",
+      "url": "https://www.na.org.au/"
+    },
+    {
+      "text": "how to quit smoking",
+      "url": "https://www.health.gov.au/health-topics/smoking-and-tobacco/how-to-quit-smoking"
+    },
+    {
+      "text": "Griefline",
+      "url": "https://griefline.org.au"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/the-facts/grief-and-loss/"
+    },
+    {
+      "text": "Headspace",
+      "url": "https://headspace.org.au/explore-topics/for-young-people/grief-and-loss/"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.healthdirect.gov.au/anxiety-related-disorders"
+    },
+    {
+      "text": "Black Dog Institute",
+      "url": "https://www.blackdoginstitute.org.au/resources-support/"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au"
+    },
+    {
+      "text": "Understanding Anxiety",
+      "url": "https://understandinganxiety.wayahead.org.au/"
+    },
+    {
+      "text": "This Way up",
+      "url": "https://thiswayup.org.au"
+    },
+    {
+      "text": "MindSpot Clinic",
+      "url": "https://www.mindspot.org.au/"
+    },
+    {
+      "text": "personality disorders",
+      "url": "https://www.healthdirect.gov.au/personality-disorders"
+    },
+    {
+      "text": "National Education Alliance for Borderline Personality Disorder Australia",
+      "url": "https://www.bpdaustralia.org/"
+    },
+    {
+      "text": "BPD Foundation",
+      "url": "https://www.bpdfoundation.org.au"
+    },
+    {
+      "text": "ReachOut",
+      "url": "https://au.reachout.com/articles/support-services-for-personality-disorders"
+    },
+    {
+      "text": "SANE Australia",
+      "url": "https://www.sane.org"
+    },
+    {
+      "text": "Phoenix Australia",
+      "url": "https://www.phoenixaustralia.org/"
+    },
+    {
+      "text": "Blue Knot Foundation",
+      "url": "https://blueknot.org.au"
+    },
+    {
+      "text": "eating disorders",
+      "url": "https://www.healthdirect.gov.au/eating-disorders"
+    },
+    {
+      "text": "National Eating Disorders Collaboration",
+      "url": "https://nedc.com.au/support-and-services/"
+    },
+    {
+      "text": "Butterfly Foundation",
+      "url": "https://butterfly.org.au"
+    },
+    {
+      "text": "Medicare Mental Health",
+      "url": "https://www.medicarementalhealth.gov.au/"
+    },
+    {
+      "text": "operating times",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/head-to-health-phone-service/mental-health-information-and-referral/bbad2627-ad81-49ae-9917-f5f0faf1be2e"
+    },
+    {
+      "text": "Black Dog Institute website",
+      "url": "https://www.blackdoginstitute.org.au"
+    },
+    {
+      "text": "self-help tools",
+      "url": "https://www.mycompass.org.au/"
+    },
+    {
+      "text": "Transcultural Mental Health Centre website",
+      "url": "https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/in-your-language"
+    },
+    {
+      "text": "ClearlyMe",
+      "url": "https://www.blackdoginstitute.org.au/clearlyme/"
+    },
+    {
+      "text": "ReachOut.com",
+      "url": "https://au.reachout.com/"
+    },
+    {
+      "text": "Headspace",
+      "url": "https://headspace.org.au/"
+    },
+    {
+      "text": "headspace centre",
+      "url": "https://headspace.org.au/welcome-to-headspace-centres/"
+    },
+    {
+      "text": "Kids Helpline",
+      "url": "https://kidshelpline.com.au/"
+    },
+    {
+      "text": "MOST",
+      "url": "https://www.most.org.au/"
+    },
+    {
+      "text": "Mello app",
+      "url": "https://www.mello.org.au/"
+    },
+    {
+      "text": "PANDA",
+      "url": "https://panda.org.au/"
+    },
+    {
+      "text": "COPE website",
+      "url": "https://www.cope.org.au/"
+    },
+    {
+      "text": "older people and mental health",
+      "url": "https://www.healthdirect.gov.au/older-people-and-mental-health"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/caring-someone-mental-health-condition"
+    },
+    {
+      "text": "13YARN website",
+      "url": "https://www.13yarn.org.au/"
+    },
+    {
+      "text": "Rainbow Door website",
+      "url": "https://www.rainbowdoor.org.au"
+    },
+    {
+      "text": "QLife Website",
+      "url": "https://qlife.org.au"
+    },
+    {
+      "text": "Disability Gateway website",
+      "url": "https://www.disabilitygateway.gov.au/health-wellbeing"
+    },
+    {
+      "text": "(What is mental health?)",
+      "url": "https://www.beyondblue.org.au/mental-health/what-is-mental-health"
+    },
+    {
+      "text": "(Tips to keep good mental health)",
+      "url": "https://headspace.org.au/assets/download-cards/18-Tips-for-a-healthy-headspace-headspace-fact-sheet-WEB.pdf"
+    },
+    {
+      "text": "(About mental health)",
+      "url": "https://www.health.gov.au/topics/mental-health-and-suicide-prevention/about-mental-health"
+    },
+    {
+      "text": "(What are mental health issues?)",
+      "url": "https://au.reachout.com/mental-health-issues/professional-help/what-are-mental-health-issues"
+    },
+    {
+      "text": "(Understanding mental health conditions)",
+      "url": "https://www.mindaustralia.org.au/understanding-mental-health-conditions"
+    },
+    {
+      "text": "(National Study of Mental Health and Wellbeing)",
+      "url": "https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release"
+    },
+    {
+      "text": "(Where to find help managing debts)",
+      "url": "https://www.afsa.gov.au/i-cant-pay-my-debts/support-services/where-find-help-managing-debts"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/mental-health-resources#backToTop"
+    },
+    {
+      "text": "Mental health professionals",
+      "url": "https://www.healthdirect.gov.au/mental-health-professionals"
+    },
+    {
+      "text": "Rural or remote mental health",
+      "url": "https://www.healthdirect.gov.au/rural-remote-mental-health"
+    },
+    {
+      "text": "Talking to your doctor (GP) about mental health",
+      "url": "https://www.healthdirect.gov.au/talking-to-your-doctor-gp-about-mental-health"
+    },
+    {
+      "text": "Understanding the costs of mental health services",
+      "url": "https://www.healthdirect.gov.au/understanding-the-costs-of-mental-health-services"
+    },
+    {
+      "text": "Mental health",
+      "url": "https://www.healthdirect.gov.au/search-results/Mental health"
+    },
+    {
+      "text": "Mental Illnesses",
+      "url": "https://www.healthdirect.gov.au/search-results/Mental Illnesses"
+    },
+    {
+      "text": "Helplines",
+      "url": "https://www.healthdirect.gov.au/search-results/Helplines"
+    },
+    {
+      "text": "Psychiatry",
+      "url": "https://www.healthdirect.gov.au/search-results/Psychiatry"
+    },
+    {
+      "text": "Navigating mental health services | Medicare Mental Health There are many different types of mental health services and support. It's helpful to know what's available to make an informed choice. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/navigating-mental-health-services"
+    },
+    {
+      "text": "Hospital mental health services | NT.GOV.AU Top End and Central Australia mental health hospital services. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/mental-health/hospital-mental-health-services"
+    },
+    {
+      "text": "Mental health services | SA Health A directory of where to get mental health help in South Australia Read more on SA Health website",
+      "url": "https://www.sahealth.sa.gov.au/wps/wcm/connect/public content/sa health internet/services/mental health and drug and alcohol services/mental health services/mental health services"
+    },
+    {
+      "text": "Depression Online program | Mental Health Online Free online program to learn skills and strategies to help manage depression and improve well-being with optional free therapist support and resources. Read more on Mental Health Online website",
+      "url": "https://www.mentalhealthonline.org.au/programs/depression-online"
+    },
+    {
+      "text": "OCD Stop! program | Mental Health Online Free online program with optional therapist support and resources to help you understand OCD and learn strategies and techniques to better manage OCD. Read more on Mental Health Online website",
+      "url": "https://www.mentalhealthonline.org.au/programs/ocd-stop"
+    },
+    {
+      "text": "Panic Stop! program | Mental Health Online Free online program with optional therapist support to help manage panic and agoraphobia. Based on CBT, you will learn skills and strategies for managing panic. Read more on Mental Health Online website",
+      "url": "https://www.mentalhealthonline.org.au/programs/panic-stop"
+    },
+    {
+      "text": "PTSD Online program | Mental Health Online Free online program with optional therapist support to help manage symptoms of post-traumatic stress disorder, and reduce stress and physical symptoms. Read more on Mental Health Online website",
+      "url": "https://www.mentalhealthonline.org.au/programs/ptsd-online"
+    },
+    {
+      "text": "Accessing mental health services in Australia | Medicare Mental Health Reaching out for help can be daunting. Here you can explore your options and learn how to find and access the support that’s right for you. Read more on Medicare Mental Health website",
+      "url": "https://www.medicarementalhealth.gov.au/finding-help/accessing-mental-health-services"
+    },
+    {
+      "text": "Community based mental health services | NT.GOV.AU Non-government mental health support organisations and services for individuals and carers in the Northern Territory. Read more on NT Health website",
+      "url": "https://nt.gov.au/wellbeing/mental-health/community-based-mental-health-services"
+    },
+    {
+      "text": "Social Anxiety Online program | Mental Health Online Free online program to help you learn and implement skills and strategies that help manage social anxiety and improve overall mental health and well-being. Read more on Mental Health Online website",
+      "url": "https://www.mentalhealthonline.org.au/programs/social-anxiety-online"
+    },
+    {
+      "text": "Care to Learn Podcast Episode 9: Geoff Ahern In this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/care-to-learn-podcast-episode-9"
+    },
+    {
+      "text": "How to Access Mental Health Treatment in Australia In the most recent National Study of Mental Health and Wellbeing, it was found that almost 43% of Australian adults had experienced a mental disorder in their lifetime, with 21.5% experiencing a mental disorder in the previous year. The term ‘mental disorder’ covers a range of clinically diagnosable disorders that negatively impact an individual’s cognitive, emotional or social abilities. Currently, the most common mental health conditions in Australia are anxiety disorders, affective disorders and substance abuse disorders. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/mental-health-treatment"
+    },
+    {
+      "text": "A Wellness and Reablement Approach to Purposeful Ageing Wellness and reablement is an approach to care grounded in the belief that most people desire and are capable of enhancing their physical, social, and emotional wellbeing to live autonomously and as independently as possible, despite frailty, chronic illness or disability. Wellness and reablement rejects the notion that ageing is an irreversible and inevitable decline. Through purposeful engagements, the approach aims to empower older people to improve their quality of life by improving their physical and mental fitness. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/wellness-and-reablement"
+    },
+    {
+      "text": "Predicting Perinatal Mental Health Issues The term perinatal mental health issues refers to any mental health problems that affect a new or expecting parent’s mood, behaviour, wellbeing and/or daily functioning. Overall, in Australia, perinatal mental illness affects up to 1 in 5 expecting or new mothers and 1 in 10 expecting or new fathers. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/predicting-perinatal-depression"
+    },
+    {
+      "text": "RACGP - Mental health Mental health is a vital component of an individual’s overall health and welfare, and has a strong effect on physical health Read more on RACGP website",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/mental-health"
+    },
+    {
+      "text": "Lived Experience | National Mental Health Commission It’s through listening to those providing services, those who fund services, and most importantly, those who use services that we will find the information we need to move towards the mental health system Australia needs. Every person’s story we hear, every experience shared, helps to develop our understanding of the system that’s required to best meet the needs of Australians living with mental ill health and their carers. Read more on National Mental Health Commission website",
+      "url": "https://www.mentalhealthcommission.gov.au/lived-experience"
+    },
+    {
+      "text": "Housing, Homelessness and Mental Health | National Mental Health Commission The safety, stability and security that comes from having a home is fundamental to optimal mental health and to leading a contributing life. The intersection between homelessness and mental ill health is a key concern for the Commission. Read more on National Mental Health Commission website",
+      "url": "https://www.mentalhealthcommission.gov.au/lived-experience/contributing-lives,-thriving-communities/housing-homelessness-and-mental-health"
+    },
+    {
+      "text": "National Children’s Mental Health and Wellbeing Strategy | National Mental Health Commission The Australian Government’s commitment to a national approach to mental health and suicide prevention could not be achieved without ensuring the mental health and wellbeing needs of our children. Read more on National Mental Health Commission website",
+      "url": "https://www.mentalhealthcommission.gov.au/projects/childrens-strategy"
+    },
+    {
+      "text": "CCI - Self Help Resources for Mental Health Problems Self-help resources for common mental health problems such as depression, anxiety, low self-esteem, sleep problems, and perfectionism. Includes workbooks made up of modules, brief information sheets, and worksheets that you may wish to use, or that your therapist may help you with. Materials developed by Clinical Psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website",
+      "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself"
+    },
+    {
+      "text": "Generalised Anxiety Self-Help Resources - Information Sheets & Workbooks Self-help resources for generalized anxiety disorder, written by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website",
+      "url": "https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Mental health resources | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Mental health resources\n\n12-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nIf you or someone close to you is experiencing an emergency, or is at immediate risk of harm, call triple zero (000). To talk to someone now, call Beyond Blue on 1300 22 4636 or Lifeline on 13 11 14.\n\n## Key facts\n\n- Good mental health allows you to cope with life's challenges.\n\n- Most people will struggle with their mental health at some point in their lives.\n\n- If you are struggling with your mental health or have a mental illness, there are resources and support services available.\n\n## On this page\n\n- What is mental health?\n\n- Why is good mental health important?\n\n- What things can affect mental health?\n\n- How can I improve my mental health and wellbeing?\n\n- Where can I get help if I am feeling suicidal?\n\n- Where can I find support for mental health issues?\n\n- Where can I find support for mental health conditions?\n\n- Additional resources\n\n- Related information on Australian websites\n\n## What is mental health?\n\nThe term 'mental health' refers to your sense of wellbeing. Good mental health allows you to cope with life's challenges. Poor mental health can make it difficult to cope with day-to-day life.\n\n## Why is good mental health important?\n\nYour mental health affects how you think, feel and behave.\n\nLooking after your mental health is as important as looking after your physical health. Good mental health helps you:\n\n- appreciate and enjoy life\n\n- deal with life's challenges\n\n- form and maintain positive relationships\n\n- reach your potential\n\nMany people experience a mental health issue at some point in their lives. But if things don't seem to get better, it could be a sign of a mental illness .\n\n## What things can affect mental health?\n\nA number of factors can negatively affect your mental health, such as:\n\n- prolonged stress , including work-related stress\n\n- physical health problems\n\n- ageing\n\n- negative self-talk and low self-esteem\n\n- biological factors, such as genetics and hormones\n\n- feeling isolated\n\n- ongoing poor diet\n\nOther experiences that can impact your mental health include:\n\n- bullying and harassment\n\n- alcohol and drug abuse\n\n- financial worries or stress\n\n- family or relationship issues\n\n- grief and loss\n\nIf you're having a difficult time, it doesn't necessarily mean that your mental health is in danger. But it's worth talking to someone for advice and support to help you get back on track.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## How can I improve my mental health and wellbeing?\n\nWays to support and maintain good mental health include:\n\n- exercising regularly\n\n- eating a healthy diet\n\n- getting enough sleep\n\n- if you're using drugs or alcohol , cutting down or stopping\n\n- talking to and socialising with your friends and family\n\n- relaxing in ways that suit you\n\nAlthough you can take steps to nurture your mental health, it's very important to seek help and support when you need it. Just like physical illnesses, mental illnesses need to be treated to get better.\n\nMental health concerns affect many people across all ages, cultures and walks of life.\n\nIf your mental health does not improve, see your doctor. They can organise a mental health plan for you. Your doctor can also refer you the appropriate specialists for treatment.\n\nThere are many different Australian Mental Health Services available.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## Where can I get help if I am feeling suicidal?\n\nIf you, or someone you know, is having suicidal thoughts and is in immediate danger, call triple zero (000). For help and support, call Lifeline on 13 11 14\n\nIf you are in a personal crisis or are feeling suicidal, contact:\n\n- Lifeline — call 13 11 14 , text 0477 13 11 14 or chat online\n\n- Suicide Call Back Service (all ages) — call 1300 659 467\n\n## Where can I find support for mental health issues?\n\nThere are resources available online, in person, or over the phone that can provide mental health information, support and advice.\n\n### Self-esteem\n\nLack of self-esteem and confidence can affect your mental health.\n\nYou can find more advice on improving self-esteem on these websites:\n\n- ReachOut\n\n- Headspace\n\nFor information on 24/7 mental health services .\n\n### Relationship issues\n\nRelationship issues with partners, friends and family members can all affect your mental health.\n\nYou can get online support and self-help programs through:\n\n- Beyond Blue — peer support forums, including one on relationship and family issues\n\n- Breakup Shakeup — a mobile phone app developed by ReachOut\n\n- e-couch — online programs developed by the Australian National University\n\nSupport can also be found by calling:\n\n- Mensline Australia — 1300 78 99 78\n\n- 1800Respect — 1800 737 732\n\n- Relationships Australia — 1300 364 277\n\n### Bullying and harassment\n\nOnline resources for bullying , sexual harassment and sexual assault support include:\n\n- 1800Respect\n\n- Beyond Blue\n\n- Lifeline\n\n### Work or study stress\n\nStruggles with work or studying can affect your mental health. You can find resources, support, and self-help activities on the Headspace website .\n\nYou can also find advice at Headspace on mental health in the workplace.\n\nBlack Dog Institute also offers a range of mental health training programs for the workplace.\n\nMany workplaces offer an Employee Assistance Program (EAP) , a confidential support for their employees. It might be worth checking to see if your workplace has this.\n\nOften places of study like schools, universities and TAFE colleges have their own support services. It would be worth checking these out. Or try these resources:\n\n- ReachOut — a quiz for people studying\n\n- Headspace — how to lower stress and prepare for exams\n\n### Financial stress\n\nProblems with money can cause stress and have a negative impact on your mental health. There are services and resources available to:\n\n- help you with money management\n\n- provide advice and aid in times of financial difficulty\n\n- help you access a possible crisis payment\n\nOnline resources include:\n\n- Money Smart\n\n- Centrelink\n\nIf you are struggling financially, you can also access support with needs like food and housing through different organisations such as:\n\n- Ask Izzy\n\n- St Vincent de Paul Society\n\n- The Salvation Army\n\n### Substance abuse\n\nYour mental health can be impacted by the use of drugs or alcohol .\n\nTo speak with someone about substance abuse and mental health, you can call:\n\n- National Alcohol and Other Drug Hotline — 1800 250 015\n\n- Family Drug Support — 1300 368 186\n\nYou can find online support at:\n\n- Counselling Online\n\n- Alcoholics Anonymous Australia\n\n- Narcotics Anonymous Australia\n\n- Department of Health, Disability and Ageing on how to quit smoking\n\n### Grief and loss\n\nAs you move through life, you are likely to experience grief and loss . This can impact your mental health. You can find support through:\n\n- Griefline — 1300 845 745\n\n## Where can I find support for mental health conditions?\n\nSupport and information on mental health conditions such as depression and anxiety can be found online.\n\n### Depression and anxiety\n\n- Black Dog Institute\n\n- Understanding Anxiety\n\n- This Way up\n\n- MindSpot Clinic\n\n### Personality disorders\n\nResources for personality disorders are available:\n\n- National Education Alliance for Borderline Personality Disorder Australia (NEABPD-Australia)\n\n- Australian BPD Foundation\n\n- ReachOut — support service for young people\n\n- SANE Australia\n\n### Trauma and post-traumatic mental health\n\n- Phoenix Australia\n\n- Blue Knot Foundation — recovery from complex trauma\n\n### Eating disorders\n\nSupport and resources for eating disorders are available:\n\n- National Eating Disorders Collaboration\n\n- Butterfly Foundation\n\nYou can also call the Butterfly Foundation helpline on 1800 33 4673 .\n\n## Additional resources\n\nFor advice and to get connected to local mental health services, call Medicare Mental Health on 1800 595 212 . Check the operating times .\n\nIf you want general mental health support and information, you can visit:\n\n- the Black Dog Institute website for resources, support and self-help tools\n\n- the SANE Australia website , or call on 1800 187 263\n\n- the Beyond Blue website for resources and patient forums\n\n### Other languages\n\nIf you speak a language other than English, you can visit the Transcultural Mental Health Centre website . There, you can find translated mental health resources in over 40 languages.\n\n### Young people\n\nIf you are a young person who needs support, there are services available:\n\n- ClearlyMe is an app designed for teens aged 12 to 17 years, providing coping strategies and tools to help with negative thinking, low mood and difficulties relaxing.\n\n- ReachOut.com is a youth mental health service. Visit their website for online help.\n\n- Headspace provides mental health support for those aged 12 to 25 years. Visit their website, call them on 1800 650 890 , or make an appointment at your nearest headspace centre .\n\n- Kids Helpline is available for those aged 5 to 25 years. Visit their website or call them on 1800 55 1800 .\n\n- MOST is a free digital mental health service for young Australians aged 15 to 25 years.\n\n- The Mello app has been designed to help 16 to 25 year olds break negative thinking spirals.\n\n### Parents or guardians\n\nThere are mental health resources for parents, carers and guardians. You can:\n\n- call PANDA on 1300 726 306\n\n- visit the COPE website\n\n- visit the Beyond Blue Relationship and family issues peer support forum\n\n### Older people\n\nWith ageing comes change in your life and physical health. This can impact your mental health. Learn more about older people and mental health .\n\nIf you are caring for an older person with a mental health condition, you can visit My Aged Care for support and information.\n\n### Aboriginal and/or Torres Strait Islander peoples\n\nYou can visit the 13YARN website , or call on 13 92 76 , for mental health support for Aboriginal and Torres Strait Islander people.\n\n### LGBTIQA+\n\nIf you are a member of the LGBTIQA+ community, you can visit:\n\n- the Rainbow Door website to connect to different services\n\n- the QLife Website to speak with someone online, or call on 1800 184 527\n\n### People living with disability\n\n- Visit the Disability Gateway website for mental health support for people living with disabilities.\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nBeyond Blue (What is mental health?) , headspace (Tips to keep good mental health) , Department of Health and Aged Care (About mental health) , Reach Out (What are mental health issues?) , Mind Australia (Understanding mental health conditions) , Australian Bureau of Statistics (National Study of Mental Health and Wellbeing) , Australian Financial Security Authority (Where to find help managing debts)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2024\n\nBack To Top\n\n## Related pages\n\n- Australian mental health services\n\n- Mental health professionals\n\n- Mental health treatment plan\n\n- Rural or remote mental health\n\n- Talking to your doctor (GP) about mental health\n\n- Understanding the costs of mental health services\n\n## Search our site for\n\n- Mental health\n\n- Mental Illnesses\n\n- Helplines\n\n- Psychiatry\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Navigating mental health services | Medicare Mental Health\n\nThere are many different types of mental health services and support. It's helpful to know what's available to make an informed choice.\n\nRead more on Medicare Mental Health website\n\n### Hospital mental health services | NT.GOV.AU\n\nTop End and Central Australia mental health hospital services.\n\nRead more on NT Health website\n\n### Mental health services | SA Health\n\nA directory of where to get mental health help in South Australia\n\nRead more on SA Health website\n\n### Depression Online program | Mental Health Online\n\nFree online program to learn skills and strategies to help manage depression and improve well-being with optional free therapist support and resources.\n\nRead more on Mental Health Online website\n\n### OCD Stop! program | Mental Health Online\n\nFree online program with optional therapist support and resources to help you understand OCD and learn strategies and techniques to better manage OCD.\n\n### Panic Stop! program | Mental Health Online\n\nFree online program with optional therapist support to help manage panic and agoraphobia. Based on CBT, you will learn skills and strategies for managing panic.\n\n### PTSD Online program | Mental Health Online\n\nFree online program with optional therapist support to help manage symptoms of post-traumatic stress disorder, and reduce stress and physical symptoms.\n\n### Accessing mental health services in Australia | Medicare Mental Health\n\nReaching out for help can be daunting. Here you can explore your options and learn how to find and access the support that’s right for you.\n\n### Community based mental health services | NT.GOV.AU\n\nNon-government mental health support organisations and services for individuals and carers in the Northern Territory.\n\n### Social Anxiety Online program | Mental Health Online\n\nFree online program to help you learn and implement skills and strategies that help manage social anxiety and improve overall mental health and well-being.\n\nShow more\n\n### Care to Learn Podcast Episode 9: Geoff Ahern\n\nIn this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care.\n\nRead more on Ausmed Education website\n\n### How to Access Mental Health Treatment in Australia\n\nIn the most recent National Study of Mental Health and Wellbeing, it was found that almost 43% of Australian adults had experienced a mental disorder in their lifetime, with 21.5% experiencing a mental disorder in the previous year. The term ‘mental disorder’ covers a range of clinically diagnosable disorders that negatively impact an individual’s cognitive, emotional or social abilities. Currently, the most common mental health conditions in Australia are anxiety disorders, affective disorders and substance abuse disorders.\n\n### A Wellness and Reablement Approach to Purposeful Ageing\n\nWellness and reablement is an approach to care grounded in the belief that most people desire and are capable of enhancing their physical, social, and emotional wellbeing to live autonomously and as independently as possible, despite frailty, chronic illness or disability. Wellness and reablement rejects the notion that ageing is an irreversible and inevitable decline. Through purposeful engagements, the approach aims to empower older people to improve their quality of life by improving their physical and mental fitness.\n\n### Predicting Perinatal Mental Health Issues\n\nThe term perinatal mental health issues refers to any mental health problems that affect a new or expecting parent’s mood, behaviour, wellbeing and/or daily functioning. Overall, in Australia, perinatal mental illness affects up to 1 in 5 expecting or new mothers and 1 in 10 expecting or new fathers.\n\n### RACGP - Mental health\n\nMental health is a vital component of an individual’s overall health and welfare, and has a strong effect on physical health\n\nRead more on RACGP website\n\n### Lived Experience | National Mental Health Commission\n\nIt’s through listening to those providing services, those who fund services, and most importantly, those who use services that we will find the information we need to move towards the mental health system Australia needs. Every person’s story we hear, every experience shared, helps to develop our understanding of the system that’s required to best meet the needs of Australians living with mental ill health and their carers.\n\nRead more on National Mental Health Commission website\n\n### Housing, Homelessness and Mental Health | National Mental Health Commission\n\nThe safety, stability and security that comes from having a home is fundamental to optimal mental health and to leading a contributing life. The intersection between homelessness and mental ill health is a key concern for the Commission.\n\n### National Children’s Mental Health and Wellbeing Strategy | National Mental Health Commission\n\nThe Australian Government’s commitment to a national approach to mental health and suicide prevention could not be achieved without ensuring the mental health and wellbeing needs of our children.\n\n### CCI - Self Help Resources for Mental Health Problems\n\nSelf-help resources for common mental health problems such as depression, anxiety, low self-esteem, sleep problems, and perfectionism. Includes workbooks made up of modules, brief information sheets, and worksheets that you may wish to use, or that your therapist may help you with. Materials developed by Clinical Psychologists at the Centre for Clinical Interventions in Perth, Western Australia.\n\nRead more on Centre for Clinical Interventions website\n\n### Generalised Anxiety Self-Help Resources - Information Sheets & Workbooks\n\nSelf-help resources for generalized anxiety disorder, written by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia.\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/mental-health-resources\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/mental-health-resources\n\n- Please enter your name: https://www.healthdirect.gov.au/mental-health-resources#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/mental-health-resources#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/mental-health-resources#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/mental-health-resources#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/mental-health-resources\n\n- What is mental health?: https://www.healthdirect.gov.au/mental-health-resources#what-is\n\n- Why is good mental health important?: https://www.healthdirect.gov.au/mental-health-resources#important\n\n- What things can affect mental health?: https://www.healthdirect.gov.au/mental-health-resources#affect\n\n- How can I improve my mental health and wellbeing?: https://www.healthdirect.gov.au/mental-health-resources#wellbeing\n\n- Where can I get help if I am feeling suicidal?: https://www.healthdirect.gov.au/mental-health-resources#suicidal\n\n- Where can I find support for mental health issues?: https://www.healthdirect.gov.au/mental-health-resources#issues\n\n- Where can I find support for mental health conditions?: https://www.healthdirect.gov.au/mental-health-resources#conditions\n\n- Additional resources: https://www.healthdirect.gov.au/mental-health-resources#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/mental-health-resources#searchGeneralResults\n\n- Good mental health: https://www.healthdirect.gov.au/good-mental-health\n\n- life's challenges: https://www.healthdirect.gov.au/dealing-with-life-events\n\n- positive relationships: https://www.healthdirect.gov.au/building-and-maintaining-healthy-relationships\n\n- mental illness: https://www.healthdirect.gov.au/mental-illness\n\n- stress: https://www.healthdirect.gov.au/stress\n\n- work-related stress: https://www.healthdirect.gov.au/work-related-stress\n\n- self-talk: https://www.healthdirect.gov.au/self-talk\n\n- low self-esteem: https://www.healthdirect.gov.au/self-esteem\n\n- hormones: https://www.healthdirect.gov.au/hormones\n\n- isolated: https://www.healthdirect.gov.au/loneliness-isolation-mental-health\n\n- bullying and harassment: https://www.healthdirect.gov.au/bullying-and-harassment\n\n- alcohol and drug abuse: https://www.healthdirect.gov.au/substance-abuse\n\n- financial worries or stress: https://www.healthdirect.gov.au/financial-stress\n\n- relationship issues: https://www.healthdirect.gov.au/domestic-violence-and-abusive-relationships\n\n- grief and loss: https://www.healthdirect.gov.au/grief-loss\n\n- exercising: https://www.healthdirect.gov.au/exercise-and-mental-health\n\n- eating a healthy diet: https://www.healthdirect.gov.au/healthy-eating\n\n- sleep: https://www.healthdirect.gov.au/sleep\n\n- drugs or alcohol: https://www.healthdirect.gov.au/drugs-and-alcohol\n\n- relaxing: https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief\n\n- seek help and support: https://www.healthdirect.gov.au/mental-health-where-to-get-help\n\n- mental health plan: https://www.healthdirect.gov.au/mental-health-treatment-plan\n\n- Australian Mental Health Services: https://www.healthdirect.gov.au/australian-mental-health-services\n\n- Lifeline: https://www.lifeline.org.au/\n\n- text 0477 13 11 14: https://www.lifeline.org.au/crisis-text/\n\n- chat online: https://www.lifeline.org.au/crisis-chat/\n\n- Suicide Call Back Service: https://www.suicidecallbackservice.org.au/\n\n- ReachOut: https://au.reachout.com/articles/10-tips-for-improving-your-self-esteem\n\n- Headspace: https://www.headspace.com/articles/how-to-improve-self-esteem\n\n- https://www.healthdirect.gov.au/mental-health-services-infographic: https://www.healthdirect.gov.au/mental-health-services-infographic\n\n- Beyond Blue: https://forums.beyondblue.org.au/\n\n- Breakup Shakeup: https://au.reachout.com/tools-and-apps/breakup-shakeup\n\n- e-couch: https://ecouch.com.au/\n\n- Mensline Australia: https://mensline.org.au/\n\n- 1800Respect: https://www.1800respect.org.au/\n\n- Relationships Australia: https://relationships.org.au/\n\n- bullying: https://www.healthdirect.gov.au/bullying\n\n- sexual harassment: https://www.healthdirect.gov.au/sexual-harassment\n\n- sexual assault: https://www.healthdirect.gov.au/sexual-assault-and-rape\n\n- 1800Respect: https://www.1800respect.org.au/services\n\n- Beyond Blue: https://www.beyondblue.org.au/\n\n- Struggles with work: https://www.healthdirect.gov.au/workplace-mental-health\n\n- Headspace website: https://headspace.org.au/services/work-and-study-support/\n\n- Headspace: https://headspace.org.au/explore-topics/for-young-people/mental-health-disclosure-at-work/\n\n- Black Dog Institute: https://www.blackdoginstitute.org.au/education-services/workplaces/workplace-programs/\n\n- Employee Assistance Program (EAP): https://eapaa.org.au/site/\n\n- ReachOut: https://au.reachout.com/articles/quiz-whats-your-at-home-study-style\n\n- Headspace: https://headspace.org.au/explore-topics/for-young-people/prepare-for-exams/\n\n- Money Smart: https://moneysmart.gov.au/\n\n- Centrelink: https://www.humanservices.gov.au/individuals/services/centrelink/crisis-payment\n\n- Ask Izzy: https://www.askizzy.org.au/\n\n- St Vincent de Paul Society: https://www.vinnies.org.au/\n\n- The Salvation Army: https://www.salvationarmy.org.au/need-help/financial-assistance/\n\n- National Alcohol and Other Drug Hotline: https://toolkit.lifeline.org.au/articles/support/national-alcohol-other-drug-hotline\n\n- Family Drug Support: https://www.fds.org.au/\n\n- Counselling Online: https://www.counsellingonline.org.au/\n\n- Alcoholics Anonymous Australia: https://aa.org.au/\n\n- Narcotics Anonymous Australia: https://www.na.org.au/\n\n- how to quit smoking: https://www.health.gov.au/health-topics/smoking-and-tobacco/how-to-quit-smoking\n\n- Griefline: https://griefline.org.au\n\n- Beyond Blue: https://www.beyondblue.org.au/the-facts/grief-and-loss/\n\n- Headspace: https://headspace.org.au/explore-topics/for-young-people/grief-and-loss/\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- anxiety: https://www.healthdirect.gov.au/anxiety-related-disorders\n\n- Black Dog Institute: https://www.blackdoginstitute.org.au/resources-support/\n\n- Beyond Blue: https://www.beyondblue.org.au\n\n- Understanding Anxiety: https://understandinganxiety.wayahead.org.au/\n\n- This Way up: https://thiswayup.org.au\n\n- MindSpot Clinic: https://www.mindspot.org.au/\n\n- personality disorders: https://www.healthdirect.gov.au/personality-disorders\n\n- National Education Alliance for Borderline Personality Disorder Australia: https://www.bpdaustralia.org/\n\n- BPD Foundation: https://www.bpdfoundation.org.au\n\n- ReachOut: https://au.reachout.com/articles/support-services-for-personality-disorders\n\n- SANE Australia: https://www.sane.org\n\n- Phoenix Australia: https://www.phoenixaustralia.org/\n\n- Blue Knot Foundation: https://blueknot.org.au\n\n- eating disorders: https://www.healthdirect.gov.au/eating-disorders\n\n- National Eating Disorders Collaboration: https://nedc.com.au/support-and-services/\n\n- Butterfly Foundation: https://butterfly.org.au\n\n- Medicare Mental Health: https://www.medicarementalhealth.gov.au/\n\n- operating times: https://www.healthdirect.gov.au/australian-health-services/healthcare-service/virtual/head-to-health-phone-service/mental-health-information-and-referral/bbad2627-ad81-49ae-9917-f5f0faf1be2e\n\n- Black Dog Institute website: https://www.blackdoginstitute.org.au\n\n- self-help tools: https://www.mycompass.org.au/\n\n- Transcultural Mental Health Centre website: https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/in-your-language\n\n- ClearlyMe: https://www.blackdoginstitute.org.au/clearlyme/\n\n- ReachOut.com: https://au.reachout.com/\n\n- Headspace: https://headspace.org.au/\n\n- headspace centre: https://headspace.org.au/welcome-to-headspace-centres/\n\n- Kids Helpline: https://kidshelpline.com.au/\n\n- MOST: https://www.most.org.au/\n\n- Mello app: https://www.mello.org.au/\n\n- PANDA: https://panda.org.au/\n\n- COPE website: https://www.cope.org.au/\n\n- older people and mental health: https://www.healthdirect.gov.au/older-people-and-mental-health\n\n- My Aged Care: https://www.myagedcare.gov.au/caring-someone-mental-health-condition\n\n- 13YARN website: https://www.13yarn.org.au/\n\n- Rainbow Door website: https://www.rainbowdoor.org.au\n\n- QLife Website: https://qlife.org.au\n\n- Disability Gateway website: https://www.disabilitygateway.gov.au/health-wellbeing\n\n- (What is mental health?): https://www.beyondblue.org.au/mental-health/what-is-mental-health\n\n- (Tips to keep good mental health): https://headspace.org.au/assets/download-cards/18-Tips-for-a-healthy-headspace-headspace-fact-sheet-WEB.pdf\n\n- (About mental health): https://www.health.gov.au/topics/mental-health-and-suicide-prevention/about-mental-health\n\n- (What are mental health issues?): https://au.reachout.com/mental-health-issues/professional-help/what-are-mental-health-issues\n\n- (Understanding mental health conditions): https://www.mindaustralia.org.au/understanding-mental-health-conditions\n\n- (National Study of Mental Health and Wellbeing): https://www.abs.gov.au/statistics/health/mental-health/national-study-mental-health-and-wellbeing/latest-release\n\n- (Where to find help managing debts): https://www.afsa.gov.au/i-cant-pay-my-debts/support-services/where-find-help-managing-debts\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/mental-health-resources#backToTop\n\n- Mental health professionals: https://www.healthdirect.gov.au/mental-health-professionals\n\n- Rural or remote mental health: https://www.healthdirect.gov.au/rural-remote-mental-health\n\n- Talking to your doctor (GP) about mental health: https://www.healthdirect.gov.au/talking-to-your-doctor-gp-about-mental-health\n\n- Understanding the costs of mental health services: https://www.healthdirect.gov.au/understanding-the-costs-of-mental-health-services\n\n- Mental health: https://www.healthdirect.gov.au/search-results/Mental health\n\n- Mental Illnesses: https://www.healthdirect.gov.au/search-results/Mental Illnesses\n\n- Helplines: https://www.healthdirect.gov.au/search-results/Helplines\n\n- Psychiatry: https://www.healthdirect.gov.au/search-results/Psychiatry\n\n- Navigating mental health services | Medicare Mental Health There are many different types of mental health services and support. It's helpful to know what's available to make an informed choice. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/navigating-mental-health-services\n\n- Hospital mental health services | NT.GOV.AU Top End and Central Australia mental health hospital services. Read more on NT Health website: https://nt.gov.au/wellbeing/mental-health/hospital-mental-health-services\n\n- Mental health services | SA Health A directory of where to get mental health help in South Australia Read more on SA Health website: https://www.sahealth.sa.gov.au/wps/wcm/connect/public content/sa health internet/services/mental health and drug and alcohol services/mental health services/mental health services\n\n- Depression Online program | Mental Health Online Free online program to learn skills and strategies to help manage depression and improve well-being with optional free therapist support and resources. Read more on Mental Health Online website: https://www.mentalhealthonline.org.au/programs/depression-online\n\n- OCD Stop! program | Mental Health Online Free online program with optional therapist support and resources to help you understand OCD and learn strategies and techniques to better manage OCD. Read more on Mental Health Online website: https://www.mentalhealthonline.org.au/programs/ocd-stop\n\n- Panic Stop! program | Mental Health Online Free online program with optional therapist support to help manage panic and agoraphobia. Based on CBT, you will learn skills and strategies for managing panic. Read more on Mental Health Online website: https://www.mentalhealthonline.org.au/programs/panic-stop\n\n- PTSD Online program | Mental Health Online Free online program with optional therapist support to help manage symptoms of post-traumatic stress disorder, and reduce stress and physical symptoms. Read more on Mental Health Online website: https://www.mentalhealthonline.org.au/programs/ptsd-online\n\n- Accessing mental health services in Australia | Medicare Mental Health Reaching out for help can be daunting. Here you can explore your options and learn how to find and access the support that’s right for you. Read more on Medicare Mental Health website: https://www.medicarementalhealth.gov.au/finding-help/accessing-mental-health-services\n\n- Community based mental health services | NT.GOV.AU Non-government mental health support organisations and services for individuals and carers in the Northern Territory. Read more on NT Health website: https://nt.gov.au/wellbeing/mental-health/community-based-mental-health-services\n\n- Social Anxiety Online program | Mental Health Online Free online program to help you learn and implement skills and strategies that help manage social anxiety and improve overall mental health and well-being. Read more on Mental Health Online website: https://www.mentalhealthonline.org.au/programs/social-anxiety-online\n\n- Care to Learn Podcast Episode 9: Geoff Ahern In this episode of the Care to Learn Podcast, we sit down with Geoff Ahern, a senior mental health clinician and educator. Geoff speaks to us about a range of topics such as unconscious bias, listening to patient's stories and involving patients and their family in their care. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/care-to-learn-podcast-episode-9\n\n- How to Access Mental Health Treatment in Australia In the most recent National Study of Mental Health and Wellbeing, it was found that almost 43% of Australian adults had experienced a mental disorder in their lifetime, with 21.5% experiencing a mental disorder in the previous year. The term ‘mental disorder’ covers a range of clinically diagnosable disorders that negatively impact an individual’s cognitive, emotional or social abilities. Currently, the most common mental health conditions in Australia are anxiety disorders, affective disorders and substance abuse disorders. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/mental-health-treatment\n\n- A Wellness and Reablement Approach to Purposeful Ageing Wellness and reablement is an approach to care grounded in the belief that most people desire and are capable of enhancing their physical, social, and emotional wellbeing to live autonomously and as independently as possible, despite frailty, chronic illness or disability. Wellness and reablement rejects the notion that ageing is an irreversible and inevitable decline. Through purposeful engagements, the approach aims to empower older people to improve their quality of life by improving their physical and mental fitness. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/wellness-and-reablement\n\n- Predicting Perinatal Mental Health Issues The term perinatal mental health issues refers to any mental health problems that affect a new or expecting parent’s mood, behaviour, wellbeing and/or daily functioning. Overall, in Australia, perinatal mental illness affects up to 1 in 5 expecting or new mothers and 1 in 10 expecting or new fathers. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/predicting-perinatal-depression\n\n- RACGP - Mental health Mental health is a vital component of an individual’s overall health and welfare, and has a strong effect on physical health Read more on RACGP website: https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/silver-book/part-a/mental-health\n\n- Lived Experience | National Mental Health Commission It’s through listening to those providing services, those who fund services, and most importantly, those who use services that we will find the information we need to move towards the mental health system Australia needs. Every person’s story we hear, every experience shared, helps to develop our understanding of the system that’s required to best meet the needs of Australians living with mental ill health and their carers. Read more on National Mental Health Commission website: https://www.mentalhealthcommission.gov.au/lived-experience\n\n- Housing, Homelessness and Mental Health | National Mental Health Commission The safety, stability and security that comes from having a home is fundamental to optimal mental health and to leading a contributing life. The intersection between homelessness and mental ill health is a key concern for the Commission. Read more on National Mental Health Commission website: https://www.mentalhealthcommission.gov.au/lived-experience/contributing-lives,-thriving-communities/housing-homelessness-and-mental-health\n\n- National Children’s Mental Health and Wellbeing Strategy | National Mental Health Commission The Australian Government’s commitment to a national approach to mental health and suicide prevention could not be achieved without ensuring the mental health and wellbeing needs of our children. Read more on National Mental Health Commission website: https://www.mentalhealthcommission.gov.au/projects/childrens-strategy\n\n- CCI - Self Help Resources for Mental Health Problems Self-help resources for common mental health problems such as depression, anxiety, low self-esteem, sleep problems, and perfectionism. Includes workbooks made up of modules, brief information sheets, and worksheets that you may wish to use, or that your therapist may help you with. Materials developed by Clinical Psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself\n\n- Generalised Anxiety Self-Help Resources - Information Sheets & Workbooks Self-help resources for generalized anxiety disorder, written by clinical psychologists at the Centre for Clinical Interventions in Perth, Western Australia. Read more on Centre for Clinical Interventions website: https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Worry-and-Rumination\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -1,0 +1,2610 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+		<title>Dysphagia and nutrition in MND</title>
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="canonical" href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management" />
+
+		<meta property="og:url" content="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management" />
+		<meta property="og:title" content="Dysphagia and nutrition in MND" />
+		<meta property="og:type" content="website" />
+		<meta property="og:description" content="" />
+		<meta property="og:image" content="" />
+		<meta property="og:locale" content="en_AU" />
+		<meta property="og:site_name" content="Dysphagia and nutrition in MND" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:image" content="" />
+		<meta name="twitter:description" content="" />
+		<meta name="twitter:title" content="Dysphagia and nutrition in MND" />
+		<meta name="twitter:site" content="@mnd" />
+		<meta name="twitter:creator" content="@mnd" />
+
+		<link rel="icon" href="/dist/img/favicon.ico?v=1.0.036">
+		<link rel="apple-touch-icon" href="/dist/img/apple-touch-icon.png?v=1.0.036">
+
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Geist:wght@100..900&family=Shippori+Mincho:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" />
+
+		<link rel="stylesheet" href="/dist/styles/main.css?v=1.0.036">
+
+			<link rel="preconnect" href="https://challenges.cloudflare.com" />
+
+
+		<!-- Hotjar Tracking Code for Site 6443782 (name missing) -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:6443782,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X6XEN019KX"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("js", new Date());
+	gtag("config", "G-X6XEN019KX");
+</script>
+
+<!-- Google Tag Manager -->
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || [];
+		w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+		var f = d.getElementsByTagName(s)[0],
+			j = d.createElement(s),
+			dl = l != "dataLayer" ? "&l=" + l : "";
+		j.async = true;
+		j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+		f.parentNode.insertBefore(j, f);
+	})(window, document, "script", "dataLayer", "GTM-T3M6F85");
+</script>
+<!-- End Google Tag Manager -->
+
+
+<script>
+	(function () {
+		// =========================================================
+		// MAIN LOGIC
+		// =========================================================
+		function wrapWords() {
+			// 1. Fetch words from the body attribute
+			const wordsAttr = document.body.getAttribute("data-reciteme-ignored-words");
+
+			// Safety check: if attribute is missing or empty, stop.
+			if (!wordsAttr) return;
+
+			// 2. Process the string into an array
+			// We split by comma, trim whitespace (e.g., " word " -> "word"),
+			// and filter out empty entries.
+			const wordsToWrap = wordsAttr
+				.split(",")
+				.map((w) => w.trim())
+				.filter((w) => w.length > 0);
+
+			if (wordsToWrap.length === 0) return;
+
+			// 3. Prepare Regex
+			// Escape special regex characters
+			const escapedWords = wordsToWrap.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+
+			// Create Regex with word boundaries (\b)
+			// CHANGED: Removed 'i' flag. Used 'g' only to make it CASE SENSITIVE.
+			const regex = new RegExp(`\\b(${escapedWords.join("|")})\\b`, "g");
+
+			// 4. TreeWalker to find text nodes
+			const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+
+			const textNodes = [];
+			let node;
+
+			// Collect valid text nodes
+			while ((node = walker.nextNode())) {
+				const parentTag = node.parentNode.tagName.toUpperCase();
+				// Skip scripts, styles, textareas, and already wrapped elements
+				if (parentTag !== "SCRIPT" && parentTag !== "STYLE" && parentTag !== "TEXTAREA" && node.parentNode.getAttribute("data-recite-translate-skip") !== "true") {
+					textNodes.push(node);
+				}
+			}
+
+			// 5. Apply the wrapping
+			textNodes.forEach((textNode) => {
+				const text = textNode.nodeValue;
+
+				if (regex.test(text)) {
+					const fragment = document.createDocumentFragment();
+					let lastIndex = 0;
+					regex.lastIndex = 0;
+					let match;
+
+					while ((match = regex.exec(text)) !== null) {
+						const before = text.slice(lastIndex, match.index);
+						if (before) fragment.appendChild(document.createTextNode(before));
+
+						// Create the wrapper span
+						const span = document.createElement("span");
+						span.setAttribute("data-recite-translate-skip", "true");
+						span.textContent = match[0];
+						fragment.appendChild(span);
+
+						lastIndex = regex.lastIndex;
+					}
+
+					const remaining = text.slice(lastIndex);
+					if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+					textNode.parentNode.replaceChild(fragment, textNode);
+				}
+			});
+		}
+
+		// =========================================================
+		// EXECUTION
+		// =========================================================
+		if (document.readyState === "complete" || document.readyState === "interactive") {
+			wrapWords();
+		} else {
+			window.addEventListener("DOMContentLoaded", wrapWords);
+		}
+	})();
+</script>
+
+<script>
+	var serviceUrl = "//uswestapi.reciteme.com/asset/js?key=";
+	var serviceKey = "c9229e6aa634865dcc54bd17b62f554a5d2e5293";
+	var options = {
+		Dom: {
+			word_filters: {
+				mnd: "m.n.d",
+			},
+		},
+	}; // Options can be added as needed
+	var autoLoad = false;
+	var enableFragment = "#reciteEnable";
+	var loaded = [],
+		frag = !1;
+	window.location.hash === enableFragment && (frag = !0);
+	function loadScript(c, b) {
+		var a = document.createElement("script");
+		a.type = "text/javascript";
+		a.readyState
+			? (a.onreadystatechange = function () {
+					if ("loaded" == a.readyState || "complete" == a.readyState) ((a.onreadystatechange = null), void 0 != b && b());
+				})
+			: void 0 != b &&
+				(a.onload = function () {
+					b();
+				});
+		a.src = c;
+		document.getElementsByTagName("head")[0].appendChild(a);
+	}
+	function _rc(c) {
+		c += "=";
+		for (var b = document.cookie.split(";"), a = 0; a < b.length; a++) {
+			for (var d = b[a]; " " == d.charAt(0); ) d = d.substring(1, d.length);
+			if (0 == d.indexOf(c)) return d.substring(c.length, d.length);
+		}
+		return null;
+	}
+	function loadService(c) {
+		for (var b = serviceUrl + serviceKey, a = 0; a < loaded.length; a++) if (loaded[a] == b) return;
+		loaded.push(b);
+		loadScript(serviceUrl + serviceKey, function () {
+			"function" === typeof _reciteLoaded && _reciteLoaded();
+			"function" == typeof c && c();
+			Recite.load(options);
+			Recite.Event.subscribe("Recite:load", function () {
+				Recite.enable();
+			});
+		});
+	}
+	"true" == _rc("Recite.Persist") && loadService();
+	if ((autoLoad && "false" != _rc("Recite.Persist")) || frag)
+		document.addEventListener
+			? document.addEventListener("DOMContentLoaded", function (c) {
+					loadService();
+				})
+			: loadService();
+	function _reciteLoaded() {
+		Recite.Event.subscribe("Controls:loaded", function () {
+			Recite.Dom.setOptions({ word_filters: { mnd: "m.n.d" } });
+		});
+		document.querySelectorAll('[href^="tel:"], .phone').forEach(function (e) {
+			e.setAttribute("data-recite-translate-skip", true);
+		});
+
+		Recite.Event.subscribe("Translate:complete", function () {
+			document.querySelectorAll('.ktc-checkbox, [href^="tel:"]').forEach(function (e) {
+				e.setAttribute("dir", "ltr");
+			});
+		});
+	}
+</script>
+
+<script>
+	(function () {
+		var STORAGE_KEY = "reciteAccessibilityIntroAt";
+		var ONE_WEEK_MS = 7 * 24 * 60 * 60 * 1000;
+
+		function shouldRedirectToAccessibility() {
+			try {
+				var stored = localStorage.getItem(STORAGE_KEY);
+				if (!stored) return true;
+				var elapsed = Date.now() - parseInt(stored, 10);
+				return isNaN(elapsed) || elapsed >= ONE_WEEK_MS;
+			} catch (e) {
+				return true;
+			}
+		}
+
+		function markAccessibilityIntroSeen() {
+			try {
+				localStorage.setItem(STORAGE_KEY, String(Date.now()));
+			} catch (e) {}
+		}
+
+		function enableReciteOnCurrentPage() {
+			if (typeof loadService === "function") {
+				loadService();
+			}
+		}
+
+		function redirectToAccessibility() {
+			markAccessibilityIntroSeen();
+			if (window.location.pathname === "/accessibility") {
+				window.location.href = "/accessibility?t=" + Date.now() + "#reciteEnable";
+			} else {
+				window.location.href = "/accessibility#reciteEnable";
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", function () {
+			document.querySelectorAll(".enableRecite").forEach(function (element) {
+				element.addEventListener("click", function (event) {
+					if (event.preventDefault) event.preventDefault();
+					if (shouldRedirectToAccessibility()) {
+						redirectToAccessibility();
+					} else {
+						enableReciteOnCurrentPage();
+					}
+				});
+			});
+		});
+
+		if (window.location.pathname === "/accessibility" && window.location.hash === "#reciteEnable") {
+			document.addEventListener("DOMContentLoaded", function () {
+				markAccessibilityIntroSeen();
+				loadService();
+				if (typeof Recite !== "undefined") {
+					Recite.Event.subscribe("Recite:load", function () {
+						window.history.replaceState(null, null, window.location.pathname);
+					});
+				} else {
+					setTimeout(function () {
+						if (window.location.hash === "#reciteEnable") {
+							window.history.replaceState(null, null, window.location.pathname);
+						}
+					}, 1000);
+				}
+			});
+		}
+	})();
+</script>
+
+<style>
+@media print {
+.page-banner {
+margin-bottom: 0!important;
+}
+
+#recite-header {
+display: none;
+}
+
+body, header {
+top: 0 !important;
+}
+
+div.h-100 {
+height: auto !important;
+}
+
+.page-sidebar, .mobile-sidebar-dropdown, .page-sidebar-rating {
+display: none !important;
+}
+}
+
+.enableRecite {
+display: flex;
+align-items: center;
+}
+
+.accordion-button--link{
+font-weight: 400;
+}
+
+.accordion-button--link:after {
+display: none;
+}
+</style>
+		
+	</head>
+
+	<body class="" data-reciteme-ignored-words="">
+
+		  <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3M6F85"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+<script>
+(function() {
+    // =========================================================
+    // MAIN LOGIC
+    // =========================================================
+    function wrapWords() {
+        // 1. Fetch words from the body attribute
+        const wordsAttr = document.body.getAttribute('data-reciteme-ignored-words');
+
+        // Safety check: if attribute is missing or empty, stop.
+        if (!wordsAttr) return;
+
+        // 2. Process the string into an array
+        // We split by comma, trim whitespace (e.g., " word " -> "word"), 
+        // and filter out empty entries.
+        const wordsToWrap = wordsAttr
+            .split(',')
+            .map(w => w.trim())
+            .filter(w => w.length > 0);
+
+        if (wordsToWrap.length === 0) return;
+
+        // 3. Prepare Regex
+        // Escape special regex characters
+        const escapedWords = wordsToWrap.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+        
+        // Create Regex with word boundaries (\b) and case-insensitivity (i)
+        const regex = new RegExp(`\\b(${escapedWords.join('|')})\\b`, 'gi');
+
+        // 4. TreeWalker to find text nodes
+        const walker = document.createTreeWalker(
+            document.body,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const textNodes = [];
+        let node;
+
+        // Collect valid text nodes
+        while (node = walker.nextNode()) {
+            const parentTag = node.parentNode.tagName.toUpperCase();
+            // Skip scripts, styles, textareas, and already wrapped elements
+            if (parentTag !== 'SCRIPT' && 
+                parentTag !== 'STYLE' && 
+                parentTag !== 'TEXTAREA' &&
+                node.parentNode.getAttribute('data-recite-translate-skip') !== 'true') {
+                textNodes.push(node);
+            }
+        }
+
+        // 5. Apply the wrapping
+        textNodes.forEach(textNode => {
+            const text = textNode.nodeValue;
+            
+            if (regex.test(text)) {
+                const fragment = document.createDocumentFragment();
+                let lastIndex = 0;
+                regex.lastIndex = 0;
+                let match;
+
+                while ((match = regex.exec(text)) !== null) {
+                    const before = text.slice(lastIndex, match.index);
+                    if (before) fragment.appendChild(document.createTextNode(before));
+
+                    // Create the wrapper span
+                    const span = document.createElement('span');
+                    span.setAttribute('data-recite-translate-skip', 'true');
+                    span.textContent = match[0]; 
+                    fragment.appendChild(span);
+
+                    lastIndex = regex.lastIndex;
+                }
+
+                const remaining = text.slice(lastIndex);
+                if (remaining) fragment.appendChild(document.createTextNode(remaining));
+
+                textNode.parentNode.replaceChild(fragment, textNode);
+            }
+        });
+    }
+
+    // =========================================================
+    // EXECUTION
+    // =========================================================
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+        wrapWords();
+    } else {
+        window.addEventListener('DOMContentLoaded', wrapWords);
+    }
+})();
+</script>
+		
+
+		<header class="site-header ">
+			
+
+
+<div class="print-logo">
+	<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+</div>
+
+<div class="subheader-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12">
+				<div class="d-flex justify-content-end">
+					
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+					<ul>
+						<li>
+							<button class="btn btn-link text-white py-1 enableRecite" id="enableRecite1"><img src="/dist/img/a-icon-white.png" class="me-1" style="height: 20px; width: auto;" alt="Language and accessibility">Language and accessibility</button>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="header-menu">
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-12 d-flex align-items-center justify-content-between position-static">
+				<a href="/" class="header-logo">
+					<img src="/getmedia/502650c5-88e4-4c89-814a-5f254eccc9ef/mnd-logo.png?width=280&amp;height=122&amp;ext=.png" class="logo" alt="MNDA Logo">
+					<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="logo-transparent" alt="MNDA Logo">
+				</a>
+				<div class="header-nav">
+					<div class="desktop-menu hide-mobile">
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+					</div>
+					<div class="mobile-menu hide-desktop px-4">
+						<div class="mobile-search-menu d-flex mb-4">
+							<input type="text" class="header-mobile-search-input w-100 mb-0" placeholder="What would you like to search for?">
+							<button class="btn btn-link header-mobile-search-submit"><i class="fa-solid fa-search"></i></button>
+						</div>
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect" target="">
+					Information
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Information</div>
+									<div class="menu-card-content">MND Connect provides resources, information and service linkage for people living with MND, their carers and family, as well as the health professionals and services providers who support them to live well.</div>
+										<a href="/mnd-connect" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/mnd-connect/what-is-mnd" target="">
+					About MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/find-services" target="">
+					Find services and support
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/living-with-mnd" target="">
+					Living with MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/support-for-carers-family-friends" target="">
+					Carers, family and friends
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/for-health-professionals-service-providers" target="">
+					For health professionals
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/mnd-connect/information-resources" target="">
+					Information resources
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/accessibility" target="">
+					Language and accessibility
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/mnd-connect" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/research" target="">
+					Research
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Research</div>
+									<div class="menu-card-content">MND Australia&#39;s research grants program supports high-quality MND research to discover the causes, improve care and find treatments and ultimately a cure for MND.</div>
+										<a href="/research" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/research/our-research" target="">
+					Our research grants program
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/clinical-trials" target="">
+					Clinical trials in Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/support-mnd-research" target="">
+					Support MND research
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-registry" target="">
+					MiNDAUS Registry
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-research-statistics" target="">
+					Research statistics
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/research/mnd-collective" target="">
+					MND Research Collective
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/research" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy" target="">
+					Advocacy
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Advocacy</div>
+									<div class="menu-card-content">On behalf of people living with MND throughout Australia, and our state member Associations, MND Australia advocates to improve the lives of people impacted by MND.</div>
+										<a href="/advocacy" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/advocacy/our-priorities" target="">
+					Our advocacy priorities
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/government-submissions-hearings" target="">
+					Government submissions
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/parliamentary-friends-of-mnd" target="">
+					Parliamentary Friends of MND
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/advocacy/every-moment-matters" target="">
+					Every Moment Matters
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/advocacy" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved" target="">
+					Get Involved
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">Get involved</div>
+									<div class="menu-card-content">Find out how you can take part in advancing MND research and care in Australia. Through your support, we can work to improve the lives of those living with MND and drive forward research towards a cure.</div>
+										<a href="/get-involved" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/get-involved/national-mnd-lived-experience-network" target="">
+					The National MND Lived Experience Network
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/care-and-research-conference-2026" target="">
+					National MND Conference 2026
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/advocatingforchange" target="">
+					Advocate for change
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/community-survey-2025" target="">
+					MND Community Survey 2025
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/get-involved/make-a-donation" target="">
+					Support MND Australia
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/get-involved" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+        <li>
+                <a class="menu-item" href="/articles" target="">
+					News & Stories
+						<i class="fa-solid fa-chevron-down dropdown-icon ms-1 me-0"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+				<div class="header-submenu">
+					<div class="container-xl submenu-container">
+						<div class="row">
+							<div class="col-12 submenu-wrapper">
+								<div class="menu-card hide-mobile">
+										<div class="menu-card-title h4 mb-3">News, stories &amp; media</div>
+									<div class="menu-card-content">Find out about the latest news and developments in motor neurone disease and read personal stories from people impacted by MND.</div>
+										<a href="/articles" class="btn btn-outline-orange mt-3">View all</a>
+								</div>
+								<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+								<ul>
+        <li>
+                <a class="menu-item" href="/articles/news" target="">
+					News
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/stories" target="">
+					Stories
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/research-news" target="">
+					Research news
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/articles/media-releases" target="">
+					Media releases
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+								</ul>
+									<a href="/articles" class="btn btn-mobile-white-outline btn-outline-orange mt-4 hide-desktop">View all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+        </li>
+    </ul>
+
+						
+
+    <ul>
+        <li>
+                <a class="menu-item" href="/about-us" target="">
+					About
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+        <li>
+                <a class="menu-item" href="/contact-us" target="">
+					Contact
+						<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+					<i class="fa-solid fa-arrow-right ms-2 me-0 secondary-icon"></i>
+				</a>
+
+        </li>
+    </ul>
+
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3 me-2 enableRecite" id="enableRecite2">
+							<img src="/dist/img/a-icon-orange.png" class="me-2" style="height: 16px; width: auto;" alt="Language and accessibility">
+							<span>Language and accessibility</span>
+						</button>
+						<button class="btn btn-outline-orange align-items-center btn-header-support mt-3">
+							<i class="fa-solid fa-phone me-2"></i>
+							<span>Get Support</span>
+						</button>
+					</div>
+					<div class="header-submenu get-support-menu hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-12 submenu-wrapper">
+				<button class="btn btn-link mb-4 hide-desktop back-btn text-start text-sm"><i class="fa-solid fa-chevron-left ms-0 me-2"></i>Back</button>
+				<div class="menu-card">
+					<div class="menu-card-title h2 mb-3">Get support</div>
+					<div class="menu-card-content">Call the number below to get directly connected to the local MND association in your State</div>
+					<div class="d-flex align-items-center rounded-lg bg-blue border border-white px-3 px-lg-4 py-3 mt-4 mb-xl-0 mb-4">
+						<img src="/dist/img/australia.svg" class="h-auto" alt="Australia Map">
+						<div class="ps-4 ps-xl-5">
+							<a href="tel:1800 777 175" class="h4 text-white mb-1"><span class="phone">1800 777 175</span></a>
+							<div class="text-white">9am to 4:30pm Monday to Friday</div>
+						</div>
+					</div>
+				</div>
+				<div class="support-contact-container">
+					<div class="accordion" id="accordionContact1">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact1" aria-expanded="false" aria-controls="contentContact1"><span data-recite-translate-skip="true">Australian Capital Territory</span></button>
+							</h2>
+							<div id="contentContact1" class="accordion-collapse collapse" data-bs-parent="#accordionContact1">
+								<div class="accordion-body text-md">
+									<p>(MND services in the <span data-recite-translate-skip="true">ACT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#e48d8a828b888d8a81a4898a808a9793ca8b9683ca8591" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact5">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact5" aria-expanded="false" aria-controls="contentContact5"><span data-recite-translate-skip="true">South Australia</span></button>
+							</h2>
+							<div id="contentContact5" class="accordion-collapse collapse" data-bs-parent="#accordionContact5">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">66 Hughes Street, Mile End SA 5031</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 2087 Hilton Plaza SA 5033</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndsa.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#bad7dbd3d6ced580dbded7d3d4fad7d4dec9db94d5c8dd94dbcf" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact2">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact2" aria-expanded="false" aria-controls="contentContact2"><span data-recite-translate-skip="true">New South Wales</span></button>
+							</h2>
+							<div id="contentContact2" class="accordion-collapse collapse" data-bs-parent="#accordionContact2">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital,Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005,Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#b8d1d6ded7d4d1d6ddf8d5d6dcd6cbcf96d7cadf96d9cd" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact6">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact6" aria-expanded="false" aria-controls="contentContact6"><span data-recite-translate-skip="true">Tasmania</span></button>
+							</h2>
+							<div id="contentContact6" class="accordion-collapse collapse" data-bs-parent="#accordionContact6">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in <span data-recite-translate-skip="true">Tasmania</span> are provided by <span data-recite-translate-skip="true">MND Victoria</span>)</p>
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndatas.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#5d34333b321d3033393c293c2e733c2e33733c28" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact3">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact3" aria-expanded="false" aria-controls="contentContact3"><span data-recite-translate-skip="true">Northern Territory</span></button>
+							</h2>
+							<div id="contentContact3" class="accordion-collapse collapse" data-bs-parent="#accordionContact3">
+								<div class="accordion-body text-md">
+									<p>(<span data-recite-translate-skip="true">MND</span> services in the <span data-recite-translate-skip="true">NT</span> are provided by <span data-recite-translate-skip="true">MND NSW</span>)</p>
+									<p><span data-recite-translate-skip="true">Building 4, Gladesville Hospital, Victoria Road, Gladesville NSW 2111</span></p>
+									<p><span data-recite-translate-skip="true">Post: Locked Bag 5005, Gladesville NSW 1675</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndnsw.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#0960676f666560676c4964676d677a7e27667b6e27687c" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact7">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact7" aria-expanded="false" aria-controls="contentContact7"><span data-recite-translate-skip="true">Victoria</span></button>
+							</h2>
+							<div id="contentContact7" class="accordion-collapse collapse" data-bs-parent="#accordionContact7">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">265 Canterbury Rd, Canterbury Vic 3126</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 23, Canterbury 3126</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mnd.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#0b62656d644b66656f2564796c256a7e" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact4">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact4" aria-expanded="false" aria-controls="contentContact4"><span data-recite-translate-skip="true">Queensland</span></button>
+							</h2>
+							<div id="contentContact4" class="accordion-collapse collapse" data-bs-parent="#accordionContact4">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">1/89 Factory Road, Oxley QLD 4075</span></p>
+									<p><span data-recite-translate-skip="true">Post: PO Box 470, Inala QLD 4077</span></p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndqld.org.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#abc2c5cdc4ebc6c5cfcada85c4d9cc85cade" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="accordion" id="accordionContact8">
+						<div class="accordion-item">
+							<h2 class="accordion-header">
+								<button class="accordion-button collapsed bg-light text-blue" type="button" data-bs-toggle="collapse" data-bs-target="#contentContact8" aria-expanded="false" aria-controls="contentContact8"><span data-recite-translate-skip="true">Western Australia</span></button>
+							</h2>
+							<div id="contentContact8" class="accordion-collapse collapse" data-bs-parent="#accordionContact8">
+								<div class="accordion-body text-md">
+									<p><span data-recite-translate-skip="true">Unit 1, 184 Raleigh Street, Carlisle WA 6101</span></p>
+									<p>Post: as above</p>
+									<p class="phone">T: <a href="tel:1800 777 175"><span class="phone">1800 777 175</span></a></p>
+									<div class="btn-container">
+										<a href="https://www.mndawa.asn.au/" class="btn btn-orange w-100 mb-1" target="_blank">
+											<i class="fa-solid fa-display"></i> Visit website
+										</a>
+										<a href="/cdn-cgi/l/email-protection#bedfdad3d7d0fed3d0dadfc9df90dfcdd090dfcb" class="btn btn-outline-orange w-100">
+											<i class="fa-regular fa-envelope"></i> Send a message
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="header-submenu search-menu bg-light hide-mobile">
+	<div class="container-xl submenu-container">
+		<div class="row">
+			<div class="col-xl-8 offset-2 d-flex justify-content-center align-items-center">
+				<div class="search-container w-100">
+					<p class="fw-bold">Search</p>
+					<div class="d-flex">
+						<input type="text" class="form-control header-desktop-search-input w-100 px-3 mb-0" placeholder="What would you like to search for?">
+						<button class="btn btn-orange header-desktop-search-submit ms-3">Search</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="header-actions">
+					<button class="btn btn-outline-orange align-items-center btn-header-support">
+						<i class="fa-solid fa-phone me-2"></i>
+						<span>Get Support</span>
+					</button>
+					<button class="btn btn-link p-0 d-none d-xs-inline-block d-xl-none me-1 enableRecite" id="enableRecite3">
+						<img src="/dist/img/a-icon-blue.png" style="height: 34px; width: auto;" alt="Language and accessibility">
+					</button>
+						<a href="https://donate.mndaustralia.org.au/" class="btn btn-orange align-items-center ms-0 btn-header-donate">
+							<i class="fa-solid fa-heart me-2"></i>
+							<span>Donate</span>
+						</a>
+					<button class="btn btn-light bg-light align-items-center justify-content-center p-0 rounded-circle btn-header-search">
+						<i class="fa-solid fa-search"></i>
+					</button>
+					<button class="btn btn-link align-items-center justify-content-center p-0 btn-header-toggle">
+						<i class="fa-solid fa-bars"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		</header>
+
+
+
+<nav class="breadcrumb-container" aria-label="breadcrumb">
+    <div class="container-xl">
+        <div class="row">
+            <div class="col-12 py-0">
+                <ul class="breadcrumb">
+                <li class="breadcrumb-item">
+                        <a href="/mnd-connect">Information &amp; Support</a>
+                </li>
+                <li class="breadcrumb-item">
+                        <a href="/mnd-connect/for-health-professionals-service-providers">For health professionals</a>
+                </li>
+                <li class="breadcrumb-item">
+                        <a href="/mnd-connect/for-health-professionals-service-providers/managing-symptoms">Managing symptoms in MND</a>
+                </li>
+                <li class="breadcrumb-item">
+                        <span>Dysphagia and nutrition in MND</span>
+                </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+		<main>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-fluid pt-0 pb-5 px-0  ">
+        <div class="row gx-0 ">
+                    <div class="col-12">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+<div class="page-banner banner-md banner-hide-tablet banner-hide-mobile banner-content-full" style="background-color: #2254a0; --bg-color: #2254a0; --bg-image-desktop: url(''); --bg-image-tablet: url(''); --bg-image-mobile: url(''); background-position: center center; background-size: auto 100%;">
+        <div class="container-xl">
+			<div class="content">
+            	<h1 style="color: rgba(255, 255, 255, 1)">Dysphagia &amp; nutrition</h1>
+			</div>
+        </div>
+</div>
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<div id="" class=" "
+    style="--overlap-bg: #ffffff; 
+        background-color: transparent;
+        
+        background-size: cover; background-position: center;">
+    <div class="container-xl pt-0 pb-5   ">
+        <div class="row gy-4 ">
+                    <div class="col-md-6 col-lg-4 order-2 order-md-1">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+
+	<div class="page-sidebar page-list">
+		<div class="sidebar-menu">
+				<div class="sidebar-title h5">
+					Managing symptoms
+				</div>
+				
+			<ul>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/cognition-behaviour-in-mnd">Cognitive change in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/communication-in-mnd">Dysarthria and communication in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="active">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management">Dysphagia and nutrition in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/fatigue-and-insomnia">Fatigue and insomnia in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/movement-joints">Muscle weakness and pain in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd">Respiratory and NIV in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/saliva-management-in-mnd">Saliva management in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+			</ul>
+		</div>
+
+			<button class="btn btn-outline-orange btn-print" onclick="window.print()"><i class="fa-solid fa-print me-2 ms-0"></i>PDF/Print this page</button>
+    		<div class="last-updated text-lg my-4">
+				Last updated: <span class="fw-medium">June 2021</span>
+			</div>
+	</div>
+	<div class="mobile-sidebar-dropdown" id="mobileSidebarDropdown">
+		<button type="button" class="mobile-sidebar-dropdown-btn" id="mobileSidebarDropdownBtn" aria-expanded="false" aria-haspopup="true" aria-label="Page navigation">
+			<span class="mobile-sidebar-dropdown-label">Managing symptoms</span>
+			<i class="fa-solid fa-chevron-down mobile-sidebar-dropdown-chevron" aria-hidden="true"></i>
+		</button>
+		<div class="mobile-sidebar-content mobile-sidebar-dropdown-menu" id="mobileSidebarDropdownMenu" role="menu" hidden>
+			<ul>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/cognition-behaviour-in-mnd" role="menuitem">Cognitive change in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/communication-in-mnd" role="menuitem">Dysarthria and communication in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="active" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/swallowing-nutrition-management" role="menuitem">Dysphagia and nutrition in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/fatigue-and-insomnia" role="menuitem">Fatigue and insomnia in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/movement-joints" role="menuitem">Muscle weakness and pain in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/breathing-management-in-mnd" role="menuitem">Respiratory and NIV in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+					<li class="" role="none">
+						<a href="https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers/managing-symptoms/saliva-management-in-mnd" role="menuitem">Saliva management in MND <i class="fa-solid fa-arrow-right"></i></a>
+					</li>
+			</ul>
+		</div>
+	</div>
+		<div class="page-sidebar-rating">
+			
+    <div data-page-rating-component="content-rating-form" 
+         data-content-rating-endpoint="/api/document-rating/submit" 
+         data-document-guid="4b23e1e6-9004-4cf0-837d-ec625bb47bde" 
+         data-document-version="6.0" 
+         data-contact-guid="00000000-0000-0000-0000-000000000000">
+    </div>
+
+		</div>
+
+    
+
+
+						</div>
+                    </div>
+                    <div class="col-md-6 col-lg-8 order-1 order-md-2">
+						<div class="h-100 ">
+                        	
+
+
+
+
+
+
+
+    <div class="fr-view">
+        <p><strong>This information is for health professionals and service providers.</strong></p><p>Dysphagia is difficulty in swallowing caused by weakness and paralysis of the lips, facial muscles, tongue, larynx and pharynx resulting from affected trigeminal, facial, glossopharyngeal, vagus, accessory and hypoglossal nerves.</p><p>Swallowing difficulties should be assessed and regularly reviewed by a speech pathologist. The goal of managing swallowing difficulties is to maintain optimal levels of nutrition and hydration and to reduce choking episodes.&nbsp;</p><p>Speech pathologists work with dietitians to provide advice concerning food and fluid consistency, modification of diet and gastrostomy.&nbsp;</p>
+    </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="accordion accordion-flush mt-3 mb-3" id="accordion-92194843-4185-4e97-be4e-31424e5a8e86"
+     >
+
+
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_489">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_489"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_489">
+					Dysphagia
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_489" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_489"
+                >
+                <div class="accordion-body">
+                    <p>Dysphagia eventually affects about two thirds of people with MND.&nbsp;&nbsp;</p>
+
+<p><br>
+The effects of dysphagia include:&nbsp;</p>
+
+<ul>
+	<li>impaired ability to form a lip seal, chew, form a bolus and propel food/fluid with the tongue</li>
+	<li>delayed or effortful&nbsp;swallow reflex</li>
+	<li>reduced or inconsistent airway protection during the swallow</li>
+</ul>
+
+<p><br>
+Which can result&nbsp;in:</p>
+
+<ul>
+	<li>drooling</li>
+	<li>dehydration and malnutrition</li>
+	<li>aspiration and resultant chest infections which contribute to impaired respiratory function</li>
+	<li>muscle spasms</li>
+	<li>severe coughing - choking risk</li>
+</ul>
+
+<blockquote>
+<p>Dysphagia is very frequent in ALS, affecting approximately 85% of patients. Bulbar onset ALS is more common in older individuals compared with younger individuals diagnosed with ALS. It may lead to complications such as malnutrition, dehydration, aspiration pneumonia, respiratory failure, and reduced quality of life and social isolation.<br>
+<br>
+Swallowing is a complex act that involves oral, pharyngeal, and oesophageal stages and requires multiple elements to be effective; ALS patients may have a combination of spastic and flaccid weakness affecting their swallowing caused by degeneration of cortical motor neurons, corticobulbar tracts, and brainstem nuclei. The loss of supranuclear innervation to the brainstem nuclei results in spasticity of the jaw, facial, palatal, pharyngeal, laryngeal, and tongue muscles whereas degeneration of the brainstem nuclei causes flaccid paralysis in these muscles. The characteristic symptoms resulting from the combination of upper and lower motor neuron dysfunction include fatigue when chewing, leakage of food or liquid out of the mouth, nasal regurgitation, prolonged duration while swallowing, inability to clear the oral cavity, and coughing or choking when swallowing. &nbsp;In a typical ALS patient, both mechanisms are likely contributing the dysphagia and dysarthria (Epps et al 2020).&nbsp;</p>
+</blockquote>
+
+<blockquote>
+<p>In ALS, factors that restrict adequate nutrition develop insidiously and progressively worsen. The functional consequences are choking, aspiration, weight loss, and dehydration. Dysphagia is a symptom experienced by the patient and is prima facie evidence of swallowing dysfunction (Miller et al 2009).<br>
+&nbsp;</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_490">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_490"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_490">
+					Assessment
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_490" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_490"
+                >
+                <div class="accordion-body">
+                    <p>Swallowing difficulties should be assessed and regularly reviewed by a speech pathologist. Speech pathologists work with dietitians to monitor weight, provide advice concerning food and fluid consistency, modification of diet and the option of percutaneous endoscopic gastrostomy (PEG). The goal of managing swallowing difficulties is to reduce the risk of choking and aspiration and to help maintain optimal levels of nutrition and hydration.</p>
+
+<blockquote>
+<p>Instrumental assessments provide the most comprehensive evaluation of swallowing physiology through visualization of the swallowing sequence, and/or measurement of swallowing function. Although 91.8% of studies describing Pharyngeal Phase Difficulties based their data on instrumental assessment, reports of Oral Phase Difficulties and Aspiration/Penetration were more likely to be based on clinical signs and patient-reported symptoms; instrumental assessments were cited as the source of these observations 65.5% and 62.1% of the time, respectively. As recent findings have identified that aspiration may be silent in individuals with MND this challenges the sensitivity and specificity of clinical observation and patient report, and highlights the importance of conducting instrumental assessment of swallowing with these individuals. In the clinical context, considerations regarding patient goals and priorities, rate of disease progression, and risks associated with repeat radiation exposure (i.e., video fluoroscopy) will help guide the use of instrumental assessment (Waito et al 2017).</p>
+</blockquote>
+
+<blockquote>
+<p>Weight loss in ALS patients may occur because of dysphagia, muscle atrophy, poor appetite related to depression, and hypermetabolic state. In addition, caloric needs in an ALS patient may be underestimated using traditional equations in part because of increased work of using weak muscles, as well as energy expenditure associated with cramps, spasticity, fasciculations, and pseudobulbar manifestations. A potentially more accurate way to measure an ALS patient’s total daily caloric needs uses the Harris-Benedict equation but also incorporates scores of 6 items from the ALS functional rating scale relating to speech, handwriting, dressing and hygiene, turning in bed, walking and dyspnea.&nbsp;</p>
+
+<p>Weight loss of greater than 10%, rapid changes in BMI from time of symptom onset to diagnosis, as well as greater BMI changes in the first 2 years of being diagnosed with ALS are all associated with a worse prognosis. Patients with a BMI classification of mild obesity at time of study entry had a better prognosis, and in a prospective nutritional and cancer study of over a half a million subjects followed for 14–28 years, higher body fat was associated with a lower risk of dying from ALS (Jackson et al 2015).&nbsp;</p>
+</blockquote>
+
+<blockquote>
+<p>Video fluoroscopic evaluation of the swallowing mechanism may identify food textures that can be handled successfully. However, it is not a required test to establish the presence or absence of dysphagia (Miller et al 2009).</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_491">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_491"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_491">
+					Management
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_491" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_491"
+                >
+                <div class="accordion-body">
+                    <p>Dysphagia management requires a rapid, coordinated, interdisciplinary team approach and regular review to include:&nbsp;</p>
+
+<ul>
+	<li>early referral to a speech pathologist for assessment and monitoring of swallow and advice concerning safe swallowing, food and fluid consistency, modification of diet, modified eating and drinking utensils, gastrostomy</li>
+	<li>referral to a occupational therapist for advice concerning assistive technology, modified plates, cups, cup holders, cutlery, and non-slip matting</li>
+	<li>referral to a dietitian for assessment and further advice concerning nutritional intake, food and fluid consistency, modification of diet, modified eating and drinking utensils and gastrostomy&nbsp;</li>
+	<li>referral to a respiratory specialist for assessment and monitoring of respiratory function to assist with timing of gastrostomy&nbsp;</li>
+	<li>consult with a physiotherapist for advice on head and neck support and positioning&nbsp;</li>
+	<li>consult with a physiotherapist for training carers to perform assisted cough&nbsp;</li>
+	<li>contact the MND Association for information concerning managing swallowing difficulties, managing saliva, nutrition and gastrostomy for people living with MND&nbsp;and see information for people living with MND section below</li>
+	<li>ongoing monitoring and support.&nbsp;</li>
+</ul>
+
+<blockquote>
+<p>Across the literature, the most common recommendation for dysphagia management in patients with MND is enteral nutrition. As MNDs are progressive with no known cure, enteral nutrition is a key management option to reduce the risk of secondary consequences resulting from dysphagia, and maintain optimal health status. Enteral nutrition has been shown to improve or maintain nutritional status, weight gain and prolonged survival provided that respiratory status is adequate. Current recommendations indicate that prophylactic introduction of an enteral nutrition method (e.g., PEG-tube) is preferred, in order to supplement nutrition early and ensure that respiratory capacity is adequate (e.g., FVC 50%) at the time of surgery. Still, enteral feeding does not directly treat the disordered swallow, but rather provides nutritional supplementation in the absence of a safe or efficient swallow. Research on direct management strategies to improve or mitigate swallowing function has been much more limited (Waito et al 2017).</p>
+</blockquote>
+
+<blockquote>
+<p>Weight maintenance and nutritional support are critical in the routine management of MND. Weight loss in MND has complex origins and may be caused in some patients by a hypermetabolic state, with or without swallowing dysfunction, and is associated with more rapid disease progression. Conversely, nutritional interventions, including enteral feeding, although primarily intended to maintain well-being, are associated to a variable degree with improved survival. Optimisation of nutrition includes regular weight measurement, symptom enquiry and swallowing assessment for swallowing dysfunction, nutritional supplementation and dietary advice, and enteral feeding through a percutaneous endoscopic gastrostomy (PEG) tube if appropriate and desired by the patient. Discussions regarding PEG feeding should be instituted relatively early in the course of disease before severe dysphagia ensues. This is particularly relevant in patients with concomitant respiratory muscle weakness, as significant respiratory failure makes insertion of a PEG tube more hazardous and thus may preclude this intervention if delayed (Simon et al 2015).<br>
+&nbsp;</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_492">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_492"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_492">
+					Maintaining nutrition
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_492" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_492"
+                >
+                <div class="accordion-body">
+                    <p>Some weight loss is an inevitable consequence of muscle wasting, however, as MND progresses eating may become difficult, more exhausting and cause anxiety.&nbsp; The prevalance of hypermetabolism&nbsp;further compounds weight&nbsp;loss.&nbsp;</p>
+
+<p>A coordinated interdisciplinary team approach and regular assessment is vital in maintaining nutrition:&nbsp;</p>
+
+<ul>
+	<li>assessment and advice from a speech pathologist experienced in evaluating and treating swallowing difficulties, including management of coughing and sensations of choking</li>
+	<li>advice from a dietitian about dietary intake and fluid consistency modifications</li>
+	<li>advice from an occupational therapist about helpful utensils and aids</li>
+	<li>ongoing monitoring and discussion regarding calorific intake and energy conservation strategies&nbsp;</li>
+	<li>monitor weight loss closely and ensure early and regular discussion regarding placement of gastrostomy and help patients with decison making</li>
+	<li>referral to a gastroenterologist if a decision to have a gastrostomy is made.&nbsp;</li>
+</ul>
+
+<blockquote>
+<p>Malnutrition and weight loss are well recognised poor prognostic factors in ALS. Reasons for weight loss are multifactorial and include muscle wasting secondary to denervation poor oral intake due to dysphagia, upper limb weakness and poor appetite and energy intake is lower than predicted daily requirements. Calorie ingestion of less than the recommended daily amount has been observed in 70% and 94% of patients with ALS in two cohorts. Low oral intake is compounded by an increased resting energy expenditure which occurs in up to 67% of patients with ALS. The cause of hypermetabolism in ALS is unknown with several unproven hypotheses including mitochondrial dysfunction .</p>
+
+<p>Given the high prevalence of hypermetabolism and the association of weight loss and malnutrition with a poor prognosis in ALS a small pilot study of high calorie diets in gastrostomy fed patients with advanced disease has been undertaken. The results indicated a possible survival advantage with good tolerability of high calorie supplementation. This demonstrated the potential of a high calorie nutritional intervention to influence the disease course in ALS (Hobson and McDermott 2016).</p>
+</blockquote>
+
+<blockquote>
+<p>Early swallowing problems are addressed with changes made while eating, including smaller bites, slowing down, and avoiding talking while eating. Consistency changes may be suggested, including blending solid foods or adding thickener to liquids. Speech therapists may provide instructions in chin tuck or head turning to improve the ease and safety of a swallow. As the disease progresses, these are frequently not sufficient, and a feeding tube is considered.&nbsp;</p>
+
+<p>Reasons to recommend a gastrostomy tube include malnutrition/weight loss, long meal times, evidence for aspiration, and dehydration. Although the AAN practice guidelines supports placement when the vital capacity is above 50% because of concerns of increased risk as this value falls, recent data provides evidence that a gastrostomy tube can be safely placed with vital capacities below this value, particularly when non-invasive ventilation can be used during the procedure (Jackson et al 2015).&nbsp;&nbsp;</p>
+</blockquote>
+
+<blockquote>
+<p>The initial management of dysphagia is based on the following: dietary counselling, modification of food and fluid consistency (blending food, adding thickeners to liquids), prescription of high-protein and high-caloric supplements, education of the patient and carers in feeding and swallowing techniques such as supraglottic swallowing and postural changes and flexing the neck forward on swallowing to protect the airway (‘chin-tuck manoeuvre’). Some patients with difficulty swallowing tap water can more easily drink carbonated fluids and/or ice-cold liquids. When tube feeding is needed, three procedures obviate the need for major surgery and general anaesthesia: percutaneous endoscopic gastrostomy (PEG), percutaneous radiologic gastrostomy (PRG, or radiologically inserted gastrostomy) and nasogastric tube (NGT) feeding (Andersen et al 2012).</p>
+</blockquote>
+
+<p> </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_493">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_493"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_493">
+					Gastrostomy (PEG and RIG)
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_493" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_493"
+                >
+                <div class="accordion-body">
+                    <p>Oral feeding may become a high risk activity due to increased risk of obstruction of the airway, aspiration and inability to meet nutritional requirements.</p>
+
+<p>Best evidence to date supports the use of feeding via a percutaneous endoscopic gastrostomy (PEG) or radiologically inserted gastrostomy (RIG) to improve nutrition and potentially to provide a survival advantage for those with swallowing difficulties.&nbsp;Gastrostomy placement does not preclude oral feeding as well but offers an alternative way to administer medications and fluids and supplement intake of food to maintain weight.<br>
+<br>
+An important consideration with gastrostomy insertion is that respiratory muscle weakness and malnutrition can affect recovery from the procedure.<br>
+<br>
+It is important that the person living with MND be aware of gastrostomy options in good time in order to obtain maximum benefit. The person with MND, their carer and family should&nbsp;be guided and supported through the decision making process and have access to timely and trusted information.&nbsp;&nbsp;</p>
+
+<h5>Key points:&nbsp;</h5>
+
+<ul>
+	<li>assessment by a respiratory physician should be performed prior to the procedure</li>
+	<li>for optimal safety and efficacy the procedure should be undertaken when the patient’s FVC is more than 50% of predicted</li>
+	<li>respiratory support during the procedure may be an option&nbsp;</li>
+	<li>a radiologically inserted gastrostomy (RIG) is a less invasive alternative procedure which may be an option for people with respiratory impairment&nbsp;</li>
+	<li>referring the person to a specialist and a hospital experienced in inserting a gastrostomy for people with MND may reduce the risk of complications</li>
+</ul>
+
+<blockquote>
+<p>Enteral feeding is commonly used to sustain intake of nutrition and medication but there is no convincing evidence that it improves survival, nutritional outcomes or quality of life. Given it is already extensively used in ALS, it is unlikely that a randomised controlled trial with a placebo arm to definitively explore this issue would be possible. However, evidence regarding the timing and method of gastrostomy have become clearer following a prospective cohort study of 345 patients undergoing gastrostomy insertion. Whilst expert consensus previously recommended that a loss of 10% of body weight should trigger insertion, this cohort study suggested that this may be too late. Those patients undergoing the procedure who had already lost more than 5% of their premorbid weight were unlikely to regain this weight with enteral feeding. It is therefore recommended that patients should be referred to a dietician and speech therapist at the onset of dysphagia and consider gastrostomy insertion early in the disease, ideally prior to the development of respiratory failure or significant weight loss.&nbsp;</p>
+
+<p>Identifying the correct time for an individual to undergo the procedure is challenging and patients often chose to delay insertion, particularly those still enjoying the taste and the social importance of eating. Patients may view gastrostomy negatively, as it represents an important milestone in their disease and using a gastrostomy also places a major burden on carers. For some patients with severe cognitive impairment or who are frail or nearing the end of life, conservative management may be more appropriate. Alternatives such as nasogastric feeding, subcutaneous fluids or even parental nutrition may be considered (Hobson and McDermott 2016).</p>
+</blockquote>
+
+<blockquote>
+<p>There are no randomised controlled trials to indicate whether enteral tube feeding is beneficial compared to continuation of oral feeding for any of the outcome measures. The 'best' evidence to date suggests a survival advantage for some people with amyotrophic lateral sclerosis/motor neuron disease, but these conclusions are tentative. Evidence for improved nutrition is also incomplete but tentatively favorable.&nbsp;</p>
+
+<p>Quality of life has been addressed in studies and needs more attention. Based on a number of recent non-randomized studies comparing surgical and radiographic approaches to feeding tube insertion these two procedures for PEG tube insertion appear to be equivalent (Katzberg and Benatar 2011).</p>
+</blockquote>
+
+<blockquote>
+<p>Percutaneous endoscopic gastrostomy is the standard procedure for enteral nutrition in ALS and is widely available. PEG improves nutrition, but there is no convincing evidence that it prevents aspiration or improves quality of life or survival (Class III). The procedure requires mild sedation and is therefore more hazardous in patients with respiratory impairment and/or at an advanced stage of the disease. Non-invasive ventilation during the PEG procedure may be feasible in patients with respiratory impairment (Class IV). The timing of PEG is mainly based on symptoms, nutritional status and respiratory function. To minimize risks, PEG should be performed before vital capacity falls below 50% of predicted (Class IV) (Andersen et al 2012).&nbsp;</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_494">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_494"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_494">
+					Oral hygiene
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_494" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_494"
+                >
+                <div class="accordion-body">
+                    <p>Mouth care is very important for people with MND who have swallowing difficulties due to&nbsp;tongue and throat muscle weakness. Immobility of the tongue decreases the natural ability to move food particles around the mouth, food can become trapped in the cheek pockets and this can cause mouth ulceration. In addition the antibacteria, anti-viral and anti-fungal properties of saliva are not as effective when a person has drooling saliva, thick saliva or dry mouth.</p>
+
+<p><strong>Mouth care:</strong></p>
+
+<ul>
+	<li>the person’s mouth should be inspected each day for signs of oral thrush or ulcers</li>
+	<li>make sure that excess secretions do not collect in the mouth, as this can cause problems swallowing</li>
+	<li>teeth should be brushed carefully after meals
+	<ul>
+		<li>it may be helpful to use an electric toothbrush</li>
+	</ul>
+	</li>
+	<li>spitting out the foam from toothpaste can be very difficult when a person cannot spit due to muscle weakness. A low foaming toothpaste, available from chemists, reduces the need to clear foam from the mouth</li>
+	<li>swabbing the mouth with a cotton wool bud soaked in bicarbonate of soda and water (half a teaspoon to a glass of water) will help keep the mouth clean.</li>
+</ul>
+
+<blockquote>
+<p>ALS patients may report jaw quivering or clenching due to spasticity, precipitated by pain, anxiety or cold. Jaw clenching can be severe enough to interfere with oral hygiene. Treatment includes benzodiazepines as listed in Table 4. Botulinum toxin injected at 2 sites within the masseters on each side has been reported anecdotally to be effective. Dental guards can alleviate cheek biting at night (Jackson et al 2015).</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_495">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_495"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_495">
+					Choking
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_495" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_495"
+                >
+                <div class="accordion-body">
+                    <p>Swallowing will get more difficult over time and people with MND may experience episodes of severe<br>
+uncontrolled coughing which increases their choking risk. Impaired respiration and swallow reflex, weak<br>
+cough response, muscle spasm or stridor (due to acid reflux), and aspiration of food or fluids can increase<br>
+choking risk.</p>
+
+<p>Severe uncontrolled coughing episodes are distressing for people with MND, their family and<br>
+carers.&nbsp;It is important to stress to the patient and their carer that death caused by a choking attack is rare.</p>
+
+<ul>
+	<li>encourage the person with MND and their carer to stay calm and wait for the attack to pass</li>
+	<li>advise the patient, carer and family on how to seek medical advice during or after an episode</li>
+	<li>encourage the person to focus on slow and steady breathing</li>
+	<li>open a window to give the feeling of air on the face</li>
+	<li>assist the person to the most upright position possible</li>
+	<li>encourage the person to cough and then swallow their saliva if possible</li>
+	<li>consult a physiotherapist for advice on assisted cough technique and/or use of cough assist machine and suctioning (see respiratory symptoms and saliva management)&nbsp;</li>
+	<li>medications which help discomfort related to choking include morphine, amitriptyline, benzodiazepines and glycopyrrolate.</li>
+</ul>
+
+<blockquote>
+<p>In a study of the last month of life in ALS patients, the most common symptoms were difficulty communicating, dyspnea, choking episodes, insomnia, and pain. Many of these symptoms were often inadequately controlled (Jackson et al 2015).&nbsp;</p>
+</blockquote>
+
+<blockquote>
+<p>Shortly after diagnosis, reassuring patients pro-actively that those with ALS do not ‘choke to death’ can help to allay a major concern, and set the scene for a better understanding of the purpose of gastrostomy if this becomes indicated later.&nbsp;</p>
+
+<p>There are often fears of ‘choking to death’ , which can be justifiably allayed when studies have shown that this to be exceptional. Explanation and preparation for dying, including the provision of appropriate medication, advance care planning and support of the person and their family can alleviate these fears (Oliver et al 2010).&nbsp;</p>
+</blockquote>
+
+<blockquote>
+<p>The fear of "choking to death" is on the mind of most patients suffering from amyotrophic lateral sclerosis (ALS). So far, however, there have been no systematic surveys concerning the dying phase in a general ALS population. We therefore performed a structured telephone interview with the relatives of 121 patients who died from ALS and were followed by the Motor Neuron Outpatient Clinic of the Department of Neurology, University of Munich, Germany. These data are compared with those obtained by a retrospective analysis of medical records of 50 ALS patients who were followed by the Wisdom Hospice, Rochester, UK. The data show that most ALS patients (Germany 88%, UK 98%) died peacefully, and no patient "choked to death" (Neudert et al 2001).</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_496">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_496"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_496">
+					Laryngospasm
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_496" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_496"
+                >
+                <div class="accordion-body">
+                    <p>Laryngospasm is an uncommon symptom that may be experienced by patients with dysphagia. It can be very&nbsp;frightening as it may develop suddenly and results in the person with MND not being able to take a breath or call out for help.</p>
+
+<p>Careful management of dysphagia and an interdisciplinary team approach that includes palliative care is vital for people living with MND in preventing or ameliorating this symptom.&nbsp;&nbsp;</p>
+
+<blockquote>
+<p>Multidisciplinary input including speech and language therapy, physiotherapy and palliative care are important and improve outcome.&nbsp;Placement of a feeding gastrostomy and management of secretions is necessary to maintain nutrition and reduce risk of aspiration. A tracheostomy may be required in the presence of severe laryngeal spasm, or recurrent aspiration, but may not benefit quality of life if bulbar symptoms occur at end stage and if the care package consequences are significant. The advantages and disadvantages of performing a tracheostomy should be carefully explored as part of advance decision-making. No therapy or intervention, whether it is NIV, tracheostomy ventilation or MI-E, should be pursued if burdens outweigh benefit.</p>
+
+<p>Laryngospasm is the sudden sensation that air can’t be moved in and out, usually lasting seconds accompanied by inspiratory stridor, or audible respirations due to a rapid and forceful contraction of laryngeal adductors. It is extremely frightening since the patient can’t take a breath or call for help. In a study on laryngospasm, 2 percent of a control group of 122 patients in the early stages of ALS reported laryngospasm, though up to 19% of patients have reported it in later stages. Common causes of laryngospasm in ALS are liquid or saliva in contact with the larynx, acid reflux, smoke, strong smells, emotion, alcohol, cold bursts of air, and even spicy foods.&nbsp;</p>
+
+<p>Non-pharmacologic measures help in many patients. A rapid change to the upright position of the upper body, fixation of the arms to stabilize the body, breathing through the nose, swallowing repetitively and breathing with slow exhalation through lips have been reported to shorten episodes. If frequent enough and non-pharmacologic measures are ineffective, benzodiazepines bid or tid can be used. In the case of GERD, treat with anti-reflux therapy and prokinetic drugs like metoclopramide before meals and at bedtime (Jackson et al 2015).</p>
+</blockquote>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_497">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_497"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_497">
+					Constipation &amp; urinary urgency
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_497" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_497"
+                >
+                <div class="accordion-body">
+                    <p>The sphincter muscles themselves are not weakened by MND and therefore incontinence is not a common problem for people living with MND. However, people living with MND may experience problems with constipation and urinary urgency.&nbsp;</p>
+
+<blockquote>
+<p>Autonomic symptoms have been reported in up to 29% of patients with ALS. Common symptoms involve urinary and gastrointestinal dysfunction (Jackson and others 2015).&nbsp;</p>
+</blockquote>
+
+<p><br>
+<strong>Constipation can be caused by:</strong></p>
+
+<ul>
+	<li>immobility</li>
+	<li>modified diet</li>
+	<li>poor fluid intake</li>
+	<li>medications - especially analgesics and anticholinergic drugs</li>
+	<li>and inability to strain due to weak abdominal, diaphragmatic and glottic muscles</li>
+</ul>
+
+<p><strong>Management:</strong></p>
+
+<ul>
+	<li>regular review and assessment</li>
+	<li>optimise fluid intake if possible</li>
+	<li>review diet to ensure adequate dietary fibre intake</li>
+	<li>faecal softeners if stool is hard e.g Coloxyl tablets or lactulose syrup</li>
+	<li>bowel stimulants if bowel transit still slow e.g Senna, Durolax</li>
+	<li>if the patient is able to swallow easily or gastrostomy feeding is available - Movicol</li>
+	<li>regular rectal evacuant to overcome weak muscles of defecation e.g suppositories</li>
+	<li>microlax enemas, usually given three times per week</li>
+</ul>
+
+<p>Note: Diarrhoea may be due to constipation with overflow.<br>
+<br>
+<strong>Urinary frequency and urgency</strong> is a troubling symptom, particularly for people with limb weakness who may find getting to and from the toilet very difficult and time consuming.&nbsp;<br>
+<br>
+<strong>Management:</strong></p>
+
+<ul>
+	<li>regular review and assessment</li>
+	<li>maintain fluid intake&nbsp;</li>
+	<li>regular and timed toileting&nbsp;</li>
+	<li>use of a urinal and condom catheter for men</li>
+	<li>use of a female urinal (shewee) for women&nbsp;</li>
+	<li>for some people a urinary, or suprapubic, catheter may be warranted&nbsp;</li>
+	<li>medications&nbsp;</li>
+</ul>
+
+<blockquote>
+<p>Anticholinergic medications are used after urinary tract infections or an enlarged prostate is ruled out. Medications may improve urinary urgency and frequency in some patients, but not all. It is uncommon for symptoms to resolve completely. Oxybutynin is commonly tried first at 5 mg bid or tid. It is inexpensive and can be crushed and used with a PEG tube. Extended release oxybutynin at doses of 5, 10 and 15 mg are used once a day but can’t be crushed for PEG tube use. Oxytrol skin patch delivers a continuous amount of medication. Tolterodine tartrate (Detrol), Darifenacin (Enablex), Solifenacin (Vesicare), Tropsium (Sanctura) and Fesoterodine (Toviaz) are other options. Although beneficial, anticholinergics may produce dry mouth, constipation, blurred vision and drowsiness as well as confusion in elderly patients with dementia” (Jackson et al&nbsp;2015).</p>
+</blockquote>
+
+<p>&nbsp;</p>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_498">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_498"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_498">
+					Swallowing and nutrition management guidelines
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_498" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_498"
+                >
+                <div class="accordion-body">
+                    <p><strong>Shoesmith et al 2021</strong>,&nbsp;<a href="https://www.cmaj.ca/content/192/46/E1453" target="_blank">Canadian best practice recommendations for the management of amyotrophic lateral sclerosis</a></p>
+
+<p>See nutrition<a href="https://www.cmaj.ca/content/192/46/E1453/tab-figures-data" target="_blank">&nbsp;decision tree - figure 1</a></p>
+
+<p>See <a href="https://www.cmaj.ca/content/192/46/E1453/tab-figures-data" target="_blank">nutritional management recommendations - table&nbsp;1&nbsp;</a></p>
+
+<p><strong>National Institute for Health and Clinical Excellence</strong> (2016) NICE Guideline: Motor Neurone Disease Assessment and Management – see recommendation:<br>
+<a href="https://www.nice.org.uk/guidance/ng42/chapter/Recommendations#nutrition-and-gastrostomy" style="font-size: 1.125rem; display: inline !important" target="_blank">1.10&nbsp;Nutrition and gastrostomy</a><br>
+​​​​<br>
+<strong>Andersen et al 2012</strong>,&nbsp;<a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1468-1331.2011.03501.x" target="_blank">EFNS guidelines on the Clinical Management of Amyotrophic Lateral Sclerosis (MALS) – revised report of an EFNS task force</a>&nbsp;- Enteral nutrition in patients with ALS recommendations:</p>
+
+<ol>
+	<li>Bulbar dysfunction and nutritional status, including body weight, should be checked at each visit. Difficulty drinking tap water is frequently the first sign of significant dysphagia (GCPP).</li>
+	<li>Patients should be referred to a dietitian as soon as dysphagia appears. A speech and language therapist can give valuable advice on swallowing techniques (GCPP).</li>
+	<li>The timing of PEG/PRG is based on an individual approach taking into account bulbar symptoms, malnutrition (weight loss of over 10%), respiratory function and the patient’s general condition. Early insertion of a feeding tube is recommended (GCPP).</li>
+	<li>When PEG is indicated, patient and carers should be informed: (i) of the benefits and risks of the procedure; (ii) that it is possible to continue to take food orally as long as it is possible; and (iii) that deferring PEG to a late disease stage may increase the risk of the procedure (GCPP).</li>
+	<li>PRG is a suitable alternative to PEG. This procedure can be used as the procedure of choice or when PEG is deemed hazardous (GCPP).</li>
+	<li>Tubes with relatively large diameter (e.g. 18–22 Charrière) are recommended for both PEG and PRG to prevent tube obstruction (GCPP).</li>
+	<li>Prophylactic medication with antibiotics on the day of the operation may reduce the risk of infection (GCPP).</li>
+	<li>NGT feeding may be used in the short-term and when PEG or PRG is not suitable (GCPP).</li>
+	<li>Home parenteral nutrition may be used in patients with advanced ALS (GCPP)</li>
+</ol>
+
+<p><strong>Miller et al 2009</strong>, Practice parameter update: <a href="https://n.neurology.org/content/73/15/1218" target="_blank">the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review)</a>: report of the Quality Standards Subcommittee of the American Academy of Neurology:</p>
+
+<p>Recommendation: PEG should be considered to stabilize weight and to prolong survival in patients with ALS (Level B)</p>
+
+<p>See also:</p>
+
+<p><a href="https://n.neurology.org/content/73/15/1218/tab-figures-data" target="_blank">Nutrition management algorithm</a></p>
+
+<p><a href="https://www.aan.com/Guidelines/home/GuidelineDetail/370" target="_blank">Summary of Evidence Based Guideline for Clinicians&nbsp;</a></p>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_499">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_499"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_499">
+					You may also be interested in ...
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_499" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_499"
+                >
+                <div class="accordion-body">
+                    <p>MND Aware e-training program MND Hub – online training course for health professionals and service providers developed by MND NSW – <a href="https://edu.mndhub.org.au/lms/course/15931-MND-Aware" target="_blank">Session 11: Symptom Management – Swallowing and nutrition</a><br>
+<br>
+International Alliance of ALS/MND Association, 19th Allied Health Professionals Forum 2021:</p>
+
+<ol>
+	<li><a href="https://www.youtube.com/watch?v=SK-Mg3MyjX8&amp;list=PLbiBIrPZvTbfDhK3RBvUCAku9z7QbuDcK&amp;index=2" target="_blank">Nutrition Focused Multi-Disciplinary Meeting Established to Support MND Patients During COVID-19</a>,&nbsp;Christina Federico</li>
+</ol>
+
+<p>MND NSW Ask the Experts 2020:</p>
+
+<ol>
+	<li>&nbsp;<a href="https://www.youtube.com/watch?v=NZrqV492EHc" target="_blank">Research into the feasibility and effect of swallowing exercises and diet modifications for people living with MND</a> (@ I:04),&nbsp;Professor Vicki Flood&nbsp;</li>
+</ol>
+
+<p>International Alliance of ALS/MND Association, 16th Allied Health Professionals Forum 2018:</p>
+
+<ol>
+	<li>&nbsp;<a href="https://www.youtube.com/watch?v=a2q_AkgIX14&amp;list=PLbiBIrPZvTbfDhK3RBvUCAku9z7QbuDcK&amp;index=1" target="_blank">How dysphagia changes the perception of food in ALS/MND</a>,&nbsp;Dominika Lisiecka</li>
+</ol>
+
+                </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="header_92194843-4185-4e97-be4e-31424e5a8e86_500">
+				<button id=""
+						type="button"
+						class="accordion-button collapsed"
+						aria-expanded="false"
+						data-bs-toggle="collapse"
+						data-bs-target="#elem_92194843-4185-4e97-be4e-31424e5a8e86_500"
+						aria-controls="elem_92194843-4185-4e97-be4e-31424e5a8e86_500">
+					Information for people living with MND
+				</button>
+            </h2>
+            <div class="collapse" id="elem_92194843-4185-4e97-be4e-31424e5a8e86_500" aria-labelledby="header_92194843-4185-4e97-be4e-31424e5a8e86_500"
+                >
+                <div class="accordion-body">
+                    <p><a href="/mnd-connect/information-resources/considering-gastrostomy-peg-rig">Factsheet: Considering Gastrostomy –&nbsp;PEG and RIG</a></p>
+
+<p><a href="/mnd-connect/living-with-mnd/breathing-and-mnd">Breathing and MND</a><br>
+<a href="/mnd-connect/living-with-mnd/equipment,-assistive-technology-home-modifications">Equipment, assistive technology and home modifications</a><br>
+<a href="/mnd-connect/living-with-mnd/eating,-drinking-swallowing">Eating, drinking and swallowing</a><br>
+<a href="/mnd-connect/living-with-mnd/talking-about-end-of-life-and-planning-ahead">Talking about end of life and planning ahead&nbsp;</a></p>
+
+<h4>Other resources:&nbsp;</h4>
+
+<p>MND Decision Assist Tool, <a href="https://mnddecisiontools.com/public/1/decision_tool" target="_blank">Should I have a gastrostomy for my nutrition and hydration in MND?</a><a href="https://mnddecisiontools.com/public/1/decision_tool" target="_blank">&nbsp;</a></p>
+
+<p>MND NSW, Living well with MND 2019:</p>
+
+<ol>
+	<li><a href="https://www.youtube.com/watch?v=ea4fgjpv6Ho&amp;list=PLKmXsG38R4V9VroTLUnxZq9qtEUXGMXNR&amp;index=2" target="_blank">Staying in control of your speech, saliva and swallow</a> - Clare McCluskey</li>
+	<li><a href="https://www.youtube.com/watch?v=Nlwi9Kl1IrE&amp;list=PLKmXsG38R4V9VroTLUnxZq9qtEUXGMXNR&amp;index=3" target="_blank">Strategies for maintaining nutrition</a> - Amal Owaimrin</li>
+</ol>
+
+<p>Healthtalk.org stories collected by academic researchers who interview people in their own homes, using their own words:&nbsp;</p>
+
+<ul>
+	<li><a href="https://healthtalk.org/motor-neurone-disease-mnd/tube-feeding-pegs-rigs-pigs-and-ventilation" target="_blank">Tube Feeding and Ventilation&nbsp;</a></li>
+	<li><a href="https://healthtalk.org/motor-neurone-disease-mnd/eating-swallowing-and-breathing-with-mnd" target="_blank">Eating, swallowing and breathing with MND&nbsp;</a><br>
+	&nbsp;</li>
+</ul>
+
+                </div>
+            </div>
+        </div>
+
+</div>
+
+    
+
+
+						</div>
+                    </div>
+        </div>
+    </div>
+</div>
+    
+
+
+
+
+
+<div class="">
+    <div class="container  ">
+        
+    </div>
+</div>
+
+
+
+				<div class="bg-light footer-subscribe">
+					<div class="container-xl pt-5 pb-4">
+						<div class="row gy-4">
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+							<div class="fr-view">
+								<h2 class="display-4">Keep in touch</h2><p class="lead">
+									Get the latest news about MND research,
+									<br>care &amp; advocacy right in your inbox.
+								</p>
+							</div>
+							</div>
+							<div class="col-md-6 col-md-6 order-2 order-md-1">
+								
+
+
+
+
+
+
+
+
+
+
+<div id="form-Subscribe-817c_wrapper-87e3048c-5f76-4c26-91e9-8e632b5254ed"><form action="/Kentico.Components/en-AU/Kentico.FormWidget/KenticoFormWidget/FormSubmit?formName=Subscribe&amp;prefix=form-Subscribe-817c&amp;displayValidationErrors=False" data-ktc-ajax-update="form-Subscribe-817c_wrapper-87e3048c-5f76-4c26-91e9-8e632b5254ed" id="form-Subscribe-817c" method="post" onsubmit="window.kentico.updatableFormHelper.submitForm(event);">
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-86ae2bf3-a7a4-414a-a728-e1f4488791cb" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-817c_FirstName_Value" name="form-Subscribe-817c.FirstName.Value" placeholder="First Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.FirstName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.FirstName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+				<div class="col-md-6">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-817c_LastName_Value" name="form-Subscribe-817c.LastName.Value" placeholder="Last Name" type="text" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.LastName.Value" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.LastName" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+
+
+
+
+
+<div class="form-section  pt-0 pb-0" id="form-section-7a4f68d4-93f2-4188-9cb5-421e2d0d6674" data-print-section-title="" data-include-additional-notes="false">
+	<div class="row none">
+				<div class="col-12">
+					
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+
+
+<input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-817c_Email_Email" name="form-Subscribe-817c.Email.Email" placeholder="Email" type="email" value="" />
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.Email.Email" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.Email" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+<div class="form-field">
+
+
+
+
+
+
+
+<div class="editing-form-control-nested-control">
+
+
+
+    <div class="form-field form-field--turnstile visually-hidden"
+         data-form-turnstile-root
+         data-form-turnstile-sitekey="0x4AAAAAADeRPpMNkYxjKUuq"
+         data-form-turnstile-theme="auto"
+         data-form-turnstile-execution="execute"
+         data-form-turnstile-input-id="form-Subscribe-817c_FormTurnstile_TurnstileResponse"
+         data-form-turnstile-managed="true">
+        <input class="form-control" data-ktc-notobserved-element="" id="form-Subscribe-817c_FormTurnstile_TurnstileResponse" name="form-Subscribe-817c.FormTurnstile.TurnstileResponse" type="hidden" value="" />
+        <div data-form-turnstile-container></div>
+        <div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div>
+    </div>
+
+
+<div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.FormTurnstile.TurnstileResponse" data-valmsg-replace="true"></div><div class="field-validation-valid" data-valmsg-for="form-Subscribe-817c.FormTurnstile" data-valmsg-replace="true"></div>
+</div>
+
+
+
+
+
+</div>
+
+				</div>
+	</div>
+</div>
+
+<input type="submit" value="Submit" /><input name="__RequestVerificationToken" type="hidden" value="CfDJ8BaJsa1WysJCmp7B4D0IyqBYdhGuMLat-TwaKV133nB2SF37neBtCXjhOnRr8Iu-XgZ8_rEPdVUzT_SfQhdzPbJY1mexs5p2l2USPEuFZ2r5pfaHRxoO4xhLU_OaGg6fcHgGCzYNeYikKzkUtgMLJHU" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+if (document.readyState === 'complete') {
+  window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-817c","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+} else {
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.kentico.updatableFormHelper.registerEventListeners({"formId":"form-Subscribe-817c","targetAttributeName":"data-ktc-ajax-update","unobservedAttributeName":"data-ktc-notobserved-element"});
+    });
+}</script></form></div>
+    
+
+
+							</div>
+						</div>
+					</div>
+				</div>			
+		</main>
+
+		<footer class="site-footer">
+			
+
+
+
+
+<div class="container-xl">
+	<div class="row">
+		<div class="col-12">
+			<div class="footer-top">
+				<div class="row gy-4">
+					<div class="col-xl-2">
+						<a href="/">
+							<img src="/getmedia/713340d7-3524-4d5e-a22d-3eea30ed7b18/mnd-logo-white.png?width=336&amp;height=146&amp;ext=.png" class="footer-logo" alt="MND Logo">
+						</a>
+					</div>
+					<div class="col-xl-6 offset-xl-1">
+						<div class="row gy-4">
+							<div class="col-sm-6">
+								<p class="menu-header">Information for</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/living-with-mnd" target="">People living with MND</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/support-for-carers-family-friends" target="">Family members and carers</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/for-health-professionals-service-providers" target="">Health professionals</a>
+            </li>
+            <li>
+                    <a href="/get-involved" target="">Supporting MND Australia</a>
+            </li>
+    </ul>
+
+							</div>
+							<div class="col-sm-6">
+								<p class="menu-header">Popular links</p>
+								
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/what-is-motor-neurone-disease-mnd" target="">What is MND?</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/what-is-mnd/types-of-mnd" target="">Types of MND</a>
+            </li>
+            <li>
+                    <a href="/research" target="">MND research</a>
+            </li>
+            <li>
+                    <a href="/mnd-connect/find-services" target="">Find services and support</a>
+            </li>
+            <li>
+                    <a href="/get-involved/national-mnd-lived-experience-network" target="">MND Lived Experience Network</a>
+            </li>
+    </ul>
+
+							</div>
+						</div>
+					</div>
+					<div class="col-xl-3">
+						<img src="/getmedia/1b2620fd-0448-4f01-8144-210f321f87f0/footer-partners.png?width=318&amp;height=222&amp;ext=.png" alt="MND Parnter Logos">
+					</div>
+				</div>
+			</div>
+			<div class="footer-middle">
+				
+    <ul data-ktc-search-exclude>
+            <li>
+                    <a href="/contact-us" target="">Contact Us</a>
+            </li>
+            <li>
+                    <a href="/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf" target="">Privacy Policy</a>
+            </li>
+            <li>
+                    <a href="/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf" target="">Whistleblower policy</a>
+            </li>
+            <li>
+                    <a href="/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU" target="">Terms & conditions</a>
+            </li>
+            <li>
+                    <a href="/sitemap" target=""> Site map</a>
+            </li>
+    </ul>
+
+			</div>
+
+			<div class="footer-bottom">
+				<div class="row">
+					<div class="col-xl-10">
+						<p class="footer-text">©MND Australia 2025</p>
+						<p class="footer-text">MND Australia would like to advise Aboriginal and Torres Strait Islander users that this website may contain images or names of deceased persons.</p>
+					</div>
+					<div class="col-xl-2">
+						<div class="social-menu">
+							<a href="https://www.facebook.com/mndaustralia" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#facebook"></use>
+								</svg>
+							</a>
+							<a href="https://www.instagram.com/mnd_australia/?hl=en" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#instagram"></use>
+								</svg>
+							</a>
+							<a href="https://www.youtube.com/user/MNDAust" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#youtube"></use>
+								</svg>
+							</a>
+							<a href="https://www.linkedin.com/company/2181170/admin/" target="_blank">
+								<svg class="sprite">
+									<use xlink:href="/dist/sprites/social-icon.svg#linkedin"></use>
+								</svg>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		</footer>
+
+		<div class="toast-container position-fixed bottom-0 start-50 translate-middle-x py-2 d-flex justify-content-center align-items-center">
+			<div id="copyToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true" style="max-width: calc(90% - 2rem);">
+				<div class="toast-body border d-flex align-items-center justify-content-between">
+					<b>Link copied to clipboard</b> <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+				</div>
+			</div>
+		</div>
+
+		<div class="overlay-bg"></div>
+
+		<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery-3.5.1.js"></script>
+<script src="/_content/Kentico.Content.Web.Rcl/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript">
+window.kentico = window.kentico || {};
+window.kentico.builder = {}; 
+window.kentico.builder.useJQuery = true;</script><script src="/_content/Kentico.Content.Web.Rcl/Content/Bundles/Public/systemFormComponents.min.js"></script>
+
+		<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+		
+
+		<script src="/dist/scripts/main.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-segmentation.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-pdf-print.js?v=1.0.036"></script>
+		<script src="/dist/scripts/form-submit-loading.js?v=1.0.036"></script>
+			<script>
+				window.MNDTurnstile = {
+					enabled: true,
+					siteKey: "0x4AAAAAADeRPpMNkYxjKUuq",
+					theme: "auto",
+					execution: "execute"
+				};
+			</script>
+			<script src="/dist/scripts/form-turnstile.js?v=1.0.036"></script>
+
+		<script src="/dist/vue/js/app.eff72682.js"></script>
+		<script src="/dist/vue/js/chunk-vendors.e48da9d1.js"></script>
+
+		
+		
+	<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon='{"version":"2024.11.0","token":"662ec7845dfb47fcaa3eaf3731c790af","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

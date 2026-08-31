@@ -1,0 +1,659 @@
+{
+  "source_id": "healthdirect-australia:sleep-paralysis",
+  "title": "Sleep paralysis – causes, symptoms and treatment | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/sleep-paralysis",
+  "retrieved_at": "2026-08-30",
+  "topic": "Sleep",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 27726,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/sleep-problems",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep-paralysis"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep-paralysis"
+    },
+    {
+      "text": "What is sleep paralysis?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#what-is"
+    },
+    {
+      "text": "What are the symptoms of sleep paralysis?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#symptoms"
+    },
+    {
+      "text": "What causes sleep paralysis?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#caused"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#doctor"
+    },
+    {
+      "text": "How is sleep paralysis diagnosed?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#diagnosed"
+    },
+    {
+      "text": "How is sleep paralysis treated?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#treated"
+    },
+    {
+      "text": "What are the complications of sleep paralysis?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#compications"
+    },
+    {
+      "text": "Can sleep paralysis be prevented?",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#prevented"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#searchGeneralResults"
+    },
+    {
+      "text": "asleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "muscles",
+      "url": "https://www.healthdirect.gov.au/bones-muscles-and-joints"
+    },
+    {
+      "text": "eyes",
+      "url": "https://www.healthdirect.gov.au/eyes"
+    },
+    {
+      "text": "anxious",
+      "url": "https://www.healthdirect.gov.au/anxiety"
+    },
+    {
+      "text": "hallucinations",
+      "url": "https://www.healthdirect.gov.au/hallucination"
+    },
+    {
+      "text": "sweating",
+      "url": "https://www.healthdirect.gov.au/night-sweats"
+    },
+    {
+      "text": "high blood pressure",
+      "url": "https://www.healthdirect.gov.au/high-blood-pressure-hypertension"
+    },
+    {
+      "text": "mental health conditions",
+      "url": "https://www.healthdirect.gov.au/mental-health-conditions"
+    },
+    {
+      "text": "post-traumatic stress disorder (PTSD)",
+      "url": "https://www.healthdirect.gov.au/post-traumatic-stress-disorder-ptsd"
+    },
+    {
+      "text": "obstructive sleep apnoea",
+      "url": "https://www.healthdirect.gov.au/obstructive-sleep-apnoea"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/alcohol"
+    },
+    {
+      "text": "substance abuse",
+      "url": "https://www.healthdirect.gov.au/substance-abuse"
+    },
+    {
+      "text": "genetic condition",
+      "url": "https://www.healthdirect.gov.au/guide-to-genetic-disorders"
+    },
+    {
+      "text": "insomnia",
+      "url": "https://www.healthdirect.gov.au/insomnia"
+    },
+    {
+      "text": "jet lag",
+      "url": "https://www.healthdirect.gov.au/jet-lag"
+    },
+    {
+      "text": "family history",
+      "url": "https://www.healthdirect.gov.au/family-medical-history"
+    },
+    {
+      "text": "doctor",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "tired",
+      "url": "https://www.healthdirect.gov.au/fatigue"
+    },
+    {
+      "text": "sleep study",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-study"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "relaxation techniques",
+      "url": "https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief"
+    },
+    {
+      "text": "meditation",
+      "url": "https://www.healthdirect.gov.au/meditation"
+    },
+    {
+      "text": "cognitive behavioural therapy",
+      "url": "https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt"
+    },
+    {
+      "text": "antidepressant medicines",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "caffeine",
+      "url": "https://www.healthdirect.gov.au/caffeine"
+    },
+    {
+      "text": "exercise",
+      "url": "https://www.healthdirect.gov.au/fitness-and-exercise"
+    },
+    {
+      "text": "alcohol",
+      "url": "https://www.healthdirect.gov.au/how-alcohol-affects-your-health"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.healthdirect.gov.au/stress"
+    },
+    {
+      "text": "Sleep Health Foundation",
+      "url": "https://www.sleephealthfoundation.org.au/"
+    },
+    {
+      "text": "MindSpot’s Sleep Course",
+      "url": "https://www.mindspot.org.au/treatments/sleep-course/"
+    },
+    {
+      "text": "Sleep Disorders Australia",
+      "url": "https://www.sleepoz.org.au/"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/get-support/talk-to-a-counsellor"
+    },
+    {
+      "text": "SANE Australia",
+      "url": "https://www.sane.org/"
+    },
+    {
+      "text": "Transcultural Mental Health Centre Practical Guide Series",
+      "url": "https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/multilingual-resources-by-title/a-practical-guide-series"
+    },
+    {
+      "text": "(Chapter 60: Sleep disorders)",
+      "url": "https://murtagh.mhmedical.com/content.aspx?sectionid=262300735&bookid=3133#1186903248"
+    },
+    {
+      "text": "(Recent Insights Into Sleep Paralysis: Mechanisms and Management)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/"
+    },
+    {
+      "text": "(Isolated sleep paralysis: Clinical features, perception of aetiology, prevention and disruption strategies in a large international sample)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389945723000709"
+    },
+    {
+      "text": "(Experiences and beliefs related to sleep paralysis among the general population of the twin cities: A cross-sectional study)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389945724004453"
+    },
+    {
+      "text": "(Sleep Paralysis, a Medical Condition with a Diverse Cultural Interpretation)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/"
+    },
+    {
+      "text": "(Sleep Disorders in Wilson’s Disease)",
+      "url": "https://www.crmrwilson.com/wp-content/uploads/2019/12/Sleep-disorders-in-Wilson-Cochen-et-Poujois-2019.pdf"
+    },
+    {
+      "text": "(Multiple Sleep Latency Test: when are 4 naps enough?)",
+      "url": "https://jcsm.aasm.org/doi/10.5664/jcsm.8976"
+    },
+    {
+      "text": "(A clinician's guide to recurrent isolated sleep paralysis)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4958367/"
+    },
+    {
+      "text": "(How to Make the Ghosts in my Bedroom Disappear? Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy) — A Direct Treatment Intervention for Sleep ParalysisUpdated)",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00028/full"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/sleep-paralysis#backToTop"
+    },
+    {
+      "text": "Narcolepsy",
+      "url": "https://www.healthdirect.gov.au/search-results/Narcolepsy"
+    },
+    {
+      "text": "Sleep",
+      "url": "https://www.healthdirect.gov.au/search-results/Sleep"
+    },
+    {
+      "text": "Narcolepsy | Sleep Health Foundation This is a fact sheet about Narcolepsy. Narcolepsy is a chronic neurological disorder characterized by excessive daytime sleepiness (EDS) and a tendency to fall asleep suddenly and uncontrollably. Read more on Sleep Health Foundation website",
+      "url": "https://www.sleephealthfoundation.org.au/sleep-disorders/narcolepsy"
+    },
+    {
+      "text": "Narcolepsy and cataplexy - myDr.com.au Narcolepsy is a sleep disorder characterised by excessive daytime sleepiness. People with narcolepsy can be struck with urges to sleep several times a day and may suffer from cataplexy - a loss of muscle function or sleep paralysis. Read more on myDoctor website",
+      "url": "https://mydr.com.au/first-aid-self-care/narcolepsy-and-cataplexy/"
+    },
+    {
+      "text": "Narcolepsy: Symptoms, Diagnosis, and Treatment Options Learn about narcolepsy, its symptoms, causes, and treatment options. Understand how narcolepsy is diagnosed and managed. Read more on Brain Foundation website",
+      "url": "https://brainfoundation.org.au/disorders/narcolepsy/"
+    },
+    {
+      "text": "Navigating Narcolepsy Narcolepsy is a chronic neurological condition characterised by recurring periods of excessive sleepiness. It may also cause cataplexy (sudden involuntary muscle weakness or paralysis), hallucinations and/or sleep paralysis. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/narcolepsy"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Sleep paralysis – causes, symptoms and treatment | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Sleep paralysis\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Sleep paralysis is when you go from a state of being asleep to being awake but can’t move your muscles.\n\n- Sleep paralysis can be scary, but only lasts a short time and doesn’t cause harm.\n\n- During an episode of sleep paralysis, you might have hallucinations (see or hear things that aren’t real), like feeling the presence of someone in your room.\n\n- Sleep paralysis can be caused by irregular sleeping patterns or not getting enough sleep.\n\n- Usually you don’t need any treatment, but episodes can be prevented by maintaining healthy sleep habits.\n\n## On this page\n\n- What is sleep paralysis?\n\n- What are the symptoms of sleep paralysis?\n\n- What causes sleep paralysis?\n\n- When should I see my doctor?\n\n- How is sleep paralysis diagnosed?\n\n- How is sleep paralysis treated?\n\n- What are the complications of sleep paralysis?\n\n- Can sleep paralysis be prevented?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is sleep paralysis?\n\nSleep paralysis is when you cannot move or speak for a short time after waking up or while falling asleep . It may last a few seconds or a few minutes.\n\nAbout 8 in every 100 people will experience sleep paralysis at some stage. It might happen only once, or recur often. It usually starts in adolescence or early adulthood , around 17 to 20 years old. It does not cause any physical harm, but it can be scary.\n\nDuring a stage of sleep called ‘rapid eye movement (REM)’ sleep, your body becomes temporarily paralysed. This means you can’t move your muscles . It may be your body’s way of preventing you from acting out your dreams. This paralysis is normal, but you’re not aware of it because you’re asleep.\n\nIf this muscle paralysis from REM sleep continues after you wake up, you will be fully aware of being paralysed.\n\n## What are the symptoms of sleep paralysis?\n\nDuring an episode of sleep paralysis, you are awake and aware of what is going on. Episodes can involve:\n\n- not being able to move any part of your body, except your eyes\n\n- not being able to talk\n\n- feeling scared or anxious\n\n- hallucinations — for example, seeing things that aren’t real, sensing there is an intruder in your room or that something is pressing on your chest or choking you\n\n- hearing noises that are not there such as voices, hissing, zapping or buzzing\n\n- sweating\n\n## What causes sleep paralysis?\n\nSleep paralysis may occur on its own or it may be related to other health conditions, including:\n\n- high blood pressure\n\n- mental health conditions — in particular anxiety and post-traumatic stress disorder (PTSD)\n\n- obstructive sleep apnoea\n\n- narcolepsy — a brain condition involving extreme daytime drowsiness even after enough sleep\n\n- alcohol or substance abuse\n\n- Wilson’s disease — a rare genetic condition where too much copper builds up in the body\n\nSleep paralysis is also linked to:\n\n- not getting enough sleep — for example, because of work hours or insomnia\n\n- irregular sleeping patterns — for example those experienced by shift workers or students, or because of jet lag\n\n- family history of sleep paralysis\n\n- sleeping on your back\n\n## When should I see my doctor?\n\nSleep paralysis is usually harmless and doesn’t need medical treatment. Talk to your doctor if you feel anxious or tired because of repeated episodes of sleep paralysis.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How is sleep paralysis diagnosed?\n\nTo diagnose sleep paralysis, your doctor will ask you about your symptoms. They may ask you to keep a sleep diary to record your sleeping patterns and any symptoms of sleep paralysis that you experience.\n\nYou usually won’t need any tests to diagnose sleep paralysis. Your doctor might suggest that you do a sleep study to check if you have any other sleep problems, for example narcolepsy.\n\nIf your doctor thinks you may have narcolepsy, they will ask you to do a special sleep study called a ‘multiple sleep latency test’. In this test you will be given several opportunities to go to sleep during the day. The test will measure how long it takes you to fall asleep and what kind of sleep you experience.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## How is sleep paralysis treated?\n\nSleep paralysis doesn’t cause serious problems for most people, and no treatment is usually needed. You may find it helpful to learn about sleep paralysis and speak to your doctor for reassurance that there is no cause for concern.\n\nIf you need treatment, these measures may help:\n\n- relaxation techniques and meditation\n\n- cognitive behavioural therapy\n\n- some types of antidepressant medicines\n\nYour doctor may refer you to a specialist sleep physician. They can help you to improve your sleep quality.\n\nIt’s also important to treat any health conditions that may be causing your sleep paralysis. For example, there are medicines used to treat narcolepsy that may help with sleep paralysis symptoms.\n\nLOOKING FOR A MEDICINE? — To search by brand name or active ingredient, use the Medicines information search feature.\n\n## What are the complications of sleep paralysis?\n\nSleep paralysis doesn’t cause any complications. It generally doesn’t stop you getting enough sleep. Some people may experience reduced sleep quality.\n\n## Can sleep paralysis be prevented?\n\nGetting enough sleep may reduce your chances of experiencing sleep paralysis. Most adults need between 7 and 9 hours of sleep a night. It may also help to keep to a regular sleeping pattern, by going to bed around the same time each night and getting up at the same time each morning.\n\nTry these sleep habits to help prevent sleep paralysis:\n\n- Sleep on your side.\n\n- Avoid napping.\n\n- Use a night light.\n\n- Sleep in a cool and quiet environment.\n\n- Try not to go back to sleep after a sleep paralysis episode.\n\nOther ways to improve your sleep hygiene include the following:\n\n- Cut down on coffee and other drinks containing caffeine — avoid them in the evening.\n\n- Get regular exercise , but not too close to bedtime.\n\n- Do not drink alcohol , smoke or eat big meals before bedtime.\n\n- Reduce your stress and create a relaxing environment, especially before bedtime.\n\n- Avoid screens for 1 to 2 hours before bedtime.\n\nThere are also techniques that you can try to disrupt sleep paralysis when it occurs. This includes:\n\n- Try to move your fingers and toes.\n\n- Focus on staying calm and breathing.\n\n- Deliberately try to wake yourself up or stay awake.\n\n## Resources and support\n\nIf you are concerned about sleep paralysis, you can call healthdirect on 1800 022 222 at any time to speak to a registered nurse (known as NURSE-ON-CALL in Victoria) for more information and advice.\n\nYou can also contact a sleep disorder clinic or sleep specialist.\n\nFor more information about sleep:\n\n- Visit the Sleep Health Foundation for information on sleep disorders.\n\n- Try MindSpot’s Sleep Course — a free, therapist-assisted online program to improve your sleep.\n\n- Visit Sleep Disorders Australia for more information on sleep disorders.\n\nIf you need help with a condition like anxiety or PTSD (post-traumatic stress disorder):\n\n- Contact Beyond Blue if you’re struggling with depression or anxiety.\n\n- SANE Australia offers advice on self-care and online support forums.\n\n### Languages other than English\n\nFor practical information in a range of community languages about getting a good night’s sleep, visit the Transcultural Mental Health Centre Practical Guide Series .\n\n#### Source s :\n\nJohn Murtagh's General Practice, 8th Edition (Chapter 60: Sleep disorders) , Cureus (Recent Insights Into Sleep Paralysis: Mechanisms and Management) , Sleep Medicine (Isolated sleep paralysis: Clinical features, perception of aetiology, prevention and disruption strategies in a large international sample) , Sleep Medicine (Experiences and beliefs related to sleep paralysis among the general population of the twin cities: A cross-sectional study) , International Journal of Basic Medical Research (Sleep Paralysis, a Medical Condition with a Diverse Cultural Interpretation) , Current Neurology and Neuroscience Reports (Sleep Disorders in Wilson’s Disease) , Journal of Clinical Sleep Medicine (Multiple Sleep Latency Test: when are 4 naps enough?) , Neuropsychiatric Disease and Treatment (A clinician's guide to recurrent isolated sleep paralysis) , Frontiers in Psychology (How to Make the Ghosts in my Bedroom Disappear? Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy) — A Direct Treatment Intervention for Sleep ParalysisUpdated)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: July 2025\n\nBack To Top\n\n## Search our site for\n\n- Narcolepsy\n\n- Sleep\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Narcolepsy | Sleep Health Foundation\n\nThis is a fact sheet about Narcolepsy. Narcolepsy is a chronic neurological disorder characterized by excessive daytime sleepiness (EDS) and a tendency to fall asleep suddenly and uncontrollably.\n\nRead more on Sleep Health Foundation website\n\n### Narcolepsy and cataplexy - myDr.com.au\n\nNarcolepsy is a sleep disorder characterised by excessive daytime sleepiness. People with narcolepsy can be struck with urges to sleep several times a day and may suffer from cataplexy - a loss of muscle function or sleep paralysis.\n\nRead more on myDoctor website\n\n### Narcolepsy: Symptoms, Diagnosis, and Treatment Options\n\nLearn about narcolepsy, its symptoms, causes, and treatment options. Understand how narcolepsy is diagnosed and managed.\n\nRead more on Brain Foundation website\n\nShow more\n\n### Navigating Narcolepsy\n\nNarcolepsy is a chronic neurological condition characterised by recurring periods of excessive sleepiness. It may also cause cataplexy (sudden involuntary muscle weakness or paralysis), hallucinations and/or sleep paralysis.\n\nRead more on Ausmed Education website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/sleep-paralysis\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/sleep-paralysis\n\n- Please enter your name: https://www.healthdirect.gov.au/sleep-paralysis#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/sleep-paralysis#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/sleep-paralysis#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/sleep-paralysis#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/sleep-paralysis\n\n- What is sleep paralysis?: https://www.healthdirect.gov.au/sleep-paralysis#what-is\n\n- What are the symptoms of sleep paralysis?: https://www.healthdirect.gov.au/sleep-paralysis#symptoms\n\n- What causes sleep paralysis?: https://www.healthdirect.gov.au/sleep-paralysis#caused\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/sleep-paralysis#doctor\n\n- How is sleep paralysis diagnosed?: https://www.healthdirect.gov.au/sleep-paralysis#diagnosed\n\n- How is sleep paralysis treated?: https://www.healthdirect.gov.au/sleep-paralysis#treated\n\n- What are the complications of sleep paralysis?: https://www.healthdirect.gov.au/sleep-paralysis#compications\n\n- Can sleep paralysis be prevented?: https://www.healthdirect.gov.au/sleep-paralysis#prevented\n\n- Resources and support: https://www.healthdirect.gov.au/sleep-paralysis#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/sleep-paralysis#searchGeneralResults\n\n- asleep: https://www.healthdirect.gov.au/sleep\n\n- muscles: https://www.healthdirect.gov.au/bones-muscles-and-joints\n\n- eyes: https://www.healthdirect.gov.au/eyes\n\n- anxious: https://www.healthdirect.gov.au/anxiety\n\n- hallucinations: https://www.healthdirect.gov.au/hallucination\n\n- sweating: https://www.healthdirect.gov.au/night-sweats\n\n- high blood pressure: https://www.healthdirect.gov.au/high-blood-pressure-hypertension\n\n- mental health conditions: https://www.healthdirect.gov.au/mental-health-conditions\n\n- post-traumatic stress disorder (PTSD): https://www.healthdirect.gov.au/post-traumatic-stress-disorder-ptsd\n\n- obstructive sleep apnoea: https://www.healthdirect.gov.au/obstructive-sleep-apnoea\n\n- alcohol: https://www.healthdirect.gov.au/alcohol\n\n- substance abuse: https://www.healthdirect.gov.au/substance-abuse\n\n- genetic condition: https://www.healthdirect.gov.au/guide-to-genetic-disorders\n\n- insomnia: https://www.healthdirect.gov.au/insomnia\n\n- jet lag: https://www.healthdirect.gov.au/jet-lag\n\n- family history: https://www.healthdirect.gov.au/family-medical-history\n\n- doctor: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- tired: https://www.healthdirect.gov.au/fatigue\n\n- sleep study: https://www.sleephealthfoundation.org.au/sleep-disorders/sleep-study\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- relaxation techniques: https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief\n\n- meditation: https://www.healthdirect.gov.au/meditation\n\n- cognitive behavioural therapy: https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt\n\n- antidepressant medicines: https://www.healthdirect.gov.au/antidepressants\n\n- caffeine: https://www.healthdirect.gov.au/caffeine\n\n- exercise: https://www.healthdirect.gov.au/fitness-and-exercise\n\n- alcohol: https://www.healthdirect.gov.au/how-alcohol-affects-your-health\n\n- stress: https://www.healthdirect.gov.au/stress\n\n- Sleep Health Foundation: https://www.sleephealthfoundation.org.au/\n\n- MindSpot’s Sleep Course: https://www.mindspot.org.au/treatments/sleep-course/\n\n- Sleep Disorders Australia: https://www.sleepoz.org.au/\n\n- Beyond Blue: https://www.beyondblue.org.au/get-support/talk-to-a-counsellor\n\n- SANE Australia: https://www.sane.org/\n\n- Transcultural Mental Health Centre Practical Guide Series: https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/resources/multilingual-resources-by-title/a-practical-guide-series\n\n- (Chapter 60: Sleep disorders): https://murtagh.mhmedical.com/content.aspx?sectionid=262300735&bookid=3133#1186903248\n\n- (Recent Insights Into Sleep Paralysis: Mechanisms and Management): https://pmc.ncbi.nlm.nih.gov/articles/PMC11344621/\n\n- (Isolated sleep paralysis: Clinical features, perception of aetiology, prevention and disruption strategies in a large international sample): https://www.sciencedirect.com/science/article/pii/S1389945723000709\n\n- (Experiences and beliefs related to sleep paralysis among the general population of the twin cities: A cross-sectional study): https://www.sciencedirect.com/science/article/abs/pii/S1389945724004453\n\n- (Sleep Paralysis, a Medical Condition with a Diverse Cultural Interpretation): https://pmc.ncbi.nlm.nih.gov/articles/PMC6082011/\n\n- (Sleep Disorders in Wilson’s Disease): https://www.crmrwilson.com/wp-content/uploads/2019/12/Sleep-disorders-in-Wilson-Cochen-et-Poujois-2019.pdf\n\n- (Multiple Sleep Latency Test: when are 4 naps enough?): https://jcsm.aasm.org/doi/10.5664/jcsm.8976\n\n- (A clinician's guide to recurrent isolated sleep paralysis): https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4958367/\n\n- (How to Make the Ghosts in my Bedroom Disappear? Focused-Attention Meditation Combined with Muscle Relaxation (MR Therapy) — A Direct Treatment Intervention for Sleep ParalysisUpdated): https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00028/full\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/sleep-paralysis#backToTop\n\n- Narcolepsy: https://www.healthdirect.gov.au/search-results/Narcolepsy\n\n- Sleep: https://www.healthdirect.gov.au/search-results/Sleep\n\n- Narcolepsy | Sleep Health Foundation This is a fact sheet about Narcolepsy. Narcolepsy is a chronic neurological disorder characterized by excessive daytime sleepiness (EDS) and a tendency to fall asleep suddenly and uncontrollably. Read more on Sleep Health Foundation website: https://www.sleephealthfoundation.org.au/sleep-disorders/narcolepsy\n\n- Narcolepsy and cataplexy - myDr.com.au Narcolepsy is a sleep disorder characterised by excessive daytime sleepiness. People with narcolepsy can be struck with urges to sleep several times a day and may suffer from cataplexy - a loss of muscle function or sleep paralysis. Read more on myDoctor website: https://mydr.com.au/first-aid-self-care/narcolepsy-and-cataplexy/\n\n- Narcolepsy: Symptoms, Diagnosis, and Treatment Options Learn about narcolepsy, its symptoms, causes, and treatment options. Understand how narcolepsy is diagnosed and managed. Read more on Brain Foundation website: https://brainfoundation.org.au/disorders/narcolepsy/\n\n- Navigating Narcolepsy Narcolepsy is a chronic neurological condition characterised by recurring periods of excessive sleepiness. It may also cause cataplexy (sudden involuntary muscle weakness or paralysis), hallucinations and/or sleep paralysis. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/narcolepsy\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

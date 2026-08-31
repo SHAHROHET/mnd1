@@ -1,0 +1,607 @@
+{
+  "source_id": "healthdirect-australia:zh-hant-maternity-care-in-australia",
+  "title": "澳洲的母嬰保健 | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia",
+  "retrieved_at": "2026-08-29",
+  "topic": "MND basics",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 20154,
+  "crawl_depth": 2,
+  "seed_url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "English",
+      "url": "https://www.healthdirect.gov.au/maternity-care-in-australia"
+    },
+    {
+      "text": "(Arabic) العربية",
+      "url": "https://www.healthdirect.gov.au/ar/maternity-care-in-australia"
+    },
+    {
+      "text": "বাংলা (Bengali)",
+      "url": "https://www.healthdirect.gov.au/bn/maternity-care-in-australia"
+    },
+    {
+      "text": "简体中文 (Simplified Chinese)",
+      "url": "https://www.healthdirect.gov.au/zh-hans/maternity-care-in-australia"
+    },
+    {
+      "text": "Tiếng Việt (Vietnamese)",
+      "url": "https://www.healthdirect.gov.au/vi/maternity-care-in-australia"
+    },
+    {
+      "text": "澳大利亞有哪些孕期護理服務供我選擇？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#options"
+    },
+    {
+      "text": "懷孕期間誰會照顧我？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#during"
+    },
+    {
+      "text": "甚麼是產前護理？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#antenatal"
+    },
+    {
+      "text": "應該甚麼時候接受檢查？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#when"
+    },
+    {
+      "text": "多久需要進行一次產前檢查？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#how-often"
+    },
+    {
+      "text": "可以在哪裡分娩？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#where"
+    },
+    {
+      "text": "分娩中心",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#birth-centre"
+    },
+    {
+      "text": "共同照護是甚麼？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#shared-care"
+    },
+    {
+      "text": "生產後我還需要住院多久？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#how-long"
+    },
+    {
+      "text": "收費多少？",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#cost"
+    },
+    {
+      "text": "資源與支援",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#resources"
+    },
+    {
+      "text": "澳洲網站上的相關資訊",
+      "url": "https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#searchGeneralResults"
+    },
+    {
+      "text": "澳大利亞提供的孕期護理",
+      "url": "https://www.pregnancybirthbaby.org.au/antenatal-care-during-your-pregnancy"
+    },
+    {
+      "text": "在哪裡分娩",
+      "url": "https://www.pregnancybirthbaby.org.au/choosing-where-to-give-birth"
+    },
+    {
+      "text": "專業醫護人員",
+      "url": "https://www.pregnancybirthbaby.org.au/health-professionals-involved-in-your-pregnancy"
+    },
+    {
+      "text": "全科醫生",
+      "url": "https://www.pregnancybirthbaby.org.au/the-role-of-your-gp"
+    },
+    {
+      "text": "助產士（midwife）",
+      "url": "https://www.pregnancybirthbaby.org.au/midwife"
+    },
+    {
+      "text": "產科醫生（obstetrician）",
+      "url": "https://www.pregnancybirthbaby.org.au/obstetrician"
+    },
+    {
+      "text": "提問的好機會",
+      "url": "https://www.pregnancybirthbaby.org.au/questions-to-ask-your-doctor-about-tests-and-scans"
+    },
+    {
+      "text": "在醫院分娩",
+      "url": "https://www.pregnancybirthbaby.org.au/having-a-baby-in-hospital"
+    },
+    {
+      "text": "在生產中心分娩",
+      "url": "https://www.pregnancybirthbaby.org.au/having-a-baby-at-a-birthing-centre"
+    },
+    {
+      "text": "第一次產檢",
+      "url": "https://www.pregnancybirthbaby.org.au/your-first-antenatal-visit"
+    },
+    {
+      "text": "產前課程",
+      "url": "https://www.pregnancybirthbaby.org.au/antenatal-classes"
+    },
+    {
+      "text": "檢測",
+      "url": "https://www.pregnancybirthbaby.org.au/checkups-and-scans-during-your-pregnancy"
+    },
+    {
+      "text": "接種疫苗",
+      "url": "https://www.pregnancybirthbaby.org.au/vaccinations-and-pregnancy"
+    },
+    {
+      "text": "飲食建議",
+      "url": "https://www.pregnancybirthbaby.org.au/healthy-diet-during-pregnancy"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "專職醫療人員",
+      "url": "https://www.healthdirect.gov.au/allied-health"
+    },
+    {
+      "text": "在私營醫院分娩",
+      "url": "https://www.pregnancybirthbaby.org.au/what-is-the-difference-between-public-and-private-care-in-pregnancy"
+    },
+    {
+      "text": "私人醫療保險",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "兒科醫生",
+      "url": "https://www.healthdirect.gov.au/paediatrician"
+    },
+    {
+      "text": "止痛麻醉",
+      "url": "https://www.pregnancybirthbaby.org.au/epidural"
+    },
+    {
+      "text": "在家生產",
+      "url": "https://www.pregnancybirthbaby.org.au/home-birth"
+    },
+    {
+      "text": "Homebirth Australia",
+      "url": "https://www.homebirthaustralia.org/midwives.html"
+    },
+    {
+      "text": "剖腹產",
+      "url": "https://www.pregnancybirthbaby.org.au/caesarean"
+    },
+    {
+      "text": "由Medicare承擔",
+      "url": "https://www.pregnancybirthbaby.org.au/medicare-during-pregnancy"
+    },
+    {
+      "text": "私人醫療保險",
+      "url": "https://www.pregnancybirthbaby.org.au/private-health-insurance-and-pregnancy"
+    },
+    {
+      "text": "視像通話",
+      "url": "https://www.pregnancybirthbaby.org.au/"
+    },
+    {
+      "text": "懷孕、生育與嬰兒諮詢服務",
+      "url": "https://www.pregnancybirthbaby.org.au/video-call"
+    },
+    {
+      "text": "澳大利亞鄉村孕產服務",
+      "url": "https://www.pregnancybirthbaby.org.au/maternity-services-in-rural-australia"
+    },
+    {
+      "text": "「鄉村生育」",
+      "url": "https://www.birthingoncountry.com/"
+    },
+    {
+      "text": "為原住民和托雷斯海峽島民提供符合其文化的懷孕相關資源",
+      "url": "https://www.thewomens.org.au/health-information/pregnancy-and-birth/aboriginal-and-torres-strait-islander-women"
+    },
+    {
+      "text": "遍及全維多利亞州的庫裡（Koori）產科服務",
+      "url": "https://www.health.vic.gov.au/patient-care/aboriginal-maternity-services"
+    },
+    {
+      "text": "具有文化敏感度的孕期護理",
+      "url": "https://www.cclhd.health.nsw.gov.au/services/children-services/child-and-family-health/aboriginal-pregnancy-ngiyang/"
+    },
+    {
+      "text": "國家筆譯與口譯服務中心（Translating and Interpreting Service，TIS）",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Question builder",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "澳洲的母嬰保健 | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\n# 澳洲的母嬰保健\n\nSelect language: English , (Arabic) العربية , বাংলা (Bengali) , 简体中文 (Simplified Chinese) , 繁體中文 (Traditional Chinese) , Tiếng Việt (Vietnamese)\n\n## 主要資訊\n\n- 在澳大利亞，可供您選擇的孕期護理服務通常視乎您計畫在哪裡分娩。\n\n- 在懷孕期間，您可選擇助產士、全科醫生、產科醫生，或由他們共同為您提供服務。\n\n- 視乎生育過程當中的風險高低，以及自己的居住地點，您可以在公立或私營醫院生產、在分娩中心生產，也可以在家生產。\n\n- 發現自己懷孕後，請儘早與全科醫生聯繫，開始規劃自己的孕產方案。\n\n- 接受恰當的孕期護理非常重要，可以保證您和寶寶的健康，並儘早解決任何出現的問題。\n\n## 本頁內容\n\n- 澳大利亞有哪些孕期護理服務供我選擇？\n\n- 懷孕期間誰會照顧我？\n\n- 甚麼是產前護理？\n\n- 應該甚麼時候接受檢查？\n\n- 產前檢查包括什麼？\n\n- 多久需要進行一次產前檢查？\n\n- 可以在哪裡分娩？\n\n- 分娩中心\n\n- 共同照護是甚麼？\n\n- 生產後我還需要住院多久？\n\n- 收費多少？\n\n- 資源與支援\n\n- 澳洲網站上的相關資訊\n\n## 澳大利亞有哪些孕期護理服務供我選擇？\n\n澳大利亞公民可以享受一系列個性化、高品質的孕產服務和護理模式。無論您是已經懷孕還是正在計畫懷孕，在懷孕和分娩期間有很多可供您選擇的護理與支援服務。這些服務包括助產士或醫生提供的護理，以及公立或私立機構提供的護理。\n\n瞭解 澳大利亞提供的孕期護理 、 在哪裡分娩 以及相關費用，幫助您選擇最適合自己的方案。\n\n## 懷孕期間誰會照顧我？\n\n根據您的保健需求以及您計畫在哪裡分娩，有三類 專業醫護人員 可為您提供孕期護理服務。\n\n- 全科醫生 （GP） 是負責維護基本健康、治療多種健康問題的專業醫護人員。如果您認為自己懷有身孕，全科醫生往往是您諮詢的第一位醫護人員。\n\n- 產科全科醫生（GP obstetrician） 是額外接受過婦產科培訓的全科醫生。他们会与其他妇产科专业医护人员一起为您提供医疗保健服务， 即共同照护服务（shared care）。如果您选择这种由全科医生和其他妇产科专业医护人员共同提供的服务，助产士或产科医生会与全科医生一起为您提供孕期服务。如果您住在鄉村或偏遠地區，全科醫生可能會為您提供所有孕期服務並協助您分娩。\n\n- 經過專業培訓的 助產士（midwife） 負責在孕期、分娩期間和產後為您提供支援和護理。助產士在公立和私立醫院協助產科醫生的工作，也在社區提供服務。他們幫助您在懷孕期間保持健康。即使沒有出現複雜的情況，他們也會在您分娩期間予以協助。助產士在您產後數週內也會負責照顧您和寶寶的健康。\n\n- 產科醫生（obstetrician） 是受過特殊培訓的專科醫生，負責在孕期、分娩期間和產後照顧產婦和寶寶的健康。如果您準備在公立醫院分娩，便只會在有特殊醫療需要時才會見到產科醫生。如果您選擇由私人產科醫生護理，私人產科醫生將在您整個懷孕期間負責您的產前護理，並且可能在您分娩時在場。\n\n尋找醫療服務 —— 服務搜尋功能（Service Finder） 幫您搜尋醫生、藥劑師、醫院和其他醫療服務。\n\n## 甚麼是產前護理？\n\n產前護理是在懷孕期間接受的保健服務。懷孕期間，您會進行多次產前檢查。\n\n即使您的健康狀況良好、懷孕過程順利，預約產前檢查也十分重要。助產士或醫生會在產檢中檢查您和寶寶的健康情況，以便及早發現並處理問題。這也是向助產士和醫生 提問的好機會 ，您可以與他們提出疑問和擔憂。\n\n在澳大利亞，您可選擇的 產前保健 方案視乎您計畫在哪裡生產。如您想 在醫院分娩 或 在生產中心分娩 ，最好儘早預約。\n\n## 應該甚麼時候接受檢查？\n\n如果剛剛發現自己懷孕，請盡快向 全科醫生 或 助產士 求診，接受 產前護理 。\n\n第一次產檢 最好安排在懷孕6-8周期間（一般情況下即為最後一次月經開始後的6-8周）。您可以向助產士、醫生、診所或醫院預約此次產前檢查。這次問診通常由全科醫生完成。\n\n## 產前檢查包括什麼？\n\n在 第一次產檢 中，醫生或助產士會確認您是否懷孕。他們會為您進行詳細的檢查，包括詢問您的既往病史和家族病史，這會幫助您確定與孕期管理相關的事項。\n\n他們會與您計劃產前護理，包括：\n\n- 分娩的地點\n\n- 您將在哪裡接受產前保健服務，哪些醫護人員將為您提供醫療保健服務\n\n- 您大概需要進行多少次產檢\n\n- 您可以去哪裡上 產前課程\n\n他們還可能會建議您接受 檢測 ，找出任何可能在妊娠和分娩期間引發健康問題的風險因素。您可以自行決定是否接受檢查。\n\n他們還將為您提供與以下方面相關的資訊和資源：\n\n- 接種疫苗\n\n- 飲食建議\n\n- 其它與懷孕相關的生活方式和保健建議\n\n## 多久需要進行一次產前檢查？\n\n懷孕期間，您將會接受多次產前檢查。很多人在初期每4-6周檢查一次。大約從懷孕24周開始，產檢會變得更加頻繁。\n\n大部分沒有妊娠併發症的孕婦總共需要進行大約7-10次產檢。如果您或您的寶寶面臨較高的風險，醫生可能會建議安排額外的產檢。\n\n您也可以參加 產前課程 ，幫助自己和伴侶（如有）為生產做好準備。許多醫院都有開設產前課程，請向醫生或助產士詢問產前課程的詳情。\n\n## 可以在哪裡分娩？\n\n分娩地點 有幾種選擇，具體選擇在哪裡生產取決於您住在哪裡，以及您是否有任何妊娠併發症。瞭解不同分娩方式的優缺點非常重要。\n\n如何作出最佳選擇取決於您和伴侶重視哪些方面的考量。例如：\n\n- 您可以前往多遠的醫療中心？\n\n- 自己的負擔能力\n\n- 是否希望同一位醫生或助產士負責所有檢查？\n\n- 是否希望懷孕期間只由自己的全科醫生負責照料？\n\n- 分娩時希望使用哪種醫療方式或止痛方式？\n\n全科醫生可以與您探討不同選擇，幫您做出最佳選擇，並為您提供必要的轉診。您也可以與親友請教經驗。請記住，每個人懷孕分娩的需要和經歷都有所不同。\n\n### 公立醫院\n\n如果您選擇 在公立醫院生產 ， 且妊娠風險較低，您大概率會與您居住地附近的婦產科醫院預約生產。\n\n醫院可能會提供不同模式的產前保健，包括：\n\n- 在醫院的產前診所由助產士看診\n\n- 接受由醫院和全科醫生提供的共同照護服務\n\n許多醫院會由同一位助產士或同一組助產士跟進您的情況，陪伴您整個孕期，有時還陪伴您分娩。這被稱為責任制助產模式（caseload midwifery）或團隊助產模式（team midwifery）。\n\n如果您出現任何妊娠併發症，照顧您的助產士會將您轉介給產科醫生。\n\n公立醫院護理的優點有：\n\n- 您可以決定自己接受產前護理的方式。\n\n- 您可選擇在保證分娩時能獲得必要的醫療干預的同時，將干預的程度控制到最低。\n\n- Medicare 將承擔懷孕和分娩期間的護理服務大部分開支。\n\n- 如果身體出現複雜的情況，大多數主要公立醫院可以為您和嬰兒提供護理服務。\n\n- 有需要時，您可以接受 專職醫療人員 的檢查。\n\n部分缺點是：\n\n- 您將無法選擇負責自己生產過程的助產士或醫生。\n\n- 您未必能夠由同一位助產士或醫生在懷孕全期負責您的護理。\n\n- 懷孕期間負責產前檢查的助產士或醫生不一定能在您分娩時到場。\n\n- 產檢等待時間可能比私人診所更長。\n\n- 您在產後會有較大機會與他人共用同一醫院病房。\n\n您也可以選擇成為公立醫院的自費病人。作為公立醫院的自費病人，您將由您選擇的醫生照顧，但不能保證您能入住單人間。即使您可能會收到針對部分服務的Medicare福利，您可能仍需承擔醫院、醫療和診斷費用。\n\n### 私營醫院\n\n如果您決定 在私營醫院分娩 ，則會由私家產科醫生或全科醫生負責照料。您需要向主診醫生所在的其中一家醫院預約。\n\n大多數選擇私家醫院的人都會以 私人醫療保險 支付費用。\n\n首先要請全科醫生將您轉介至產科醫生，產科醫生會為您向私營醫院預約。\n\n私營醫院護理的優點有：\n\n- 您可自行選擇醫生，由該醫生為您提供孕期、分娩以及產後服務，同時您可以與該醫生建立紐帶。\n\n- 您的醫生和孕期照顧您的醫院助產士通常會在您分娩時到場。\n\n- 您有機會能夠指定較方便的地點接受護理。\n\n- 產檢等待時間可能比公立醫院系統更短。\n\n- 您可以選擇入住單人間。如果入住了單人間，您的伴侶可能可以與您同住。\n\n- 如果沒有私人醫療保險，費用相當高昂。\n\n- 您的保險通常不涵蓋全部費用。如果有需要，自己可能需要負擔麻醉師或 兒科醫生 的費用。\n\n- 如果您是自費患者，某些對公費患者免費的服務可能對自費患者並不免費。\n\n## 分娩中心\n\n生產中心 提供比醫院更舒適、更像家的分娩環境。如果您是低風險孕婦，您也可以選擇這種模式。\n\n助產士將會負責在妊娠、分娩、生產期間為您提供照顧和支援。如您在孕期或生產時出現併發症，產科醫生也會來照看您。分娩中心通常不提供 止痛麻醉 。\n\n您一般會在產後24小時內回家，之後由助產士在家照顧您。\n\n生產中心通常鄰近醫院。如在分娩期間出現問題，便可能需要轉送醫院接受醫療診治。\n\n如果您有興趣在生產中心分娩，請儘快去看醫生，瞭解您所在地區的生產中心情況並進行預約。醫生通常會先將您轉介到同一家公立醫院，但在某些情況下，您可能會被直接轉介到生產中心。\n\n如果您在附屬於公立醫院的生產中心分娩，Medicare將為您承擔分娩所產生的費用。某些檢查可能會產生一些自付費用。\n\n### 在家分娩\n\n如果您是低風險孕婦，您就可以選擇 在家生產 。 如果出現任何併發症，照顧您的助產士或醫生會安排將您轉至醫院接受醫療護理。\n\n如您計畫在家生產，您可以選擇由私人助產士為您提供產前護理服務。另外，如果您所在地區的公立醫院提供在家生產的產前護理服務，您也可以選擇公立醫院享受此服務。如果出現問題，您可能需要由產科醫生診治。\n\n如需公費在家分娩服務，便需得到醫生簽發的轉介信。您可在 Homebirth Australia 的網站上查找私人助產士。您也可以向當地的醫院預約，以防身體出現複雜情況。\n\n確保助產士具備在家分娩的註冊和資格十分重要。請留意他們是否有在必要時將您轉介給產科醫生的預案，並確保他們在您分娩或產後出現問題時能將您快速安全地轉移到醫院。\n\n您還需要確保您的寶寶出生後能夠得到一切所需治療。請確認您的助產士或醫生是否可以在分娩結束後照顧您、在產後第一周內給寶寶體檢並安排寶寶接受標準新生兒檢查。\n\n## 共同照護是甚麼？\n\n共同照護服務是指全科醫生與醫院或生產中心的醫護人員相互配合，共同為您提供孕期護理服務。您將在整個孕期定期看全科醫生，去醫院在助產士或產科醫生的幫助下做一些產檢，並去醫院生產。如果您是低風險孕婦，則可以選擇這種模式。\n\n如果全科醫生並不提供共同照護服務，醫院可以提供設有該服務的全科醫生名單。部分醫院設有與助產士或產科醫生共同照護的服務。在您的醫療記錄中留下每個共同照護服務提供者的詳細資訊非常重要，以便在需要時聯繫他們。\n\n## 生產後我還需要住院多久？\n\n您可能在分娩翌日便能回家，或者需要留院數天。有些人選擇產後6小時就回家。您住院的時長取決於：\n\n- 您的康復情況和個人選擇\n\n- 分娩地點\n\n- 您是否曾有過 剖腹產\n\n- 您或您的寶寶是否有任何併發症\n\n- 您在家中可獲得的支持\n\n## 收費多少？\n\n生孩子的費用取決於您選擇在 公立醫療系統還是私立醫療系統 生產。\n\n在澳大利亞，在公立醫院或生產中心產生的孕期護理費用大部分都 由Medicare承擔 。這種情況包括了澳大利亞公民和部分在澳大利亞停留的人士。接受私營醫療系統服務，便需要自行承擔費用或購買 私人醫療保險 支付成本。Medicare和私人醫療保險會承擔一部分私立醫院的住院費用，但您仍需要自付額外費用（稱為「自付（out-of-pocket）」費用）。\n\n請確保您的私人醫療保險的承保範圍包括孕產期保健服務。另外，還請確認保險給付前是否有等待期。\n\n不同照護選擇的收費方式有時難以理解。如有疑問，請諮詢醫生、醫院、保險公司，或致電1800 882 436聯絡懷孕、生育與嬰兒諮詢服務（Pregnancy, Birth and Baby）。\n\n## 資源與支援\n\n如在懷孕期間需要資訊、建議、支援：\n\n- 聯絡醫生或助產士。\n\n- 致電1800 882 436或通過 視像通話 聯絡 懷孕、生育與嬰兒諮詢服務 ，諮詢母嬰健康護士（maternal child health nurse）。\n\n- 歡迎隨時致電1800 022 222聯繫healthdirect，與註冊護士（在維州被稱作NURSE-ON-CALL）交談，以獲取更多資訊和建議。\n\n### 正在尋找有關適用於澳大利亞鄉村和偏遠地區居民的孕產婦護理選項的資訊？\n\n如果您懷孕了，並且您位於澳大利亞偏遠地區，您的全科醫生可能會在您的產前保健中發揮更重要的作用。您可能會得到您所在社區中的不同醫護人員合作提供的護理。\n\n您可以在此找到針對您所在地區的 澳大利亞鄉村孕產服務 的更多資訊。\n\n### 正在尋找有關原住民和托雷斯海峽島民的孕產婦護理資訊？\n\n- 為了滿足原住民和托雷斯海峽島民的孕產婦護理需求，不同的州都出臺了自己的計畫。請向醫生或原住民醫護人員詢問，獲取更多資訊。\n\n- 「鄉村生育」 是一種孕產婦護理模式，以原住民和托雷斯海峽島民的價值觀為中心，具有一定文化敏感度。\n\n- 皇家婦女醫院（Royal Women’s Hospital） 為原住民和托雷斯海峽島民提供符合其文化的懷孕相關資源\n\n- 原住民產科服務中心（Aboriginal Maternity Services）提供 遍及全維多利亞州的庫裡（Koori）產科服務 。\n\n- NGIYANG提供 具有文化敏感度的孕期護理 、兒童早期發展、免疫接種、育兒支持、教育和轉診服務。\n\n### 正在尋找用非英語語言服務？\n\n- 如果您需要獲取語言支援服務，請撥打131 450致電 國家筆譯與口譯服務中心（Translating and Interpreting Service，TIS） 。\n\n- 莫納什婦女醫院（Monash Women’s）提供以多種社區語言撰寫的醫療保健資訊。\n\nLast reviewed: June 2024\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia\n\n- Please enter your name: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- English: https://www.healthdirect.gov.au/maternity-care-in-australia\n\n- (Arabic) العربية: https://www.healthdirect.gov.au/ar/maternity-care-in-australia\n\n- বাংলা (Bengali): https://www.healthdirect.gov.au/bn/maternity-care-in-australia\n\n- 简体中文 (Simplified Chinese): https://www.healthdirect.gov.au/zh-hans/maternity-care-in-australia\n\n- Tiếng Việt (Vietnamese): https://www.healthdirect.gov.au/vi/maternity-care-in-australia\n\n- 澳大利亞有哪些孕期護理服務供我選擇？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#options\n\n- 懷孕期間誰會照顧我？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#during\n\n- 甚麼是產前護理？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#antenatal\n\n- 應該甚麼時候接受檢查？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#when\n\n- 多久需要進行一次產前檢查？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#how-often\n\n- 可以在哪裡分娩？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#where\n\n- 分娩中心: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#birth-centre\n\n- 共同照護是甚麼？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#shared-care\n\n- 生產後我還需要住院多久？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#how-long\n\n- 收費多少？: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#cost\n\n- 資源與支援: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#resources\n\n- 澳洲網站上的相關資訊: https://www.healthdirect.gov.au/zh-hant/maternity-care-in-australia#searchGeneralResults\n\n- 澳大利亞提供的孕期護理: https://www.pregnancybirthbaby.org.au/antenatal-care-during-your-pregnancy\n\n- 在哪裡分娩: https://www.pregnancybirthbaby.org.au/choosing-where-to-give-birth\n\n- 專業醫護人員: https://www.pregnancybirthbaby.org.au/health-professionals-involved-in-your-pregnancy\n\n- 全科醫生: https://www.pregnancybirthbaby.org.au/the-role-of-your-gp\n\n- 助產士（midwife）: https://www.pregnancybirthbaby.org.au/midwife\n\n- 產科醫生（obstetrician）: https://www.pregnancybirthbaby.org.au/obstetrician\n\n- 提問的好機會: https://www.pregnancybirthbaby.org.au/questions-to-ask-your-doctor-about-tests-and-scans\n\n- 在醫院分娩: https://www.pregnancybirthbaby.org.au/having-a-baby-in-hospital\n\n- 在生產中心分娩: https://www.pregnancybirthbaby.org.au/having-a-baby-at-a-birthing-centre\n\n- 第一次產檢: https://www.pregnancybirthbaby.org.au/your-first-antenatal-visit\n\n- 產前課程: https://www.pregnancybirthbaby.org.au/antenatal-classes\n\n- 檢測: https://www.pregnancybirthbaby.org.au/checkups-and-scans-during-your-pregnancy\n\n- 接種疫苗: https://www.pregnancybirthbaby.org.au/vaccinations-and-pregnancy\n\n- 飲食建議: https://www.pregnancybirthbaby.org.au/healthy-diet-during-pregnancy\n\n- Medicare: https://www.healthdirect.gov.au/what-is-medicare\n\n- 專職醫療人員: https://www.healthdirect.gov.au/allied-health\n\n- 在私營醫院分娩: https://www.pregnancybirthbaby.org.au/what-is-the-difference-between-public-and-private-care-in-pregnancy\n\n- 私人醫療保險: https://www.healthdirect.gov.au/private-health-insurance\n\n- 兒科醫生: https://www.healthdirect.gov.au/paediatrician\n\n- 止痛麻醉: https://www.pregnancybirthbaby.org.au/epidural\n\n- 在家生產: https://www.pregnancybirthbaby.org.au/home-birth\n\n- Homebirth Australia: https://www.homebirthaustralia.org/midwives.html\n\n- 剖腹產: https://www.pregnancybirthbaby.org.au/caesarean\n\n- 由Medicare承擔: https://www.pregnancybirthbaby.org.au/medicare-during-pregnancy\n\n- 私人醫療保險: https://www.pregnancybirthbaby.org.au/private-health-insurance-and-pregnancy\n\n- 視像通話: https://www.pregnancybirthbaby.org.au/\n\n- 懷孕、生育與嬰兒諮詢服務: https://www.pregnancybirthbaby.org.au/video-call\n\n- 澳大利亞鄉村孕產服務: https://www.pregnancybirthbaby.org.au/maternity-services-in-rural-australia\n\n- 「鄉村生育」: https://www.birthingoncountry.com/\n\n- 為原住民和托雷斯海峽島民提供符合其文化的懷孕相關資源: https://www.thewomens.org.au/health-information/pregnancy-and-birth/aboriginal-and-torres-strait-islander-women\n\n- 遍及全維多利亞州的庫裡（Koori）產科服務: https://www.health.vic.gov.au/patient-care/aboriginal-maternity-services\n\n- 具有文化敏感度的孕期護理: https://www.cclhd.health.nsw.gov.au/services/children-services/child-and-family-health/aboriginal-pregnancy-ngiyang/\n\n- 國家筆譯與口譯服務中心（Translating and Interpreting Service，TIS）: https://www.tisnational.gov.au/\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Question builder: https://www.healthdirect.gov.au/question-builder\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

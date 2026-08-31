@@ -1,0 +1,507 @@
+{
+  "source_id": "queensland-health-mass:mass-consumer-information-apply",
+  "title": "Queensland Government",
+  "publisher": "Queensland Health MASS",
+  "url": "https://www.health.qld.gov.au/mass/consumer-information/apply",
+  "retrieved_at": "2026-08-29",
+  "topic": "NDIS, funding, benefits",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 18310,
+  "crawl_depth": 1,
+  "seed_url": "https://www.health.qld.gov.au/mass/subsidy-schemes",
+  "links": [
+    {
+      "text": "Skip to main content",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply#content"
+    },
+    {
+      "text": "Skip to main navigation",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply#main-nav"
+    },
+    {
+      "text": "www.health.qld.gov.au",
+      "url": "https://www.health.qld.gov.au"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.health.qld.gov.au/comments"
+    },
+    {
+      "text": "Public health & wellbeing",
+      "url": "https://www.health.qld.gov.au/public-health"
+    },
+    {
+      "text": "Cancer screening",
+      "url": "https://www.health.qld.gov.au/public-health/cancer-screening"
+    },
+    {
+      "text": "Disaster management",
+      "url": "https://www.health.qld.gov.au/public-health/disaster"
+    },
+    {
+      "text": "Coronial and Public Health Sciences",
+      "url": "https://www.health.qld.gov.au/public-health/forensic-and-scientific-services"
+    },
+    {
+      "text": "Health and wellbeing",
+      "url": "https://www.health.qld.gov.au/public-health/health-and-wellbeing"
+    },
+    {
+      "text": "Health topics",
+      "url": "https://www.health.qld.gov.au/public-health/topics"
+    },
+    {
+      "text": "Industry, environmental and public health",
+      "url": "https://www.health.qld.gov.au/public-health/industry-environment"
+    },
+    {
+      "text": "Information for specific groups",
+      "url": "https://www.health.qld.gov.au/public-health/groups"
+    },
+    {
+      "text": "Notifiable incidents and conditions",
+      "url": "https://www.health.qld.gov.au/public-health/notifiable-incidents-conditions"
+    },
+    {
+      "text": "Pathology Queensland",
+      "url": "https://www.health.qld.gov.au/public-health/pathology-queensland"
+    },
+    {
+      "text": "Subsidies and support",
+      "url": "https://www.health.qld.gov.au/public-health/subsidies-support"
+    },
+    {
+      "text": "Schools and early childhood",
+      "url": "https://www.health.qld.gov.au/public-health/schools"
+    },
+    {
+      "text": "Find health services and your health care options",
+      "url": "https://www.health.qld.gov.au/public-health/your-health-care-options"
+    },
+    {
+      "text": "Clinical practice",
+      "url": "https://www.health.qld.gov.au/clinical-practice"
+    },
+    {
+      "text": "Clinical guidelines and procedures",
+      "url": "https://www.health.qld.gov.au/clinical-practice/guidelines-procedures"
+    },
+    {
+      "text": "Service referrals",
+      "url": "https://www.health.qld.gov.au/clinical-practice/referrals"
+    },
+    {
+      "text": "Informed consent",
+      "url": "https://www.health.qld.gov.au/clinical-practice/informed-consent"
+    },
+    {
+      "text": "Databases and tools",
+      "url": "https://www.health.qld.gov.au/clinical-practice/database-tools"
+    },
+    {
+      "text": "Clinician engagement",
+      "url": "https://www.health.qld.gov.au/clinical-practice/engagement"
+    },
+    {
+      "text": "Clinical innovation",
+      "url": "https://www.health.qld.gov.au/clinical-practice/innovation"
+    },
+    {
+      "text": "Health system & governance",
+      "url": "https://www.health.qld.gov.au/system-governance"
+    },
+    {
+      "text": "Health Infrastructure Queensland",
+      "url": "https://www.health.qld.gov.au/system-governance/health-infrastructure"
+    },
+    {
+      "text": "Suppliers & procurement",
+      "url": "https://www.health.qld.gov.au/system-governance/suppliers"
+    },
+    {
+      "text": "Performance",
+      "url": "https://www.health.qld.gov.au/system-governance/performance"
+    },
+    {
+      "text": "Policies and standards",
+      "url": "https://www.health.qld.gov.au/system-governance/policies-standards"
+    },
+    {
+      "text": "Legislative instruments and consultation",
+      "url": "https://www.health.qld.gov.au/system-governance/legislation"
+    },
+    {
+      "text": "Strategic direction",
+      "url": "https://www.health.qld.gov.au/system-governance/strategic-direction"
+    },
+    {
+      "text": "Health system & services",
+      "url": "https://www.health.qld.gov.au/system-governance/health-system"
+    },
+    {
+      "text": "Health licences",
+      "url": "https://www.health.qld.gov.au/system-governance/licences"
+    },
+    {
+      "text": "Health records and privacy",
+      "url": "https://www.health.qld.gov.au/system-governance/records-privacy"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.health.qld.gov.au/system-governance/contact-us"
+    },
+    {
+      "text": "Careers",
+      "url": "https://www.health.qld.gov.au/careers"
+    },
+    {
+      "text": "Job search",
+      "url": "https://www.health.qld.gov.au/careers/job-search2"
+    },
+    {
+      "text": "How to apply",
+      "url": "https://www.health.qld.gov.au/careers/how-to-apply"
+    },
+    {
+      "text": "Allied health",
+      "url": "https://www.health.qld.gov.au/careers/allied-health"
+    },
+    {
+      "text": "Medical",
+      "url": "https://www.health.qld.gov.au/careers/medical"
+    },
+    {
+      "text": "Nursing and midwifery",
+      "url": "https://www.health.qld.gov.au/careers/nursing-and-midwifery"
+    },
+    {
+      "text": "Dental",
+      "url": "https://www.health.qld.gov.au/careers/dental"
+    },
+    {
+      "text": "Other careers",
+      "url": "https://www.health.qld.gov.au/careers/other-careers"
+    },
+    {
+      "text": "Students and graduates",
+      "url": "https://www.health.qld.gov.au/careers/students-and-graduates"
+    },
+    {
+      "text": "Working for us",
+      "url": "https://www.health.qld.gov.au/careers/working-for-us"
+    },
+    {
+      "text": "Research & reports",
+      "url": "https://www.health.qld.gov.au/research-reports"
+    },
+    {
+      "text": "Research",
+      "url": "https://www.health.qld.gov.au/research-reports/research"
+    },
+    {
+      "text": "Reports",
+      "url": "https://www.health.qld.gov.au/research-reports/reports"
+    },
+    {
+      "text": "Population health data and statistics",
+      "url": "https://www.health.qld.gov.au/research-reports/population-health"
+    },
+    {
+      "text": "Newsroom",
+      "url": "https://www.health.qld.gov.au/newsroom"
+    },
+    {
+      "text": "News",
+      "url": "https://www.health.qld.gov.au/newsroom/news"
+    },
+    {
+      "text": "Features",
+      "url": "https://www.health.qld.gov.au/newsroom/features"
+    },
+    {
+      "text": "Podcasts",
+      "url": "https://www.health.qld.gov.au/newsroom/podcasts"
+    },
+    {
+      "text": "Department of Health media releases",
+      "url": "https://www.health.qld.gov.au/newsroom/doh-media-releases"
+    },
+    {
+      "text": "Health alerts and warnings",
+      "url": "https://www.health.qld.gov.au/newsroom/alerts"
+    },
+    {
+      "text": "Minister for Health media statements",
+      "url": "https://www.health.qld.gov.au/newsroom/minister-for-health-media-statements"
+    },
+    {
+      "text": "Media contacts",
+      "url": "https://www.health.qld.gov.au/newsroom/media-contacts"
+    },
+    {
+      "text": "Queensland Health Events",
+      "url": "https://www.health.qld.gov.au/newsroom/qh-events"
+    },
+    {
+      "text": "Campaigns",
+      "url": "https://www.health.qld.gov.au/newsroom/campaigns"
+    },
+    {
+      "text": "Queensland Health's YouTube channel",
+      "url": "https://www.health.qld.gov.au/newsroom/queensland-health-youtube-channel"
+    },
+    {
+      "text": "Newsletter",
+      "url": "https://www.health.qld.gov.au/newsroom/newsletter"
+    },
+    {
+      "text": "Medical Aids Subsidy Scheme",
+      "url": "https://www.health.qld.gov.au/mass"
+    },
+    {
+      "text": "Consumer Information",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information"
+    },
+    {
+      "text": "Can I apply?",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/apply"
+    },
+    {
+      "text": "Do I need to pay?",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/subsidies"
+    },
+    {
+      "text": "Client reference cards",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/idcard"
+    },
+    {
+      "text": "Consumer Resources",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/mass-consumer-resources"
+    },
+    {
+      "text": "First Nations Palliative Care Program Consumer Resources",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/First-Nations"
+    },
+    {
+      "text": "NDIS Participant Information",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/MASS-NDIS-Info"
+    },
+    {
+      "text": "Moving interstate",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/Moving-interstate"
+    },
+    {
+      "text": "Repairs and maintenance",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/mass-repairs-and-maintenance"
+    },
+    {
+      "text": "Privacy and Collection notice",
+      "url": "https://www.health.qld.gov.au/mass/consumer-information/privacy"
+    },
+    {
+      "text": "Prescribing medical aids and equipment",
+      "url": "https://www.health.qld.gov.au/mass/prescribe"
+    },
+    {
+      "text": "Available Schemes",
+      "url": "https://www.health.qld.gov.au/mass/subsidy-schemes"
+    },
+    {
+      "text": "About Medical Aids Subsidy Scheme (MASS)",
+      "url": "https://www.health.qld.gov.au/mass/subsidy-schemes/mass"
+    },
+    {
+      "text": "Aids provided through hospital programs",
+      "url": "https://www.health.qld.gov.au/mass/hospitals"
+    },
+    {
+      "text": "Communication aids",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/communication"
+    },
+    {
+      "text": "Continence aids",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/continence"
+    },
+    {
+      "text": "Daily living aids",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/living"
+    },
+    {
+      "text": "Heat moisture exchangers",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/hme-subsidy-scheme"
+    },
+    {
+      "text": "Home oxygen",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/oxygen"
+    },
+    {
+      "text": "Medical-grade footwear",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/footwear"
+    },
+    {
+      "text": "Mobility aids",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/mobility"
+    },
+    {
+      "text": "Palliative care aids & equipment",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/palliative-care-equipment-program"
+    },
+    {
+      "text": "Palliative syringe injection drivers",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/palliative-care-syringe-driver-program"
+    },
+    {
+      "text": "Prosthetic limbs",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/artificial-limbs"
+    },
+    {
+      "text": "Spectacles",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/spectacles"
+    },
+    {
+      "text": "Spinal and lower limb orthoses",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/orthoses"
+    },
+    {
+      "text": "Rural and remote areas",
+      "url": "https://www.health.qld.gov.au/mass/subsidy-schemes/rural-remote"
+    },
+    {
+      "text": "Clinical education",
+      "url": "https://www.health.qld.gov.au/mass/education"
+    },
+    {
+      "text": "MASS-eApply (online applications for prescribers)",
+      "url": "https://www.health.qld.gov.au/mass/eapply"
+    },
+    {
+      "text": "Resources (Documents, Forms, Product Lists)",
+      "url": "https://www.health.qld.gov.au/mass/docs"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.health.qld.gov.au/mass/contact"
+    },
+    {
+      "text": "Communication Aids (PDF 298 kB)",
+      "url": "https://www.health.qld.gov.au/mass/prescribe/communication#guidelines"
+    },
+    {
+      "text": "Continence aids (PDF 306 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0016/431260/guidelines-continence.pdf"
+    },
+    {
+      "text": "Daily Living and Mobility Aids (PDF 492 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/1354625/guidelines-equipment.pdf"
+    },
+    {
+      "text": "Home Oxygen (PDF 361 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0028/428455/guidelines-oxygen.pdf"
+    },
+    {
+      "text": "Medical grade footwear (PDF 296 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0031/437854/guidelines-medical-grade-footwear.pdf"
+    },
+    {
+      "text": "Orthoses (PDF 298 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0033/429576/guidelines-orthoses.pdf"
+    },
+    {
+      "text": "Cystic Fibrosis Program Guidelines (PDF 298 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0028/433297/guidelines-cystic-fibrosis.pdf"
+    },
+    {
+      "text": "Heat Moisture Exchangers via the Queensland HME Subsidy Scheme for Laryngectomy (QHSSL) Guidelines (PDF 310 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0034/847717/MASS-QHSSL-Guidelines.pdf"
+    },
+    {
+      "text": "Palliative Care Equipment Program Guidelines (PDF 545 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0032/949451/MASS-Guidelines-PCEP.pdf"
+    },
+    {
+      "text": "Palliative Care Syringe Driver Program Guidelines (PDF 333 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0022/1146730/guidelines-pcsdp.pdf"
+    },
+    {
+      "text": "client registration form (PDF 869 kB) (PDF 869 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0038/939962/QALS-Client-Registration.pdf"
+    },
+    {
+      "text": "Queensland Artificial Limb Service Guidelines (PDF 422 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0026/1161773/guidelines-QALS.pdf"
+    },
+    {
+      "text": "Spectacle Supply Scheme Guidelines (PDF 371 kB)",
+      "url": "https://www.health.qld.gov.au/__data/assets/pdf_file/0021/431382/guidelines-spectacles.pdf"
+    },
+    {
+      "text": "Employment conditions",
+      "url": "https://www.careers.health.qld.gov.au/working-for-us"
+    },
+    {
+      "text": "Professional development",
+      "url": "https://www.careers.health.qld.gov.au/working-for-us/professional-development"
+    },
+    {
+      "text": "Informed consent",
+      "url": "https://www.health.qld.gov.au/consent"
+    },
+    {
+      "text": "Copyright",
+      "url": "https://www.health.qld.gov.au/global/copyright-statement"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.health.qld.gov.au/global/disclaimer"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://www.health.qld.gov.au/global/privacy"
+    },
+    {
+      "text": "Right to information",
+      "url": "https://www.health.qld.gov.au/system-governance/contact-us/access-info"
+    },
+    {
+      "text": "Accessibility",
+      "url": "https://www.qld.gov.au/help/accessibility"
+    },
+    {
+      "text": "Jobs in Queensland Government",
+      "url": "https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904"
+    },
+    {
+      "text": "Other languages",
+      "url": "https://www.qld.gov.au/languages"
+    },
+    {
+      "text": "Help",
+      "url": "https://www.health.qld.gov.au/global/help"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/QLDHealth"
+    },
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/qldhealth/"
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/qldhealthnews"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://www.linkedin.com/company/queensland-health"
+    },
+    {
+      "text": "YouTube",
+      "url": "https://www.youtube.com/user/HealthierQueensland"
+    },
+    {
+      "text": "TikTok",
+      "url": "https://www.tiktok.com/@qldhealth"
+    }
+  ],
+  "text": "Can I apply? | Queensland Health\n\nSkip to main content Skip to main navigation\n\nwww.health.qld.gov.au\n\nContact us\n\nSearch Menu\n\nQueensland Government\n\nQueensland Health\n\nSearch this website\n\nSearch\n\n###### Menu\n\nClose\n\n- Home\n\n- Public health & wellbeing Public health & wellbeing\n\n- Public health and wellbeing\n\n- Cancer screening\n\n- Disaster management\n\n- Coronial and Public Health Sciences\n\n- Health and wellbeing\n\n- Health topics\n\n- Industry, environmental and public health\n\n- Information for specific groups\n\n- Notifiable incidents and conditions\n\n- Pathology Queensland\n\n- Subsidies and support\n\n- Schools and early childhood\n\n- Find health services and your health care options\n\n- Clinical practice Clinical practice\n\n- Clinical practice\n\n- Clinical guidelines and procedures\n\n- Service referrals\n\n- Informed consent\n\n- Databases and tools\n\n- Clinician engagement\n\n- Clinical innovation\n\n- Health system & governance Health system & governance\n\n- Health system and governance\n\n- Health Infrastructure Queensland\n\n- Suppliers & procurement\n\n- Performance\n\n- Policies and standards\n\n- Legislative instruments and consultation\n\n- Strategic direction\n\n- Health system & services\n\n- Health licences\n\n- Health records and privacy\n\n- Contact us\n\n- Careers Careers\n\n- Careers\n\n- Job search\n\n- How to apply\n\n- Allied health\n\n- Medical\n\n- Nursing and midwifery\n\n- Dental\n\n- Other careers\n\n- Students and graduates\n\n- Working for us\n\n- Research & reports Research & reports\n\n- Research and reports\n\n- Research\n\n- Reports\n\n- Population health data and statistics\n\n- Newsroom Newsroom\n\n- Newsroom\n\n- News\n\n- Features\n\n- Podcasts\n\n- Department of Health media releases\n\n- Health alerts and warnings\n\n- Minister for Health media statements\n\n- Media contacts\n\n- Queensland Health Events\n\n- Campaigns\n\n- Queensland Health's YouTube channel\n\n- Newsletter\n\n- Medical Aids Subsidy Scheme\n\n- Consumer Information\n\n- Apply\n\nCan I apply?\n\nSearch this site:\n\n## Medical Aids Subsidy Scheme\n\n- Can I apply?\n\n- Do I need to pay?\n\n- Client reference cards\n\n- Consumer Resources\n\n- First Nations Palliative Care Program Consumer Resources\n\n- NDIS Participant Information\n\n- Moving interstate\n\n- Repairs and maintenance\n\n- Privacy and Collection notice\n\n- Prescribing medical aids and equipment\n\n- Available Schemes\n\n- About Medical Aids Subsidy Scheme (MASS)\n\n- Aids provided through hospital programs\n\n- Communication aids\n\n- Continence aids\n\n- Cystic Fibrosis Program\n\n- Daily living aids\n\n- Heat moisture exchangers\n\n- Home oxygen\n\n- Medical-grade footwear\n\n- Mobility aids\n\n- Palliative care aids & equipment\n\n- Palliative syringe injection drivers\n\n- Prosthetic limbs\n\n- Spectacles\n\n- Spinal and lower limb orthoses\n\n- Rural and remote areas\n\n- Clinical education\n\n- MASS-eApply (online applications for prescribers)\n\n- Resources (Documents, Forms, Product Lists)\n\n# Can I apply?\n\nMASS administers some specialty programs and schemes which may vary in eligibility requirements, please refer to guidelines.\n\n- You will need to arrange a clinical assessment by a health professional (clinician) approved by MASS to prescribe the particular type of aid or equipment.\n\n- The prescriber will assist you with the completion of application forms and/or submit the application on your behalf.\n\nMASS administers some specialty programs and schemes which may vary in eligibility requirements.\n\nMASS Cystic Fibrosis HME Palliative Care QALS Spectacles\n\nMedical Aids Subsidy Scheme (MASS) eligibility includes:\n\n- Daily living aids and mobility aids\n\n- Medical grade footwear\n\n- Orthoses\n\nYou may be eligible for assistance under MASS if:\n\n- You are a permanent resident of Queensland.\n\n- You have a permanent or stable condition or disability.\n\n- You hold one of the following eligibility cards in your own name:\n\n- Centrelink Pensioner Concession Card\n\n- Centrelink Health Care Card\n\n- Department of Veterans' Affairs (DVA) Pensioner Concession Card (conditions apply)\n\n- Queensland Government Seniors Card\n\n- You meet the clinical criteria for each aid.\n\nGuidelines are available here:\n\n- Communication Aids (PDF 298 kB)\n\n- Continence aids (PDF 306 kB)\n\n- Daily Living and Mobility Aids (PDF 492 kB)\n\n- Home Oxygen (PDF 361 kB)\n\n- Medical grade footwear (PDF 296 kB)\n\n- Orthoses (PDF 298 kB)\n\nYou may be eligible for assistance under Cystic Fibrosis Program (CFP) if:\n\n- You meet the clinical criteria.\n\nCFP Aids and equipment are not provided by the program for hospital inpatients and high\n\ncare residents of Commonwealth funded care facilities.\n\nCystic Fibrosis Program Guidelines\n\n(PDF 298 kB)\n\nYou may be eligible for assistance under Queensland Heat Moisture Exchangers (HME) Subsidy Scheme for Laryngectomy (QHSSL) if:\n\n- You hold a current Medicare Card OR an appropriate visa\n\n- You have undergone laryngectomy\n\n- You have completed an appropriate trial of laryngectomy respiratory consumables for a minimum of four (4) weeks OR providing evidence you are self-funding laryngectomy respiratory consumables.\n\nHeat Moisture Exchangers via the Queensland HME Subsidy Scheme for Laryngectomy (QHSSL) Guidelines (PDF 310 kB)\n\nPalliative Care Programs:\n\n- Palliative Care Equipment Program (PCEP) includes:\n\n- Daily living and mobility aids\n\n- Palliative Care Syringe Driver Program\n\nYou may be eligible for assistance under PCEP/PCSDP if:\n\n- You are a permanent resident of Queensland with a Queensland delivery address\n\n- Provide a Medicare Card number for purpose of unique identification. If you do not have one, please contact MASS.\n\n- Have a Palliative Confirmation form completed\n\n- Meet the clinical criteria for each aid.\n\nPalliative Care Equipment Program Guidelines (PDF 545 kB)\n\nPalliative Care Syringe Driver Program Guidelines (PDF 333 kB)\n\nYou may be eligible under Queensland Artificial Limb Service (QALS) for definitive prosthetic services if:\n\n- Be aged 65 years or older;\n\n- be an Australian Citizen, Permanent Resident or a holder of a protected special category visa (SCV);\n\n- be listed on a current and open resident (Green) Medicare Card\n\n- have completed an ‘interim rehabilitation program’ at an amputee clinic, been assessed and deemed competent and suitable to use a prosthetic limb.\n\n- Not be obtaining prosthetic funding support or services through another Government agency or state service.\n\nYou are required to complete client registration form (PDF 869 kB) (PDF 869 kB) to register as a QALS client.\n\nQueensland Artificial Limb Service Guidelines (PDF 422 kB)\n\nYou may be eligible for assistance under the Spectacle Supply Scheme (SSS) if:\n\n- You hold one of the following eligibility cards for a minimum of six (6) months in your own name:\n\n- You mhave a clinical need for spectacles as determined by an\n\n- Optometrist/Ophthalmologist.\n\nSpectacle Supply Scheme Guidelines (PDF 371 kB)\n\nLast updated: 11 June 2026\n\nBack to top\n\n#### Queensland Health\n\n#### Contact us\n\nGet in touch for enquiries, feedback or complaints and compliments.\n\n#### Key links\n\n- Clinical guidelines\n\n- Employment conditions\n\n- Professional development\n\n- Database and tools\n\n- Copyright\n\n- Disclaimer\n\n- Privacy\n\n- Right to information\n\n- Accessibility\n\n- Jobs in Queensland Government\n\n- Other languages\n\n- Help\n\n#### Follow us\n\n- Facebook\n\n- Instagram\n\n- Twitter\n\n- LinkedIn\n\n- YouTube\n\n- TikTok\n\nQueensland Health acknowledges the Traditional Custodians of the land across Queensland, and pays respect to First Nations Elders past and present.\n\n© The State of Queensland 2026 (Queensland Health)\n\n\n\n## Links found on page\n\n- Skip to main content: https://www.health.qld.gov.au/mass/consumer-information/apply#content\n\n- Skip to main navigation: https://www.health.qld.gov.au/mass/consumer-information/apply#main-nav\n\n- www.health.qld.gov.au: https://www.health.qld.gov.au\n\n- Contact us: https://www.health.qld.gov.au/comments\n\n- Public health & wellbeing: https://www.health.qld.gov.au/public-health\n\n- Cancer screening: https://www.health.qld.gov.au/public-health/cancer-screening\n\n- Disaster management: https://www.health.qld.gov.au/public-health/disaster\n\n- Coronial and Public Health Sciences: https://www.health.qld.gov.au/public-health/forensic-and-scientific-services\n\n- Health and wellbeing: https://www.health.qld.gov.au/public-health/health-and-wellbeing\n\n- Health topics: https://www.health.qld.gov.au/public-health/topics\n\n- Industry, environmental and public health: https://www.health.qld.gov.au/public-health/industry-environment\n\n- Information for specific groups: https://www.health.qld.gov.au/public-health/groups\n\n- Notifiable incidents and conditions: https://www.health.qld.gov.au/public-health/notifiable-incidents-conditions\n\n- Pathology Queensland: https://www.health.qld.gov.au/public-health/pathology-queensland\n\n- Subsidies and support: https://www.health.qld.gov.au/public-health/subsidies-support\n\n- Schools and early childhood: https://www.health.qld.gov.au/public-health/schools\n\n- Find health services and your health care options: https://www.health.qld.gov.au/public-health/your-health-care-options\n\n- Clinical practice: https://www.health.qld.gov.au/clinical-practice\n\n- Clinical guidelines and procedures: https://www.health.qld.gov.au/clinical-practice/guidelines-procedures\n\n- Service referrals: https://www.health.qld.gov.au/clinical-practice/referrals\n\n- Informed consent: https://www.health.qld.gov.au/clinical-practice/informed-consent\n\n- Databases and tools: https://www.health.qld.gov.au/clinical-practice/database-tools\n\n- Clinician engagement: https://www.health.qld.gov.au/clinical-practice/engagement\n\n- Clinical innovation: https://www.health.qld.gov.au/clinical-practice/innovation\n\n- Health system & governance: https://www.health.qld.gov.au/system-governance\n\n- Health Infrastructure Queensland: https://www.health.qld.gov.au/system-governance/health-infrastructure\n\n- Suppliers & procurement: https://www.health.qld.gov.au/system-governance/suppliers\n\n- Performance: https://www.health.qld.gov.au/system-governance/performance\n\n- Policies and standards: https://www.health.qld.gov.au/system-governance/policies-standards\n\n- Legislative instruments and consultation: https://www.health.qld.gov.au/system-governance/legislation\n\n- Strategic direction: https://www.health.qld.gov.au/system-governance/strategic-direction\n\n- Health system & services: https://www.health.qld.gov.au/system-governance/health-system\n\n- Health licences: https://www.health.qld.gov.au/system-governance/licences\n\n- Health records and privacy: https://www.health.qld.gov.au/system-governance/records-privacy\n\n- Contact us: https://www.health.qld.gov.au/system-governance/contact-us\n\n- Careers: https://www.health.qld.gov.au/careers\n\n- Job search: https://www.health.qld.gov.au/careers/job-search2\n\n- How to apply: https://www.health.qld.gov.au/careers/how-to-apply\n\n- Allied health: https://www.health.qld.gov.au/careers/allied-health\n\n- Medical: https://www.health.qld.gov.au/careers/medical\n\n- Nursing and midwifery: https://www.health.qld.gov.au/careers/nursing-and-midwifery\n\n- Dental: https://www.health.qld.gov.au/careers/dental\n\n- Other careers: https://www.health.qld.gov.au/careers/other-careers\n\n- Students and graduates: https://www.health.qld.gov.au/careers/students-and-graduates\n\n- Working for us: https://www.health.qld.gov.au/careers/working-for-us\n\n- Research & reports: https://www.health.qld.gov.au/research-reports\n\n- Research: https://www.health.qld.gov.au/research-reports/research\n\n- Reports: https://www.health.qld.gov.au/research-reports/reports\n\n- Population health data and statistics: https://www.health.qld.gov.au/research-reports/population-health\n\n- Newsroom: https://www.health.qld.gov.au/newsroom\n\n- News: https://www.health.qld.gov.au/newsroom/news\n\n- Features: https://www.health.qld.gov.au/newsroom/features\n\n- Podcasts: https://www.health.qld.gov.au/newsroom/podcasts\n\n- Department of Health media releases: https://www.health.qld.gov.au/newsroom/doh-media-releases\n\n- Health alerts and warnings: https://www.health.qld.gov.au/newsroom/alerts\n\n- Minister for Health media statements: https://www.health.qld.gov.au/newsroom/minister-for-health-media-statements\n\n- Media contacts: https://www.health.qld.gov.au/newsroom/media-contacts\n\n- Queensland Health Events: https://www.health.qld.gov.au/newsroom/qh-events\n\n- Campaigns: https://www.health.qld.gov.au/newsroom/campaigns\n\n- Queensland Health's YouTube channel: https://www.health.qld.gov.au/newsroom/queensland-health-youtube-channel\n\n- Newsletter: https://www.health.qld.gov.au/newsroom/newsletter\n\n- Medical Aids Subsidy Scheme: https://www.health.qld.gov.au/mass\n\n- Consumer Information: https://www.health.qld.gov.au/mass/consumer-information\n\n- Can I apply?: https://www.health.qld.gov.au/mass/consumer-information/apply\n\n- Do I need to pay?: https://www.health.qld.gov.au/mass/consumer-information/subsidies\n\n- Client reference cards: https://www.health.qld.gov.au/mass/consumer-information/idcard\n\n- Consumer Resources: https://www.health.qld.gov.au/mass/consumer-information/mass-consumer-resources\n\n- First Nations Palliative Care Program Consumer Resources: https://www.health.qld.gov.au/mass/consumer-information/First-Nations\n\n- NDIS Participant Information: https://www.health.qld.gov.au/mass/consumer-information/MASS-NDIS-Info\n\n- Moving interstate: https://www.health.qld.gov.au/mass/consumer-information/Moving-interstate\n\n- Repairs and maintenance: https://www.health.qld.gov.au/mass/consumer-information/mass-repairs-and-maintenance\n\n- Privacy and Collection notice: https://www.health.qld.gov.au/mass/consumer-information/privacy\n\n- Prescribing medical aids and equipment: https://www.health.qld.gov.au/mass/prescribe\n\n- Available Schemes: https://www.health.qld.gov.au/mass/subsidy-schemes\n\n- About Medical Aids Subsidy Scheme (MASS): https://www.health.qld.gov.au/mass/subsidy-schemes/mass\n\n- Aids provided through hospital programs: https://www.health.qld.gov.au/mass/hospitals\n\n- Communication aids: https://www.health.qld.gov.au/mass/prescribe/communication\n\n- Continence aids: https://www.health.qld.gov.au/mass/prescribe/continence\n\n- Daily living aids: https://www.health.qld.gov.au/mass/prescribe/living\n\n- Heat moisture exchangers: https://www.health.qld.gov.au/mass/prescribe/hme-subsidy-scheme\n\n- Home oxygen: https://www.health.qld.gov.au/mass/prescribe/oxygen\n\n- Medical-grade footwear: https://www.health.qld.gov.au/mass/prescribe/footwear\n\n- Mobility aids: https://www.health.qld.gov.au/mass/prescribe/mobility\n\n- Palliative care aids & equipment: https://www.health.qld.gov.au/mass/prescribe/palliative-care-equipment-program\n\n- Palliative syringe injection drivers: https://www.health.qld.gov.au/mass/prescribe/palliative-care-syringe-driver-program\n\n- Prosthetic limbs: https://www.health.qld.gov.au/mass/prescribe/artificial-limbs\n\n- Spectacles: https://www.health.qld.gov.au/mass/prescribe/spectacles\n\n- Spinal and lower limb orthoses: https://www.health.qld.gov.au/mass/prescribe/orthoses\n\n- Rural and remote areas: https://www.health.qld.gov.au/mass/subsidy-schemes/rural-remote\n\n- Clinical education: https://www.health.qld.gov.au/mass/education\n\n- MASS-eApply (online applications for prescribers): https://www.health.qld.gov.au/mass/eapply\n\n- Resources (Documents, Forms, Product Lists): https://www.health.qld.gov.au/mass/docs\n\n- Contact us: https://www.health.qld.gov.au/mass/contact\n\n- Communication Aids (PDF 298 kB): https://www.health.qld.gov.au/mass/prescribe/communication#guidelines\n\n- Continence aids (PDF 306 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0016/431260/guidelines-continence.pdf\n\n- Daily Living and Mobility Aids (PDF 492 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0026/1354625/guidelines-equipment.pdf\n\n- Home Oxygen (PDF 361 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0028/428455/guidelines-oxygen.pdf\n\n- Medical grade footwear (PDF 296 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0031/437854/guidelines-medical-grade-footwear.pdf\n\n- Orthoses (PDF 298 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0033/429576/guidelines-orthoses.pdf\n\n- Cystic Fibrosis Program Guidelines (PDF 298 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0028/433297/guidelines-cystic-fibrosis.pdf\n\n- Heat Moisture Exchangers via the Queensland HME Subsidy Scheme for Laryngectomy (QHSSL) Guidelines (PDF 310 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0034/847717/MASS-QHSSL-Guidelines.pdf\n\n- Palliative Care Equipment Program Guidelines (PDF 545 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0032/949451/MASS-Guidelines-PCEP.pdf\n\n- Palliative Care Syringe Driver Program Guidelines (PDF 333 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0022/1146730/guidelines-pcsdp.pdf\n\n- client registration form (PDF 869 kB) (PDF 869 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0038/939962/QALS-Client-Registration.pdf\n\n- Queensland Artificial Limb Service Guidelines (PDF 422 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0026/1161773/guidelines-QALS.pdf\n\n- Spectacle Supply Scheme Guidelines (PDF 371 kB): https://www.health.qld.gov.au/__data/assets/pdf_file/0021/431382/guidelines-spectacles.pdf\n\n- Employment conditions: https://www.careers.health.qld.gov.au/working-for-us\n\n- Professional development: https://www.careers.health.qld.gov.au/working-for-us/professional-development\n\n- Informed consent: https://www.health.qld.gov.au/consent\n\n- Copyright: https://www.health.qld.gov.au/global/copyright-statement\n\n- Disclaimer: https://www.health.qld.gov.au/global/disclaimer\n\n- Privacy: https://www.health.qld.gov.au/global/privacy\n\n- Right to information: https://www.health.qld.gov.au/system-governance/contact-us/access-info\n\n- Accessibility: https://www.qld.gov.au/help/accessibility\n\n- Jobs in Queensland Government: https://smartjobs.qld.gov.au/jobtools/jncustomsearch.jobsearch?in_organid=14904\n\n- Other languages: https://www.qld.gov.au/languages\n\n- Help: https://www.health.qld.gov.au/global/help\n\n- Facebook: https://www.facebook.com/QLDHealth\n\n- Instagram: https://www.instagram.com/qldhealth/\n\n- Twitter: https://twitter.com/qldhealthnews\n\n- LinkedIn: http://www.linkedin.com/company/queensland-health\n\n- YouTube: https://www.youtube.com/user/HealthierQueensland\n\n- TikTok: https://www.tiktok.com/@qldhealth"
+}

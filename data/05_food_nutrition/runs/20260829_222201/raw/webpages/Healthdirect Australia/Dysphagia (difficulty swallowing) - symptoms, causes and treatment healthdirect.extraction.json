@@ -1,0 +1,615 @@
+{
+  "source_id": "healthdirect:dysphagia",
+  "title": "Dysphagia (difficulty swallowing) - symptoms, causes and treatment | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/dysphagia",
+  "retrieved_at": "2026-08-29",
+  "topic": "Food and nutrition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 24408,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/dysphagia",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/dysphagia"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dysphagia"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/dysphagia#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/dysphagia#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/dysphagia#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/dysphagia#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/dysphagia"
+    },
+    {
+      "text": "What is dysphagia?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#what-is"
+    },
+    {
+      "text": "What symptoms are related to dysphagia?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#symptoms"
+    },
+    {
+      "text": "What causes dysphagia?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#caused"
+    },
+    {
+      "text": "How is the cause of dysphagia diagnosed?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#diagnosed"
+    },
+    {
+      "text": "When should I see my doctor?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#doctor"
+    },
+    {
+      "text": "How is dysphagia treated?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#treated"
+    },
+    {
+      "text": "What are the complications of dysphagia?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#compications"
+    },
+    {
+      "text": "Can dysphagia be prevented?",
+      "url": "https://www.healthdirect.gov.au/dysphagia#prevented"
+    },
+    {
+      "text": "Resources and Support",
+      "url": "https://www.healthdirect.gov.au/dysphagia#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/dysphagia#searchGeneralResults"
+    },
+    {
+      "text": "stress",
+      "url": "https://www.healthdirect.gov.au/stress"
+    },
+    {
+      "text": "short of breath",
+      "url": "https://www.healthdirect.gov.au/shortness-of-breath"
+    },
+    {
+      "text": "chest infections",
+      "url": "https://www.healthdirect.gov.au/chest-infection"
+    },
+    {
+      "text": "stroke",
+      "url": "https://www.healthdirect.gov.au/stroke"
+    },
+    {
+      "text": "Parkinson's disease",
+      "url": "https://www.healthdirect.gov.au/parkinsons-disease"
+    },
+    {
+      "text": "motor neurone disease (MND)",
+      "url": "https://www.healthdirect.gov.au/motor-neurone-disease-mnd"
+    },
+    {
+      "text": "dementia",
+      "url": "https://www.healthdirect.gov.au/dementia"
+    },
+    {
+      "text": "cerebral palsy",
+      "url": "https://www.healthdirect.gov.au/cerebral-palsy"
+    },
+    {
+      "text": "reflux",
+      "url": "https://www.healthdirect.gov.au/gord-reflux"
+    },
+    {
+      "text": "oesophageal cancer",
+      "url": "https://www.healthdirect.gov.au/oesophageal-cancer"
+    },
+    {
+      "text": "Achalasia",
+      "url": "https://www.healthdirect.gov.au/achalasia"
+    },
+    {
+      "text": "blood tests",
+      "url": "https://www.healthdirect.gov.au/blood-testing"
+    },
+    {
+      "text": "endoscopy",
+      "url": "https://www.healthdirect.gov.au/endoscopy"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "speech pathologists",
+      "url": "https://www.healthdirect.gov.au/speech-pathology"
+    },
+    {
+      "text": "dietitians",
+      "url": "https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "physiotherapists",
+      "url": "https://www.healthdirect.gov.au/physiotherapy"
+    },
+    {
+      "text": "dehydration",
+      "url": "https://www.healthdirect.gov.au/dehydration"
+    },
+    {
+      "text": "malnutrition",
+      "url": "https://www.healthdirect.gov.au/malnutrition"
+    },
+    {
+      "text": "pneumonia",
+      "url": "https://www.healthdirect.gov.au/pneumonia"
+    },
+    {
+      "text": "your doctor",
+      "url": "https://www.healthdirect.gov.au/the-role-of-a-gp"
+    },
+    {
+      "text": "Stroke Foundation",
+      "url": "https://strokefoundation.org.au/"
+    },
+    {
+      "text": "MND Australia",
+      "url": "https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers"
+    },
+    {
+      "text": "Cancer Council",
+      "url": "https://www.cancer.org.au/"
+    },
+    {
+      "text": "oesophageal cancer",
+      "url": "https://www.cancer.org.au/cancer-information/types-of-cancer/oesophageal-cancer"
+    },
+    {
+      "text": "Health Translations",
+      "url": "https://www.healthtranslations.vic.gov.au/"
+    },
+    {
+      "text": "dysphagia",
+      "url": "https://www.healthtranslations.vic.gov.au/advanced-search?q=dysphagia"
+    },
+    {
+      "text": "(Assessment of dysphagia)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/226"
+    },
+    {
+      "text": "(Functional dysphagia)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Gastrointestinal&topicfile=c_GIG_Gastro-oesophageal-reflux-in-adultstopic_1&guidelinename=auto&sectionId=c_GIG_Functional-dysphagiatopic_3#c_GIG_Functional-dysphagiatopic_3"
+    },
+    {
+      "text": "(Swallowing difficulty)",
+      "url": "https://www.speechpathologyaustralia.org.au/Public/Public/Comm-swallow/Swallowing.aspx?hkey=93e46500-d5af-4f7b-a60f-a34533e1e9f2"
+    },
+    {
+      "text": "(Swallowing problems after stroke)",
+      "url": "https://strokefoundation.org.au/media/tj3fsr20/swallowing-problems-after-stroke.pdf"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/dysphagia#backToTop"
+    },
+    {
+      "text": "Endoscopy",
+      "url": "https://www.healthdirect.gov.au/search-results/Endoscopy"
+    },
+    {
+      "text": "Heartburn",
+      "url": "https://www.healthdirect.gov.au/search-results/Heartburn"
+    },
+    {
+      "text": "Achalasia",
+      "url": "https://www.healthdirect.gov.au/search-results/Achalasia"
+    },
+    {
+      "text": "Parkinson's Disease",
+      "url": "https://www.healthdirect.gov.au/search-results/Parkinson's Disease"
+    },
+    {
+      "text": "Voice and swallowing - My Life After ICU Voice If you needed a breathing tube or a tracheostomy, you may notice some difference in your voice. You may also have some discomfort when talking. Generally, the sicker you have been and the longer you have needed ICU management, the weaker your muscles will have become. This also means it will take longer to […] Read more on ANZICS website",
+      "url": "https://www.mylifeaftericu.com/adults-in-icu/voice-and-swallowing/"
+    },
+    {
+      "text": "Dysphagia and Swallowing Dysphagia is a common condition seen in many long-term care clients, with chewing and swallowing problems affecting between 30 and 50% of Australian aged care residents. It can have serious consequences, such as choking and aspiration pneumonia, if not appropriately managed. Read more on Ausmed Education website",
+      "url": "https://www.ausmed.com/learn/articles/dysphagia"
+    },
+    {
+      "text": "Dysphagia - palliAGED Read more on palliAGED website",
+      "url": "https://www.palliaged.com.au/Improving-Care/Care-Needs/Symptom-Management/Dysphagia/"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Dysphagia (difficulty swallowing) - symptoms, causes and treatment | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Dysphagia (difficulty swallowing)\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\nDifficulty swallowing may be one of the signs of stroke. If you suspect you — or another person — might be having a stroke, it's important to get help quickly. Call triple zero (000) immediately and ask for an ambulance.\n\n## Key facts\n\n- Dysphagia is when you have trouble swallowing solids and liquids.\n\n- Dysphagia can cause coughing, gagging or choking when you are eating or drinking, or the feeling of food getting stuck in your throat.\n\n- There are many causes of dysphagia, and treatment depends on the cause.\n\n- Dysphagia can lead to dehydration, weight loss and malnutrition if not treated.\n\n## On this page\n\n- What is dysphagia?\n\n- What symptoms are related to dysphagia?\n\n- What causes dysphagia?\n\n- How is the cause of dysphagia diagnosed?\n\n- When should I see my doctor?\n\n- How is dysphagia treated?\n\n- What are the complications of dysphagia?\n\n- Can dysphagia be prevented?\n\n- Resources and Support\n\n- Related information on Australian websites\n\n## What is dysphagia?\n\nDysphagia is the medical term to describe difficulty in swallowing solids and liquids.\n\nThis includes problems with:\n\n- drinking\n\n- chewing\n\n- eating\n\n- controlling saliva\n\n- taking oral medicines\n\nEating and drinking is a vital part of life. Difficulty swallowing can limit what you can eat and drink.\n\nIf you have dysphagia, it may lead to:\n\n- feelings of frustration\n\n- stress\n\n- health problems\n\n## What symptoms are related to dysphagia?\n\nSigns and symptoms related to dysphagia include:\n\n- the sensation of not being able to swallow\n\n- gagging or choking when eating or drinking\n\n- food or drink getting stuck in your throat or going down the 'wrong way'\n\n- taking a long time (more than 30 minutes) to eat a meal\n\n- coughing or clearing your throat during or after eating and drinking\n\n- being short of breath when eating and drinking\n\n- avoiding some foods because they are hard to swallow\n\nYou may also have regular chest infections if food or drinks are going down the wrong way.\n\nCHECK YOUR SYMPTOMS — Use the Symptom Checker and find out if you need to seek medical help.\n\n## What causes dysphagia?\n\nDysphagia can be caused by problems with the:\n\n- nerves and muscles that control swallowing\n\n- structures in your mouth, throat and neck\n\n- oesophagus (food pipe)\n\nSometimes there are multiple problems causing dysphagia.\n\nSome of the conditions that can cause dysphagia include the following.\n\n### Nerve or muscle problems\n\nConditions that damage your brain and nerves can cause dysphagia. These can include:\n\n- stroke — almost 1 in 2 people who have had a stroke will have difficulty swallowing\n\n- Parkinson's disease\n\n- motor neurone disease (MND)\n\n- dementia\n\n- cerebral palsy\n\nMuscle problems in your face or neck, or spasms of your oesophagus, can cause problems with swallowing.\n\n### Problems with your mouth, throat or neck\n\nInfections in your mouth or throat can cause dysphagia. Head, neck and throat cancers can also cause dysphagia.\n\n### Problems with your oesophagus\n\nProblems with your oesophagus can cause swallowing difficulties. These can include:\n\n- reflux — when stomach acid moves up into your oesophagus\n\n- eosinophilic oesophagitis — inflammation of your oesophagus related to allergic conditions\n\n- oesophageal cancer\n\n- benign tumours or other blockages in your oesophagus\n\nAchalasia is a condition that prevents food from entering the stomach properly. It is due to problems with the muscles in your oesophagus.\n\n## How is the cause of dysphagia diagnosed?\n\nYour doctor will ask about your symptoms and examine you.\n\nThey will ask detailed questions about your swallowing problems and how long you have had them. They will want to know if you have trouble swallowing both liquids and solids and if your symptoms are getting worse. This will help to work out the possible cause of your dysphagia.\n\nYour doctor may refer you for tests such as:\n\n- blood tests\n\n- a barium swallow test\n\n- nasopharyngoscopy — a test where a thin tube with a small camera on the end is put through your nose to examine your mouth and throat\n\n- an endoscopy to see inside your oesophagus and stomach\n\n- oesophageal manometry — muscle testing to see if your oesophagus is working properly\n\nA barium swallow test is a series of x-rays that are taken as you swallow a liquid containing barium. This shows an outline of your throat and oesophagus and can point to the cause of your symptoms.\n\nYour doctor may also refer you to a speech pathologist for a swallowing assessment.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## When should I see my doctor?\n\nDysphagia can be a sign of a serious medical condition. Because of this, if you think you or someone you care for has difficulty swallowing, talk to your doctor.\n\nSee your doctor as soon as possible if you or someone you care for has:\n\n- trouble swallowing solids and liquids\n\n- regurgitation or breathing difficulties when eating or drinking\n\n- the feeling that food is getting stuck in your throat or chest\n\nAlso see your doctor if you have:\n\n- weight loss\n\n- pain when swallowing\n\n- recurrent chest infections\n\nYour doctor can diagnose the cause of your dysphagia and help you access treatment.\n\n### When to seek urgent care\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\n## How is dysphagia treated?\n\nIf you have dysphagia, treatment will depend on the cause. This may involve medicines or surgery.\n\nA range of health professionals can help with dysphagia, including:\n\n- doctors\n\n- speech pathologists\n\n- dietitians\n\n- physiotherapists\n\nTreatment can sometimes include:\n\n- changing the textures of your food and drinks\n\n- learning new swallowing techniques\n\n- doing exercises to help your muscles work better and stimulate nerves that trigger the swallowing reflex\n\n- taking medicines to reduce stomach acid reflux\n\nSome people need to change to a special diet. This may involve changing the texture or thickness of the food and drinks you eat and drink. In severe cases, food and drink can be given through a feeding tube that goes directly into your stomach.\n\n## What are the complications of dysphagia?\n\nDysphagia can lead to dehydration and malnutrition if not managed properly. It can cause weight loss and problems taking your oral medicines.\n\nDysphagia can also lead to aspiration. This means that food or drink go into your airways, rather than your oesophagus and stomach. Aspiration can lead to pneumonia .\n\n## Can dysphagia be prevented?\n\nDysphagia cannot be prevented. However, treatment can help prevent complications.\n\n## Resources and Support\n\nFor more information on dysphagia, see your doctor .\n\nThe Stroke Foundation and MND Australia have information on dysphagia related to these conditions.\n\nThe Cancer Council has information on dysphagia related to oesophageal cancer .\n\nHealth Translations has information in languages other than English on dysphagia .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with 24 hours a day, 7 days a week.\n\n#### Source s :\n\nBMJ Best Practice (Assessment of dysphagia) , Therapeutic Guidelines (Functional dysphagia) , Speech Pathology Australia (Swallowing difficulty) , Stroke Foundation (Swallowing problems after stroke)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2024\n\nBack To Top\n\n## Search our site for\n\n- Endoscopy\n\n- Heartburn\n\n- Achalasia\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Voice and swallowing - My Life After ICU\n\nVoice If you needed a breathing tube or a tracheostomy, you may notice some difference in your voice. You may also have some discomfort when talking. Generally, the sicker you have been and the longer you have needed ICU management, the weaker your muscles will have become. This also means it will take longer to […]\n\nRead more on ANZICS website\n\nShow more\n\n### Dysphagia and Swallowing\n\nDysphagia is a common condition seen in many long-term care clients, with chewing and swallowing problems affecting between 30 and 50% of Australian aged care residents. It can have serious consequences, such as choking and aspiration pneumonia, if not appropriately managed.\n\nRead more on Ausmed Education website\n\n### Dysphagia - palliAGED\n\nRead more on palliAGED website\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/dysphagia\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dysphagia\n\n- Please enter your name: https://www.healthdirect.gov.au/dysphagia#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/dysphagia#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/dysphagia#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/dysphagia#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/dysphagia\n\n- What is dysphagia?: https://www.healthdirect.gov.au/dysphagia#what-is\n\n- What symptoms are related to dysphagia?: https://www.healthdirect.gov.au/dysphagia#symptoms\n\n- What causes dysphagia?: https://www.healthdirect.gov.au/dysphagia#caused\n\n- How is the cause of dysphagia diagnosed?: https://www.healthdirect.gov.au/dysphagia#diagnosed\n\n- When should I see my doctor?: https://www.healthdirect.gov.au/dysphagia#doctor\n\n- How is dysphagia treated?: https://www.healthdirect.gov.au/dysphagia#treated\n\n- What are the complications of dysphagia?: https://www.healthdirect.gov.au/dysphagia#compications\n\n- Can dysphagia be prevented?: https://www.healthdirect.gov.au/dysphagia#prevented\n\n- Resources and Support: https://www.healthdirect.gov.au/dysphagia#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/dysphagia#searchGeneralResults\n\n- stress: https://www.healthdirect.gov.au/stress\n\n- short of breath: https://www.healthdirect.gov.au/shortness-of-breath\n\n- chest infections: https://www.healthdirect.gov.au/chest-infection\n\n- stroke: https://www.healthdirect.gov.au/stroke\n\n- Parkinson's disease: https://www.healthdirect.gov.au/parkinsons-disease\n\n- motor neurone disease (MND): https://www.healthdirect.gov.au/motor-neurone-disease-mnd\n\n- dementia: https://www.healthdirect.gov.au/dementia\n\n- cerebral palsy: https://www.healthdirect.gov.au/cerebral-palsy\n\n- reflux: https://www.healthdirect.gov.au/gord-reflux\n\n- oesophageal cancer: https://www.healthdirect.gov.au/oesophageal-cancer\n\n- Achalasia: https://www.healthdirect.gov.au/achalasia\n\n- blood tests: https://www.healthdirect.gov.au/blood-testing\n\n- endoscopy: https://www.healthdirect.gov.au/endoscopy\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- speech pathologists: https://www.healthdirect.gov.au/speech-pathology\n\n- dietitians: https://www.healthdirect.gov.au/dietitians\n\n- physiotherapists: https://www.healthdirect.gov.au/physiotherapy\n\n- dehydration: https://www.healthdirect.gov.au/dehydration\n\n- malnutrition: https://www.healthdirect.gov.au/malnutrition\n\n- pneumonia: https://www.healthdirect.gov.au/pneumonia\n\n- your doctor: https://www.healthdirect.gov.au/the-role-of-a-gp\n\n- Stroke Foundation: https://strokefoundation.org.au/\n\n- MND Australia: https://www.mndaustralia.org.au/mnd-connect/for-health-professionals-service-providers\n\n- Cancer Council: https://www.cancer.org.au/\n\n- oesophageal cancer: https://www.cancer.org.au/cancer-information/types-of-cancer/oesophageal-cancer\n\n- Health Translations: https://www.healthtranslations.vic.gov.au/\n\n- dysphagia: https://www.healthtranslations.vic.gov.au/advanced-search?q=dysphagia\n\n- (Assessment of dysphagia): https://bestpractice.bmj.com/topics/en-gb/226\n\n- (Functional dysphagia): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Gastrointestinal&topicfile=c_GIG_Gastro-oesophageal-reflux-in-adultstopic_1&guidelinename=auto&sectionId=c_GIG_Functional-dysphagiatopic_3#c_GIG_Functional-dysphagiatopic_3\n\n- (Swallowing difficulty): https://www.speechpathologyaustralia.org.au/Public/Public/Comm-swallow/Swallowing.aspx?hkey=93e46500-d5af-4f7b-a60f-a34533e1e9f2\n\n- (Swallowing problems after stroke): https://strokefoundation.org.au/media/tj3fsr20/swallowing-problems-after-stroke.pdf\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/dysphagia#backToTop\n\n- Endoscopy: https://www.healthdirect.gov.au/search-results/Endoscopy\n\n- Heartburn: https://www.healthdirect.gov.au/search-results/Heartburn\n\n- Achalasia: https://www.healthdirect.gov.au/search-results/Achalasia\n\n- Parkinson's Disease: https://www.healthdirect.gov.au/search-results/Parkinson's Disease\n\n- Voice and swallowing - My Life After ICU Voice If you needed a breathing tube or a tracheostomy, you may notice some difference in your voice. You may also have some discomfort when talking. Generally, the sicker you have been and the longer you have needed ICU management, the weaker your muscles will have become. This also means it will take longer to […] Read more on ANZICS website: https://www.mylifeaftericu.com/adults-in-icu/voice-and-swallowing/\n\n- Dysphagia and Swallowing Dysphagia is a common condition seen in many long-term care clients, with chewing and swallowing problems affecting between 30 and 50% of Australian aged care residents. It can have serious consequences, such as choking and aspiration pneumonia, if not appropriately managed. Read more on Ausmed Education website: https://www.ausmed.com/learn/articles/dysphagia\n\n- Dysphagia - palliAGED Read more on palliAGED website: https://www.palliaged.com.au/Improving-Care/Care-Needs/Symptom-Management/Dysphagia/\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

@@ -1,0 +1,4 @@
+Download failures:
+
+- pdf http://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Relationships%20and%20children.pdf: Unable to download http://www.carerhelp.com.au/Portals/16/Documents/Carersheet/Relationships%20and%20children.pdf: [Errno 11001] getaddrinfo failed
+- pdf https://www.als.org/sites/default/files/2020-04/YouthFamiliesManual-web.pdf: Unable to download https://www.als.org/sites/default/files/2020-04/YouthFamiliesManual-web.pdf: HTTP 403 Forbidden

@@ -1,0 +1,30 @@
+{
+  "topic_id": "07_breathing_respiratory_care",
+  "topic_title": "Breathing And Respiratory Care",
+  "retrieved_at": "2026-08-30",
+  "sources_downloaded": 16,
+  "respiratory_records_written": 5,
+  "chunks_written": 351,
+  "failures": [
+    "webpage Breathlessness <https://www.healthdirect.gov.au/breathlessness>: Unable to download https://www.healthdirect.gov.au/breathlessness: HTTP 404 Not Found",
+    "webpage Breathing problems <https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/breathing-problems>: Unable to download https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/breathing-problems: HTTP 500 Internal Server Error",
+    "webpage Managing breathlessness <https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/managing-breathlessness>: Unable to download https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/managing-breathlessness: HTTP 404 Not Found",
+    "webpage Airway clearance techniques <https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/airway-clearance-techniques>: Unable to download https://lungfoundation.com.au/patients-carers/living-with-a-lung-disease/airway-clearance-techniques: HTTP 404 Not Found",
+    "pdf https://ukqbli.files.cmp.optimizely.com/download/assets/healthdirect%2BEasy%2BRead%2BCoughs%2Bdigital.pdf: Unable to download https://ukqbli.files.cmp.optimizely.com/download/assets/healthdirect%2BEasy%2BRead%2BCoughs%2Bdigital.pdf: HTTP 404 Not Found",
+    "pdf https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0007/571309/Respiratory-Hygiene-A3-Poster.pdf: Unable to download https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0007/571309/Respiratory-Hygiene-A3-Poster.pdf: HTTP 403 Forbidden"
+  ],
+  "skipped_pdf_links": [
+    "https://www.mndaustralia.org.au/getmedia/cfccbcfc-d006-43e9-ac46-569080cd7947/Privacy-Policy_MND-Australia-29-5-24.pdf",
+    "https://www.mndaustralia.org.au/getmedia/8cd24930-cc7b-4970-8934-c65ebc6d63e3/Whistleblower-Policy_MNDA-2025.pdf",
+    "https://www.mndaustralia.org.au/getattachment/f1da12c7-d32b-4ea1-94eb-4c57e82c475f/MND-Australia-Website-Terms-Conditions-Policy-Number-13.pdf?lang=en-AU",
+    "https://www.alsmndalliance.org/wp-content/uploads/2010/12/012-Withdrawal-of-non-invasive-ventilation-D-Oliver.pdf",
+    "https://www.health.gov.au/sites/default/files/2025-02/national-immunisation-program-schedule.pdf",
+    "https://www.nhmrc.gov.au/sites/default/files/documents/reports/clinical%20guidelines/ch55-staying-healthy.pdf",
+    "https://bestpractice.bmj.com/topics/en-gb/252/pdf/252/Common%20cold.pdf",
+    "https://media.healthdirect.org.au/publications/PBB_Cold-Flu-RSV_Know-the-difference.pdf"
+  ],
+  "crawl_mode": "same-site breathing and respiratory care crawl",
+  "max_pages_per_publisher": 45,
+  "max_crawl_depth": 2,
+  "output_root": "C:\\Users\\User1\\Downloads\\MND DATA\\07_breathing_respiratory_care\\runs\\20260830_202332"
+}

@@ -1,0 +1,619 @@
+{
+  "source_id": "healthdirect-australia:dietitians",
+  "title": "Dietitians | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/dietitians",
+  "retrieved_at": "2026-08-29",
+  "topic": "Food and nutrition",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 28753,
+  "crawl_depth": 1,
+  "seed_url": "https://www.healthdirect.gov.au/dysphagia",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/dietitians#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/dietitians#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/dietitians#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/dietitians#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/dietitians"
+    },
+    {
+      "text": "What is a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#what-is"
+    },
+    {
+      "text": "What is the difference between a dietitian and a nutritionist?",
+      "url": "https://www.healthdirect.gov.au/dietitians#difference"
+    },
+    {
+      "text": "When do I see a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#when"
+    },
+    {
+      "text": "What should I expect during an appointment with a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#expect-during"
+    },
+    {
+      "text": "What does it cost to see a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#cost"
+    },
+    {
+      "text": "What questions should I ask a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#questions"
+    },
+    {
+      "text": "How do I find a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#find"
+    },
+    {
+      "text": "Do I need a referral to see a dietitian?",
+      "url": "https://www.healthdirect.gov.au/dietitians#referral"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/dietitians#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/dietitians#searchGeneralResults"
+    },
+    {
+      "text": "diabetes",
+      "url": "https://www.healthdirect.gov.au/diabetes"
+    },
+    {
+      "text": "cancer",
+      "url": "https://www.healthdirect.gov.au/cancer"
+    },
+    {
+      "text": "obesity",
+      "url": "https://www.healthdirect.gov.au/obesity"
+    },
+    {
+      "text": "food allergies",
+      "url": "https://www.healthdirect.gov.au/food-allergies"
+    },
+    {
+      "text": "National Alliance of Self Regulating Health Professions (NASRHP)",
+      "url": "https://nasrhp.org.au/"
+    },
+    {
+      "text": "accredited university degree in nutrition and dietetics",
+      "url": "https://dietitiansaustralia.org.au/working-dietetics/university-courses/accreditation-university-programs"
+    },
+    {
+      "text": "Dietitians Australia",
+      "url": "https://dietitiansaustralia.org.au/"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.healthdirect.gov.au/what-is-medicare"
+    },
+    {
+      "text": "Dietitians Australia code of conduct",
+      "url": "https://dietitiansaustralia.org.au/working-dietetics/standards-and-scope/code-conduct-dietitians-and-nutritionists"
+    },
+    {
+      "text": "high cholesterol",
+      "url": "https://www.healthdirect.gov.au/cholesterol"
+    },
+    {
+      "text": "kidney disease",
+      "url": "https://www.healthdirect.gov.au/chronic-kidney-disease"
+    },
+    {
+      "text": "gastrointestinal disease",
+      "url": "https://www.healthdirect.gov.au/gastro-intestinal-illnesses"
+    },
+    {
+      "text": "heart disease",
+      "url": "https://www.healthdirect.gov.au/heart-and-cardiovascular-conditions"
+    },
+    {
+      "text": "malnutrition",
+      "url": "https://www.healthdirect.gov.au/malnutrition"
+    },
+    {
+      "text": "eating disorders",
+      "url": "https://www.healthdirect.gov.au/eating-disorders"
+    },
+    {
+      "text": "pregnancy",
+      "url": "https://www.healthdirect.gov.au/pregnancy"
+    },
+    {
+      "text": "menopause",
+      "url": "https://www.healthdirect.gov.au/menopause"
+    },
+    {
+      "text": "medical history",
+      "url": "https://www.healthdirect.gov.au/family-medical-history"
+    },
+    {
+      "text": "private health insurance",
+      "url": "https://www.healthdirect.gov.au/private-health-insurance"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "Discover how a dietitian can help you",
+      "url": "https://dietitiansaustralia.org.au/seeing-dietitian-australia"
+    },
+    {
+      "text": "read short articles about diet and health",
+      "url": "https://dietitiansaustralia.org.au/diet-and-nutrition-health-advice"
+    },
+    {
+      "text": "tips for eating well",
+      "url": "https://www.eatforhealth.gov.au/eating-well/tips-eating-well"
+    },
+    {
+      "text": "Australian Guide to Healthy Eating",
+      "url": "https://www.mhcs.health.nsw.gov.au/publications/oth-9450?collectionfilter=1"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander Guide to Healthy Eating",
+      "url": "https://www.eatforhealth.gov.au/sites/default/files/2022-09/FINAL_ATSI_Guide_to_Healthy_Eating_A4_size_double_sided_POSTER_D15_1106141.PDF"
+    },
+    {
+      "text": "(Dietetics)",
+      "url": "https://ahpa.com.au/allied-health-professions/dietetics/"
+    },
+    {
+      "text": "(Dietitians and nutritionists)",
+      "url": "https://dietitiansaustralia.org.au/seeing-dietitian/what-expect/dietitians-and-nutritionists"
+    },
+    {
+      "text": "(Help with costs)",
+      "url": "https://dietitiansaustralia.org.au/seeing-dietitian/help-costs"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/dietitians#backToTop"
+    },
+    {
+      "text": "Diet",
+      "url": "https://www.healthdirect.gov.au/search-results/Diet"
+    },
+    {
+      "text": "Malnutrition | Dietitians Australia Malnutrition is a major public health issue in Australia, particularly for older Australians. Prevention is key. Here we explore its symptoms and treatment. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/malnutrition"
+    },
+    {
+      "text": "Salt | Dietitians Australia Salt contains sodium and chloride – both important minerals. But eating too much salt is linked to health problems, and most Australians eat more salt than they need. Here's the best way to cut the amount of salt in your diet. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/salt"
+    },
+    {
+      "text": "Diabetes | Dietitians Australia Diabetes is a serious health condition that comprises two main but different conditions: type 1 diabetes and type 2 diabetes. A healthy diet can help to manage diabetes and prevent other health complications. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/diabetes"
+    },
+    {
+      "text": "Diverticular disease | Dietitians Australia Diverticular disease is a common disorder of the digestive system. But a high-fibre diet, being active and drinking plenty of water can help. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/diverticular-disease"
+    },
+    {
+      "text": "Eating disorders | Dietitians Australia Eating disorders are increasingly common, and they come with significant psychological, nutritional and physical health consequences. Recovery is possible. You can get help for yourself or someone you care about. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/eating-disorders"
+    },
+    {
+      "text": "Lactose intolerance | Dietitians Australia What is lactose intolerance? We look at common symptoms, how to manage them, and what foods might trigger discomfort. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/lactose-intolerance"
+    },
+    {
+      "text": "Vitamin B12 | Dietitians Australia Vitamin B12 (also called cobalamin) is an important vitamin. We need this vitamin to make red blood cells and new DNA for growing and dividing cells. Vitamin B12 also helps maintain the health of the conductive coating that surrounds and protects nerves. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/vitamin-b12"
+    },
+    {
+      "text": "Mediterranean diet | Dietitians Australia The Mediterranean diet has long been considered a benchmark for a model of a healthy diet. There is no one best way to eat for everybody, but a person can look to the Mediterranean diet as a guide to help make positive choices for eating healthier. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/mediterranean-diet"
+    },
+    {
+      "text": "Fad diets | Dietitians Australia A fad diet is an eating plan that often promotes quick and easy weight loss or radically improved health. Fad diets can be tempting as they offer a quick fix to either real or perceived problems. But they have little scientific evidence to support their claims. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/fad-diets"
+    },
+    {
+      "text": "Vitamin D | Dietitians Australia Vitamin D is both a nutrient we eat and a hormone our bodies make. We need vitamin D, but it doesn't all have to come from your diet. That’s important to know because there are few foods that are reliable sources of vitamin D. If you spend enough time in the sun, then your body can make all the vitamin D it needs. Read more on Dietitians Australia website",
+      "url": "https://dietitiansaustralia.org.au/health-advice/vitamin-d"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "How we can help",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Dietitians | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Dietitians\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Dietitians are experts in food and nutrition.\n\n- They can help you set and achieve diet-related goals.\n\n- Dietitians have a university degree in nutrition and dietetics and meet the registration criteria set by Dietitians Australia as an Accredited Practising Dietitian (APD).\n\n- Dietitians can help people of all ages with specific dietary restrictions or requirements, for example, people with diabetes or food allergies.\n\n- Medicare or private health insurance may cover some of the cost of visiting a registered dietitian.\n\n## On this page\n\n- What is a dietitian?\n\n- What is the difference between a dietitian and a nutritionist?\n\n- When do I see a dietitian?\n\n- What should I expect during an appointment with a dietitian?\n\n- What does it cost to see a dietitian?\n\n- What questions should I ask a dietitian?\n\n- How do I find a dietitian?\n\n- Do I need a referral to see a dietitian?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is a dietitian?\n\nDietitians are experts in food and nutrition. They help you understand how what you eat can affect your health.\n\nIf you are living with certain chronic conditions such as diabetes , cancer , obesity or food allergies , dietitians can help you adjust your diet to improve your health and wellbeing.\n\n## What is the difference between a dietitian and a nutritionist?\n\nIn Australia, dietitians are different to nutritionists. All dietitians are nutritionists. However, nutritionists cannot be called dietitians, unless they have a dietetics qualification.\n\nBoth dietitians and nutritionists are qualified to work in areas such as public health, research and teaching, or in the food industry. However, dietitians are also qualified to work in private medical practices, medical centres or hospitals.\n\nIn Australia, the dietetic profession is regulated by the National Alliance of Self Regulating Health Professions (NASRHP) . You must have completed an accredited university degree in nutrition and dietetics to become a qualified dietitian and join the Accredited Practicing Dietitian (APD) program.\n\nThe APD program is run by Dietitians Australia . This program is the only qualification for dietitians recognised by the Australian Government (for Medicare and the Department of Veterans' Affairs' purposes), many state governments and private health insurers.\n\nDietitians can only maintain their APD status if they participate in ongoing training and education throughout their careers. They also must follow the Dietitians Australia code of conduct .\n\nThe profession of nutritionist is not regulated in Australia. This means that anyone can call themselves a nutritionist without having any specific training.\n\nIt is important you check the credentials of your healthcare professional before you make an appointment.\n\n## When do I see a dietitian?\n\nYou may see a dietitian to help you manage your diet if you are living with some chronic health conditions such as:\n\n- high cholesterol or diabetes\n\n- cancer\n\n- kidney disease , gastrointestinal disease or heart disease\n\n- malnutrition\n\n- eating disorders\n\n- overweight and obesity\n\n- food allergies or intolerances\n\nDietitians can help you maximise your health and wellbeing at any age or stage of life, including:\n\n- infancy and childhood\n\n- pregnancy\n\n- menopause\n\n- ageing\n\n## What should I expect during an appointment with a dietitian?\n\nThis first appointment with your dietitian usually takes 60 to 90 minutes.\n\nDuring your first appointment, your dietitian will spend time getting to know you and will ask you questions about your:\n\n- medical history\n\n- food habits and lifestyle\n\n- what you want to achieve\n\nYour dietitian may have ask you to keep a food diary or fill out a questionnaire before or after your appointment.\n\nYour dietitian will spend some time explaining to you how your diet may be influencing your health. They can give you personalised nutrition and diet advice. This can even include tips on food shopping. Your dietitian may recommend certain changes to your lifestyle and give you an eating plan.\n\nYour dietitian may recommend follow-up appointments to monitor your progress. This is important in helping you achieve your health goals and maximise your wellbeing.\n\nDuring your follow-up appointments, your dietitian may adjust your plan based on your progress. You should feel comfortable to ask questions, express any concerns or difficulties you are having.\n\n## What does it cost to see a dietitian?\n\nThe costs for seeing a dietitian vary — you should check before you make an appointment. Medicare may cover some visist, but only if your doctor has referred you and you have a Chronic Disease Management Plan.\n\nIf you have private health insurance , your insurer might cover some of the cost. It is a good idea to check with your private health insurer before your appointment.\n\n## What questions should I ask a dietitian?\n\nHere are some general questions you could ask your dietitian:\n\n- What are your qualifications? Are you an Accredited Practising Dietitian?\n\n- What do you charge for a consultation? Do you have concession rates? Do you offer any Medicare, DVA or other rebates?\n\n- Do you offer telehealth services?\n\nYou may also want to ask your dietitian specific questions about how they can help you:\n\n- Do you have experience with my health condition?\n\n- Can you help me identify and manage any food allergies or intolerances?\n\n- Are there any foods I should not eat?\n\n- Can you help me with a meal plan that fits my budget, culture and lifestyle?\n\n- What foods am I missing from my diet?\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## How do I find a dietitian?\n\nYour doctor can refer you to a dietitian or you can ask your family and friends for a recommendation.\n\nThe Dietitians Australia website allows you to search for an Accredited Practising Dietitian. It can also tell you if a dietitian has been suspended or is facing disciplinary procedures.\n\nFIND A HEALTH SERVICE — The Service Finder can help you find doctors, pharmacies, hospitals and other health services.\n\nSome dietitians offer telehealth services.\n\n## Do I need a referral to see a dietitian?\n\nYou do not need a referral to see a dietitian. You can choose to see any dietitian you wish.\n\nHowever, if you would like to access some government benefits such as Medicare, NDIS (the National Disability Insurance Scheme) or the Department of Veterans' Affairs (DVA) you might need a referral from a GP.\n\nYou may find it helpful to see your GP before your appointment. They may refer you for blood tests that can help your dietitian give you the best advice.\n\n## Resources and support\n\n- Discover how a dietitian can help you at Dietitians Australia.\n\n- Visit the Dietitians Australia website to read short articles about diet and health .\n\n- Eat for Health have tips for eating well that can help you make healthy food choices.\n\n### Do you prefer to read in languages other than English?\n\nThe Australian Guide to Healthy Eating shows you the recommended portions of each food group to eat every day is translated into many foreign languages.\n\n### Looking for information for Aboriginal and/or Torres Strait Islander people?\n\nView the Aboriginal and Torres Strait Islander Guide to Healthy Eating .\n\n#### Source s :\n\nAHPA (Dietetics) , Dietitians Australia (Dietitians and nutritionists) , Dietitians Australia (Seeing a dietitian in Australia) , Dietitians Australia (Help with costs)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: August 2024\n\nBack To Top\n\n## Search our site for\n\n- Diet\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Malnutrition | Dietitians Australia\n\nMalnutrition is a major public health issue in Australia, particularly for older Australians. Prevention is key. Here we explore its symptoms and treatment.\n\nRead more on Dietitians Australia website\n\n### Salt | Dietitians Australia\n\nSalt contains sodium and chloride – both important minerals. But eating too much salt is linked to health problems, and most Australians eat more salt than they need. Here's the best way to cut the amount of salt in your diet.\n\n### Diabetes | Dietitians Australia\n\nDiabetes is a serious health condition that comprises two main but different conditions: type 1 diabetes and type 2 diabetes. A healthy diet can help to manage diabetes and prevent other health complications.\n\n### Diverticular disease | Dietitians Australia\n\nDiverticular disease is a common disorder of the digestive system. But a high-fibre diet, being active and drinking plenty of water can help.\n\n### Eating disorders | Dietitians Australia\n\nEating disorders are increasingly common, and they come with significant psychological, nutritional and physical health consequences. Recovery is possible. You can get help for yourself or someone you care about.\n\n### Lactose intolerance | Dietitians Australia\n\nWhat is lactose intolerance? We look at common symptoms, how to manage them, and what foods might trigger discomfort.\n\n### Vitamin B12 | Dietitians Australia\n\nVitamin B12 (also called cobalamin) is an important vitamin. We need this vitamin to make red blood cells and new DNA for growing and dividing cells. Vitamin B12 also helps maintain the health of the conductive coating that surrounds and protects nerves.\n\n### Mediterranean diet | Dietitians Australia\n\nThe Mediterranean diet has long been considered a benchmark for a model of a healthy diet. There is no one best way to eat for everybody, but a person can look to the Mediterranean diet as a guide to help make positive choices for eating healthier.\n\n### Fad diets | Dietitians Australia\n\nA fad diet is an eating plan that often promotes quick and easy weight loss or radically improved health. Fad diets can be tempting as they offer a quick fix to either real or perceived problems. But they have little scientific evidence to support their claims.\n\n### Vitamin D | Dietitians Australia\n\nVitamin D is both a nutrient we eat and a hormone our bodies make. We need vitamin D, but it doesn't all have to come from your diet. That’s important to know because there are few foods that are reliable sources of vitamin D. If you spend enough time in the sun, then your body can make all the vitamin D it needs.\n\nShow more\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/dietitians\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/dietitians\n\n- Please enter your name: https://www.healthdirect.gov.au/dietitians#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/dietitians#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/dietitians#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/dietitians#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/dietitians\n\n- What is a dietitian?: https://www.healthdirect.gov.au/dietitians#what-is\n\n- What is the difference between a dietitian and a nutritionist?: https://www.healthdirect.gov.au/dietitians#difference\n\n- When do I see a dietitian?: https://www.healthdirect.gov.au/dietitians#when\n\n- What should I expect during an appointment with a dietitian?: https://www.healthdirect.gov.au/dietitians#expect-during\n\n- What does it cost to see a dietitian?: https://www.healthdirect.gov.au/dietitians#cost\n\n- What questions should I ask a dietitian?: https://www.healthdirect.gov.au/dietitians#questions\n\n- How do I find a dietitian?: https://www.healthdirect.gov.au/dietitians#find\n\n- Do I need a referral to see a dietitian?: https://www.healthdirect.gov.au/dietitians#referral\n\n- Resources and support: https://www.healthdirect.gov.au/dietitians#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/dietitians#searchGeneralResults\n\n- diabetes: https://www.healthdirect.gov.au/diabetes\n\n- cancer: https://www.healthdirect.gov.au/cancer\n\n- obesity: https://www.healthdirect.gov.au/obesity\n\n- food allergies: https://www.healthdirect.gov.au/food-allergies\n\n- National Alliance of Self Regulating Health Professions (NASRHP): https://nasrhp.org.au/\n\n- accredited university degree in nutrition and dietetics: https://dietitiansaustralia.org.au/working-dietetics/university-courses/accreditation-university-programs\n\n- Dietitians Australia: https://dietitiansaustralia.org.au/\n\n- Medicare: https://www.healthdirect.gov.au/what-is-medicare\n\n- Dietitians Australia code of conduct: https://dietitiansaustralia.org.au/working-dietetics/standards-and-scope/code-conduct-dietitians-and-nutritionists\n\n- high cholesterol: https://www.healthdirect.gov.au/cholesterol\n\n- kidney disease: https://www.healthdirect.gov.au/chronic-kidney-disease\n\n- gastrointestinal disease: https://www.healthdirect.gov.au/gastro-intestinal-illnesses\n\n- heart disease: https://www.healthdirect.gov.au/heart-and-cardiovascular-conditions\n\n- malnutrition: https://www.healthdirect.gov.au/malnutrition\n\n- eating disorders: https://www.healthdirect.gov.au/eating-disorders\n\n- pregnancy: https://www.healthdirect.gov.au/pregnancy\n\n- menopause: https://www.healthdirect.gov.au/menopause\n\n- medical history: https://www.healthdirect.gov.au/family-medical-history\n\n- private health insurance: https://www.healthdirect.gov.au/private-health-insurance\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- Discover how a dietitian can help you: https://dietitiansaustralia.org.au/seeing-dietitian-australia\n\n- read short articles about diet and health: https://dietitiansaustralia.org.au/diet-and-nutrition-health-advice\n\n- tips for eating well: https://www.eatforhealth.gov.au/eating-well/tips-eating-well\n\n- Australian Guide to Healthy Eating: https://www.mhcs.health.nsw.gov.au/publications/oth-9450?collectionfilter=1\n\n- Aboriginal and Torres Strait Islander Guide to Healthy Eating: https://www.eatforhealth.gov.au/sites/default/files/2022-09/FINAL_ATSI_Guide_to_Healthy_Eating_A4_size_double_sided_POSTER_D15_1106141.PDF\n\n- (Dietetics): https://ahpa.com.au/allied-health-professions/dietetics/\n\n- (Dietitians and nutritionists): https://dietitiansaustralia.org.au/seeing-dietitian/what-expect/dietitians-and-nutritionists\n\n- (Help with costs): https://dietitiansaustralia.org.au/seeing-dietitian/help-costs\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/dietitians#backToTop\n\n- Diet: https://www.healthdirect.gov.au/search-results/Diet\n\n- Malnutrition | Dietitians Australia Malnutrition is a major public health issue in Australia, particularly for older Australians. Prevention is key. Here we explore its symptoms and treatment. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/malnutrition\n\n- Salt | Dietitians Australia Salt contains sodium and chloride – both important minerals. But eating too much salt is linked to health problems, and most Australians eat more salt than they need. Here's the best way to cut the amount of salt in your diet. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/salt\n\n- Diabetes | Dietitians Australia Diabetes is a serious health condition that comprises two main but different conditions: type 1 diabetes and type 2 diabetes. A healthy diet can help to manage diabetes and prevent other health complications. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/diabetes\n\n- Diverticular disease | Dietitians Australia Diverticular disease is a common disorder of the digestive system. But a high-fibre diet, being active and drinking plenty of water can help. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/diverticular-disease\n\n- Eating disorders | Dietitians Australia Eating disorders are increasingly common, and they come with significant psychological, nutritional and physical health consequences. Recovery is possible. You can get help for yourself or someone you care about. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/eating-disorders\n\n- Lactose intolerance | Dietitians Australia What is lactose intolerance? We look at common symptoms, how to manage them, and what foods might trigger discomfort. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/lactose-intolerance\n\n- Vitamin B12 | Dietitians Australia Vitamin B12 (also called cobalamin) is an important vitamin. We need this vitamin to make red blood cells and new DNA for growing and dividing cells. Vitamin B12 also helps maintain the health of the conductive coating that surrounds and protects nerves. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/vitamin-b12\n\n- Mediterranean diet | Dietitians Australia The Mediterranean diet has long been considered a benchmark for a model of a healthy diet. There is no one best way to eat for everybody, but a person can look to the Mediterranean diet as a guide to help make positive choices for eating healthier. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/mediterranean-diet\n\n- Fad diets | Dietitians Australia A fad diet is an eating plan that often promotes quick and easy weight loss or radically improved health. Fad diets can be tempting as they offer a quick fix to either real or perceived problems. But they have little scientific evidence to support their claims. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/fad-diets\n\n- Vitamin D | Dietitians Australia Vitamin D is both a nutrient we eat and a hormone our bodies make. We need vitamin D, but it doesn't all have to come from your diet. That’s important to know because there are few foods that are reliable sources of vitamin D. If you spend enough time in the sun, then your body can make all the vitamin D it needs. Read more on Dietitians Australia website: https://dietitiansaustralia.org.au/health-advice/vitamin-d\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- How we can help: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}

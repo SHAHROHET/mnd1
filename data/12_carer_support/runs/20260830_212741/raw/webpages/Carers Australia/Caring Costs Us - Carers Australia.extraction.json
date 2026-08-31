@@ -1,0 +1,415 @@
+{
+  "source_id": "carers-australia:programs-projects-caring-costs-us",
+  "title": "Caring Costs Us - Carers Australia",
+  "publisher": "Carers Australia",
+  "url": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us",
+  "retrieved_at": "2026-08-30",
+  "topic": "Carer Support",
+  "content_type": "text/html; charset=UTF-8",
+  "text_character_count": 20179,
+  "crawl_depth": 1,
+  "seed_url": "https://www.carersaustralia.com.au/",
+  "links": [
+    {
+      "text": "Carers Australia",
+      "url": "https://www.carersaustralia.com.au/"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us",
+      "url": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/about-us/contact-us/"
+    },
+    {
+      "text": "About Us",
+      "url": "https://www.carersaustralia.com.au/about-us/"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.carersaustralia.com.au/contact-us/"
+    },
+    {
+      "text": "Our Mission",
+      "url": "https://www.carersaustralia.com.au/about-us/our-mission/"
+    },
+    {
+      "text": "What We Do",
+      "url": "https://www.carersaustralia.com.au/about-us/what-we-do/"
+    },
+    {
+      "text": "Our Member Organisations",
+      "url": "https://www.carersaustralia.com.au/about-us/our-member-organisations/"
+    },
+    {
+      "text": "Our CEO",
+      "url": "https://www.carersaustralia.com.au/about-us/our-ceo/"
+    },
+    {
+      "text": "Our History",
+      "url": "https://www.carersaustralia.com.au/about-us/our-history/"
+    },
+    {
+      "text": "Feedback and Complaints",
+      "url": "https://www.carersaustralia.com.au/about-us/feedback-and-complaints/"
+    },
+    {
+      "text": "Donate",
+      "url": "https://www.carersaustralia.com.au/donate/"
+    },
+    {
+      "text": "Constitution",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/our-constitution/"
+    },
+    {
+      "text": "Board of Directors",
+      "url": "https://www.carersaustralia.com.au/about-us/board-of-directors/"
+    },
+    {
+      "text": "Governor-General",
+      "url": "https://www.carersaustralia.com.au/about-us/governor-general/"
+    },
+    {
+      "text": "Annual Reports & Strategies",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/"
+    },
+    {
+      "text": "About Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/"
+    },
+    {
+      "text": "Who Is a Carer?",
+      "url": "https://www.carersaustralia.com.au/about-carers/who-is-a-carer/"
+    },
+    {
+      "text": "Young Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/young-carers/"
+    },
+    {
+      "text": "Aboriginal & Torres Strait Islander Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/"
+    },
+    {
+      "text": "Culturally & Linguistically Diverse Carers",
+      "url": "https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/"
+    },
+    {
+      "text": "Carers In the Workplace",
+      "url": "https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/"
+    },
+    {
+      "text": "Carer Wellbeing Survey",
+      "url": "https://www.carersaustralia.com.au/carer-wellbeing-survey/"
+    },
+    {
+      "text": "Carer Offers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-offers/"
+    },
+    {
+      "text": "Information for Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/carer-gateway/"
+    },
+    {
+      "text": "Digital Health Literacy",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/"
+    },
+    {
+      "text": "Early Childhood Intervention",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/"
+    },
+    {
+      "text": "Mainstream and Community Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/"
+    },
+    {
+      "text": "NDIS and Carers",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/"
+    },
+    {
+      "text": "Reviewing Your NDIS Plan",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/"
+    },
+    {
+      "text": "Other NDIS Supports",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/"
+    },
+    {
+      "text": "Advance Care Planning and Advance Care Directives",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/"
+    },
+    {
+      "text": "Palliative Care and End-of-Life Care",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/"
+    },
+    {
+      "text": "Caring For Someone With Dementia",
+      "url": "https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/"
+    },
+    {
+      "text": "Centrelink Payments For Carers",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/"
+    },
+    {
+      "text": "Programs & Projects",
+      "url": "https://www.carersaustralia.com.au/programs-projects/"
+    },
+    {
+      "text": "Young Carers Network",
+      "url": "https://www.carersaustralia.com.au/information-for-carers/young-carers-network/"
+    },
+    {
+      "text": "Carer-Inclusive Workplace Initiative",
+      "url": "https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/"
+    },
+    {
+      "text": "Defence and Veteran Carers Network",
+      "url": "https://www.carersaustralia.com.au/programs-projects/defence-carers-network/"
+    },
+    {
+      "text": "Mindfulness on Demand",
+      "url": "https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/"
+    },
+    {
+      "text": "SANE Forums",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/sane-forums/"
+    },
+    {
+      "text": "Women Who Care",
+      "url": "https://www.carersaustralia.com.au/programs-projects/women-who-care/"
+    },
+    {
+      "text": "Medicine Safety",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/"
+    },
+    {
+      "text": "Caring for someone living with pain and taking opioids",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/"
+    },
+    {
+      "text": "Opioid Medicines Information Pack and Checklist",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/"
+    },
+    {
+      "text": "Smoking cessation, nicotine products and e-cigarettes",
+      "url": "https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/"
+    },
+    {
+      "text": "Policy & Advocacy",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/"
+    },
+    {
+      "text": "Submissions",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/submissions/"
+    },
+    {
+      "text": "Position Statements",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/position-statements/"
+    },
+    {
+      "text": "Carer Recognition Inquiry",
+      "url": "https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/"
+    },
+    {
+      "text": "Federal budget: what it means for carers",
+      "url": "https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/"
+    },
+    {
+      "text": "Federal Election: carers can’t quit",
+      "url": "https://www.carersaustralia.com.au/federal-election-carers-cant-quit/"
+    },
+    {
+      "text": "Superannuation",
+      "url": "https://www.carersaustralia.com.au/superannuation/"
+    },
+    {
+      "text": "Caring Costs Us",
+      "url": "https://www.carersaustralia.com.au/programs-projects/caring-costs-us/"
+    },
+    {
+      "text": "Research & Reports",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/research-reports/"
+    },
+    {
+      "text": "Factsheets",
+      "url": "https://www.carersaustralia.com.au/submissions-reports/factsheets/"
+    },
+    {
+      "text": "Get Involved",
+      "url": "https://www.carersaustralia.com.au/get-involved/"
+    },
+    {
+      "text": "National Carer Strategy",
+      "url": "https://www.carersaustralia.com.au/national-carer-strategy/"
+    },
+    {
+      "text": "2022-23 Budget Summary | What it means for carers",
+      "url": "https://www.carersaustralia.com.au/2022-23-budget-summary-what-it-means-for-carers/"
+    },
+    {
+      "text": "News Articles",
+      "url": "https://www.carersaustralia.com.au/news-media/news-articles/"
+    },
+    {
+      "text": "Our Newsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/our-newsletter/"
+    },
+    {
+      "text": "Media Releases",
+      "url": "https://www.carersaustralia.com.au/news-media/media-releases/"
+    },
+    {
+      "text": "Subscribe to the eNewsletter",
+      "url": "https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/"
+    },
+    {
+      "text": "Media Contact",
+      "url": "https://www.carersaustralia.com.au/news-media/media-contact/"
+    },
+    {
+      "text": "Secret Life of Carers podcast",
+      "url": "https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/"
+    },
+    {
+      "text": "Videos",
+      "url": "https://www.carersaustralia.com.au/news-media/videos/"
+    },
+    {
+      "text": "Our Staff",
+      "url": "https://www.carersaustralia.com.au/?page_id=47"
+    },
+    {
+      "text": "Programs and Projects",
+      "url": "https://www.carersaustralia.com.au/support-for-carers/"
+    },
+    {
+      "text": "My Health Record – Authorised and Nominated Representatives",
+      "url": "https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/"
+    },
+    {
+      "text": "News & Media",
+      "url": "https://www.carersaustralia.com.au/news-media/"
+    },
+    {
+      "text": "Access the Full Report here",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Final-Economic-impact-income-and-retirement-Evaluate-Report-March-2022.pdf"
+    },
+    {
+      "text": "Access the Summary Report here",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Caring-Costs-Us_Summary-of-Findings_FINAL_070422.pdf"
+    },
+    {
+      "text": "Value of Informal Care in 2020 Report",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2020/07/FINAL-Value-of-Informal-Care-22-May-2020_No-CIC.pdf"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-yearly_PNG.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-yearly_PNG.png"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-at-67_PNG.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-at-67_PNG.png"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Payment_PNG.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Payment_PNG.png"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Allowance_PNG2.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Allowance_PNG2.png"
+    },
+    {
+      "text": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_10-pc-primary-carers_PNG.png",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_10-pc-primary-carers_PNG.png"
+    },
+    {
+      "text": "Click here to open infographics as PDF",
+      "url": "https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Caring-Costs-Us_Infographics-pack_060422.pdf"
+    },
+    {
+      "text": "Principle 9 of the Statement for Australia’s Carers",
+      "url": "http://classic.austlii.edu.au/au/legis/cth/num_act/cra2010179/sch1.html"
+    },
+    {
+      "text": "Source",
+      "url": "https://www.abs.gov.au/statistics/health/disability/disability-ageing-and-carers-australia-summary-findings/latest-release"
+    },
+    {
+      "text": "Source",
+      "url": "https://www.dss.gov.au/try-test-and-learn-fund/data-driven-job-opportunities-for-young-carers"
+    },
+    {
+      "text": "Source",
+      "url": "https://data.gov.au/data/dataset/dss-payment-demographic-data/resource/65515027-eb42-4257-9b32-6bfec21e00e8"
+    },
+    {
+      "text": "Source",
+      "url": "https://www.aihw.gov.au/reports/australias-welfare/disability-support-pension-and-carer-payment"
+    },
+    {
+      "text": "Who Cares…?: Report on the inquiry into Better Support for Carers",
+      "url": "https://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=fchy/carers/report.htm"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#a4d4cbc8cdc7dde4c7c5d6c1d6d7c5d1d7d0d6c5c8cdc58ac7cbc98ac5d1"
+    },
+    {
+      "text": "[email protected]",
+      "url": "https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#f3909292b39092819681809286808781929f9a92dd909c9edd9286"
+    },
+    {
+      "text": "PO Box 5300, Braddon ACT 2612",
+      "url": "https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612"
+    },
+    {
+      "text": "Registered Charity",
+      "url": "https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile"
+    },
+    {
+      "text": "https://www.facebook.com/CarersAus/",
+      "url": "https://www.facebook.com/CarersAus/"
+    },
+    {
+      "text": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg",
+      "url": "https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg"
+    },
+    {
+      "text": "https://www.instagram.com/carers_australia/?hl=en",
+      "url": "https://www.instagram.com/carers_australia/?hl=en"
+    },
+    {
+      "text": "https://www.linkedin.com/company/27133792",
+      "url": "https://www.linkedin.com/company/27133792"
+    },
+    {
+      "text": "Disclaimer",
+      "url": "https://www.carersaustralia.com.au/disclaimer/"
+    },
+    {
+      "text": "Privacy Policy and Terms of Use",
+      "url": "https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/"
+    },
+    {
+      "text": "Sitemap",
+      "url": "https://www.carersaustralia.com.au/sitemap/"
+    },
+    {
+      "text": "Staff Login",
+      "url": "https://www.carersaustralia.com.au/wp-admin/"
+    },
+    {
+      "text": "Coordinate",
+      "url": "https://coordinate.com.au"
+    }
+  ],
+  "text": "Caring Costs Us - Carers Australia\n\n# Carers Australia\n\n## Carer Gateway - 1800 422 737\n\nText size\n\nContact Us\n\n- About Us\n\n#### About Us\n\n- Who we are, what we do, and information about our organisation.\n\n- Contact Us\n\n- Our Organisation\n\n- Our Mission\n\n- What We Do\n\n- Our Member Organisations\n\n- Our CEO\n\n- Our History\n\n- Feedback and Complaints\n\n- Donate\n\n- Our Governance\n\n- Constitution\n\n- Board of Directors\n\n- Governor-General\n\n- Annual Reports & Strategies\n\n- About Carers\n\n#### About Carers\n\n- Key information about carers and how they can be supported.\n\n- Who Is a Carer?\n\n- Young Carers\n\n- Aboriginal & Torres Strait Islander Carers\n\n- Culturally & Linguistically Diverse Carers\n\n- Carers In the Workplace\n\n- Carer Wellbeing Survey\n\n- Carer Offers\n\n- Information for Carers\n\n#### Information for Carers\n\n- Providing a range of information and supports to carers, such as NDIS, Aged Care and advanced care planning.\n\n- Carer Gateway\n\n- Carer Discounts and Concessions\n\n- Digital Health Literacy\n\n- Disability and NDIS\n\n- Early Childhood Intervention\n\n- Mainstream and Community Supports\n\n- NDIS and Carers\n\n- Reviewing Your NDIS Plan\n\n- Other NDIS Supports\n\n- End of Life Care\n\n- Advance Care Planning and Advance Care Directives\n\n- Palliative Care and End-of-Life Care\n\n- Aged Care\n\n- My Aged Care\n\n- Caring For Someone With Dementia\n\n- Government\n\n- Centrelink Payments For Carers\n\n- Programs & Projects\n\n#### Programs & Projects\n\n- Services we provide for carers, including advocacy, advice, and information.\n\n- Young Carers Network\n\n- Programs\n\n- Carer-Inclusive Workplace Initiative\n\n- Defence and Veteran Carers Network\n\n- Projects\n\n- Mindfulness on Demand\n\n- SANE Forums\n\n- Women Who Care\n\n- Medicine Safety\n\n- Caring for someone living with pain and taking opioids\n\n- Opioid Medicines Information Pack and Checklist\n\n- Smoking cessation, nicotine products and e-cigarettes\n\n- Policy & Advocacy\n\n#### Policy & Advocacy\n\n- Advocacy, engagement and research focused on achieving increased recognition and support for carers.\n\n- Submissions & Positions\n\n- Submissions\n\n- Position Statements\n\n- Carer Recognition Inquiry\n\n- Federal budget: what it means for carers\n\n- Federal Election: carers can’t quit\n\n- Research & Resources\n\n- Superannuation\n\n- Caring Costs Us\n\n- Research & Reports\n\n- Factsheets\n\n- Get Involved\n\n- National Carer Strategy\n\n- News & Media\n\n#### News & Media\n\n- 2022-23 Budget Summary | What it means for carers\n\n- News & Articles\n\n- News Articles\n\n- Our Newsletter\n\n- Media Releases\n\n- Subscribe to the eNewsletter\n\n- Media Centre\n\n- Media Contact\n\n- Secret Life of Carers podcast\n\n- Videos\n\n- Our Constitution\n\n- Our Staff\n\n- Programs and Projects\n\n- My Health Record – Authorised and Nominated Representatives\n\nHome | Programs & Projects | Caring Costs Us\n\n# Caring Costs Us\n\nWhat’s on this page\n\nCaring Costs Us: The economic impact on lifetime income and retirement savings of informal carers On completion of the economic modelling, two fiscal policy options are presented and costed: Key Findings Why we did the Caring Costs Us Report Donate to Carers Australia\n\n## Caring Costs Us: The economic impact on lifetime income and retirement savings of informal carers\n\nCarers Australia and the National Carer Network – our members , the peak carer organisations in each state and territory – commissioned the Caring Costs Us: The economic impact on lifetime income and retirement savings of informal carers report (Caring Costs Us Report). Based on economic modelling and microsimulation, the Caring Costs Us Report was prepared by Evaluate which is an independent private economic consulting practice, with a particular focus on social policy.\n\nThe Caring Costs Us Report acknowledges but does not deal with the human complexity of decisions to care. The focus is on highlighting the economic impact of unpaid care, specifically, lost income during working life and the longer-term reduction in accruing superannuation which affects retirement savings. In economic terms this is called the ‘opportunity cost of caring’.\n\n## On completion of the economic modelling, two fiscal policy options are presented and costed:\n\nPolicy Option 1\n\nGovernment pays Superannuation Guarantee Contribution on the Carer Payment – paying into the superannuation accounts of primary carers based on the amount of Carer Payment they receive\n\nPolicy Option 2\n\nIncrease the Carer Allowance – where two scenarios are provided\n\nAccess the Full Report here\n\nAccess the Summary Report here\n\nThis follows prior work undertaken for Carers Australia looking at the replacement value of informal care in Australia. The Value of Informal Care in 2020 Report found it would have cost $77.9 billion in 2020 alone, and before COVID-19 impacts, to replace the care provided by carers with formal paid services, such as those accessed via My Aged Care or the National Disability Insurance Scheme (NDIS).\n\nIt is important to note that the findings and options presented in the Caring Costs Us Report are only one component to address the barriers and long-term impacts on carers’ financial and economic security. Carers also need to be supported and enabled to participate in employment, education and training without affecting those who are not eligible for carer subsidies, or who choose to or cannot work whilst they undertake their caring role.\n\n## Key Findings\n\nCarers Australia has prepared a summary of the Caring Costs Us Report to highlight what we believe are the key findings:\n\nAustralian carers lose a considerable amount in lifetime earnings and superannuation\n\nThe age a person becomes a carer is significant on the financial impact of caring\n\nIncome support through Carer Payment is less than 30% of the average weekly earnings\n\nThe value of the Carer Allowance has significantly decreased since its introduction\n\nNo real improvement in government expenditure on informal care\n\nClick on the images below to enlarge:\n\nClick here to open infographics as PDF\n\n## Why we did the Caring Costs Us Report\n\nThe right to participate in economic, social and community life is recognised under the Commonwealth Carer Recognition Act 2010 where Principle 9 of the Statement for Australia’s Carers says carers “should be supported to achieve greater economic wellbeing and sustainability and, where appropriate, should have opportunities to participate in employment and education.”\n\nWe know:\n\n- Carers in Australia experience considerably poorer employment outcomes, with a 52.2% employment to population ratio compared with 75.9% for people without caring responsibilities ( Source ).\n\n- On average around 28% of primary carers spend more than 60 hours per week caring for the main recipient of care ( Source )\n\n- A total of nearly 2.2 billion hours of care was estimated to have been provided in 2020 by carers ( Source )\n\n- More than 60% of Australia’s 235,000 young carers aged 12-25 years have not studied beyond high school, and on average are expected to receive income support for 43 years over their lifetime ( Source ).\n\n- At December 2021 there were 301,197 people receiving the Carer Payment and 622,860 people receiving the Carer Allowance ( Source )\n\n- At March 2021 69% of Carer Payment recipients had received an income support payment for 5 years or more, including 45% for 10 or more years ( Source ).\n\nThirteen years on from the 2009 Who Cares…?: Report on the inquiry into Better Support for Carers by the Parliament of Australia House of Representatives Committee, carers are still not recognised or embedded within reform. Carers Australia want a coherent and flexible approach to address the barriers and long-term financial and economic impacts on the one in 11 Australians who are carers as they maintain and thrive in their caring roles.\n\nPlease direct any comments or queries to [email protected]\n\n## Donate to Carers Australia\n\nYour donation will ensure we can continue to represent and advocate for unpaid carers and the tireless work they do.\n\nDONATE HERE\n\nRelated topics\n\nDefence and Veteran Carers Network Mindfulness on Demand Women Who Care Caring Costs Us Digital Health Literacy Carer-Inclusive Workplace Initiative\n\n###### Contact Us\n\n[email protected]\n\nPO Box 5300, Braddon ACT 2612\n\nRegistered Charity\n\n###### Subscribe to our fortnightly newsletter\n\n- LinkedIn\n\n- This field is for validation purposes and should be left unchanged.\n\n- First Name *\n\n- Last Name *\n\n- Email Address *\n\n- CAPTCHA\n\n- This field is hidden when viewing the form\n\n- CA Subscriber\n\nSubscribe\n\nCarers Australia acknowledges Aboriginal and Torres Strait Islander peoples and communities as the traditional custodians of the land we work on and pay our respects to elders past and present. As an inclusive organisation we celebrate people of all backgrounds, genders, cultures, and abilities.\n\nDisclaimer\n\nPrivacy Policy and Terms of Use\n\nSitemap\n\nStaff Login\n\n© Copyright 2026 Carers Australia Limited - ABN 12231938308\n\nSite by Coordinate\n\n## Your Story is Important to Us\n\n- Your name *\n\n- Enter Email Confirm Email\n\n- State *\n\n- Select state ACT NSW VIC QLD NT WA TAS\n\n- Postcode *\n\n- Tell us your story *\n\n- Check the box that best describes you *\n\n- Carer of defence member or veteran\n\n- Defence member or veteran providing unpaid care\n\n- Unpaid carer\n\n- Other\n\n- Remain anonymous (please note any use of the information you give us will be de-identified when 'Yes' is selected) *\n\n- Yes\n\n- No\n\n## Permission to contact *\n\n## CAPTCHA\n\nSubmit\n\nClose\n\n\n\n## Links found on page\n\n- Carers Australia: https://www.carersaustralia.com.au/\n\n- https://www.carersaustralia.com.au/programs-projects/caring-costs-us: https://www.carersaustralia.com.au/programs-projects/caring-costs-us\n\n- Contact Us: https://www.carersaustralia.com.au/about-us/contact-us/\n\n- About Us: https://www.carersaustralia.com.au/about-us/\n\n- Contact Us: https://www.carersaustralia.com.au/contact-us/\n\n- Our Mission: https://www.carersaustralia.com.au/about-us/our-mission/\n\n- What We Do: https://www.carersaustralia.com.au/about-us/what-we-do/\n\n- Our Member Organisations: https://www.carersaustralia.com.au/about-us/our-member-organisations/\n\n- Our CEO: https://www.carersaustralia.com.au/about-us/our-ceo/\n\n- Our History: https://www.carersaustralia.com.au/about-us/our-history/\n\n- Feedback and Complaints: https://www.carersaustralia.com.au/about-us/feedback-and-complaints/\n\n- Donate: https://www.carersaustralia.com.au/donate/\n\n- Constitution: https://www.carersaustralia.com.au/submissions-reports/our-constitution/\n\n- Board of Directors: https://www.carersaustralia.com.au/about-us/board-of-directors/\n\n- Governor-General: https://www.carersaustralia.com.au/about-us/governor-general/\n\n- Annual Reports & Strategies: https://www.carersaustralia.com.au/submissions-reports/strategic-plans-priorities/\n\n- About Carers: https://www.carersaustralia.com.au/about-carers/\n\n- Who Is a Carer?: https://www.carersaustralia.com.au/about-carers/who-is-a-carer/\n\n- Young Carers: https://www.carersaustralia.com.au/about-carers/young-carers/\n\n- Aboriginal & Torres Strait Islander Carers: https://www.carersaustralia.com.au/about-carers/aboriginal-torres-strait-islander-carers/\n\n- Culturally & Linguistically Diverse Carers: https://www.carersaustralia.com.au/about-carers/culturally-linguistically-diverse-carers/\n\n- Carers In the Workplace: https://www.carersaustralia.com.au/about-carers/carers-in-the-workplace/\n\n- Carer Wellbeing Survey: https://www.carersaustralia.com.au/carer-wellbeing-survey/\n\n- Carer Offers: https://www.carersaustralia.com.au/support-for-carers/carer-offers/\n\n- Information for Carers: https://www.carersaustralia.com.au/information-for-carers/\n\n- Carer Gateway: https://www.carersaustralia.com.au/support-for-carers/carer-gateway/\n\n- Digital Health Literacy: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/\n\n- Early Childhood Intervention: https://www.carersaustralia.com.au/information-for-carers/early-childhood-intervention/\n\n- Mainstream and Community Supports: https://www.carersaustralia.com.au/information-for-carers/mainstream-and-community-supports/\n\n- NDIS and Carers: https://www.carersaustralia.com.au/information-for-carers/ndis/ndis-and-carers/\n\n- Reviewing Your NDIS Plan: https://www.carersaustralia.com.au/information-for-carers/ndis/reviewing-your-ndis-plan/\n\n- Other NDIS Supports: https://www.carersaustralia.com.au/information-for-carers/ndis/other-ndis-supports/\n\n- Advance Care Planning and Advance Care Directives: https://www.carersaustralia.com.au/information-for-carers/advance-care-planning-and-advance-care-directives/\n\n- Palliative Care and End-of-Life Care: https://www.carersaustralia.com.au/information-for-carers/palliative-care-and-end-of-life-care/\n\n- My Aged Care: https://www.carersaustralia.com.au/carers-of-older-people/my-aged-care/\n\n- Caring For Someone With Dementia: https://www.carersaustralia.com.au/carers-of-older-people/caring-for-someone-with-dementia/\n\n- Centrelink Payments For Carers: https://www.carersaustralia.com.au/support-for-carers/centrelink-payments-for-carers/\n\n- Programs & Projects: https://www.carersaustralia.com.au/programs-projects/\n\n- Young Carers Network: https://www.carersaustralia.com.au/information-for-carers/young-carers-network/\n\n- Carer-Inclusive Workplace Initiative: https://www.carersaustralia.com.au/programs-projects/carer-inclusive-workplace-initiative/\n\n- Defence and Veteran Carers Network: https://www.carersaustralia.com.au/programs-projects/defence-carers-network/\n\n- Mindfulness on Demand: https://www.carersaustralia.com.au/programs-projects/mindfulness-on-demand/\n\n- SANE Forums: https://www.carersaustralia.com.au/support-for-carers/sane-forums/\n\n- Women Who Care: https://www.carersaustralia.com.au/programs-projects/women-who-care/\n\n- Medicine Safety: https://www.carersaustralia.com.au/medicine-safety/\n\n- Caring for someone living with pain and taking opioids: https://www.carersaustralia.com.au/medicine-safety/caring-for-someone-living-with-pain/\n\n- Opioid Medicines Information Pack and Checklist: https://www.carersaustralia.com.au/medicine-safety/checklist-are-you-a-carer-for-someone-living-with-pain-do-you-want-to-learn-more-about-their-opioid-pain-medication/\n\n- Smoking cessation, nicotine products and e-cigarettes: https://www.carersaustralia.com.au/medicine-safety/smoking-cessation-nicotine-products-and-e-cigarettes/\n\n- Policy & Advocacy: https://www.carersaustralia.com.au/policy-advocacy/\n\n- Submissions: https://www.carersaustralia.com.au/submissions-reports/submissions/\n\n- Position Statements: https://www.carersaustralia.com.au/submissions-reports/position-statements/\n\n- Carer Recognition Inquiry: https://www.carersaustralia.com.au/policy-advocacy/carer-recognition-inquiry-2/\n\n- Federal budget: what it means for carers: https://www.carersaustralia.com.au/federal-budget-and-election-what-it-means-for-carers/\n\n- Federal Election: carers can’t quit: https://www.carersaustralia.com.au/federal-election-carers-cant-quit/\n\n- Superannuation: https://www.carersaustralia.com.au/superannuation/\n\n- Caring Costs Us: https://www.carersaustralia.com.au/programs-projects/caring-costs-us/\n\n- Research & Reports: https://www.carersaustralia.com.au/submissions-reports/research-reports/\n\n- Factsheets: https://www.carersaustralia.com.au/submissions-reports/factsheets/\n\n- Get Involved: https://www.carersaustralia.com.au/get-involved/\n\n- National Carer Strategy: https://www.carersaustralia.com.au/national-carer-strategy/\n\n- 2022-23 Budget Summary | What it means for carers: https://www.carersaustralia.com.au/2022-23-budget-summary-what-it-means-for-carers/\n\n- News Articles: https://www.carersaustralia.com.au/news-media/news-articles/\n\n- Our Newsletter: https://www.carersaustralia.com.au/news-media/our-newsletter/\n\n- Media Releases: https://www.carersaustralia.com.au/news-media/media-releases/\n\n- Subscribe to the eNewsletter: https://www.carersaustralia.com.au/news-media/subscribe-to-the-enewsletter/\n\n- Media Contact: https://www.carersaustralia.com.au/news-media/media-contact/\n\n- Secret Life of Carers podcast: https://www.carersaustralia.com.au/news-media/secret-life-of-carers-podcast/\n\n- Videos: https://www.carersaustralia.com.au/news-media/videos/\n\n- Our Staff: https://www.carersaustralia.com.au/?page_id=47\n\n- Programs and Projects: https://www.carersaustralia.com.au/support-for-carers/\n\n- My Health Record – Authorised and Nominated Representatives: https://www.carersaustralia.com.au/programs-projects/digital-health-literacy/my-health-record-authorised-and-nominated-representatives/\n\n- News & Media: https://www.carersaustralia.com.au/news-media/\n\n- Access the Full Report here: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Final-Economic-impact-income-and-retirement-Evaluate-Report-March-2022.pdf\n\n- Access the Summary Report here: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Caring-Costs-Us_Summary-of-Findings_FINAL_070422.pdf\n\n- Value of Informal Care in 2020 Report: https://www.carersaustralia.com.au/wp-content/uploads/2020/07/FINAL-Value-of-Informal-Care-22-May-2020_No-CIC.pdf\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-yearly_PNG.png: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-yearly_PNG.png\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-at-67_PNG.png: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Primary-carer-at-67_PNG.png\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Payment_PNG.png: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Payment_PNG.png\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Allowance_PNG2.png: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_Carer-Allowance_PNG2.png\n\n- https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_10-pc-primary-carers_PNG.png: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/CCU_10-pc-primary-carers_PNG.png\n\n- Click here to open infographics as PDF: https://www.carersaustralia.com.au/wp-content/uploads/2022/04/Caring-Costs-Us_Infographics-pack_060422.pdf\n\n- Principle 9 of the Statement for Australia’s Carers: http://classic.austlii.edu.au/au/legis/cth/num_act/cra2010179/sch1.html\n\n- Source: https://www.abs.gov.au/statistics/health/disability/disability-ageing-and-carers-australia-summary-findings/latest-release\n\n- Source: https://www.dss.gov.au/try-test-and-learn-fund/data-driven-job-opportunities-for-young-carers\n\n- Source: https://data.gov.au/data/dataset/dss-payment-demographic-data/resource/65515027-eb42-4257-9b32-6bfec21e00e8\n\n- Source: https://www.aihw.gov.au/reports/australias-welfare/disability-support-pension-and-carer-payment\n\n- Who Cares…?: Report on the inquiry into Better Support for Carers: https://www.aph.gov.au/parliamentary_business/committees/house_of_representatives_committees?url=fchy/carers/report.htm\n\n- [email protected]: https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#a4d4cbc8cdc7dde4c7c5d6c1d6d7c5d1d7d0d6c5c8cdc58ac7cbc98ac5d1\n\n- [email protected]: https://www.carersaustralia.com.au/cdn-cgi/l/email-protection#f3909292b39092819681809286808781929f9a92dd909c9edd9286\n\n- PO Box 5300, Braddon ACT 2612: https://www.google.com/maps/place/PO Box 5300, Braddon ACT 2612\n\n- Registered Charity: https://www.acnc.gov.au/charity/charities/c1299851-39af-e811-a962-000d3ad24a0d/profile\n\n- https://www.facebook.com/CarersAus/: https://www.facebook.com/CarersAus/\n\n- https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg: https://www.youtube.com/channel/UC0VicbsrHdGiRHOPqKRwPwg\n\n- https://www.instagram.com/carers_australia/?hl=en: https://www.instagram.com/carers_australia/?hl=en\n\n- https://www.linkedin.com/company/27133792: https://www.linkedin.com/company/27133792\n\n- Disclaimer: https://www.carersaustralia.com.au/disclaimer/\n\n- Privacy Policy and Terms of Use: https://www.carersaustralia.com.au/privacy-policy-and-terms-of-use/\n\n- Sitemap: https://www.carersaustralia.com.au/sitemap/\n\n- Staff Login: https://www.carersaustralia.com.au/wp-admin/\n\n- Coordinate: https://coordinate.com.au"
+}

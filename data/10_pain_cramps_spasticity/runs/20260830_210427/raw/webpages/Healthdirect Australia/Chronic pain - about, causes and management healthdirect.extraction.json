@@ -1,0 +1,759 @@
+{
+  "source_id": "healthdirect:chronic-pain",
+  "title": "Chronic pain - about, causes and management | healthdirect",
+  "publisher": "Healthdirect Australia",
+  "url": "https://www.healthdirect.gov.au/chronic-pain",
+  "retrieved_at": "2026-08-30",
+  "topic": "Pain, Cramps And Spasticity",
+  "content_type": "text/html; charset=utf-8",
+  "text_character_count": 31756,
+  "crawl_depth": 0,
+  "seed_url": "https://www.healthdirect.gov.au/chronic-pain",
+  "links": [
+    {
+      "text": "https://www.healthdirect.gov.au/",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "Join",
+      "url": "https://www.healthdirect.gov.au/account/join"
+    },
+    {
+      "text": "Sign in",
+      "url": "https://www.healthdirect.gov.au/account/signin"
+    },
+    {
+      "text": "{{label}}",
+      "url": "https://www.healthdirect.gov.au/search-results/{{url}}"
+    },
+    {
+      "text": "Conditions",
+      "url": "https://www.healthdirect.gov.au/health-topics/conditions"
+    },
+    {
+      "text": "Gastroenteritis",
+      "url": "https://www.healthdirect.gov.au/gastroenteritis"
+    },
+    {
+      "text": "Skin Conditions",
+      "url": "https://www.healthdirect.gov.au/skin-conditions"
+    },
+    {
+      "text": "Whooping Cough",
+      "url": "https://www.healthdirect.gov.au/whooping-cough"
+    },
+    {
+      "text": "Symptoms",
+      "url": "https://www.healthdirect.gov.au/health-topics/symptoms"
+    },
+    {
+      "text": "Abdominal Pain",
+      "url": "https://www.healthdirect.gov.au/abdominal-pain"
+    },
+    {
+      "text": "Bites and Stings",
+      "url": "https://www.healthdirect.gov.au/bites-and-stings"
+    },
+    {
+      "text": "Diarrhoea",
+      "url": "https://www.healthdirect.gov.au/diarrhoea"
+    },
+    {
+      "text": "Procedures",
+      "url": "https://www.healthdirect.gov.au/health-topics/procedures"
+    },
+    {
+      "text": "Colonoscopy",
+      "url": "https://www.healthdirect.gov.au/colonoscopy"
+    },
+    {
+      "text": "Grommets",
+      "url": "https://www.healthdirect.gov.au/grommets"
+    },
+    {
+      "text": "Liposuction",
+      "url": "https://www.healthdirect.gov.au/liposuction"
+    },
+    {
+      "text": "Tubal ligation",
+      "url": "https://www.healthdirect.gov.au/tubal-ligation"
+    },
+    {
+      "text": "Life stages",
+      "url": "https://www.healthdirect.gov.au/life-stages"
+    },
+    {
+      "text": "Babies and toddlers",
+      "url": "https://www.healthdirect.gov.au/babies-and-toddlers-health"
+    },
+    {
+      "text": "Kids",
+      "url": "https://www.healthdirect.gov.au/kids-health"
+    },
+    {
+      "text": "Seniors",
+      "url": "https://www.healthdirect.gov.au/seniors-health"
+    },
+    {
+      "text": "All topics",
+      "url": "https://www.healthdirect.gov.au/health-topics"
+    },
+    {
+      "text": "A",
+      "url": "https://www.healthdirect.gov.au/health-topics/A"
+    },
+    {
+      "text": "B",
+      "url": "https://www.healthdirect.gov.au/health-topics/B"
+    },
+    {
+      "text": "C",
+      "url": "https://www.healthdirect.gov.au/health-topics/C"
+    },
+    {
+      "text": "D",
+      "url": "https://www.healthdirect.gov.au/health-topics/D"
+    },
+    {
+      "text": "E",
+      "url": "https://www.healthdirect.gov.au/health-topics/E"
+    },
+    {
+      "text": "F",
+      "url": "https://www.healthdirect.gov.au/health-topics/F"
+    },
+    {
+      "text": "G",
+      "url": "https://www.healthdirect.gov.au/health-topics/G"
+    },
+    {
+      "text": "H",
+      "url": "https://www.healthdirect.gov.au/health-topics/H"
+    },
+    {
+      "text": "I",
+      "url": "https://www.healthdirect.gov.au/health-topics/I"
+    },
+    {
+      "text": "J",
+      "url": "https://www.healthdirect.gov.au/health-topics/J"
+    },
+    {
+      "text": "K",
+      "url": "https://www.healthdirect.gov.au/health-topics/K"
+    },
+    {
+      "text": "L",
+      "url": "https://www.healthdirect.gov.au/health-topics/L"
+    },
+    {
+      "text": "M",
+      "url": "https://www.healthdirect.gov.au/health-topics/M"
+    },
+    {
+      "text": "N",
+      "url": "https://www.healthdirect.gov.au/health-topics/N"
+    },
+    {
+      "text": "O",
+      "url": "https://www.healthdirect.gov.au/health-topics/O"
+    },
+    {
+      "text": "P",
+      "url": "https://www.healthdirect.gov.au/health-topics/P"
+    },
+    {
+      "text": "Q",
+      "url": "https://www.healthdirect.gov.au/health-topics/Q"
+    },
+    {
+      "text": "R",
+      "url": "https://www.healthdirect.gov.au/health-topics/R"
+    },
+    {
+      "text": "S",
+      "url": "https://www.healthdirect.gov.au/health-topics/S"
+    },
+    {
+      "text": "T",
+      "url": "https://www.healthdirect.gov.au/health-topics/T"
+    },
+    {
+      "text": "U",
+      "url": "https://www.healthdirect.gov.au/health-topics/U"
+    },
+    {
+      "text": "V",
+      "url": "https://www.healthdirect.gov.au/health-topics/V"
+    },
+    {
+      "text": "W",
+      "url": "https://www.healthdirect.gov.au/health-topics/W"
+    },
+    {
+      "text": "X",
+      "url": "https://www.healthdirect.gov.au/health-topics/X"
+    },
+    {
+      "text": "Y",
+      "url": "https://www.healthdirect.gov.au/health-topics/Y"
+    },
+    {
+      "text": "Z",
+      "url": "https://www.healthdirect.gov.au/health-topics/Z"
+    },
+    {
+      "text": "Medicines",
+      "url": "https://www.healthdirect.gov.au/medicines"
+    },
+    {
+      "text": "Symptom checker",
+      "url": "https://www.healthdirect.gov.au/symptom-checker"
+    },
+    {
+      "text": "Service finder",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    },
+    {
+      "text": "Health topics A-Z",
+      "url": "https://www.healthdirect.gov.au/chronic-pain"
+    },
+    {
+      "text": "share via Facebook",
+      "url": "https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/chronic-pain"
+    },
+    {
+      "text": "Please enter your name",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#txtName"
+    },
+    {
+      "text": "Please enter your email",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#txtFromEmail"
+    },
+    {
+      "text": "Please enter recipient's email",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#txtToEmail"
+    },
+    {
+      "text": "Agree to Terms required",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#chkTerms"
+    },
+    {
+      "text": "Terms of Use",
+      "url": "https://www.healthdirect.gov.au/terms-of-use"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://www.healthdirect.gov.au/privacy-policy"
+    },
+    {
+      "text": "Listen",
+      "url": "https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/chronic-pain"
+    },
+    {
+      "text": "What is chronic pain?",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#what-is"
+    },
+    {
+      "text": "What causes chronic pain?",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#causes"
+    },
+    {
+      "text": "Living with chronic pain",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#living-with"
+    },
+    {
+      "text": "What can I do to manage chronic pain?",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#manage"
+    },
+    {
+      "text": "Which medicines can help manage chronic pain?",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#medicines"
+    },
+    {
+      "text": "Are opioid medicines recommended for chronic pain?",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#opioid-medicines"
+    },
+    {
+      "text": "Resources and support",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#resources"
+    },
+    {
+      "text": "Related information on Australian websites",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#searchGeneralResults"
+    },
+    {
+      "text": "nerves",
+      "url": "https://www.healthdirect.gov.au/nervous-system"
+    },
+    {
+      "text": "nerve pain",
+      "url": "https://www.healthdirect.gov.au/nerve-pain"
+    },
+    {
+      "text": "back pain",
+      "url": "https://www.healthdirect.gov.au/back-pain"
+    },
+    {
+      "text": "arthritis",
+      "url": "https://www.healthdirect.gov.au/arthritis"
+    },
+    {
+      "text": "endometriosis",
+      "url": "https://www.healthdirect.gov.au/endometriosis"
+    },
+    {
+      "text": "persistent pelvic pain",
+      "url": "https://www.healthdirect.gov.au/persistent-pelvic-pain"
+    },
+    {
+      "text": "migraine",
+      "url": "https://www.healthdirect.gov.au/migraine"
+    },
+    {
+      "text": "fibromyalgia",
+      "url": "https://www.healthdirect.gov.au/fibromyalgia"
+    },
+    {
+      "text": "diabetic neuropathy",
+      "url": "https://www.healthdirect.gov.au/diabetic-neuropathy"
+    },
+    {
+      "text": "surgery",
+      "url": "https://www.healthdirect.gov.au/surgery/pain-relief-after-surgery"
+    },
+    {
+      "text": "ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.",
+      "url": "https://www.healthdirect.gov.au/question-builder"
+    },
+    {
+      "text": "sleep",
+      "url": "https://www.healthdirect.gov.au/sleep"
+    },
+    {
+      "text": "anxiety",
+      "url": "https://www.healthdirect.gov.au/anxiety"
+    },
+    {
+      "text": "depression",
+      "url": "https://www.healthdirect.gov.au/depression"
+    },
+    {
+      "text": "other treatments",
+      "url": "https://www.healthdirect.gov.au/options-for-managing-chronic-pain"
+    },
+    {
+      "text": "relaxation techniques",
+      "url": "https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief"
+    },
+    {
+      "text": "meditation",
+      "url": "https://www.healthdirect.gov.au/meditation"
+    },
+    {
+      "text": "physical activity",
+      "url": "https://www.healthdirect.gov.au/tips-for-getting-active"
+    },
+    {
+      "text": "psychological therapies",
+      "url": "https://www.healthdirect.gov.au/psychiatrists-and-psychologists"
+    },
+    {
+      "text": "cognitive behavioural therapy (CBT)",
+      "url": "https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt"
+    },
+    {
+      "text": "mindfulness",
+      "url": "https://www.healthdirect.gov.au/mindfulness"
+    },
+    {
+      "text": "physiotherapist",
+      "url": "https://www.healthdirect.gov.au/physiotherapy"
+    },
+    {
+      "text": "exercise physiologist",
+      "url": "https://www.healthdirect.gov.au/exercise-physiologist"
+    },
+    {
+      "text": "activity pacing",
+      "url": "https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/624721/Pacing-guide.pdf"
+    },
+    {
+      "text": "exercise",
+      "url": "https://www.healthdirect.gov.au/fitness-and-exercise"
+    },
+    {
+      "text": "swimming",
+      "url": "https://www.healthdirect.gov.au/health-benefits-of-swimming"
+    },
+    {
+      "text": "cycling",
+      "url": "https://www.healthdirect.gov.au/cycling-and-your-health"
+    },
+    {
+      "text": "eating a healthy diet",
+      "url": "https://www.healthdirect.gov.au/healthy-eating"
+    },
+    {
+      "text": "https://www.healthdirect.gov.au/opioids",
+      "url": "https://www.healthdirect.gov.au/opioids"
+    },
+    {
+      "text": "refer you",
+      "url": "https://www.healthdirect.gov.au/what-is-a-referral"
+    },
+    {
+      "text": "Paracetamol",
+      "url": "https://www.healthdirect.gov.au/paracetamol"
+    },
+    {
+      "text": "Non-steroidal anti-inflammatory drugs (NSAIDs)",
+      "url": "https://www.healthdirect.gov.au/anti-inflammatory-medicines"
+    },
+    {
+      "text": "ibuprofen",
+      "url": "https://www.healthdirect.gov.au/ibuprofen"
+    },
+    {
+      "text": "diclofenac",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20761/diclofenac"
+    },
+    {
+      "text": "Antidepressants",
+      "url": "https://www.healthdirect.gov.au/antidepressants"
+    },
+    {
+      "text": "amitriptyline",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20163/amitriptyline"
+    },
+    {
+      "text": "epilepsy",
+      "url": "https://www.healthdirect.gov.au/epilepsy"
+    },
+    {
+      "text": "gabapentin",
+      "url": "https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21352/gabapentin"
+    },
+    {
+      "text": "Opioids",
+      "url": "https://www.healthdirect.gov.au/opioid-medicines"
+    },
+    {
+      "text": "morphine",
+      "url": "https://www.healthdirect.gov.au/morphine"
+    },
+    {
+      "text": "fentanyl",
+      "url": "https://www.healthdirect.gov.au/fentanyl"
+    },
+    {
+      "text": "oxycodone",
+      "url": "https://www.healthdirect.gov.au/oxycodone"
+    },
+    {
+      "text": "codeine",
+      "url": "https://www.healthdirect.gov.au/codeine"
+    },
+    {
+      "text": "dependence",
+      "url": "https://www.healthdirect.gov.au/medicines-and-addiction"
+    },
+    {
+      "text": "WORRIED ABOUT YOUR OPIOID USE? — The Opioid Risk Indicator can help you find out if you may be developing a problem.",
+      "url": "https://www.healthdirect.gov.au/opioid-risk-indicator"
+    },
+    {
+      "text": "Painaustralia",
+      "url": "https://www.painaustralia.org.au/"
+    },
+    {
+      "text": "find pain services and programs in your area",
+      "url": "https://www.painaustralia.org.au/pain-services-directory/pain-directory"
+    },
+    {
+      "text": "support",
+      "url": "https://www.painaustralia.org.au/find-support"
+    },
+    {
+      "text": "Pain Management Network",
+      "url": "https://aci.health.nsw.gov.au/chronic-pain/chronic-pain"
+    },
+    {
+      "text": "resources for Aboriginal and Torres Strait Islander people",
+      "url": "https://aci.health.nsw.gov.au/chronic-pain/our-mob"
+    },
+    {
+      "text": "resources in other languages",
+      "url": "https://aci.health.nsw.gov.au/chronic-pain/translated-resources"
+    },
+    {
+      "text": "Chronic Pain Australia",
+      "url": "https://chronicpainaustralia.org.au/"
+    },
+    {
+      "text": "Australian Pain Society",
+      "url": "https://www.apsoc.org.au/"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander communities",
+      "url": "https://www.apsoc.org.au/Indigenous-Resources"
+    },
+    {
+      "text": "healthdirect helpline",
+      "url": "https://www.healthdirect.gov.au/how-healthdirect-can-help-you"
+    },
+    {
+      "text": "(The transition from acute to chronic pain)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=transition-from-acute-to-chronic-pain&guidelinename=Pain%20and%20Analgesia&sectionId=toc_d1e204#toc_d1e204"
+    },
+    {
+      "text": "(General principles of chronic pain management)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=general-principles-chronic-pain-management"
+    },
+    {
+      "text": "(The role of opioids in chronic noncancer pain)",
+      "url": "https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=role-analgesics-chronic-noncancer-pain&guidelinename=Pain%20and%20Analgesia&sectionId=toc_d1e654#toc_d1e654"
+    },
+    {
+      "text": "(Chronic pain in Australia)",
+      "url": "https://www.aihw.gov.au/reports/chronic-disease/chronic-pain-in-australia/summary"
+    },
+    {
+      "text": "(Chronic pain management - information for medical practitioners)",
+      "url": "https://www.health.nsw.gov.au/pharmaceutical/doctors/Pages/chronic-pain-medical-practitioners.aspx"
+    },
+    {
+      "text": "(Chronic pain syndromes)",
+      "url": "https://bestpractice.bmj.com/topics/en-gb/694/patient-discussions"
+    },
+    {
+      "text": "development and quality assurance of healthdirect content",
+      "url": "https://www.healthdirect.gov.au/about-our-content"
+    },
+    {
+      "text": "Back To Top",
+      "url": "https://www.healthdirect.gov.au/chronic-pain#backToTop"
+    },
+    {
+      "text": "Pain Management",
+      "url": "https://www.healthdirect.gov.au/search-results/Pain Management"
+    },
+    {
+      "text": "Pain Relief",
+      "url": "https://www.healthdirect.gov.au/search-results/Pain Relief"
+    },
+    {
+      "text": "Pain relief drugs",
+      "url": "https://www.healthdirect.gov.au/search-results/Pain relief drugs"
+    },
+    {
+      "text": "Chronic Pain Management & Treatment Chronic pain is pain that lasts beyond the expected healing period of tissue damage. Chronic pain is common. One in 5 people experience chronic pain. Read more on This Way Up website",
+      "url": "https://thiswayup.org.au/chronic-pain-explained"
+    },
+    {
+      "text": "Online Treatment Program for Chronic Pain | THIS WAY UP Learn practical strategies for managing chronic pain, and associated low mood and anxiety with our clinically-proven online program. Read more on This Way Up website",
+      "url": "https://thiswayup.org.au/what-we-treat/chronic-pain"
+    },
+    {
+      "text": "Chronic pain - Finding North Learn how chronic pain affects mental health, explore strategies and support options for managing pain and lifestyle changes Read more on Finding North website",
+      "url": "https://findingnorth.org.au/mental-health-wellness/health-wellness/chronic-pain/"
+    },
+    {
+      "text": "10 Important Messages for Those Living with Chronic Pain - Exercise Right Anyone living with chronic pain knows how debilitating it can be. It’s defined as pain that lasts for more than three months, or in many cases, beyond normal healing time. If you, or someone you know is living with chronic pain, here are some things you need to know… 1. All pain is real Pain […] Read more on ESSA website",
+      "url": "https://exerciseright.com.au/articles/10-important-messages-for-those-with-chronic-pain/"
+    },
+    {
+      "text": "Chronic Pain - Exercise Right While it may seem counterintuitive to exercise when you're in pain, the right type of exercise can make everyday activities easier. Read more on ESSA website",
+      "url": "https://exerciseright.com.au/chronic-pain/"
+    },
+    {
+      "text": "Online Treatment for Chronic Pain | MindSpot The Pain Course helps people manage chronic pain, offering excellent strategies and advice for supporting mental health alongside pain management. Read more on MindSpot Clinic website",
+      "url": "https://www.mindspot.org.au/treatments/pain-course"
+    },
+    {
+      "text": "Chronic Widespread Pain (CWPS) - young painHEALTH Condition · 8 min read · 21 Jun 2021 Learn about Chronic Widespread Pain and... Read more on youngpainhealth website",
+      "url": "https://youngpainhealth.com.au/pain-conditions/chronic-widespread-pain/"
+    },
+    {
+      "text": "Managing chronic pain: A cognitive-behavioural therapy approach | Rheumatoid Arthritis (RA) support program - homepage | Arthritis Australia , MyRA is designed to help people with Rheumatoid Arthritis (RA) seize control and become active participants in their journey with RA Read more on Arthritis Australia website",
+      "url": "https://myra.org.au/article/tests-treatments-psychological-therapy/managing-chronic-pain-cognitive-behavioural-therapy"
+    },
+    {
+      "text": "Chronic pain in children - Arthritis Australia Chronic pain – printable information sheet Quick links What is chronic pain? What causes chronic pain? What will happen to […] Read more on Arthritis Australia website",
+      "url": "https://arthritisaustralia.org.au/understanding-arthritis/my-community/children-young-adults/chronic-pain/"
+    },
+    {
+      "text": "Managing chronic pain | Osteoarthritis Arthritis (OA) support program - homepage | Osteoarthritis Australia , MyOA is designed to help people with Osteoarthritis Arthritis (OA) seize control and become active participants in their journey with OA Read more on Arthritis Australia website",
+      "url": "https://myoa.org.au/video/managing-pain-managing-pain/managing-chronic-pain"
+    },
+    {
+      "text": "Psychological therapies for the management of chronic pain (excluding headache) in adults - Williams, AC de C - 2020 | Cochrane Library Read more on Cochrane Australia website",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007407.pub4/full"
+    },
+    {
+      "text": "Topical analgesics for acute and chronic pain in adults ‐ an overview of Cochrane Reviews - Derry, S - 2017 | Cochrane Library Read more on Cochrane Australia website",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008609.pub2/full"
+    },
+    {
+      "text": "Transcutaneous electrical nerve stimulation (TENS) for chronic pain ‐ an overview of Cochrane Reviews - Gibson, W - 2019 | Cochrane Library Read more on Cochrane Australia website",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011890.pub3/full"
+    },
+    {
+      "text": "Start Your Symptom Check",
+      "url": "https://www.healthdirect.gov.au/symptom-checker?language=en"
+    },
+    {
+      "text": "Check your symptoms",
+      "url": "https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC"
+    },
+    {
+      "text": "https://www.health.gov.au/",
+      "url": "https://www.health.gov.au/"
+    },
+    {
+      "text": "https://www.health.act.gov.au/",
+      "url": "https://www.health.act.gov.au/"
+    },
+    {
+      "text": "https://www.health.nsw.gov.au/",
+      "url": "https://www.health.nsw.gov.au/"
+    },
+    {
+      "text": "https://health.nt.gov.au/",
+      "url": "https://health.nt.gov.au/"
+    },
+    {
+      "text": "https://www.health.qld.gov.au/",
+      "url": "https://www.health.qld.gov.au/"
+    },
+    {
+      "text": "https://www.sahealth.sa.gov.au/",
+      "url": "https://www.sahealth.sa.gov.au/"
+    },
+    {
+      "text": "https://www.health.tas.gov.au/",
+      "url": "https://www.health.tas.gov.au/"
+    },
+    {
+      "text": "https://www2.health.vic.gov.au/",
+      "url": "https://www2.health.vic.gov.au/"
+    },
+    {
+      "text": "https://ww2.health.wa.gov.au/",
+      "url": "https://ww2.health.wa.gov.au/"
+    },
+    {
+      "text": "Our mobile app",
+      "url": "https://www.healthdirect.gov.au/health-app"
+    },
+    {
+      "text": "Linking to us",
+      "url": "https://about.healthdirect.gov.au/linking-to-us"
+    },
+    {
+      "text": "Information partners",
+      "url": "https://www.healthdirect.gov.au/information-partners"
+    },
+    {
+      "text": "Register your service",
+      "url": "https://www.healthdirect.gov.au/register-with-nhsd"
+    },
+    {
+      "text": "How we use AI",
+      "url": "https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.healthdirect.gov.au/contact-us"
+    },
+    {
+      "text": "About us",
+      "url": "https://about.healthdirect.gov.au/"
+    },
+    {
+      "text": "Blog",
+      "url": "https://www.healthdirect.gov.au/blog"
+    },
+    {
+      "text": "BMI calculator",
+      "url": "https://www.healthdirect.gov.au/bmi-calculator"
+    },
+    {
+      "text": "Health apps",
+      "url": "https://www.healthdirect.gov.au/health-and-wellbeing-apps"
+    },
+    {
+      "text": "Arabic عربى",
+      "url": "https://www.healthdirect.gov.au/ar/resources-in-arabic"
+    },
+    {
+      "text": "বাংলা Bengali",
+      "url": "https://www.healthdirect.gov.au/bn/resources-in-bengali"
+    },
+    {
+      "text": "简体中文 Chinese Simplified",
+      "url": "https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified"
+    },
+    {
+      "text": "繁體中文 Chinese Traditional",
+      "url": "https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional"
+    },
+    {
+      "text": "Tiếng Việt Vietnamese",
+      "url": "https://www.healthdirect.gov.au/vi/resources-in-vietnamese"
+    },
+    {
+      "text": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8",
+      "url": "https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8"
+    },
+    {
+      "text": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp",
+      "url": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp"
+    },
+    {
+      "text": "https://www.facebook.com/healthdirectaus/",
+      "url": "https://www.facebook.com/healthdirectaus/"
+    },
+    {
+      "text": "https://www.instagram.com/healthdirectaus",
+      "url": "https://www.instagram.com/healthdirectaus"
+    },
+    {
+      "text": "https://www.linkedin.com/company/healthdirect-australia",
+      "url": "https://www.linkedin.com/company/healthdirect-australia"
+    },
+    {
+      "text": "clinical governance",
+      "url": "https://about.healthdirect.gov.au/end-to-end-service-delivery"
+    },
+    {
+      "text": "quality and safety processes",
+      "url": "https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement"
+    },
+    {
+      "text": "Privacy Policy",
+      "url": "https://policies.google.com/privacy"
+    },
+    {
+      "text": "Terms of Service",
+      "url": "https://policies.google.com/terms"
+    },
+    {
+      "text": "Chrome by Google",
+      "url": "https://www.google.com.au/chrome/"
+    },
+    {
+      "text": "Firefox by Mozilla",
+      "url": "https://www.mozilla.org/en-US/firefox/new"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://www.microsoft.com/en-us/edge"
+    },
+    {
+      "text": "Safari by Apple",
+      "url": "https://support.apple.com/en_AU/downloads/safari"
+    }
+  ],
+  "text": "Chronic pain - about, causes and management | healthdirect\n\nSign in\n\n- Join\n\n- Sign in\n\nMenu\n\n# Healthdirect Free Australian health advice you can count on.\n\nJoin Sign in\n\nMedical problem? Call 1800 022 222. If you need urgent medical help, call triple zero immediately\n\nhealthdirect Australia is a free service where you can talk to a nurse or doctor who can help you know what to do.\n\n- {{label}}\n\n- Home\n\n- Health topics A-Z\n\n- Conditions Gastroenteritis Skin Conditions Whooping Cough\n\n- Symptoms Abdominal Pain Bites and Stings Diarrhoea\n\n- Procedures Colonoscopy Grommets Liposuction Tubal ligation\n\n- Life stages Babies and toddlers Kids Seniors\n\n- All topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z\n\n- Medicines\n\n- Symptom checker\n\n- Service finder\n\nMenu Close\n\n- Conditions\n\n- Symptoms\n\n- Procedures\n\n- Life stages\n\n- All topics\n\nbeginning of content\n\n# Chronic pain\n\n8-minute read\n\nPrint\n\nShare\n\nshare via Facebook share via Email\n\nSave\n\n## Share via email\n\nThere is a total of 5 error s on this form, details are below.\n\n- Please enter your name\n\n- Please enter your email\n\n- Your email is invalid. Please check and try again\n\n- Please enter recipient's email\n\n- Recipient's email is invalid. Please check and try again\n\n- Agree to Terms required\n\nThank you for sharing our content. A message has been sent to your recipient's email address with a link to the content webpage.\n\nYour name: is required\n\nError: This is required\n\nYour email: is required\n\nError: Not a valid value\n\nSend to: is required\n\nI have read and agree to the Terms of Use and Privacy Policy is required .\n\nSubmit\n\nListen\n\n## Key facts\n\n- Chronic pain is pain that lasts for at least 3 months, or beyond the expected healing time.\n\n- Some causes of chronic pain are illnesses, musculoskeletal problems and injuries.\n\n- Sometimes people with chronic pain have no obvious cause for their pain.\n\n- Chronic pain can affect your mood, sleep and mental health.\n\n- Treatment options for chronic pain can include medicines, physiotherapy, psychological therapy and relaxation techniques.\n\n## On this page\n\n- What is chronic pain?\n\n- What causes chronic pain?\n\n- Living with chronic pain\n\n- What can I do to manage chronic pain?\n\n- Which medicines can help manage chronic pain?\n\n- Are opioid medicines recommended for chronic pain?\n\n- Resources and support\n\n- Related information on Australian websites\n\n## What is chronic pain?\n\nChronic pain is pain that lasts beyond the normal healing time after an illness or injury. This is generally more than 3 to 6 months.\n\nChronic pain is sometimes also called 'persistent pain'. It is a complex condition, and everyone experiences it differently. The pain can range from mild to severe.\n\nChronic pain is ongoing, and the pain is usually felt on most days.\n\n## What causes chronic pain?\n\nNormally, when you have an injury or illness, your nerves carry signals from the affected part of your body to your brain. This tells your brain that there's a problem. The brain reads these signals as pain. This type of pain usually gets better once the problem heals. But sometimes, it can turn into chronic pain.\n\nIn chronic pain, the nerves that carry pain signals to your brain, or the brain itself, may behave in an unusual way. The nerves might be more sensitive than usual. Sometimes the brain might misread other signals as pain.\n\nSometimes people with chronic pain have nerve pain due to nerve damage or ongoing inflammation.\n\nChronic pain can be caused by conditions such as:\n\n- back pain or neck pain\n\n- arthritis and other types of joint pain\n\n- abdominal pain — endometriosis and persistent pelvic pain\n\n- migraine\n\n- fibromyalgia\n\n- diabetic neuropathy\n\nIn some cases, chronic pain starts after an injury or surgery . Sometimes, there is no obvious cause of chronic pain.\n\nIf you are concerned about your pain, talk to your doctor.\n\nASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.\n\n## Living with chronic pain\n\nChronic pain can make it hard to:\n\n- work\n\n- take care of yourself\n\n- exercise\n\n- socialise\n\n- do the things you enjoy\n\nIt can also affect your sleep and mood. Chronic pain can increase your risk of anxiety and depression .\n\nTreatments for chronic pain aim to help reduce the pain and improve your overall functioning.\n\n## What can I do to manage chronic pain?\n\nFor many people, chronic pain cannot be cured. But there are treatments available.\n\nA management plan for chronic pain aims to prevent the pain from interfering with your daily life. This can help you get back to socialising, working and being active.\n\nMedicines alone are not usually enough to manage chronic pain. If you have chronic pain, your doctor may recommend other treatments , such as:\n\n- relaxation techniques , including meditation\n\n- physical activity or strengthening exercises\n\n- psychological therapies such as cognitive behavioural therapy (CBT) or mindfulness\n\nMost people benefit from a range of different treatments and self-management, including:\n\n- seeing a physiotherapist or exercise physiologist\n\n- activity pacing\n\n- exercise such as walking, swimming , cycling or tai chi\n\n- improving your sleep\n\n- eating a healthy diet\n\nTalk to your doctor about developing a plan for managing your chronic pain. Many people find it helpful to seek advice and support from a few different types of health professionals as part of the plan.\n\nYour doctor may also refer you to a pain management program at a pain clinic. This is available through most major public hospitals, and also privately.\n\n## Which medicines can help manage chronic pain?\n\nSome medicines can play a role in managing chronic pain. The type of medicine your doctor recommends depends on factors such as:\n\n- your medical history\n\n- the type and severity of your pain\n\n- your age\n\n- how the medicine is taken\n\nThere are different medicines that can be used to help with chronic pain.\n\n- Paracetamol — this very effective pain-relief medicine is sometimes taken along with other medicines. Do not take more than the daily dose listed on the package. Speak to your doctor if paracetamol is not managing your pain.\n\n- Non-steroidal anti-inflammatory drugs (NSAIDs) — medicines such as ibuprofen and diclofenac may help manage pain. Try to take them at the lowest possible dosage for the shortest possible time, as they can have serious side effects.\n\n- Antidepressants — some medicines that are used to treat depression, such as amitriptyline , are also sometimes prescribed by doctors to reduce nerve pain.\n\n- Anticonvulsant medicines — some medicines that are commonly used to treat epilepsy can also help manage nerve pain . They include pregabalin and gabapentin .\n\n- Opioids — strong pain-relief medicines, such as morphine , fentanyl , oxycodone or codeine , might be prescribed by your doctor for short periods of time.\n\nSometimes, medicines won't relieve all your pain symptoms. It's important to work with a health professional to identify a range of strategies you can use. This can reduce the way pain impacts your life.\n\n## Are opioid medicines recommended for chronic pain?\n\nOpioids are not usually recommended for most types of chronic pain. There is currently not enough evidence to show that opioids are safe or effective for treating chronic pain that is not caused by cancer.\n\nOpioid medicines are associated with serious short- and long-term side effects, including tolerance and dependence .\n\nLearn more about opioids .\n\nWORRIED ABOUT YOUR OPIOID USE? — The Opioid Risk Indicator can help you find out if you may be developing a problem.\n\n## Resources and support\n\nVisit Painaustralia to:\n\n- get information on chronic pain and pain management\n\n- find pain services and programs in your area\n\n- get support\n\nThe Pain Management Network has:\n\n- a Pain Link Helpline — call 1300 340 357\n\n- resources for Aboriginal and Torres Strait Islander people\n\n- resources in other languages\n\nVisit Chronic Pain Australia for support and information on chronic pain.\n\nVisit the Australian Pain Society for information, including resources for Aboriginal and Torres Strait Islander communities .\n\nYou can also call the healthdirect helpline on 1800 022 222 (known as NURSE-ON-CALL in Victoria). A registered nurse is available to speak with you 24 hours a day, 7 days a week.\n\n#### Source s :\n\nTherapeutic Guidelines (The transition from acute to chronic pain) , Therapeutic Guidelines (General principles of chronic pain management) , Therapeutic Guidelines (The role of opioids in chronic noncancer pain) , Australian Institute of Health and Welfare (Chronic pain in Australia) , NSW Health (Chronic pain management - information for medical practitioners) , BMJ Best Practice (Chronic pain syndromes)\n\nLearn more here about the development and quality assurance of healthdirect content .\n\nLast reviewed: March 2025\n\nBack To Top\n\n## Related pages\n\n- Options for managing chronic pain\n\n## Search our site for\n\n- Pain Management\n\n- Pain Relief\n\n- Pain relief drugs\n\n## Need more information?\n\nThese trusted information partners have more on this topic.\n\nGeneral search results\n\nResults for medical professionals\n\nTop results\n\n### Chronic Pain Management & Treatment\n\nChronic pain is pain that lasts beyond the expected healing period of tissue damage. Chronic pain is common. One in 5 people experience chronic pain.\n\nRead more on This Way Up website\n\n### Online Treatment Program for Chronic Pain | THIS WAY UP\n\nLearn practical strategies for managing chronic pain, and associated low mood and anxiety with our clinically-proven online program.\n\n### Chronic pain - Finding North\n\nLearn how chronic pain affects mental health, explore strategies and support options for managing pain and lifestyle changes\n\nRead more on Finding North website\n\n### 10 Important Messages for Those Living with Chronic Pain - Exercise Right\n\nAnyone living with chronic pain knows how debilitating it can be. It’s defined as pain that lasts for more than three months, or in many cases, beyond normal healing time. If you, or someone you know is living with chronic pain, here are some things you need to know… 1. All pain is real Pain […]\n\nRead more on ESSA website\n\n### Chronic Pain - Exercise Right\n\nWhile it may seem counterintuitive to exercise when you're in pain, the right type of exercise can make everyday activities easier.\n\n### Online Treatment for Chronic Pain | MindSpot\n\nThe Pain Course helps people manage chronic pain, offering excellent strategies and advice for supporting mental health alongside pain management.\n\nRead more on MindSpot Clinic website\n\n### Chronic Widespread Pain (CWPS) - young painHEALTH\n\nCondition · 8 min read · 21 Jun 2021 Learn about Chronic Widespread Pain and...\n\nRead more on youngpainhealth website\n\n### Managing chronic pain: A cognitive-behavioural therapy approach | Rheumatoid Arthritis (RA) support program - homepage | Arthritis Australia\n\n, MyRA is designed to help people with Rheumatoid Arthritis (RA) seize control and become active participants in their journey with RA\n\nRead more on Arthritis Australia website\n\n### Chronic pain in children - Arthritis Australia\n\nChronic pain – printable information sheet Quick links What is chronic pain? What causes chronic pain? What will happen to […]\n\n### Managing chronic pain | Osteoarthritis Arthritis (OA) support program - homepage | Osteoarthritis Australia\n\n, MyOA is designed to help people with Osteoarthritis Arthritis (OA) seize control and become active participants in their journey with OA\n\nShow more\n\n### Psychological therapies for the management of chronic pain (excluding headache) in adults - Williams, AC de C - 2020 | Cochrane Library\n\nRead more on Cochrane Australia website\n\n### Topical analgesics for acute and chronic pain in adults ‐ an overview of Cochrane Reviews - Derry, S - 2017 | Cochrane Library\n\n### Transcutaneous electrical nerve stimulation (TENS) for chronic pain ‐ an overview of Cochrane Reviews - Gibson, W - 2019 | Cochrane Library\n\n## Disclaimer\n\nHealthdirect Australia is not responsible for the content and advertising on the external website you are now entering.\n\nOK\n\n## Symptom checker\n\nWorried about your health?\n\nSelect a symptom, answer some questions, get advice\n\nStart Your Symptom Check\n\nservice category\n\n## Find a health service\n\n- Please enter a suburb or postcode of your location and select from the list.\n\n- Unable to find your location. Please enter manually below.\n\n- Location not found.\n\nGP (General practice) Pharmacy Emergency Departments Hospitals\n\nNeed more services?\n\nenter a location\n\n- {{prefLabel}}\n\nUse current location SEARCH\n\nCheck your symptoms Find a health service\n\n# Healthdirect 24hr 7 days a week hotline\n\n24 hour health advice you can count on\n\n1800 022 222\n\n# Government Accredited with over 140 information partners\n\nWe are a government-funded service, providing quality, approved health information and advice\n\n## About\n\n- How we can help\n\n- Our mobile app\n\n- Linking to us\n\n- Information partners\n\n- Register your service\n\n- Terms of use\n\n- Privacy\n\n- How we use AI\n\n- Contact us\n\n- About us\n\n## Discover\n\n- Blog\n\n- BMI calculator\n\n- Health apps\n\n- Question builder\n\n## Resources in your language\n\n- Arabic عربى\n\n- বাংলা Bengali\n\n- 简体中文 Chinese Simplified\n\n- 繁體中文 Chinese Traditional\n\n- Tiếng Việt Vietnamese\n\nHealthdirect Australia is dedicated to providing safe, effective and person-centred advice, supported by rigorous clinical governance and transparent quality and safety processes .\n\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\n\nHealthdirect Australia acknowledges the Traditional Owners of Country throughout Australia and their continuing connection to land, sea and community. We pay our respects to the Traditional Owners and to Elders both past and present.\n\n© 2026 Healthdirect Australia Limited\n\n## Support for this browser is being discontinued\n\nSupport for this browser is being discontinued for this site\n\n- Internet Explorer 11 and lower\n\nWe currently support Microsoft Edge, Chrome, Firefox and Safari. For more information, please visit the links below:\n\n- Chrome by Google\n\n- Firefox by Mozilla\n\n- Microsoft Edge\n\n- Safari by Apple\n\nYou are welcome to continue browsing this site with this browser. Some features, tools or interaction may not work correctly.\n\nContinue\n\n\n\n## Links found on page\n\n- https://www.healthdirect.gov.au/: https://www.healthdirect.gov.au/\n\n- Join: https://www.healthdirect.gov.au/account/join\n\n- Sign in: https://www.healthdirect.gov.au/account/signin\n\n- {{label}}: https://www.healthdirect.gov.au/search-results/{{url}}\n\n- Conditions: https://www.healthdirect.gov.au/health-topics/conditions\n\n- Gastroenteritis: https://www.healthdirect.gov.au/gastroenteritis\n\n- Skin Conditions: https://www.healthdirect.gov.au/skin-conditions\n\n- Whooping Cough: https://www.healthdirect.gov.au/whooping-cough\n\n- Symptoms: https://www.healthdirect.gov.au/health-topics/symptoms\n\n- Abdominal Pain: https://www.healthdirect.gov.au/abdominal-pain\n\n- Bites and Stings: https://www.healthdirect.gov.au/bites-and-stings\n\n- Diarrhoea: https://www.healthdirect.gov.au/diarrhoea\n\n- Procedures: https://www.healthdirect.gov.au/health-topics/procedures\n\n- Colonoscopy: https://www.healthdirect.gov.au/colonoscopy\n\n- Grommets: https://www.healthdirect.gov.au/grommets\n\n- Liposuction: https://www.healthdirect.gov.au/liposuction\n\n- Tubal ligation: https://www.healthdirect.gov.au/tubal-ligation\n\n- Life stages: https://www.healthdirect.gov.au/life-stages\n\n- Babies and toddlers: https://www.healthdirect.gov.au/babies-and-toddlers-health\n\n- Kids: https://www.healthdirect.gov.au/kids-health\n\n- Seniors: https://www.healthdirect.gov.au/seniors-health\n\n- All topics: https://www.healthdirect.gov.au/health-topics\n\n- A: https://www.healthdirect.gov.au/health-topics/A\n\n- B: https://www.healthdirect.gov.au/health-topics/B\n\n- C: https://www.healthdirect.gov.au/health-topics/C\n\n- D: https://www.healthdirect.gov.au/health-topics/D\n\n- E: https://www.healthdirect.gov.au/health-topics/E\n\n- F: https://www.healthdirect.gov.au/health-topics/F\n\n- G: https://www.healthdirect.gov.au/health-topics/G\n\n- H: https://www.healthdirect.gov.au/health-topics/H\n\n- I: https://www.healthdirect.gov.au/health-topics/I\n\n- J: https://www.healthdirect.gov.au/health-topics/J\n\n- K: https://www.healthdirect.gov.au/health-topics/K\n\n- L: https://www.healthdirect.gov.au/health-topics/L\n\n- M: https://www.healthdirect.gov.au/health-topics/M\n\n- N: https://www.healthdirect.gov.au/health-topics/N\n\n- O: https://www.healthdirect.gov.au/health-topics/O\n\n- P: https://www.healthdirect.gov.au/health-topics/P\n\n- Q: https://www.healthdirect.gov.au/health-topics/Q\n\n- R: https://www.healthdirect.gov.au/health-topics/R\n\n- S: https://www.healthdirect.gov.au/health-topics/S\n\n- T: https://www.healthdirect.gov.au/health-topics/T\n\n- U: https://www.healthdirect.gov.au/health-topics/U\n\n- V: https://www.healthdirect.gov.au/health-topics/V\n\n- W: https://www.healthdirect.gov.au/health-topics/W\n\n- X: https://www.healthdirect.gov.au/health-topics/X\n\n- Y: https://www.healthdirect.gov.au/health-topics/Y\n\n- Z: https://www.healthdirect.gov.au/health-topics/Z\n\n- Medicines: https://www.healthdirect.gov.au/medicines\n\n- Symptom checker: https://www.healthdirect.gov.au/symptom-checker\n\n- Service finder: https://www.healthdirect.gov.au/australian-health-services\n\n- Health topics A-Z: https://www.healthdirect.gov.au/chronic-pain\n\n- share via Facebook: https://www.facebook.com/sharer/sharer.php?u=https://www.healthdirect.gov.au/chronic-pain\n\n- Please enter your name: https://www.healthdirect.gov.au/chronic-pain#txtName\n\n- Please enter your email: https://www.healthdirect.gov.au/chronic-pain#txtFromEmail\n\n- Please enter recipient's email: https://www.healthdirect.gov.au/chronic-pain#txtToEmail\n\n- Agree to Terms required: https://www.healthdirect.gov.au/chronic-pain#chkTerms\n\n- Terms of Use: https://www.healthdirect.gov.au/terms-of-use\n\n- Privacy Policy: https://www.healthdirect.gov.au/privacy-policy\n\n- Listen: https://app-oc.readspeaker.com/cgi-bin/rsent?customerid=8207&lang=en_au&readid=mainContentArticleText&url=https://www.healthdirect.gov.au/chronic-pain\n\n- What is chronic pain?: https://www.healthdirect.gov.au/chronic-pain#what-is\n\n- What causes chronic pain?: https://www.healthdirect.gov.au/chronic-pain#causes\n\n- Living with chronic pain: https://www.healthdirect.gov.au/chronic-pain#living-with\n\n- What can I do to manage chronic pain?: https://www.healthdirect.gov.au/chronic-pain#manage\n\n- Which medicines can help manage chronic pain?: https://www.healthdirect.gov.au/chronic-pain#medicines\n\n- Are opioid medicines recommended for chronic pain?: https://www.healthdirect.gov.au/chronic-pain#opioid-medicines\n\n- Resources and support: https://www.healthdirect.gov.au/chronic-pain#resources\n\n- Related information on Australian websites: https://www.healthdirect.gov.au/chronic-pain#searchGeneralResults\n\n- nerves: https://www.healthdirect.gov.au/nervous-system\n\n- nerve pain: https://www.healthdirect.gov.au/nerve-pain\n\n- back pain: https://www.healthdirect.gov.au/back-pain\n\n- arthritis: https://www.healthdirect.gov.au/arthritis\n\n- endometriosis: https://www.healthdirect.gov.au/endometriosis\n\n- persistent pelvic pain: https://www.healthdirect.gov.au/persistent-pelvic-pain\n\n- migraine: https://www.healthdirect.gov.au/migraine\n\n- fibromyalgia: https://www.healthdirect.gov.au/fibromyalgia\n\n- diabetic neuropathy: https://www.healthdirect.gov.au/diabetic-neuropathy\n\n- surgery: https://www.healthdirect.gov.au/surgery/pain-relief-after-surgery\n\n- ASK YOUR DOCTOR — Preparing for an appointment? Use the Question Builder for general tips on what to ask your GP or specialist.: https://www.healthdirect.gov.au/question-builder\n\n- sleep: https://www.healthdirect.gov.au/sleep\n\n- anxiety: https://www.healthdirect.gov.au/anxiety\n\n- depression: https://www.healthdirect.gov.au/depression\n\n- other treatments: https://www.healthdirect.gov.au/options-for-managing-chronic-pain\n\n- relaxation techniques: https://www.healthdirect.gov.au/relaxation-techniques-for-stress-relief\n\n- meditation: https://www.healthdirect.gov.au/meditation\n\n- physical activity: https://www.healthdirect.gov.au/tips-for-getting-active\n\n- psychological therapies: https://www.healthdirect.gov.au/psychiatrists-and-psychologists\n\n- cognitive behavioural therapy (CBT): https://www.healthdirect.gov.au/cognitive-behaviour-therapy-cbt\n\n- mindfulness: https://www.healthdirect.gov.au/mindfulness\n\n- physiotherapist: https://www.healthdirect.gov.au/physiotherapy\n\n- exercise physiologist: https://www.healthdirect.gov.au/exercise-physiologist\n\n- activity pacing: https://aci.health.nsw.gov.au/__data/assets/pdf_file/0004/624721/Pacing-guide.pdf\n\n- exercise: https://www.healthdirect.gov.au/fitness-and-exercise\n\n- swimming: https://www.healthdirect.gov.au/health-benefits-of-swimming\n\n- cycling: https://www.healthdirect.gov.au/cycling-and-your-health\n\n- eating a healthy diet: https://www.healthdirect.gov.au/healthy-eating\n\n- https://www.healthdirect.gov.au/opioids: https://www.healthdirect.gov.au/opioids\n\n- refer you: https://www.healthdirect.gov.au/what-is-a-referral\n\n- Paracetamol: https://www.healthdirect.gov.au/paracetamol\n\n- Non-steroidal anti-inflammatory drugs (NSAIDs): https://www.healthdirect.gov.au/anti-inflammatory-medicines\n\n- ibuprofen: https://www.healthdirect.gov.au/ibuprofen\n\n- diclofenac: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20761/diclofenac\n\n- Antidepressants: https://www.healthdirect.gov.au/antidepressants\n\n- amitriptyline: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,20163/amitriptyline\n\n- epilepsy: https://www.healthdirect.gov.au/epilepsy\n\n- gabapentin: https://www.healthdirect.gov.au/medicines/medicinal-product/aht,21352/gabapentin\n\n- Opioids: https://www.healthdirect.gov.au/opioid-medicines\n\n- morphine: https://www.healthdirect.gov.au/morphine\n\n- fentanyl: https://www.healthdirect.gov.au/fentanyl\n\n- oxycodone: https://www.healthdirect.gov.au/oxycodone\n\n- codeine: https://www.healthdirect.gov.au/codeine\n\n- dependence: https://www.healthdirect.gov.au/medicines-and-addiction\n\n- WORRIED ABOUT YOUR OPIOID USE? — The Opioid Risk Indicator can help you find out if you may be developing a problem.: https://www.healthdirect.gov.au/opioid-risk-indicator\n\n- Painaustralia: https://www.painaustralia.org.au/\n\n- find pain services and programs in your area: https://www.painaustralia.org.au/pain-services-directory/pain-directory\n\n- support: https://www.painaustralia.org.au/find-support\n\n- Pain Management Network: https://aci.health.nsw.gov.au/chronic-pain/chronic-pain\n\n- resources for Aboriginal and Torres Strait Islander people: https://aci.health.nsw.gov.au/chronic-pain/our-mob\n\n- resources in other languages: https://aci.health.nsw.gov.au/chronic-pain/translated-resources\n\n- Chronic Pain Australia: https://chronicpainaustralia.org.au/\n\n- Australian Pain Society: https://www.apsoc.org.au/\n\n- Aboriginal and Torres Strait Islander communities: https://www.apsoc.org.au/Indigenous-Resources\n\n- healthdirect helpline: https://www.healthdirect.gov.au/how-healthdirect-can-help-you\n\n- (The transition from acute to chronic pain): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=transition-from-acute-to-chronic-pain&guidelinename=Pain%20and%20Analgesia&sectionId=toc_d1e204#toc_d1e204\n\n- (General principles of chronic pain management): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=general-principles-chronic-pain-management\n\n- (The role of opioids in chronic noncancer pain): https://tgldcdp.tg.org.au/viewTopic?etgAccess=true&guidelinePage=Pain%20and%20Analgesia&topicfile=role-analgesics-chronic-noncancer-pain&guidelinename=Pain%20and%20Analgesia&sectionId=toc_d1e654#toc_d1e654\n\n- (Chronic pain in Australia): https://www.aihw.gov.au/reports/chronic-disease/chronic-pain-in-australia/summary\n\n- (Chronic pain management - information for medical practitioners): https://www.health.nsw.gov.au/pharmaceutical/doctors/Pages/chronic-pain-medical-practitioners.aspx\n\n- (Chronic pain syndromes): https://bestpractice.bmj.com/topics/en-gb/694/patient-discussions\n\n- development and quality assurance of healthdirect content: https://www.healthdirect.gov.au/about-our-content\n\n- Back To Top: https://www.healthdirect.gov.au/chronic-pain#backToTop\n\n- Pain Management: https://www.healthdirect.gov.au/search-results/Pain Management\n\n- Pain Relief: https://www.healthdirect.gov.au/search-results/Pain Relief\n\n- Pain relief drugs: https://www.healthdirect.gov.au/search-results/Pain relief drugs\n\n- Chronic Pain Management & Treatment Chronic pain is pain that lasts beyond the expected healing period of tissue damage. Chronic pain is common. One in 5 people experience chronic pain. Read more on This Way Up website: https://thiswayup.org.au/chronic-pain-explained\n\n- Online Treatment Program for Chronic Pain | THIS WAY UP Learn practical strategies for managing chronic pain, and associated low mood and anxiety with our clinically-proven online program. Read more on This Way Up website: https://thiswayup.org.au/what-we-treat/chronic-pain\n\n- Chronic pain - Finding North Learn how chronic pain affects mental health, explore strategies and support options for managing pain and lifestyle changes Read more on Finding North website: https://findingnorth.org.au/mental-health-wellness/health-wellness/chronic-pain/\n\n- 10 Important Messages for Those Living with Chronic Pain - Exercise Right Anyone living with chronic pain knows how debilitating it can be. It’s defined as pain that lasts for more than three months, or in many cases, beyond normal healing time. If you, or someone you know is living with chronic pain, here are some things you need to know… 1. All pain is real Pain […] Read more on ESSA website: https://exerciseright.com.au/articles/10-important-messages-for-those-with-chronic-pain/\n\n- Chronic Pain - Exercise Right While it may seem counterintuitive to exercise when you're in pain, the right type of exercise can make everyday activities easier. Read more on ESSA website: https://exerciseright.com.au/chronic-pain/\n\n- Online Treatment for Chronic Pain | MindSpot The Pain Course helps people manage chronic pain, offering excellent strategies and advice for supporting mental health alongside pain management. Read more on MindSpot Clinic website: https://www.mindspot.org.au/treatments/pain-course\n\n- Chronic Widespread Pain (CWPS) - young painHEALTH Condition · 8 min read · 21 Jun 2021 Learn about Chronic Widespread Pain and... Read more on youngpainhealth website: https://youngpainhealth.com.au/pain-conditions/chronic-widespread-pain/\n\n- Managing chronic pain: A cognitive-behavioural therapy approach | Rheumatoid Arthritis (RA) support program - homepage | Arthritis Australia , MyRA is designed to help people with Rheumatoid Arthritis (RA) seize control and become active participants in their journey with RA Read more on Arthritis Australia website: https://myra.org.au/article/tests-treatments-psychological-therapy/managing-chronic-pain-cognitive-behavioural-therapy\n\n- Chronic pain in children - Arthritis Australia Chronic pain – printable information sheet Quick links What is chronic pain? What causes chronic pain? What will happen to […] Read more on Arthritis Australia website: https://arthritisaustralia.org.au/understanding-arthritis/my-community/children-young-adults/chronic-pain/\n\n- Managing chronic pain | Osteoarthritis Arthritis (OA) support program - homepage | Osteoarthritis Australia , MyOA is designed to help people with Osteoarthritis Arthritis (OA) seize control and become active participants in their journey with OA Read more on Arthritis Australia website: https://myoa.org.au/video/managing-pain-managing-pain/managing-chronic-pain\n\n- Psychological therapies for the management of chronic pain (excluding headache) in adults - Williams, AC de C - 2020 | Cochrane Library Read more on Cochrane Australia website: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007407.pub4/full\n\n- Topical analgesics for acute and chronic pain in adults ‐ an overview of Cochrane Reviews - Derry, S - 2017 | Cochrane Library Read more on Cochrane Australia website: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD008609.pub2/full\n\n- Transcutaneous electrical nerve stimulation (TENS) for chronic pain ‐ an overview of Cochrane Reviews - Gibson, W - 2019 | Cochrane Library Read more on Cochrane Australia website: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011890.pub3/full\n\n- Start Your Symptom Check: https://www.healthdirect.gov.au/symptom-checker?language=en\n\n- Check your symptoms: https://www.healthdirect.gov.au/symptom-checker/tool?symptom=GNRC\n\n- https://www.health.gov.au/: https://www.health.gov.au/\n\n- https://www.health.act.gov.au/: https://www.health.act.gov.au/\n\n- https://www.health.nsw.gov.au/: https://www.health.nsw.gov.au/\n\n- https://health.nt.gov.au/: https://health.nt.gov.au/\n\n- https://www.health.qld.gov.au/: https://www.health.qld.gov.au/\n\n- https://www.sahealth.sa.gov.au/: https://www.sahealth.sa.gov.au/\n\n- https://www.health.tas.gov.au/: https://www.health.tas.gov.au/\n\n- https://www2.health.vic.gov.au/: https://www2.health.vic.gov.au/\n\n- https://ww2.health.wa.gov.au/: https://ww2.health.wa.gov.au/\n\n- Our mobile app: https://www.healthdirect.gov.au/health-app\n\n- Linking to us: https://about.healthdirect.gov.au/linking-to-us\n\n- Information partners: https://www.healthdirect.gov.au/information-partners\n\n- Register your service: https://www.healthdirect.gov.au/register-with-nhsd\n\n- How we use AI: https://www.healthdirect.gov.au/artificial-intelligence-transparency-statement\n\n- Contact us: https://www.healthdirect.gov.au/contact-us\n\n- About us: https://about.healthdirect.gov.au/\n\n- Blog: https://www.healthdirect.gov.au/blog\n\n- BMI calculator: https://www.healthdirect.gov.au/bmi-calculator\n\n- Health apps: https://www.healthdirect.gov.au/health-and-wellbeing-apps\n\n- Arabic عربى: https://www.healthdirect.gov.au/ar/resources-in-arabic\n\n- বাংলা Bengali: https://www.healthdirect.gov.au/bn/resources-in-bengali\n\n- 简体中文 Chinese Simplified: https://www.healthdirect.gov.au/zh-hans/resources-in-chinese-simplified\n\n- 繁體中文 Chinese Traditional: https://www.healthdirect.gov.au/zh-hant/resources-in-chinese-traditional\n\n- Tiếng Việt Vietnamese: https://www.healthdirect.gov.au/vi/resources-in-vietnamese\n\n- https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8: https://itunes.apple.com/au/app/healthdirect-check-symptoms/id1021494621?ls=1&mt=8\n\n- https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp: https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp\n\n- https://www.facebook.com/healthdirectaus/: https://www.facebook.com/healthdirectaus/\n\n- https://www.instagram.com/healthdirectaus: https://www.instagram.com/healthdirectaus\n\n- https://www.linkedin.com/company/healthdirect-australia: https://www.linkedin.com/company/healthdirect-australia\n\n- clinical governance: https://about.healthdirect.gov.au/end-to-end-service-delivery\n\n- quality and safety processes: https://www.healthdirect.gov.au/quality-and-safety-of-healthdirects-triage-service-statement\n\n- Privacy Policy: https://policies.google.com/privacy\n\n- Terms of Service: https://policies.google.com/terms\n\n- Chrome by Google: https://www.google.com.au/chrome/\n\n- Firefox by Mozilla: https://www.mozilla.org/en-US/firefox/new\n\n- Microsoft Edge: https://www.microsoft.com/en-us/edge\n\n- Safari by Apple: https://support.apple.com/en_AU/downloads/safari"
+}
