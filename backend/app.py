@@ -95,6 +95,19 @@ def find_image_for_query(query: str) -> str:
             return path
     return ""
 
+VISUAL_RESOURCE_TERMS = {
+    "aac", "bed", "beds", "chair", "chairs", "commode", "commodes", "cough",
+    "cushion", "device", "devices", "equipment", "hoist", "hoists", "lift",
+    "lifter", "mobility", "mount", "nebuliser", "niv", "peg", "ramp", "rollator",
+    "scooter", "shower", "sling", "toilet", "transfer", "ventilator", "walker",
+    "wheelchair", "wheelchairs",
+}
+
+def should_include_resource_images(query: str) -> bool:
+    words = set(re.findall(r"[a-z0-9]+", str(query).lower()))
+    joined = " ".join(words)
+    return bool(words & VISUAL_RESOURCE_TERMS) or "cough assist" in joined or "eye gaze" in joined
+
 os.makedirs(STATIC_DIR, exist_ok=True)
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
@@ -137,6 +150,45 @@ GREETING_RESPONSES = [
     "Hi! 👋 Great to see you! Whether it's NDIS funding, FlexEquip loans, breathing aids, or carer support — I'm here for you. What's on your mind?",
     "G'day mate! 🦘 I'm all good — thanks for checking in! How can I support you, your family, or your care team today?",
 ]
+
+ALLOWED_PROFILE_GENDERS = {"Male", "Female", "Non-binary", "Other"}
+ALLOWED_PROFILE_ROLES = {
+    "Disability Support Worker",
+    "Carer",
+    "Physiotherapist",
+    "Occupational Therapist",
+    "Client/Participant",
+    "Other",
+}
+ALLOWED_PROFILE_LOCATIONS = {"NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"}
+
+def build_user_profile_system_prompt(profile: dict | None) -> str | None:
+    if not isinstance(profile, dict):
+        return None
+
+    try:
+        age = int(profile.get("age"))
+    except (TypeError, ValueError):
+        return None
+
+    gender = str(profile.get("gender", "")).strip()
+    role = str(profile.get("role", "")).strip()
+    location = str(profile.get("location", "")).strip().upper()
+
+    if age < 1 or age > 120:
+        return None
+    if gender not in ALLOWED_PROFILE_GENDERS:
+        return None
+    if role not in ALLOWED_PROFILE_ROLES:
+        return None
+    if location not in ALLOWED_PROFILE_LOCATIONS:
+        return None
+
+    return (
+        f"The user is a {age} year old {gender}, with the role {role}, "
+        f"based in {location}, Australia. Tailor your legal, medical, and "
+        "practical advice strictly to their jurisdiction and professional scope."
+    )
 
 SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super friendly, playful, engaging, and deeply supportive AI buddy here to help people living with Motor Neurone Disease (MND/ALS), their awesome carers, families, and healthcare teams across Australia!
 
@@ -199,11 +251,10 @@ async def search_endpoint(payload: dict):
     docs = indexer.search_documents(query, state=state, top_k=5)
     entities = indexer.search_entities(query, state=state, top_k=4)
     
-    # Attach images if found
-    for ent in entities:
-        ent["image_url"] = find_image_for_query(ent.get("name", ""))
-    for doc in docs:
-        doc["image_url"] = find_image_for_query(doc.get("source_title", ""))
+    # Attach images only when the user is clearly asking about visual equipment/resources.
+    if should_include_resource_images(query):
+        for ent in entities:
+            ent["image_url"] = find_image_for_query(ent.get("name", ""))
         
     return {
         "documents": docs,
@@ -229,6 +280,7 @@ async def chat_endpoint(request: Request):
     message = data.get("message", "").strip()
     state = data.get("state", "National")
     history = data.get("history", []) # List of {"role": "user"|"assistant", "content": str}
+    profile_prompt = build_user_profile_system_prompt(data.get("profile"))
     
     # Backend environment API key takes precedence
     api_key = DEEPSEEK_API_KEY or data.get("api_key", "").strip()
@@ -271,11 +323,11 @@ async def chat_endpoint(request: Request):
     docs = indexer.search_documents(message, state=state, top_k=5)
     entities = indexer.search_entities(message, state=state, top_k=4)
 
-    # Attach images if found
-    for ent in entities:
-        ent["image_url"] = find_image_for_query(ent.get("name", ""))
-    for doc in docs:
-        doc["image_url"] = find_image_for_query(doc.get("source_title", ""))
+    # Attach images only when the user is clearly asking about visual equipment/resources.
+    include_resource_images = should_include_resource_images(message)
+    if include_resource_images:
+        for ent in entities:
+            ent["image_url"] = find_image_for_query(ent.get("name", ""))
 
     # Format context block
     context_items = []
@@ -298,6 +350,8 @@ async def chat_endpoint(request: Request):
 
     context_block = "\n\n".join(context_items)
     system_prompt = SYSTEM_PROMPT_TEMPLATE.format(selected_state=state, context_block=context_block)
+    if profile_prompt:
+        system_prompt = f"{profile_prompt}\n\n{system_prompt}"
 
     emergency_banner = ""
     if is_emergency:
@@ -329,7 +383,15 @@ async def chat_endpoint(request: Request):
                         r = "user" if item["role"] == "user" else "assistant"
                         api_messages.append({"role": r, "content": str(item["content"])[:1000]})
             
-            user_prompt_with_state = f"[Target Region: {state}]\nQuery: {message}"
+            user_prompt_parts = [f"[Target Region: {state}]"]
+            if profile_prompt:
+                user_prompt_parts.append(f"[Saved User Profile: {profile_prompt}]")
+                user_prompt_parts.append(
+                    "Use the saved profile visibly: frame the answer for this user's role, "
+                    "jurisdiction, and practical responsibilities."
+                )
+            user_prompt_parts.append(f"Query: {message}")
+            user_prompt_with_state = "\n".join(user_prompt_parts)
             api_messages.append({"role": "user", "content": user_prompt_with_state})
 
             payload = {
@@ -384,6 +446,8 @@ async def chat_endpoint(request: Request):
             response_text = f"### G'day! ✨ Here is what we found for: \"{message}\"\n\n"
             if state and state != "National":
                 response_text += f"🌟 *Tailored specifically for our friends in **{state}**!*\n\n"
+            if profile_prompt:
+                response_text += f"**Profile context used:** {profile_prompt}\n\n"
 
             if entities:
                 response_text += "#### 🚀 Awesome Services & Equipment Pathways:\n"

@@ -150,7 +150,22 @@ class MNDIndexer:
                 matched.append((score, ent))
 
         matched.sort(key=lambda x: x[0], reverse=True)
-        return [item[1] for item in matched if item[0] > 0][:top_k]
+        results = []
+        seen = set()
+        for score, ent in matched:
+            if score <= 0:
+                continue
+            key = (
+                str(ent.get("name", "")).strip().lower(),
+                str(ent.get("website") or ent.get("source_url") or ent.get("product_url") or "").strip().lower(),
+            )
+            if key in seen:
+                continue
+            seen.add(key)
+            results.append(ent)
+            if len(results) >= top_k:
+                break
+        return results
 
     def search_documents(self, query, state=None, category=None, top_k=5):
         """Search text chunks using TF-IDF cosine similarity + state filtering boost"""
@@ -170,15 +185,26 @@ class MNDIndexer:
         top_indices = np.argsort(similarities)[::-1][:top_k*3]
         results = []
         seen_urls = set()
+        seen_texts = set()
+        seen_title_urls = set()
 
         for idx in top_indices:
             score = float(similarities[idx])
             if score <= 0: continue
             doc = self.documents[idx]
             url = doc.get("url", "")
-            if url in seen_urls and len(results) >= 2:
+            title = str(doc.get("source_title", "")).strip().lower()
+            text_key = re.sub(r"\s+", " ", str(doc.get("text", "")).strip().lower())
+            title_url_key = (title, str(url).strip().lower())
+            if text_key and text_key in seen_texts:
+                continue
+            if title_url_key in seen_title_urls:
+                continue
+            if url in seen_urls:
                 continue
             seen_urls.add(url)
+            seen_texts.add(text_key)
+            seen_title_urls.add(title_url_key)
             doc_copy = dict(doc)
             doc_copy["relevance_score"] = round(score, 4)
             results.append(doc_copy)

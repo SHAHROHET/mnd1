@@ -7,6 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const stateSelect = document.getElementById("stateSelect");
     const apiStatusBadge = document.getElementById("apiStatusBadge");
     
+    const themeToggleBtn = document.getElementById("themeToggleBtn");
+    const themeLbl = document.getElementById("themeLbl");
     const fontToggleBtn = document.getElementById("fontToggleBtn");
     const fontLbl = document.getElementById("fontLbl");
     
@@ -15,8 +17,30 @@ document.addEventListener("DOMContentLoaded", () => {
     const sidebar = document.getElementById("sidebar");
     const sidebarOverlay = document.getElementById("sidebarOverlay");
     const conversationsList = document.getElementById("conversationsList");
+    const openProfileBtn = document.getElementById("openProfileBtn");
+    const profileModal = document.getElementById("profileModal");
+    const closeProfileBtn = document.getElementById("closeProfileBtn");
+    const profileForm = document.getElementById("profileForm");
+    const clearProfileBtn = document.getElementById("clearProfileBtn");
+    const profileAge = document.getElementById("profileAge");
+    const profileGender = document.getElementById("profileGender");
+    const profileRole = document.getElementById("profileRole");
+    const profileLocation = document.getElementById("profileLocation");
+    const docCountStat = document.getElementById("docCountStat");
+    const entityCountStat = document.getElementById("entityCountStat");
 
     let clientImageMap = {};
+    const PROFILE_STORAGE_KEY = "mnd_user_profile";
+
+    function escapeHtml(value) {
+        return String(value || "").replace(/[&<>"']/g, char => ({
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            "\"": "&quot;",
+            "'": "&#39;"
+        }[char]));
+    }
 
     function findImageInClientMap(query) {
         if (!query) return "";
@@ -75,11 +99,12 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         
         const matched = findImageInClientMap(queryKey) || findImageInClientMap(text);
-        if (matched) {
-            finalSrc = matched;
+        if (!matched) {
+            return text ? `<span class="image-placeholder">${escapeHtml(text)}</span>` : "";
         }
+        finalSrc = matched;
         
-        return `<img src="${finalSrc}" alt="${text || 'Care Image'}" class="care-message-img" title="${title || text}">`;
+        return `<img src="${finalSrc}" alt="${escapeHtml(text || 'Care Image')}" class="care-message-img" title="${escapeHtml(title || text)}">`;
     };
     
     marked.use({ renderer });
@@ -279,15 +304,96 @@ document.addEventListener("DOMContentLoaded", () => {
     // Load saved settings
     let savedState = localStorage.getItem("mnd_state") || "National";
     let isLargeFont = localStorage.getItem("mnd_large_font") === "true";
+    let currentTheme = localStorage.getItem("mnd_theme") || "dark";
 
     stateSelect.value = savedState;
+    applyTheme(currentTheme);
     if (isLargeFont) applyFontMode(true);
+
+    function readUserProfile() {
+        try {
+            const stored = JSON.parse(localStorage.getItem(PROFILE_STORAGE_KEY) || "null");
+            if (!stored || typeof stored !== "object") return null;
+
+            const profile = {
+                age: Number.parseInt(stored.age, 10) || null,
+                gender: stored.gender || "",
+                role: stored.role || "",
+                location: stored.location || ""
+            };
+
+            if (!profile.age && !profile.gender && !profile.role && !profile.location) {
+                return null;
+            }
+
+            return profile;
+        } catch (err) {
+            console.warn("Could not read saved profile:", err);
+            return null;
+        }
+    }
+
+    function populateProfileForm() {
+        const profile = readUserProfile() || {};
+        if (profileAge) profileAge.value = profile.age || "";
+        if (profileGender) profileGender.value = profile.gender || "";
+        if (profileRole) profileRole.value = profile.role || "";
+        if (profileLocation) profileLocation.value = profile.location || "";
+    }
+
+    function closeProfileModal() {
+        profileModal?.classList.remove("active");
+    }
+
+    openProfileBtn?.addEventListener("click", () => {
+        populateProfileForm();
+        profileModal?.classList.add("active");
+    });
+
+    closeProfileBtn?.addEventListener("click", closeProfileModal);
+    profileModal?.addEventListener("click", (e) => {
+        if (e.target === profileModal) closeProfileModal();
+    });
+
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && profileModal?.classList.contains("active")) {
+            closeProfileModal();
+        }
+    });
+
+    profileForm?.addEventListener("submit", (e) => {
+        e.preventDefault();
+        const profile = {
+            age: Number.parseInt(profileAge?.value, 10) || null,
+            gender: profileGender?.value || "",
+            role: profileRole?.value || "",
+            location: profileLocation?.value || ""
+        };
+
+        localStorage.setItem(PROFILE_STORAGE_KEY, JSON.stringify(profile));
+        if (profile.location) {
+            stateSelect.value = profile.location;
+            localStorage.setItem("mnd_state", profile.location);
+            if (currentConvId && conversations[currentConvId]) {
+                conversations[currentConvId].state = profile.location;
+                saveConversations();
+            }
+        }
+        closeProfileModal();
+    });
+
+    clearProfileBtn?.addEventListener("click", () => {
+        localStorage.removeItem(PROFILE_STORAGE_KEY);
+        populateProfileForm();
+        closeProfileModal();
+    });
 
     // Fetch backend status and image map on startup
     fetch("/api/stats")
         .then(res => res.json())
         .then(data => {
             updateBadgeStatus(data.has_api_key);
+            updateStats(data);
         })
         .catch(err => updateBadgeStatus(false));
 
@@ -326,11 +432,32 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     // Font Toggle
-    fontToggleBtn.addEventListener("click", () => {
+    themeToggleBtn?.addEventListener("click", () => {
+        currentTheme = currentTheme === "dark" ? "light" : "dark";
+        localStorage.setItem("mnd_theme", currentTheme);
+        applyTheme(currentTheme);
+    });
+
+    fontToggleBtn?.addEventListener("click", () => {
         isLargeFont = !isLargeFont;
         localStorage.setItem("mnd_large_font", isLargeFont);
         applyFontMode(isLargeFont);
     });
+
+    function applyTheme(theme) {
+        const isLight = theme === "light";
+        document.body.classList.toggle("theme-light", isLight);
+        document.body.classList.toggle("theme-dark", !isLight);
+
+        if (themeLbl) {
+            themeLbl.textContent = isLight ? "Dark Mode" : "Light Mode";
+        }
+
+        const icon = themeToggleBtn?.querySelector("i");
+        if (icon) {
+            icon.className = isLight ? "fa-solid fa-sun" : "fa-solid fa-moon";
+        }
+    }
 
     function applyFontMode(enable) {
         if (enable) {
@@ -353,6 +480,15 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             apiStatusBadge.classList.remove("active");
             apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Local Guide Active`;
+        }
+    }
+
+    function updateStats(data) {
+        if (docCountStat && Number.isFinite(data?.total_documents)) {
+            docCountStat.textContent = data.total_documents.toLocaleString();
+        }
+        if (entityCountStat && Number.isFinite(data?.total_entities)) {
+            entityCountStat.textContent = data.total_entities.toLocaleString();
         }
     }
 
@@ -455,7 +591,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 body: JSON.stringify({
                     message: text,
                     state: stateSelect.value,
-                    history: chatHistory
+                    history: chatHistory,
+                    profile: readUserProfile()
                 })
             });
 
