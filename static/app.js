@@ -85,18 +85,18 @@ document.addEventListener("DOMContentLoaded", () => {
     marked.use({ renderer });
 
     // Smart Scroll & Manual Scroll Detection
-    let isUserScrolledUp = false;
+    let isUserAtBottom = true;
     let chatHistory = []; // Stores conversation turn history [{role, content}] for RAG API payload
     let isStreaming = false; // Concurrency guard — prevents overlapping requests
     const scrollToBottomBtn = document.getElementById("scrollToBottomBtn");
 
     chatMessages.addEventListener("scroll", () => {
-        const threshold = 120; // px threshold from bottom
+        const threshold = 100; // px threshold from bottom
         const distanceFromBottom = chatMessages.scrollHeight - chatMessages.scrollTop - chatMessages.clientHeight;
-        isUserScrolledUp = distanceFromBottom > threshold;
+        isUserAtBottom = distanceFromBottom <= threshold;
 
         if (scrollToBottomBtn) {
-            if (isUserScrolledUp) {
+            if (!isUserAtBottom) {
                 scrollToBottomBtn.classList.add("visible");
             } else {
                 scrollToBottomBtn.classList.remove("visible");
@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     scrollToBottomBtn?.addEventListener("click", () => {
-        isUserScrolledUp = false;
+        isUserAtBottom = true;
         chatMessages.scrollTo({ top: chatMessages.scrollHeight, behavior: "smooth" });
         scrollToBottomBtn.classList.remove("visible");
     });
@@ -404,7 +404,7 @@ document.addEventListener("DOMContentLoaded", () => {
         userMessage.setAttribute("disabled", "true");
 
         // Reset scroll override on new message
-        isUserScrolledUp = false;
+        isUserAtBottom = true;
         if (scrollToBottomBtn) scrollToBottomBtn.classList.remove("visible");
 
         // Hide welcome card if present
@@ -493,8 +493,8 @@ document.addEventListener("DOMContentLoaded", () => {
                                     contentDiv.textContent = fullContent;
                                 }
                                 
-                                // Smart scroll: Only auto-scroll if user has NOT manually scrolled up
-                                if (!isUserScrolledUp) {
+                                // Smart scroll: Only auto-scroll if user is currently at bottom
+                                if (isUserAtBottom) {
                                     chatMessages.scrollTop = chatMessages.scrollHeight;
                                 }
                             }
@@ -549,7 +549,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     deck.innerHTML = deckHtml;
                     contentDiv.appendChild(deck);
                     
-                    if (!isUserScrolledUp) {
+                    if (isUserAtBottom) {
                         chatMessages.scrollTop = chatMessages.scrollHeight;
                     }
                 }
@@ -558,7 +558,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 injectCodeCopyButtons(contentDiv);
 
                 // Smoothly scroll back to the start of the user's question so both question & answer are visible
-                if (!isUserScrolledUp) {
+                if (isUserAtBottom) {
                     const userRow = assistantRow.previousElementSibling;
                     const targetScrollTop = userRow ? userRow.offsetTop - 16 : assistantRow.offsetTop - 16;
                     setTimeout(() => {
@@ -584,7 +584,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function appendMessage(role, text, timestamp, entities) {
         const row = createMessageRow(role, text, timestamp, entities);
         chatMessages.appendChild(row);
-        if (!isUserScrolledUp) {
+        if (isUserAtBottom) {
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     }
