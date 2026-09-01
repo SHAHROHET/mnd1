@@ -214,6 +214,7 @@ SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super
 - **Accurate & Empowering:** Keep all NDIS funding, equipment loan libraries (like FlexEquip or SWEP), clinical care tips, and state guidelines 100% accurate, but explain them in an encouraging, upbeat, and accessible way!
 - **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product! Do NOT modify the image_url path or prepend any domain name (e.g., do not add 'https://flexequip.com.au' or similar). Use the exact relative path provided.
 - **Brevity for Small Talk:** If the user engages in casual small talk or greetings (e.g. "how are you?", "thanks", "good morning"), respond warmly but strictly limit your response to 1-2 short sentences. Do NOT offer long explanations, source lists, or equipment recommendations unless specifically asked.
+- **User Identity Questions:** If the user asks about their identity (e.g., "who am I?", "what is my role?"), refer to their saved user profile if one was provided above. If no saved profile is present, warmly explain that they haven't configured their profile yet and invite them to click **My Profile** in the bottom left sidebar to set their role (e.g., Carer, Physiotherapist, Participant) and state location!
 
 🎯 MANDATORY REGIONAL INSTRUCTION FOR USER LOCATION:
 The user has specifically selected the target state/region: **{selected_state}**.
@@ -333,6 +334,24 @@ async def chat_endpoint(request: Request):
             yield "data: [DONE]\n\n"
         return StreamingResponse(greeting_stream(), media_type="text/event-stream")
 
+    # Fast-path for user identity & assistant identity questions
+    if re.match(r'^(who am i|who am i\?|who is this|what is my role|what is my profile|my profile)$', clean_msg):
+        async def identity_stream():
+            if profile_prompt:
+                reply = f"G'day! 😊 Based on your saved profile:\n\n{profile_prompt}\n\nAsk me anything about MND equipment, NDIS pathways, symptom support, or local services tailored for your role!"
+            else:
+                reply = "You haven't set up a personal profile yet! 😊\n\nYou can click **My Profile** in the bottom left of the sidebar to save your age, role (such as Carer, OT, Physiotherapist, or Person living with MND), and Australian state location so I can personalize all my answers for you!"
+            yield f"data: {json.dumps({'content': reply})}\n\n"
+            yield "data: [DONE]\n\n"
+        return StreamingResponse(identity_stream(), media_type="text/event-stream")
+
+    if re.match(r'^(who are you|who are you\?|what are you|what can you do|what do you do|help me|about you)$', clean_msg):
+        async def bot_identity_stream():
+            reply = "G'day! 👋 I'm your **Australian MND/ALS Care Assistant** — an AI companion designed to help people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia.\n\nI can help you with:\n- ♿ **Assistive Equipment & Technology:** FlexEquip, SWEP, MASS, and EnableNSW loan programs\n- 📑 **NDIS & Carer Support:** Planning, funding categories, and Centrelink payments\n- 🫁 **Symptom Management:** Breathing support, cough assist, speech/voice banking, and swallowing guidance\n- 🤝 **Local Care Pathways:** MND Association advisors across NSW, VIC, QLD, WA, SA, TAS, and ACT/NT!"
+            yield f"data: {json.dumps({'content': reply})}\n\n"
+            yield "data: [DONE]\n\n"
+        return StreamingResponse(bot_identity_stream(), media_type="text/event-stream")
+
     is_emergency = check_emergency(message)
 
     # Sanitize and validate conversation history
@@ -373,7 +392,8 @@ async def chat_endpoint(request: Request):
     if entities:
         context_items.append(f"=== STRUCTURED ENTITY & DIRECTORY RECORDS (FILTERED FOR {state.upper()}) ===")
         for ent in entities:
-            ent_str = f"• Name: {ent.get('name')}\n  Category: {ent.get('category')}\n  State: {ent.get('state')}\n  Description: {ent.get('description')}\n  Eligibility/Notes: {ent.get('eligibility', '') or ent.get('funding_notes', '')}\n  Website/URL: {ent.get('website', '') or ent.get('source_url', '') or ent.get('product_url', '')}"
+            ent_url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url') or ''
+            ent_str = f"• Name: {ent.get('name')}\n  Category: {ent.get('category')}\n  State: {ent.get('state')}\n  Description: {ent.get('description')}\n  Eligibility/Notes: {ent.get('eligibility', '') or ent.get('funding_notes', '')}\n  Website/URL: {ent_url}"
             if ent.get("image_url"):
                 ent_str += f"\n  Image URL: {ent.get('image_url')}"
             context_items.append(ent_str)
@@ -491,7 +511,7 @@ async def chat_endpoint(request: Request):
             if entities:
                 response_text += "#### 🚀 Awesome Services & Equipment Pathways:\n"
                 for ent in entities:
-                    url = ent.get('website') or ent.get('source_url') or ent.get('product_url') or '#'
+                    url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url') or '#'
                     response_text += f"- **[{ent.get('name')}]({url})** ✨ ({ent.get('category', '').replace('_', ' ').title()})\n  {ent.get('description')}\n"
                     if ent.get('eligibility'):
                         response_text += f"  *Who's eligible:* {ent.get('eligibility')}\n"
@@ -513,7 +533,7 @@ async def chat_endpoint(request: Request):
             seen_urls = set()
             if entities:
                 for ent in entities:
-                    url = ent.get('website') or ent.get('source_url') or ent.get('product_url')
+                    url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url')
                     name = ent.get('name')
                     if url and url not in seen_urls and url != '#':
                         seen_urls.add(url)

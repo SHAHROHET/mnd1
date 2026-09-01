@@ -23,9 +23,17 @@ STATE_SYNONYMS = {
 }
 
 ENTITY_QUERY_STOPWORDS = {
-    "a", "about", "and", "are", "can", "do", "for", "gday", "hello", "help",
-    "hey", "hi", "how", "mate", "please", "sup", "thanks", "the", "there",
-    "up", "what", "whats", "you", "your",
+    "a", "about", "all", "also", "am", "an", "and", "any", "are", "as", "at",
+    "be", "been", "being", "but", "by", "can", "could", "did", "do", "does",
+    "doing", "for", "from", "gday", "get", "give", "had", "has", "have", "he",
+    "hello", "help", "her", "here", "hers", "hey", "hi", "him", "his", "how",
+    "i", "if", "in", "into", "is", "it", "its", "just", "know", "like", "mate",
+    "me", "more", "my", "myself", "no", "not", "of", "off", "on", "once", "one",
+    "or", "other", "our", "ours", "out", "please", "see", "she", "should", "show",
+    "so", "some", "such", "sup", "tell", "than", "that", "the", "their", "them",
+    "then", "there", "these", "they", "this", "those", "through", "to", "too",
+    "up", "was", "we", "were", "what", "whats", "when", "where", "which", "while",
+    "who", "whom", "whose", "why", "will", "with", "would", "you", "your", "yours",
 }
 
 def is_state_match(target_state, item_state):
@@ -62,50 +70,36 @@ class MNDIndexer:
         
     def build_index(self):
         print("Starting indexing of MND dataset...", flush=True)
-        doc_files = sorted(glob.glob(os.path.join(METADATA_DIR, "*_documents.jsonl")))
-        rec_files = sorted([
-            f for f in self._metadata_files()
-            if not f.endswith("_sources.jsonl") and not f.endswith("_documents.jsonl")
-        ])
-        metadata_signature = self._metadata_signature()
-        
-        # 1. Load document chunks
         self.documents = []
-        for df in doc_files:
-            cat_name = os.path.basename(df).replace("_documents.jsonl", "")
-            with open(df, "r", encoding="utf-8") as f:
-                for line in f:
-                    if not line.strip(): continue
-                    try:
-                        data = json.loads(line)
-                        data["category_id"] = cat_name
-                        self.documents.append(data)
-                    except Exception:
-                        pass
-        print(f"Loaded {len(self.documents)} document chunks.", flush=True)
-
-        # 2. Load structured entity records
         self.entities = []
-        for rf in rec_files:
-            cat_name = os.path.basename(rf)
-            with open(rf, "r", encoding="utf-8") as f:
+
+        # 1. Load document chunks and structured entities from data/metadata
+        for fpath in self._metadata_files():
+            fname = os.path.basename(fpath)
+            with open(fpath, "r", encoding="utf-8") as f:
                 for line in f:
-                    if not line.strip(): continue
+                    line_str = line.strip()
+                    if not line_str: continue
                     try:
-                        data = json.loads(line)
-                        data["file_source"] = cat_name
-                        self.entities.append(data)
-                    except Exception:
-                        pass
+                        record = json.loads(line_str)
+                        record["file_source"] = fname
+                        
+                        # Structured entity vs document chunk
+                        if "name" in record and "category" in record:
+                            self.entities.append(record)
+                        elif "text" in record or "chunk" in record:
+                            text_val = record.get("text") or record.get("chunk") or ""
+                            record["text"] = text_val
+                            self.documents.append(record)
+                    except json.JSONDecodeError:
+                        continue
+
+        print(f"Loaded {len(self.documents)} document chunks.", flush=True)
         print(f"Loaded {len(self.entities)} structured entity records.", flush=True)
 
-        # 3. Build TF-IDF Vectorizer over document text + titles
+        # 2. Build TF-IDF vectorizer over document chunks
         print("Computing TF-IDF matrix...", flush=True)
-        corpus = [
-            f"{doc.get('source_title', '')} {doc.get('topic', '')} {doc.get('text', '')}"
-            for doc in self.documents
-        ]
-        
+        corpus = [f"{d.get('source_title', '')} {d.get('publisher', '')} {d.get('text', '')}" for d in self.documents]
         self.vectorizer = TfidfVectorizer(
             stop_words='english',
             max_features=40000,
@@ -114,17 +108,17 @@ class MNDIndexer:
         )
         self.tfidf_matrix = self.vectorizer.fit_transform(corpus)
         print("TF-IDF matrix built successfully.", flush=True)
-        
-        # 4. Save cache
-        os.makedirs(os.path.dirname(CACHE_FILE), exist_ok=True)
+
+        # 3. Save cache to disk
+        cache_data = {
+            "metadata_signature": self._metadata_signature(),
+            "documents": self.documents,
+            "entities": self.entities,
+            "vectorizer": self.vectorizer,
+            "tfidf_matrix": self.tfidf_matrix
+        }
         with open(CACHE_FILE, "wb") as f:
-            pickle.dump({
-                "documents": self.documents,
-                "entities": self.entities,
-                "vectorizer": self.vectorizer,
-                "tfidf_matrix": self.tfidf_matrix,
-                "metadata_signature": metadata_signature,
-            }, f)
+            pickle.dump(cache_data, f)
         print(f"Saved index cache to {CACHE_FILE}", flush=True)
 
     def load_index(self):
@@ -162,11 +156,12 @@ class MNDIndexer:
             cat = str(ent.get("category", "")).lower()
             ent_state = str(ent.get("state", "")).upper()
             
-            # Keyword matching
+            # Word boundary matching
             for w in query_words:
-                if w in name: score += 3.0
-                if w in cat: score += 2.0
-                if w in desc: score += 1.0
+                pattern = r'\b' + re.escape(w) + r'\b'
+                if re.search(pattern, name): score += 5.0
+                if re.search(pattern, cat): score += 3.0
+                if re.search(pattern, desc): score += 1.0
 
             if score > 0:
                 # State filtering & heavy boosting
@@ -185,9 +180,10 @@ class MNDIndexer:
         for score, ent in matched:
             if score <= 0:
                 continue
+            ent_url = str(ent.get("url") or ent.get("website") or ent.get("source_url") or ent.get("served_url") or ent.get("product_url") or "").strip().lower()
             key = (
                 str(ent.get("name", "")).strip().lower(),
-                str(ent.get("website") or ent.get("source_url") or ent.get("product_url") or "").strip().lower(),
+                ent_url,
             )
             if key in seen:
                 continue

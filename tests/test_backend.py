@@ -359,6 +359,75 @@ class TestGreetings(unittest.TestCase):
         self.assertEqual(entity_events, [])
         self.assertLess(len(content), 400, "Small-talk response should stay short")
 
+    def test_who_am_i_without_profile(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import app
+        from fastapi.testclient import TestClient
+
+        client = TestClient(app)
+        response = client.post("/api/chat", json={
+            "message": "who am i",
+            "state": "NSW"
+        })
+        self.assertEqual(response.status_code, 200)
+
+        content = ""
+        entity_events = []
+        for chunk in response.iter_lines():
+            chunk_str = chunk.decode("utf-8") if isinstance(chunk, bytes) else chunk
+            if chunk_str.startswith("data: "):
+                data_str = chunk_str[6:]
+                if data_str.strip() == "[DONE]":
+                    break
+                try:
+                    parsed = json.loads(data_str)
+                    content += parsed.get("content", "")
+                    if "entities" in parsed:
+                        entity_events.append(parsed["entities"])
+                except:
+                    pass
+
+        self.assertEqual(entity_events, [])
+        self.assertIn("haven't set up a personal profile", content)
+
+    def test_who_am_i_with_profile(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import app
+        from fastapi.testclient import TestClient
+
+        client = TestClient(app)
+        response = client.post("/api/chat", json={
+            "message": "who am i",
+            "state": "NSW",
+            "profile": {
+                "age": 42,
+                "gender": "Female",
+                "role": "Carer",
+                "location": "NSW"
+            }
+        })
+        self.assertEqual(response.status_code, 200)
+
+        content = ""
+        entity_events = []
+        for chunk in response.iter_lines():
+            chunk_str = chunk.decode("utf-8") if isinstance(chunk, bytes) else chunk
+            if chunk_str.startswith("data: "):
+                data_str = chunk_str[6:]
+                if data_str.strip() == "[DONE]":
+                    break
+                try:
+                    parsed = json.loads(data_str)
+                    content += parsed.get("content", "")
+                    if "entities" in parsed:
+                        entity_events.append(parsed["entities"])
+                except:
+                    pass
+
+        self.assertEqual(entity_events, [])
+        self.assertIn("Carer", content)
+        self.assertIn("NSW", content)
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)

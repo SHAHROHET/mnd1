@@ -731,13 +731,16 @@ document.addEventListener("DOMContentLoaded", () => {
         
         entities.forEach(ent => {
             const rawImg = ent.image_url || findImageInClientMap(ent.name) || findImageInClientMap(ent.category) || "";
-            const url = ent.website || ent.source_url || ent.product_url || "#";
+            const url = ent.url || ent.website || ent.source_url || ent.served_url || ent.product_url || "";
             const categoryLabel = ent.category ? ent.category.replace(/_/g, ' ').toUpperCase() : 'SUPPORT';
             const desc = ent.description ? (ent.description.length > 80 ? ent.description.substring(0, 80) + '...' : ent.description) : '';
             
+            const cardTag = url ? 'a' : 'div';
+            const linkAttrs = url ? `href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"` : '';
+
             if (rawImg) {
                 deckHtml += `
-                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
+                    <${cardTag} ${linkAttrs} class="deck-card">
                         <div class="deck-card-img-wrap">
                             <img src="${rawImg}" alt="${escapeHtml(ent.name)}" class="deck-card-img" loading="lazy">
                         </div>
@@ -746,17 +749,17 @@ document.addEventListener("DOMContentLoaded", () => {
                             <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
                             <p class="deck-card-desc">${escapeHtml(desc)}</p>
                         </div>
-                    </a>
+                    </${cardTag}>
                 `;
             } else {
                 deckHtml += `
-                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card no-img-card">
+                    <${cardTag} ${linkAttrs} class="deck-card no-img-card">
                         <div class="deck-card-body">
                             <span class="deck-card-tag"><i class="fa-solid fa-circle-info"></i> ${escapeHtml(categoryLabel)}</span>
                             <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
                             <p class="deck-card-desc">${escapeHtml(desc)}</p>
                         </div>
-                    </a>
+                    </${cardTag}>
                 `;
             }
         });
