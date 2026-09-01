@@ -60,3 +60,11 @@ Before pushing any changes:
    python tests/test_backend.py
    ```
 3. **Browser Check:** Run a browser validation to confirm CSS responsive styling and JS event listeners function without console errors.
+
+---
+
+## ⏱️ 5. Deployment Timestamp Mandate
+
+Because this web application is in active development:
+- **Rule:** Every time changes are updated or pushed to GitHub, update the visible deployment timestamp in [`static/index.html`](file:///c:/Users/User1/Downloads/MND%20DATA/static/index.html) inside `<span id="updateTimestampBadge">Updated: YYYY-MM-DD HH:MM</span>`.
+- Ensure this timestamp matches the date & time recorded in [`updated.md`](file:///c:/Users/User1/Downloads/MND%20DATA/updated.md).

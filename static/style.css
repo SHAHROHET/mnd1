@@ -536,6 +536,14 @@ body.theme-light .emergency-box-mini {
     text-overflow: ellipsis;
 }
 
+.nav-status-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 3px;
+    flex-wrap: wrap;
+}
+
 .badge-pulse {
     display: inline-flex;
     align-items: center;
@@ -543,10 +551,9 @@ body.theme-light .emergency-box-mini {
     font-size: 0.75rem;
     background: rgba(247, 127, 0, 0.15);
     color: var(--accent-gold);
-    padding: 3px 10px;
+    padding: 2px 8px;
     border-radius: var(--radius-full);
     font-weight: 600;
-    margin-top: 2px;
     white-space: nowrap;
     align-self: flex-start;
 }
@@ -563,6 +570,39 @@ body.theme-light .emergency-box-mini {
 
 .badge-pulse.active i {
     color: var(--primary);
+}
+
+.update-timestamp-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.72rem;
+    color: var(--text-muted);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--bg-card-border);
+    padding: 2px 8px;
+    border-radius: var(--radius-full);
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0.88;
+    transition: opacity var(--transition-fast);
+}
+
+.update-timestamp-badge:hover {
+    opacity: 1;
+    color: var(--text-main);
+    border-color: rgba(0, 168, 150, 0.4);
+}
+
+.update-timestamp-badge i {
+    font-size: 0.65rem;
+    color: var(--primary);
+}
+
+body.theme-light .update-timestamp-badge {
+    background: rgba(0, 0, 0, 0.04);
+    border-color: rgba(0, 0, 0, 0.08);
+    color: #475569;
 }
 
 .nav-right {
@@ -1544,11 +1584,26 @@ textarea {
         max-width: 100%;
     }
 
+    .nav-status-group {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 1px;
+        flex-wrap: nowrap;
+        overflow: hidden;
+    }
+
     .badge-pulse {
         font-size: 0.65rem;
         padding: 1px 6px;
         white-space: nowrap;
-        margin-top: 1px;
+        margin-top: 0;
+    }
+
+    .update-timestamp-badge {
+        font-size: 0.64rem;
+        padding: 1px 6px;
+        white-space: nowrap;
     }
 
     .nav-right {

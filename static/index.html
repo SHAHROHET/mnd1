@@ -32,7 +32,7 @@
     <!-- Marked Markdown Parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
-    <link rel="stylesheet" href="/static/style.css?v=2.8">
+    <link rel="stylesheet" href="/static/style.css?v=2.9">
 </head>
 <body class="theme-dark font-normal">
 
@@ -106,9 +106,14 @@
                     <button class="icon-btn sidebar-toggle" id="toggleSidebar"><i class="fa-solid fa-bars"></i></button>
                     <div class="nav-title">
                         <h1>MND Care Assistant</h1>
-                        <span class="badge badge-pulse" id="apiStatusBadge">
-                            <i class="fa-solid fa-circle"></i> Local Guide Active
-                        </span>
+                        <div class="nav-status-group">
+                            <span class="badge badge-pulse" id="apiStatusBadge">
+                                <i class="fa-solid fa-circle"></i> Local Guide Active
+                            </span>
+                            <span class="badge update-timestamp-badge" id="updateTimestampBadge" title="Last updated deployment timestamp">
+                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-01 15:42
+                            </span>
+                        </div>
                     </div>
                 </div>
 
@@ -236,6 +241,6 @@
         </div>
     </div>
 
-    <script src="/static/app.js?v=2.8"></script>
+    <script src="/static/app.js?v=2.9"></script>
 </body>
 </html>
