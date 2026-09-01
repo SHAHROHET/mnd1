@@ -46,15 +46,33 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!query) return "";
         const normQuery = query.toLowerCase().replace(/[^a-z0-9]/g, "");
         if (!normQuery) return "";
+        // Exact match
         if (clientImageMap[normQuery]) {
             return clientImageMap[normQuery];
         }
+        // Substring match
         for (const [key, val] of Object.entries(clientImageMap)) {
             if (key.includes(normQuery) || normQuery.includes(key)) {
                 return val;
             }
         }
-        return "";
+        // Token-level matching: score each key by how many query tokens it contains
+        const tokens = query.toLowerCase().match(/[a-z0-9]{3,}/g) || [];
+        if (tokens.length === 0) return "";
+        let bestPath = "";
+        let bestScore = 0;
+        for (const [key, val] of Object.entries(clientImageMap)) {
+            let score = 0;
+            for (const tok of tokens) {
+                if (key.includes(tok)) score++;
+            }
+            if (score > bestScore) {
+                bestScore = score;
+                bestPath = val;
+            }
+        }
+        const minRequired = tokens.length <= 1 ? 1 : 2;
+        return bestScore >= minRequired ? bestPath : "";
     }
 
     // Configure marked to render clickable external links with icons
@@ -666,30 +684,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
                 // Append visual card deck if entities found
                 if (currentEntities && currentEntities.length > 0) {
-                    const deck = document.createElement("div");
-                    deck.className = "resources-deck";
-                    
-                    let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
-                    deckHtml += `<div class="deck-scroll">`;
-                    
-                    currentEntities.forEach(ent => {
-                        const imgHtml = ent.image_url ? `<img src="${ent.image_url}" alt="${ent.name}" class="deck-card-img">` : `<div class="deck-card-no-img"><i class="fa-solid fa-toolbox"></i></div>`;
-                        const url = ent.website || ent.source_url || ent.product_url || "#";
-                        deckHtml += `
-                            <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
-                                ${imgHtml}
-                                <div class="deck-card-body">
-                                    <span class="deck-card-tag">${ent.category ? ent.category.replace('_', ' ').toUpperCase() : 'SUPPORT'}</span>
-                                    <h4 class="deck-card-title" title="${ent.name}">${ent.name}</h4>
-                                    <p class="deck-card-desc">${ent.description ? ent.description.substring(0, 80) + '...' : ''}</p>
-                                </div>
-                            </a>
-                        `;
-                    });
-                    deckHtml += `</div>`;
-                    deck.innerHTML = deckHtml;
-                    contentDiv.appendChild(deck);
-                    
+                    const deck = renderEntityDeck(currentEntities);
+                    if (deck) {
+                        contentDiv.appendChild(deck);
+                    }
                     if (isUserAtBottom) {
                         chatMessages.scrollTop = chatMessages.scrollHeight;
                     }
@@ -722,6 +720,52 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
+    function renderEntityDeck(entities) {
+        if (!entities || entities.length === 0) return null;
+        
+        const deck = document.createElement("div");
+        deck.className = "resources-deck";
+        
+        let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
+        deckHtml += `<div class="deck-scroll">`;
+        
+        entities.forEach(ent => {
+            const rawImg = ent.image_url || findImageInClientMap(ent.name) || findImageInClientMap(ent.category) || "";
+            const url = ent.website || ent.source_url || ent.product_url || "#";
+            const categoryLabel = ent.category ? ent.category.replace(/_/g, ' ').toUpperCase() : 'SUPPORT';
+            const desc = ent.description ? (ent.description.length > 80 ? ent.description.substring(0, 80) + '...' : ent.description) : '';
+            
+            if (rawImg) {
+                deckHtml += `
+                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
+                        <div class="deck-card-img-wrap">
+                            <img src="${rawImg}" alt="${escapeHtml(ent.name)}" class="deck-card-img" loading="lazy">
+                        </div>
+                        <div class="deck-card-body">
+                            <span class="deck-card-tag">${escapeHtml(categoryLabel)}</span>
+                            <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
+                            <p class="deck-card-desc">${escapeHtml(desc)}</p>
+                        </div>
+                    </a>
+                `;
+            } else {
+                deckHtml += `
+                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card no-img-card">
+                        <div class="deck-card-body">
+                            <span class="deck-card-tag"><i class="fa-solid fa-circle-info"></i> ${escapeHtml(categoryLabel)}</span>
+                            <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
+                            <p class="deck-card-desc">${escapeHtml(desc)}</p>
+                        </div>
+                    </a>
+                `;
+            }
+        });
+        
+        deckHtml += `</div>`;
+        deck.innerHTML = deckHtml;
+        return deck;
+    }
+
     function appendMessage(role, text, timestamp, entities) {
         const row = createMessageRow(role, text, timestamp, entities);
         chatMessages.appendChild(row);
@@ -750,29 +794,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Render visual card deck if entities are provided
         if (entities && entities.length > 0) {
-            const deck = document.createElement("div");
-            deck.className = "resources-deck";
-            
-            let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
-            deckHtml += `<div class="deck-scroll">`;
-            
-            entities.forEach(ent => {
-                const imgHtml = ent.image_url ? `<img src="${ent.image_url}" alt="${ent.name}" class="deck-card-img">` : `<div class="deck-card-no-img"><i class="fa-solid fa-toolbox"></i></div>`;
-                const url = ent.website || ent.source_url || ent.product_url || "#";
-                deckHtml += `
-                    <a href="${url}" target="_blank" rel="noopener noreferrer" class="deck-card">
-                        ${imgHtml}
-                        <div class="deck-card-body">
-                            <span class="deck-card-tag">${ent.category ? ent.category.replace('_', ' ').toUpperCase() : 'SUPPORT'}</span>
-                            <h4 class="deck-card-title" title="${ent.name}">${ent.name}</h4>
-                            <p class="deck-card-desc">${ent.description ? ent.description.substring(0, 80) + '...' : ''}</p>
-                        </div>
-                    </a>
-                `;
-            });
-            deckHtml += `</div>`;
-            deck.innerHTML = deckHtml;
-            content.appendChild(deck);
+            const deck = renderEntityDeck(entities);
+            if (deck) content.appendChild(deck);
         }
 
         // Timestamp label

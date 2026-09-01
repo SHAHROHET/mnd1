@@ -85,15 +85,31 @@ def build_image_map():
     print(f"Indexed {len(IMAGE_MAP)} product/care images.", flush=True)
 
 def find_image_for_query(query: str) -> str:
+    """Match a query string against IMAGE_MAP keys using token-level scoring."""
     norm_query = re.sub(r'[^a-z0-9]', '', query.lower())
     if not norm_query:
         return ""
+    # Exact match
     if norm_query in IMAGE_MAP:
         return IMAGE_MAP[norm_query]
+    # Substring match
     for key, path in IMAGE_MAP.items():
         if key in norm_query or norm_query in key:
             return path
-    return ""
+    # Token-level matching: split query into tokens and score against each key
+    query_tokens = set(re.findall(r'[a-z0-9]{3,}', query.lower()))
+    if not query_tokens:
+        return ""
+    best_path = ""
+    best_score = 0
+    for key, path in IMAGE_MAP.items():
+        matched = sum(1 for tok in query_tokens if tok in key)
+        if matched > best_score:
+            best_score = matched
+            best_path = path
+    # Require at least 2 matching tokens, or 1 if query had only 1 token
+    min_required = 1 if len(query_tokens) <= 1 else 2
+    return best_path if best_score >= min_required else ""
 
 VISUAL_RESOURCE_TERMS = {
     "aac", "bed", "beds", "chair", "chairs", "commode", "commodes", "cough",
@@ -347,11 +363,9 @@ async def chat_endpoint(request: Request):
     docs = indexer.search_documents(search_query, state=state, top_k=5)
     entities = indexer.search_entities(search_query, state=state, top_k=4)
 
-    # Attach images only when the user is clearly asking about visual equipment/resources.
-    include_resource_images = should_include_resource_images(message)
-    if include_resource_images:
-        for ent in entities:
-            ent["image_url"] = find_image_for_query(ent.get("name", ""))
+    # Always attempt to attach images to equipment/resource entities
+    for ent in entities:
+        ent["image_url"] = find_image_for_query(ent.get("name", "")) or find_image_for_query(ent.get("category", ""))
 
     # Format context block
     context_items = []
