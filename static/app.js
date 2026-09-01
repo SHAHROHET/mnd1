@@ -127,6 +127,20 @@ document.addEventListener("DOMContentLoaded", () => {
     
     marked.use({ renderer });
 
+    function safeRenderMarkdown(markdownText) {
+        if (!markdownText) return "";
+        let cleanText = String(markdownText);
+        // 1. Remove redundant inline raw entity text dump if LLM attempted to print "Verified Equipment & Services:" in plain text
+        cleanText = cleanText.replace(/(?:###\s*)?Verified Equipment\s*&\s*Services:\s*(?:\n|\r\n)*(?:[-*•]?\s*\[.*?\]\(.*?\)\s*)+/gi, "");
+        // 2. Separate any concatenated markdown links like ](url)[Next](url2) into distinct bullet lines
+        cleanText = cleanText.replace(/\]\(([^)]+)\)\s*\[/g, "]($1)\n- [");
+        try {
+            return marked.parse(cleanText);
+        } catch (e) {
+            return escapeHtml(cleanText);
+        }
+    }
+
     // Smart Scroll & Manual Scroll Detection
     let isUserAtBottom = true;
     let chatHistory = []; // Stores conversation turn history [{role, content}] for RAG API payload
@@ -647,11 +661,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             }
                             if (parsed.content) {
                                 fullContent += parsed.content;
-                                try {
-                                    contentDiv.innerHTML = marked.parse(fullContent);
-                                } catch (markdownErr) {
-                                    contentDiv.textContent = fullContent;
-                                }
+                                contentDiv.innerHTML = safeRenderMarkdown(fullContent);
                                 
                                 // Smart scroll: Only auto-scroll if user is currently at bottom
                                 if (isUserAtBottom) {
@@ -788,11 +798,7 @@ document.addEventListener("DOMContentLoaded", () => {
         const content = document.createElement("div");
         content.className = "message-content";
         if (text) {
-            try {
-                content.innerHTML = marked.parse(text);
-            } catch (e) {
-                content.textContent = text;
-            }
+            content.innerHTML = safeRenderMarkdown(text);
         }
 
         // Render visual card deck if entities are provided

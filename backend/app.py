@@ -234,7 +234,8 @@ At the VERY END of EVERY response, you MUST ALWAYS include a section titled:
 ### 📚 Verified Sources & Reference Links
 List every source used from the context above as a bullet point with a clickable Markdown link:
 - [Source Title — Publisher Name](exact_url)
-You are FORBIDDEN from generating a response without this sources section. This is a hard requirement.
+- Every single link MUST be on its own separate bullet line starting with `- `. Never combine or concatenate multiple links together on the same line or in a single paragraph.
+- Do NOT output a section named "Verified Equipment & Services:" in your text — the user interface automatically renders an interactive visual card deck for all equipment and directory records directly below.
 """
 
 @app.get("/", response_class=HTMLResponse)
