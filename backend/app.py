@@ -318,10 +318,34 @@ async def chat_endpoint(request: Request):
         return StreamingResponse(greeting_stream(), media_type="text/event-stream")
 
     is_emergency = check_emergency(message)
-    
+
+    # Sanitize and validate conversation history
+    clean_history = []
+    if isinstance(history, list):
+        for item in history:
+            if isinstance(item, dict) and "role" in item and "content" in item:
+                role = "user" if item["role"] == "user" else "assistant"
+                content = str(item["content"]).strip()
+                if content:
+                    clean_history.append({"role": role, "content": content[:2500]})
+
+    # Context-aware query expansion for follow-up questions
+    # e.g. "summarize that in one sentence" or "show me a picture of that"
+    search_query = message
+    if clean_history:
+        prev_user_queries = [m["content"] for m in clean_history if m["role"] == "user"]
+        if prev_user_queries:
+            last_user_query = prev_user_queries[-1]
+            words = set(re.findall(r'[a-z0-9]+', message.lower()))
+            follow_up_cues = {"that", "this", "it", "more", "summarize", "summary",
+                              "sentence", "explain", "picture", "pictures", "options",
+                              "option", "also", "instead", "why", "how", "above"}
+            if len(message.split()) <= 7 or bool(words & follow_up_cues):
+                search_query = f"{last_user_query} {message}"
+
     # Perform RAG retrieval with strict state filtering
-    docs = indexer.search_documents(message, state=state, top_k=5)
-    entities = indexer.search_entities(message, state=state, top_k=4)
+    docs = indexer.search_documents(search_query, state=state, top_k=5)
+    entities = indexer.search_entities(search_query, state=state, top_k=4)
 
     # Attach images only when the user is clearly asking about visual equipment/resources.
     include_resource_images = should_include_resource_images(message)
@@ -373,15 +397,18 @@ async def chat_endpoint(request: Request):
                 "Content-Type": "application/json"
             }
             
-            # Construct message sequence with system prompt + trimmed history + latest query
+            # Construct message sequence with system prompt + conversation history + latest query
             api_messages = [{"role": "system", "content": system_prompt}]
             
-            # Append sanitized recent history (max 6 items)
-            if isinstance(history, list):
-                for item in history[-6:]:
-                    if isinstance(item, dict) and "role" in item and "content" in item:
-                        r = "user" if item["role"] == "user" else "assistant"
-                        api_messages.append({"role": r, "content": str(item["content"])[:1000]})
+            # Deduplicate: if the last history message IS the current user message, exclude it
+            history_to_send = clean_history
+            if (history_to_send and history_to_send[-1]["role"] == "user"
+                    and history_to_send[-1]["content"] == message):
+                history_to_send = history_to_send[:-1]
+
+            # Append sanitized recent conversation turns (last 10 messages)
+            for turn in history_to_send[-10:]:
+                api_messages.append({"role": turn["role"], "content": turn["content"]})
             
             user_prompt_parts = [f"[Target Region: {state}]"]
             if profile_prompt:

@@ -281,7 +281,7 @@ document.addEventListener("DOMContentLoaded", () => {
             conv.messages.forEach(msg => {
                 chatHistory.push({ role: msg.role, content: msg.content });
             });
-            if (chatHistory.length > 10) chatHistory = chatHistory.slice(-10);
+            if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
             
             // Re-inject copy button triggers
             document.querySelectorAll(".message-content").forEach(c => {
@@ -584,6 +584,11 @@ document.addEventListener("DOMContentLoaded", () => {
         let fullContent = "";
         let currentEntities = [];
 
+        // Add user message to conversation history BEFORE sending to API
+        // so the backend receives complete context for multi-turn conversations
+        chatHistory.push({ role: "user", content: text });
+        if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
+
         try {
             const response = await fetch("/api/chat", {
                 method: "POST",
@@ -645,10 +650,9 @@ document.addEventListener("DOMContentLoaded", () => {
             if (!fullContent) {
                 contentDiv.innerHTML = "No response generated.";
             } else {
-                // Record successfully generated turn into conversation history
-                chatHistory.push({ role: "user", content: text });
+                // Record assistant response into conversation history for multi-turn context
                 chatHistory.push({ role: "assistant", content: fullContent });
-                if (chatHistory.length > 10) chatHistory = chatHistory.slice(-10);
+                if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
 
                 // Save assistant message with retrieved entities to conversations storage
                 conversations[currentConvId].messages.push({
