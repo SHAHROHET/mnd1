@@ -257,6 +257,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function loadConversation(id) {
+        closeMobileSidebar();
         currentConvId = id;
         const conv = conversations[id];
         if (!conv) return;
@@ -378,6 +379,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     openProfileBtn?.addEventListener("click", () => {
+        closeMobileSidebar();
         populateProfileForm();
         profileModal?.classList.add("active");
     });
@@ -388,8 +390,11 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     document.addEventListener("keydown", (e) => {
-        if (e.key === "Escape" && profileModal?.classList.contains("active")) {
-            closeProfileModal();
+        if (e.key === "Escape") {
+            if (profileModal?.classList.contains("active")) {
+                closeProfileModal();
+            }
+            closeMobileSidebar();
         }
     });
 
@@ -436,14 +441,21 @@ document.addEventListener("DOMContentLoaded", () => {
         })
         .catch(err => console.error("Failed to load client image map:", err));
 
+    function closeMobileSidebar() {
+        if (sidebar && sidebar.classList.contains("active")) {
+            sidebar.classList.remove("active");
+        }
+    }
+
     // Sidebar Toggle
     toggleSidebar?.addEventListener("click", () => sidebar.classList.add("active"));
-    closeSidebar?.addEventListener("click", () => sidebar.classList.remove("active"));
-    sidebarOverlay?.addEventListener("click", () => sidebar.classList.remove("active"));
+    closeSidebar?.addEventListener("click", closeMobileSidebar);
+    sidebarOverlay?.addEventListener("click", closeMobileSidebar);
 
     // Export Care Plan Summary button
     const exportBtn = document.getElementById("exportBtn");
     exportBtn?.addEventListener("click", () => {
+        closeMobileSidebar();
         window.print();
     });
 
@@ -451,6 +463,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const newChatBtn = document.getElementById("newChatBtn");
     newChatBtn?.addEventListener("click", () => {
         if (isStreaming) return;
+        closeMobileSidebar();
         startNewConversation();
     });
 
@@ -480,6 +493,11 @@ document.addEventListener("DOMContentLoaded", () => {
         const isLight = theme === "light";
         document.body.classList.toggle("theme-light", isLight);
         document.body.classList.toggle("theme-dark", !isLight);
+
+        const themeMeta = document.getElementById("themeColorMeta");
+        if (themeMeta) {
+            themeMeta.setAttribute("content", isLight ? "#f6f8fb" : "#0b1320");
+        }
 
         if (themeLbl) {
             themeLbl.textContent = isLight ? "Dark Mode" : "Light Mode";
