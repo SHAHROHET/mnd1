@@ -84,6 +84,11 @@ def build_image_map():
                 IMAGE_MAP[norm_name] = "/" + quote(rel_path, safe="/")
     print(f"Indexed {len(IMAGE_MAP)} product/care images.", flush=True)
 
+IMAGE_MATCH_STOPWORDS = {
+    "and", "the", "for", "with", "from", "mnd", "care", "home", "program",
+    "aged", "australia", "illustration", "support", "guidance",
+}
+
 def find_image_for_query(query: str) -> str:
     """Match a query string against IMAGE_MAP keys using token-level scoring."""
     norm_query = re.sub(r'[^a-z0-9]', '', query.lower())
@@ -92,12 +97,17 @@ def find_image_for_query(query: str) -> str:
     # Exact match
     if norm_query in IMAGE_MAP:
         return IMAGE_MAP[norm_query]
-    # Substring match
+    # Substring match only when both sides are specific enough to avoid
+    # generic tokens like "and" matching a bed product photo.
     for key, path in IMAGE_MAP.items():
-        if key in norm_query or norm_query in key:
+        shorter, longer = (key, norm_query) if len(key) <= len(norm_query) else (norm_query, key)
+        if len(shorter) >= 12 and shorter in longer:
             return path
     # Token-level matching: split query into tokens and score against each key
-    query_tokens = set(re.findall(r'[a-z0-9]{3,}', query.lower()))
+    query_tokens = {
+        tok for tok in re.findall(r'[a-z0-9]{3,}', query.lower())
+        if tok not in IMAGE_MATCH_STOPWORDS
+    }
     if not query_tokens:
         return ""
     best_path = ""
@@ -235,7 +245,7 @@ At the VERY END of EVERY response, you MUST ALWAYS include a section titled:
 List every source used from the context above as a bullet point with a clickable Markdown link:
 - [Source Title — Publisher Name](exact_url)
 - Every single link MUST be on its own separate bullet line starting with `- `. Never combine or concatenate multiple links together on the same line or in a single paragraph.
-- Do NOT output a section named "Verified Equipment & Services:" in your text — the user interface automatically renders an interactive visual card deck for all equipment and directory records directly below.
+- Do NOT output a section named "Verified Equipment & Services:" or "Verified Sources:" in your text — the user interface automatically renders an interactive visual card deck for retrieved records directly below.
 """
 
 @app.get("/", response_class=HTMLResponse)
@@ -383,9 +393,11 @@ async def chat_endpoint(request: Request):
     docs = indexer.search_documents(search_query, state=state, top_k=5)
     entities = indexer.search_entities(search_query, state=state, top_k=4)
 
-    # Always attempt to attach images to equipment/resource entities
-    for ent in entities:
-        ent["image_url"] = find_image_for_query(ent.get("name", "")) or find_image_for_query(ent.get("category", ""))
+    # Attach product photos to visual equipment entities only — skip
+    # category fallback so NIV/info records are not paired with unrelated beds.
+    if should_include_resource_images(search_query):
+        for ent in entities:
+            ent["image_url"] = find_image_for_query(ent.get("name", ""))
 
     # Format context block
     context_items = []

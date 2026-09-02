@@ -50,14 +50,21 @@ document.addEventListener("DOMContentLoaded", () => {
         if (clientImageMap[normQuery]) {
             return clientImageMap[normQuery];
         }
-        // Substring match
+        // Substring match only when both sides are specific enough
+        const IMAGE_MATCH_STOPWORDS = new Set([
+            "and", "the", "for", "with", "from", "mnd", "care", "home", "program",
+            "aged", "australia", "illustration", "support", "guidance"
+        ]);
         for (const [key, val] of Object.entries(clientImageMap)) {
-            if (key.includes(normQuery) || normQuery.includes(key)) {
+            const shorter = key.length <= normQuery.length ? key : normQuery;
+            const longer = key.length <= normQuery.length ? normQuery : key;
+            if (shorter.length >= 12 && longer.includes(shorter)) {
                 return val;
             }
         }
         // Token-level matching: score each key by how many query tokens it contains
-        const tokens = query.toLowerCase().match(/[a-z0-9]{3,}/g) || [];
+        const tokens = (query.toLowerCase().match(/[a-z0-9]{3,}/g) || [])
+            .filter(tok => !IMAGE_MATCH_STOPWORDS.has(tok));
         if (tokens.length === 0) return "";
         let bestPath = "";
         let bestScore = 0;
@@ -805,12 +812,16 @@ document.addEventListener("DOMContentLoaded", () => {
         const deck = document.createElement("div");
         deck.className = "resources-deck";
         
-        let deckHtml = `<div class="deck-title"><i class="fa-solid fa-toolbox"></i> Verified Equipment & Services:</div>`;
+        let deckHtml = `<div class="deck-title"><i class="fa-solid fa-link"></i> Verified Sources:</div>`;
         deckHtml += `<div class="deck-scroll">`;
         
+        const seenUrls = new Set();
         entities.forEach(ent => {
-            const rawImg = ent.image_url || findImageInClientMap(ent.name) || findImageInClientMap(ent.category) || "";
+            const rawImg = ent.image_url || findImageInClientMap(ent.name) || "";
             const url = resolveEntityUrl(ent);
+            const urlKey = String(url || "").trim().toLowerCase().replace(/\/+$/, "");
+            if (urlKey && seenUrls.has(urlKey)) return;
+            if (urlKey) seenUrls.add(urlKey);
             const categoryLabel = ent.category ? ent.category.replace(/_/g, ' ').toUpperCase() : 'SUPPORT';
             const desc = ent.description ? (ent.description.length > 80 ? ent.description.substring(0, 80) + '...' : ent.description) : '';
             const linkAttrs = `href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"`;

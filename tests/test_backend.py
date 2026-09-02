@@ -133,11 +133,40 @@ class TestEntitySearch(unittest.TestCase):
         keys = [
             (
                 e.get("name", "").strip().lower(),
-                (e.get("website") or e.get("source_url") or e.get("product_url") or "").strip().lower()
+                (
+                    e.get("url")
+                    or e.get("website")
+                    or e.get("source_url")
+                    or e.get("product_url")
+                    or ""
+                ).strip().lower().rstrip("/")
             )
             for e in entities
         ]
         self.assertEqual(len(keys), len(set(keys)))
+
+    def test_niv_query_returns_distinct_source_urls(self):
+        """NIV/nocturnal breathing cards must open unique, on-topic pages."""
+        query = "How do I manage nocturnal breathing problems or non-invasive ventilation (NIV)?"
+        entities = self.indexer.search_entities(query, state="National", top_k=4)
+        self.assertGreaterEqual(len(entities), 3)
+        names = [e.get("name", "") for e in entities]
+        self.assertTrue(any("non-invasive ventilation" in n.lower() for n in names))
+        urls = []
+        for e in entities:
+            url = (
+                e.get("url")
+                or e.get("website")
+                or e.get("source_url")
+                or e.get("product_url")
+                or ""
+            ).strip().lower().rstrip("/")
+            self.assertTrue(url.startswith("http"), f"Missing URL for {e.get('name')}")
+            urls.append(url)
+        self.assertEqual(len(urls), len(set(urls)))
+        joined = " ".join(urls)
+        self.assertIn("breathing-mnd-medications-and-non-invasive-ventilation", joined)
+        self.assertNotIn("flexequip.com.au/product-library/beds", joined)
 
 
 class TestGuardrailsInput(unittest.TestCase):

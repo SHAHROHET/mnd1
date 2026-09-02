@@ -34,7 +34,23 @@ ENTITY_QUERY_STOPWORDS = {
     "then", "there", "these", "they", "this", "those", "through", "to", "too",
     "up", "was", "we", "were", "what", "whats", "when", "where", "which", "while",
     "who", "whom", "whose", "why", "will", "with", "would", "you", "your", "yours",
+    "manage", "problem", "problems",
 }
+
+def entity_url(ent):
+    return str(
+        ent.get("url")
+        or ent.get("website")
+        or ent.get("source_url")
+        or ent.get("served_url")
+        or ent.get("product_url")
+        or ""
+    ).strip()
+
+
+def normalize_entity_url(url):
+    return str(url or "").strip().lower().rstrip("/")
+
 
 def is_state_match(target_state, item_state):
     if not target_state or target_state.upper() in ["NATIONAL", "ALL", "AUSTRALIA"]:
@@ -176,18 +192,21 @@ class MNDIndexer:
 
         matched.sort(key=lambda x: x[0], reverse=True)
         results = []
-        seen = set()
+        seen_name_urls = set()
+        seen_urls = set()
         for score, ent in matched:
             if score <= 0:
                 continue
-            ent_url = str(ent.get("url") or ent.get("website") or ent.get("source_url") or ent.get("served_url") or ent.get("product_url") or "").strip().lower()
-            key = (
-                str(ent.get("name", "")).strip().lower(),
-                ent_url,
-            )
-            if key in seen:
+            ent_url = normalize_entity_url(entity_url(ent))
+            name_key = str(ent.get("name", "")).strip().lower()
+            if (name_key, ent_url) in seen_name_urls:
                 continue
-            seen.add(key)
+            # Distinct cards must open distinct pages — keep the highest-scoring record per URL.
+            if ent_url and ent_url in seen_urls:
+                continue
+            seen_name_urls.add((name_key, ent_url))
+            if ent_url:
+                seen_urls.add(ent_url)
             results.append(ent)
             if len(results) >= top_k:
                 break
