@@ -44,6 +44,29 @@ document.addEventListener("DOMContentLoaded", () => {
         }[char]));
     }
 
+    function safeLinkHref(value) {
+        if (!value || typeof value !== "string") return "";
+        const trimmed = value.trim();
+        if (/^(?:https?:\/\/|mailto:[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-.]+|tel:\+?[0-9\s()-]{3,}|\/[a-zA-Z0-9_.-])/i.test(trimmed)) {
+            const stripped = trimmed.replace(/[\x00-\x20\s]+/g, "").toLowerCase();
+            if (stripped.startsWith("javascript:") || stripped.startsWith("vbscript:") || stripped.startsWith("data:")) {
+                return "";
+            }
+            return trimmed;
+        }
+        return "";
+    }
+
+    function sanitizeHtmlContent(html) {
+        if (!html) return "";
+        return String(html)
+            .replace(/<\s*(?:script|style|iframe|object|embed|applet|meta|link|form|input|base)\b[^>]*>[\s\S]*?<\s*\/\s*(?:script|style|iframe|object|embed|applet|meta|link|form|input|base)\s*>/gi, "")
+            .replace(/<\s*(?:script|style|iframe|object|embed|applet|meta|link|form|input|base)\b[^>]*\/?>/gi, "")
+            .replace(/\son\w+\s*=\s*(?:"[^"]*"|'[^']*'|[^\s>]+)/gi, "")
+            .replace(/href\s*=\s*["']?\s*(?:javascript|vbscript|data):[^"'>\s]*/gi, 'href="#"')
+            .replace(/src\s*=\s*["']?\s*(?:javascript|vbscript):[^"'>\s]*/gi, 'src=""');
+    }
+
     function findImageInClientMap(query) {
         if (!query) return "";
         const normQuery = query.toLowerCase().replace(/[^a-z0-9]/g, "");
@@ -99,8 +122,8 @@ document.addEventListener("DOMContentLoaded", () => {
             title = titleArg || "";
             text = textArg || href;
         }
-        if (!href) return text;
-        const safeHref = escapeHtml(href);
+        const safeHref = safeLinkHref(href);
+        if (!safeHref) return text;
         const safeTitle = escapeHtml(title || text);
         return `<a href="${safeHref}" target="_blank" rel="noopener noreferrer" title="${safeTitle}">${text} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75em; opacity: 0.85;"></i></a>`;
     };
@@ -120,7 +143,6 @@ document.addEventListener("DOMContentLoaded", () => {
             title = titleArg || "";
         }
         
-        let finalSrc = href;
         let queryKey = text || "";
         if (href) {
             const filename = href.split('/').pop().split('?')[0];
@@ -139,22 +161,106 @@ document.addEventListener("DOMContentLoaded", () => {
         
         const matched = findImageInClientMap(queryKey) || findImageInClientMap(text);
         if (!matched) {
-            return text ? `<span class="image-placeholder">${escapeHtml(text)}</span>` : "";
+            return "";
         }
-        finalSrc = matched;
-        
-        return `<img src="${finalSrc}" alt="${escapeHtml(text || 'Care Image')}" class="care-message-img" title="${escapeHtml(title || text)}">`;
+        const safeAlt = escapeHtml(text || "Care equipment");
+        const safeTitle = escapeHtml(title || text || "Care equipment");
+        return `<span class="care-figure"><img src="${matched}" alt="${safeAlt}" class="care-message-img" title="${safeTitle}" loading="lazy" onerror="this.parentNode.style.display='none'"><span class="care-img-caption">${safeAlt}</span></span>`;
     };
     
     marked.use({ renderer });
 
+    function stripSourcesHeading(markdownText) {
+        return String(markdownText || "")
+            .replace(/\n*#{1,6}\s*Verified Sources[\s\S]*$/i, "")
+            .trimEnd();
+    }
+
+    function isDebugMode() {
+        try {
+            return localStorage.getItem("mnd_debug") === "1";
+        } catch (e) {
+            return false;
+        }
+    }
+
+    function renderSourceChips(sources) {
+        const list = Array.isArray(sources) ? sources : [];
+        const wrap = document.createElement("div");
+        wrap.className = "source-chips";
+        wrap.setAttribute("aria-label", "Sources");
+
+        const heading = document.createElement("p");
+        heading.className = "source-chips-label";
+        heading.textContent = "Sources";
+        wrap.appendChild(heading);
+
+        const row = document.createElement("div");
+        row.className = "source-chips-row";
+
+        list.forEach(src => {
+            const title = src.title || src.publisher || "Verified source";
+            const missing = !!src.missing_url || !src.url;
+            if (missing && !isDebugMode()) return;
+            const href = safeLinkHref(src.url);
+            if (!missing && !href) return;
+            if (missing) {
+                const span = document.createElement("span");
+                span.className = "source-chip is-missing";
+                span.textContent = `${title} — Source URL needed`;
+                row.appendChild(span);
+                return;
+            }
+            const a = document.createElement("a");
+            a.className = "source-chip";
+            a.href = href;
+            a.target = "_blank";
+            a.rel = "noopener noreferrer";
+            a.title = src.publisher ? `${title} — ${src.publisher}` : title;
+
+            const label = document.createElement("span");
+            label.className = "source-chip-title";
+            label.textContent = title;
+            a.appendChild(label);
+
+            if (src.publisher && src.publisher !== title) {
+                const pub = document.createElement("span");
+                pub.className = "source-chip-pub";
+                pub.textContent = src.publisher;
+                a.appendChild(pub);
+            }
+            if (src.region_note) {
+                const note = document.createElement("span");
+                note.className = "source-chip-note";
+                note.textContent = src.region_note;
+                a.appendChild(note);
+            }
+            a.insertAdjacentHTML("beforeend", '<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i>');
+            row.appendChild(a);
+        });
+
+        if (!row.children.length) return null;
+        wrap.appendChild(row);
+        return wrap;
+    }
+
+    function attachSourceChips(wrapper, sources) {
+        wrapper.querySelector(".source-chips")?.remove();
+        const chips = renderSourceChips(sources);
+        if (!chips) return;
+        const ts = wrapper.querySelector(".message-timestamp");
+        if (ts) wrapper.insertBefore(chips, ts);
+        else wrapper.appendChild(chips);
+    }
+
     function safeRenderMarkdown(markdownText) {
         if (!markdownText) return "";
-        let cleanText = String(markdownText);
+        let cleanText = stripSourcesHeading(String(markdownText));
         // Separate any concatenated markdown links like ](url)[Next](url2) into distinct bullet lines
         cleanText = cleanText.replace(/\]\(([^)]+)\)\s*\[/g, "]($1)\n- [");
         try {
-            return marked.parse(cleanText);
+            const rawHtml = marked.parse(cleanText);
+            return sanitizeHtmlContent(rawHtml);
         } catch (e) {
             return escapeHtml(cleanText);
         }
@@ -305,16 +411,31 @@ document.addEventListener("DOMContentLoaded", () => {
             item.setAttribute("role", "button");
             item.setAttribute("tabindex", "0");
             item.setAttribute("aria-label", conv.title || "Saved conversation");
-            
-            item.innerHTML = `
-                <div class="conversation-info">
-                    <i class="fa-regular fa-message"></i>
-                    <span class="conversation-title" title="${conv.title}">${conv.title}</span>
-                </div>
-                <button class="delete-conv-btn" type="button" title="Delete conversation" aria-label="Delete conversation">
-                    <i class="fa-solid fa-trash-can"></i>
-                </button>
-            `;
+
+            const info = document.createElement("div");
+            info.className = "conversation-info";
+
+            const icon = document.createElement("i");
+            icon.className = "fa-regular fa-message";
+            info.appendChild(icon);
+
+            const title = document.createElement("span");
+            title.className = "conversation-title";
+            title.title = conv.title || "Saved conversation";
+            title.textContent = conv.title || "Saved conversation";
+            info.appendChild(title);
+
+            const deleteBtn = document.createElement("button");
+            deleteBtn.className = "delete-conv-btn";
+            deleteBtn.type = "button";
+            deleteBtn.title = "Delete conversation";
+            deleteBtn.setAttribute("aria-label", "Delete conversation");
+            const deleteIcon = document.createElement("i");
+            deleteIcon.className = "fa-solid fa-trash-can";
+            deleteBtn.appendChild(deleteIcon);
+
+            item.appendChild(info);
+            item.appendChild(deleteBtn);
             
             // Load conversation on click
             item.addEventListener("click", (e) => {
@@ -332,7 +453,6 @@ document.addEventListener("DOMContentLoaded", () => {
             });
             
             // Delete conversation on click
-            const deleteBtn = item.querySelector(".delete-conv-btn");
             deleteBtn.addEventListener("click", (e) => {
                 e.stopPropagation();
                 deleteConversation(conv.id);
@@ -379,30 +499,14 @@ document.addEventListener("DOMContentLoaded", () => {
             // Show welcome card
             chatMessages.innerHTML = `
                 <div class="welcome-card">
-                    <div class="welcome-icon">
-                        <i class="fa-solid fa-hands-holding-child"></i>
-                    </div>
-                    <h2>Welcome to the Australian MND/ALS Assistant</h2>
-                    <p>Designed for people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia. Ask any question regarding symptom management, NDIS funding, equipment loan libraries, or advance care planning.</p>
+                    <div class="welcome-icon"><i class="fa-solid fa-heart-pulse"></i></div>
+                    <h2>Care guidance you can check</h2>
+                    <p class="welcome-desc">Ask about equipment, NDIS, breathing support, or carer services. Answers are drawn from Australian MND, NDIS, and health publications and tailored to <strong>your state</strong>.</p>
                     <div class="prompt-chips">
-                        <div class="chip" data-prompt="What equipment can I get through FlexEquip or SWEP for mobility and transfer?">
-                            <i class="fa-solid fa-wheelchair"></i> Mobility & Equipment Pathways
-                        </div>
-                        <div class="chip" data-prompt="How do I manage nocturnal breathing problems or non-invasive ventilation (NIV)?">
-                            <i class="fa-solid fa-lungs"></i> Nocturnal Breathing & NIV
-                        </div>
-                        <div class="chip" data-prompt="What NDIS funding support and Centrelink Carer Payments are available for MND?">
-                            <i class="fa-solid fa-hand-holding-dollar"></i> NDIS Funding & Carer Payment
-                        </div>
-                        <div class="chip" data-prompt="What is voice banking and how early should I start with speech pathology?">
-                            <i class="fa-solid fa-microphone-lines"></i> Voice Banking & Communication
-                        </div>
-                        <div class="chip" data-prompt="What are IDDSI texture levels for swallowing safety and nutrition in MND?">
-                            <i class="fa-solid fa-utensils"></i> Swallowing & IDDSI Nutrition
-                        </div>
-                        <div class="chip" data-prompt="What is involved in Advance Care Planning and Advance Care Directives?">
-                            <i class="fa-solid fa-file-signature"></i> Advance Care Planning
-                        </div>
+                        <button class="chip" type="button" data-prompt="What wheelchair options are available through FlexEquip in NSW?">Wheelchair options</button>
+                        <button class="chip" type="button" data-prompt="How do I apply for NDIS assistive technology funding?">NDIS AT funding</button>
+                        <button class="chip" type="button" data-prompt="What breathing support options exist for MND patients?">Breathing support</button>
+                        <button class="chip" type="button" data-prompt="What support services are available for MND carers?">Carer support</button>
                     </div>
                 </div>
             `;
@@ -411,7 +515,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             // Re-render past messages
             conv.messages.forEach(msg => {
-                const row = createMessageRow(msg.role, msg.content, msg.timestamp);
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.sources);
                 chatMessages.appendChild(row);
             });
             
@@ -537,10 +641,10 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch("/api/stats")
         .then(res => res.json())
         .then(data => {
-            updateBadgeStatus(data.has_api_key);
+            updateBadgeStatus();
             updateStats(data);
         })
-        .catch(err => updateBadgeStatus(false));
+        .catch(() => updateBadgeStatus());
 
     fetch("/api/images")
         .then(res => res.json())
@@ -653,14 +757,10 @@ document.addEventListener("DOMContentLoaded", () => {
         gazeToggleBtn?.classList.toggle("btn-accent", enable);
     }
 
-    function updateBadgeStatus(hasBackendKey) {
-        if (hasBackendKey) {
-            apiStatusBadge.classList.add("active");
-            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Assistant Active`;
-        } else {
-            apiStatusBadge.classList.remove("active");
-            apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Local Guide Active`;
-        }
+    function updateBadgeStatus() {
+        if (!apiStatusBadge) return;
+        apiStatusBadge.classList.add("active");
+        apiStatusBadge.innerHTML = `<i class="fa-solid fa-circle"></i> Ready`;
     }
 
     function updateStats(data) {
@@ -794,6 +894,7 @@ document.addEventListener("DOMContentLoaded", () => {
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
         let fullContent = "";
+        let streamedSources = [];
         let streamRenderTimer = 0;
         const STREAM_RENDER_MS = 80;
 
@@ -827,7 +928,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     message: text,
                     state: stateSelect.value,
                     history: chatHistory,
-                    profile: readUserProfile()
+                    profile: readUserProfile(),
+                    debug: isDebugMode()
                 })
             });
 
@@ -856,6 +958,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
                         try {
                             const parsed = JSON.parse(jsonStr);
+                            if (parsed.sources) {
+                                streamedSources = parsed.sources;
+                            }
                             if (parsed.content) {
                                 if (!gotFirstToken) {
                                     gotFirstToken = true;
@@ -882,12 +987,15 @@ document.addEventListener("DOMContentLoaded", () => {
                 contentDiv.innerHTML = "No response generated.";
             } else {
                 paintStream(true);
+                const wrapper = assistantRow.querySelector(".message-wrapper");
+                if (wrapper) attachSourceChips(wrapper, streamedSources);
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
 
                 conversations[currentConvId].messages.push({
                     role: "assistant",
                     content: fullContent,
+                    sources: streamedSources,
                     timestamp: timestampStr
                 });
                 conversations[currentConvId].updatedAt = Date.now();
@@ -927,7 +1035,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    function createMessageRow(role, text, timestamp) {
+    function createMessageRow(role, text, timestamp, sources) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -952,6 +1060,9 @@ document.addEventListener("DOMContentLoaded", () => {
         const wrapper = document.createElement("div");
         wrapper.className = "message-wrapper";
         wrapper.appendChild(content);
+        if (role === "assistant") {
+            attachSourceChips(wrapper, sources);
+        }
         wrapper.appendChild(ts);
 
         row.appendChild(avatar);

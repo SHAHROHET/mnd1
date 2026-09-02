@@ -5,6 +5,7 @@ import asyncio
 import re
 import time
 import random
+from contextlib import asynccontextmanager
 from collections import defaultdict
 from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import HTMLResponse, StreamingResponse, JSONResponse
@@ -17,31 +18,103 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from indexer import MNDIndexer
 from guardrails import sanitize_input, validate_output
+from answer_policy import (
+    classify_query,
+    collect_sources,
+    public_sources,
+    refine_sources,
+    should_include_resource_images,
+    is_emergency as check_emergency,
+    answer_guidance,
+    audience_guidance,
+    length_guidance,
+    topic_guidance,
+    situation_logic,
+    build_offline_answer,
+    strip_verified_sources_section,
+    CRISIS_BANNER,
+    EMERGENCY_BANNER,
+)
 
-app = FastAPI(title="Australian MND Assistant API", version="2.0")
+indexer = MNDIndexer()
 
-# In-memory rate limiter: max 10 requests per 60 seconds per IP
+
+@asynccontextmanager
+async def lifespan(_app: FastAPI):
+    indexer.load_index()
+    build_image_map()
+    yield
+
+
+app = FastAPI(title="Australian MND Assistant API", version="2.1", lifespan=lifespan)
+
+# In-memory rate limiter: max requests per 60 seconds per IP with memory leak prevention
 RATE_LIMIT_WINDOW = 60  # seconds
-RATE_LIMIT_MAX = 10
+RATE_LIMIT_MAX = int(os.getenv("MND_RATE_LIMIT_MAX", "30"))
 _rate_store: dict[str, list[float]] = defaultdict(list)
+ALLOWED_STATES = {"National", "NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"}
+
+
+def normalize_state(value: str | None) -> str:
+    """Return a supported Australian state/territory selector."""
+    state = str(value or "National").strip().upper()
+    if state == "NATIONAL":
+        return "National"
+    return state if state in ALLOWED_STATES else "National"
+
+
+def cors_origins_from_env() -> list[str]:
+    raw = os.getenv("MND_ALLOWED_ORIGINS", "").strip()
+    if raw:
+        return [origin.strip() for origin in raw.split(",") if origin.strip()]
+    return [
+        "http://localhost:8000",
+        "http://127.0.0.1:8000",
+        "http://localhost:5173",
+        "http://127.0.0.1:5173",
+    ]
 
 def check_rate_limit(client_ip: str) -> bool:
-    """Returns True if request is allowed, False if rate limited."""
+    """Returns True if request is allowed, False if rate limited. Prunes stale IPs to prevent unbounded memory growth."""
     now = time.time()
     window_start = now - RATE_LIMIT_WINDOW
-    # Prune old entries
+    # Prune old entries for this client
     _rate_store[client_ip] = [t for t in _rate_store[client_ip] if t > window_start]
+    # Periodic global cleanup when store grows large
+    if len(_rate_store) > 5000:
+        stale_keys = [ip for ip, timestamps in _rate_store.items() if not timestamps or timestamps[-1] < window_start]
+        for ip in stale_keys:
+            del _rate_store[ip]
     if len(_rate_store[client_ip]) >= RATE_LIMIT_MAX:
         return False
     _rate_store[client_ip].append(now)
     return True
 
+@app.middleware("http")
+async def add_security_headers(request: Request, call_next):
+    response = await call_next(request)
+    response.headers["X-Content-Type-Options"] = "nosniff"
+    response.headers["X-Frame-Options"] = "SAMEORIGIN"
+    response.headers["X-XSS-Protection"] = "1; mode=block"
+    response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
+    response.headers["Permissions-Policy"] = "geolocation=(), camera=(), microphone=()"
+    response.headers["Content-Security-Policy"] = (
+        "default-src 'self'; "
+        "script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; "
+        "style-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://fonts.googleapis.com; "
+        "font-src 'self' https://cdnjs.cloudflare.com https://fonts.gstatic.com; "
+        "img-src 'self' data: https:; "
+        "connect-src 'self' https://api.deepseek.com; "
+        "frame-ancestors 'self';"
+    )
+    return response
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=cors_origins_from_env(),
+    allow_credentials=False,
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -121,19 +194,6 @@ def find_image_for_query(query: str) -> str:
     min_required = 1 if len(query_tokens) <= 1 else 2
     return best_path if best_score >= min_required else ""
 
-VISUAL_RESOURCE_TERMS = {
-    "aac", "bed", "beds", "chair", "chairs", "commode", "commodes", "cough",
-    "cushion", "device", "devices", "equipment", "hoist", "hoists", "lift",
-    "lifter", "mobility", "mount", "nebuliser", "niv", "peg", "ramp", "rollator",
-    "scooter", "shower", "sling", "toilet", "transfer", "ventilator", "walker",
-    "wheelchair", "wheelchairs",
-}
-
-def should_include_resource_images(query: str) -> bool:
-    words = set(re.findall(r"[a-z0-9]+", str(query).lower()))
-    joined = " ".join(words)
-    return bool(words & VISUAL_RESOURCE_TERMS) or "cough assist" in joined or "eye gaze" in joined
-
 os.makedirs(STATIC_DIR, exist_ok=True)
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
 
@@ -141,24 +201,6 @@ IMAGES_DIR = os.path.join(BASE_DIR, "images")
 if os.path.exists(IMAGES_DIR):
     app.mount("/images", StaticFiles(directory=IMAGES_DIR), name="images")
 
-indexer = MNDIndexer()
-
-@app.on_event("startup")
-def startup_event():
-    indexer.load_index()
-    build_image_map()
-
-EMERGENCY_KEYWORDS = [
-    "can't breathe", "cannot breathe", "choking", "choke",
-    "severe shortness of breath", "blue lips", "chest pain",
-    "suffocating", "severe dyspnea", "unresponsive"
-]
-
-def check_emergency(text: str) -> bool:
-    text_lower = text.lower()
-    return any(kw in text_lower for kw in EMERGENCY_KEYWORDS)
-
-# Greeting fast-path: patterns and randomized responses
 GREETING_PATTERNS = re.compile(
     r'^(hi|hello|hey|gday|g\'day|howdy|yo|hiya|sup|heya|'
     r'hi there|hello there|hey there|'
@@ -216,37 +258,42 @@ def build_user_profile_system_prompt(profile: dict | None) -> str | None:
         "practical advice strictly to their jurisdiction and professional scope."
     )
 
-SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Care Assistant. You help people living with Motor Neurone Disease (MND/ALS), their carers, families, and clinicians across Australia.
+SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Care Assistant. You provide clear, structured, and clinically logical guidance to people living with Motor Neurone Disease (MND/ALS), their family carers, and healthcare clinicians across Australia.
 
-Tone:
-- Calm, clear, and professional. Be warm without being playful or salesy.
-- Use plain English, short paragraphs, and bullet lists. Prefer headings over decoration.
-- Do not fill answers with emojis. At most one emoji in a whole reply, and only if it adds meaning.
-- Do not open with a catchphrase on every answer. Start with the useful information.
-- Stay accurate on NDIS, equipment loan schemes (FlexEquip, SWEP, MASS, EnableNSW), and clinical guidance. If something depends on an assessment, say so.
-- Small talk: reply in 1-2 short sentences. Do not attach source lists or equipment recommendations unless asked.
-- Identity questions: use the saved user profile when provided. If none exists, explain they can open **My Profile** in the sidebar.
+Core Logical Principles:
+- Grounding: Answer accurately from the retrieved context below. Do not invent non-existent services, dollar figures, or unverified clinical claims.
+- Clinical & Practical Reasoning: Break answers down logically into:
+  1. Direct Summary: Direct, authoritative answer addressing the user's specific situation.
+  2. Options & Pathways: Specific assistive technology, clinical interventions, or funding programs.
+  3. Step-by-Step Access Logic: The sequential process to follow (e.g. Clinical Assessment -> Funding/Scheme Route -> Sourcing/Trial -> Home Setup).
+  4. Practical Considerations & Precautions: Important safety, progression, or carer workload factors.
+  5. Questions for Your Care Team: 2-3 specific, high-yield questions for the user's next appointment.
+- Structure & Readability: Use clear markdown headings (###), bold key terms, and bullet points for effortless scannability. Avoid dense walls of text.
+- Separation of Sources: Do NOT generate a "Verified Sources" heading or bullet list of links in your text body; sources are automatically rendered by the user interface.
+- Organisation Names: Use readable Australian organisation names (e.g. MND Australia, FlexEquip, EnableNSW, Carer Gateway, Services Australia) rather than raw filenames.
+- Tone: Empathetic, dignified, practical, and objective. Never offer false hope or unverified cure claims.
+
+{audience_guidance}
+{answer_guidance}
+{length_guidance}
+{topic_guidance}
+
+{situation_logic}
 
 Images:
-When recommending a specific piece of equipment and the retrieved context includes an Image URL, embed it on its own line as `![Item Name](image_url)`. Use the exact relative path. Do not prepend a domain.
+Embed an image only when the question is about equipment or home aids AND the context includes an Image URL. Use `![Short caption](image_url)` on its own line. Use the exact relative path. Never add images for grief, mental health, prognosis, diagnosis, or funding-only questions.
 
 Location:
-The user selected **{selected_state}**. Tailor funding schemes, loan libraries, and associations to that jurisdiction:
-- NSW or ACT: FlexEquip, MND NSW, EnableNSW
-- VIC: SWEP, MND Victoria
-- QLD: MASS, MND Queensland
-- WA: MND Western Australia and WA Health pathways
-- SA: MND South Australia and SA Health pathways
-- Weave state details into the answer. Do not use a fixed opening template.
+The user selected **{selected_state}**. Frame all equipment, funding, and support pathways around {selected_state}:
+- NSW / ACT: FlexEquip (MND NSW), EnableNSW Equipment Allocation Program, MND NSW Support Services
+- VIC: State-Wide Equipment Program (SWEP), MND Victoria Equipment Service & Support Coordinators
+- QLD: Medical Aids, Subsidy Scheme (MASS), MND Queensland Equipment Library
+- WA: MND Western Australia Assistive Technology Library & Care Advisors
+- SA / NT: MND South Australia Equipment Service & Regional Advisors
+- TAS: MND Victoria (TAS service delivery) & Community Equipment Scheme (CES)
 
 Retrieved context:
 {context_block}
-
-Required closing section — never omit:
-### Verified Sources & Reference Links
-List every source used from the context as its own bullet:
-- [Source Title — Publisher Name](exact_url)
-Never join multiple links on one line. Do not add a second sources heading or a visual card deck.
 """
 
 @app.get("/", response_class=HTMLResponse)
@@ -262,7 +309,7 @@ async def get_stats():
     return {
         "total_documents": len(indexer.documents),
         "total_entities": len(indexer.entities),
-        "has_api_key": bool(DEEPSEEK_API_KEY),
+        "missing_source_urls": indexer.missing_url_count(),
         "status": "online"
     }
 
@@ -270,15 +317,21 @@ async def get_stats():
 async def get_images_map():
     return IMAGE_MAP
 
-@app.post("/api/search")
+@app.post("/api/search", include_in_schema=False)
 async def search_endpoint(payload: dict):
-    query = payload.get("query", "")
-    state = payload.get("state", "National")
+    query = str(payload.get("query", "")).strip()
+    state = normalize_state(payload.get("state"))
     if not query:
         raise HTTPException(status_code=400, detail="Query string is required")
+
+    guard_res = sanitize_input(query)
+    if not guard_res["is_safe"]:
+        raise HTTPException(status_code=400, detail=guard_res["flag_reason"])
+    query = guard_res["sanitized_text"][:2000]
+    policy = classify_query(query)
         
-    docs = indexer.search_documents(query, state=state, top_k=5)
-    entities = indexer.search_entities(query, state=state, top_k=4)
+    docs = indexer.search_documents(query, state=state, top_k=5, topic=policy["topic"])
+    entities = indexer.search_entities(query, state=state, top_k=4, topic=policy["topic"])
     
     # Attach images only when the user is clearly asking about visual equipment/resources.
     if should_include_resource_images(query):
@@ -301,23 +354,33 @@ async def chat_endpoint(request: Request):
     client_ip = request.client.host if request.client else "unknown"
     if not check_rate_limit(client_ip):
         async def rate_limit_stream():
-            yield f"data: {json.dumps({'content': '⏳ **Rate limit reached.** Please wait a minute before sending another message. This protects the service for everyone! 💙'})}\n\n"
+            yield f"data: {json.dumps({'content': 'Too many messages in a short time. Please wait a minute and try again.'})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(rate_limit_stream(), media_type="text/event-stream")
 
-    data = await request.json()
-    message = data.get("message", "").strip()
-    state = data.get("state", "National")
+    try:
+        data = await request.json()
+    except Exception:
+        raise HTTPException(status_code=400, detail="Invalid JSON payload")
+    if not isinstance(data, dict):
+        raise HTTPException(status_code=400, detail="Invalid JSON payload")
+
+    message = str(data.get("message", "")).strip()
+    state = normalize_state(data.get("state"))
     history = data.get("history", []) # List of {"role": "user"|"assistant", "content": str}
     profile_prompt = build_user_profile_system_prompt(data.get("profile"))
+    profile_role = None
+    raw_profile = data.get("profile") if isinstance(data.get("profile"), dict) else {}
+    if raw_profile.get("role") in ALLOWED_PROFILE_ROLES:
+        profile_role = raw_profile.get("role")
     
-    # Backend environment API key takes precedence
-    api_key = DEEPSEEK_API_KEY or data.get("api_key", "").strip()
-    model = data.get("model", "deepseek-chat") # deepseek-chat or deepseek-reasoner
+    # Backend environment API key only — never accept a key from the browser
+    api_key = DEEPSEEK_API_KEY
+    model = "deepseek-chat"
 
     if not message:
         async def empty_stream():
-            msg = json.dumps({"content": "💡 **Hmm, looks like an empty message!** Try asking about MND equipment, NDIS funding, or care planning — I'm here to help! 🌟"})
+            msg = json.dumps({"content": "Please type a question about MND care, equipment, NDIS, or support."})
             yield f"data: {msg}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(empty_stream(), media_type="text/event-stream")
@@ -334,6 +397,8 @@ async def chat_endpoint(request: Request):
             yield f"data: {json.dumps({'content': warning_msg})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
+    message = guard_res["sanitized_text"]
+    policy = classify_query(message, profile_role)
 
     # Fast-path for casual greetings — skip RAG + LLM entirely to save API tokens
     clean_msg = re.sub(r'[^a-z\'\s]', '', message.lower()).strip(" '")
@@ -380,17 +445,21 @@ async def chat_endpoint(request: Request):
             yield "data: [DONE]\n\n"
         return StreamingResponse(bot_identity_stream(), media_type="text/event-stream")
 
-    is_emergency = check_emergency(message)
-
-    # Sanitize and validate conversation history
+    # Conversation history and follow-up expansion
     clean_history = []
     if isinstance(history, list):
         for item in history:
             if isinstance(item, dict) and "role" in item and "content" in item:
                 role = "user" if item["role"] == "user" else "assistant"
-                content = str(item["content"]).strip()
-                if content:
-                    clean_history.append({"role": role, "content": content[:2500]})
+                content = str(item["content"]).strip()[:2500]
+                if not content:
+                    continue
+                history_guard = sanitize_input(content)
+                if history_guard["is_safe"]:
+                    clean_history.append({
+                        "role": role,
+                        "content": history_guard["sanitized_text"][:2500],
+                    })
 
     # Context-aware query expansion for follow-up questions
     # e.g. "summarize that in one sentence" or "show me a picture of that"
@@ -407,14 +476,24 @@ async def chat_endpoint(request: Request):
                 search_query = f"{last_user_query} {message}"
 
     # Perform RAG retrieval with strict state filtering
-    docs = indexer.search_documents(search_query, state=state, top_k=5)
-    entities = indexer.search_entities(search_query, state=state, top_k=4)
+    # Retrieve more excerpts when the answer needs a detailed pathway
+    doc_k = 8 if policy.get("detail_mode") == "detailed" else 5
+    ent_k = 6 if policy.get("detail_mode") == "detailed" else 4
+    docs = indexer.search_documents(search_query, state=state, top_k=doc_k, topic=policy["topic"])
+    entities = indexer.search_entities(search_query, state=state, top_k=ent_k, topic=policy["topic"])
 
     # Attach product photos to visual equipment entities only — skip
     # category fallback so NIV/info records are not paired with unrelated beds.
-    if should_include_resource_images(search_query):
+    policy["show_images"] = should_include_resource_images(search_query)
+    if policy["show_images"]:
         for ent in entities:
             ent["image_url"] = find_image_for_query(ent.get("name", ""))
+
+    packaged_sources = collect_sources(docs, entities)
+    if data.get("debug"):
+        sources = refine_sources(packaged_sources, search_query, policy["topic"])
+    else:
+        sources = refine_sources(public_sources(packaged_sources), search_query, policy["topic"])
 
     # Format context block
     context_items = []
@@ -436,14 +515,24 @@ async def chat_endpoint(request: Request):
                 d_str += f"\n  Image URL: {d.get('image_url')}"
             context_items.append(d_str)
 
-    context_block = "\n\n".join(context_items)
-    system_prompt = SYSTEM_PROMPT_TEMPLATE.format(selected_state=state, context_block=context_block)
+    context_block = "\n\n".join(context_items) or "No matching knowledge-base excerpts were found for this question."
+    system_prompt = SYSTEM_PROMPT_TEMPLATE.format(
+        selected_state=state,
+        context_block=context_block,
+        answer_guidance=answer_guidance(policy, state),
+        audience_guidance=audience_guidance(policy["audience"]),
+        length_guidance=length_guidance(policy["length_mode"]),
+        topic_guidance=topic_guidance(policy["topic"]),
+        situation_logic=situation_logic(policy, state, message),
+    )
     if profile_prompt:
         system_prompt = f"{profile_prompt}\n\n{system_prompt}"
 
     emergency_banner = ""
-    if is_emergency:
-        emergency_banner = "🚨 **EMERGENCY WARNING:** If you or someone you are caring for is experiencing acute, severe breathing difficulty, choking, or a sudden emergency, **PLEASE CALL TRIPLE ZERO (000) IMMEDIATELY** for an ambulance in Australia.\n\n"
+    if policy["emergency"]:
+        emergency_banner = EMERGENCY_BANNER
+    elif policy["crisis"]:
+        emergency_banner = CRISIS_BANNER
 
     # DeepSeek API Call streaming OR Offline Fallback RAG generator
     if api_key:
@@ -451,6 +540,9 @@ async def chat_endpoint(request: Request):
         async def deepseek_stream_generator():
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
+
+            if sources:
+                yield f"data: {json.dumps({'sources': sources})}\n\n"
 
             url = "https://api.deepseek.com/v1/chat/completions"
             headers = {
@@ -478,7 +570,12 @@ async def chat_endpoint(request: Request):
                     "Use the saved profile visibly: frame the answer for this user's role, "
                     "jurisdiction, and practical responsibilities."
                 )
-            user_prompt_parts.append(f"Query: {message}")
+            user_prompt_parts.append(situation_logic(policy, state, message))
+            user_prompt_parts.append(f"Question: {message}")
+            user_prompt_parts.append(
+                "Write the full answer now. Follow the situation logic. "
+                "Be detailed enough to act on this week, with short paragraphs and bullets."
+            )
             user_prompt_with_state = "\n".join(user_prompt_parts)
             api_messages.append({"role": "user", "content": user_prompt_with_state})
 
@@ -494,7 +591,7 @@ async def chat_endpoint(request: Request):
                     async with client.stream("POST", url, headers=headers, json=payload) as response:
                         if response.status_code != 200:
                             err_text = await response.aread()
-                            yield f"data: {json.dumps({'content': f'⚠️ DeepSeek API Error ({response.status_code}): {err_text.decode()}'})}\n\n"
+                            yield f"data: {json.dumps({'content': f'The assistant service returned an error ({response.status_code}). Please try again shortly.'})}\n\n"
                             return
                         
                         async for chunk in response.aiter_lines():
@@ -509,71 +606,27 @@ async def chat_endpoint(request: Request):
                                         yield f"data: {json.dumps({'content': delta})}\n\n"
                                 except Exception:
                                     pass
-            except Exception as e:
-                yield f"data: {json.dumps({'content': f'⚠️ Connection Error: {str(e)}'})}\n\n"
+            except Exception:
+                yield f"data: {json.dumps({'content': 'Could not reach the assistant service. Please try again.'})}\n\n"
 
             yield "data: [DONE]\n\n"
 
         return StreamingResponse(deepseek_stream_generator(), media_type="text/event-stream")
 
     else:
-        # Instant Offline RAG Synthesizer when no DeepSeek API key is entered yet
+        # Instant offline answers when no API key is configured
         async def offline_stream_generator():
             await asyncio.sleep(0.1)
             
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
 
-            intro = (
-                "*Local knowledge index — add a DeepSeek API key to enable live generated answers.*\n\n"
-            )
-            yield f"data: {json.dumps({'content': intro})}\n\n"
+            if sources:
+                yield f"data: {json.dumps({'sources': sources})}\n\n"
 
-            # Build intelligent local synthesis response from top entities & docs
-            response_text = ""
-            if profile_prompt:
-                response_text += f"**Profile used:** {profile_prompt}\n\n"
-
-            if entities:
-                response_text += "#### Services and equipment\n"
-                for ent in entities:
-                    url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url') or '#'
-                    response_text += f"- **[{ent.get('name')}]({url})** ({ent.get('category', '').replace('_', ' ').title()})\n  {ent.get('description')}\n"
-                    if ent.get('eligibility'):
-                        response_text += f"  *Who is eligible:* {ent.get('eligibility')}\n"
-                    if ent.get('image_url'):
-                        response_text += f"\n\n![{ent.get('name')}]({ent.get('image_url')})\n\n"
-                    response_text += "\n"
-
-            if docs:
-                response_text += "#### From the knowledge base\n"
-                for doc in docs[:3]:
-                    response_text += f"**[{doc.get('source_title')}]({doc.get('url')})** *(Publisher: {doc.get('publisher')})*:\n"
-                    txt_snippet = doc.get('text', '')
-                    if len(txt_snippet) > 300:
-                        txt_snippet = txt_snippet[:300] + "..."
-                    response_text += f"> \"{txt_snippet}\"\n\n"
-
-            # Build explicit clickable sources section
-            response_text += "### Verified Sources & Reference Links:\n"
-            seen_urls = set()
-            if entities:
-                for ent in entities:
-                    url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url')
-                    name = ent.get('name')
-                    if url and url not in seen_urls and url != '#':
-                        seen_urls.add(url)
-                        response_text += f"- [{name}]({url})\n"
-            if docs:
-                for doc in docs:
-                    url = doc.get('url')
-                    title = doc.get('source_title')
-                    pub = doc.get('publisher')
-                    if url and url not in seen_urls and url:
-                        seen_urls.add(url)
-                        response_text += f"- [{title} — {pub}]({url})\n"
-
-            response_text += "\n---\n*Personal care decisions should be confirmed with your MND advisor, occupational therapist, speech pathologist, and GP.*"
+            response_text = build_offline_answer(policy, entities, docs)
+            checked = validate_output(response_text)
+            response_text = strip_verified_sources_section(checked.get("cleaned_text") or response_text)
 
             # Stream in larger chunks so markdown does not reflow on every word
             words = response_text.split(" ")

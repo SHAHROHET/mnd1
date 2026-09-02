@@ -10,6 +10,7 @@ import numpy as np
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 METADATA_DIR = os.path.join(BASE_DIR, "data", "metadata")
 CACHE_FILE = os.path.join(BASE_DIR, "backend", "index_cache.pkl")
+CACHE_VERSION = 3
 
 STATE_SYNONYMS = {
     "NSW": ["NSW", "NSW/ACT", "NSW/ACT/NT", "NEW SOUTH WALES"],
@@ -50,6 +51,62 @@ def entity_url(ent):
 
 def normalize_entity_url(url):
     return str(url or "").strip().lower().rstrip("/")
+
+
+NATIONAL_STATES = {
+    "", "NATIONAL", "ALL", "AUSTRALIA", "NATIONAL/UNSPECIFIED", "INTERNATIONAL",
+}
+
+PUBLISHER_HOMEPAGES = {
+    "mnd australia": "https://www.mndaustralia.org.au",
+    "mnd nsw": "https://www.mndnsw.org.au",
+    "mnd victoria": "https://www.mnd.asn.au",
+    "mnd queensland": "https://www.mndqld.org.au",
+    "mnd western australia": "https://www.mndawa.asn.au",
+    "mnd south australia": "https://www.mndsa.org.au",
+    "healthdirect australia": "https://www.healthdirect.gov.au",
+    "healthdirect": "https://www.healthdirect.gov.au",
+    "ndis": "https://www.ndis.gov.au",
+    "services australia": "https://www.servicesaustralia.gov.au",
+    "carer gateway": "https://www.carergateway.gov.au",
+    "my aged care": "https://www.myagedcare.gov.au",
+    "palliative care australia": "https://palliativecare.org.au",
+    "caresearch": "https://www.caresearch.com.au",
+    "lifeline australia": "https://www.lifeline.org.au",
+    "beyond blue": "https://www.beyondblue.org.au",
+}
+
+DEFINITION_TITLE_RE = re.compile(
+    r"(what is (motor neurone|mnd)|motor neurone disease \(mnd\)|overview of mnd|"
+    r"about (motor neurone|mnd)|causes, symptoms and treatments|learn about motor neurone)",
+    re.I,
+)
+OFFTOPIC_DEFINITION_RE = re.compile(
+    r"\b(niv|non-invasive|wheelchair|flexequip|notification|research grants|"
+    r"statistics|swallowing|eye gaze|commode|shower|hoist|respiratory equipment)\b",
+    re.I,
+)
+NEWSY_TITLE_RE = re.compile(
+    r"notification|media release|\bnews\b|from \d|1 september|campaign",
+    re.I,
+)
+PRODUCT_ENTITY_HINTS = (
+    "communication", "assistive_technology", "wheelchair", "equipment",
+    "notification", "flexequip", "eye gaze", "commode", "shower", "bed",
+    "product",
+)
+
+
+def record_http_url(record):
+    for key in ("url", "website", "source_url", "served_url", "product_url"):
+        val = str(record.get(key) or "").strip()
+        if val.lower().startswith("http"):
+            return val
+    return ""
+
+
+def publisher_homepage(publisher):
+    return PUBLISHER_HOMEPAGES.get(str(publisher or "").strip().lower(), "")
 
 
 def is_state_match(target_state, item_state):
@@ -112,6 +169,7 @@ class MNDIndexer:
 
         print(f"Loaded {len(self.documents)} document chunks.", flush=True)
         print(f"Loaded {len(self.entities)} structured entity records.", flush=True)
+        self._backfill_missing_urls()
 
         # 2. Build TF-IDF vectorizer over document chunks
         print("Computing TF-IDF matrix...", flush=True)
@@ -127,6 +185,7 @@ class MNDIndexer:
 
         # 3. Save cache to disk
         cache_data = {
+            "cache_version": CACHE_VERSION,
             "metadata_signature": self._metadata_signature(),
             "documents": self.documents,
             "entities": self.entities,
@@ -142,7 +201,10 @@ class MNDIndexer:
             print(f"Loading index from cache: {CACHE_FILE}", flush=True)
             with open(CACHE_FILE, "rb") as f:
                 data = pickle.load(f)
-            if data.get("metadata_signature") != self._metadata_signature():
+            if (
+                data.get("cache_version") != CACHE_VERSION
+                or data.get("metadata_signature") != self._metadata_signature()
+            ):
                 print("Index cache is stale; rebuilding from metadata.", flush=True)
                 self.build_index()
                 return
@@ -151,11 +213,58 @@ class MNDIndexer:
                 self.entities = data["entities"]
                 self.vectorizer = data["vectorizer"]
                 self.tfidf_matrix = data["tfidf_matrix"]
+                self._backfill_missing_urls()
             print(f"Loaded {len(self.documents)} docs, {len(self.entities)} entities.", flush=True)
         else:
             self.build_index()
 
-    def search_entities(self, query, state=None, top_k=4):
+    def _backfill_missing_urls(self):
+        """Copy alternate URL fields, then same-title matches, then known publisher homepages."""
+        title_urls = {}
+        for doc in self.documents:
+            url = record_http_url(doc)
+            if not url:
+                continue
+            title = str(doc.get("source_title") or "").strip().lower()
+            pub = str(doc.get("publisher") or "").strip().lower()
+            if title:
+                title_urls.setdefault((title, pub), url)
+                title_urls.setdefault((title, ""), url)
+
+        filled = 0
+        for doc in self.documents:
+            url = record_http_url(doc)
+            if url:
+                if not str(doc.get("url") or "").lower().startswith("http"):
+                    doc["url"] = url
+                continue
+            title = str(doc.get("source_title") or "").strip().lower()
+            pub = str(doc.get("publisher") or "").strip().lower()
+            url = title_urls.get((title, pub)) or title_urls.get((title, "")) or publisher_homepage(pub)
+            if url:
+                doc["url"] = url
+                filled += 1
+
+        for ent in self.entities:
+            url = record_http_url(ent)
+            if url:
+                if not str(ent.get("url") or "").lower().startswith("http"):
+                    ent["url"] = url
+                continue
+            pub = str(ent.get("publisher") or ent.get("supplier") or "").strip().lower()
+            url = publisher_homepage(pub)
+            if url:
+                ent["url"] = url
+                filled += 1
+        if filled:
+            print(f"Backfilled {filled} missing source URLs.", flush=True)
+
+    def missing_url_count(self) -> int:
+        docs = sum(1 for d in self.documents if not str(d.get("url") or "").lower().startswith("http"))
+        ents = sum(1 for e in self.entities if not record_http_url(e).lower().startswith("http"))
+        return docs + ents
+
+    def search_entities(self, query, state=None, top_k=4, topic=None):
         """Search structured entity records (equipment, services, NDIS funding, etc.)"""
         query_words = {
             w for w in re.findall(r'\w+', query.lower())
@@ -171,7 +280,14 @@ class MNDIndexer:
             desc = str(ent.get("description", "")).lower()
             cat = str(ent.get("category", "")).lower()
             ent_state = str(ent.get("state", "")).upper()
-            
+            blob = f"{name} {cat}"
+
+            if topic in {"definition", "mental_health", "crisis", "medical"}:
+                if any(re.search(r"\b" + re.escape(hint) + r"\b", blob) for hint in PRODUCT_ENTITY_HINTS):
+                    continue
+                if topic == "definition" and any(x in cat for x in ("research_grants", "resource_library")):
+                    continue
+
             # Word boundary matching
             for w in query_words:
                 pattern = r'\b' + re.escape(w) + r'\b'
@@ -180,10 +296,13 @@ class MNDIndexer:
                 if re.search(pattern, desc): score += 1.0
 
             if score > 0:
+                if topic in {"definition", "mental_health", "crisis"}:
+                    if "association" in cat or "mnd nsw" in name or "mnd australia" in name:
+                        score += 8.0
                 # State filtering & heavy boosting
                 if state and state.upper() not in ["ALL", "NATIONAL"]:
                     if is_state_match(state, ent_state):
-                        if ent_state not in ["AUSTRALIA", "NATIONAL", "ALL", "INTERNATIONAL"]:
+                        if ent_state not in NATIONAL_STATES:
                             score += 10.0 # Heavy boost for target state specific entities
                     else:
                         score -= 15.0 # Severe penalty for conflicting state entities
@@ -212,22 +331,39 @@ class MNDIndexer:
                 break
         return results
 
-    def search_documents(self, query, state=None, category=None, top_k=5):
-        """Search text chunks using TF-IDF cosine similarity + state filtering boost"""
+    def search_documents(self, query, state=None, category=None, top_k=5, topic=None):
+        """Search text chunks using TF-IDF cosine similarity + title/topic rerank."""
         query_vec = self.vectorizer.transform([query])
         similarities = cosine_similarity(query_vec, self.tfidf_matrix).flatten()
-        
-        # Apply state boost or penalty
-        if state and state.upper() not in ["ALL", "NATIONAL"]:
-            for idx, doc in enumerate(self.documents):
-                doc_st = str(doc.get("state", "")).upper()
-                if is_state_match(state, doc_st):
-                    if doc_st not in ["NATIONAL/UNSPECIFIED", "ALL", "AUSTRALIA"]:
-                        similarities[idx] *= 2.5 # 2.5x boost for matching state chunks
-                else:
-                    similarities[idx] *= 0.1 # Heavily suppress non-matching state chunks
+        query_terms = [w for w in re.findall(r"[a-z0-9]+", query.lower()) if len(w) > 2]
+        apply_state_boost = topic not in {"definition", "medical", "mental_health", "crisis"}
 
-        top_indices = np.argsort(similarities)[::-1][:top_k*3]
+        for idx, doc in enumerate(self.documents):
+            title = str(doc.get("source_title", "")).lower()
+            if query_terms:
+                title_hits = sum(1 for term in query_terms if term in title)
+                if title_hits:
+                    similarities[idx] *= 1.0 + 0.45 * title_hits
+            if NEWSY_TITLE_RE.search(title):
+                similarities[idx] *= 0.12
+            if topic == "definition":
+                if DEFINITION_TITLE_RE.search(title):
+                    similarities[idx] *= 8.0
+                topic_id = str(doc.get("topic") or doc.get("v1_data_topic") or "").lower()
+                if topic_id in {"mnd_basics", "01_mnd_basics"} or topic_id.startswith("01_"):
+                    similarities[idx] *= 2.0
+                if OFFTOPIC_DEFINITION_RE.search(title):
+                    similarities[idx] *= 0.08
+            if apply_state_boost and state and state.upper() not in ["ALL", "NATIONAL"]:
+                doc_st = str(doc.get("state") or "").upper()
+                if is_state_match(state, doc_st):
+                    if doc_st not in NATIONAL_STATES:
+                        similarities[idx] *= 2.5
+                else:
+                    similarities[idx] *= 0.1
+
+        pool = top_k * 5 if topic == "definition" else top_k * 3
+        top_indices = np.argsort(similarities)[::-1][:pool]
         results = []
         seen_urls = set()
         seen_texts = set()

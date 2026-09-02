@@ -2,22 +2,34 @@ import re
 
 # --- Prompt Injection Detection Patterns ---
 PROMPT_INJECTION_PATTERNS = [
-    r"ignore\s+(?:all\s+)?previous\s+instructions",
-    r"override\s+(?:the\s+)?system\s+prompt",
-    r"forget\s+(?:all\s+)?(?:your\s+)?rules",
+    r"ignore\s+(?:all\s+)?(?:previous\s+instructions|safety\s+filters|guidelines)",
+    r"override\s+(?:the\s+)?(?:system\s+prompt|safety\s+rules)",
+    r"forget\s+(?:all\s+)?(?:your\s+)?(?:rules|instructions)",
     r"you\s+are\s+now\s+(?:dan|dav|evil|unrestricted)",
-    r"act\s+as\s+an?\s+unrestricted",
+    r"(?:act|roleplay)\s+as\s+an?\s+(?:unrestricted|jailbroken|evil)",
     r"jailbreak",
     r"system\s*:\s*you\s+are",
-    r"disregard\s+the\s+above",
+    r"disregard\s+the\s+(?:above|previous)",
     r"pretend\s+you\s+(?:are|have)\s+no\s+(?:rules|restrictions|guidelines)",
     r"do\s+not\s+follow\s+(?:any|your)\s+(?:rules|instructions|guidelines)",
     r"respond\s+without\s+(?:any\s+)?(?:rules|restrictions|filters)",
+    r"bypass\s+(?:all\s+)?(?:safety|content|system)\s+filters",
+    r"(?:output|reveal|print|show)\s+(?:the|your)\s+(?:system\s+prompt|initialization\s+instructions|system\s+instructions)",
+    r"developer\s+mode\s+(?:enabled|on|activate)",
     r"new\s+instructions?\s*:",
     r"\[system\]",
+    r"\[\/system\]",
+    r"\[inst\]",
+    r"\[\/inst\]",
+    r"<<sys>>",
+    r"<</sys>>",
     r"<\|im_start\|>",
+    r"<\|im_end\|>",
     r"<\|system\|>",
 ]
+
+# Zero-width & directional override characters used for evasion
+_EVASION_CHARS = re.compile(r'[\u200B-\u200D\uFEFF\u202A-\u202E\u2066-\u2069]')
 
 # --- Output Safety Patterns ---
 # These patterns catch potentially dangerous content in AI-generated responses
@@ -38,9 +50,14 @@ VERIFIED_NUMBERS = [
     "000",             # Triple Zero Emergency
     "1800 777 175",    # MND Australia Connect
     "1800 187 263",    # MND NSW InfoLine
-    "1800 806 218",    # Beyond Blue
+    "1800 806 218",    # Beyond Blue (legacy)
+    "1300 22 4636",    # Beyond Blue
+    "1300224636",
     "131114",          # Lifeline
-    "1800 059 059",    # Carer Gateway
+    "13 11 14",
+    "1800 059 059",    # Carer Gateway (legacy)
+    "1800 422 737",    # Carer Gateway
+    "1800422737",
     "1800 800 110",    # NDIS
 ]
 
@@ -49,7 +66,9 @@ def sanitize_input(text: str) -> dict:
     if not text or not isinstance(text, str):
         return {"is_safe": True, "sanitized_text": "", "flag_reason": None}
 
-    text_clean = text.strip()
+    # Normalize by stripping zero-width and bidi override characters
+    normalized = _EVASION_CHARS.sub("", text)
+    text_clean = normalized.strip()
     
     # Reject absurdly long inputs (DoS prevention)
     if len(text_clean) > 5000:
