@@ -193,7 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (isCoarsePointer()) return false;
         const widthRatio = window.outerWidth / Math.max(window.innerWidth, 1);
         const heightRatio = window.outerHeight / Math.max(window.innerHeight, 1);
-        return widthRatio > 1.2 && heightRatio > 1.15;
+        return widthRatio > 1.08 || (widthRatio > 1.04 && heightRatio > 1.25);
     }
 
     function isTypingOnMobile() {
@@ -215,7 +215,11 @@ document.addEventListener("DOMContentLoaded", () => {
         if (vv && isCoarsePointer() && !isPinchZoomed()) {
             height = vv.height;
         }
-        document.documentElement.style.setProperty("--app-height", `${Math.round(height)}px`);
+        if (pageZoomed) {
+            document.documentElement.style.removeProperty("--app-height");
+        } else {
+            document.documentElement.style.setProperty("--app-height", `${Math.round(height)}px`);
+        }
         document.body.classList.toggle("keyboard-open", isTypingOnMobile());
         syncComposerHeight();
         if (isTypingOnMobile()) {

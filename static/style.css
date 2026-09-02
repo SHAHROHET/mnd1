@@ -162,22 +162,41 @@ body {
 
 html.page-zoomed,
 html.page-zoomed body {
-    overflow: auto;
-    height: auto;
-    max-height: none;
+    overflow-x: auto !important;
+    overflow-y: scroll !important;
+    height: auto !important;
+    max-height: none !important;
+    overscroll-behavior: auto;
 }
 
 html.page-zoomed .app-container,
 html.page-zoomed .chat-panel {
-    height: auto;
-    max-height: none;
+    height: auto !important;
+    max-height: none !important;
     min-height: 100svh;
     min-height: 100dvh;
-    overflow: visible;
+    overflow: visible !important;
 }
 
 html.page-zoomed .chat-messages {
-    min-height: 60vh;
+    flex: 0 0 auto !important;
+    min-height: 50vh;
+    max-height: none !important;
+    overflow: visible !important;
+    overscroll-behavior: auto;
+    touch-action: pan-x pan-y pinch-zoom;
+}
+
+html.page-zoomed .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 40;
+}
+
+html.page-zoomed .input-container {
+    position: sticky;
+    bottom: 0;
+    z-index: 40;
 }
 
 body.theme-light .chat-panel {
