@@ -163,6 +163,45 @@ document.addEventListener("DOMContentLoaded", () => {
     let chatHistory = []; // Stores conversation turn history [{role, content}] for RAG API payload
     let isStreaming = false; // Concurrency guard — prevents overlapping requests
     const scrollToBottomBtn = document.getElementById("scrollToBottomBtn");
+    const inputContainer = document.querySelector(".input-container");
+
+    function syncComposerHeight() {
+        if (!inputContainer) return;
+        document.documentElement.style.setProperty(
+            "--composer-height",
+            `${inputContainer.offsetHeight}px`
+        );
+    }
+
+    function isTypingOnMobile() {
+        if (document.activeElement === userMessage) return true;
+        const vv = window.visualViewport;
+        if (!vv) return false;
+        return (window.innerHeight - vv.height) > 180;
+    }
+
+    function syncMobileViewport() {
+        const vv = window.visualViewport;
+        const height = vv ? vv.height : window.innerHeight;
+        document.documentElement.style.setProperty("--app-height", `${Math.round(height)}px`);
+        document.body.classList.toggle("keyboard-open", isTypingOnMobile());
+        syncComposerHeight();
+        if (isTypingOnMobile()) {
+            scrollToBottomBtn?.classList.remove("visible");
+        }
+    }
+
+    syncMobileViewport();
+    window.addEventListener("resize", syncMobileViewport);
+    window.visualViewport?.addEventListener("resize", syncMobileViewport);
+    window.visualViewport?.addEventListener("scroll", syncMobileViewport);
+    if (inputContainer && typeof ResizeObserver !== "undefined") {
+        new ResizeObserver(syncComposerHeight).observe(inputContainer);
+    }
+    userMessage?.addEventListener("focus", syncMobileViewport);
+    userMessage?.addEventListener("blur", () => {
+        setTimeout(syncMobileViewport, 150);
+    });
 
     chatMessages.addEventListener("scroll", () => {
         const threshold = 100; // px threshold from bottom
@@ -170,7 +209,7 @@ document.addEventListener("DOMContentLoaded", () => {
         isUserAtBottom = distanceFromBottom <= threshold;
 
         if (scrollToBottomBtn) {
-            if (!isUserAtBottom) {
+            if (!isUserAtBottom && !isTypingOnMobile()) {
                 scrollToBottomBtn.classList.add("visible");
             } else {
                 scrollToBottomBtn.classList.remove("visible");
@@ -791,7 +830,11 @@ document.addEventListener("DOMContentLoaded", () => {
             isStreaming = false;
             sendBtn.disabled = !userMessage.value.trim();
             userMessage.removeAttribute("disabled");
-            userMessage.focus();
+            const isTouch = window.matchMedia("(pointer: coarse)").matches;
+            if (!isTouch) {
+                userMessage.focus();
+            }
+            syncMobileViewport();
         }
     });
 
