@@ -245,7 +245,7 @@ At the VERY END of EVERY response, you MUST ALWAYS include a section titled:
 List every source used from the context above as a bullet point with a clickable Markdown link:
 - [Source Title — Publisher Name](exact_url)
 - Every single link MUST be on its own separate bullet line starting with `- `. Never combine or concatenate multiple links together on the same line or in a single paragraph.
-- Do NOT output a section named "Verified Equipment & Services:" or "Verified Sources:" in your text — the user interface automatically renders an interactive visual card deck for retrieved records directly below.
+- Do NOT add a second source block named "Verified Equipment & Services:" or "Verified Sources:" and do not describe a visual card deck. The bullet list is the only sources section the user should see.
 """
 
 @app.get("/", response_class=HTMLResponse)
@@ -435,9 +435,6 @@ async def chat_endpoint(request: Request):
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
 
-            # Yield matched entities list for visual UI card deck
-            yield f"data: {json.dumps({'entities': entities})}\n\n"
-
             url = "https://api.deepseek.com/v1/chat/completions"
             headers = {
                 "Authorization": f"Bearer {api_key}",
@@ -509,9 +506,6 @@ async def chat_endpoint(request: Request):
             
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
-
-            # Yield matched entities list for visual UI card deck
-            yield f"data: {json.dumps({'entities': entities})}\n\n"
 
             intro = f"*(Using Local Knowledge Index Mode — Enter a DeepSeek API key in the top right to enable live DeepSeek API generation)*\n\n"
             yield f"data: {json.dumps({'content': intro})}\n\n"

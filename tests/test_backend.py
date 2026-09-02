@@ -458,5 +458,40 @@ class TestGreetings(unittest.TestCase):
         self.assertIn("NSW", content)
 
 
+class TestChatSourcePresentation(unittest.TestCase):
+    """Answers should list sources as bullets, not stream a visual card payload."""
+
+    def test_chat_does_not_stream_entity_cards(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import app
+        from fastapi.testclient import TestClient
+
+        with TestClient(app) as client:
+            response = client.post("/api/chat", json={
+                "message": "What Centrelink payments are available for carers?",
+                "state": "NSW"
+            })
+            self.assertEqual(response.status_code, 200)
+
+            content = ""
+            entity_events = []
+            for chunk in response.iter_lines():
+                chunk_str = chunk.decode("utf-8") if isinstance(chunk, bytes) else chunk
+                if chunk_str.startswith("data: "):
+                    data_str = chunk_str[6:]
+                    if data_str.strip() == "[DONE]":
+                        break
+                    try:
+                        parsed = json.loads(data_str)
+                        content += parsed.get("content", "")
+                        if "entities" in parsed:
+                            entity_events.append(parsed["entities"])
+                    except Exception:
+                        pass
+
+            self.assertEqual(entity_events, [])
+            self.assertIn("Verified Sources & Reference Links", content)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

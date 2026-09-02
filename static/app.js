@@ -361,7 +361,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             // Re-render past messages
             conv.messages.forEach(msg => {
-                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.entities);
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp);
                 chatMessages.appendChild(row);
             });
             
@@ -718,7 +718,6 @@ document.addEventListener("DOMContentLoaded", () => {
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
         let fullContent = "";
-        let currentEntities = [];
 
         // Add user message to conversation history BEFORE sending to API
         // so the backend receives complete context for multi-turn conversations
@@ -760,9 +759,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
                         try {
                             const parsed = JSON.parse(jsonStr);
-                            if (parsed.entities) {
-                                currentEntities = parsed.entities;
-                            }
                             if (parsed.content) {
                                 fullContent += parsed.content;
                                 contentDiv.innerHTML = safeRenderMarkdown(fullContent);
@@ -786,26 +782,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
 
-                // Save assistant message with retrieved entities to conversations storage
                 conversations[currentConvId].messages.push({
                     role: "assistant",
                     content: fullContent,
-                    timestamp: timestampStr,
-                    entities: currentEntities
+                    timestamp: timestampStr
                 });
                 conversations[currentConvId].updatedAt = Date.now();
                 saveConversations();
-
-                // Append visual card deck if entities found
-                if (currentEntities && currentEntities.length > 0) {
-                    const deck = renderEntityDeck(currentEntities);
-                    if (deck) {
-                        contentDiv.appendChild(deck);
-                    }
-                    if (isUserAtBottom) {
-                        chatMessages.scrollTop = chatMessages.scrollHeight;
-                    }
-                }
 
                 // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
@@ -838,77 +821,15 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    function resolveEntityUrl(ent) {
-        let url = ent.url || ent.website || ent.source_url || ent.served_url || ent.product_url || "";
-        if (!url || url === "#" || url.trim() === "") {
-            const name = (ent.name || "").trim();
-            const supplier = (ent.supplier || "").trim();
-            const query = encodeURIComponent(`${name} ${supplier} MND Australia`.trim());
-            url = `https://www.google.com/search?q=${query}`;
-        }
-        return url;
-    }
-
-    function renderEntityDeck(entities) {
-        if (!entities || entities.length === 0) return null;
-        
-        const deck = document.createElement("div");
-        deck.className = "resources-deck";
-        
-        let deckHtml = `<div class="deck-title"><i class="fa-solid fa-link"></i> Verified Sources:</div>`;
-        deckHtml += `<div class="deck-scroll">`;
-        
-        const seenUrls = new Set();
-        entities.forEach(ent => {
-            const rawImg = ent.image_url || findImageInClientMap(ent.name) || "";
-            const url = resolveEntityUrl(ent);
-            const urlKey = String(url || "").trim().toLowerCase().replace(/\/+$/, "");
-            if (urlKey && seenUrls.has(urlKey)) return;
-            if (urlKey) seenUrls.add(urlKey);
-            const categoryLabel = ent.category ? ent.category.replace(/_/g, ' ').toUpperCase() : 'SUPPORT';
-            const desc = ent.description ? (ent.description.length > 80 ? ent.description.substring(0, 80) + '...' : ent.description) : '';
-            const linkAttrs = `href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"`;
-
-            if (rawImg) {
-                deckHtml += `
-                    <a ${linkAttrs} class="deck-card" title="Open ${escapeHtml(ent.name)} details in new tab">
-                        <div class="deck-card-img-wrap">
-                            <img src="${rawImg}" alt="${escapeHtml(ent.name)}" class="deck-card-img" loading="lazy">
-                        </div>
-                        <div class="deck-card-body">
-                            <span class="deck-card-tag">${escapeHtml(categoryLabel)}</span>
-                            <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
-                            <p class="deck-card-desc">${escapeHtml(desc)}</p>
-                        </div>
-                    </a>
-                `;
-            } else {
-                deckHtml += `
-                    <a ${linkAttrs} class="deck-card no-img-card" title="Open ${escapeHtml(ent.name)} details in new tab">
-                        <div class="deck-card-body">
-                            <span class="deck-card-tag"><i class="fa-solid fa-circle-info"></i> ${escapeHtml(categoryLabel)}</span>
-                            <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
-                            <p class="deck-card-desc">${escapeHtml(desc)}</p>
-                        </div>
-                    </a>
-                `;
-            }
-        });
-        
-        deckHtml += `</div>`;
-        deck.innerHTML = deckHtml;
-        return deck;
-    }
-
-    function appendMessage(role, text, timestamp, entities) {
-        const row = createMessageRow(role, text, timestamp, entities);
+    function appendMessage(role, text, timestamp) {
+        const row = createMessageRow(role, text, timestamp);
         chatMessages.appendChild(row);
         if (isUserAtBottom) {
             chatMessages.scrollTop = chatMessages.scrollHeight;
         }
     }
 
-    function createMessageRow(role, text, timestamp, entities) {
+    function createMessageRow(role, text, timestamp) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -920,12 +841,6 @@ document.addEventListener("DOMContentLoaded", () => {
         content.className = "message-content";
         if (text) {
             content.innerHTML = safeRenderMarkdown(text);
-        }
-
-        // Render visual card deck if entities are provided
-        if (entities && entities.length > 0) {
-            const deck = renderEntityDeck(entities);
-            if (deck) content.appendChild(deck);
         }
 
         // Timestamp label
