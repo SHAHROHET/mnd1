@@ -77,14 +77,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Configure marked to render clickable external links with icons
     const renderer = new marked.Renderer();
-    renderer.link = (linkObj) => {
-        const href = typeof linkObj === 'object' ? linkObj.href : arguments[0];
-        const title = (typeof linkObj === 'object' ? linkObj.title : arguments[1]) || '';
-        const text = (typeof linkObj === 'object' ? linkObj.text : arguments[2]) || href;
-        return `<a href="${href}" target="_blank" rel="noopener noreferrer" title="${title || text}">${text} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75em; opacity: 0.85;"></i></a>`;
+    renderer.link = function(linkObj, titleArg, textArg) {
+        let href = "";
+        let title = "";
+        let text = "";
+        if (linkObj && typeof linkObj === 'object') {
+            href = linkObj.href || "";
+            title = linkObj.title || "";
+            text = linkObj.text || href;
+        } else {
+            href = linkObj || "";
+            title = titleArg || "";
+            text = textArg || href;
+        }
+        if (!href) return text;
+        const safeHref = escapeHtml(href);
+        const safeTitle = escapeHtml(title || text);
+        return `<a href="${safeHref}" target="_blank" rel="noopener noreferrer" title="${safeTitle}">${text} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75em; opacity: 0.85;"></i></a>`;
     };
     
-    renderer.image = (imageObj, titleArg, textArg) => {
+    renderer.image = function(imageObj, titleArg, textArg) {
         let href = "";
         let text = "";
         let title = "";
@@ -130,9 +142,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function safeRenderMarkdown(markdownText) {
         if (!markdownText) return "";
         let cleanText = String(markdownText);
-        // 1. Remove redundant inline raw entity text dump if LLM attempted to print "Verified Equipment & Services:" in plain text
-        cleanText = cleanText.replace(/(?:###\s*)?Verified Equipment\s*&\s*Services:\s*(?:\n|\r\n)*(?:[-*•]?\s*\[.*?\]\(.*?\)\s*)+/gi, "");
-        // 2. Separate any concatenated markdown links like ](url)[Next](url2) into distinct bullet lines
+        // Separate any concatenated markdown links like ](url)[Next](url2) into distinct bullet lines
         cleanText = cleanText.replace(/\]\(([^)]+)\)\s*\[/g, "]($1)\n- [");
         try {
             return marked.parse(cleanText);
@@ -542,11 +552,33 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    // Auto-resize textarea
+    const DRAFT_STORAGE_KEY = "mnd_user_draft";
+
+    // Restore draft if present
+    try {
+        const savedDraft = localStorage.getItem(DRAFT_STORAGE_KEY);
+        if (savedDraft && userMessage) {
+            userMessage.value = savedDraft;
+            userMessage.style.height = "auto";
+            userMessage.style.height = Math.min(userMessage.scrollHeight, 150) + "px";
+            if (sendBtn) sendBtn.disabled = !savedDraft.trim();
+        }
+    } catch (e) {
+        console.warn("Could not restore draft:", e);
+    }
+
+    // Auto-resize textarea & autosave draft
     userMessage.addEventListener("input", () => {
         userMessage.style.height = "auto";
         userMessage.style.height = Math.min(userMessage.scrollHeight, 150) + "px";
         sendBtn.disabled = !userMessage.value.trim() || isStreaming;
+        try {
+            if (userMessage.value.trim()) {
+                localStorage.setItem(DRAFT_STORAGE_KEY, userMessage.value);
+            } else {
+                localStorage.removeItem(DRAFT_STORAGE_KEY);
+            }
+        } catch (e) {}
     });
 
     userMessage.addEventListener("keydown", (e) => {
@@ -568,6 +600,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 userMessage.style.height = "auto";
                 userMessage.style.height = Math.min(userMessage.scrollHeight, 150) + "px";
                 sendBtn.disabled = false;
+                try {
+                    localStorage.setItem(DRAFT_STORAGE_KEY, prompt);
+                } catch (e) {}
                 chatForm.dispatchEvent(new Event("submit"));
             });
         });
@@ -578,6 +613,11 @@ document.addEventListener("DOMContentLoaded", () => {
         e.preventDefault();
         const text = userMessage.value.trim();
         if (!text || isStreaming) return;
+
+        // Clear saved draft on submission
+        try {
+            localStorage.removeItem(DRAFT_STORAGE_KEY);
+        } catch (e) {}
 
         // Ensure we have an active conversation session
         if (!currentConvId || !conversations[currentConvId]) {
@@ -748,6 +788,17 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
+    function resolveEntityUrl(ent) {
+        let url = ent.url || ent.website || ent.source_url || ent.served_url || ent.product_url || "";
+        if (!url || url === "#" || url.trim() === "") {
+            const name = (ent.name || "").trim();
+            const supplier = (ent.supplier || "").trim();
+            const query = encodeURIComponent(`${name} ${supplier} MND Australia`.trim());
+            url = `https://www.google.com/search?q=${query}`;
+        }
+        return url;
+    }
+
     function renderEntityDeck(entities) {
         if (!entities || entities.length === 0) return null;
         
@@ -759,16 +810,14 @@ document.addEventListener("DOMContentLoaded", () => {
         
         entities.forEach(ent => {
             const rawImg = ent.image_url || findImageInClientMap(ent.name) || findImageInClientMap(ent.category) || "";
-            const url = ent.url || ent.website || ent.source_url || ent.served_url || ent.product_url || "";
+            const url = resolveEntityUrl(ent);
             const categoryLabel = ent.category ? ent.category.replace(/_/g, ' ').toUpperCase() : 'SUPPORT';
             const desc = ent.description ? (ent.description.length > 80 ? ent.description.substring(0, 80) + '...' : ent.description) : '';
-            
-            const cardTag = url ? 'a' : 'div';
-            const linkAttrs = url ? `href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"` : '';
+            const linkAttrs = `href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer"`;
 
             if (rawImg) {
                 deckHtml += `
-                    <${cardTag} ${linkAttrs} class="deck-card">
+                    <a ${linkAttrs} class="deck-card" title="Open ${escapeHtml(ent.name)} details in new tab">
                         <div class="deck-card-img-wrap">
                             <img src="${rawImg}" alt="${escapeHtml(ent.name)}" class="deck-card-img" loading="lazy">
                         </div>
@@ -777,17 +826,17 @@ document.addEventListener("DOMContentLoaded", () => {
                             <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
                             <p class="deck-card-desc">${escapeHtml(desc)}</p>
                         </div>
-                    </${cardTag}>
+                    </a>
                 `;
             } else {
                 deckHtml += `
-                    <${cardTag} ${linkAttrs} class="deck-card no-img-card">
+                    <a ${linkAttrs} class="deck-card no-img-card" title="Open ${escapeHtml(ent.name)} details in new tab">
                         <div class="deck-card-body">
                             <span class="deck-card-tag"><i class="fa-solid fa-circle-info"></i> ${escapeHtml(categoryLabel)}</span>
                             <h4 class="deck-card-title" title="${escapeHtml(ent.name)}">${escapeHtml(ent.name)}</h4>
                             <p class="deck-card-desc">${escapeHtml(desc)}</p>
                         </div>
-                    </${cardTag}>
+                    </a>
                 `;
             }
         });
@@ -862,11 +911,57 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    // Lifecycle & Idle state preservation handlers
+    function handlePageResume() {
+        if (currentConvId && conversations[currentConvId]) {
+            // Ensure sidebar list and state select are in sync
+            renderConversationsList();
+        } else {
+            const sortedKeys = Object.keys(conversations).sort((a, b) => conversations[b].updatedAt - conversations[a].updatedAt);
+            if (sortedKeys.length > 0) {
+                currentConvId = sortedKeys[0];
+                saveConversations();
+                renderConversationsList();
+                loadConversation(currentConvId);
+            }
+        }
+    }
+
+    document.addEventListener("visibilitychange", () => {
+        if (document.visibilityState === "visible") {
+            handlePageResume();
+        } else {
+            saveConversations();
+        }
+    });
+
+    window.addEventListener("pageshow", (event) => {
+        if (event.persisted) {
+            handlePageResume();
+        }
+    });
+
+    window.addEventListener("pagehide", () => {
+        saveConversations();
+    });
+
+    window.addEventListener("beforeunload", () => {
+        saveConversations();
+    });
+
     // Startup routing
     if (currentConvId && conversations[currentConvId]) {
         renderConversationsList();
         loadConversation(currentConvId);
     } else {
-        startNewConversation();
+        const sortedKeys = Object.keys(conversations).sort((a, b) => conversations[b].updatedAt - conversations[a].updatedAt);
+        if (sortedKeys.length > 0) {
+            currentConvId = sortedKeys[0];
+            saveConversations();
+            renderConversationsList();
+            loadConversation(currentConvId);
+        } else {
+            startNewConversation();
+        }
     }
 });

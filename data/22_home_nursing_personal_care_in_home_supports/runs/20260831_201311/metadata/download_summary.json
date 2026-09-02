@@ -1,0 +1,12 @@
+{
+  "topic_id": "22_home_nursing_personal_care_in_home_supports",
+  "topic_title": "Home Nursing, Personal Care And In-Home Supports",
+  "run_id": "20260831_201311",
+  "retrieved_at": "2026-08-31",
+  "run_folder": "C:\\Users\\User1\\Downloads\\MND DATA\\22_home_nursing_personal_care_in_home_supports\\runs\\20260831_201311",
+  "sources_downloaded": 24,
+  "chunks_written": 334,
+  "home_support_records_written": 9,
+  "failure_count": 0,
+  "failures_path": "C:\\Users\\User1\\Downloads\\MND DATA\\22_home_nursing_personal_care_in_home_supports\\runs\\20260831_201311\\metadata\\download_failures.txt"
+}

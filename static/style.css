@@ -52,15 +52,15 @@ body.theme-light {
     --shadow-md: 0 14px 35px -18px rgba(15, 23, 42, 0.28);
 }
 
-/* Accessibility font sizing */
+/* Accessibility font sizing with responsive clamp */
 html.font-large {
-    font-size: 20px !important;
+    font-size: clamp(16px, 3.5vw, 19px) !important;
 }
 
 body.font-large .message-content,
 html.font-large .message-content {
-    font-size: 1.25rem !important;
-    line-height: 1.8 !important;
+    font-size: clamp(0.98rem, 2.5vw, 1.18rem) !important;
+    line-height: 1.7 !important;
 }
 
 body.font-large .message-content p,
@@ -69,30 +69,30 @@ body.font-large .message-content blockquote,
 html.font-large .message-content p,
 html.font-large .message-content li,
 html.font-large .message-content blockquote {
-    font-size: 1.25rem !important;
-    line-height: 1.8 !important;
+    font-size: clamp(0.98rem, 2.5vw, 1.18rem) !important;
+    line-height: 1.7 !important;
 }
 
 body.font-large textarea,
 html.font-large textarea {
-    font-size: 1.2rem !important;
+    font-size: clamp(0.95rem, 2.5vw, 1.1rem) !important;
 }
 
 body.font-large .welcome-card h2,
 html.font-large .welcome-card h2 {
-    font-size: 2.1rem !important;
+    font-size: clamp(1.2rem, 3.5vw, 1.8rem) !important;
 }
 
 body.font-large .welcome-card p,
 html.font-large .welcome-card p {
-    font-size: 1.2rem !important;
-    line-height: 1.7 !important;
+    font-size: clamp(0.9rem, 2.2vw, 1.1rem) !important;
+    line-height: 1.6 !important;
 }
 
 body.font-large .chip,
 html.font-large .chip {
-    font-size: 1.05rem !important;
-    padding: 10px 20px !important;
+    font-size: clamp(0.82rem, 2vw, 0.96rem) !important;
+    padding: 8px 14px !important;
 }
 
 * {
@@ -101,17 +101,26 @@ html.font-large .chip {
     padding: 0;
 }
 
+html {
+    height: 100%;
+    width: 100%;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: border-box;
+}
+
 body {
     font-family: var(--font-sans);
     background-color: var(--bg-main);
     color: var(--text-main);
     overflow: hidden;
+    height: 100%;
     height: 100vh;
     height: 100dvh;
     width: 100%;
     max-width: 100vw;
     -webkit-text-size-adjust: 100%;
     box-sizing: border-box;
+    position: relative;
 }
 
 body.theme-light .chat-panel {
@@ -153,6 +162,7 @@ body.theme-light .emergency-box-mini {
 
 .app-container {
     display: flex;
+    height: 100%;
     height: 100vh;
     height: 100dvh;
     width: 100%;
@@ -681,11 +691,15 @@ body.theme-light .update-timestamp-badge {
     flex: 1;
     padding: 24px;
     overflow-y: auto;
+    overflow-x: hidden;
     display: flex;
     flex-direction: column;
     gap: 20px;
     scroll-behavior: smooth;
     position: relative;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-y;
+    overscroll-behavior-y: contain;
 }
 
 /* Welcome Card */
@@ -696,9 +710,11 @@ body.theme-light .update-timestamp-badge {
     padding: 30px;
     text-align: center;
     max-width: 800px;
+    width: 100%;
     margin: 20px auto;
     backdrop-filter: blur(12px);
     box-shadow: var(--shadow-md);
+    box-sizing: border-box;
 }
 
 .welcome-icon {
@@ -818,7 +834,7 @@ body.theme-light .update-timestamp-badge {
     box-sizing: border-box;
     max-width: 100%;
     min-width: 0;
-    overflow-wrap: break-word;
+    overflow-wrap: anywhere;
     word-break: break-word;
 }
 
@@ -897,6 +913,9 @@ body.theme-light .update-timestamp-badge {
     align-items: center;
     gap: 5px;
     word-break: break-word;
+    overflow-wrap: anywhere;
+    max-width: 100%;
+    cursor: pointer;
 }
 .message-content a:hover {
     background: var(--primary);
@@ -904,6 +923,39 @@ body.theme-light .update-timestamp-badge {
     border-color: var(--primary);
     box-shadow: 0 4px 12px var(--primary-glow);
     transform: translateY(-1px);
+}
+
+/* Responsive Tables */
+.message-content table {
+    width: 100%;
+    max-width: 100%;
+    border-collapse: collapse;
+    margin: 14px 0;
+    font-size: 0.88rem;
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border: 1px solid var(--bg-card-border);
+    border-radius: var(--radius-sm);
+}
+
+.message-content th,
+.message-content td {
+    padding: 10px 14px;
+    border: 1px solid var(--bg-card-border);
+    text-align: left;
+    white-space: normal;
+    min-width: 120px;
+}
+
+.message-content th {
+    background: rgba(0, 168, 150, 0.15);
+    color: var(--primary);
+    font-weight: 600;
+}
+
+.message-content tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.02);
 }
 
 /* Code Block Styling */
@@ -1231,8 +1283,11 @@ textarea {
     display: flex;
     gap: 12px;
     overflow-x: auto;
-    padding-bottom: 10px;
-    scroll-snap-type: x mandatory;
+    overflow-y: hidden;
+    padding: 6px 4px 12px 4px;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x pan-y;
+    scroll-behavior: smooth;
 }
 
 .deck-scroll::-webkit-scrollbar {
@@ -1240,7 +1295,7 @@ textarea {
 }
 
 .deck-scroll::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255, 255, 255, 0.15);
     border-radius: 3px;
 }
 
@@ -1248,6 +1303,7 @@ textarea {
     flex: 0 0 225px;
     width: 225px;
     min-width: 225px;
+    max-width: 225px;
     background: rgba(255, 255, 255, 0.03);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: var(--radius-sm);
@@ -1257,8 +1313,11 @@ textarea {
     flex-direction: column;
     overflow: hidden;
     transition: all var(--transition-fast);
-    scroll-snap-align: start;
     box-sizing: border-box;
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 .deck-card:hover {
@@ -1266,6 +1325,10 @@ textarea {
     border-color: var(--primary) !important;
     transform: translateY(-2px);
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+}
+
+.deck-card:active {
+    transform: scale(0.98);
 }
 
 .deck-card-img-wrap {
@@ -1479,6 +1542,10 @@ textarea {
    Comprehensive Responsive Layouts (iPad, Tablet, iPhone, Android)
    ========================================================================== */
 
+/* ==========================================================================
+   Comprehensive Responsive Layouts (iPad, Tablet, iPhone, Android)
+   ========================================================================== */
+
 /* Tablet & iPad Portrait / Landscape (max-width: 1024px) */
 @media (max-width: 1024px) {
     .sidebar {
@@ -1487,6 +1554,7 @@ textarea {
         left: 0;
         bottom: 0;
         width: min(85vw, 320px);
+        height: 100%;
         height: 100vh;
         height: 100dvh;
         z-index: 200;
@@ -1503,13 +1571,15 @@ textarea {
         display: flex !important;
         align-items: center;
         justify-content: center;
-        width: 40px;
-        height: 40px;
+        width: 42px;
+        height: 42px;
+        min-width: 42px;
+        min-height: 42px;
         border-radius: var(--radius-sm);
         background: var(--bg-card);
         border: 1px solid var(--bg-card-border);
         color: var(--text-main);
-        font-size: 1.1rem;
+        font-size: 1.15rem;
         cursor: pointer;
         transition: all var(--transition-fast);
     }
@@ -1524,8 +1594,10 @@ textarea {
         display: flex !important;
         align-items: center;
         justify-content: center;
-        width: 36px;
-        height: 36px;
+        width: 38px;
+        height: 38px;
+        min-width: 38px;
+        min-height: 38px;
         border-radius: var(--radius-sm);
         background: rgba(255, 255, 255, 0.06);
         color: var(--text-muted);
@@ -1539,6 +1611,18 @@ textarea {
 
     .navbar {
         padding: 0 16px;
+        gap: 10px;
+    }
+
+    .nav-right {
+        gap: 8px;
+    }
+
+    .nav-right .btn-secondary,
+    .nav-right .btn-primary {
+        padding: 8px 12px;
+        font-size: 0.82rem;
+        min-height: 38px;
     }
 
     .chat-messages {
@@ -1553,7 +1637,7 @@ textarea {
 /* Mobile Devices (iPhone, Android - max-width: 768px) */
 @media (max-width: 768px) {
     .navbar {
-        height: 58px;
+        height: 56px;
         padding: 0 10px;
         gap: 6px;
         width: 100%;
@@ -1617,16 +1701,18 @@ textarea {
 
     .nav-right .btn-secondary,
     .nav-right .btn-primary {
-        padding: 6px 8px;
-        min-width: 34px;
-        height: 34px;
-        min-height: 34px;
+        padding: 0;
+        width: 38px;
+        height: 38px;
+        min-width: 38px;
+        min-height: 38px;
         justify-content: center;
+        align-items: center;
         border-radius: var(--radius-sm);
     }
 
     .nav-right i {
-        font-size: 0.85rem;
+        font-size: 0.9rem;
         margin: 0;
     }
 
@@ -1640,21 +1726,21 @@ textarea {
     }
 
     .welcome-card {
-        padding: 18px 12px;
-        margin: 8px 0;
+        padding: 16px 12px;
+        margin: 6px 0;
         border-radius: var(--radius-md);
         width: 100%;
         box-sizing: border-box;
     }
 
     .welcome-card h2 {
-        font-size: 1.2rem;
+        font-size: 1.15rem;
     }
 
     .welcome-card p {
         font-size: 0.84rem;
         line-height: 1.5;
-        margin-bottom: 16px;
+        margin-bottom: 14px;
     }
 
     .prompt-chips {
@@ -1695,17 +1781,17 @@ textarea {
     }
 
     .message-avatar {
-        width: 30px;
-        height: 30px;
-        min-width: 30px;
-        font-size: 0.8rem;
+        width: 32px;
+        height: 32px;
+        min-width: 32px;
+        font-size: 0.85rem;
         flex-shrink: 0;
     }
 
     .message-wrapper {
         min-width: 0;
         flex: 1;
-        max-width: calc(100% - 38px);
+        max-width: calc(100% - 40px);
         box-sizing: border-box;
     }
 
@@ -1717,10 +1803,12 @@ textarea {
         width: 100%;
         max-width: 100%;
         box-sizing: border-box;
+        overflow-wrap: anywhere;
+        word-break: break-word;
     }
 
     .message-row.user .message-wrapper {
-        max-width: 88%;
+        max-width: 90%;
     }
 
     .message-row.user .message-content {
@@ -1746,13 +1834,14 @@ textarea {
 
     .deck-scroll {
         gap: 10px;
-        padding-bottom: 8px;
+        padding: 4px 2px 10px 2px;
     }
 
     .deck-card {
-        flex: 0 0 195px;
-        width: 195px;
-        min-width: 195px;
+        flex: 0 0 200px;
+        width: 200px;
+        min-width: 200px;
+        max-width: 200px;
     }
 
     .deck-card-img-wrap {
@@ -1781,7 +1870,9 @@ textarea {
     }
 
     .input-container {
-        padding: 10px 12px max(12px, var(--safe-bottom));
+        padding: 10px 10px max(10px, var(--safe-bottom));
+        width: 100%;
+        box-sizing: border-box;
     }
 
     .textarea-wrapper {
@@ -1791,9 +1882,10 @@ textarea {
     }
 
     .send-btn {
-        width: 38px;
-        height: 38px;
-        min-width: 38px;
+        width: 40px;
+        height: 40px;
+        min-width: 40px;
+        min-height: 40px;
         font-size: 0.95rem;
     }
 
@@ -1813,6 +1905,8 @@ textarea {
         padding: 20px 16px;
         width: 95%;
         max-height: 88vh;
+        max-height: 88dvh;
+        overflow-y: auto;
         border-radius: var(--radius-md);
     }
 
@@ -1821,56 +1915,73 @@ textarea {
     }
 }
 
-/* Extra Small Mobile Devices (iPhone SE, Foldables - max-width: 400px) */
-@media (max-width: 400px) {
+/* Extra Small Mobile Devices (iPhone SE, Galaxy Fold - max-width: 380px) */
+@media (max-width: 380px) {
     .navbar {
-        padding: 0 8px;
+        padding: 0 6px;
     }
 
     .nav-left {
-        gap: 6px;
+        gap: 4px;
     }
 
     .nav-title h1 {
-        font-size: 0.95rem;
+        font-size: 0.86rem;
     }
 
     .badge-pulse {
         display: none;
     }
 
+    .update-timestamp-badge {
+        font-size: 0.6rem;
+        padding: 1px 4px;
+    }
+
     .nav-right {
-        gap: 4px;
+        gap: 3px;
     }
 
     .nav-right .btn-secondary,
     .nav-right .btn-primary {
-        padding: 6px 8px;
+        width: 34px;
+        height: 34px;
         min-width: 34px;
         min-height: 34px;
     }
 
     .welcome-icon {
-        width: 48px;
-        height: 48px;
-        font-size: 1.4rem;
-        margin-bottom: 12px;
+        width: 44px;
+        height: 44px;
+        font-size: 1.3rem;
+        margin-bottom: 10px;
     }
 
     .welcome-card h2 {
-        font-size: 1.15rem;
+        font-size: 1.05rem;
+    }
+
+    .message-wrapper {
+        max-width: calc(100% - 36px);
+    }
+
+    .deck-card {
+        flex: 0 0 180px;
+        width: 180px;
+        min-width: 180px;
+        max-width: 180px;
     }
 }
 
 /* Landscape mode for mobile devices */
 @media (max-height: 500px) and (orientation: landscape) {
     .navbar {
-        height: 50px;
+        height: 46px;
     }
 
     .welcome-card {
-        padding: 14px;
-        margin: 6px 0;
+        padding: 12px;
+        margin: 4px 0;
     }
 
     .welcome-icon {
@@ -1878,13 +1989,13 @@ textarea {
     }
 
     .welcome-card h2 {
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         margin-bottom: 4px;
     }
 
     .welcome-card p {
-        font-size: 0.8rem;
-        margin-bottom: 10px;
+        font-size: 0.78rem;
+        margin-bottom: 8px;
     }
 
     .prompt-chips {
@@ -1893,6 +2004,7 @@ textarea {
 
     .modal-card {
         max-height: 92vh;
+        max-height: 92dvh;
         padding: 14px;
     }
 }
