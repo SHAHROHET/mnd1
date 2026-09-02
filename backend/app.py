@@ -170,11 +170,11 @@ GREETING_PATTERNS = re.compile(
 )
 
 GREETING_RESPONSES = [
-    "G'day! 👋 I'm doing great, thank you for asking! How can I help you today? Feel free to ask about MND equipment, NDIS funding, breathing support, or carer services! 💙",
-    "Hey there! 🌟 Lovely to hear from you! I'm your MND Care Assistant — ask me anything about equipment loans, NDIS plans, or local support services!",
-    "Hello! 😊 Welcome! I'm here and ready to help. What would you like to know about MND care, equipment, or support pathways today?",
-    "Hi! 👋 Great to see you! Whether it's NDIS funding, FlexEquip loans, breathing aids, or carer support — I'm here for you. What's on your mind?",
-    "G'day mate! 🦘 I'm all good — thanks for checking in! How can I support you, your family, or your care team today?",
+    "Hello. I am the MND Care Assistant. Ask about equipment, NDIS, breathing support, or carer services and I will point you to verified Australian sources.",
+    "Hi — thanks for getting in touch. I can help with MND equipment pathways, funding, and local support. What would you like to know?",
+    "Hello. I am ready to help with care planning, assistive technology, and state-specific MND services. How can I assist today?",
+    "Hi. I can explain NDIS and equipment options, breathing support, and carer payments using verified Australian guidance. What do you need?",
+    "Hello. Tell me what you need help with — equipment loans, NDIS, respiratory care, or carer support — and I will keep the answer practical and sourced.",
 ]
 
 ALLOWED_PROFILE_GENDERS = {"Male", "Female", "Non-binary", "Other"}
@@ -216,36 +216,37 @@ def build_user_profile_system_prompt(profile: dict | None) -> str | None:
         "practical advice strictly to their jurisdiction and professional scope."
     )
 
-SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Assistant — a super friendly, playful, engaging, and deeply supportive AI buddy here to help people living with Motor Neurone Disease (MND/ALS), their awesome carers, families, and healthcare teams across Australia!
+SYSTEM_PROMPT_TEMPLATE = """You are the Australian MND/ALS Care Assistant. You help people living with Motor Neurone Disease (MND/ALS), their carers, families, and clinicians across Australia.
 
-✨ Tone & Playful Personality Guidelines:
-- **Playful, Warm & Uplifting:** Be vibrant, enthusiastic, conversational, and genuinely engaging! Use friendly Aussie warmth (e.g. "G'day!", "Hey there! Great question!", "Let's get this sorted out together!").
-- **Engaging & Visual:** Use expressive emojis (✨, ♿, 🦘, 💡, 💙, 🌟, 📑), bullet points, and encouraging check-ins to make reading fun, easy, and lighthearted.
-- **Accurate & Empowering:** Keep all NDIS funding, equipment loan libraries (like FlexEquip or SWEP), clinical care tips, and state guidelines 100% accurate, but explain them in an encouraging, upbeat, and accessible way!
-- **Visually Rich (Images):** When recommending specific equipment or services (e.g. wheelchairs, commodes, switch mounts, feeding tubes, etc.), if the retrieved context for that item includes an 'Image URL' property, you MUST embed it directly inline in your response on its own line using standard Markdown image syntax: `![Item Name](image_url)` so the user gets a helpful visual preview of the product! Do NOT modify the image_url path or prepend any domain name (e.g., do not add 'https://flexequip.com.au' or similar). Use the exact relative path provided.
-- **Brevity for Small Talk:** If the user engages in casual small talk or greetings (e.g. "how are you?", "thanks", "good morning"), respond warmly but strictly limit your response to 1-2 short sentences. Do NOT offer long explanations, source lists, or equipment recommendations unless specifically asked.
-- **User Identity Questions:** If the user asks about their identity (e.g., "who am I?", "what is my role?"), refer to their saved user profile if one was provided above. If no saved profile is present, warmly explain that they haven't configured their profile yet and invite them to click **My Profile** in the bottom left sidebar to set their role (e.g., Carer, Physiotherapist, Participant) and state location!
+Tone:
+- Calm, clear, and professional. Be warm without being playful or salesy.
+- Use plain English, short paragraphs, and bullet lists. Prefer headings over decoration.
+- Do not fill answers with emojis. At most one emoji in a whole reply, and only if it adds meaning.
+- Do not open with a catchphrase on every answer. Start with the useful information.
+- Stay accurate on NDIS, equipment loan schemes (FlexEquip, SWEP, MASS, EnableNSW), and clinical guidance. If something depends on an assessment, say so.
+- Small talk: reply in 1-2 short sentences. Do not attach source lists or equipment recommendations unless asked.
+- Identity questions: use the saved user profile when provided. If none exists, explain they can open **My Profile** in the sidebar.
 
-🎯 MANDATORY REGIONAL INSTRUCTION FOR USER LOCATION:
-The user has specifically selected the target state/region: **{selected_state}**.
-You MUST explicitly tailor your answer, equipment pathways, funding schemes, and support services specifically for **{selected_state}**:
-- If {selected_state} is NSW or ACT: Give a huge shoutout to **FlexEquip** (the awesome MND NSW equipment loan service), MND NSW advisors, and EnableNSW!
-- If {selected_state} is VIC: Highlight **SWEP** (Statewide Equipment Program), MND Victoria, and Victorian Health pathways!
-- If {selected_state} is QLD: Highlight **MASS** (Medical Aids Subsidy Scheme) and MND Queensland!
-- If {selected_state} is WA: Highlight MND Western Australia advisors and local WA Health pathways!
-- If {selected_state} is SA: Highlight MND South Australia advisors and SA health pathways!
-- Do not use a fixed template opening; start naturally and weave state-specific details into the answer where relevant.
+Images:
+When recommending a specific piece of equipment and the retrieved context includes an Image URL, embed it on its own line as `![Item Name](image_url)`. Use the exact relative path. Do not prepend a domain.
 
-Relevant Retrieved Context from Australian MND Knowledge Base:
+Location:
+The user selected **{selected_state}**. Tailor funding schemes, loan libraries, and associations to that jurisdiction:
+- NSW or ACT: FlexEquip, MND NSW, EnableNSW
+- VIC: SWEP, MND Victoria
+- QLD: MASS, MND Queensland
+- WA: MND Western Australia and WA Health pathways
+- SA: MND South Australia and SA Health pathways
+- Weave state details into the answer. Do not use a fixed opening template.
+
+Retrieved context:
 {context_block}
 
-⚠️ CRITICAL RULE — NEVER OMIT THIS:
-At the VERY END of EVERY response, you MUST ALWAYS include a section titled:
-### 📚 Verified Sources & Reference Links
-List every source used from the context above as a bullet point with a clickable Markdown link:
+Required closing section — never omit:
+### Verified Sources & Reference Links
+List every source used from the context as its own bullet:
 - [Source Title — Publisher Name](exact_url)
-- Every single link MUST be on its own separate bullet line starting with `- `. Never combine or concatenate multiple links together on the same line or in a single paragraph.
-- Do NOT add a second source block named "Verified Equipment & Services:" or "Verified Sources:" and do not describe a visual card deck. The bullet list is the only sources section the user should see.
+Never join multiple links on one line. Do not add a second sources heading or a visual card deck.
 """
 
 @app.get("/", response_class=HTMLResponse)
@@ -329,7 +330,7 @@ async def chat_endpoint(request: Request):
     guard_res = sanitize_input(message)
     if not guard_res["is_safe"]:
         async def guard_stream():
-            warning_msg = f"🛡️ **Security Guardrail Triggered:** {guard_res['flag_reason']}. Please ask a standard question about MND care, equipment, NDIS, or support services."
+            warning_msg = f"**Request blocked:** {guard_res['flag_reason']}. Please ask a standard question about MND care, equipment, NDIS, or support services."
             yield f"data: {json.dumps({'content': warning_msg})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
@@ -340,7 +341,7 @@ async def chat_endpoint(request: Request):
         async def greeting_stream():
             greeting_text = random.choice(GREETING_RESPONSES)
             if state and state != "National":
-                greeting_text = greeting_text.rstrip('!') + f", tailored for **{state}**!"
+                greeting_text = greeting_text.rstrip(".!") + f" I can tailor this for **{state}**."
             yield f"data: {json.dumps({'content': greeting_text})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(greeting_stream(), media_type="text/event-stream")
@@ -349,16 +350,32 @@ async def chat_endpoint(request: Request):
     if re.match(r'^(who am i|who am i\?|who is this|what is my role|what is my profile|my profile)$', clean_msg):
         async def identity_stream():
             if profile_prompt:
-                reply = f"G'day! 😊 Based on your saved profile:\n\n{profile_prompt}\n\nAsk me anything about MND equipment, NDIS pathways, symptom support, or local services tailored for your role!"
+                reply = (
+                    "Based on your saved profile:\n\n"
+                    f"{profile_prompt}\n\n"
+                    "Ask about MND equipment, NDIS pathways, symptom support, or local services for your role."
+                )
             else:
-                reply = "You haven't set up a personal profile yet! 😊\n\nYou can click **My Profile** in the bottom left of the sidebar to save your age, role (such as Carer, OT, Physiotherapist, or Person living with MND), and Australian state location so I can personalize all my answers for you!"
+                reply = (
+                    "You haven't set up a personal profile yet.\n\n"
+                    "Open **My Profile** in the sidebar to save your age, role "
+                    "(such as Carer, OT, Physiotherapist, or person living with MND), "
+                    "and Australian state so answers can be tailored."
+                )
             yield f"data: {json.dumps({'content': reply})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(identity_stream(), media_type="text/event-stream")
 
     if re.match(r'^(who are you|who are you\?|what are you|what can you do|what do you do|help me|about you)$', clean_msg):
         async def bot_identity_stream():
-            reply = "G'day! 👋 I'm your **Australian MND/ALS Care Assistant** — an AI companion designed to help people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams across Australia.\n\nI can help you with:\n- ♿ **Assistive Equipment & Technology:** FlexEquip, SWEP, MASS, and EnableNSW loan programs\n- 📑 **NDIS & Carer Support:** Planning, funding categories, and Centrelink payments\n- 🫁 **Symptom Management:** Breathing support, cough assist, speech/voice banking, and swallowing guidance\n- 🤝 **Local Care Pathways:** MND Association advisors across NSW, VIC, QLD, WA, SA, TAS, and ACT/NT!"
+            reply = (
+                "I am the **Australian MND/ALS Care Assistant**, a knowledge guide for people living with Motor Neurone Disease, family carers, occupational therapists, and clinical teams in Australia.\n\n"
+                "I can help with:\n"
+                "- **Assistive equipment:** FlexEquip, SWEP, MASS, and EnableNSW loan programs\n"
+                "- **NDIS and carer support:** planning, funding categories, and Centrelink payments\n"
+                "- **Symptom support:** breathing, cough assist, speech/voice banking, and swallowing\n"
+                "- **Local pathways:** MND Association advisors across NSW, VIC, QLD, WA, SA, TAS, ACT, and NT"
+            )
             yield f"data: {json.dumps({'content': reply})}\n\n"
             yield "data: [DONE]\n\n"
         return StreamingResponse(bot_identity_stream(), media_type="text/event-stream")
@@ -507,36 +524,38 @@ async def chat_endpoint(request: Request):
             if emergency_banner:
                 yield f"data: {json.dumps({'content': emergency_banner})}\n\n"
 
-            intro = f"*(Using Local Knowledge Index Mode — Enter a DeepSeek API key in the top right to enable live DeepSeek API generation)*\n\n"
+            intro = (
+                "*Local knowledge index — add a DeepSeek API key to enable live generated answers.*\n\n"
+            )
             yield f"data: {json.dumps({'content': intro})}\n\n"
 
             # Build intelligent local synthesis response from top entities & docs
-            response_text = f"### G'day! ✨\n\n"
+            response_text = ""
             if profile_prompt:
-                response_text += f"**Profile context used:** {profile_prompt}\n\n"
+                response_text += f"**Profile used:** {profile_prompt}\n\n"
 
             if entities:
-                response_text += "#### 🚀 Awesome Services & Equipment Pathways:\n"
+                response_text += "#### Services and equipment\n"
                 for ent in entities:
                     url = ent.get('url') or ent.get('website') or ent.get('source_url') or ent.get('served_url') or ent.get('product_url') or '#'
-                    response_text += f"- **[{ent.get('name')}]({url})** ✨ ({ent.get('category', '').replace('_', ' ').title()})\n  {ent.get('description')}\n"
+                    response_text += f"- **[{ent.get('name')}]({url})** ({ent.get('category', '').replace('_', ' ').title()})\n  {ent.get('description')}\n"
                     if ent.get('eligibility'):
-                        response_text += f"  *Who's eligible:* {ent.get('eligibility')}\n"
+                        response_text += f"  *Who is eligible:* {ent.get('eligibility')}\n"
                     if ent.get('image_url'):
                         response_text += f"\n\n![{ent.get('name')}]({ent.get('image_url')})\n\n"
                     response_text += "\n"
 
             if docs:
-                response_text += "#### 💡 Top Care & Knowledge Insights:\n"
+                response_text += "#### From the knowledge base\n"
                 for doc in docs[:3]:
-                    response_text += f"**From [{doc.get('source_title')}]({doc.get('url')})** *(Publisher: {doc.get('publisher')})*:\n"
+                    response_text += f"**[{doc.get('source_title')}]({doc.get('url')})** *(Publisher: {doc.get('publisher')})*:\n"
                     txt_snippet = doc.get('text', '')
                     if len(txt_snippet) > 300:
                         txt_snippet = txt_snippet[:300] + "..."
                     response_text += f"> \"{txt_snippet}\"\n\n"
 
             # Build explicit clickable sources section
-            response_text += "### 📚 Verified Sources & Reference Links:\n"
+            response_text += "### Verified Sources & Reference Links:\n"
             seen_urls = set()
             if entities:
                 for ent in entities:
@@ -544,7 +563,7 @@ async def chat_endpoint(request: Request):
                     name = ent.get('name')
                     if url and url not in seen_urls and url != '#':
                         seen_urls.add(url)
-                        response_text += f"- 🔗 [{name}]({url}) *(Structured Directory Record)*\n"
+                        response_text += f"- [{name}]({url})\n"
             if docs:
                 for doc in docs:
                     url = doc.get('url')
@@ -552,16 +571,16 @@ async def chat_endpoint(request: Request):
                     pub = doc.get('publisher')
                     if url and url not in seen_urls and url:
                         seen_urls.add(url)
-                        response_text += f"- 🔗 [{title} — {pub}]({url})\n"
+                        response_text += f"- [{title} — {pub}]({url})\n"
 
-            response_text += "\n---\n*💙 Remember, your MND care team (your MND advisor, OT, speech pathologist & GP) is always your best squad to guide personal care decisions!*"
+            response_text += "\n---\n*Personal care decisions should be confirmed with your MND advisor, occupational therapist, speech pathologist, and GP.*"
 
-            # Stream chunks for smooth typing effect
+            # Stream in larger chunks so markdown does not reflow on every word
             words = response_text.split(" ")
-            for i in range(0, len(words), 4):
-                chunk_words = " ".join(words[i:i+4]) + " "
+            for i in range(0, len(words), 16):
+                chunk_words = " ".join(words[i:i+16]) + " "
                 yield f"data: {json.dumps({'content': chunk_words})}\n\n"
-                await asyncio.sleep(0.02)
+                await asyncio.sleep(0.012)
 
             yield "data: [DONE]\n\n"
 

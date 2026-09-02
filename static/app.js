@@ -11,6 +11,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const themeLbl = document.getElementById("themeLbl");
     const fontToggleBtn = document.getElementById("fontToggleBtn");
     const fontLbl = document.getElementById("fontLbl");
+    const gazeToggleBtn = document.getElementById("gazeToggleBtn");
+    const gazeLbl = document.getElementById("gazeLbl");
     
     const toggleSidebar = document.getElementById("toggleSidebar");
     const closeSidebar = document.getElementById("closeSidebar");
@@ -173,7 +175,30 @@ document.addEventListener("DOMContentLoaded", () => {
         );
     }
 
+    function viewportScale() {
+        const vv = window.visualViewport;
+        return vv && Number.isFinite(vv.scale) ? vv.scale : 1;
+    }
+
+    function isPinchZoomed() {
+        return Math.abs(viewportScale() - 1) > 0.01;
+    }
+
+    function isCoarsePointer() {
+        return window.matchMedia("(pointer: coarse)").matches;
+    }
+
+    function isBrowserZoomed() {
+        if (isPinchZoomed()) return true;
+        if (isCoarsePointer()) return false;
+        const widthRatio = window.outerWidth / Math.max(window.innerWidth, 1);
+        const heightRatio = window.outerHeight / Math.max(window.innerHeight, 1);
+        return widthRatio > 1.2 && heightRatio > 1.15;
+    }
+
     function isTypingOnMobile() {
+        if (isPinchZoomed() || isBrowserZoomed()) return false;
+        if (!isCoarsePointer()) return false;
         if (document.activeElement === userMessage) return true;
         const vv = window.visualViewport;
         if (!vv) return false;
@@ -182,7 +207,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function syncMobileViewport() {
         const vv = window.visualViewport;
-        const height = vv ? vv.height : window.innerHeight;
+        const pageZoomed = isBrowserZoomed();
+        document.documentElement.classList.toggle("page-zoomed", pageZoomed);
+        document.body.classList.toggle("page-zoomed", pageZoomed);
+
+        let height = window.innerHeight;
+        if (vv && isCoarsePointer() && !isPinchZoomed()) {
+            height = vv.height;
+        }
         document.documentElement.style.setProperty("--app-height", `${Math.round(height)}px`);
         document.body.classList.toggle("keyboard-open", isTypingOnMobile());
         syncComposerHeight();
@@ -194,7 +226,11 @@ document.addEventListener("DOMContentLoaded", () => {
     syncMobileViewport();
     window.addEventListener("resize", syncMobileViewport);
     window.visualViewport?.addEventListener("resize", syncMobileViewport);
-    window.visualViewport?.addEventListener("scroll", syncMobileViewport);
+    window.visualViewport?.addEventListener("scroll", () => {
+        if (isCoarsePointer() && !isPinchZoomed()) {
+            syncMobileViewport();
+        }
+    });
     if (inputContainer && typeof ResizeObserver !== "undefined") {
         new ResizeObserver(syncComposerHeight).observe(inputContainer);
     }
@@ -262,13 +298,16 @@ document.addEventListener("DOMContentLoaded", () => {
             const item = document.createElement("div");
             item.className = `conversation-item ${conv.id === currentConvId ? 'active' : ''}`;
             item.setAttribute("data-id", conv.id);
+            item.setAttribute("role", "button");
+            item.setAttribute("tabindex", "0");
+            item.setAttribute("aria-label", conv.title || "Saved conversation");
             
             item.innerHTML = `
                 <div class="conversation-info">
                     <i class="fa-regular fa-message"></i>
                     <span class="conversation-title" title="${conv.title}">${conv.title}</span>
                 </div>
-                <button class="delete-conv-btn" title="Delete conversation">
+                <button class="delete-conv-btn" type="button" title="Delete conversation" aria-label="Delete conversation">
                     <i class="fa-solid fa-trash-can"></i>
                 </button>
             `;
@@ -279,6 +318,13 @@ document.addEventListener("DOMContentLoaded", () => {
                 // Don't trigger load if clicking delete button
                 if (e.target.closest(".delete-conv-btn")) return;
                 loadConversation(conv.id);
+            });
+            item.addEventListener("keydown", (e) => {
+                if (e.target.closest(".delete-conv-btn")) return;
+                if (e.key === "Enter" || e.key === " ") {
+                    e.preventDefault();
+                    if (!isStreaming) loadConversation(conv.id);
+                }
             });
             
             // Delete conversation on click
@@ -393,11 +439,13 @@ document.addEventListener("DOMContentLoaded", () => {
     // Load saved settings
     let savedState = localStorage.getItem("mnd_state") || "National";
     let isLargeFont = localStorage.getItem("mnd_large_font") === "true";
-    let currentTheme = localStorage.getItem("mnd_theme") || "dark";
+    let isGazeMode = localStorage.getItem("mnd_access_gaze") === "true";
+    let currentTheme = localStorage.getItem("mnd_theme") || "light";
 
     stateSelect.value = savedState;
     applyTheme(currentTheme);
     if (isLargeFont) applyFontMode(true);
+    applyGazeMode(isGazeMode);
 
     function readUserProfile() {
         try {
@@ -500,11 +548,15 @@ document.addEventListener("DOMContentLoaded", () => {
     function closeMobileSidebar() {
         if (sidebar && sidebar.classList.contains("active")) {
             sidebar.classList.remove("active");
+            toggleSidebar?.setAttribute("aria-expanded", "false");
         }
     }
 
     // Sidebar Toggle
-    toggleSidebar?.addEventListener("click", () => sidebar.classList.add("active"));
+    toggleSidebar?.addEventListener("click", () => {
+        sidebar?.classList.add("active");
+        toggleSidebar.setAttribute("aria-expanded", "true");
+    });
     closeSidebar?.addEventListener("click", closeMobileSidebar);
     sidebarOverlay?.addEventListener("click", closeMobileSidebar);
 
@@ -545,6 +597,13 @@ document.addEventListener("DOMContentLoaded", () => {
         applyFontMode(isLargeFont);
     });
 
+    gazeToggleBtn?.addEventListener("click", () => {
+        isGazeMode = !isGazeMode;
+        localStorage.setItem("mnd_access_gaze", isGazeMode);
+        applyGazeMode(isGazeMode);
+        syncMobileViewport();
+    });
+
     function applyTheme(theme) {
         const isLight = theme === "light";
         document.body.classList.toggle("theme-light", isLight);
@@ -552,7 +611,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const themeMeta = document.getElementById("themeColorMeta");
         if (themeMeta) {
-            themeMeta.setAttribute("content", isLight ? "#f6f8fb" : "#0b1320");
+            themeMeta.setAttribute("content", isLight ? "#f3f5f8" : "#0b1016");
         }
 
         if (themeLbl) {
@@ -571,12 +630,23 @@ document.addEventListener("DOMContentLoaded", () => {
             document.body.classList.add("font-large");
             fontLbl.textContent = "Standard Text";
             fontToggleBtn.classList.add("btn-accent");
+            fontToggleBtn.setAttribute("aria-pressed", "true");
         } else {
             document.documentElement.classList.remove("font-large");
             document.body.classList.remove("font-large");
             fontLbl.textContent = "Large Text";
             fontToggleBtn.classList.remove("btn-accent");
+            fontToggleBtn.setAttribute("aria-pressed", "false");
         }
+    }
+
+    function applyGazeMode(enable) {
+        document.body.classList.toggle("access-gaze", enable);
+        if (gazeLbl) {
+            gazeLbl.textContent = enable ? "Gaze On" : "Eye Gaze";
+        }
+        gazeToggleBtn?.setAttribute("aria-pressed", enable ? "true" : "false");
+        gazeToggleBtn?.classList.toggle("btn-accent", enable);
     }
 
     function updateBadgeStatus(hasBackendKey) {
@@ -713,11 +783,32 @@ document.addEventListener("DOMContentLoaded", () => {
         // Create Assistant Message Row
         const assistantRow = createMessageRow("assistant", "", timestampStr);
         const contentDiv = assistantRow.querySelector(".message-content");
-        contentDiv.innerHTML = `<span class="typing-indicator"><i class="fa-solid fa-circle-notch fa-spin"></i> Retrieving MND Knowledge Base...</span>`;
+        contentDiv.setAttribute("aria-busy", "true");
+        contentDiv.classList.add("is-streaming");
+        contentDiv.innerHTML = `<span class="typing-indicator" role="status"><span class="typing-dots" aria-hidden="true"><span></span><span></span><span></span></span> Searching the knowledge base</span>`;
         chatMessages.appendChild(assistantRow);
         chatMessages.scrollTop = chatMessages.scrollHeight;
 
         let fullContent = "";
+        let streamRenderTimer = 0;
+        const STREAM_RENDER_MS = 80;
+
+        function paintStream(finalPass) {
+            if (!fullContent) return;
+            const caret = finalPass ? "" : '<span class="streaming-caret" aria-hidden="true"></span>';
+            contentDiv.innerHTML = safeRenderMarkdown(fullContent) + caret;
+            if (isUserAtBottom) {
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }
+        }
+
+        function scheduleStreamPaint() {
+            if (streamRenderTimer) return;
+            streamRenderTimer = window.setTimeout(() => {
+                streamRenderTimer = 0;
+                paintStream(false);
+            }, STREAM_RENDER_MS);
+        }
 
         // Add user message to conversation history BEFORE sending to API
         // so the backend receives complete context for multi-turn conversations
@@ -737,19 +828,21 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
             if (!response.ok) {
-                contentDiv.innerHTML = `⚠️ Error connecting to backend server (${response.status})`;
+                contentDiv.classList.remove("is-streaming");
+                contentDiv.removeAttribute("aria-busy");
+                contentDiv.innerHTML = `Could not reach the server (${response.status}). Please try again.`;
                 return;
             }
 
             const reader = response.body.getReader();
             const decoder = new TextDecoder();
-            contentDiv.innerHTML = "";
+            let gotFirstToken = false;
 
             while (true) {
                 const { value, done } = await reader.read();
                 if (done) break;
 
-                const chunkStr = decoder.decode(value);
+                const chunkStr = decoder.decode(value, { stream: true });
                 const lines = chunkStr.split("\n\n");
 
                 for (const line of lines) {
@@ -760,13 +853,12 @@ document.addEventListener("DOMContentLoaded", () => {
                         try {
                             const parsed = JSON.parse(jsonStr);
                             if (parsed.content) {
-                                fullContent += parsed.content;
-                                contentDiv.innerHTML = safeRenderMarkdown(fullContent);
-                                
-                                // Smart scroll: Only auto-scroll if user is currently at bottom
-                                if (isUserAtBottom) {
-                                    chatMessages.scrollTop = chatMessages.scrollHeight;
+                                if (!gotFirstToken) {
+                                    gotFirstToken = true;
+                                    contentDiv.innerHTML = "";
                                 }
+                                fullContent += parsed.content;
+                                scheduleStreamPaint();
                             }
                         } catch (err) {
                             // Ignored partial chunk errors
@@ -775,10 +867,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 }
             }
 
+            if (streamRenderTimer) {
+                window.clearTimeout(streamRenderTimer);
+                streamRenderTimer = 0;
+            }
+            contentDiv.classList.remove("is-streaming");
+            contentDiv.removeAttribute("aria-busy");
+
             if (!fullContent) {
                 contentDiv.innerHTML = "No response generated.";
             } else {
-                // Record assistant response into conversation history for multi-turn context
+                paintStream(true);
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
 
@@ -790,25 +889,20 @@ document.addEventListener("DOMContentLoaded", () => {
                 conversations[currentConvId].updatedAt = Date.now();
                 saveConversations();
 
-                // Post-process: inject copy buttons into code blocks
                 injectCodeCopyButtons(contentDiv);
-
-                // Smoothly scroll back to the start of the user's question so both question & answer are visible
-                if (isUserAtBottom) {
-                    const userRow = assistantRow.previousElementSibling;
-                    const targetScrollTop = userRow ? userRow.offsetTop - 16 : assistantRow.offsetTop - 16;
-                    setTimeout(() => {
-                        chatMessages.scrollTo({
-                            top: targetScrollTop,
-                            behavior: "smooth"
-                        });
-                    }, 150);
-                }
             }
 
         } catch (err) {
-            contentDiv.innerHTML = `⚠️ Network Error: ${err.message}`;
+            contentDiv.classList.remove("is-streaming");
+            contentDiv.removeAttribute("aria-busy");
+            contentDiv.innerHTML = `Network error: ${escapeHtml(err.message)}`;
         } finally {
+            if (streamRenderTimer) {
+                window.clearTimeout(streamRenderTimer);
+                streamRenderTimer = 0;
+            }
+            contentDiv.classList.remove("is-streaming");
+            contentDiv.removeAttribute("aria-busy");
             // Unlock streaming state
             isStreaming = false;
             sendBtn.disabled = !userMessage.value.trim();
@@ -839,6 +933,9 @@ document.addEventListener("DOMContentLoaded", () => {
         
         const content = document.createElement("div");
         content.className = "message-content";
+        if (role === "assistant") {
+            content.setAttribute("aria-live", "off");
+        }
         if (text) {
             content.innerHTML = safeRenderMarkdown(text);
         }

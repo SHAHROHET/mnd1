@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover, interactive-widget=resizes-content">
-    <meta name="theme-color" content="#0d1b2a" id="themeColorMeta">
+    <meta name="theme-color" content="#f4f6f8" id="themeColorMeta">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -24,7 +24,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- FontAwesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -32,9 +32,11 @@
     <!-- Marked Markdown Parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
-    <link rel="stylesheet" href="/static/style.css?v=3.3">
+    <link rel="stylesheet" href="/static/style.css?v=3.6">
 </head>
-<body class="theme-dark font-normal">
+<body class="theme-light font-normal">
+
+    <a class="skip-link" href="#userMessage">Skip to message box</a>
 
     <div class="app-container">
         
@@ -44,27 +46,27 @@
                 <div class="brand">
                     <div class="brand-icon"><i class="fa-solid fa-heart-pulse"></i></div>
                     <div class="brand-text">
-                        <h2>MND Assistant</h2>
-                        <span>Australia Knowledge Base</span>
+                        <h2>MND Care</h2>
+                        <span>Australian knowledge guide</span>
                     </div>
                 </div>
-                <button class="icon-btn close-sidebar-btn" id="closeSidebar"><i class="fa-solid fa-xmark"></i></button>
+                <button class="icon-btn close-sidebar-btn" id="closeSidebar" aria-label="Close menu"><i class="fa-solid fa-xmark"></i></button>
             </div>
 
             <div class="sidebar-content">
                 <div class="sidebar-section">
-                    <h3><i class="fa-solid fa-clock-rotate-left"></i> Previous Chats</h3>
+                    <h3>Previous chats</h3>
                     <div class="conversations-list" id="conversationsList">
                         <div class="no-chats-msg">No saved conversations yet.</div>
                     </div>
                 </div>
 
                 <div class="sidebar-section">
-                    <h3><i class="fa-solid fa-map-location-dot"></i> State Equipment & Support</h3>
-                    <p class="sidebar-desc">Select your state to tailor equipment pathways (e.g., FlexEquip vs SWEP vs MASS) and local MND advisors.</p>
+                    <h3>Your state</h3>
+                    <p class="sidebar-desc">Answers use the equipment and funding pathway for this state (FlexEquip, SWEP, MASS, and local MND associations).</p>
                     
                     <div class="state-select-wrapper">
-                        <label for="stateSelect">Active Region:</label>
+                        <label for="stateSelect">Active region</label>
                         <select id="stateSelect" class="custom-select">
                             <option value="National">National (Australia Wide)</option>
                             <option value="NSW">NSW / ACT (FlexEquip)</option>
@@ -79,7 +81,7 @@
                 </div>
 
                 <div class="sidebar-section">
-                    <h3><i class="fa-solid fa-shield-halved"></i> Quick Emergency Warning</h3>
+                    <h3>Emergency</h3>
                     <div class="emergency-box-mini">
                         <i class="fa-solid fa-triangle-exclamation"></i>
                         <span>For acute respiratory distress, severe choking, or emergencies call <strong>000 (Triple Zero)</strong> immediately.</span>
@@ -92,7 +94,7 @@
                     <i class="fa-solid fa-user-gear"></i> <span>My Profile</span>
                 </button>
                 <div class="mnd-badge">
-                    <i class="fa-solid fa-heart-pulse"></i> <strong>MND Care & Support</strong>
+                    <i class="fa-solid fa-heart-pulse"></i> <strong>Verified MND sources</strong>
                 </div>
             </div>
         </aside>
@@ -103,7 +105,7 @@
             <!-- Navbar Header -->
             <header class="navbar">
                 <div class="nav-left">
-                    <button class="icon-btn sidebar-toggle" id="toggleSidebar"><i class="fa-solid fa-bars"></i></button>
+                    <button class="icon-btn sidebar-toggle" id="toggleSidebar" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar"><i class="fa-solid fa-bars"></i></button>
                     <div class="nav-title">
                         <h1>MND Care Assistant</h1>
                         <div class="nav-status-group">
@@ -111,42 +113,45 @@
                                 <i class="fa-solid fa-circle"></i> Local Guide Active
                             </span>
                             <span class="badge update-timestamp-badge" id="updateTimestampBadge" title="Last updated deployment timestamp">
-                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-02 23:16
+                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-02 23:43
                             </span>
                         </div>
                     </div>
                 </div>
 
                 <div class="nav-right">
-                    <button class="btn-secondary" id="newChatBtn" title="Start a new conversation">
+                    <button class="btn-secondary" id="newChatBtn" title="Start a new conversation" aria-label="New chat">
                         <i class="fa-solid fa-plus"></i> <span>New Chat</span>
                     </button>
-                    <button class="btn-secondary" id="exportBtn" title="Export / Print Care Plan Summary">
+                    <button class="btn-secondary" id="exportBtn" title="Export / Print Care Plan Summary" aria-label="Export plan">
                         <i class="fa-solid fa-print"></i> <span>Export Plan</span>
                     </button>
-                    <button class="btn-secondary" id="themeToggleBtn" title="Toggle Dark / Light Mode">
+                    <button class="btn-secondary" id="themeToggleBtn" title="Toggle Dark / Light Mode" aria-label="Toggle colour theme">
                         <i class="fa-solid fa-moon"></i> <span id="themeLbl">Light Mode</span>
                     </button>
-                    <button class="btn-primary" id="fontToggleBtn" title="Toggle Accessibility Text Size">
+                    <button class="btn-primary" id="fontToggleBtn" title="Toggle Accessibility Text Size" aria-label="Toggle large text" aria-pressed="false">
                         <i class="fa-solid fa-text-height"></i> <span id="fontLbl">Large Text</span>
+                    </button>
+                    <button class="btn-secondary" id="gazeToggleBtn" title="Larger buttons and spacing for eye gaze and switch access" aria-label="Toggle eye gaze mode" aria-pressed="false">
+                        <i class="fa-solid fa-eye"></i> <span id="gazeLbl">Eye Gaze</span>
                     </button>
                 </div>
             </header>
 
             <!-- Chat Message Area -->
-            <div class="chat-messages" id="chatMessages">
+            <div class="chat-messages" id="chatMessages" role="log" aria-live="off" aria-relevant="additions">
                 
                 <!-- Welcome Banner Card -->
                 <div class="welcome-card">
                     <div class="welcome-icon"><i class="fa-solid fa-heart-pulse"></i></div>
-                    <h2>Australian MND/ALS Care Assistant</h2>
-                    <p class="welcome-desc">G'day! 👋 I'm your personalised MND assistant, here to help with equipment funding, NDIS pathways, breathing support, carer resources, and clinical care plans — all tailored to <strong>your state</strong>.</p>
+                    <h2>Care guidance you can check</h2>
+                    <p class="welcome-desc">Ask about equipment, NDIS, breathing support, or carer services. Answers are drawn from Australian MND, NDIS, and health publications and tailored to <strong>your state</strong>.</p>
 
                     <div class="prompt-chips" id="promptChips">
-                        <button class="chip" data-prompt="What wheelchair options are available through FlexEquip in NSW?">♿ Wheelchair options</button>
-                        <button class="chip" data-prompt="How do I apply for NDIS assistive technology funding?">📑 NDIS AT funding</button>
-                        <button class="chip" data-prompt="What breathing support options exist for MND patients?">🫁 Breathing support</button>
-                        <button class="chip" data-prompt="What support services are available for MND carers?">💙 Carer support</button>
+                        <button class="chip" type="button" data-prompt="What wheelchair options are available through FlexEquip in NSW?">Wheelchair options</button>
+                        <button class="chip" type="button" data-prompt="How do I apply for NDIS assistive technology funding?">NDIS AT funding</button>
+                        <button class="chip" type="button" data-prompt="What breathing support options exist for MND patients?">Breathing support</button>
+                        <button class="chip" type="button" data-prompt="What support services are available for MND carers?">Carer support</button>
                     </div>
 
                     <div class="stats-row" id="statsRow">
@@ -158,7 +163,7 @@
             </div>
 
             <!-- Scroll to bottom floating button -->
-            <button id="scrollToBottomBtn" class="scroll-to-bottom-btn">
+            <button id="scrollToBottomBtn" class="scroll-to-bottom-btn" type="button" aria-label="Scroll to bottom">
                 <i class="fa-solid fa-arrow-down"></i> Scroll to bottom
             </button>
 
@@ -167,13 +172,13 @@
                 <form id="chatForm" class="chat-form">
                     <div class="textarea-wrapper">
                         <textarea id="userMessage" placeholder="Ask a question about MND care, equipment, NDIS, breathing, or carer support..." rows="1"></textarea>
-                        <button type="submit" id="sendBtn" class="send-btn" disabled>
+                        <button type="submit" id="sendBtn" class="send-btn" disabled aria-label="Send message">
                             <i class="fa-solid fa-paper-plane"></i>
                         </button>
                     </div>
                 </form>
                 <div class="input-footer">
-                    <span><i class="fa-solid fa-circle-info"></i> Information provided from verified MND Australia, NDIS, Carer Gateway, and Healthdirect publications. Always consult your treating MND care team.</span>
+                    <span><i class="fa-solid fa-circle-info"></i> Drawn from MND Australia, NDIS, Carer Gateway, and Healthdirect. Confirm personal care decisions with your treating team.</span>
                 </div>
             </div>
 
@@ -189,7 +194,7 @@
         <div class="modal-card">
             <div class="modal-header">
                 <h3><i class="fa-solid fa-user-gear"></i> My Profile</h3>
-                <button class="icon-btn" id="closeProfileBtn"><i class="fa-solid fa-xmark"></i></button>
+                <button class="icon-btn" id="closeProfileBtn" aria-label="Close profile"><i class="fa-solid fa-xmark"></i></button>
             </div>
             <p class="modal-desc">Help the assistant tailor answers to your situation. Saved locally on this device and included with chat messages so replies can reflect your role and state.</p>
             <form id="profileForm" class="profile-form">
@@ -241,6 +246,6 @@
         </div>
     </div>
 
-    <script src="/static/app.js?v=3.3"></script>
+    <script src="/static/app.js?v=3.6"></script>
 </body>
 </html>
