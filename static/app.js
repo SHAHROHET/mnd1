@@ -22,6 +22,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const openProfileBtn = document.getElementById("openProfileBtn");
     const profileModal = document.getElementById("profileModal");
     const closeProfileBtn = document.getElementById("closeProfileBtn");
+    const openSourcesBtn = document.getElementById("openSourcesBtn");
+    const openSourcesFooterBtn = document.getElementById("openSourcesFooterBtn");
+    const sourcesModal = document.getElementById("sourcesModal");
+    const closeSourcesBtn = document.getElementById("closeSourcesBtn");
+    const sourcesSummary = document.getElementById("sourcesSummary");
+    const sourcesSearch = document.getElementById("sourcesSearch");
+    const sourcesTopicFilter = document.getElementById("sourcesTopicFilter");
+    const sourcesCatalog = document.getElementById("sourcesCatalog");
     const profileForm = document.getElementById("profileForm");
     const clearProfileBtn = document.getElementById("clearProfileBtn");
     const profileAge = document.getElementById("profileAge");
@@ -308,27 +316,47 @@ document.addEventListener("DOMContentLoaded", () => {
         if (document.activeElement === userMessage) return true;
         const vv = window.visualViewport;
         if (!vv) return false;
-        return (window.innerHeight - vv.height) > 180;
+        return (window.innerHeight - vv.height) > 80 || vv.offsetTop > 40;
+    }
+
+    function lockWindowToViewport() {
+        window.scrollTo(0, 0);
+        document.documentElement.scrollTop = 0;
+        document.body.scrollTop = 0;
     }
 
     function syncMobileViewport() {
         const vv = window.visualViewport;
         const pageZoomed = isBrowserZoomed();
+        const keyboardOpen = isTypingOnMobile();
         document.documentElement.classList.toggle("page-zoomed", pageZoomed);
         document.body.classList.toggle("page-zoomed", pageZoomed);
+        document.documentElement.classList.toggle("keyboard-open", keyboardOpen);
+        document.body.classList.toggle("keyboard-open", keyboardOpen);
 
         let height = window.innerHeight;
+        let offsetTop = 0;
         if (vv && isCoarsePointer() && !isPinchZoomed()) {
             height = vv.height;
+            offsetTop = keyboardOpen ? vv.offsetTop : 0;
         }
         if (pageZoomed) {
             document.documentElement.style.removeProperty("--app-height");
+            document.documentElement.style.removeProperty("--app-offset-top");
+            document.documentElement.style.removeProperty("--safe-bottom");
         } else {
             document.documentElement.style.setProperty("--app-height", `${Math.round(height)}px`);
+            document.documentElement.style.setProperty("--app-offset-top", `${Math.round(offsetTop)}px`);
+            if (keyboardOpen) {
+                document.documentElement.style.setProperty("--safe-bottom", "0px");
+                lockWindowToViewport();
+            } else {
+                document.documentElement.style.removeProperty("--safe-bottom");
+                document.documentElement.style.removeProperty("--app-offset-top");
+            }
         }
-        document.body.classList.toggle("keyboard-open", isTypingOnMobile());
         syncComposerHeight();
-        if (isTypingOnMobile()) {
+        if (keyboardOpen) {
             scrollToBottomBtn?.classList.remove("visible");
         }
     }
@@ -344,7 +372,15 @@ document.addEventListener("DOMContentLoaded", () => {
     if (inputContainer && typeof ResizeObserver !== "undefined") {
         new ResizeObserver(syncComposerHeight).observe(inputContainer);
     }
-    userMessage?.addEventListener("focus", syncMobileViewport);
+    userMessage?.addEventListener("focus", () => {
+        syncMobileViewport();
+        [50, 180, 350].forEach((ms) => {
+            window.setTimeout(() => {
+                lockWindowToViewport();
+                syncMobileViewport();
+            }, ms);
+        });
+    });
     userMessage?.addEventListener("blur", () => {
         setTimeout(syncMobileViewport, 150);
     });
@@ -590,6 +626,145 @@ document.addEventListener("DOMContentLoaded", () => {
         profileModal?.classList.remove("active");
     }
 
+    function closeSourcesModal() {
+        sourcesModal?.classList.remove("active");
+    }
+
+    let sourcesCatalogData = null;
+    let sourcesLoadPromise = null;
+
+    function sourcePageMatches(page, query, topic) {
+        if (topic && !(page.topics || []).includes(topic)) return false;
+        if (!query) return true;
+        const hay = [
+            page.title,
+            page.publisher,
+            page.url,
+            page.host,
+            page.source_type,
+            page.state,
+            page.description,
+            page.phone,
+            page.eligibility,
+            page.region,
+            ...(page.topics || [])
+        ].join(" ").toLowerCase();
+        return hay.includes(query);
+    }
+
+    function renderSourcesCatalog() {
+        if (!sourcesCatalog || !sourcesCatalogData) return;
+        const query = (sourcesSearch?.value || "").trim().toLowerCase();
+        const topic = sourcesTopicFilter?.value || "";
+        const groups = sourcesCatalogData.publishers || [];
+        let visiblePages = 0;
+        let visiblePublishers = 0;
+        const parts = [];
+
+        groups.forEach((group, index) => {
+            const pages = (group.pages || []).filter(page => sourcePageMatches(page, query, topic));
+            if (!pages.length) return;
+            visiblePublishers += 1;
+            visiblePages += pages.length;
+            const homepage = safeLinkHref(group.homepage || "");
+            const open = query || topic || index < 2 ? " open" : "";
+            const pageItems = pages.map(page => {
+                const href = safeLinkHref(page.url || "");
+                const title = escapeHtml(page.title || "Untitled source");
+                const meta = [
+                    (page.topics || []).join(", "),
+                    page.source_type,
+                    page.state,
+                    page.kind === "directory" ? "Directory" : "Publication"
+                ].filter(Boolean).map(escapeHtml).join(" · ");
+                const extra = [];
+                if (page.description) extra.push(`<p class="sources-page-desc">${escapeHtml(page.description)}</p>`);
+                if (page.eligibility) extra.push(`<p class="sources-page-meta"><strong>Eligibility:</strong> ${escapeHtml(page.eligibility)}</p>`);
+                if (page.region) extra.push(`<p class="sources-page-meta"><strong>Region:</strong> ${escapeHtml(page.region)}</p>`);
+                if (page.phone) extra.push(`<p class="sources-page-meta"><strong>Phone:</strong> ${escapeHtml(page.phone)}</p>`);
+                const link = href
+                    ? `<a class="sources-page-link" href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${title}<i class="fa-solid fa-arrow-up-right-from-square"></i></a>`
+                    : `<span class="sources-page-title">${title}</span>`;
+                const host = page.host || page.url || "";
+                return `<article class="sources-page">
+                    ${link}
+                    <p class="sources-page-meta">${meta}</p>
+                    ${host ? `<p class="sources-page-url">${escapeHtml(host)}</p>` : ""}
+                    ${extra.join("")}
+                </article>`;
+            }).join("");
+
+            parts.push(`<details class="sources-group"${open}>
+                <summary>
+                    <span class="sources-group-name">${escapeHtml(group.name)}</span>
+                    <span class="sources-group-count">${pages.length} page${pages.length === 1 ? "" : "s"}</span>
+                </summary>
+                ${homepage ? `<p class="sources-group-home"><a href="${escapeHtml(homepage)}" target="_blank" rel="noopener noreferrer">Publisher website <i class="fa-solid fa-arrow-up-right-from-square"></i></a></p>` : ""}
+                <div class="sources-pages">${pageItems}</div>
+            </details>`);
+        });
+
+        if (sourcesSummary) {
+            const totalPages = sourcesCatalogData.page_count || 0;
+            const totalPubs = sourcesCatalogData.publisher_count || 0;
+            const totalTopics = sourcesCatalogData.topic_count || 0;
+            const filtered = query || topic;
+            sourcesSummary.innerHTML = filtered
+                ? `<strong>${visiblePages}</strong> matching pages across <strong>${visiblePublishers}</strong> publishers`
+                : `<strong>${totalPages}</strong> unique pages · <strong>${totalPubs}</strong> publishers · <strong>${totalTopics}</strong> topics`;
+        }
+
+        sourcesCatalog.innerHTML = parts.length
+            ? parts.join("")
+            : `<p class="sources-empty">No verified sources match that search.</p>`;
+    }
+
+    function populateTopicFilter(topics) {
+        if (!sourcesTopicFilter) return;
+        const current = sourcesTopicFilter.value;
+        sourcesTopicFilter.innerHTML = `<option value="">All topics</option>` + (topics || []).map(topic => (
+            `<option value="${escapeHtml(topic.name)}">${escapeHtml(topic.name)} (${topic.count})</option>`
+        )).join("");
+        if (current && [...sourcesTopicFilter.options].some(opt => opt.value === current)) {
+            sourcesTopicFilter.value = current;
+        }
+    }
+
+    function loadSourcesCatalog() {
+        if (sourcesCatalogData) {
+            renderSourcesCatalog();
+            return Promise.resolve(sourcesCatalogData);
+        }
+        if (sourcesLoadPromise) return sourcesLoadPromise;
+        sourcesLoadPromise = fetch("/api/sources")
+            .then(res => {
+                if (!res.ok) throw new Error("Could not load sources");
+                return res.json();
+            })
+            .then(data => {
+                sourcesCatalogData = data || { publishers: [], topics: [] };
+                populateTopicFilter((sourcesCatalogData.topics || []).filter(topic => topic.count >= 2));
+                renderSourcesCatalog();
+                return sourcesCatalogData;
+            })
+            .catch(err => {
+                sourcesLoadPromise = null;
+                if (sourcesSummary) sourcesSummary.textContent = "Verified sources could not be loaded. Try again.";
+                if (sourcesCatalog) sourcesCatalog.innerHTML = `<p class="sources-empty">${escapeHtml(err.message || "Could not load sources.")}</p>`;
+            });
+        return sourcesLoadPromise;
+    }
+
+    function openSourcesModal() {
+        userMessage?.blur();
+        closeMobileSidebar();
+        closeProfileModal();
+        sourcesModal?.classList.add("active");
+        if (sourcesSummary && !sourcesCatalogData) sourcesSummary.textContent = "Loading verified sources…";
+        loadSourcesCatalog();
+        window.setTimeout(() => sourcesSearch?.focus(), 50);
+    }
+
     openProfileBtn?.addEventListener("click", () => {
         closeMobileSidebar();
         populateProfileForm();
@@ -601,8 +776,21 @@ document.addEventListener("DOMContentLoaded", () => {
         if (e.target === profileModal) closeProfileModal();
     });
 
+    openSourcesBtn?.addEventListener("click", openSourcesModal);
+    openSourcesFooterBtn?.addEventListener("click", openSourcesModal);
+    closeSourcesBtn?.addEventListener("click", closeSourcesModal);
+    sourcesModal?.addEventListener("click", (e) => {
+        if (e.target === sourcesModal) closeSourcesModal();
+    });
+    sourcesSearch?.addEventListener("input", renderSourcesCatalog);
+    sourcesTopicFilter?.addEventListener("change", renderSourcesCatalog);
+
     document.addEventListener("keydown", (e) => {
         if (e.key === "Escape") {
+            if (sourcesModal?.classList.contains("active")) {
+                closeSourcesModal();
+                return;
+            }
             if (profileModal?.classList.contains("active")) {
                 closeProfileModal();
             }

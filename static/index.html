@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover, interactive-widget=resizes-content">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover, interactive-widget=overlays-content">
     <meta name="theme-color" content="#f4f6f8" id="themeColorMeta">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -32,7 +32,7 @@
     <!-- Marked Markdown Parser -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     
-    <link rel="stylesheet" href="/static/style.css?v=3.8">
+    <link rel="stylesheet" href="/static/style.css?v=4.3">
 </head>
 <body class="theme-light font-normal">
 
@@ -93,9 +93,9 @@
                 <button class="btn-profile" id="openProfileBtn" title="Set up your profile">
                     <i class="fa-solid fa-user-gear"></i> <span>My Profile</span>
                 </button>
-                <div class="mnd-badge">
+                <button type="button" class="mnd-badge mnd-badge-btn" id="openSourcesBtn" title="View verified MND sources" aria-haspopup="dialog">
                     <i class="fa-solid fa-heart-pulse"></i> <strong>Verified MND sources</strong>
-                </div>
+                </button>
             </div>
         </aside>
 
@@ -113,7 +113,7 @@
                                 <i class="fa-solid fa-circle"></i> Ready
                             </span>
                             <span class="badge update-timestamp-badge" id="updateTimestampBadge" title="Last updated deployment timestamp">
-                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-03 00:30
+                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-04 17:34
                             </span>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                     <button class="btn-secondary" id="themeToggleBtn" title="Toggle Dark / Light Mode" aria-label="Toggle colour theme">
                         <i class="fa-solid fa-moon"></i> <span id="themeLbl">Light Mode</span>
                     </button>
-                    <button class="btn-primary" id="fontToggleBtn" title="Toggle Accessibility Text Size" aria-label="Toggle large text" aria-pressed="false">
+                    <button class="btn-secondary" id="fontToggleBtn" title="Toggle Accessibility Text Size" aria-label="Toggle large text" aria-pressed="false">
                         <i class="fa-solid fa-text-height"></i> <span id="fontLbl">Large Text</span>
                     </button>
                     <button class="btn-secondary" id="gazeToggleBtn" title="Larger buttons and spacing for eye gaze and switch access" aria-label="Toggle eye gaze mode" aria-pressed="false">
@@ -177,9 +177,9 @@
                         </button>
                     </div>
                 </form>
-                <div class="input-footer">
+                <button type="button" class="input-footer" id="openSourcesFooterBtn" title="View verified MND sources" aria-haspopup="dialog">
                     <span><i class="fa-solid fa-circle-info"></i> Drawn from MND Australia, NDIS, Carer Gateway, and Healthdirect. Confirm personal care decisions with your treating team.</span>
-                </div>
+                </button>
             </div>
 
         </main>
@@ -246,6 +246,28 @@
         </div>
     </div>
 
-    <script src="/static/app.js?v=3.8"></script>
+    <!-- Verified sources catalog -->
+    <div class="modal-overlay" id="sourcesModal" role="dialog" aria-modal="true" aria-labelledby="sourcesModalTitle">
+        <div class="modal-card sources-modal-card">
+            <div class="modal-header">
+                <h3 id="sourcesModalTitle"><i class="fa-solid fa-shield-heart"></i> Verified MND sources</h3>
+                <button class="icon-btn" id="closeSourcesBtn" type="button" aria-label="Close verified sources"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <p class="modal-desc">Every unique publication and directory page currently indexed in this guide, grouped by publisher. Open a link to read the original Australian source. Chat answers cite a smaller subset of these pages.</p>
+            <div class="sources-summary" id="sourcesSummary">Loading verified sources…</div>
+            <div class="sources-toolbar">
+                <label class="sources-search-wrap">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                    <input type="search" id="sourcesSearch" placeholder="Search title, publisher, topic, or website…" aria-label="Search verified sources">
+                </label>
+                <select id="sourcesTopicFilter" aria-label="Filter by topic">
+                    <option value="">All topics</option>
+                </select>
+            </div>
+            <div class="sources-catalog" id="sourcesCatalog"></div>
+        </div>
+    </div>
+
+    <script src="/static/app.js?v=4.3"></script>
 </body>
 </html>

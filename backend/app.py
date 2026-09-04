@@ -313,6 +313,10 @@ async def get_stats():
         "status": "online"
     }
 
+@app.get("/api/sources")
+async def get_sources():
+    return indexer.catalog_sources()
+
 @app.get("/api/images")
 async def get_images_map():
     return IMAGE_MAP

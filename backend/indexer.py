@@ -109,6 +109,100 @@ def publisher_homepage(publisher):
     return PUBLISHER_HOMEPAGES.get(str(publisher or "").strip().lower(), "")
 
 
+TOPIC_LABELS = {
+    "mnd_basics": "MND basics",
+    "palliative_care_advance_planning": "Palliative care and advance planning",
+    "equipment_assistive_technology": "Equipment and assistive technology",
+    "support_services": "Australian support services",
+    "ndis_funding_benefits": "NDIS, funding and benefits",
+    "carer_support": "Carer support",
+    "mental_health_cognition": "Mental health and cognition",
+    "clinical_trials_research": "Clinical trials and research",
+    "forms_templates_directories": "Forms, templates and directories",
+    "mobility_daily_living": "Mobility and daily living",
+    "breathing_respiratory_care": "Breathing and respiratory care",
+    "pain_cramps_spasticity": "Pain, cramps and spasticity",
+    "home_nursing_personal_care_in_home_supports": "Home nursing and in-home supports",
+    "sleep": "Sleep",
+    "emergency_planning": "Emergency planning",
+    "food_nutrition": "Food and nutrition",
+    "treatments_medicines": "Treatments and medicines",
+    "culturally_accessible_regional_support": "Culturally accessible and regional support",
+    "communication": "Communication",
+    "risk_factors_epidemiology_registries": "Risk factors, epidemiology and registries",
+    "driving_transport_travel_vehicle_modification": "Driving, transport and vehicle modification",
+    "genetics_family_risk_testing": "Genetics, family risk and testing",
+    "state_mnd_association": "State MND associations",
+    "national_peak_body": "National peak bodies",
+    "equipment_service": "Equipment services",
+    "national_carer_peak_body": "National carer peak bodies",
+    "health_information_service": "Health information services",
+    "bathroom": "Bathroom equipment",
+    "beds_and_bed_equipment": "Beds and bed equipment",
+    "mobility": "Mobility equipment",
+    "pressure_care": "Pressure care",
+    "transfer_aids": "Transfer aids",
+    "state equipment scheme": "State equipment schemes",
+    "assistive_technology": "Assistive technology",
+    "armchairs": "Armchairs",
+    "Centrelink payment": "Centrelink payments",
+    "mnd_equipment_guidance": "MND equipment guidance",
+    "respiratory_equipment": "Respiratory equipment",
+    "funding_pathways": "Funding pathways",
+}
+
+SOURCE_TYPE_LABELS = {
+    "webpage": "Webpage",
+    "pdf": "PDF",
+    "docx": "Word document",
+    "jpg": "Image",
+    "bin": "File",
+    "equipment_record": "Equipment directory",
+    "service_directory": "Service directory",
+    "funding_record": "Funding directory",
+    "directory": "Directory record",
+}
+
+
+def topic_label(raw):
+    key = str(raw or "").strip()
+    if not key:
+        return "General"
+    if key in TOPIC_LABELS:
+        return TOPIC_LABELS[key]
+    stripped = re.sub(r"^\d+_", "", key)
+    if stripped in TOPIC_LABELS:
+        return TOPIC_LABELS[stripped]
+    stripped = re.sub(r"_record$", "", stripped)
+    if stripped in TOPIC_LABELS:
+        return TOPIC_LABELS[stripped]
+    return stripped.replace("_", " ").strip().title() or "General"
+
+
+def source_type_label(raw):
+    key = str(raw or "webpage").strip()
+    mapped = SOURCE_TYPE_LABELS.get(key.lower())
+    if mapped:
+        return mapped
+    if key.lower().endswith("_record"):
+        return f"{topic_label(key)} directory"
+    return key.replace("_", " ").strip().title() or "Webpage"
+
+
+def display_state(raw):
+    value = str(raw or "").strip()
+    if not value or value.upper() in NATIONAL_STATES:
+        return "National"
+    return value
+
+
+def page_host(url):
+    match = re.match(r"https?://([^/]+)", str(url or ""), re.I)
+    if not match:
+        return ""
+    return match.group(1).lower().removeprefix("www.")
+
+
 def is_state_match(target_state, item_state):
     if not target_state or target_state.upper() in ["NATIONAL", "ALL", "AUSTRALIA"]:
         return True
@@ -127,6 +221,7 @@ class MNDIndexer:
         self.entities = []
         self.vectorizer = None
         self.tfidf_matrix = None
+        self._source_catalog = None
 
     def _metadata_files(self):
         return sorted(glob.glob(os.path.join(METADATA_DIR, "*.jsonl")))
@@ -170,6 +265,7 @@ class MNDIndexer:
         print(f"Loaded {len(self.documents)} document chunks.", flush=True)
         print(f"Loaded {len(self.entities)} structured entity records.", flush=True)
         self._backfill_missing_urls()
+        self._source_catalog = None
 
         # 2. Build TF-IDF vectorizer over document chunks
         print("Computing TF-IDF matrix...", flush=True)
@@ -214,6 +310,7 @@ class MNDIndexer:
                 self.vectorizer = data["vectorizer"]
                 self.tfidf_matrix = data["tfidf_matrix"]
                 self._backfill_missing_urls()
+                self._source_catalog = None
             print(f"Loaded {len(self.documents)} docs, {len(self.entities)} entities.", flush=True)
         else:
             self.build_index()
@@ -263,6 +360,133 @@ class MNDIndexer:
         docs = sum(1 for d in self.documents if not str(d.get("url") or "").lower().startswith("http"))
         ents = sum(1 for e in self.entities if not record_http_url(e).lower().startswith("http"))
         return docs + ents
+
+    def catalog_sources(self):
+        """Unique publication and directory pages grouped by publisher."""
+        if self._source_catalog is not None:
+            return self._source_catalog
+
+        from answer_policy import readable_title
+
+        pages = {}
+
+        def upsert(url, title, publisher, topic, source_type, state, kind, extras=None):
+            url = str(url or "").strip()
+            publisher = str(publisher or "").strip() or "Unknown publisher"
+            title = readable_title(title, publisher, url)
+            if url.lower().startswith("http"):
+                key = url.lower().rstrip("/")
+            else:
+                key = f"local:{kind}:{publisher}:{title}".lower()
+            label = topic_label(topic)
+            extra = extras or {}
+            existing = pages.get(key)
+            if existing:
+                if label not in existing["topics"]:
+                    existing["topics"].append(label)
+                if kind == "publication":
+                    existing["kind"] = "publication"
+                if title and len(title) > len(existing["title"]):
+                    existing["title"] = title
+                for field in ("description", "phone", "eligibility", "region"):
+                    if extra.get(field) and not existing.get(field):
+                        existing[field] = extra[field]
+                return
+            page = {
+                "title": title,
+                "publisher": publisher,
+                "url": url if url.lower().startswith("http") else "",
+                "host": page_host(url),
+                "topics": [label],
+                "source_type": source_type_label(source_type),
+                "state": display_state(state),
+                "kind": kind,
+            }
+            for field, value in extra.items():
+                if value:
+                    page[field] = value
+            pages[key] = page
+
+        for doc in self.documents:
+            upsert(
+                record_http_url(doc),
+                doc.get("source_title") or doc.get("title") or "",
+                doc.get("publisher") or "",
+                doc.get("topic") or doc.get("v1_data_topic") or "",
+                doc.get("source_type") or "webpage",
+                doc.get("state") or "",
+                "publication",
+            )
+
+        for ent in self.entities:
+            extras = {}
+            description = str(ent.get("description") or ent.get("notes") or "").strip()
+            if description:
+                extras["description"] = description[:400]
+            phone = str(ent.get("phone") or "").strip()
+            if phone:
+                extras["phone"] = phone
+            eligibility = str(ent.get("eligibility") or "").strip()
+            if eligibility:
+                extras["eligibility"] = eligibility[:240]
+            region = str(ent.get("region") or "").strip()
+            if region:
+                extras["region"] = region
+            publisher = str(ent.get("publisher") or ent.get("supplier") or "").strip()
+            if not publisher:
+                category = str(ent.get("category") or "")
+                if category in {
+                    "state_mnd_association", "national_peak_body", "national_carer_peak_body",
+                    "health_information_service", "equipment_service", "carer_support",
+                }:
+                    publisher = str(ent.get("name") or "").strip()
+                else:
+                    publisher = "Service and equipment directory"
+            upsert(
+                entity_url(ent) or record_http_url(ent),
+                ent.get("name") or "",
+                publisher,
+                ent.get("category") or ent.get("topic") or "directory",
+                ent.get("source_type") or "directory",
+                ent.get("state") or "",
+                "directory",
+                extras,
+            )
+
+        groups = {}
+        for page in pages.values():
+            groups.setdefault(page["publisher"], []).append(page)
+
+        topic_counts = {}
+        publishers = []
+        for name, items in groups.items():
+            items.sort(key=lambda page: page["title"].lower())
+            pub_topics = []
+            for page in items:
+                for label in page["topics"]:
+                    if label not in pub_topics:
+                        pub_topics.append(label)
+                    topic_counts[label] = topic_counts.get(label, 0) + 1
+            publishers.append({
+                "name": name,
+                "count": len(items),
+                "homepage": publisher_homepage(name) or next((p["url"] for p in items if p.get("url")), ""),
+                "topics": sorted(pub_topics),
+                "pages": items,
+            })
+        publishers.sort(key=lambda group: (-group["count"], group["name"].lower()))
+
+        self._source_catalog = {
+            "page_count": len(pages),
+            "publisher_count": len(publishers),
+            "topic_count": len(topic_counts),
+            "topics": sorted(
+                [{"name": name, "count": count} for name, count in topic_counts.items()],
+                key=lambda item: (-item["count"], item["name"].lower()),
+            ),
+            "publishers": publishers,
+        }
+        return self._source_catalog
 
     def search_entities(self, query, state=None, top_k=4, topic=None):
         """Search structured entity records (equipment, services, NDIS funding, etc.)"""

@@ -728,6 +728,54 @@ class TestChatSourcePresentation(unittest.TestCase):
             first = source_events[0]
             self.assertTrue(isinstance(first, list) and first)
             self.assertTrue(all(item.get("url", "").startswith("http") for item in first))
+
+
+class TestSourceCatalog(unittest.TestCase):
+    """Verified sources directory: unique pages grouped by publisher."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.indexer = MNDIndexer()
+        cls.indexer.load_index()
+        cls.catalog = cls.indexer.catalog_sources()
+
+    def test_catalog_has_grouped_unique_pages(self):
+        self.assertGreater(self.catalog["page_count"], 200)
+        self.assertGreater(self.catalog["publisher_count"], 20)
+        self.assertTrue(self.catalog["publishers"])
+        self.assertTrue(self.catalog["topics"])
+        names = {group["name"].lower() for group in self.catalog["publishers"]}
+        self.assertTrue(any("mnd australia" in name for name in names))
+        self.assertTrue(any(name == "ndis" or "ndis" in name for name in names))
+
+    def test_catalog_urls_are_unique_http(self):
+        urls = []
+        for group in self.catalog["publishers"]:
+            for page in group["pages"]:
+                self.assertTrue(page.get("title"))
+                self.assertTrue(page.get("publisher"))
+                self.assertTrue(page.get("topics"))
+                url = page.get("url") or ""
+                if url:
+                    self.assertTrue(url.lower().startswith("http"), url)
+                    urls.append(url.lower().rstrip("/"))
+        self.assertGreater(len(urls), 200)
+        self.assertEqual(len(urls), len(set(urls)))
+
+    def test_sources_api_returns_catalog(self):
+        from app import app
+        from fastapi.testclient import TestClient
+
+        with TestClient(app) as client:
+            response = client.get("/api/sources")
+            self.assertEqual(response.status_code, 200)
+            data = response.json()
+            self.assertGreater(data["page_count"], 200)
+            self.assertGreaterEqual(len(data["publishers"]), 20)
+            first = data["publishers"][0]
+            self.assertIn("pages", first)
+            self.assertTrue(first["pages"][0]["title"])
+            self.assertTrue(first["pages"][0]["url"].startswith("http"))
 class TestSecurityDefenses(unittest.TestCase):
     """Automated security hardening & defense unit tests."""
 
