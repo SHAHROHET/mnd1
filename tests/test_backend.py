@@ -409,11 +409,40 @@ class TestResourceImageIntent(unittest.TestCase):
 
         self.assertTrue(should_include_resource_images("What wheelchair options are available in NSW?"))
 
-    def test_general_support_query_suppresses_images(self):
+    def test_carer_support_query_allows_images(self):
         sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
         from app import should_include_resource_images
 
-        self.assertFalse(should_include_resource_images("What emotional support is available for carers?"))
+        self.assertTrue(should_include_resource_images("What emotional support is available for carers?"))
+
+    def test_crisis_query_suppresses_images(self):
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "backend"))
+        from app import should_include_resource_images
+
+        self.assertFalse(should_include_resource_images("I want to die and cannot go on"))
+
+
+class TestAnswerPhotos(unittest.TestCase):
+    """Relevant local photos should attach for visual care topics."""
+
+    @classmethod
+    def setUpClass(cls):
+        from app import build_image_map
+        build_image_map()
+
+    def test_wheelchair_query_returns_equipment_photo(self):
+        from app import collect_answer_images
+        photos = collect_answer_images("What wheelchair options are available in NSW?", limit=4)
+        self.assertTrue(photos)
+        self.assertTrue(photos[0]["url"].startswith("/images/"))
+        blob = (photos[0]["url"] + " " + photos[0]["caption"]).lower()
+        self.assertTrue("wheelchair" in blob or "walker" in blob or "04_equipment" in blob)
+
+    def test_carer_query_returns_support_photo(self):
+        from app import collect_answer_images
+        photos = collect_answer_images("What support is available for MND carers?", limit=4)
+        self.assertTrue(photos)
+        self.assertTrue(photos[0]["url"].startswith("/images/"))
 
 
 class TestAnswerPolicy(unittest.TestCase):
@@ -426,7 +455,7 @@ class TestAnswerPolicy(unittest.TestCase):
         self.assertEqual(definition["topic"], "definition")
         self.assertEqual(definition["length_mode"], "definition")
         self.assertEqual(definition["detail_mode"], "brief")
-        self.assertFalse(definition["show_images"])
+        self.assertTrue(definition["show_images"])
 
         swallowing = classify_query("My dad has trouble swallowing, what should we do?")
         self.assertEqual(swallowing["audience"], "carer")
@@ -436,7 +465,7 @@ class TestAnswerPolicy(unittest.TestCase):
 
         funding = classify_query("What NDIS support can I get for MND?")
         self.assertEqual(funding["topic"], "funding")
-        self.assertFalse(funding["show_images"])
+        self.assertTrue(funding["show_images"])
 
         breathing = classify_query("I'm not sleeping because breathing is hard at night")
         self.assertEqual(breathing["topic"], "breathing")
@@ -453,7 +482,7 @@ class TestAnswerPolicy(unittest.TestCase):
         self.assertEqual(carer_load["audience"], "carer")
         self.assertEqual(carer_load["topic"], "mental_health")
         self.assertFalse(carer_load["emergency"])
-        self.assertFalse(carer_load["show_images"])
+        self.assertTrue(carer_load["show_images"])
 
     def test_readable_title_avoids_filenames(self):
         from answer_policy import readable_title, collect_sources, public_sources

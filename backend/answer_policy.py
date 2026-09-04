@@ -169,14 +169,23 @@ def classify_query(message: str, profile_role: str | None = None) -> dict:
     }
 
 
+IMAGE_BLOCK_TERMS = {
+    "suicide", "suicidal", "kill", "dying", "funeral", "bereavement", "grief",
+    "prognosis", "selfharm", "overdose",
+}
+
+
 def should_include_resource_images(query: str) -> bool:
+    """Show photos whenever a relevant local asset exists, except crisis/emergency/grief."""
     q = str(query).lower()
+    if is_emergency(q) or is_crisis(q):
+        return False
     words = _words(q)
-    if words & ABSTRACT_TERMS and not (words & {"shower", "wheelchair", "hoist", "commode", "toilet", "bed"}):
+    if words & IMAGE_BLOCK_TERMS and not (words & EQUIPMENT_TERMS):
         return False
-    if words & {"ndis", "centrelink", "funding", "legal"} and not (words & EQUIPMENT_TERMS):
+    if "end of life" in q or "end-of-life" in q:
         return False
-    return bool(words & EQUIPMENT_TERMS) or "cough assist" in q or "eye gaze" in q or "home modification" in q
+    return True
 
 
 def _host_label(url: str) -> str:
@@ -665,9 +674,9 @@ def topic_guidance(topic: str) -> str:
         "swallowing": "Recommend review by a speech pathologist and dietitian. Mention IDDSI textures when relevant. Do not prescribe a diet.",
         "breathing": "Recommend the respiratory / MND clinic team. Mention NIV only as something to discuss with that team, not as a DIY setup.",
         "funding": "Keep it Australia-specific and step-by-step (NDIS, Services Australia, My Aged Care, state equipment schemes). Do not invent payment amounts.",
-        "equipment": "Name practical options and the usual Australian pathway (OT assessment, then state scheme or NDIS). Show an image only if an Image URL is in the context.",
+        "equipment": "Name practical options and the usual Australian pathway (OT assessment, then state scheme or NDIS). When Image URLs are in the context, place 1 to 3 photos beside the matching equipment.",
         "medical": "Explain generally. Then say the person should check with their treating team before changing treatment. Do not give personalised medical advice or doses.",
-        "mental_health": "Be supportive. Do not diagnose. Point to MND Association, GP, and crisis lines if distress is high. Do not attach product photos.",
+        "mental_health": "Be supportive. Do not diagnose. Point to MND Association, GP, and crisis lines if distress is high. You may include a relevant carer-support photo if an Image URL is provided; never use equipment product shots.",
         "definition": "Answer the definition directly. Do not add funding or equipment unless asked.",
     }.get(topic, "Stay inside the retrieved context. If unsure, say so.")
 

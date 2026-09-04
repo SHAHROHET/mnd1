@@ -11,6 +11,7 @@ from fastapi import FastAPI, Request, HTTPException
 from fastapi.responses import HTMLResponse, StreamingResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
+from urllib.parse import quote, unquote
 import httpx
 
 # Insert backend folder to sys.path to prevent module import issues on deployment hosts
@@ -132,10 +133,43 @@ if os.path.exists(ENV_FILE):
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 
 IMAGE_MAP = {}
+IMAGE_ITEMS = []
+
+IMAGE_JUNK_RE = re.compile(
+    r"(subscribe|google play|app store|transcript|watch \d|aboriginal|"
+    r"pride flags|energy concessions|^cover image$|ycn$|luki.?thelights|"
+    r"download from)",
+    re.I,
+)
+IMAGE_MATCH_STOPWORDS = {
+    "and", "the", "for", "with", "from", "illustration", "guidance",
+    "what", "how", "can", "get", "available", "options", "option",
+    "someone", "someone", "about", "help",
+}
+
+
+def _image_caption_from_path(path: str) -> str:
+    raw = unquote(str(path).split("/")[-1])
+    raw = re.sub(r"-[a-f0-9]{8,12}(?=\.[a-z0-9]+$)", "", raw, flags=re.I)
+    raw = os.path.splitext(raw)[0]
+    raw = re.sub(r"\s*EQ\d+\s*", " ", raw, flags=re.I)
+    return re.sub(r"\s+", " ", raw.replace("_", " ")).strip()[:90]
+
+
+def _image_dedupe_key(path: str) -> str:
+    raw = unquote(str(path).split("/")[-1])
+    raw = re.sub(r"-[a-f0-9]{8,12}(?=\.[a-z0-9]+$)", "", raw, flags=re.I)
+    return raw.lower()
+
+
+def is_junk_image(caption: str, path: str) -> bool:
+    return bool(IMAGE_JUNK_RE.search(f"{caption} {unquote(path)}"))
+
 
 def build_image_map():
-    global IMAGE_MAP
+    global IMAGE_MAP, IMAGE_ITEMS
     IMAGE_MAP = {}
+    IMAGE_ITEMS = []
     assets_dir = os.path.join(BASE_DIR, "images", "assets")
     if not os.path.exists(assets_dir):
         print(f"Images assets directory not found at: {assets_dir}", flush=True)
@@ -143,56 +177,111 @@ def build_image_map():
     for root, dirs, files in os.walk(assets_dir):
         for file in files:
             ext = os.path.splitext(file)[1].lower()
-            if ext in [".png", ".jpg", ".jpeg", ".webp", ".svg"]:
-                full_path = os.path.join(root, file)
-                rel_path = os.path.relpath(full_path, BASE_DIR).replace("\\", "/")
-                name_part = os.path.splitext(file)[0]
-                if "-" in name_part:
-                    parts = name_part.rsplit("-", 1)
-                    rightmost = parts[1].strip()
-                    if len(rightmost) >= 8 and len(rightmost) <= 12 and re.match(r'^[a-f0-9]+$', rightmost):
-                        name_part = parts[0].strip()
-                from urllib.parse import quote
-                norm_name = re.sub(r'[^a-z0-9]', '', name_part.lower())
-                IMAGE_MAP[norm_name] = "/" + quote(rel_path, safe="/")
+            if ext not in [".png", ".jpg", ".jpeg", ".webp", ".svg"]:
+                continue
+            full_path = os.path.join(root, file)
+            rel_path = os.path.relpath(full_path, BASE_DIR).replace("\\", "/")
+            name_part = os.path.splitext(file)[0]
+            if "-" in name_part:
+                parts = name_part.rsplit("-", 1)
+                rightmost = parts[1].strip()
+                if len(rightmost) >= 8 and len(rightmost) <= 12 and re.match(r"^[a-f0-9]+$", rightmost):
+                    name_part = parts[0].strip()
+            served = "/" + quote(rel_path, safe="/")
+            norm_name = re.sub(r"[^a-z0-9]", "", name_part.lower())
+            if not norm_name:
+                continue
+            IMAGE_MAP[norm_name] = served
+            IMAGE_ITEMS.append({
+                "key": norm_name,
+                "path": served,
+                "caption": name_part,
+            })
     print(f"Indexed {len(IMAGE_MAP)} product/care images.", flush=True)
 
-IMAGE_MATCH_STOPWORDS = {
-    "and", "the", "for", "with", "from", "mnd", "care", "home", "program",
-    "aged", "australia", "illustration", "support", "guidance",
-}
+
+def _query_image_tokens(query: str) -> set[str]:
+    q = str(query or "").lower()
+    extra = []
+    if "ndis" in q or "aged care" in q:
+        extra.append("support at home my aged care ndis")
+    if "carer" in q or "caring" in q:
+        extra.append("carer gateway carers support")
+    if any(w in q for w in ("swallow", "feeding", "nutrition", "peg")):
+        extra.append("feeding tube peg")
+    if "communicat" in q or "aac" in q or "eye gaze" in q:
+        extra.append("communication aids")
+    if any(w in q for w in ("wheelchair", "shower", "hoist", "commode", "toilet", "bed", "sling", "ramp")):
+        extra.append("equipment assistive")
+    blob = q + " " + " ".join(extra)
+    return {
+        tok for tok in re.findall(r"[a-z0-9]{3,}", blob)
+        if tok not in IMAGE_MATCH_STOPWORDS
+    }
+
 
 def find_image_for_query(query: str) -> str:
     """Match a query string against IMAGE_MAP keys using token-level scoring."""
-    norm_query = re.sub(r'[^a-z0-9]', '', query.lower())
-    if not norm_query:
-        return ""
-    # Exact match
-    if norm_query in IMAGE_MAP:
-        return IMAGE_MAP[norm_query]
-    # Substring match only when both sides are specific enough to avoid
-    # generic tokens like "and" matching a bed product photo.
-    for key, path in IMAGE_MAP.items():
-        shorter, longer = (key, norm_query) if len(key) <= len(norm_query) else (norm_query, key)
-        if len(shorter) >= 12 and shorter in longer:
-            return path
-    # Token-level matching: split query into tokens and score against each key
-    query_tokens = {
-        tok for tok in re.findall(r'[a-z0-9]{3,}', query.lower())
-        if tok not in IMAGE_MATCH_STOPWORDS
-    }
-    if not query_tokens:
-        return ""
-    best_path = ""
-    best_score = 0
-    for key, path in IMAGE_MAP.items():
-        matched = sum(1 for tok in query_tokens if tok in key)
-        if matched > best_score:
-            best_score = matched
-            best_path = path
-    # Require at least 2 matching tokens, or 1 if query had only 1 token
-    min_required = 1 if len(query_tokens) <= 1 else 2
-    return best_path if best_score >= min_required else ""
+    photos = collect_answer_images(query, limit=1)
+    return photos[0]["url"] if photos else ""
+
+
+def collect_answer_images(query: str, entities=None, docs=None, limit=4) -> list[dict]:
+    """Return unique, relevant local photos for a question."""
+    parts = [str(query or "")]
+    for ent in entities or []:
+        if not isinstance(ent, dict):
+            continue
+        parts.append(str(ent.get("name") or ""))
+        parts.append(str(ent.get("category") or "").replace("_", " "))
+    for doc in docs or []:
+        if not isinstance(doc, dict):
+            continue
+        parts.append(str(doc.get("source_title") or ""))
+        parts.append(str(doc.get("publisher") or ""))
+    tokens = _query_image_tokens(" ".join(parts))
+    if not tokens:
+        return []
+
+    distinctive = any(len(tok) >= 6 for tok in tokens)
+    min_score = 1 if (len(tokens) <= 2 or distinctive) else 2
+    equipment_query = bool(tokens & {
+        "wheelchair", "commode", "hoist", "sling", "shower", "toilet", "walker",
+        "ramp", "cushion", "armchair", "flexequip", "lifter", "bed",
+    })
+
+    scored = []
+    for item in IMAGE_ITEMS:
+        caption = item["caption"]
+        path = item["path"]
+        key = item["key"]
+        if is_junk_image(caption, path):
+            continue
+        matched = sum(1 for tok in tokens if tok in key)
+        if matched < min_score:
+            continue
+        score = matched
+        if equipment_query and "04_equipment" in unquote(path):
+            score += 2
+        if not equipment_query and "04_equipment" in unquote(path) and matched < 2:
+            continue
+        scored.append((score, len(key), path, caption))
+
+    scored.sort(reverse=True)
+    results = []
+    seen = set()
+    for score, _, path, caption in scored:
+        stamp = _image_dedupe_key(path)
+        if stamp in seen:
+            continue
+        seen.add(stamp)
+        results.append({
+            "url": path,
+            "caption": _image_caption_from_path(path) or caption,
+        })
+        if len(results) >= limit:
+            break
+    return results
 
 os.makedirs(STATIC_DIR, exist_ok=True)
 app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
@@ -281,7 +370,7 @@ Core Logical Principles:
 {situation_logic}
 
 Images:
-Embed an image only when the question is about equipment or home aids AND the context includes an Image URL. Use `![Short caption](image_url)` on its own line. Use the exact relative path. Never add images for grief, mental health, prognosis, diagnosis, or funding-only questions.
+This guide is photo-led. When the context lists Image URLs, include 1 to 3 relevant photos in the answer with `![Short caption](image_url)` on their own line next to the matching equipment or service. Use the exact relative path from context. Never invent paths. Skip photos for crisis, suicide, grief, or prognosis. Do not use app-store badges, subscribe buttons, or unrelated logos.
 
 Location:
 The user selected **{selected_state}**. Frame all equipment, funding, and support pathways around {selected_state}:
@@ -486,12 +575,16 @@ async def chat_endpoint(request: Request):
     docs = indexer.search_documents(search_query, state=state, top_k=doc_k, topic=policy["topic"])
     entities = indexer.search_entities(search_query, state=state, top_k=ent_k, topic=policy["topic"])
 
-    # Attach product photos to visual equipment entities only — skip
-    # category fallback so NIV/info records are not paired with unrelated beds.
+    # Attach matching local photos for equipment, services, and funding when relevant.
     policy["show_images"] = should_include_resource_images(search_query)
+    photos = []
     if policy["show_images"]:
+        photos = collect_answer_images(search_query, entities, docs, limit=4)
         for ent in entities:
-            ent["image_url"] = find_image_for_query(ent.get("name", ""))
+            ent["image_url"] = find_image_for_query(ent.get("name") or "")
+        for doc in docs:
+            if not doc.get("image_url"):
+                doc["image_url"] = find_image_for_query(doc.get("source_title") or "")
 
     packaged_sources = collect_sources(docs, entities)
     if data.get("debug"):
@@ -518,6 +611,11 @@ async def chat_endpoint(request: Request):
             if d.get("image_url"):
                 d_str += f"\n  Image URL: {d.get('image_url')}"
             context_items.append(d_str)
+
+    if photos:
+        context_items.append("=== RELEVANT LOCAL PHOTOS (embed these in the answer) ===")
+        for photo in photos:
+            context_items.append(f"• Caption: {photo['caption']}\n  Image URL: {photo['url']}")
 
     context_block = "\n\n".join(context_items) or "No matching knowledge-base excerpts were found for this question."
     system_prompt = SYSTEM_PROMPT_TEMPLATE.format(
@@ -547,6 +645,8 @@ async def chat_endpoint(request: Request):
 
             if sources:
                 yield f"data: {json.dumps({'sources': sources})}\n\n"
+            if photos:
+                yield f"data: {json.dumps({'images': photos})}\n\n"
 
             url = "https://api.deepseek.com/v1/chat/completions"
             headers = {
@@ -627,6 +727,8 @@ async def chat_endpoint(request: Request):
 
             if sources:
                 yield f"data: {json.dumps({'sources': sources})}\n\n"
+            if photos:
+                yield f"data: {json.dumps({'images': photos})}\n\n"
 
             response_text = build_offline_answer(policy, entities, docs)
             checked = validate_output(response_text)

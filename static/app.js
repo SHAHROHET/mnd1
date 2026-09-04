@@ -77,7 +77,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function findImageInClientMap(query) {
         if (!query) return "";
-        const normQuery = query.toLowerCase().replace(/[^a-z0-9]/g, "");
+        const raw = String(query).trim();
+        const known = new Set(Object.values(clientImageMap));
+        if (known.has(raw)) return raw;
+        try {
+            const decoded = decodeURI(raw);
+            if (known.has(decoded)) return decoded;
+        } catch (err) {
+            /* ignore */
+        }
+        const normQuery = raw.toLowerCase().replace(/[^a-z0-9]/g, "");
         if (!normQuery) return "";
         // Exact match
         if (clientImageMap[normQuery]) {
@@ -85,8 +94,8 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         // Substring match only when both sides are specific enough
         const IMAGE_MATCH_STOPWORDS = new Set([
-            "and", "the", "for", "with", "from", "mnd", "care", "home", "program",
-            "aged", "australia", "illustration", "support", "guidance"
+            "and", "the", "for", "with", "from", "illustration", "guidance",
+            "what", "how", "can", "get", "available", "options", "option"
         ]);
         for (const [key, val] of Object.entries(clientImageMap)) {
             const shorter = key.length <= normQuery.length ? key : normQuery;
@@ -96,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
         // Token-level matching: score each key by how many query tokens it contains
-        const tokens = (query.toLowerCase().match(/[a-z0-9]{3,}/g) || [])
+        const tokens = (raw.toLowerCase().match(/[a-z0-9]{3,}/g) || [])
             .filter(tok => !IMAGE_MATCH_STOPWORDS.has(tok));
         if (tokens.length === 0) return "";
         let bestPath = "";
@@ -111,7 +120,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 bestPath = val;
             }
         }
-        const minRequired = tokens.length <= 1 ? 1 : 2;
+        const distinctive = tokens.some(tok => tok.length >= 6);
+        const minRequired = (tokens.length <= 2 || distinctive) ? 1 : 2;
         return bestScore >= minRequired ? bestPath : "";
     }
 
@@ -167,7 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
             queryKey = cleanName;
         }
         
-        const matched = findImageInClientMap(queryKey) || findImageInClientMap(text);
+        const matched = findImageInClientMap(href) || findImageInClientMap(queryKey) || findImageInClientMap(text);
         if (!matched) {
             return "";
         }
@@ -250,6 +260,47 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!row.children.length) return null;
         wrap.appendChild(row);
         return wrap;
+    }
+
+    function attachImageGallery(wrapper, images) {
+        wrapper.querySelector(".care-photo-gallery")?.remove();
+        const list = Array.isArray(images) ? images : [];
+        if (!wrapper || !list.length) return;
+        const existing = new Set(
+            [...wrapper.querySelectorAll("img.care-message-img")].map(img => img.getAttribute("src"))
+        );
+        const gallery = document.createElement("div");
+        gallery.className = "care-photo-gallery";
+        gallery.setAttribute("aria-label", "Related photos");
+        list.forEach(item => {
+            const caption = item.caption || item.title || "Care photo";
+            const matched = findImageInClientMap(item.url) || findImageInClientMap(caption);
+            if (!matched || existing.has(matched)) return;
+            existing.add(matched);
+            const figure = document.createElement("span");
+            figure.className = "care-figure";
+            const img = document.createElement("img");
+            img.src = matched;
+            img.alt = caption;
+            img.title = caption;
+            img.className = "care-message-img";
+            img.loading = "lazy";
+            img.addEventListener("error", () => {
+                figure.style.display = "none";
+            });
+            const cap = document.createElement("span");
+            cap.className = "care-img-caption";
+            cap.textContent = caption;
+            figure.appendChild(img);
+            figure.appendChild(cap);
+            gallery.appendChild(figure);
+        });
+        if (!gallery.children.length) return;
+        const sources = wrapper.querySelector(".source-chips");
+        const ts = wrapper.querySelector(".message-timestamp");
+        if (sources) wrapper.insertBefore(gallery, sources);
+        else if (ts) wrapper.insertBefore(gallery, ts);
+        else wrapper.appendChild(gallery);
     }
 
     function attachSourceChips(wrapper, sources) {
@@ -551,7 +602,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             // Re-render past messages
             conv.messages.forEach(msg => {
-                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.sources);
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.sources, msg.images);
                 chatMessages.appendChild(row);
             });
             
@@ -1083,6 +1134,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         let fullContent = "";
         let streamedSources = [];
+        let streamedImages = [];
         let streamRenderTimer = 0;
         const STREAM_RENDER_MS = 80;
 
@@ -1149,6 +1201,9 @@ document.addEventListener("DOMContentLoaded", () => {
                             if (parsed.sources) {
                                 streamedSources = parsed.sources;
                             }
+                            if (parsed.images) {
+                                streamedImages = parsed.images;
+                            }
                             if (parsed.content) {
                                 if (!gotFirstToken) {
                                     gotFirstToken = true;
@@ -1176,7 +1231,10 @@ document.addEventListener("DOMContentLoaded", () => {
             } else {
                 paintStream(true);
                 const wrapper = assistantRow.querySelector(".message-wrapper");
-                if (wrapper) attachSourceChips(wrapper, streamedSources);
+                if (wrapper) {
+                    attachImageGallery(wrapper, streamedImages);
+                    attachSourceChips(wrapper, streamedSources);
+                }
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
 
@@ -1184,6 +1242,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     role: "assistant",
                     content: fullContent,
                     sources: streamedSources,
+                    images: streamedImages,
                     timestamp: timestampStr
                 });
                 conversations[currentConvId].updatedAt = Date.now();
@@ -1223,7 +1282,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    function createMessageRow(role, text, timestamp, sources) {
+    function createMessageRow(role, text, timestamp, sources, images) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -1249,6 +1308,7 @@ document.addEventListener("DOMContentLoaded", () => {
         wrapper.className = "message-wrapper";
         wrapper.appendChild(content);
         if (role === "assistant") {
+            attachImageGallery(wrapper, images);
             attachSourceChips(wrapper, sources);
         }
         wrapper.appendChild(ts);
