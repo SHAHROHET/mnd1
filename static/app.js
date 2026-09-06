@@ -38,9 +38,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const profileLocation = document.getElementById("profileLocation");
     const docCountStat = document.getElementById("docCountStat");
     const entityCountStat = document.getElementById("entityCountStat");
+    const openAnalyticsBtn = document.getElementById("openAnalyticsBtn");
+    const analyticsModal = document.getElementById("analyticsModal");
+    const closeAnalyticsBtn = document.getElementById("closeAnalyticsBtn");
+    const analyticsContent = document.getElementById("analyticsContent");
 
     let clientImageMap = {};
     const PROFILE_STORAGE_KEY = "mnd_user_profile";
+    const ANALYTICS_USER_KEY = "mnd_anonymous_user_id";
 
     function escapeHtml(value) {
         return String(value || "").replace(/[&<>"']/g, char => ({
@@ -50,6 +55,19 @@ document.addEventListener("DOMContentLoaded", () => {
             "\"": "&quot;",
             "'": "&#39;"
         }[char]));
+    }
+
+    function getAnonymousUserId() {
+        try {
+            let identifier = localStorage.getItem(ANALYTICS_USER_KEY);
+            if (!identifier) {
+                identifier = window.crypto?.randomUUID?.() || `u_${Date.now()}_${Math.random().toString(36).slice(2)}`;
+                localStorage.setItem(ANALYTICS_USER_KEY, identifier);
+            }
+            return identifier;
+        } catch (err) {
+            return `u_${Date.now()}_${Math.random().toString(36).slice(2)}`;
+        }
     }
 
     function safeLinkHref(value) {
@@ -602,7 +620,7 @@ document.addEventListener("DOMContentLoaded", () => {
         } else {
             // Re-render past messages
             conv.messages.forEach(msg => {
-                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.sources, msg.images);
+                const row = createMessageRow(msg.role, msg.content, msg.timestamp, msg.sources, msg.images, msg.feedbackId);
                 chatMessages.appendChild(row);
             });
             
@@ -679,6 +697,73 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function closeSourcesModal() {
         sourcesModal?.classList.remove("active");
+    }
+
+    function closeAnalyticsModal() {
+        analyticsModal?.classList.remove("active");
+    }
+
+    function renderAnalytics(data) {
+        if (!analyticsContent) return;
+        const totals = data?.total_conversations || {};
+        const questions = Array.isArray(data?.popular_questions) ? data.popular_questions : [];
+        const profiles = Array.isArray(data?.profile_categories) ? data.profile_categories : [];
+        const feedback = data?.feedback || {};
+        const questionRows = questions.length
+            ? questions.map((item, index) => `<li><span>${index + 1}. ${escapeHtml(item.question)}</span><strong>${Number(item.count || 0).toLocaleString()}</strong></li>`).join("")
+            : '<li class="analytics-empty">No questions recorded yet.</li>';
+        const profileRows = profiles.length
+            ? profiles.map(item => `<li><span>${escapeHtml(item.category)}</span><strong>${Number(item.count || 0).toLocaleString()}</strong></li>`).join("")
+            : '<li class="analytics-empty">No profile categories recorded yet.</li>';
+        analyticsContent.innerHTML = `
+            <section class="analytics-section">
+                <h4>Total Conversations</h4>
+                <div class="analytics-total-grid">
+                    <div><span>This Week</span><strong>${Number(totals.this_week || 0).toLocaleString()}</strong></div>
+                    <div><span>This Month</span><strong>${Number(totals.this_month || 0).toLocaleString()}</strong></div>
+                    <div><span>All Time</span><strong>${Number(totals.all_time || 0).toLocaleString()}</strong></div>
+                </div>
+            </section>
+            <section class="analytics-section">
+                <h4>Popular Questions</h4>
+                <ol class="analytics-list">${questionRows}</ol>
+            </section>
+            <section class="analytics-section">
+                <h4>Users by Profile</h4>
+                <ul class="analytics-list">${profileRows}</ul>
+            </section>
+            <section class="analytics-section">
+                <h4>Likes</h4>
+                <div class="analytics-feedback-value"><span aria-hidden="true">👍</span><strong>${Number(feedback.likes || 0).toLocaleString()}</strong></div>
+            </section>
+            <section class="analytics-section">
+                <h4>Dislikes</h4>
+                <div class="analytics-feedback-value"><span aria-hidden="true">👎</span><strong>${Number(feedback.dislikes || 0).toLocaleString()}</strong></div>
+            </section>`;
+    }
+
+    function loadAnalytics() {
+        if (!analyticsContent) return;
+        analyticsContent.innerHTML = '<p class="analytics-status">Loading analytics…</p>';
+        fetch("/api/analytics")
+            .then(response => {
+                if (!response.ok) throw new Error("Analytics are temporarily unavailable.");
+                return response.json();
+            })
+            .then(renderAnalytics)
+            .catch(error => {
+                analyticsContent.innerHTML = `<p class="analytics-status">${escapeHtml(error.message || "Analytics are temporarily unavailable.")}</p>`;
+            });
+    }
+
+    function openAnalyticsModal() {
+        userMessage?.blur();
+        closeMobileSidebar();
+        closeProfileModal();
+        closeSourcesModal();
+        analyticsModal?.classList.add("active");
+        loadAnalytics();
+        window.setTimeout(() => closeAnalyticsBtn?.focus(), 50);
     }
 
     let sourcesCatalogData = null;
@@ -833,6 +918,11 @@ document.addEventListener("DOMContentLoaded", () => {
     sourcesModal?.addEventListener("click", (e) => {
         if (e.target === sourcesModal) closeSourcesModal();
     });
+    openAnalyticsBtn?.addEventListener("click", openAnalyticsModal);
+    closeAnalyticsBtn?.addEventListener("click", closeAnalyticsModal);
+    analyticsModal?.addEventListener("click", (e) => {
+        if (e.target === analyticsModal) closeAnalyticsModal();
+    });
     sourcesSearch?.addEventListener("input", renderSourcesCatalog);
     sourcesTopicFilter?.addEventListener("change", renderSourcesCatalog);
 
@@ -840,6 +930,10 @@ document.addEventListener("DOMContentLoaded", () => {
         if (e.key === "Escape") {
             if (sourcesModal?.classList.contains("active")) {
                 closeSourcesModal();
+                return;
+            }
+            if (analyticsModal?.classList.contains("active")) {
+                closeAnalyticsModal();
                 return;
             }
             if (profileModal?.classList.contains("active")) {
@@ -1135,6 +1229,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let fullContent = "";
         let streamedSources = [];
         let streamedImages = [];
+        const responseId = window.crypto?.randomUUID?.() || `r_${Date.now()}_${Math.random().toString(36).slice(2)}`;
         let streamRenderTimer = 0;
         const STREAM_RENDER_MS = 80;
 
@@ -1169,6 +1264,9 @@ document.addEventListener("DOMContentLoaded", () => {
                     state: stateSelect.value,
                     history: chatHistory,
                     profile: readUserProfile(),
+                    anonymous_user_id: getAnonymousUserId(),
+                    conversation_id: currentConvId,
+                    response_id: responseId,
                     debug: isDebugMode()
                 })
             });
@@ -1234,6 +1332,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 if (wrapper) {
                     attachImageGallery(wrapper, streamedImages);
                     attachSourceChips(wrapper, streamedSources);
+                    attachFeedbackControls(wrapper, responseId);
                 }
                 chatHistory.push({ role: "assistant", content: fullContent });
                 if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
@@ -1243,6 +1342,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     content: fullContent,
                     sources: streamedSources,
                     images: streamedImages,
+                    feedbackId: responseId,
                     timestamp: timestampStr
                 });
                 conversations[currentConvId].updatedAt = Date.now();
@@ -1282,7 +1382,51 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
-    function createMessageRow(role, text, timestamp, sources, images) {
+    function attachFeedbackControls(wrapper, responseId) {
+        if (!wrapper || !responseId || wrapper.querySelector(".feedback-controls")) return;
+        const controls = document.createElement("div");
+        controls.className = "feedback-controls";
+        controls.setAttribute("aria-label", "Rate this answer");
+        [
+            ["like", "👍", "Like answer"],
+            ["dislike", "👎", "Dislike answer"]
+        ].forEach(([rating, icon, label]) => {
+            const button = document.createElement("button");
+            button.type = "button";
+            button.className = "feedback-btn";
+            button.dataset.rating = rating;
+            button.setAttribute("aria-label", label);
+            button.title = label;
+            button.textContent = icon;
+            button.addEventListener("click", async () => {
+                if (controls.dataset.submitting === "true") return;
+                controls.dataset.submitting = "true";
+                try {
+                    const response = await fetch("/api/analytics/feedback", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify({
+                            anonymous_user_id: getAnonymousUserId(),
+                            conversation_id: currentConvId,
+                            response_id: responseId,
+                            rating
+                        })
+                    });
+                    if (!response.ok) throw new Error("Feedback could not be recorded");
+                    controls.querySelectorAll(".feedback-btn").forEach(item => {
+                        item.disabled = true;
+                        item.setAttribute("aria-pressed", item === button ? "true" : "false");
+                    });
+                } catch (err) {
+                    controls.dataset.submitting = "false";
+                }
+            });
+            controls.appendChild(button);
+        });
+        wrapper.appendChild(controls);
+    }
+
+    function createMessageRow(role, text, timestamp, sources, images, feedbackId) {
         const row = document.createElement("div");
         row.className = `message-row ${role}`;
         
@@ -1310,6 +1454,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (role === "assistant") {
             attachImageGallery(wrapper, images);
             attachSourceChips(wrapper, sources);
+            if (feedbackId && text) attachFeedbackControls(wrapper, feedbackId);
         }
         wrapper.appendChild(ts);
 

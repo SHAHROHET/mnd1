@@ -1710,6 +1710,127 @@ textarea {
     transform: translateY(0);
 }
 
+.analytics-modal-card {
+    max-width: 760px;
+    width: 96%;
+    max-height: min(90vh, 90dvh);
+    overflow-y: auto;
+}
+
+.analytics-content {
+    display: grid;
+    gap: 14px;
+}
+
+.analytics-section {
+    background: var(--bg-card);
+    border: 1px solid var(--bg-card-border);
+    border-radius: var(--radius-sm);
+    padding: 16px;
+}
+
+.analytics-section h4 {
+    margin: 0 0 12px;
+    color: var(--text-main);
+    font-size: 1rem;
+}
+
+.analytics-total-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.analytics-total-grid div {
+    display: grid;
+    gap: 5px;
+    min-width: 0;
+}
+
+.analytics-total-grid span,
+.analytics-feedback-value span {
+    color: var(--text-muted);
+    font-size: 0.82rem;
+}
+
+.analytics-total-grid strong,
+.analytics-feedback-value strong {
+    color: var(--primary);
+    font-size: 1.35rem;
+}
+
+.analytics-list {
+    display: grid;
+    gap: 8px;
+    margin: 0;
+    padding-left: 24px;
+}
+
+.analytics-list li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 14px;
+    color: var(--text-main);
+    line-height: 1.4;
+}
+
+.analytics-list li strong {
+    color: var(--primary);
+    white-space: nowrap;
+}
+
+.analytics-empty,
+.analytics-status {
+    color: var(--text-muted);
+}
+
+.analytics-feedback-value {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.feedback-controls {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-top: 2px;
+}
+
+.feedback-btn {
+    min-width: 42px;
+    min-height: 38px;
+    padding: 6px 10px;
+    border: 1px solid var(--bg-card-border);
+    border-radius: var(--radius-sm);
+    background: transparent;
+    color: var(--text-main);
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.feedback-btn:hover,
+.feedback-btn:focus-visible {
+    border-color: var(--primary);
+    background: rgba(0, 168, 150, 0.12);
+}
+
+.feedback-btn:disabled {
+    cursor: default;
+    opacity: 0.75;
+}
+
+@media (max-width: 560px) {
+    .analytics-total-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .analytics-list li {
+        align-items: flex-start;
+    }
+}
+
 .sources-modal-card {
     max-width: 920px;
     width: 96%;

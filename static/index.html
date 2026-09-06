@@ -113,7 +113,7 @@
                                 <i class="fa-solid fa-circle"></i> Ready
                             </span>
                             <span class="badge update-timestamp-badge" id="updateTimestampBadge" title="Last updated deployment timestamp">
-                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-04 17:49
+                                <i class="fa-solid fa-clock-rotate-left"></i> Updated: 2026-09-06 12:11
                             </span>
                         </div>
                     </div>
@@ -134,6 +134,9 @@
                     </button>
                     <button class="btn-secondary" id="gazeToggleBtn" title="Larger buttons and spacing for eye gaze and switch access" aria-label="Toggle eye gaze mode" aria-pressed="false">
                         <i class="fa-solid fa-eye"></i> <span id="gazeLbl">Eye Gaze</span>
+                    </button>
+                    <button class="btn-secondary" id="openAnalyticsBtn" title="View anonymous chatbot analytics" aria-label="Open analytics" aria-haspopup="dialog">
+                        <i class="fa-solid fa-chart-column"></i> <span>Analytics</span>
                     </button>
                 </div>
             </header>
@@ -265,6 +268,19 @@
                 </select>
             </div>
             <div class="sources-catalog" id="sourcesCatalog"></div>
+        </div>
+    </div>
+
+    <div class="modal-overlay" id="analyticsModal" role="dialog" aria-modal="true" aria-labelledby="analyticsModalTitle">
+        <div class="modal-card analytics-modal-card">
+            <div class="modal-header">
+                <h3 id="analyticsModalTitle"><i class="fa-solid fa-chart-column"></i> MND Chatbot Analytics</h3>
+                <button class="icon-btn" id="closeAnalyticsBtn" type="button" aria-label="Return to chatbot"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <p class="modal-desc">Anonymous aggregate activity only. Individual questions, conversations, and identifiers are never shown here.</p>
+            <div class="analytics-content" id="analyticsContent" aria-live="polite">
+                <p class="analytics-status">Loading analytics…</p>
+            </div>
         </div>
     </div>
 

@@ -5,6 +5,7 @@ import asyncio
 import re
 import time
 import random
+import uuid
 from contextlib import asynccontextmanager
 from collections import defaultdict
 from fastapi import FastAPI, Request, HTTPException
@@ -19,6 +20,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from indexer import MNDIndexer
 from guardrails import sanitize_input, validate_output
+from analytics import AnalyticsStore
 from answer_policy import (
     classify_query,
     collect_sources,
@@ -120,6 +122,30 @@ app.add_middleware(
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATIC_DIR = os.path.join(BASE_DIR, "static")
+ANALYTICS_DB_PATH = os.getenv("MND_ANALYTICS_DB_PATH", os.path.join(BASE_DIR, "analytics.db"))
+ANALYTICS_TIMEZONE = os.getenv("MND_ANALYTICS_TIMEZONE", "Australia/Sydney")
+analytics_store = AnalyticsStore(ANALYTICS_DB_PATH, ANALYTICS_TIMEZONE)
+
+
+def _record_chat_analytics(data: dict, message: str, profile_role: str | None) -> tuple[str, str, str]:
+    """Record minimal analytics without allowing storage errors to affect chat."""
+    anonymous_user_id = str(data.get("anonymous_user_id") or uuid.uuid4().hex)
+    conversation_id = str(data.get("conversation_id") or uuid.uuid4().hex)
+    response_id = str(data.get("response_id") or uuid.uuid4().hex)
+    try:
+        analytics_store.record_chat(anonymous_user_id, conversation_id, message, profile_role or "Other")
+    except Exception as exc:
+        print(f"Analytics chat event failed: {exc}", flush=True)
+    return anonymous_user_id, conversation_id, response_id
+
+
+def _empty_analytics() -> dict:
+    return {
+        "total_conversations": {"this_week": 0, "this_month": 0, "all_time": 0},
+        "popular_questions": [],
+        "profile_categories": [],
+        "feedback": {"likes": 0, "dislikes": 0},
+    }
 
 # Load DEEPSEEK_API_KEY from .env file if present
 ENV_FILE = os.path.join(BASE_DIR, ".env")
@@ -402,6 +428,36 @@ async def get_stats():
         "status": "online"
     }
 
+
+@app.get("/api/analytics")
+async def get_analytics():
+    """Return aggregate analytics only; never expose event rows or identifiers."""
+    try:
+        return analytics_store.get_aggregates()
+    except Exception as exc:
+        print(f"Analytics read failed: {exc}", flush=True)
+        return _empty_analytics()
+
+
+@app.post("/api/analytics/feedback")
+async def post_analytics_feedback(payload: dict):
+    if not isinstance(payload, dict):
+        raise HTTPException(status_code=400, detail="Invalid feedback payload")
+    rating = str(payload.get("rating", "")).strip().lower()
+    if rating not in {"like", "dislike"}:
+        raise HTTPException(status_code=400, detail="Feedback must be like or dislike")
+    try:
+        analytics_store.record_feedback(
+            payload.get("anonymous_user_id"),
+            payload.get("response_id"),
+            rating,
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    except Exception as exc:
+        print(f"Analytics feedback write failed: {exc}", flush=True)
+    return {"accepted": True}
+
 @app.get("/api/sources")
 async def get_sources():
     return indexer.catalog_sources()
@@ -492,6 +548,7 @@ async def chat_endpoint(request: Request):
         return StreamingResponse(guard_stream(), media_type="text/event-stream")
     message = guard_res["sanitized_text"]
     policy = classify_query(message, profile_role)
+    _, _, response_id = _record_chat_analytics(data, message, profile_role)
 
     # Fast-path for casual greetings — skip RAG + LLM entirely to save API tokens
     clean_msg = re.sub(r'[^a-z\'\s]', '', message.lower()).strip(" '")
