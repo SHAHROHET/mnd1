@@ -45,6 +45,14 @@ This file documents every major architectural and features change made to the MN
 
 ---
 
+## Public Analytics Privacy Contract
+
+The public Analytics view reports aggregate totals only. It collects a randomly generated browser identifier, a browser conversation identifier, the existing profile role category, normalized questions that do not match obvious private-information patterns, and like/dislike feedback keyed to an anonymous response identifier. Identifiers are hashed before SQLite storage, and the public API never returns identifiers, raw events, IP addresses, profiles, conversation histories, or medical histories.
+
+One conversation is counted once per anonymous user and browser conversation identifier, even when it contains many questions. Popular Questions counts normalized question events, case-insensitive and punctuation-insensitive, and excludes questions containing email addresses, phone-like values, URLs, or common personal-information phrases. Users by Profile counts distinct anonymous users within the existing role categories. Feedback accepts one current vote per anonymous response and allows a later vote change.
+
+The store defaults to `backend/analytics.db`. Production deployments should set `MND_ANALYTICS_DB_PATH` to a persistent Render disk or managed SQLite-compatible volume, and may set `MND_ANALYTICS_TIMEZONE` (default: `Australia/Sydney`). Local development needs no additional package or setup. If analytics storage fails, chat continues and the public view returns empty aggregate values.
+
 ## 🛠️ Git Rollback Reference (How to Revert Changes)
 
 Run these commands from your terminal in `C:\Users\User1\Downloads\MND DATA`:
